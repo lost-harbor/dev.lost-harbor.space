@@ -52,12 +52,15 @@ body.lab-page{display:block;overflow:auto;height:auto;min-height:100vh}
 .lab-card-head{display:flex;justify-content:space-between;gap:8px}
 .lab-card-head span{color:var(--dim);font-size:11.5px}
 .lab-card .blueprint,.lab-card .profile{margin:0}
-.lab-index{max-width:760px;margin:60px auto;padding:0 20px}
-.lab-index h1{font:700 26px var(--brand, var(--sans))}
-.lab-sub{color:var(--dim)}
-.lab-cards{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:20px}
-.lab-cards .lab-card b{font-size:15px}
-.lab-cards .lab-card span{color:var(--dim)}
+.lab-index{max-width:320px;margin:60px auto;padding:0 20px}
+.lab-index h1{display:flex;align-items:center;gap:6px;font:700 22px var(--brand, var(--sans));color:var(--ink2)}
+.lab-links{display:flex;flex-direction:column;gap:8px;margin-top:16px}
+.lab-link{display:flex;align-items:center;gap:10px;padding:11px 14px;border:1px solid var(--line);border-radius:9px;
+  background:var(--panel);color:var(--ink);text-decoration:none;font-size:15px}
+.lab-link .ti{font-size:19px;color:var(--dim)}
+.lab-link .ti-chevron-right{margin-left:auto;font-size:15px;color:var(--faint)}
+.lab-link:hover{border-color:var(--accent);background:var(--panel2)}
+.lab-link:hover .ti{color:var(--accent)}
 .lab-faces-grid{display:grid;gap:10px}
 .lab-face{padding:0;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#11161B}
 .lab-face .portrait{width:100%;height:100%}
@@ -67,6 +70,25 @@ body.lab-page{display:block;overflow:auto;height:auto;min-height:100vh}
   display:flex;flex-direction:column;gap:10px;overflow:auto}
 .lab-seed{font:500 15px var(--mono);user-select:all}
 .lab-detail p{margin:0;color:var(--ink2)}
+.lab-face-pins{width:250px}
+.lab-pin-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px 8px;padding:4px 14px 6px}
+.lab-pin-grid .lab-field select,.lab-pin-grid .lab-field input{width:100%;min-width:0}
+.lab-field.off{opacity:.45}
+.lab-pin-actions{padding:6px 14px}
+.lab-pin-actions .lab-btn:disabled{opacity:.45;cursor:default}
+.lab-pin-note{margin:2px 14px 0}
+.lab-parts{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.lab-part{display:flex;align-items:center;gap:8px;padding:5px 10px;text-align:left;border-top:1px solid var(--line);color:var(--ink)}
+.lab-part:first-child{border-top:0}
+.lab-part span{width:64px;color:var(--dim);font-size:11.5px}
+.lab-part b{flex:1;font-weight:500}
+.lab-part .ti{color:var(--faint);opacity:0}
+button.lab-part:hover{background:var(--panel2)}
+button.lab-part:hover .ti{opacity:1}
+.lab-part.on b,.lab-part.on .ti{color:var(--accent);opacity:1}
+.lab-swatches{display:flex;gap:12px;color:var(--dim);font-size:11.5px}
+.lab-swatch{display:flex;align-items:center;gap:5px}
+.lab-swatch i{width:14px;height:14px;border-radius:4px;border:1px solid var(--line2)}
 /* The game draws the profile at a fixed pixel size. The lab lets it fill
    the column so small details show. */
 .lab-card .profile svg{width:100%;height:auto;max-height:90px}
