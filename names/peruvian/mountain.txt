@@ -1,0 +1,5000 @@
+Negro	83
+Colorado	75
+Blanco	58
+Calvario	44
+Grande	43
+Portachuelo	43
+Pucara	40
+Peña Blanca	36
+Santa Rosa	36
+Campana	35
+Potrero	35
+Pucará	34
+San Cristobal	32
+Mirador	31
+Chonta	28
+Cruz	28
+San Antonio	28
+Prieto	26
+San Cristóbal	25
+Mina	24
+Apacheta	23
+Redondo	23
+Yanacocha	23
+San Francisco	22
+Infiernillo	21
+Pelado	20
+San Juan	20
+Sayhua	19
+Yana Orcco	19
+Santa Cruz	18
+Toro	18
+Yanaorcco	18
+Buena Vista	17
+Campanayoc	17
+San José	17
+San Pedro	17
+Yanaorco	17
+Buenavista	16
+Escalera	16
+Piedra Blanca	16
+Puca Orcco	16
+Botija	15
+Calera	15
+Campanario	15
+Chila	15
+Chuaña	15
+Cruz Pata	15
+Huamanripa	15
+Pucacocha	15
+Carrizal	14
+Chaquicocha	14
+Condori	14
+Gordo	14
+Naranjo	14
+Pedregal	14
+Punta	14
+San Lorenzo	14
+Totora	14
+Arena	13
+Loma Grande	13
+Loma Larga	13
+Lomas	13
+Millpo	13
+Patacancha	13
+San Miguel	13
+Venado	13
+Ventanilla	13
+Chaupiloma	12
+Contadera	12
+Ichocollo	12
+Mal Paso	12
+Minas	12
+Pabellón	12
+Salinas	12
+Tranca	12
+Tres Cruces	12
+Verde	12
+Cuncayoc	11
+Huamani	11
+Lindero	11
+Malpaso	11
+Pajonal	11
+Puca Puca	11
+Quimsachata	11
+Santa Ana	11
+Sillapata	11
+Tororumi	11
+Yana Orjo	11
+Azul	10
+Buenos Aires	10
+Buitre	10
+Capilla	10
+Colorados	10
+Condorillo	10
+Cruz Punta	10
+Cuchilla	10
+Huamanripayoc	10
+Mesapata	10
+Mira	10
+Palca	10
+Piruro	10
+Pucaloma	10
+Rumichaca	10
+San Andrés	10
+Sauce	10
+Sorapata	10
+Verdecocha	10
+Yahuarcocha	10
+Yanaorjo	10
+Yuraccancha	10
+Alto	9
+Balcón	9
+Batán	9
+Cantera	9
+Caracollo	9
+Castillo	9
+Centinela	9
+Culebra	9
+Fraile	9
+Hichocollo	9
+Higuerón	9
+Mojón	9
+Pucaccacca	9
+Pucapuca	9
+Rumicruz	9
+Santa Catalina	9
+Tinajones	9
+Tres Puntas	9
+Yanama	9
+Yanamachay	9
+Congona	8
+Crucero	8
+Cuesta	8
+Cuevas	8
+Gallinazo	8
+Huacas	8
+Huanaco	8
+Jerusalén	8
+Lomo Largo	8
+Mesa	8
+Morococha	8
+Paccha	8
+Pampa Grande	8
+Patahuasi	8
+Pillune	8
+Pongo	8
+Pucaccasa	8
+Pumaranra	8
+Quishuar	8
+Salado	8
+Tunal	8
+Viuda	8
+Yaurilla	8
+Yesera	8
+Alto Grande	7
+Bandera	7
+Cabuyal	7
+Calabozo	7
+Caña Brava	7
+Cardo	7
+Cóndor	7
+Condorhuachana	7
+Cushuro	7
+Encanto	7
+Hualtacal	7
+Huaytapallana	7
+Inca	7
+Loma Blanca	7
+Minasnioc	7
+Molle	7
+Paria	7
+Piruruyoc	7
+Portillo	7
+Puca	7
+Pucaorco	7
+Putaca	7
+Quiullacocha	7
+Rangra	7
+Sani	7
+Sombrero	7
+Ticlla	7
+Torre	7
+Totoral	7
+Tutumo	7
+Ventana	7
+Viejo	7
+Virgen	7
+Yanacaca	7
+Yanacancha	7
+Yanajaja	7
+Anta	6
+Antacollo	6
+Azulcocha	6
+Bellavista	6
+Callejón	6
+Caracoles	6
+Carnicero	6
+Cascajal	6
+Cerrillos	6
+Chontas	6
+Cochapata	6
+Condor	6
+Condorsayana	6
+Corona	6
+Cruzpata	6
+Cruzpunta	6
+Cumbre	6
+Gigante	6
+Huambo	6
+Ichupata	6
+Jatun Loma	6
+Jatun Pampa	6
+Jatunloma	6
+Largo	6
+Loma	6
+Lúcumo	6
+Maray	6
+Matara	6
+Miraflores	6
+Mocho	6
+Padre	6
+Palo Blanco	6
+Pampa	6
+Parco	6
+Peña Negra	6
+Pichacane	6
+Piedra Grande	6
+Potrerillo	6
+Pueblo Viejo	6
+Ranra	6
+Rinconada	6
+Salvajudo	6
+San Pablo	6
+Santa María	6
+Santo Domingo	6
+Seca	6
+Sillaccasa	6
+Tambo	6
+Tanca	6
+Tierra Blanca	6
+Trapiche	6
+Tres	6
+Vizcachas	6
+Yanajirca	6
+Yanapaccha	6
+Zorro	6
+Aguada	5
+Alumbre	5
+Angostura	5
+Antapuna	5
+Arenal	5
+Balcones	5
+Barranco	5
+Bombón	5
+Cabras	5
+Candela	5
+Canoas	5
+Cantagallo	5
+Caranga	5
+Carcapata	5
+Carhua	5
+Chocco	5
+Choco	5
+Chontacollo	5
+Cochas	5
+Collpa	5
+Condorjaja	5
+Condormarca	5
+Condorsenca	5
+Condorsenja	5
+Condortiana	5
+Convento	5
+Corazón	5
+Corrales	5
+Cortaderas	5
+Cuchimachay	5
+Culebras	5
+Cunca	5
+Cuyoc	5
+Escalón	5
+Escorsonera	5
+Gavilán	5
+Gigantal	5
+Gramadal	5
+Huaca	5
+Huaco	5
+Huamanmarca	5
+Huanca	5
+Huarhuar	5
+Huayllapata	5
+Huayllayoc	5
+Jaguay	5
+Jatunpata	5
+Laja	5
+León	5
+Lima Lima	5
+Llamacancha	5
+Loma Redonda	5
+Mamajirca	5
+Manga	5
+Marca	5
+Maucallacta	5
+Medio	5
+Mollepata	5
+Monterayoc	5
+Montura	5
+Morado	5
+Muerto	5
+Muralla	5
+Palto	5
+Pampa Blanca	5
+Papas	5
+Patacocha	5
+Patara	5
+Pedregoso	5
+Peña	5
+Peña Colorada	5
+Peñón	5
+Perdido	5
+Piedra Parada	5
+Piedras	5
+Pinculluyoc	5
+Pishcapuquio	5
+Potosí	5
+Pucacaca	5
+Pucacancha	5
+Pucacruz	5
+Pucagaga	5
+Pucamachay	5
+Pumahuilca	5
+Puyhuan	5
+Quemado	5
+Quitasol	5
+Ramada	5
+Rayusca	5
+Repartición	5
+Salvajal	5
+San Luis	5
+Santa Clara	5
+Santa Maria	5
+Santiago	5
+Sillajasa	5
+Tigre	5
+Tiza	5
+Tolapata	5
+Torrecillas	5
+Tres Picos	5
+Viscas	5
+Vista Alegre	5
+Yanacoto	5
+Yanajanca	5
+Yuraccasa	5
+Abra	4
+Acchi	4
+Acco	4
+Águila	4
+Algarrobo	4
+Almendro	4
+Alto Negro	4
+Alto Perú	4
+Alumbral	4
+Anchacata	4
+Andamayo	4
+Antaccacca	4
+Antacocha	4
+Antajave	4
+Ayamachay	4
+Ballena	4
+Banderayoc	4
+Barco	4
+Brujas	4
+Burros	4
+Cabeza de Toro	4
+Cabracancha	4
+Cahuituyoc	4
+Calavera	4
+Caldera	4
+Capillayoc	4
+Caracol	4
+Carmona	4
+Carpa	4
+Carpas	4
+Chachacoma	4
+Chapo	4
+Chaupi Orcco	4
+Chaupi Orjo	4
+Chicuruyoc	4
+Chipta	4
+Chirimoyo	4
+Chivato	4
+Chorro Blanco	4
+Chuañuma	4
+Chullo	4
+Chuñuna	4
+Cochajasa	4
+Colpa	4
+Conchudo	4
+Condoray	4
+Condorcencca	4
+Condoriqueña	4
+Coronado	4
+Corral Pata	4
+Cruz Verde	4
+Cuesta Blanca	4
+Cuesta Pata	4
+Cueva	4
+Cunyac	4
+Feet	4
+Frontón	4
+Gallo	4
+Garita	4
+Golondrina	4
+Guanábano	4
+Guineal	4
+Guineo	4
+Hornillo	4
+Huacoto	4
+Huamanrripa	4
+Huamash Punta	4
+Huampo	4
+Huancane	4
+Huancarama	4
+Huancarane	4
+Huanupata	4
+Huar Huar	4
+Huasca	4
+Huasimal	4
+Hueco	4
+Ichu	4
+Incahuasi	4
+Jachacollo	4
+Jaima	4
+Jatun Orjo	4
+Jatunccacca	4
+Jatunjasa	4
+Jatunorjo	4
+Jatunpunta	4
+Jerusalen	4
+Jochapata	4
+Joya	4
+Lacsha	4
+Lajas	4
+Las Cuchillas	4
+Las Lomas	4
+Llactapata	4
+Llallahui	4
+Llipta	4
+Loma Negra	4
+Maraypata	4
+Marcana	4
+Marcani	4
+Matacocha	4
+Médanos	4
+Miramar	4
+Molles	4
+Mulato	4
+Narizón	4
+Orcón	4
+Pabellon	4
+Paca	4
+Palmadera	4
+Pampa Afuera	4
+Pampa Larga	4
+Pampahuasi	4
+Panteón	4
+Patococha	4
+Paucar	4
+Pavas	4
+Perol	4
+Peroles	4
+Piedra Negra	4
+Pillo	4
+Pillone	4
+Pincullo	4
+Porvenir	4
+Pozo	4
+Puca Punta	4
+Pucajaja	4
+Pucaorcco	4
+Pucaorjo	4
+Pucapata	4
+Pucapunta	4
+Pucaranra	4
+Puncuyoc	4
+Punta Colorada	4
+Puntilla	4
+Puquio	4
+Purgatorio	4
+Quebrada Honda	4
+Quichque	4
+Quilca	4
+Quishuarani	4
+Rayuscca	4
+Sachayoc	4
+Sacsa	4
+Saihua	4
+San Ignacio	4
+San Isidro	4
+San Jacinto	4
+San Lucas	4
+Santa Bárbara	4
+Sausal	4
+Serrano	4
+Sillacasa	4
+Sillane	4
+Suerococha	4
+Tauca	4
+Tembladera	4
+Tinajas	4
+Tongo	4
+Torre Punta	4
+Torres	4
+Trancapata	4
+Tunas	4
+Tunga	4
+Uco	4
+Uña de Gato	4
+Vilacollo	4
+Vilacunca	4
+Viña	4
+Viscacha	4
+Viscachane	4
+Vizcacha	4
+Yanachacca	4
+Yanarangra	4
+Yerba Buena	4
+Yuraccacca	4
+Yuracmarca	4
+Acchihuachana	3
+Acocasa	3
+Afilador	3
+Ahorcado	3
+Alcamarine	3
+Alto Blanco	3
+Amarillo	3
+Ananta	3
+Ancocollo	3
+Andamarca	3
+Antaccasa	3
+Antaloma	3
+Antamarca	3
+Arapa	3
+Arequipa	3
+Atalaya	3
+Atojhuachanan	3
+Auquihuato	3
+Auquimarca	3
+Auquisa	3
+Ayra	3
+Azúl	3
+Balconcillo	3
+Barbasco	3
+Barroso	3
+Batanes	3
+Boquerón	3
+Botijane	3
+Bravo	3
+Bravos	3
+Bronce	3
+Buitres	3
+Caballo Blanco	3
+Cabezón	3
+Cabra	3
+Cabrero	3
+Cahuamarca	3
+Cajas	3
+Cajones	3
+Calientes	3
+Callas	3
+Callejn	3
+Campanas	3
+Cañas	3
+Canicora	3
+Canteras	3
+Capaco	3
+Capitana	3
+Caquilluco	3
+Carabaya	3
+Caracha	3
+Carbón	3
+Carbonera	3
+Cardos	3
+Carhuac	3
+Carhuancho	3
+Carnicería	3
+Cashapata	3
+Caucho	3
+Cayrachin	3
+Ccasa	3
+Cedro	3
+Cenicero	3
+Ceniza	3
+Chacracancha	3
+Chaja	3
+Chaupi	3
+Chaupijirca	3
+Chaupiorcco	3
+Chepén	3
+Chicta	3
+Chilca	3
+Chilcane	3
+Chillhua	3
+Chinchillane	3
+Chita	3
+Choloque	3
+Chontani	3
+Chorrera	3
+Chorrillos	3
+Chuca	3
+Chucto	3
+Chumpe	3
+Chupa	3
+Chuspi	3
+Cieneguilla	3
+Cochapampa	3
+Coche	3
+Cofrada	3
+Colca	3
+Collona	3
+Concha	3
+Condor Sayana	3
+Condorcarca	3
+Condorsencca	3
+Conejo	3
+Conga	3
+Coronilla	3
+Corral Grande	3
+Coscomba	3
+Crestón	3
+Cria	3
+Cruz Blanca	3
+Cuchicancha	3
+Cuchillas	3
+Cuchipata	3
+Culebrilla	3
+Culebrillas	3
+Cullec	3
+Cuncash	3
+Cuncush	3
+Cunuca	3
+Cuyo	3
+Escalerayoc	3
+Esperanza	3
+Espinal	3
+Esquina	3
+Estrella	3
+Fierro Cruz	3
+Fila	3
+Gallina	3
+Gentilar	3
+Gentiles	3
+Guayaquil	3
+Guitarra	3
+Hierba Buena	3
+Huabal	3
+Huacán	3
+Huachhua	3
+Huachhualla	3
+Huachuamachay	3
+Huacra	3
+Huacramarca	3
+Huacrash	3
+Huacrish	3
+Hualtaco	3
+Huamash	3
+Huaña	3
+Huanacaure	3
+Huanacune	3
+Huancapata	3
+Huancas	3
+Huanchuy	3
+Huanin	3
+Huarangal	3
+Huarato	3
+Huarmicocha	3
+Huascacocha	3
+Huascarán	3
+Huasi	3
+Huayllajirca	3
+Huayta	3
+Huayuri	3
+Huinac Punta	3
+Huiruhuiru	3
+Huirush	3
+Huiscachayoc	3
+Huishcash	3
+Huito	3
+Ichicpunta	3
+Ichoccollo	3
+Ichuloma	3
+Ichupampa	3
+Illapata	3
+Illayoc	3
+Iscay Cruz	3
+Jaboncillo	3
+Jahuay	3
+Jaime	3
+Jallhua	3
+Jancapata	3
+Japo	3
+Jardín	3
+Jatumpata	3
+Jatun	3
+Jatun Jirca	3
+Jatun Punta	3
+Jatunpunco	3
+Jencho	3
+Jircacancha	3
+Jurao	3
+Jurau	3
+Lanque	3
+Laramani	3
+Leche	3
+Lechuza	3
+Leones	3
+Limón	3
+Llacsa	3
+Llactayoc	3
+Llallahua	3
+Llallek	3
+Llamapashillun	3
+Llipllina	3
+Llorón	3
+Loma La Buitrera	3
+Loro	3
+Lucmani	3
+Lucmo	3
+Luntumarca	3
+Machaynioc	3
+Machete	3
+Machocruz	3
+Manzano	3
+Maraynioc	3
+Mata Caballo	3
+Mata Mata	3
+Mauras	3
+Mendoza	3
+Mercedes	3
+Mesa Pata	3
+Milpo	3
+Mina Punta	3
+Minapata	3
+Minasniyoc	3
+Minaspata	3
+Mito	3
+Mochadero Chico	3
+Molla	3
+Montón de Trigo	3
+Morro	3
+Muchca	3
+Muña	3
+Muñanca	3
+Muqui	3
+Murciélago	3
+Mushca	3
+Navarro	3
+Negro Punta	3
+Oberal	3
+Ojoro	3
+Ollería	3
+Olleros	3
+Ongoro	3
+Oro	3
+Pabellones	3
+Pachón	3
+Pacobamba	3
+Pacocahua	3
+Pacush	3
+Pagrapagra	3
+Pajare	3
+Pallanca	3
+Palma Cruz	3
+Palmas	3
+Palo	3
+Pampa Redonda	3
+Pampas	3
+Papa	3
+Paracsha	3
+Parcacirca	3
+Paredones	3
+Parihuana	3
+Pativilca	3
+Paucaray	3
+Peñas	3
+Pericos	3
+Pesjofiana	3
+Pichacani	3
+Pichihua	3
+Picho	3
+Piedra	3
+Piedra Imán	3
+Piedra Redonda	3
+Piedras Gordas	3
+Pilluni	3
+Piñas	3
+Pindo	3
+Pintado	3
+Pircas	3
+Pirhua	3
+Pirhua Pirhua	3
+Pirhualla	3
+Pirualla	3
+Pishtac	3
+Pisquillo	3
+Platanal	3
+Plaza	3
+Pochco	3
+Pucacunca	3
+Pucajirca	3
+Pucapampa	3
+Pucarilla	3
+Pucuy	3
+Puerta	3
+Pumahuain	3
+Pumahuasi	3
+Pumani	3
+Punco	3
+Punta Blanca	3
+Punto	3
+Putcacocha	3
+Puypuy	3
+Quello Quello	3
+Quenua	3
+Queñua	3
+Quequesane	3
+Quimsacruz	3
+Quinuacocha	3
+Quinual	3
+Ramos	3
+Rancholoma	3
+Rayuna	3
+Rima Rima	3
+Rimarima	3
+Rodeopampa	3
+Romero	3
+Rumi Cruz	3
+Runa Runa	3
+Runaruna	3
+Sacsani	3
+Sal	3
+Salina	3
+Salitral	3
+Salitre	3
+Salla	3
+San Andres	3
+San Bartolo	3
+San Diego	3
+San Fernando	3
+San Jerónimo	3
+San Nicolás	3
+San Vicente	3
+Santa Barbara	3
+Saquicocha	3
+Sara Sara	3
+Seco	3
+Shayhua	3
+Silencio	3
+Silla	3
+Sillacunca	3
+Socosani	3
+Solimana	3
+Sombrerito	3
+Sombreruyoc	3
+Succha	3
+Sucna	3
+Suitococha	3
+Sullcaymarca	3
+Sura	3
+Talavacas	3
+Talta	3
+Tambillo	3
+Tambo Real	3
+Tambor	3
+Tanga	3
+Tapo	3
+Tarucamarca	3
+Tarucani	3
+Tasta	3
+Taya	3
+Tayapata	3
+Tello	3
+Ticani	3
+Tinco	3
+Titimina	3
+Toldorumi	3
+Torrepunta	3
+Torrioc	3
+Tortuga	3
+Trancas	3
+Tronador	3
+Tubo	3
+Tucapa	3
+Tuco	3
+Tucomachay	3
+Túnel	3
+Uchcumachay	3
+Uchuhuani	3
+Uma	3
+Unión	3
+Ururupa	3
+Valiente	3
+Varas	3
+Veladero	3
+Ventanayoc	3
+Vicuñita	3
+Vilcallama	3
+Vinchos	3
+Viscachayoc	3
+Vizcachane	3
+Yana	3
+Yana-orcco	3
+Yanaccacca	3
+Yanaccocha	3
+Yanachuccho	3
+Yanagaga	3
+Yanahuilca	3
+Yanapiruru	3
+Yanapuquio	3
+Yanaranra	3
+Yanasalla	3
+Yantapallana	3
+Yapana	3
+Yapatera	3
+Yugo	3
+Yurac Ccacca	3
+Yurac Cruz	3
+Yurajaja	3
+Zapata	3
+Zapayal	3
+Acco Ccasa	2
+Acco Orcco	2
+Accocasa	2
+Accoccasa	2
+Accopata	2
+Achupalla	2
+Acluchaca	2
+Acococha	2
+Acolaca	2
+Acomachay	2
+Agua Dulce	2
+Agua Salada	2
+Aguadapata	2
+Ahuiñay	2
+Ahuiñay Calvario Minas	2
+Airampal	2
+Ajoccasa	2
+Ajochupa	2
+Ajoloma	2
+Alampa	2
+Alcamarini	2
+Algarrobal	2
+Alisal	2
+Almacén	2
+Alpacoto	2
+Altar	2
+Altarane	2
+Alto de La Alianza	2
+Alto de las Cochas	2
+Alto del Toro	2
+Alto Poquera	2
+Altos	2
+Altos del Gramadal	2
+Altos Machay	2
+Amancaes	2
+Amapola	2
+Amaro	2
+Amaruyoj	2
+Ampejito	2
+Anaspampa	2
+Ancahuachana	2
+Ancahuachanan	2
+Ancapahuachanan	2
+Ancasmarca	2
+Anco	2
+Ancocahua	2
+Ancocala	2
+Ancocalani	2
+Ancopuma	2
+Andamachay	2
+Angeles	2
+Ango	2
+Angoripa	2
+Aniams	2
+Animas	2
+Antabamba	2
+Antacancha	2
+Antachuco	2
+Antacoto	2
+Antacucho	2
+Antaga	2
+Antahualcan	2
+Antahuanca	2
+Antahuaro	2
+Antajarane	2
+Antajasa	2
+Antalla	2
+Antallpa	2
+Antane	2
+Antapalca	2
+Antapampa	2
+Antapite	2
+Anticona	2
+Apachetayoc	2
+Apipampa	2
+Aputinya	2
+Araña	2
+Aranhuasa	2
+Arara	2
+Arco Punco	2
+Arenas	2
+Arenilla	2
+Arenoso	2
+Arpaya	2
+Arpayoc	2
+Arquillo	2
+Artisayoc	2
+Asinga	2
+Asiruyoj	2
+Asma	2
+Astillero	2
+Atacocha	2
+Atahualpa	2
+Atajo	2
+Atocsayco	2
+Atravezado	2
+Atumpampa	2
+Atunpampa	2
+Augash	2
+Auquin	2
+Auquitaipe	2
+Aya Orjo	2
+Ayac	2
+Ayacos	2
+Aymará	2
+Azogue	2
+Azufre	2
+Balcon	2
+Balconpata	2
+Balsa	2
+Banco	2
+Banderas	2
+Bandurria	2
+Bandurrias	2
+Barbascal	2
+Barbones	2
+Barranco Colorado	2
+Barrera	2
+Barrio Nuevo	2
+Bartolo	2
+Baúl	2
+Bella Vista	2
+Berraco	2
+Blanca	2
+Bocana	2
+Botadero	2
+Bruja	2
+Brujito	2
+Brujo	2
+Buitrera	2
+Burro	2
+Caamani	2
+Caballeras	2
+Cabecerayoc	2
+Cabeza de Vaca	2
+Cabeza del Toro	2
+Cabo El Alto	2
+Cacahuara	2
+Cachiyoc	2
+Cactus	2
+Cadena	2
+Cahuana	2
+Cahuaña	2
+Cahuarina	2
+Cairayoc	2
+Caja Lobos	2
+Cajabamba	2
+Cajapuni	2
+Cajón	2
+Cal	2
+Calashpunta	2
+Calatos	2
+California	2
+Callajasa	2
+Callán	2
+Callanca	2
+Callanga	2
+Callango	2
+Callapa	2
+Callash	2
+Calle	2
+Callejones	2
+Calpa	2
+Calucan	2
+Camata	2
+Camote	2
+Campamento	2
+Campanani	2
+Canay	2
+Cañay	2
+Canchapata	2
+Canchuvilca	2
+Cangallo	2
+Canovitas	2
+Cansa Caballo	2
+Canta Gallo	2
+Capadero	2
+Capto	2
+Cara Cara	2
+Carabamba	2
+Carachuco	2
+Caramolle	2
+Caranca	2
+Carbajal	2
+Carbón Mina	2
+Cargapacana	2
+Carhuacocha	2
+Carhuaconga	2
+Carhuas	2
+Caricari	2
+Carmela	2
+Carmen	2
+Carnero	2
+Carpintero	2
+Carretera	2
+Carricillo	2
+Carrizalillo	2
+Carrizo	2
+Casa Quemada	2
+Casacancha	2
+Casamarca	2
+Cascoso	2
+Catacora	2
+Catarindo	2
+Cateador	2
+Caudalosa	2
+Cauque	2
+Cayapunta	2
+Caycho	2
+Ccaccia	2
+Ccaisampo	2
+Ccalachiuche	2
+Ccarapata	2
+Ccatuncceua	2
+Ccayarayoc	2
+Ccello Punta	2
+Cceualoma	2
+Ccochapampa	2
+Cebadero	2
+Cebadilla	2
+Celele	2
+Cementerio	2
+Ceñiga	2
+Cenizos	2
+Cerani	2
+Cerezo	2
+Cerrillos Blancos	2
+Chaca	2
+Chaca Punta	2
+Chacacunca	2
+Chacallo	2
+Chacamarca	2
+Chacarilla	2
+Chacas	2
+Chachacumani	2
+Chachane	2
+Chachapoyas	2
+Chacmana	2
+Chaco	2
+Chacra Chacra	2
+Chahuarane	2
+Chalanmache	2
+Chalhuacocha	2
+Chalhuayoc	2
+Chamos	2
+Chancara	2
+Chapa	2
+Chapas	2
+Chaqueloma	2
+Chaqui	2
+Chaquijocha	2
+Charán	2
+Charaque	2
+Charca	2
+Chascaorco	2
+Chascoso	2
+Chauca	2
+Chaucalla	2
+Chauchas	2
+Chaupe	2
+Chaupi Loma	2
+Chaupijasa	2
+Chaupipunta	2
+Checche	2
+Checcheorcco	2
+Chero	2
+Cherrelique	2
+Chicote	2
+Chilacancha	2
+Chilcapata	2
+Chilco	2
+Chillibisane	2
+Chillincane	2
+Chillo	2
+Chillón	2
+Chinchango	2
+Chinto	2
+Chipa	2
+Chiquia Pampa	2
+Chirimachay	2
+Chiripampa	2
+Chivo	2
+Chocca	2
+Chocce	2
+Chocopata	2
+Chogoragra	2
+Chojec	2
+Chontacruz	2
+Chontalla	2
+Choquechampi	2
+Chorro	2
+Chuana	2
+Chuccho	2
+Chuchaucruz	2
+Chuchullo	2
+Chuco	2
+Chugures	2
+Chujune	2
+Chujupata	2
+Chulluncane	2
+Chuncho	2
+Chunchos	2
+Chungo	2
+Chunque	2
+Chuntas	2
+Chunua	2
+Chupapata	2
+Churilaca	2
+Churivicho	2
+Churo	2
+Churucos	2
+Churupunta	2
+Churusca	2
+Chuscococha	2
+Chuspa	2
+Chuycho	2
+Cimarrón	2
+Cinchado	2
+Cinco	2
+Cinco Cruces	2
+Cobre Mina	2
+Cochayoc	2
+Coco	2
+Cofradia	2
+Colepampa	2
+Collac	2
+Collique	2
+Collpapampa	2
+Collpata	2
+Colo	2
+Colorada	2
+Colorado Chico	2
+Colorado Grande	2
+Colpar	2
+Colparane	2
+Comas	2
+Compuerta	2
+Conchas	2
+Conchitas	2
+Concho	2
+Concordia	2
+Condor Pununan	2
+Condorbamba	2
+Condorcocha	2
+Condorcoto	2
+Condorhuain	2
+Cóndorhuain	2
+Condorine	2
+Condoriquiña	2
+Condorjasa	2
+Condorpuna	2
+Condorpuñuna	2
+Condorquiña	2
+Condorsallana	2
+Condorsenga	2
+Condortana	2
+Cóndortiana	2
+Congoña	2
+Congopata	2
+Contadero	2
+Contay	2
+Contuyoc	2
+Copa	2
+Copachacua	2
+Corados	2
+Corahuaya	2
+Cordillera	2
+Cordillera Cahuapanas	2
+Cordillera Chaupi Janca	2
+Cordillera Negra	2
+Cordillera San Carlos	2
+Cordillera San Matías	2
+Cordillera Yanachaga	2
+Corihuairachina	2
+Cornetero	2
+Coropuna	2
+Corralón	2
+Corralones	2
+Corralpata	2
+Corre Viento	2
+Cortadera	2
+Cortaderal	2
+Cortezo	2
+Coscontire	2
+Coshipiari	2
+Cotañane	2
+Coymolache	2
+Crespo	2
+Crucita	2
+Cruz Jasa	2
+Cruz Jirca	2
+Cruz Pampa	2
+Cruzado	2
+Cuajone	2
+Cuarzo	2
+Cuchara	2
+Cuculí	2
+Cuello Cruz	2
+Cuesta Colorada	2
+Cuesta de Locumba	2
+Cuesta del Diablo	2
+Cueva de León	2
+Cueva Negra	2
+Culebrayoc	2
+Culluna	2
+Cumbrera	2
+Cumo	2
+Cunduruma	2
+Cuno Cuno	2
+Cunuja	2
+Cura	2
+Curo	2
+Curupata	2
+Cushuruyoc	2
+Cuyes	2
+Derrumbo	2
+Despensa	2
+Diablo	2
+Dominga	2
+Dos Puntas	2
+Encañada	2
+Encantados	2
+Ensillada	2
+Erapata	2
+Eraurco	2
+Ereo	2
+Escalón Punta	2
+Eslabón	2
+Estacas	2
+Estanque	2
+Estribo	2
+Faique	2
+Fajado	2
+Falda Grande	2
+Fama	2
+Febres	2
+Fierro Mina	2
+Fila Alta	2
+Fila de Redondo	2
+Flecha	2
+Florida	2
+Fortuna	2
+Frejol	2
+Frejolito	2
+Galeones	2
+Gallinazos	2
+Gallo Huaganan	2
+Galluyoc	2
+Gangolar	2
+Garbanzo Cancha	2
+Garrapata	2
+Garzas	2
+Gato	2
+Gentil	2
+Gloria	2
+Golondrino	2
+Goyo	2
+Grillo	2
+Grita Lobos	2
+Gruta	2
+Gualtacal	2
+Guanillo	2
+Guayabilla	2
+Guayabo	2
+Hormigas	2
+Horno	2
+Hornopampa	2
+Horquetilla	2
+Hospicio	2
+Huaca Blanca	2
+Huacano	2
+Huacarumi	2
+Huachac	2
+Huachualla	2
+Huachulla	2
+Huachuma	2
+Huacracocha	2
+Huacre	2
+Huacuto	2
+Huaillaccocha	2
+Huaillahuasi	2
+Huairuros	2
+Hualanca	2
+Hualas	2
+Huallaccasa	2
+Huallatane	2
+Huallhua	2
+Hualmay	2
+Huamachuco	2
+Huamampa Tianan	2
+Huamampinta	2
+Huaman Huire	2
+Huaman Marca	2
+Huamanhuachana	2
+Huamani Loma	2
+Huamanpinta	2
+Huamanruro	2
+Huamantanga	2
+Huamantirca	2
+Huambacho	2
+Huamilache	2
+Huampucoto	2
+Huanacauri	2
+Huanca Punta	2
+Huancahuanca	2
+Huancamarca	2
+Huancamayo	2
+Huancaray	2
+Huancarumi	2
+Huancash	2
+Huancavelica	2
+Huanculla	2
+Huancune	2
+Huandoy	2
+Huangara	2
+Huanhua	2
+Huanuhuasi	2
+Huañuma	2
+Huaquilla	2
+Huaquillas	2
+Huara	2
+Huaracayoc	2
+Huaracco	2
+Huarajuyoc	2
+Huarana	2
+Huaranguilla	2
+Huaranguillo	2
+Huarapo	2
+Huarcayoc	2
+Huarhuanchani	2
+Huarichaca	2
+Huaricocha	2
+Huaricunca	2
+Huariumaña	2
+Huarpo	2
+Huasipara Chico	2
+Huatana	2
+Huatocay	2
+Huayabal	2
+Huayaccasa	2
+Huayanay	2
+Huayanshe	2
+Huayca	2
+Huaycha	2
+Huaychahui	2
+Huaychau	2
+Huaylas	2
+Huaylillas	2
+Huaylla	2
+Huaylla Apacheta	2
+Huaylla Punta	2
+Huayllacancha	2
+Huayllacha	2
+Huayllachane	2
+Huayllachayoi	2
+Huayllapa	2
+Huayllapampa	2
+Huaylloma	2
+Huayna Punco	2
+Huaynaso	2
+Huaypira	2
+Huayranan	2
+Huayrapata	2
+Huaytaloma	2
+Huaytapallaco	2
+Huaytapata	2
+Huaytayoc	2
+Huayunca	2
+Huila Huila	2
+Huilamocco	2
+Huilcapunta	2
+Huilque	2
+Huinac	2
+Huinchos	2
+Huinso	2
+Huirunay	2
+Huisca	2
+Huiscachane	2
+Huisco	2
+Huishca	2
+Ichu Orjo	2
+Ichumita	2
+Ichuorcco	2
+Ichurutuna	2
+Idolo	2
+Iguaguanal	2
+Ihuanco	2
+Illapani	2
+Inca Puquio	2
+Incache	2
+Incacorral	2
+Incapuquio	2
+Inchupalla	2
+Inchurana	2
+Ingenio	2
+Intihuatana	2
+Inyapunta	2
+Iscay Orcco	2
+Iscaycocha	2
+Iscaycruz	2
+Iscococha	2
+Ishanca	2
+Jachapata	2
+Jachasirca	2
+Jachipunta	2
+Jacinto	2
+Jahui	2
+Jaico	2
+Jaisura	2
+Jajapaqui	2
+Jallachi	2
+Janca Punta	2
+Jancacuta	2
+Jancocala	2
+Japaso	2
+Japuta	2
+Jaracoto	2
+Jarampa	2
+Jaruma	2
+Jasatuna	2
+Jato	2
+Jatumpampa	2
+Jatumpunta	2
+Jatun Casa	2
+Jatun Cruz	2
+Jatun Pata	2
+Jatun Pucro	2
+Jatun Rumi	2
+Jatuncancha	2
+Jatunccasa	2
+Jatunjaja	2
+Jatunjasha	2
+Jatunjirca	2
+Jayco	2
+Jeajeane	2
+Jechgaloma	2
+Jello Jello	2
+Jenhuajirca	2
+Jerocilla	2
+Jerusalem	2
+Jeshja	2
+Jeullacocha	2
+Jollpapata	2
+Jornada	2
+Jotopuquio	2
+Joyas	2
+Juanas	2
+Juliana	2
+Junco	2
+Junish	2
+Lacsa	2
+Ladera	2
+Laderas	2
+Lagartija	2
+Lagua Puquio	2
+Lagunillas	2
+Lahua Lahua	2
+Laigua	2
+Lairamarca	2
+Lajrata	2
+Lamar	2
+Lambras	2
+Lan Lan	2
+Lanche	2
+Lapra	2
+Laque	2
+Larga	2
+Lauca	2
+Laurel	2
+Laurupata	2
+Lecheral	2
+Lecles	2
+Lecles Pampa	2
+León Pata	2
+Leona	2
+Leoncocha	2
+Leslepata	2
+Libros	2
+Licurnique	2
+Limbo	2
+Limoncillo	2
+Lipa	2
+Liriupunta	2
+Llacsacocha	2
+Llacsha	2
+Llacta Orjo	2
+Llallahue	2
+Llamapaca	2
+Llamarada	2
+Llanquiri	2
+Llantac	2
+Llantapallana	2
+Llaulli	2
+Llocallasi	2
+Lloco	2
+Llojepata	2
+Lloque	2
+Lloquepampa	2
+Lluco	2
+Llullucha	2
+Lobos	2
+Loma Alta	2
+Loma Colorada	2
+Loma de La Caleta	2
+Loma del Medio	2
+Loma Pelada	2
+Loma Quemada	2
+Loma Verde	2
+Lomada	2
+Lomas de Jampatuchayoc	2
+Lomas de Marcona	2
+Lomas de Pucará	2
+Lomas Huatiana	2
+Lomas Jochane	2
+Lomas Las Tinajas	2
+Lomas Negras	2
+López	2
+Loreto	2
+Loros	2
+Los Médanos	2
+Lucero	2
+Lucmillo	2
+Lunto	2
+Macas	2
+Machay	2
+Machaypata	2
+Macho Muerto	2
+Machoorcco	2
+Magdalena	2
+Magistral	2
+Magra	2
+Magra Punta	2
+Majasa	2
+Mala Hierba	2
+Mallao	2
+Malle	2
+Malvas	2
+Mamacocha	2
+Mamayaco	2
+Mamelón	2
+Mancacoto	2
+Mancahuarco	2
+Mancallpa	2
+Mancan	2
+Manchara	2
+Manchaylla	2
+Mancohuilca	2
+Mangan	2
+Mangas	2
+Mangle	2
+Manteca	2
+Maquerhua	2
+Maramara	2
+Maranserayoc	2
+Maraybamba	2
+Marayniyoc	2
+Marca Marca	2
+Marcamarca	2
+Marcas Pata	2
+Marco	2
+Mariposa	2
+Maseta	2
+Masqueta	2
+Mata Punta	2
+Matarojasa	2
+Matca	2
+Maychani	2
+Medano	2
+Mejía	2
+Mesa Redonda	2
+Mesaccacca	2
+Mesani	2
+Mesarume	2
+Meseta	2
+Milagro	2
+Millo	2
+Milloc	2
+Millpo Punta	2
+Millpojasa	2
+Milluni	2
+Minas Conga	2
+Minaspunta	2
+Minayoc	2
+Mio	2
+Mirimaya	2
+Misacocha	2
+Mismi	2
+Mitos	2
+Mochadero	2
+Mojinete	2
+Mojone	2
+Mojonnioc	2
+Molde de Queso	2
+Molino	2
+Monja	2
+Monos	2
+Monserrate	2
+Montero	2
+Monterrico	2
+Morada	2
+Morado Allpa	2
+Moreno	2
+Morocollo	2
+Morrillos	2
+Morucaga	2
+Motocachi	2
+Mulapacana	2
+Mulatos	2
+Mullipampa	2
+Munipata	2
+Mushmush	2
+Muyo	2
+Muyo Muyo	2
+Muyoc	2
+Ñagazú	2
+Ñahuín	2
+Ñahuincha	2
+Naranjos	2
+Ñaupe	2
+Ñausacocha	2
+Nazaparco	2
+Negritos	2
+Negro Muerto	2
+Nieves	2
+Ninabamba	2
+Ninacara	2
+Niño	2
+Ñuñunhuayo	2
+Obispo	2
+Occoruro	2
+Ocshacruz	2
+Ocshapata	2
+Ocshapunta	2
+Ocsharutuna	2
+Ojo de Agua	2
+Ollavacas	2
+Orccocancha	2
+Orccohuasi	2
+Orcoña	2
+Organos	2
+Órganos	2
+Orqueta	2
+Oscollo	2
+Ovejas	2
+Pacae	2
+Pacchapampa	2
+Pacchapata	2
+Pacchi	2
+Pachamachay	2
+Pachamuña	2
+Pachona	2
+Pacococha	2
+Pacopacuni	2
+Pacopampa	2
+Padreyoc	2
+Pahuana	2
+Paiche	2
+Palacio	2
+Palayon	2
+Pallana	2
+Palma	2
+Palmira	2
+Palmo	2
+Palo Negro	2
+Palo Santo	2
+Paloma	2
+Paloma Rumi	2
+Palomar	2
+Palomas	2
+Pampa Colorada	2
+Pampa Colorado	2
+Pampa Corral	2
+Pampa Negra	2
+Pampacancha	2
+Pampachacra	2
+Pampacolca	2
+Pampamarca	2
+Pamplona	2
+Panchamaco	2
+Panta	2
+Pantara	2
+Panzón	2
+Papayo	2
+Papelillo	2
+Paraca	2
+Paracas	2
+Páramo	2
+Parapara	2
+Parara	2
+Parccaiso	2
+Parccaorcco	2
+Pariachuco	2
+Pariacoto	2
+Pariahuanca	2
+Pariamachay	2
+Pariamarca	2
+Pariguanas	2
+Pariona	2
+Parja Orcco	2
+Parja Parja	2
+Parra	2
+Pasayito	2
+Pasmarán	2
+Pata Pampa	2
+Patahuay	2
+Patapampa	2
+Patarcocha	2
+Paticorral	2
+Patilla	2
+Patipampa	2
+Pauca	2
+Pauyac	2
+Pay Pay	2
+Pecho	2
+Pechón	2
+Pecoy	2
+Pedernal	2
+Pedro Castillo	2
+Pegoy	2
+Pelagato	2
+Pellejitos	2
+Pellone	2
+Peña Grande	2
+Penca	2
+Pensamiento	2
+Percata	2
+Perla	2
+Perro Muerto	2
+Peruano	2
+Peruro	2
+Pescadores	2
+Peste	2
+Picacho	2
+Picaflor	2
+Pichaca	2
+Pichcapuquio	2
+Pichjapuquio	2
+Pichu	2
+Picota	2
+Pie	2
+Piedra Azul	2
+Piedra Escrita	2
+Piedra Labrada	2
+Piedraiman	2
+Piedras Anchas	2
+Piedras Blancas	2
+Piedras Coloradas	2
+Piedras Negras	2
+Piedrudo	2
+Pila	2
+Pilan	2
+Pilancón	2
+Pilar	2
+Pilcay	2
+Pileta	2
+Piña	2
+Pinculloc	2
+Pincullune	2
+Pinculluyoj	2
+Pinta	2
+Piquimachay	2
+Pirámide	2
+Pircaloma	2
+Piruruyocc	2
+Pisco	2
+Pitec	2
+Piuraico	2
+Pizarras	2
+Plata	2
+Plateado	2
+Plazayoc	2
+Pochcco	2
+Polvorín Punta	2
+Pompurre	2
+Poncho	2
+Porotillo	2
+Portachuelo Grande	2
+Posoco	2
+Potosi	2
+Potreropata	2
+Potusi	2
+Poza	2
+Pozas	2
+Pozo Azul	2
+Puca Orjo	2
+Puca Rumi	2
+Puca Salla	2
+Pucaapacheta	2
+Pucajaga	2
+Pucajasa	2
+Pucaponcho	2
+Pucarumi	2
+Pucasaya	2
+Pucro	2
+Pueblo	2
+Puente	2
+Puercos Grande	2
+Puerta Cholo	2
+Puerto Viejo	2
+Puihuan	2
+Pulpito	2
+Puma Orcco	2
+Puma Puquio	2
+Puma Rangra	2
+Pumacocha	2
+Pumanuta	2
+Pumunuta	2
+Pumurgo	2
+Punas	2
+Puncojasha	2
+Punta Arena	2
+Punta Orcco	2
+Punta Orjo	2
+Punta Paloma	2
+Puntapata	2
+Puntiagudo	2
+Puntón	2
+Punya	2
+Puquios	2
+Puruchuco	2
+Putaga	2
+Putca	2
+Puti	2
+Putina	2
+Putunco	2
+Puy Puy	2
+Puytush	2
+Quecher	2
+Quellhuacocha	2
+Quellhuayocsenja	2
+Quello Orjo	2
+Quellococha	2
+Quemazón	2
+Quepan	2
+Quequesana	2
+Quesera	2
+Quesos	2
+Quiebra	2
+Quihuiri	2
+Quillapampa	2
+Quillarumi	2
+Quillca	2
+Quimahuanca	2
+Quinsachata	2
+Quinua	2
+Quipullin	2
+Quiquisana	2
+Quisco	2
+Quishca	2
+Quishuarcollo	2
+Quispiccahua	2
+Quisque	2
+Quisquipata	2
+Quisuar	2
+Quisuarpucro	2
+Quiulacocha	2
+Racuay	2
+Rafucuta	2
+Rajado	2
+Ramadilla	2
+Ramal de Sira	2
+Rangrapata	2
+Rayos	2
+Rayusga	2
+Rejo	2
+Reloj	2
+Reque	2
+Requintadero	2
+Rico	2
+Riticocha	2
+Rodadero	2
+Rojo	2
+Romerillo	2
+Romero Punta	2
+Rompe Trapo	2
+Rosario	2
+Ruano	2
+Rumiorjo	2
+Runtun	2
+Rupahuasi	2
+Rupahuay	2
+Rupasca	2
+Sabancaya	2
+Sachapata	2
+Sacsahuilca	2
+Sacsaja	2
+Sacsarayoc	2
+Sahuan	2
+Sahuan Punta	2
+Saire	2
+Saladitos	2
+Salaverry	2
+Salla Punta	2
+Sallacancha	2
+Sallaco	2
+Sallalle	2
+Salto	2
+Samana	2
+Sambalay Chico	2
+San Agustin	2
+San Agustín	2
+San Antonio Grande	2
+San Carlos	2
+San Cayetano	2
+San Jose	2
+San Juán	2
+San Julian	2
+San Lazaro	2
+Sancaorco	2
+Sánchez	2
+Sancor	2
+Sanquipata	2
+Santa Cruz Punta	2
+Santa Elena	2
+Santa Punta	2
+Santa Rita	2
+Santa Teresa	2
+Sapo	2
+Sapotal	2
+Sapotitos	2
+Saraccoto	2
+Saramañana	2
+Sarani	2
+Sauche	2
+Sauso	2
+Sayhua Punta	2
+Sayhuaorjo	2
+Sayhuapunta	2
+Seclla	2
+Secseragra	2
+Seminario	2
+Señoraca	2
+Serpiente	2
+Serrucho	2
+Servilleta	2
+Shacsha	2
+Shahuac	2
+Shaihua	2
+Shalacancha	2
+Shihuari	2
+Shiusha	2
+Shoclla	2
+Shucate	2
+Shuito	2
+Shurapunta	2
+Siempreviva	2
+Sillacata	2
+Simarrón	2
+Socabón	2
+Socsolazo	2
+Soldado	2
+Soledad	2
+Solitario	2
+Solivín	2
+Sombreroni	2
+Sombrerune	2
+Soncco	2
+Sopladera	2
+Sora	2
+Soracota	2
+Sorapa	2
+Sorau	2
+Soroche	2
+Soto	2
+Suaptiana	2
+Suirococha	2
+Sural	2
+Surapata	2
+Suro	2
+Surpo	2
+Tabla Cruz	2
+Tablacruz	2
+Tablagaga	2
+Tablón	2
+Tacarpo	2
+Taccrapata	2
+Tacctarpo	2
+Tactapata	2
+Tacune	2
+Tailin	2
+Taipecollo	2
+Tajra	2
+Tala	2
+Talambo	2
+Talla	2
+Tambopata	2
+Tamborcoto	2
+Tamiajasa	2
+Tancuy	2
+Tara	2
+Tarapaca	2
+Tarillo	2
+Tarito	2
+Tarpunga	2
+Taruja	2
+Tasajeras	2
+Tastajasa	2
+Tastani	2
+Taullis	2
+Taypetera	2
+Taza	2
+Tejahuay	2
+Tentación	2
+Tetillas	2
+Ticapallana	2
+Ticcllayocc	2
+Tierra Colorada	2
+Tierra Morada	2
+Timón	2
+Tinaja	2
+Tinajón	2
+Tingo	2
+Tinoyo	2
+Tinquicocha	2
+Tinya	2
+Tinyahuarco	2
+Tiquimbro	2
+Tizal	2
+Toca	2
+Tocanca	2
+Tocash	2
+Tola	2
+Toldo	2
+Tolón	2
+Tomina	2
+Torine	2
+Toro Bravo	2
+Toro Rumi	2
+Torococha	2
+Toronchas	2
+Tororume	2
+Tororunca	2
+Torregaga	2
+Torrejaja	2
+Torreyoc	2
+Tortolitas	2
+Toruyoc	2
+Totorani	2
+Totorayoc	2
+Totorilla	2
+Tragadero	2
+Trampilla	2
+Tranco	2
+Trapecio	2
+Tres Cerritos	2
+Tres Marías	2
+Tres Pavos	2
+Tres Piedras	2
+Trigal	2
+Trinchera	2
+Tucto	2
+Tunac	2
+Tunacancha	2
+Tuno	2
+Tunsho	2
+Tururunca	2
+Uchupata	2
+Uñahuatana	2
+Ushno	2
+Usnopata	2
+Utcush	2
+Ututo Punta	2
+Vaca	2
+Valenciana	2
+Ventanas	2
+Ventanillas	2
+Verde Cocha	2
+Verde Pozo	2
+Verdepuquio	2
+Víbora	2
+Vicuña	2
+Vicuñayoc	2
+Vieja	2
+Viejas	2
+Viento	2
+Vilcacote	2
+Vilcamarca	2
+Vilcas	2
+Villacollo	2
+Viña Vieja	2
+Viracocha	2
+Virahuanca	2
+Visa Visa	2
+Viscachani	2
+Viscachas	2
+Vizcachayoc	2
+Vizcachayoj	2
+Vizcachera	2
+Vizcachune	2
+Volcancillo	2
+Vuelta	2
+Yaiculle	2
+Yale	2
+Yamcay	2
+Yana Orco	2
+Yana Punta	2
+Yana Ranra	2
+Yana Ucsha	2
+Yana Yana	2
+Yanac	2
+Yanacachi	2
+Yanaccaca	2
+Yanahirca	2
+Yanahorcco	2
+Yanahuacra	2
+Yanahuanca	2
+Yanahulo	2
+Yanairca	2
+Yanaloma	2
+Yanalpa	2
+Yanamarcan	2
+Yaname	2
+Yanaoco	2
+Yanaorcco Chico	2
+Yanapadre	2
+Yanapata	2
+Yanapiruro	2
+Yanapunta	2
+Yanarico	2
+Yanarrajo	2
+Yanarumi	2
+Yanashala	2
+Yanashinga	2
+Yanasora	2
+Yanaulo	2
+Yanayacu	2
+Yanayana	2
+Yangas	2
+Yarcan	2
+Yarihuato	2
+Yarito	2
+Yauques	2
+Yayajirca	2
+Yerba Santa	2
+Yerbabuena	2
+Yuncachaca	2
+Yuncan	2
+Yungane	2
+Yurac Caballo	2
+Yurac Corral	2
+Yurac Orcco	2
+Yurac Tambo	2
+Yurac Yurac	2
+Yuraccocha	2
+Yuraccorcco	2
+Yuraccquishca	2
+Yuracmayo	2
+Yuracorcco	2
+Yuracrumi	2
+Yurajanca	2
+Yutucancha	2
+Zapanyoque	2
+Zaparani	2
+Zorritos	2
+Abasorcco
+Acaca
+Acapane
+Acca
+Acco Casa
+Acco Sututo
+Accocunca
+Accopampa
+Achaculli
+Achaguay
+Acharpai
+Achoacho
+Acirune
+Acllaccasa
+Acmancha Punta
+Acoitanca
+Acollán
+Aconcahua
+Acpun
+Acsa Punta
+Acshacoto
+Acujirca
+Acupite
+Acus Cerca
+Afazorete
+Agua Mani
+Agua Perdida
+Aguada del Huanaco
+Aguada Nueva
+Aguas Huarco
+Aguirre
+Ahuiñay Chico
+Aicano
+Airampuyoc
+Ajaruni
+Ajo Orjo
+Ajochacra
+Ajocollo
+Ajocunca
+Ajoillaccasa
+Ajolla
+Ajopichaca
+Ajosnioc
+Alcalca
+Alcapetinga
+Alco Alco
+Algamarca
+Algay
+Alizo
+Aljaraise
+Allahuyoc
+Allanca
+Allcohayoc
+Allcullacu
+Allipampa
+Allpaccasa
+Alma Mendez
+Almaccasa
+Almachayocc
+Alpaccoto
+Alpaorco
+Altarani
+Altiburro
+Altica
+Alto Batán
+Alto de Zarzal
+Alto del Ataque
+Alto del Oro
+Alto del Prado
+Alto El Buitre
+Alto El Pacoreño
+Alto Huantachiri
+Alto Huccha
+Alto Jaquí
+Alto Las Pircas
+Alto Lolihuán
+Altos Capto
+Altos de Calabazo
+Altos de La Punta de Chocol
+Altos de Nasca
+Altos de Pampatá
+Altos de Pucahuayra
+Altos de Pururco
+Altos Lanán
+Altos las Salinas
+Altos Medanos Loma Negra
+Altos Mina
+Altos Quemado
+Altos Sunihuilca
+Alturas Cisara
+Alturas Huashualla
+Alturas La Venta
+Alturas Patarcancha
+Alturas Pitay
+Alvarados
+Amangay
+Amanterani
+Ambayque
+Amcolia
+Amparay
+Ampatu
+Añalayoc
+Anamaray
+Añashuacra
+Anasto
+Anauray
+Anavanza
+Añayanca
+Ancahuachac
+Ancahuasi
+Ancan Punta
+Ancapahuachana
+Ancara
+Ancascocha
+Ancaypite
+Anccosupo
+Ancha Qui
+Anchas Punta
+Ancoacolaya
+Ancocancha
+Ancolahuaccasa
+Ancollalla
+Ancopujo
+Ancoquicha
+Andacancha
+Angana
+Angas
+Angashurco
+Angaspampa
+Angol
+Angoquichca
+Aniapunta
+Animasnioc
+Anja Orcco
+Anjolla
+Ansapahuasi
+Anta Anta
+Anta Loma
+Anta Turia
+Antacayllán
+Antaculpa
+Antagasha
+Antahuracho
+Antalaca
+Antamina
+Antaorcco
+Antarangra
+Antarpus
+Antarumi
+Antasaya
+Antaymarca
+Anticirque
+Antiquillayoc
+Apacheta de Jalacruz
+Apacheta Limani
+Apacheta Mogotito
+Apaiñuñu
+Apallacuy
+Apallay
+Aparca
+Apaypampa
+Apo
+Apoacre
+Apuhuasa
+Apumarca
+Aracachi
+Arailán
+Aranguren
+Araraj
+Ararau
+Aratamoco
+Arbol Seco
+Arca
+Arcunto
+Arec Pata
+Arejocha
+Arenalito
+Arenizo
+Argentina
+Arhuayro
+Aricocha
+Arjalla
+Arpacancha
+Arquena
+Arraipite
+Arteza
+Aruma
+Arundane
+Ashcacocha
+Ashcatranca
+Ashiango
+Asnohuañusja
+Atacalla
+Atacayán
+Atahuillca
+Atajara
+Atajasa
+Atajopata
+Ataoco
+Atarana
+Atarquipa
+Atilio
+Atocongo
+Atojhuarcuna
+Atojsayco
+Atotca
+Atuhuachaña
+Atun Huaracone
+Atun Icma
+Atun Irca
+Atuncoto
+Atupampaloma
+Aucallama
+Auquicucho
+Auquilana
+Auquillana
+Auquinjaga
+Auquirane
+Auquitilanta
+Avanzada Orjo
+Avestruz
+Ayaccasa
+Ayacmacay
+Ayanca
+Ayanloma
+Ayapatapunta
+Ayayaucho
+Ayccaje
+Ayhuin
+Ayo
+Azuelayocc
+Azufranco
+Bajada
+Bajada de Piedras
+Bajada de Toroco
+Balcan
+Balcanioc
+Balcón Chaja
+Banderacasa
+Bandero
+Barlamas Chico
+Barrantes
+Barrio Prieto
+Barro Negro
+Bascoto
+Bateadora
+Batiaucro
+Baulito
+Bejuquero
+Belén
+Belenpatja
+Bell
+Bencasa
+Bería
+Bimbaleti
+Bitín
+Bochote
+Bolas
+Bolo
+Bolon
+Bombillal
+Bomboncito
+Bomboya
+Bonaboy
+Bonanza
+Botica
+Botija Grande
+Botija Paquisga
+Botija Punta
+Botijame
+Bronce Punta
+Brunos
+Burro Muerto
+Caballo Orcco
+Caballo Tuyocc
+Caballoyasnoc
+Cabezas
+Cabildo
+Cabilduyoc
+Cabuyal Chico
+Cacame
+Cacchaorcco
+Cachata
+Cachia Ccasa
+Cachícancha
+Cachinche
+Cachuna
+Cachus
+Cacrapata Llipllina
+Cactiri
+Cafera
+Cahuicancha
+Cajaragra
+Cajonani
+Cajonmachay
+Calabacitos
+Calahuancho
+Calamaca
+Calamarini
+Calanga
+Calanguiño
+Calapatia
+Calaquenhua
+Calcha
+Calicanto
+Callahuuaylla
+Callanca Punta
+Callaocarpeño
+Callaspucara
+Callejon
+Calligue
+Callococha
+Callpirayoc
+Calluni
+Calquijasa
+Calvas
+Calvayuque
+Calza
+Cama
+Camacho
+Camaculda
+Camaujache
+Camdanario
+Camotulio
+Campana Orcco
+Campanane
+Cañacchua
+Canasan
+Canasja Loma
+Cañayoroco
+Cancahuani
+Cancanja
+Cancha Seca
+Canchajanan
+Canchamachay
+Canco
+Cangalayo
+Canguay
+Cantacanta
+Cantalla
+Cantayo
+Capacol
+Capascocha
+Capirobanti
+Capishpotrero
+Capua
+Capuri
+Capuyo
+Cara Machay
+Caraca
+Caracamani
+Carahuayna
+Carampay
+Carapaco
+Carbón Punta
+Carboncuyocc
+Carbonero
+Carcani
+Carcapirhuana
+Carcar
+Carcel
+Carcoma
+Cardal
+Carguapata
+Carhuacari
+Carhuachuco
+Carhuascancha
+Cariacaca
+Caricocha
+Carinsirca
+Carinto
+Carmen Ccacca
+Carnaval
+Carneros
+Carnicería Jeshja
+Carnicero Punta
+Caroco Grande
+Carpo Alto
+Carrascuyocc
+Casamientuyoc
+Casanacunca
+Casapayoc
+Casgabamba
+Cashe Cusmar
+Cashpe
+Casitas
+Casma
+Catahuini
+Catarcancha
+Cataupicho
+Catchela
+Caucho Caucho
+Caullamaca
+Cauracollo
+Caurapequeña
+Caurnisho
+Cauta
+Cayamaran
+Cayán Punta
+Cayarani
+Cayeral
+Cayoca
+Ccacasera
+Ccaccallayto
+Ccaccapaqui
+Ccaccuia
+Ccachalla Pampa
+Ccacsata
+Ccahuaasno
+Ccahuaricuna
+Ccaimenta
+Ccalla-orco
+Ccapia
+Ccapohac
+Ccarhuaccasa
+Ccarhuapunta
+Ccarhuaypata
+Ccaripallacca
+Ccatunccahuana
+Ccatuncrucero
+Ccatunrumi
+Ccatunsayhua
+Ccellocello
+Ccelluno
+Ccenguaorcco
+Ccero Pampa
+Ccespinya
+Cceuhuisa
+Ccoasupo
+Ccocha Pata
+Ccochayoc
+Ccollcca
+Ccollpamocco
+Ccollpaocco
+Ccomeroccaca
+Ccomerococha
+Ccompina
+Ccongor Loma
+Ccorahorca
+Ccorehuacanan
+Ccori Chacri
+Ccoripanderilla
+Ccotacca
+Ccoto Puquio
+Ccoyllorumascca
+Cebana Ccasa
+Celmin Ushno
+Cenizal
+Centelina
+Centenario
+Cerce Punta
+Cero Ticllahuanca
+Chacacas
+Chacaluque
+Chacán
+Chacapata
+Chachacomani
+Chacharro
+Chaclán
+Chacpachuccho
+Chacralta
+Chacsha
+Chahuár
+Chahuiña
+Chairillo
+Chajanto
+Chajapata
+Chajina
+Chajoainoc Pata
+Chajoma
+Chalcacocha
+Chaldón
+Chalhuani
+Challatita
+Challhua Vado
+Challichuaman
+Chalsas
+Chambosa
+Champani
+Champara
+Champioc
+Chaname
+Chanccara
+Chanchacocha
+Chanchilloc
+Chancho
+Changali
+Changaray
+Changuil Punta
+Chanhuanusha
+Chanicocha
+Chanyo
+Chapa de Tailin
+Chapahuanca
+Chapetailin
+Chaquelomachico
+Chaques
+Chaquia Aguada
+Chaquiscocha
+Charapacha
+Chaupimarca
+Chaupiragra
+Chaupisora
+Chayacca
+Chayca Ccasa
+Chayco
+Chayhuajasa
+Checret
+Cheuca
+Chia
+Chiarnique
+Chicahua
+Chicchi
+Chichicocha
+Chichipampa
+Chicllororjo
+Chifta
+Chiglla
+Chihuanqui
+Chila Cenja
+Chilane
+Chilatilla
+Chilcacha
+Chilenos
+Chillahuani
+Chillanco Pata
+Chillihuajanan
+Chimi Orco
+China Linda
+Chinchan
+Chinchancuri
+Chinchare
+Chinosiriorcco
+Chinquiaco
+Chipao
+Chipian
+Chiquic Ramos
+Chiquito
+Chiriraqui
+Chivato Tanan
+Chivatoni
+Chivatos
+Chocavento
+Choccllo
+Chocofán
+Chocolla
+Chocorvos
+Chocoyota
+Chocpacollo
+Chocta
+Chogña
+Chojlloj
+Chojonque
+Cholito
+Choloqué Chico
+Choncocha
+Chontabal
+Chontaque
+Chontiquiari
+Choquechihuane
+Choquepirhua
+Choquequirao
+Choquetacarpo
+Choricane
+Choro Blanco
+Choruro
+Chotane
+Chua Chua
+Chuachua
+Chuañupunta
+Chuccha
+Chucchurumi
+Chuchacruz
+Chuchaujasa
+Chuchupamarcan
+Chucñuma
+Chucobamba
+Chucuhuasi
+Chucuo
+Chugar
+Chugur
+Chuhuañuma
+Chuhuanuyoc
+Chuichilla
+Chuihuancalla
+Chujal
+Chujcula
+Chulla Llocco Loma
+Chulluncayani
+Chullunco
+Chullupata
+Chulpa
+Chumbil Orco
+Chumpi Allhuina
+Chumuco
+Chunas
+Chunchamarca
+Chuncho Huito
+Chunchopunta
+Chunchusmayo
+Chuncuyopampa
+Chundauro
+Chungar
+Chungarane
+Chunguy Punta
+Chunlla
+Chuñopata
+Chunoyoc
+Chuntahayco
+Chuntahuarcana
+Chupac
+Chupi Loma
+Churana
+Churca
+Churcurumi
+Churincocha
+Churito
+Churos
+Churro Pascana
+Churrojasa
+Churucaca
+Churuyoc
+Chuspilla
+Chuyuccata
+Cia
+Cilín Punta
+Cinco Platos
+Circahuacaque
+Circe
+Circo
+Ciruela
+Clavelcocha
+Co Sasahuine
+Coagullo
+Coalaya
+Cobani
+Cocañes
+Cocha-Cocha
+Cochabamba
+Cochacunca
+Cochayoc Punta
+Cochayoj Punta
+Coches
+Cocotea
+Codo
+Coillopunta
+Coirepata
+Coishco
+Cojup
+Coletas
+Colhuachata
+Colinapunta
+Colla Huacho Loma
+Collahuaca
+Collapa
+Collata
+Collotan
+Collquehuayrachina
+Collquiyoc Punta
+Collullo
+Coloca
+Coloque
+Colpa Loma
+Comochuasi
+Compo
+Comunasha
+Concahuaylla
+Concha Pallana
+Conchayoc
+Condermachay
+Condo Tapa
+Condor Arma
+Condor Armacuana
+Condor Chico
+Cóndor Chunca
+Cóndor Huain
+Cóndor Lachina
+Cóndor Muyunan
+Condor Pozo
+Cóndor Puñuna
+Condor Rumillo
+Condor Shucanan
+Condoray Orjo
+Condorcaca
+Condorcenja
+Condorcinga
+Condorgaga
+Condorhuain Grande
+Condorhuasi
+Condorire
+Condororco
+Condorsama
+Condorsana
+Condortanan
+Condorvado
+Condoryacu
+Condoya
+Congón
+Congormarca
+Conopa
+Conquistador
+Consuelo
+Contornasa
+Cooñita
+Copa Sombrero
+Copasombrero
+Coras
+Corcovales
+Corcuntay
+Cordillera Alto Pongo
+Cordillera Ayu Mayo
+Cordillera Calla Calla
+Cordillera Callejón
+Cordillera de Carabaya
+Cordillera de Cochas
+Cordillera de San Carlos
+Cordillera Huayhuash
+Cordillera la Viuda
+Cordillera Llongote
+Cordillera San Matias
+Cordillera Ticlla
+Cordillera Yasgolga
+Córdova
+Corihuayrachina
+Corihuillca
+Corimachay
+Corimita
+Coriquingue
+Corobamba
+Corona La Virgen
+Corralconde
+Corte Blanco
+Corvina
+Coscombo Chico
+Cosnicocha
+Cotayane
+Cotone
+Covao
+Covire
+Coyoc
+Cpmercocha
+Crespón
+Cristal
+Cristalniyocc
+Crosmocco
+Crucero Alto
+Cruces Grandes
+Crullame
+Crusana
+Cruz Chico
+Cruz del Siglo
+Cruz Mina
+Cruzjasa
+Cruzpa Huesi
+Cuartelmachay
+Cuchi Coral
+Cuchicorral
+Cuchilla del Carde Grande
+Cuchilla Pataijo
+Cuchillada de Ticaloma
+Cuchillane
+Cuchococha
+Cuchupaquina
+Cuchupunta
+Cuello Huachipa
+Cuesta Calando
+Cuesta de Cochas
+Cuesta Laberri
+Cueva Culqui
+Cueva del León
+Cuilla Ccasa
+Culantrillo
+Culcayoc
+Culebrones
+Culec
+Culin
+Cullahuata
+Cullcuncha
+Cullocunca
+Cullpacha
+Cullpacucho
+Cullqui
+Cullunay
+Culobramina
+Culpón
+Cumbray
+Cumbre Leoncocha
+Cumbre Pucacocha
+Cumbril
+Cumu Cala
+Cunamis
+Cuncani Punta
+Cuncaylla
+Cuncayoj
+Cuncún
+Cuneus
+Cungacha
+Cunitirca
+Cuntaya
+Cupsi
+Curi Curi
+Curi-Loma
+Currurrupata
+Curuilomani
+Cururoche
+Cuscañane
+Cuscayloma
+Cushropata
+Cushurococha
+Cushurpalla
+Cusicanchi
+Cusurucocha
+Cuta
+Cutacancha
+Cutiquera
+Cutiti
+Cutocuto
+Cutu
+Cututo
+Cuya Huasi
+Derrumbe
+Desconocido
+Desmirochico
+Despensa Orjo
+Difunto Chayoc
+Divisadero
+Dos Cerritos
+Dos Rayas
+Ecuador
+El Cabrero
+El Corte
+El Infiernillo
+Emillay
+Encontorumi
+Encuentro Grande
+Erizal
+Escalera Apacheta
+Escaleras
+Escalon
+Esmocollo
+Espíritu
+Esquín
+Estrellapampa
+Facundos
+Fajardo
+Faldas de Carcone
+Fiero
+Fierrocasha
+Fierros
+Fierruyoc
+Fila Carpítas
+Fila Las Animas
+Fila Valdivias
+Filo de Achaylla
+Filocruz
+Filorangra
+Fraynioc
+Frías
+Fuera
+Fundadora
+Fundicion
+Gachil
+Gagamachay
+Gala
+Galluncristan
+Ganchis Puquio
+Gansuliacu
+Garabito
+Garamatanca
+Garbancillay
+Garbanzuyoc Grande
+Garguac
+Gasaj Huasi
+Gashan
+Gato Viejo
+Gavina Punta
+Gayan Punta
+Gelgueir
+Genchurani
+Geuso
+Gichayani
+Gircaccancha
+Gollarcocha
+Gono
+Gonze
+Grama
+Gramaderayoccucho
+Greta
+Guabo
+Guagush
+Guarango
+Guaranguyo
+Guayabas Punta
+Guchuman
+Guerrilla
+Hachacayhuagra
+Hacienditas
+Hatillo
+Hatun Auarango
+Hatun Puquio Pata
+Hatunchonta
+Haychayoc
+Hembra
+Hichighuarco
+Hilario
+Hopallaccta
+Horca
+Hornolacay
+Hornonnioc
+Hospicio Antiguo
+Hospital
+Huaca Ruiz
+Huaca Rumi
+Huacacala
+Huacachoca
+Huacamayo
+Huacate
+Huacchani
+Huaccla Cancha Loma
+Huaccyacco
+Huacha
+Huachhuarume
+Huacho
+Huachuarccan
+Huachuaycerca
+Huacotisipunta
+Huacra Marca
+Huacracancha
+Huacrahuilca
+Huacullani
+Huacuyniyoc
+Huacuypaquina
+Huagracaya
+Huaguroyoc
+Huahuillay
+Huahuiñal
+Huajancallay
+Huajayhuillca
+Huajayhuillque
+Huajia
+Huajranti
+Huajuma
+Hualahuantay
+Hualajaloma
+Hualanyoj
+Hualcán
+Hualcayaco
+Hualcayoc
+Huallacaneha
+Huallaja
+Huallanay
+Huallata Huagnana
+Huallatambo
+Huallaycopata
+Hualluncane
+Hualluri
+Hualpac
+Huamalla Punta
+Huaman Apka
+Huaman Bulo
+Huaman Orcco
+Huaman Pinca
+Huamancha
+Huamanchacate
+Huamanichapunta
+Huamanpampa
+Huamanpujota
+Huamanrazo
+Huamantianga
+Huamash Grande
+Huamaycoto
+Huambaracirca
+Huamos
+Huampuna
+Huamuco
+Huanaco Punco
+Huanacoccasa
+Huanacollayoc
+Huanay
+Huancahuillque
+Huancajancallacollca
+Huancalpa
+Huancana
+Huancavirga
+Huancayo
+Huancayoc
+Huanchí
+Huanchuco
+Huancravilca
+Huangurillo
+Huañipa
+Huaniturpe
+Huañshca
+Huantancure
+Huanyas
+Huapanama
+Huaquería
+Huaquichu
+Huaracas
+Huaraccoto
+Huarachina
+Huarahuara
+Huarahurani
+Huarajalla
+Huarancante
+Huarango Chate
+Huaranhuarani
+Huarasina
+Huaraulla
+Huaraya
+Huaraz
+Huarcalli
+Huarco
+Huarcuro
+Huargo
+Huaribamba
+Huaricangana
+Huaricaure
+Huarihumaña
+Huarimalla
+Huarina
+Huarinota
+Huaritanga
+Huarmañacunca
+Huarmi Huañushgan
+Huarmiajo
+Huarmihuañusca
+Huarmimachay
+Huarmunta
+Huarpuasin
+Huarucuyoc
+Huasamayo
+Huascata Alta
+Huashca
+Huashcaspunta
+Huataca
+Huatalaca
+Huauccenaco
+Huavalillo
+Huaya Grande
+Huayarcoto
+Huaychao
+Huayhuacalle
+Huayhuanja
+Huayipinca
+Huaylapa
+Huayllaconga
+Huayllamesa
+Huayllapucro
+Huayllapujio
+Huayllapunto
+Huayllarane
+Huayllas
+Huayllaveco
+Huayllaypuquio Lomas
+Huayllura
+Huaynacutuni
+Huaynillo
+Huayraccasa
+Huayrapunta
+Huayropancca
+Huayrurumi
+Huaytaccocha
+Huaytapayana
+Huaytarayocc
+Huayunca Punta
+Huayuncayoc
+Huayuril
+Hucha Rumi
+Huchcca
+Hueccapunta
+Huecco
+Huécor
+Huecrane
+Huecsocucho
+Hueracocha
+Huere
+Huerequeque
+Huerta Pata
+Huertasora
+Huevo
+Huicha
+Huichcahuasi
+Huichinca
+Huilacro
+Huilanasa
+Huilcachan
+Huilcapincullo
+Huilcas
+Huillcahuin
+Huiñac Orjo
+Huinaj
+Huinca Chuico
+Huincho
+Huinchuscancha
+Huinchusirca
+Huincochayoc
+Huincomcahay
+Huinuyo
+Huirac
+Huiran
+Huirpina
+Huirucatacsi
+Huisalli
+Huisca Apacheta
+Huisca Chayoc
+Huisca Punco
+Huiscachachosera
+Huiscaranra
+Huiscash Grande
+Huiscatongo
+Huishalla
+Huishalli
+Huishca Punta
+Huishrapunta
+Huishurag
+Huisipara
+Huitaypunta
+Huito Pata
+Huitojpunta
+Huitón
+Huitovico
+Hularapata
+Hullpo
+Humachuco
+Humajala
+Humanorjo
+Humarcata
+Humariro
+Humasuchco
+Hunca Punta
+Huyhuani
+Ichic Rondobamba
+Ichiclanshay
+Ichocorpa
+Ichu Pata
+Ichupunta
+Ichupunta Orcco
+Ichuravi
+Icuro
+Ifaro
+Iglesia Irca
+Iglesiayoj
+Igrituyog
+Ilario
+Ilimin
+Illachayoj
+Illaycocha
+Illurón
+Ilpa
+Iltuta
+Ilusion
+Imaña
+Incacancha
+Incacaros
+Incaorco
+Incaperja
+Incapirca
+Injalhuañusha
+Inosorco
+Inquilpata
+Inti Jecanan
+Intitianca
+Inyagasa
+Iquipi
+Irayrapata
+Iroquija
+Irulloc
+Iscachancara
+Iscaypunta
+Ischuorcco
+Iscorno
+Iscuatiana
+Ishcaicocha
+Ismictanan
+Ismo Cruz
+Ispanajasha
+Isquipata
+Itanaccasa
+Ivochoti
+Jacaco
+Jacanca
+Jacoso
+Jactay
+Jaguerea
+Jahuay Largo
+Jaja Seyhua
+Jajre
+Jala Loma
+Jalaña
+Jalay
+Jallo Jallo
+Jamachecca
+Jamanga
+Jampatuire
+Janamalpa
+Jancoaque
+Jancojala
+Janojasha
+Jañoloma
+Janopata
+Japina
+Japotani
+Japu
+Japupata
+Japutaña
+Jarachuco
+Jarama
+Jarán
+Jaranjay
+Jarhuanchuy
+Jarihuacachi
+Jarmasha
+Jarutuccasa
+Jasa Jasa
+Jasacorral
+Jasjaorcco
+Jato-viejo
+Jatumpucro
+Jatun Chaca
+Jatun Cóndor
+Jatún Convento
+Jatun Diablo
+Jatun Huashualla
+Jatun Jenhua
+Jatun Pucará
+Jatun Quecga
+Jatun Urco
+Jatunhuallcayoc
+Jatunhuarajo
+Jatunisla
+Jatunrite
+Jatunsayre
+Jatunsequeta
+Jatunuchco
+Jatuuloma
+Jauri
+Javone
+Jayajayuni
+Jayhuash
+Jayunuma
+Jehuayllo
+Jejes
+Jellajocha
+Jellohuaylayoc
+Jenhuacayocc
+Jenhuaorcco
+Jentiles
+Jera Jera
+Jero
+Jeronta
+Jerucanchanan
+Jeshca
+Jesine
+Jespeccasa
+Jichcaloma
+Jijacha
+Jilauro
+Jinchi Punta
+Jinhuajashua
+Jiñurco
+Jircan
+Jircancancha
+Jitaco
+Jitanga
+Jocha Orjo
+Jochoorcco
+Jogos
+Jollpajata
+Jomero Cocha
+Jona Jona
+Joñocniyoc
+Jorge Pedro
+Jornaia
+Jote
+Jotorumi
+Joyane
+Joyller
+Joyllo Punta
+Juan de Mata
+Juashucancha
+Jucho
+Juclash
+Jucorangra
+Jucto
+Juhuana Punta
+Juitocochi
+Julca Punta
+Juli
+Julian Cruz
+Julianpunta
+Jumaya
+Junajrerco
+Juntillos
+Justo Pastor
+Kcallalli
+Kcusaumaña
+Kehauasi
+Kelcaicho
+Kenallate
+La Chimbomba
+La Cuaña Rosa
+La Mesa
+La Mina
+La Picuda
+Lachac Huajanan
+Lachoc
+Lacsi Punta
+Laitarumi
+Lajcha
+Lamatrias
+Lambas
+Lampina
+Lanchiconga
+Lapsi Punta
+Larala
+Laramaque
+Larancota
+Larizane
+Lasos
+Latilluyoc
+Latococha
+Laulliorjo
+Lazo Palpan
+Leccleccane
+Leclecca
+Legua
+Lehuine
+León Huañush
+León Majana
+Leon Pata
+Leon Ranra
+León Rumi
+Leónniyoc
+Leónpitacana
+Lercona
+Lezani
+Liactajasa
+Lichicocha
+Liliane
+Liliz
+Lima
+Limayoc
+Linda Ocupunta
+Linderos
+Listado
+Llacanco
+Llachoc Punta
+Llactaccasa
+Llahuayoc
+Llama Cancha
+Llamacunca
+Llamahuasi
+Llamaja
+Llamapashillon
+Llamayoc Orcco
+Llanqui
+Llanquiypiña
+Llantacancha
+Llavejasa
+Llavena
+Llayannioj
+Llilipampa
+Llinca
+Llinllucro
+Llocce Huamani
+Llocce Punta
+Lloccepata
+Llocolloconi
+Llontona
+Lloque Lloque
+Lloquesa
+Llostacucho
+Lluicho Punta
+Lluichu
+Llulluchascca
+Llumpuy
+Llunga Llunga
+Lluscallusca
+Lluspioc
+Lluta
+Loca
+Locasaycono
+Locoloco
+Locuchata
+Loma Achacara
+Loma Ampacho
+Loma Asnaco
+Loma Atunloma
+Loma Barrioscancha
+Loma Caletilla
+Loma Calorno
+Loma Centiyocc
+Loma Chalaco
+Loma Chascca
+Loma Chimurhua
+Loma Chincheros
+Loma Chuchaucruz
+Loma Chupalla
+Loma Chupiranra
+Loma Chuquipata
+Loma Condorhuayin
+Loma Cuche-corral
+Loma Cucuparac Chico
+Loma Cuellocancha
+Loma Cuesta Chilcatay
+Loma de Los Mojones
+Loma de Pata
+Loma de Picuyocc
+Loma de Piedra
+Loma del Cardo
+Loma del Corral
+Loma del Tarro
+Loma del Viento
+Loma Duraznudoc
+Loma El Mirador
+Loma Gallohuta
+Loma Hermosa
+Loma Huasanchi
+Loma Huitopata
+Loma Ishchuhuasi
+Loma Jatun Orcco
+Loma Jiscacancha
+Loma La Cruz
+Loma Legleschayoj
+Loma Llashacancha
+Loma Lodullado
+Loma Los Indios
+Loma Machcaina
+Loma Munaypata
+Loma Naranjo
+Loma Niño Pojío
+Loma Nivicuchuna
+Loma Occolla
+Loma Pachanca
+Loma Paujalle
+Loma Pishac
+Loma Portachuelo
+Loma Potocarane
+Loma Punta Arena
+Loma Punta Pata
+Loma Puropampa
+Loma Queuña Picho
+Loma Quispispini
+Loma Sajri
+Loma Salinas
+Loma Tunas Patac
+Loma Viluya
+Loma Yana Machay
+Loma Zapallo
+Lomacia
+Lomacruz
+Lomacunini
+Lomada del Buitre
+Lomada Huancarama
+Lomadas Jatunpampa
+Lomas Alalac
+Lomas Algarrobal Seco
+Lomas Artisayoc
+Lomas Chaupiaanta
+Lomas Colorado
+Lomas de Castilla
+Lomas de Corrales
+Lomas de Cures
+Lomas de Huamanlloja
+Lomas de Huancacasa
+Lomas de Jicamarca
+Lomas de La Yerba Buena
+Lomas de Limay
+Lomas de Lúcumo
+Lomas de Ocoña
+Lomas de Pacta
+Lomas de Pongo
+Lomas de Quencha
+Lomas de Toro-Pampa
+Lomas Gumán
+Lomas Haygahuaca
+Lomas La Picuda
+Lomas La Playa
+Lomas Lojrosca
+Lomas Palo Corcovado
+Lomas Parupata
+Lomas Peladas
+Lomas Pichillhuay
+Lomas Tuna
+Lomo de Camello
+Lomo de Huicho
+Lomo Tirapelo
+Loquiacocha
+Loro Marca
+Los Cochinos
+Lotario
+Loza Loza
+Lubrinillas
+Lucanilla
+Lucapacana
+Lucapampana
+Lulicocha
+Lulusluna
+Lumipata
+Luncho Chíco
+Luñe
+Luntuni
+Lupinaira
+Lurigancho
+Luycho Potrero
+Luychopucllan
+Luychuhuasi
+Macapata
+Macchi
+Machac Punta
+Machaque
+Machara
+Machayniocc
+Machorra
+Machujaja
+Magma
+Maguey
+Majada
+Majoma
+Malabrigo
+Malanche
+Malgopata
+Mallgash
+Malos Nombres
+Malpapata
+Malpelo
+Malta Sajasalla
+Mamalipayoc
+Maman Punta
+Mamanuire
+Mamey
+Mamitcollo
+Managuatuy
+Mancamanca
+Mancha del Pavo Real
+Manchado
+Manchán
+Manchana
+Manchaorcco
+Mancucur
+Maniuhuaranca
+Manta
+Manzanilla
+Maqui Maqui
+Maraiccasa
+Marampata
+Marancira
+Maravilla
+Marcahui
+Marcajasha
+Marcatupe
+Marcha
+Marco Grande
+Marcopata Grande
+Margari
+Margas Pata
+María Paz
+Maria Pucancha
+Marian
+Marías
+Marinero
+Marinero Chico
+Mariscal
+Marmol
+Marquilla
+Marquito
+Masapata
+Mashcar
+Mashgua
+Mashuhuasi
+Masita
+Matamata
+Matapunta
+Matashuyo
+Matavacas
+Matías Casa
+Matibamba
+Maucallajta
+Mayasgo
+Medanos
+Media Señal
+Mentiroso
+Mercedario
+Mesa Chungara
+Mesa Colorada
+Mesa Orjo
+Mesa Rumi
+Mesacatac
+Mesada
+Mesas
+Meterito
+Micaya
+Michapala
+Michino
+Micuco
+Milagrosa
+Millay Grande
+Millpoc Orjo
+Millpuyoc
+Millune
+Milocancha
+Milpocucho
+Milupata
+Mina de Carbón
+Mina Francia
+Minaccasa
+Minagasha
+Minajirca
+Minas Neo
+Minasnioj
+Minaucro
+Mirachico
+Miraderos
+Mire
+Miruyo Punta
+Mishacocha
+Mishicocha
+Misión Jirca
+Misoa
+Misquiyacopata
+Mitcay
+Mitoccasa
+Moca
+Mocuangue
+Moena
+Mojón Grande
+Mojunahuito
+Molinetes
+Molle Orcco
+Molleraco
+Mollocosi
+Mongon
+Monguete
+Moniguindo
+Monjas
+Montaña Chuca
+Montaña Phutuq K'usi
+Montañas de Derrepente
+Montañita
+Montary
+Montecocha
+Montelloj
+Monterrayoc
+Monteruloj
+Montonero
+Moquegua
+Morao Punta
+Morrillo
+Morrito
+Morro Negro
+Morroponcito
+Morteros
+Mosoca
+Mosocllacta
+Moyahuain
+Moyo Orcco
+Moyocorjo
+Moyontuyoc
+Muchcane
+Muchcapan
+Mula
+Mulachurco
+Mulla
+Mullijalla
+Mullu
+Mullurcun
+Munachita
+Muradiasga
+Muraupampa
+Murmuntani
+Musapampa
+Mushea
+Muylaccasa
+Nacupiyal
+Ñahuin Punta
+Ñahuinpuquio
+Nailoma
+Ñañuclo
+Naquin
+Naticocha
+Natividad
+Ñauchirca
+Ñaupañacta
+Negras
+Negrito
+Negro Huañusca
+Negrocunca
+Negrohuansha
+Negromachay
+Nevados Acospalca
+Nevados Altarniyoc
+Nevados Andaymayo
+Nevados Casiri
+Nevados Huancarhuas
+Ninacaca
+Ninachilla
+Ninaimarca
+Ninajaja
+Niño Orco
+Nino Orjo
+Niño Punta
+Ñoñongachayoc
+Norte Chero
+Nudo Chicllaraza
+Nudo Corihuilca
+Nudo de Los Lazos
+Nudo Santiago
+Nueva Esperanza
+Nueve
+Nuevo Mundo
+Ñuñun
+Ñuñungapata
+Ñuñunya
+Ocanasa
+Occecruz
+Occochillay
+Occorotoño
+Occuraccra
+Ochentas
+Ocjsharagra
+Ocococha
+Ocorure
+Ocshaloma
+Ocshash
+Ocucaje
+Ogoles
+Ojo de Toro
+Ojocata
+Olguin
+Ollccollcca
+Omospalla
+Oplaquen
+Oquemojo
+Orccococha
+Orcohuasi
+Orcone
+Orcopampa
+Orejonas
+Orguynac Punta
+Orion
+Orjopacoralnin
+Oronguillo
+Oros
+Orpococha
+Ortiz Punta
+Osccollo Pampa
+Osjunta
+Osoro
+Otapara
+Otoronjo
+Otorunco Pata
+Otulluyocc
+Ovejo
+Oyrococha
+Pacapaca
+Paccha Pata
+Paccorayacc
+Pacha Pucco
+Pachacutec
+Pacharpi
+Pacllapampa
+Paco
+Pacohuachanan
+Pacque
+Pacuche
+Pacules
+Pacumarca
+Padre Eterno
+Padre Orjo
+Padre Rumi
+Pagletanca
+Pagramocco
+Paguisto
+Paiche Loma
+Paicopata
+Paijopata Orjo
+Pairia
+Pajayracra
+Pajra
+Palarca
+Palaza
+Palcapalca
+Palcapunta
+Paljacha
+Pallallayoc
+Pallar
+Pallate
+Pallca
+Pallhuari Punta
+Pallpa
+Palma Punta
+Palmadera Punta
+Palmajasa
+Palmapata
+Palmayoc
+Palo Grande
+Palo Redondo
+Palohuicso
+Palomayoy
+Palosantuyok
+Paltaymicuna
+Pamaca
+Pambarumbe
+Pampa Ccarcca
+Pampa Chacra
+Pampa Gelloara Jasha
+Pampa Ignacio
+Pampa Llique
+Pampa Machay
+Pampa Tramoya
+Pampa Yegua
+Pampa Yuractacra
+Pampacachi
+Pampacha
+Pampallquita
+Pampamachay
+Pañala Grande
+Panaune
+Pancosa
+Pandero
+Panecasa
+Pano
+Panteonero
+Papagayo
+Papayal
+Papujo
+Paracegand
+Parachacra
+Paracuya
+Paraguaran
+Parainioc
+Paramyocc
+Paratón
+Parcacoto
+Parcca Parcca
+Parccalla
+Parccani
+Parccaupatioc
+Parccaysuyoj
+Parcoy
+Parhua
+Parjaorcco
+Paropata
+Parra Parra
+Partido
+Pasaripata
+Pasayal Grande
+Pascani
+Pata Pata
+Pataloma
+Patasora
+Pataurco
+Pateria
+Patillipata
+Patilloco
+Pato
+Pato Blanco
+Patococha Grande
+Pattaimicuna
+Paucarani
+Paucho
+Paucla
+Paullo
+Pauloorcco
+Pauracocha
+Paurumani
+Pausahuma
+Pausipata
+Paycamarca
+Payrumani
+Pedregosa
+Pelagatos
+Pelloni
+Peña Banca
+Peña Chica
+Peña del Cura
+Peña Rajada
+Peñablanca
+Peñacocha
+Peñacoto
+Peñagaga
+Peñascal
+Pencal
+Península
+Perdiz Pata
+Perezpampa
+Perolpucro
+Peroyda Punta
+Perú
+Perualoma
+Peruniac
+Peruru
+Picelua
+Pichicocha
+Pichil
+Pichinchiani
+Picho Picho
+Pichoccasa
+Pichullane
+Pichupi
+Pichupichu
+Pichuyllayoj
+Pichuyumarca
+Picoto
+Picro
+Picuy
+Piedra Churcada
+Piedra Incada
+Piedra Loza
+Piedra Rajada
+Piedralman
+Piedras Gachas
+Piedras Oques
+Piedro
+Piedrs Parada
+Pihuauro
+Pilhua Lumi
+Pillao
+Pillapunta
+Pillucay
+Pilto
+Pilutianapampa
+Pimbara
+Pin Pin
+Piñabra
+Pinaucoto
+Pinchayoc
+Pinco
+Pincuyo
+Piñomarca
+Pinote
+Pintados
+Pintarrume
+Pinto Pinto
+Piramarca
+Pircuntainiyocc
+Pirhua Jirca
+Pirhuayoc
+Piruranca
+Piruro Punta
+Pirurochayoc
+Piruruchayoc
+Pirush
+Piruyapunta
+Pisacane
+Pisaccani
+Pisco Pampa
+Pishco Pampa
+Pishcoro
+Pishcullaypunta
+Pishga Pozo
+Pishgognioj
+Pishjapuquio
+Pistacmachay
+Piste
+Pitanayo
+Pite Orjo
+Pitic
+Pitita
+Pito
+Pituseria
+Pitusiray
+Planchada
+Plano Tomasca
+Plap
+Plato Cocha
+Playitas
+Plomo
+Pocca Orcco
+Poccotera
+Pocoto
+Pocpoca
+Pogoña
+Polopolo
+Poma Puquio
+Pomacocha
+Pomahuaca
+Pompo Cruz
+Pon
+Ponapata
+Pontorcopata
+Poquio
+Porectishco
+Porre
+Portachuelo Canto
+Portachuelo Piscacoto
+Portachuelo Punta
+Portacuelo
+Portaycallioc
+Portrerillo
+Potacca
+Potacocha
+Potahuasi
+Potinoco
+Potocchi
+Potrero Chico
+Potrero Los Solis
+Pozo Cancha
+Pozo Negro
+Pozococha
+Puca Jasa
+Puca Pampa
+Pucacasa
+Pucacasaloma
+Pucacuro
+Pucahuasi
+Pucalaqueloma
+Pucalocla
+Pucamauras
+Pucapacla
+Pucapollera
+Pucara Sombrerune
+Pucaran
+Pucarangra
+Pucasayhua
+Pucata
+Pucatuyo
+Pucci
+Puchira
+Pucho
+Puchu
+Pucruhuasi
+Pucsi
+Pucunyay
+Pucutanja
+Puenapata
+Puente Barandas
+Pugitarío
+Puitoc
+Pujilunco Punta
+Pujulli
+Pulaus
+Pulca
+Puliag
+Pulluan
+Pulpurayoc
+Pululo
+Puma Chiri
+Puma Huinto
+Puma Punco
+Pumac
+Pumahuaín
+Pumahuay
+Pumaka
+Pumapuijo
+Pumarauca
+Pumasillo
+Pumpuni
+Punapacuni
+Punchahuara
+Puncococha
+Puncohuisca
+Puncu
+Punguinajasa
+Punta de Corazon
+Punta de Pillao
+Punta Llacta
+Punta Puruchuco
+Puntaquenua
+Puntas Colpachinán
+Puntiilla
+Punto Orco
+Puntón de Antahualla
+Punton de Los Chivatos
+Puñuno
+Puquiocal
+Purhuaya
+Puriton
+Puromarca
+Purupuruni
+Purush
+Puscanturpo
+Pushigil
+Pushpuyoc
+Pushunco
+Pusupuso
+Putacca
+Puto Puto
+Putupata
+Puyana
+Puye Puye
+Puyhuanpite
+Puyman Orcco
+Puytocreac
+Puyunco
+Qquero Pucara
+Quebrada Contayani
+Quebrada del Negro
+Quebrada Verde
+Quehuayllune
+Quello Apacheta
+Quello Huacanan
+Quello Mocco
+Quellorco
+Queñajaja
+Quengomayo
+Quenhuaucro
+Queñualoma
+Queotonia
+Quepcho
+Queraya
+Querengo Chico
+Quesera Orjo
+Queso Rupascca
+Quesperaque
+Queulla
+Quichcapayana
+Quichuas
+Quilcaccasa
+Quilcalla
+Quilcapite
+Quillahuaca
+Quillo Quillo
+Quimatullpa
+Quimsa Orcco
+Quimsapucro
+Quinaquina
+Quinga
+Quinsa Chumpi
+Quinsashayhua
+Quintalpata
+Quintupa
+Quinuay
+Quiqche
+Quircay
+Quiroquiro
+Quiscahorco Lomas
+Quiscapanca
+Quishqui
+Quishuar Ccasa
+Quisja
+Quismache
+Quispe
+Quisuarpunta
+Quisuta
+Quita Barretapunta
+Quiuchan
+Quiuquita
+Quiuyasa
+Racian
+Radian
+Rajo Cutac
+Ramadas
+Ramal
+Rangrajoto
+Raningripa
+Ranra Loma
+Ranracocha
+Ranrapata
+Ranraurco
+Rargapunta
+Rarpa
+Ratatapa
+Rauro
+Rayhuarnillo
+Rayo Trazanan
+Rayomajasha
+Razhuilca
+Recracancha
+Regla
+Regresh
+Rejas
+Republica
+Reta
+Reynoso
+Rico Orjo
+Rihuina
+Riñón Punta
+Ripacancha
+Ritiyoc
+Rocacancha
+Rocoso
+Roda Piedra
+Rodeocucho
+Rodríguez
+Rollo
+Roncador
+Royro Orcco
+Ruchucay
+Rucrun
+Ruibarbo
+Rumahuasí
+Rumán
+Runchac
+Runcho
+Runtanin
+Runto
+Runtocochajasa
+Runtuarca
+Rupasha
+Rupay
+Rupayshitana
+Rurachayocc
+Rurunhuillca
+Rurupaya
+Sacamana
+Saccamaya
+Saccamaya Grande
+Saccra
+Sachaji
+Sachina
+Sacnacocha
+Sacsa Punta
+Sacsahuana
+Sacsha
+Sacuyucpunta
+Sagmachay
+Sagollo
+Sagra Huagra
+Sagramachay
+Saguatirca
+Sahuilca
+Sairi
+Salado Alejandro
+Salamanca
+Salazar
+Salcayoc
+Salccantihua
+Salerano
+Salescar
+Sallacuna
+Sallahuat
+Sallasa
+Sallatira
+Saltahuaylla
+Salumpite
+Salviapunca
+Salviapunco
+Samanto
+Sambuyaco
+Sami Punta
+San Bernardo
+San Blas
+San Christóbal
+San Felipe
+San Felix
+San Francisco de Orgorara
+San Gerónimo
+San Jorge
+San José Bajo
+San Juan de la Punta
+San Mateo
+San Roque
+Sananores
+Sanca
+Sancco
+Sancococha
+Sangobatea
+Sañoccacca
+Santa Apolonia
+Santiane
+Santo Dome
+Sapayal
+Sarachi
+Sarna Jampina
+Sarnoso
+Sasarhuanca
+Sasicirca
+Sauceraro
+Saucillo
+Saume
+Saumillo
+Sauricalla
+Sausana
+Sauseyoc
+Sayac Rumi
+Sayacmalo
+Sayarilla
+Sayhuacasa
+Secana Orcco
+Secsogon
+Segse
+Selestia
+Señal Blanca
+Sengaloma
+Sengata
+Sengayoc Grande
+Seplapata
+Seque Orcco
+Sequia Alta
+Serra do Moa
+Shahuinpunta
+Shalaragra
+Shanque
+Shanuc
+Shapajal
+Shater
+Shaygua
+Shayhua Grande
+Sheguruy
+Shihuerjo
+Shillanegra
+Shimpinaem
+Shinshipampa
+Shinuacocha
+Shishan
+Shiur
+Shoclamarca
+Shojramachay
+Shucsha
+Shullupunta
+Shunturiana
+Shunya
+Shupalle
+Shuraynioj
+Shushín
+Shusho
+Shushunaem
+Shusumbia
+Shutcucunca
+Shuticushpasha
+Shuyllo
+Sichuita
+Sicsicalla
+Sidras
+Sierpe
+Siete Minas
+Siete Posas
+Sihuistinco
+Silaca
+Silla Jirca
+Sillacuinea
+Simbeni
+Sinagua
+Singa
+Sino
+Sioguel
+Sira
+Sito Mora
+Siula Chico
+Siusani
+Socanayo
+Socca
+Soclas
+Soco
+Soco-soco
+Socosoco
+Sojomara
+Sombreadora
+Sombrorune
+Somrerune
+Sóndor
+Songoy
+Soplanja
+Sorahuma
+Sorapata Orjo
+Sorasa
+Soratera
+Soraucocha
+Soromesa
+Sotoma
+Suapistanan
+Sucho
+Suco
+Sucre
+Sucuro Orco
+Suena Orjo
+Sugcho
+Suhuaroco
+Suintoc
+Suitusura
+Sullojaja
+Sullullumpo
+Sumir
+Sumuche
+Suna
+Sunapa
+Sunto
+Suntorpahuasin
+Supo
+Sur Boca Ica
+Surcanto
+Suri
+Surihuiri
+Surpuy
+Suru Huachane
+Surupite
+Susto
+Suytopata
+Tabernas
+Tablada Chajasa
+Tablaloma
+Tablapampa
+Tablones
+Tacchira
+Tachavilque
+Taco Condori
+Tacocuya
+Tacones
+Tacotacone
+Tacsa Sulcahuari
+Tacsana
+Tacsia
+Tactamachay
+Tactash
+Tahuani
+Taita
+Tajarjasa
+Tajo
+Tajra Aguada
+Talane
+Talhuis
+Tamara Punta
+Tambo Ragra
+Tambochayoj
+Tambouma
+Tambrayco
+Tamburco
+Tampash
+Tampoña
+Tancas
+Tanquish
+Tantacoto
+Tantahuarcanan
+Tantarcancha
+Tapulli
+Taracarca
+Taraccasa
+Taracurca
+Tarapo
+Tarapuna
+Tararhuayoj
+Taratara
+Tarataran
+Taros
+Tarucan
+Tastai
+Tastapampa
+Tastapi
+Tastapucro
+Tastayoj
+Taste
+Tauce
+Taullin
+Tauricocha
+Taurimazanga
+Tauripachana
+Taurishnioj
+Taya Ccasa
+Tayane
+Tayango
+Tayapampacuchu
+Tayapucro
+Tayaputro
+Teclla
+Teecollo
+Tembladerayoc
+Teneccacca
+Teneray
+Teodoro
+Terrón-Jaguay
+Tetas
+Tetejasha
+Ticacarca
+Ticana
+Ticllayo
+Tictehuañusga
+Tierra del Muerto
+Tigrillo
+Tijerapunta
+Tijllajoncori
+Tilili
+Tillca
+Tillis
+Timorsencca
+Tina
+Tinajo
+Tincopampa Punta
+Tingo Alto
+Tingo Libre
+Tiñon
+Tinoray
+Tínquer
+Tinquicorral
+Tintorería
+Tipic
+Tipijasa
+Tipitan
+Tiquina
+Titejasa
+Titichaca
+Titijasa
+Tocana
+Tocancagrande
+Toccoccacca
+Tocllanca
+Tocosencca
+Tocsa Puquio
+Togramojo
+Tojotojo
+Tojra Tojra
+Tojro
+Tolaorjo
+Tolatola
+Toldera
+Toledo
+Toltuncani
+Toma Penda
+Tomabamba
+Tomanga
+Tomapampa
+Tomaromani
+Tongal
+Topanca
+Toqueta
+Toro Rayusca
+Toro Rumi Orjo
+Torococha Punta
+Torone
+Torranzo
+Torrioc Punta
+Torriva
+Toruna
+Toscana
+Toseloma
+Totoralnioj
+Totorayocc
+Toyoñihua
+Traguin
+Trajai Pichu
+Trajinpunta
+Trebol Coto
+Tres Cumbres
+Tres Hermanas
+Tres Peroles
+Treshermanos
+Trigopampa
+Trocha
+Troga
+Troncoso
+Trotira
+Trujayoc
+Tuanyacucho
+Tucani
+Tuctococha Punta
+Tucture
+Tucune
+Tuganga
+Tulla
+Tullo Huasa
+Tullujircac
+Tullush Grande
+Tulmancito
+Tulpas
+Tulupata
+Tumeque
+Tunal Grande
+Tunancancha
+Tuncho
+Tuntunio
+Tuntunya
+Tupia
+Tuquillo
+Turojurin
+Turucorral
+Tusllata
+Tutallipina
+Tutire
+Tutumo Verde
+Uberal
+Ucchahuilca
+Uchcapri
+Uchisca
+Uchpaga Punta
+Uchu Uchu
+Uchupalljo
+Uchuy Apacheta
+Uchuy Aymaña
+Uchuy Yanahuara
+Uchuycoscusuyo
+Uchuyleclespata
+Ucuchachas
+Ulila
+Ullancay
+Uma Uljo
+Umahuaycho
+Umananay
+Umanchunta
+Umanorjo
+Umanya
+Unca
+Uncha Punta
+Uñe
+Ungamuca
+Ungay
+Upacabana
+Upianca
+Uquisilla
+Uquivalle
+Urango
+Urcuya
+Urihuas
+Urpalla
+Urpay
+Urraypite
+Ushcunachay
+Ushnoguto
+Utca
+Utccuccacca
+Utjo
+Utocpunta
+Uyrulla
+Uyrurumi
+Uysho
+Vaca Cuchura
+Vanacancha
+Varial
+Vega del Padre
+Velagro
+Vendito
+Ventana Ucro
+Ventarrones
+Verdepata
+Verderash
+Verdes de Montaña
+Vicharcocha
+Vicuñacunca
+Vicús
+Vilaccro Orcco
+Vilachacha
+Vilavilque
+Vilcayo
+Villa
+Viscachayocc
+Visitapata
+Vista Hermoza
+Viudas
+Wuescana
+Yaca
+Yacapito
+Yachachi
+Yacotinco
+Yactayani
+Yacunac Corral
+Yacunan
+Yacuyo
+Yahuanduz
+Yahuaspuquio
+Yahuina
+Yahuiri
+Yálape
+Yana Cordillera
+Yana Llama
+Yana Padre
+Yanacacha
+Yanacerca
+Yanacochayoc
+Yanacollpa
+Yanacurina
+Yanadrcco
+Yanahojsha
+Yanahuanga
+Yanamite
+Yanan Machay
+Yananama
+Yanantiyoc
+Yanaoca Punta
+Yanaocsha
+Yanapacsa
+Yanapañuelo
+Yanaranora
+Yanashalash
+Yanata
+Yanatagrande
+Yanatajo
+Yanatamachico
+Yanauma
+Yanaziniac
+Yanque
+Yantauri
+Yaranave
+Yaretayoc Apacheta
+Yaritayo
+Yatupata
+Yaucha
+Yauli
+Yauray
+Yauri
+Yauyo
+Yavarín
+Yaya
+Yayncure
+Yerbas Buenas
+Yicayari
+Ylarata
+Ylpa
+Yodiendo
+Yojlleje
+Yolaco
+Yonan
+Yorca Loma
+Yotucha
+Yuarilla
+Yucaucro
+Yunca
+Yuque
+Yurac Casa
+Yuracancha
+Yuracc Cocha
+Yuracchala
+Yuracchorguin
+Yuraccorral
+Yuraccrume
+Yuracpampa
+Yuracyaco
+Yuraj-Yuraj
+Yurajasha
+Yurajmojo
+Yusca
+Zambo Clamor
+Zanja
+Zanjón
+Zocabón
+Zonanga Alta
+Zorín
+Zorra Negra

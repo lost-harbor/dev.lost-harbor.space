@@ -1,0 +1,5000 @@
+Bol'shoye	192
+Chërnoye	187
+Dolgoye	186
+Beloye	170
+Krugloye	140
+Krivoye	132
+Shchuch'ye	103
+Glubokoye	100
+Lebyazh'ye	89
+Glukhoye	79
+Peschanoye	76
+Svetloye	70
+Gusinoye	66
+Sredneye	62
+Lebedinoye	59
+Dlinnoye	56
+Kamennoye	51
+Mokhovoye	49
+Verkhneye	48
+Melkoye	47
+Utinoye	47
+Chistoye	44
+Karas'ye	40
+Rybnoye	38
+Ploskoye	37
+Medvezh'ye	36
+Okunëvo	33
+Protochnoye	33
+Gor'koye	32
+Kamyshnoye	31
+Sukhoye	31
+Maloye	30
+Ostrovnoye	28
+Severnoye	27
+Svyatoye	27
+Nizhneye	26
+Figurnoye	25
+Shirokoye	25
+Velikoye	25
+Dikoye	24
+Podgornoye	24
+Il'men	23
+Bab'ye	22
+Bolotnoye	22
+Borovoye	22
+Lesnoye	22
+Berëzovoye	21
+Tikhoye	21
+Travyanoye	21
+Dal'neye	20
+Zhiloye	20
+Mogil'noye	19
+Solënoye	19
+Gagar'ye	18
+Travnoye	18
+Gniloye	17
+Gornoye	17
+Krasnoye	17
+Sosnovoye	17
+Dvoynoye	16
+Linëvo	16
+Mustalampi	16
+Olen'ye	16
+Osinovoye	16
+Pes'yanoye	16
+Bezymyannoye	15
+Uglovoye	15
+Uzkoye	15
+Yelovoye	15
+Baykal	14
+Goluboye	14
+Goreloye	14
+Gryaznoye	14
+Kivi-Yarvi	14
+Polovinnoye	14
+Sennoye	14
+Stepnoye	14
+Kamyshovoye	13
+Pustoye	13
+Valkealampi	13
+Bezdonnoye	12
+Istochnoye	12
+Novoye	12
+Pereval'noye	12
+Staritsa	12
+Topkoye	12
+Domashneye	11
+Ilistoye	11
+Mutnoye	11
+Ozëra Bliznetsy	11
+Zadneye	11
+Zaymishche	11
+Akhvenlampi	10
+Bol'shoye Krivoye	10
+Chebach'ye	10
+Kholodnoye	10
+Okunëvoye	10
+Orlovo	10
+Ostrovno	10
+Ptich'ye	10
+Solozero	10
+Zerkal'noye	10
+Zimneye	10
+Bol'shoye Shchuch'ye	9
+Chërtovo	9
+Ostrovistoye	9
+Popovo	9
+Tatarskoye	9
+Vel'ye	9
+Vtoroye	9
+Vysokoye	9
+Zaton	9
+Zolotoye	9
+Blizhneye	8
+Chasha	8
+Chaykino	8
+Dorozhnoye	8
+Goloye	8
+Istok	8
+Ivanovo	8
+Ivanovskoye	8
+Karasëvo	8
+Kolpino	8
+Kruglen'koye	8
+Kulikovo	8
+Ledyanoye	8
+Mel'nichnoye	8
+Ostrovskoye	8
+Palozero	8
+Pervoye	8
+Poganoye	8
+Presnoye	8
+Sergozero	8
+Sigovoye	8
+Somino	8
+Syarkilampi	8
+Treugol'noye	8
+Utich'ye	8
+Volch'ye	8
+Zelënoye	8
+Ivankovo	7
+Kedrovoye	7
+Kisloye	7
+Kivilampi	7
+Kiviyarvi	7
+Kolpinets	7
+Kur'ya	7
+Maloye Krivoye	7
+Mikhaylovskoye	7
+Okunevoye	7
+Orekhovoye	7
+Ostrovito	7
+Pesochnoye	7
+Pitkyalampi	7
+Piyavochnoye	7
+Pribrezhnoye	7
+Rogatoye	7
+Ryamovoye	7
+Shtany	7
+Sigozero	7
+Sladkoye	7
+Talovoye	7
+Tëmnoye	7
+Terenkul	7
+Voron'ye	7
+Achikul	6
+Arylakh	6
+Berëzovskoye	6
+Bol'shoye Beloye	6
+Bol'shoye Lebyazh'ye	6
+Dubrovnoye	6
+Gorodno	6
+Gorskoye	6
+Karas	6
+Karasëvoye	6
+Karasinoye	6
+Kergozero	6
+Klyukvennoye	6
+Letneye	6
+Liman	6
+Lipovoye	6
+Lis'ye	6
+Losinoye	6
+Malen'koye	6
+Monastyrskoye	6
+Nikol'skoye	6
+Odinokoye	6
+Okhotnich'ye	6
+Orlinoye	6
+Orlovskoye	6
+Oval'noye	6
+Pridorozhnoye	6
+Savkino	6
+Spasskoye	6
+Svyato	6
+Tervalampi	6
+Vesëloye	6
+Yershovo	6
+Yuzhnoye	6
+Zapadnoye	6
+Akkul	5
+Amut	5
+Bel'skoye	5
+Belen'koye	5
+Berëzovo	5
+Bezrybnoye	5
+Bobrovoye	5
+Borovno	5
+Borovskoye	5
+Boyarskoye	5
+Burnoye	5
+Chayka	5
+Chernoye	5
+Derevenskoye	5
+Dubovoye	5
+Granichnoye	5
+Grishino	5
+Il'inskoye	5
+Itkul	5
+Kalatonlampi	5
+Karasevoye	5
+Kayly	5
+Khal'merto	5
+Khara-Nur	5
+Khaukilampi	5
+Kheynyalampi	5
+Krayneye	5
+Krutoye	5
+Lazarevskoye	5
+Likolampi	5
+Lukovo	5
+Lyaga	5
+Markovo	5
+Maslozero	5
+Mërtvoye	5
+Mogzon	5
+Moshnoye	5
+Osinovskoye	5
+Ozëra Gusinyye	5
+Peredneye	5
+Pitkäjärvi	5
+Plotichno	5
+Podbornoye	5
+Popovskoye	5
+Rogozero	5
+Rubezhnoye	5
+Russkoye	5
+Rybach'ye	5
+Savino	5
+Savinskoye	5
+Semënovo	5
+Sidorovo	5
+Sokol'ye	5
+Solenoye	5
+Soroch'ye	5
+Sorozh'ye	5
+Staroye	5
+Studënoye	5
+Svyatozero	5
+Topol'noye	5
+Tsvetochnoye	5
+Vostochnoye	5
+Yambto	5
+Yudino	5
+Zarosloye	5
+Zheleznoye	5
+Alabuga	4
+Alëshino	4
+Andreyevskoye	4
+Atkul	4
+Baklan'ye	4
+Bere	4
+Beregovoye	4
+Berëzno	4
+Bobrovo	4
+Bol'shoy Liman	4
+Bol'shoye Chërnoye	4
+Bol'shoye Dolgoye	4
+Bol'shoye Kamyshnoye	4
+Bol'shoye Okunëvoye	4
+Bol'shoye Orlovo	4
+Bol'shoye Ostrovnoye	4
+Bol'shoye Svetloye	4
+Chayach'ye	4
+Chërnaya Lambina	4
+Chikozero	4
+Dikiye Ozëra	4
+Dolgen'koye	4
+Dolgozero	4
+El'gen	4
+Gab	4
+Gladkoye	4
+Glukhiye Ozëra	4
+Gol'tsovoye	4
+Gribno	4
+Grusha	4
+Kalach	4
+Kallivolampi	4
+Kamenets	4
+Kamenistoye	4
+Kamenskoye	4
+Kazach'ye	4
+Kenon	4
+Kenozero	4
+Kheynalampi	4
+Khvoshnya	4
+Kivi	4
+Klyuchevoye	4
+Korpi-Yarvi	4
+Kota-Yarvi	4
+Krestovoye	4
+Krivyye Ozëra	4
+Kubalakh	4
+Kukushkino	4
+Kyskozero	4
+Lazarevo	4
+Lekhmyalampi	4
+Lugovoye	4
+Lutsato	4
+Malinovoye	4
+Maloye Beloye	4
+Matkozero	4
+Matveyevo	4
+Mayorskoye	4
+Mochishche	4
+Muromskoye	4
+Myandozero	4
+Mysovoye	4
+Novinskoye	4
+Nyaru	4
+Okun	4
+Okunevo	4
+Okunëvskoye	4
+Ostrovenskoye	4
+Ozëra Glukhiye	4
+Ozëra Lebedinyye	4
+Pakhalampi	4
+Palolampi	4
+Panovo	4
+Pashkino	4
+Pavlovskoye	4
+Pelyazh'ye	4
+Peralampi	4
+Pert	4
+Perti	4
+Pes'yanovo	4
+Pesno	4
+Petrovskoye	4
+Petukhovo	4
+Poludennoye	4
+Polyanskoye	4
+Poperechnoye	4
+Pulozero	4
+Pustynnoye	4
+Rikhilampi	4
+Sagan-Nur	4
+Salozero	4
+Sammallampi	4
+Sarbalyk	4
+Sari-Yarvi	4
+Sariyarvi	4
+Sarozero	4
+Sennaya Lambina	4
+Serebryanoye	4
+Shaytanskoye	4
+Sidorovskoye	4
+Sineye	4
+Spirino	4
+Stanovoye	4
+Stepanovo	4
+Strechno	4
+Svetlen'koye	4
+Svinoye	4
+Syrkovoye	4
+Taloye	4
+Tëploye	4
+Topornoye	4
+Torfyanoye	4
+Toros	4
+Tret'ye	4
+Tsyganskoye	4
+Tundrovoye	4
+Ugdan	4
+Ugol'noye	4
+Umpilampi	4
+Uolbut	4
+Verkhovoye	4
+Vershinnoye	4
+Volochil'noye	4
+Vorob'yëvo	4
+Vos'mërka	4
+Yagel'noye	4
+Yakunino	4
+Zhirnoye	4
+Akkalampi	3
+Amutkan	3
+Andozero	3
+Babozero	3
+Babushkino	3
+Bannoye	3
+Barskoye	3
+Barsuch'ye	3
+Barsuki	3
+Bashkirskoye	3
+Belaya Lamba	3
+Belenets	3
+Bogatoye	3
+Bogdanovskoye	3
+Bol'shiye Kayly	3
+Bol'shoy Sor	3
+Bol'shoye Berëzovoye	3
+Bol'shoye Gusinoye	3
+Bol'shoye Kaban'ye	3
+Bol'shoye Savino	3
+Bol'shoye Sukhoye	3
+Borisovskoye	3
+Borovyye Ozëra	3
+Bugrovoye	3
+Buzan	3
+Chashchevitoye	3
+Chebarkul	3
+Chelm	3
+Chertaly	3
+Chetvërtoye	3
+Chirovoye	3
+Danilovo	3
+Demino	3
+Devich'ye	3
+Dubno	3
+Dushun	3
+Fëdorovskoye	3
+Fil'kino	3
+Fomino	3
+Gagary	3
+Gavrino	3
+General'skoye	3
+Golubichnoye	3
+Gorevoye	3
+Gorneshno	3
+Gorodok	3
+Grachinoye	3
+Izvilistoye	3
+Kaban'ye	3
+Kala-Lampi	3
+Kalachik	3
+Kamyshlovo	3
+Karagaykul	3
+Karakël	3
+Karasevo	3
+Karasino	3
+Karasinskoye	3
+Karkhulampi	3
+Karniz	3
+Karpovskoye	3
+Kazënnoye	3
+Kerozero	3
+Ketekh	3
+Khal'mer-To	3
+Khanaveyto	3
+Khangashlampi	3
+Khasan	3
+Khatar	3
+Khautalampi	3
+Khlebnoye	3
+Khmuroye	3
+Khomustaakh	3
+Khrebtovoye	3
+Kochkarnoye	3
+Kochkovatoye	3
+Kolkhoznoye	3
+Kolodnoye	3
+Konoplyanoye	3
+Kopanets	3
+Korchazhnoye	3
+Korg	3
+Kormovoye	3
+Korov'ye	3
+Koshkol	3
+Kovdozero	3
+Krotovo	3
+Kuikkalampi	3
+Kulik	3
+Kulikovoye	3
+Kuznetsovo	3
+Kvadratnoye	3
+Kyalkya-Yarvi	3
+Latvajärvi	3
+Lazurnoye	3
+Lednikovoye	3
+Lepozero	3
+Leshchëvo	3
+Linevoye	3
+Lokhilampi	3
+Lopatino	3
+Makarovo	3
+Maksimovo	3
+Maloye Chërnoye	3
+Maloye Glubokoye	3
+Maloye Kamyshnoye	3
+Maloye Ostrovnoye	3
+Maloye Savino	3
+Malyy Kisegach	3
+Martynovo	3
+Maslovo	3
+Matalalampi	3
+Matolampi	3
+Mechta	3
+Melkovodnoye	3
+Mergen	3
+Mezhdurechnoye	3
+Mishino	3
+Mishkino	3
+Mit'kino	3
+Mitino	3
+Mordovskoye	3
+More	3
+Moshno	3
+Mungurdaakh	3
+Murdozero	3
+Murgozero	3
+Nalim	3
+Nalim'ye	3
+Namy	3
+Ngoyato	3
+Nizhneye Letneye	3
+Novozero	3
+Okulovskoye	3
+Orekhovo	3
+Osovets	3
+Ostrovistyye Ozëra	3
+Ostrovitnoye	3
+Ot-Kyuyel	3
+Otdel'noye	3
+Otnoga	3
+Ozëra Kholodnyye	3
+Ozëra Melkiye	3
+Ozëra Utinyye	3
+Ozerko	3
+P'yankovo	3
+Palo-Yarvi	3
+Perelëtnoye	3
+Pertozero	3
+Pëstroye	3
+Petrushkino	3
+Pirtozero	3
+Pitkyayarvi	3
+Plotichnoye	3
+Pokrovskoye	3
+Polevoye	3
+Polyakovo	3
+Prodol'noye	3
+Riuttalampi	3
+Rovnoye	3
+Rugo-Yarvi	3
+Ryb'ye	3
+Saarijärvi	3
+Sadok	3
+Sakharnoye	3
+Sarpa	3
+Sartemtor	3
+Sarybalyk	3
+Semënovskoye	3
+Serdechnoye	3
+Sharovo	3
+Shilovo	3
+Shishkino	3
+Shkol'noye	3
+Shtannoye	3
+Shumnoye	3
+Sitnikovo	3
+Sitnoye	3
+Skrytoye	3
+Skvoznoye	3
+Slobodskoye	3
+Snezhnoye	3
+Sokhatinoye	3
+Soldatskoye	3
+Sominskoye	3
+Sopochnoye	3
+Sorokino	3
+Sosedneye	3
+Sosnovskoye	3
+Starikovo	3
+Starukha	3
+Stochnoye	3
+Strel'noye	3
+Sumozero	3
+Suolampi	3
+Suri-Yarvi	3
+Talitskoye	3
+Tarasovo	3
+Tatysh	3
+Taymen'ye	3
+Titovo	3
+Tomboy-To	3
+Tonkoye	3
+Tsagan-Nur	3
+Tumannoye	3
+Tundrovo	3
+Ubiyennoye	3
+Uzho	3
+Uzminka	3
+Vadozero	3
+Valkia-Lampi	3
+Van'kino	3
+Varpa-Yarvi	3
+Vasil'yevo	3
+Vekhkalampi	3
+Vidozero	3
+Vodopoynoye	3
+Vodorazdel'noye	3
+Volkovo	3
+Vongozero	3
+Voronovskoye	3
+Voyozero	3
+Vshivoye	3
+Vstrechnoye	3
+Vyazkoye	3
+Yagodnoye	3
+Yambuto	3
+Yamno	3
+Yamnoye	3
+Yangozero	3
+Yarkul	3
+Yarovoye	3
+Yavto	3
+Yazevoye	3
+Ydzhydvad	3
+Yekhe-Nur	3
+Yelan	3
+Yemel'yanovo	3
+Zaozër'ye	3
+Zayach'ye	3
+Zhenskoye	3
+Abramovskoye	2
+Abrau	2
+Afon'kino	2
+Agapovskoye	2
+Akhtarskiye Solënyye Ozëra	2
+Akhvenozero	2
+Akshinskoye	2
+Alakul	2
+Alë	2
+Alekseyevskoye	2
+Alënkino	2
+Alozero	2
+Aluslampi	2
+Ambar	2
+Ambar-ty	2
+Amutychi	2
+Anisimovo	2
+Antipinskoye	2
+Antonovo	2
+Arakul	2
+Argayash	2
+Arno	2
+Arytkul	2
+Atamanskoye	2
+Ay-Kevruyagunlor	2
+Ayama	2
+Babinskoye	2
+Bagan	2
+Baklanovskoye	2
+Balyktaakh	2
+Barachnoye	2
+Baranovskoye	2
+Batovo	2
+Batovoye	2
+Bazegskoye	2
+Bazhenovo	2
+Bazisnoye	2
+Belets	2
+Belits	2
+Belyayevo	2
+Berasmu	2
+Berdzhigestyakh	2
+Berezay	2
+Berëzovaya Kur'ya	2
+Berëzovyye Ozëra	2
+Biryuzovoye	2
+Bliznetsy	2
+Bobrovets	2
+Bogorodskoye	2
+Bol'shaya Kur'ya	2
+Bol'shaya Saga	2
+Bol'shiye Biryuli	2
+Bol'shoy Atkul	2
+Bol'shoy Kisegach	2
+Bol'shoy Koshkul	2
+Bol'shoy Terenkul	2
+Bol'shoye Bab'ye	2
+Bol'shoye Glubokoye	2
+Bol'shoye Ivanovskoye	2
+Bol'shoye Kamennoye	2
+Bol'shoye Karas'ye	2
+Bol'shoye Kolokol'noye	2
+Bol'shoye Kotozero	2
+Bol'shoye Lebedinoye	2
+Bol'shoye Lesnoye	2
+Bol'shoye Mikhaylovskoye	2
+Bol'shoye Nikitino	2
+Bol'shoye Nyashnoye	2
+Bol'shoye Okunëvo	2
+Bol'shoye Okunëvskoye	2
+Bol'shoye Peschanoye	2
+Bol'shoye Pustynnoye	2
+Bol'shoye Severnoye	2
+Bol'shoye Travyanoye	2
+Bol'shoye Vyatkino	2
+Bol'shoye Yelovoye	2
+Bol'shoye Zelënoye	2
+Bolotnyy Sor	2
+Bolvan	2
+Borovenskoye	2
+Bragino	2
+Brus	2
+Brusnichnoye	2
+Buda	2
+Bukharovo	2
+Bulun	2
+Busly	2
+Bych'ye	2
+Bykovo	2
+Bykovskoye	2
+Chasel'skoye	2
+Chashka	2
+Chastoye	2
+Chaydakh	2
+Che	2
+Chebakly	2
+Cherëmukhovo	2
+Cherepanovo	2
+Cherepash'ye	2
+Chërnaya Yama	2
+Chernen'koye	2
+Chërnen'koye	2
+Chernovo	2
+Chernovskoye	2
+Chërnyy Mys	2
+Chërnyye Ozëra	2
+Chertany	2
+Chervozero	2
+Chervyanoye	2
+Chirok	2
+Chirukhino	2
+Chistik	2
+Chusovoye	2
+Chusovskoye	2
+Davydovskoye	2
+Dekanda	2
+Delinda	2
+Deminets	2
+Denisovo	2
+Dmitriyevskoye	2
+Dobroye	2
+Dolganskiye Ozëra	2
+Dolgaya Lambina	2
+Dolgoye Boloto	2
+Dolosets	2
+Donskoye	2
+Drozdovo	2
+Druzhinnoye	2
+Dubrovskoye	2
+Dubskoye	2
+Dudinskoye	2
+Dugovoye	2
+Dukhovoye	2
+Durnoye	2
+Dushnoye	2
+Dyupkun	2
+Ebe	2
+Entl'-Tor	2
+Fedotovo	2
+Filatovo	2
+Gagarino	2
+Gal'yan	2
+Gal'yan'ye	2
+Galinskoye	2
+Gar	2
+Gat	2
+Gavrilovo	2
+Gavrilovskoye	2
+Gladyshevskoye	2
+Glinka	2
+Glinskoye	2
+Glubochikha	2
+Glubotskoye	2
+Glushinets	2
+Glybochko	2
+Gnil'skoye	2
+Gniloy Ugol	2
+Gogolevskoye	2
+Gogolino	2
+Gol'yan	2
+Golova	2
+Golovastoye	2
+Golunda	2
+Gor'ko-Solënoye	2
+Gorbatoye	2
+Gorbovskoye	2
+Gorelyye Ozëra	2
+Gorodenskoye	2
+Gorodishche	2
+Gorodishchenskoye	2
+Gorokhovo	2
+Gremyach'ye	2
+Gremyakha	2
+Gunda	2
+Gus	2
+Gusenitsa	2
+Gusevskoye	2
+Gusinets	2
+Gusino	2
+Gusinyye Ozëra	2
+Ik	2
+Iksozero	2
+Il'ino	2
+Imgytskiye Ozëra	2
+Innokent'yevskoye	2
+Ishkul	2
+Istruga	2
+Ivachevskoye	2
+Ivan	2
+Iyelampi	2
+Izbnoye	2
+Kachino	2
+Kachozero	2
+Kadi	2
+Kalgan	2
+Kalinino	2
+Kalininskoye	2
+Kalliolampi	2
+Kamennyye Ozera	2
+Kamskoye	2
+Kamysh	2
+Kamyshevo	2
+Kamyshi	2
+Kamyshino	2
+Kamyshnyye Ozëra	2
+Kangasjärvi	2
+Kapshozero	2
+Kara-Khol	2
+Kara-Kul	2
+Karagayly	2
+Karakol	2
+Karakul	2
+Karasozero	2
+Karasu	2
+Karaul'noye	2
+Karbalyk	2
+Karelino	2
+Kargach	2
+Karginskoye	2
+Kargozero	2
+Karskoye	2
+Kartashëvo	2
+Kaukhayarvi	2
+Kaunis-Yarvi	2
+Kauralampi	2
+Kaydalampi	2
+Kazatovo	2
+Kazennoye	2
+Kedr	2
+Kel'tegey	2
+Keshkozero	2
+Khakolampi	2
+Khangas-Yarvi	2
+Khapalampi	2
+Kharato	2
+Khariusnoye	2
+Khariusovoye	2
+Khas	2
+Khauki-Yarvi	2
+Khaukkalampi	2
+Khedozero	2
+Khekheto	2
+Khepolampi	2
+Khiagda	2
+Khirvas-Yarvi	2
+Khiyetalampi	2
+Khizh-Yarvi	2
+Khizhozero	2
+Khokhlan	2
+Khokhlovatoye	2
+Khokhlovo	2
+Kholmovskoye	2
+Khomustakh	2
+Khomutino	2
+Khorosheye	2
+Khutel-Nur	2
+Khvoshno	2
+Khvostovoye	2
+Kicherskoye	2
+Kinskoye	2
+Kirkkolampi	2
+Kislovskoye	2
+Kitskoye	2
+Kiyeng-Kyuyel	2
+Kleshchino	2
+Kleshni	2
+Kletno	2
+Klyuv	2
+Kobyl'skoye	2
+Kobyl'ye	2
+Kogoyar	2
+Koim-Lor	2
+Kokalakh	2
+Kokko	2
+Kokkolampi	2
+Kokkoyarvi	2
+Kolba	2
+Kolinki	2
+Kolozero	2
+Komkul	2
+Komsomol'skoye	2
+Kondi	2
+Konovalovo	2
+Konzhozero	2
+Korabel'noye	2
+Korbozero	2
+Koresenok	2
+Korgozero	2
+Korpilampi	2
+Koryto	2
+Kosachëvo	2
+Koshkul	2
+Kosoye	2
+Kostino	2
+Koteshnoye	2
+Kotilampi	2
+Kova-Yarvi	2
+Kovd	2
+Kovero-Yarvi	2
+Koynatkhun	2
+Kozhinskoye	2
+Kozhozero	2
+Kozlovo	2
+Kozol'skoye	2
+Krapivno	2
+Krapivnoye	2
+Krasilovo	2
+Krasivoye	2
+Krasovskoye	2
+Kremennoye	2
+Krest-Kyuyele	2
+Krivaya Lambina	2
+Krivozero	2
+Kryazhevoye	2
+Krylovo	2
+Kryukovo	2
+Kryukovskoye	2
+Kubenskoye	2
+Kudo	2
+Kul'minskiye Ozëra	2
+Kulich'ye	2
+Kulinda	2
+Kumozh'ye	2
+Kunevo	2
+Kupal'noye	2
+Kuprino	2
+Kurbozero	2
+Kuroyarvi	2
+Kurtayly	2
+Kuta	2
+Kuykkalampi	2
+Kuykkolampi	2
+Kuz'kino	2
+Kuz'minskoye	2
+Kuzh-Yarvi	2
+Kuzhnoye	2
+Kuzino	2
+Kuznetsovskoye	2
+Kyulya-Yarvi	2
+Labakheyto	2
+Labaznoye	2
+Ladvozero	2
+Lagunnoye	2
+Lakhnalampi	2
+Lapin-Yarvi	2
+Laptëvo	2
+Lapushnoye	2
+Lavozero	2
+Laykhalampi	2
+Lebedevo	2
+Ledovoye	2
+Lenëvo	2
+Lenozero	2
+Leppya-Lampi	2
+Leshchëvoye	2
+Leshiy	2
+Levino	2
+Levkino	2
+Levushkino	2
+Lipenets	2
+Lisinskoye	2
+Listvenichnoye	2
+Listvennichnoye	2
+Listvennoye	2
+Listvyanoye	2
+Liva	2
+Livinskoye	2
+Lobanovo	2
+Lobno	2
+Lobskoye	2
+Lobzovitoye	2
+Lokhmatoye	2
+Lokhtur	2
+Lomovoye	2
+Lopastnoye	2
+Lopata	2
+Lopenyarskoye	2
+Lopozero	2
+Lopukhovatka	2
+Lopukhovatoye	2
+Lososinskoye	2
+Lotovo	2
+Lozskoye	2
+Luka	2
+Lukina	2
+Lukovka	2
+Lukovskoye	2
+Lupozero	2
+Lutyshino	2
+Luzha	2
+Luzhnoye	2
+Lyagushka	2
+Lyubino	2
+Lyuto	2
+Makarovskoye	2
+Maksimkovo	2
+Maksimovskoye	2
+Makushino	2
+Mal'ta	2
+Malinovskoye	2
+Maloye Krugloye	2
+Maloye Okunëvoye	2
+Maloye Olen'ye	2
+Maloye Pustynnoye	2
+Maloye Rogozero	2
+Maloye Svetloye	2
+Maloye Travyanoye	2
+Maloye Yel'tsovoye	2
+Malyy Gagauch	2
+Malyy Koshkul	2
+Malyy Sor	2
+Malyye Irdyagi	2
+Malyye Kayly	2
+Mamontovo	2
+Manych	2
+Mar	2
+Mar'ya-Lambi	2
+Mara	2
+Markovskogo	2
+Markovskoye	2
+Martyn	2
+Marusino	2
+Mashozero	2
+Matikkalampi	2
+Matkalampi	2
+Matveyevskoye	2
+Mayskoye	2
+Medvedskoye	2
+Mertalampi	2
+Mezhnitskoye	2
+Minino	2
+Mochalishche	2
+Mochilishche	2
+Mochilo	2
+Mokroye	2
+Molochnoye	2
+Monopchan	2
+Moroshechnoye	2
+Morzhovoye	2
+Moshkovo	2
+Mosino	2
+Mostovoye	2
+Mun	2
+Murd	2
+Mushta-Yarvi	2
+Musino	2
+Musta-Lampi	2
+Mustayarvi	2
+Muta-Lambi	2
+Myantya-Yarvi	2
+Nachikinskoye	2
+Nadezhdy	2
+Nazarovo	2
+Nechayevskoye	2
+Nerpich'ye	2
+Ngarkato	2
+Ngobto	2
+Nikitinskoye	2
+Nikolayevskoye	2
+Nizhneye Pirto-Yarvi	2
+Nizhneye Pulongskoye	2
+Nizkoye	2
+Nochnoye	2
+Nol'ozero	2
+Noril'noye	2
+Noven'koye	2
+Numto	2
+Nurm	2
+Nyabyto	2
+Nyukhchozero	2
+Nyumzyadato	2
+Obukhovo	2
+Odrino	2
+Okat'yevo	2
+Okhtozero	2
+Oktyabr'skoye	2
+Okunënok	2
+Okuninoye	2
+Ol'khovoye	2
+Ol'shanskoye	2
+Olen'i Ozëra	2
+Olenino	2
+Olovenets	2
+Omsha	2
+Omskoye	2
+Omuk-Kyuyël	2
+Omut	2
+Orekhovno	2
+Orlik	2
+Orlinskoye	2
+Ostrovichnoye	2
+Ostrovnya	2
+Ostrovok	2
+Ostyatskoye	2
+Otkrytoye	2
+Otrozhnoye	2
+Ovech'ye	2
+Ozëra Amudisa	2
+Ozëra Gnilyye	2
+Ozëra Golubyye	2
+Ozëra Kamyshovyye	2
+Ozëra Karas'i	2
+Ozëra Klyuchevyye	2
+Ozëra Klyukvennyye	2
+Ozëra Layyakhamal-To	2
+Ozëra Makarovskiye	2
+Ozëra Malyye	2
+Ozëra Ochki	2
+Ozëra Okhotnich'i	2
+Ozëra Pereval'nyye	2
+Ozëra Protochnyye	2
+Ozëra Severnyye	2
+Ozëra Shchuch'i	2
+Ozëra Sosnovyye	2
+Ozëra Yelmysskiye	2
+Ozërskoye	2
+Pachozero	2
+Padrozero	2
+Palojärvi	2
+Panskoye	2
+Paranino	2
+Paren'skoye	2
+Pashozero	2
+Paskalampi	2
+Pastush'ye	2
+Pelyakto	2
+Pen'kovskoye	2
+Pererosloye	2
+Perkhotur	2
+Permozero	2
+Pernoye	2
+Pershino	2
+Pert-Yarvi	2
+Perttijärvi	2
+Pervomayskoye	2
+Peryalampi	2
+Peschanovo	2
+Peskovskoye	2
+Pestovskoye	2
+Petaya-Yarvi	2
+Petrozero	2
+Pezhozero	2
+Pikozero	2
+Pil	2
+Pil'dozero	2
+Pilkozero	2
+Pinezhskoye	2
+Pingvin	2
+Pinozero	2
+Pionerskoye	2
+Pir	2
+Piros	2
+Pirttijärvi	2
+Pitkalampi	2
+Pitkya-Yarvi	2
+Pitnoye	2
+Platichno	2
+Plavnoye	2
+Plavucheye	2
+Pleshkovo	2
+Plotavskoye	2
+Plotskoye	2
+Pochtovoye	2
+Podkamennoye	2
+Podkova	2
+Podpeshnoye	2
+Podpol'noye	2
+Pogorel'skoye	2
+Pogoreloye	2
+Pogranichnoye	2
+Poletskoye	2
+Polovinka	2
+Polovskoye	2
+Poloye	2
+Polulampi	2
+Polvilampi	2
+Popovka	2
+Poputnoye	2
+Portlubol	2
+Portnyagino	2
+Poymennoye	2
+Predgornoye	2
+Primorskoye	2
+Prorva	2
+Prozrachnoye	2
+Pryamoye	2
+Pugovka	2
+Puoninlampi	2
+Purnozero	2
+Pushtos	2
+Pyalozero	2
+Pyayvayarvi	2
+Pyshozero	2
+Raduzhnoye	2
+Rassokhino	2
+Rayalampi	2
+Razdel'noye	2
+Razliv	2
+Rechnoye	2
+Repoyarvi	2
+Riga	2
+Ristiyarvi	2
+Rogatkino	2
+Romanovo	2
+Rugozero	2
+Ruokoyarvi	2
+Ryam	2
+Rybinskoye	2
+Rybnyye Ozëra	2
+Ryzhkovo	2
+Saksan	2
+Salabato	2
+Salmozero	2
+Salolampi	2
+Saminets	2
+Sangitur	2
+Sarilampi	2
+Särkijärvi	2
+Savel'yevskoye	2
+Savikha	2
+Savinovo	2
+Savozero	2
+Selezen	2
+Selishche	2
+Semibratskoye	2
+Semiskul	2
+Sen'kino	2
+Senozero	2
+Serebristoye	2
+Seremo	2
+Sergino	2
+Seydozero	2
+Seyto	2
+Sharalampi	2
+Shari	2
+Shaytanskiye Ozëra	2
+Shchuch'ë	2
+Shidozero	2
+Shilovskoye	2
+Shimozero	2
+Shirskoye	2
+Shitovskoye	2
+Shlyapino	2
+Shomozero	2
+Shovshozero	2
+Shuch'ye	2
+Shundozero	2
+Shuryshkarskiy Sor	2
+Shutkhulay-Nur	2
+Sig	2
+Sigovo	2
+Sikolampi	2
+Sinen'koye	2
+Singul	2
+Sinniges	2
+Sirotinka	2
+Sivkovo	2
+Sladkiy Liman	2
+Slavnoye	2
+Smerd'ye	2
+Sobach'ye	2
+Sokolovskoye	2
+Sokolozero	2
+Sokurdakh	2
+Solnechnoye	2
+Solontsovoye	2
+Solontsy	2
+Sonozero	2
+Sorma	2
+Soroka	2
+Sorovskoye	2
+Sotno	2
+Sovd	2
+Splavnoye	2
+Spornoye	2
+Sredinnoye	2
+Sredniye Ozëra	2
+Starinka	2
+Starodon'ye	2
+Startsevo	2
+Steklyannoye	2
+Stolbovoye	2
+Storon'ye	2
+Stoyacheye	2
+Strel'skoye	2
+Strezhino	2
+Strupino	2
+Stupino	2
+Sugoyak	2
+Sukhanovo	2
+Sukhogubskoye	2
+Sumki	2
+Svetlaya Lambina	2
+Svetlyye Ozëra	2
+Syadeyto	2
+Syagozero	2
+Syarkiyarvi	2
+Syarkkya-Lampi	2
+Sygato	2
+Syrutaturku	2
+Syvozero	2
+Tabnadoto	2
+Tala	2
+Tamarskoye	2
+Tasey	2
+Tavolzhan	2
+Tayëzhnoye	2
+Taynoye	2
+Tebiss	2
+Tedinto	2
+Tembenchi	2
+Tenis	2
+Tenistoye	2
+Teploye	2
+Terenkol	2
+Tiginskoye	2
+Tikhonovskoye	2
+Tinnoye	2
+Tomskoye	2
+Tonger	2
+Topozero	2
+Torikto	2
+Torma	2
+Torom	2
+Torosozero	2
+Torskoye	2
+Travyanistoye	2
+Trestyanoye	2
+Trishkino	2
+Trostnikovoye	2
+Trostyanoye	2
+Tuchnoye	2
+Tulmozero	2
+Tulos	2
+Tuman	2
+Tunger	2
+Tuora	2
+Turbozero	2
+Tuzhinskoye	2
+Ubinskoye	2
+Udebnoye	2
+Udray	2
+Uglovskoye	2
+Ugrinoye	2
+Ukhtozero	2
+Ukkozero	2
+Ukonlampi	2
+Ulakhan	2
+Ulomskoye	2
+Ulozero	2
+Ulukul	2
+Undozero	2
+Unus	2
+Ur	2
+Uragan	2
+Uras	2
+Urba	2
+Uros	2
+Urozero	2
+Ushkovo	2
+Usu	2
+Usvecha	2
+Uzhin	2
+Uzkaya Lambina	2
+Uzlovoye	2
+Valakalampi	2
+Valkea-Lampi	2
+Vangozero	2
+Vangto	2
+Vanzh	2
+Varayarvi	2
+Varchaty	2
+Vasil'yevskoye	2
+Vasino	2
+Vasynglor	2
+Verblyuzh'ye	2
+Verkhneye Chërnoye	2
+Verkhneye Letneye	2
+Verkhneye Pulongskoye	2
+Verkhovskoye	2
+Viksh	2
+Viksozero	2
+Vinozero	2
+Vokshozero	2
+Volchino	2
+Voloshno	2
+Voron'yë	2
+Voronka	2
+Vrevo	2
+Vuoksa	2
+Vyakhya-Mustalampi	2
+Vyazovoye	2
+Vydra	2
+Vyskodno	2
+Vysokogornoye	2
+Vyyer	2
+Yadun	2
+Yaitskoye	2
+Yakovlevskoye	2
+Yama	2
+Yambo-To	2
+Yamozero	2
+Yamto	2
+Yarovskoye	2
+Yartato	2
+Yasnoye	2
+Yastrebinoye	2
+Yavarto	2
+Yazno	2
+Yeglino	2
+Yegor'yevskoye	2
+Yegozero	2
+Yeki-Yarvi	2
+Yel'nichnoye	2
+Yelannoye	2
+Yelkhovoye	2
+Yelozero	2
+Yemenets	2
+Yemetskoye	2
+Yemynglor	2
+Yengozero	2
+Yer-To	2
+Yëserotato	2
+Yuli-Yarvi	2
+Yur'yevskoye	2
+Yuratskoye	2
+Zabel'skoye	2
+Zabel'ye	2
+Zabolotskoye	2
+Zaborovskoye	2
+Zaborskoye	2
+Zabytoye	2
+Zadel'skoye	2
+Zakharovskoye	2
+Zalivnoye	2
+Zaozërskoye	2
+Zaprudnoye	2
+Zarastayushcheye	2
+Zarechnoye	2
+Zelenets	2
+Zelenoye	2
+Zemlyanoye	2
+Zhabinskoye	2
+Zhadro	2
+Zharkoye	2
+Zhëltoye	2
+Zhetykol	2
+Zhuravlinoye	2
+Zimino	2
+Zmeyevo	2
+Zolotushnoye	2
+Zvan	2
+Zvanoye	2
+Zverinoye	2
+Zyryanovskoye	2
+Abakovo
+Achchychimul
+Adovo
+Aerodrom
+Agasly
+Agata
+Agdzheni
+Agm-Yarvi
+Aittalampi
+Akan
+Akat'yevskoye
+Akatovskoye
+Akey
+Akhmoye-Yarvi
+Akhty-Tur
+Akhven
+Akkemskoye
+Akkimono
+Akonyarvi
+Aksenovo
+Akuinskoye
+Akvilon
+Al
+Al'bite
+Ala Viyeks Yarvi
+Ala-Valasjärvi
+Alami
+Alanga-Kyuyel
+Aleksandrovo
+Alim-Nais-Yarvi
+Alimmainen Kaarijärvi
+Allara-Khayyrdakh
+Almalinskoye
+Altoksen-Yarvi
+Altynay
+Alykel
+Alynmakit
+Alysardakh
+Alysyrdakh
+Amnos-To
+Amosovo
+Analer
+Anamdyak
+Anan'ino
+Andreyevo
+Anechkino
+Angazhlampi
+Anichkino
+Ankantsiga
+Anozero
+Anton-Lambina
+Antropovo
+Antykan
+Anuchana
+Anufriyevskoye
+Anuteyskoye
+Anyngakhchan
+Anzhu
+Aplyatskoye
+Arakol
+Arbagas-Kyuyel
+Argeykovo
+Ari-Nur
+Arishtol
+Arka-Sorn-To
+Arkangyni
+Arkhipovskoye
+Arkhireyskoye
+Arpaylor
+Artykol
+Arykul
+As'ki-Yarvi
+Ashchozero
+Ashim
+Ashkovo
+Ashun
+Astso
+Ata-Yarvi
+Atamay-Kyuyel'lere
+Atavdy
+Ay-Kurus-Yakh
+Ayakkol
+Ayaturku
+Aypinskoye
+Ayrup
+Ayto
+Ayyegator
+Azarovskoye
+Azatskoye
+Bab'yezero
+Babino
+Babinskiye Ozëra
+Babinyy Liman
+Bademovo
+Bagadzha
+Baikal
+Bakamanka
+Bakharevskoye
+Bakhino
+Baklanskoye
+Baksary
+Bakul
+Bakulina
+Baky
+Balay
+Balban-Ty
+Baldaturku
+Baldyk
+Balino
+Baltyr
+Balyk-Kyuyel
+Barakosovo
+Barakul
+Barany
+Barashek
+Barashkovo
+Barb
+Barchin
+Barlakul
+Barlukskoye
+Barmantsak
+Barshutka
+Barun-Araltuy
+Barun-Khiagda
+Bashmachok
+Batakovo
+Batekhnovo
+Batogovo
+Bayankul
+Bayduleykino
+Bayi
+Baykal'skoye
+Bazankino
+Bazhenets
+Bazhonov
+Bebro
+Bedikha
+Bel'dunchana
+Bel'mesevo
+Belaya-Lambina
+Belikul
+Belin-Nur
+Belinets
+Beloe
+Belokamennoye
+Beloye More
+Beloye Pervoye
+Belyakovskoye
+Beretol
+Bereya
+Berëznenskoye
+Berezoradinskoye
+Berezovskoye
+Berlozhnoye
+Bessmennoye
+Bessonnoye
+Bezdon
+Bich-Khouni
+Bidy
+Bishkol'skiye Ozëra
+Bivachnoye
+Biyedili
+Blizhne-Abrashkino
+Blizhnoye Kar'yerskoye
+Bodopoykoye
+Bogonkul
+Boguchal'-Kyuyël
+Bogusly
+Bokor
+Bokovoye
+Bol'sh
+Bol'shaya Akulya
+Bol'shaya Angara
+Bol'shaya Bel'ya
+Bol'shaya Bilyashkul
+Bol'shaya Chulan-Kul
+Bol'shaya Chumanka
+Bol'shaya Kanoga
+Bol'shaya Khunta
+Bol'shaya Kurluska
+Bol'shaya Kzhemlya
+Bol'shaya Lamba
+Bol'shaya Lyaga
+Bol'shaya Sencha
+Bol'shaya Unzovka
+Bol'she-Borovskoye
+Bol'she-Yazovskoye
+Bol'she-Zavetnoye
+Bol'shiye Chebyki
+Bol'shiye Kamyshovyye Ozëra
+Bol'shiye Kendyrly
+Bol'shiye Kirpichiki
+Bol'shiye Kity
+Bol'shiye Kosly
+Bol'shiye Layskiye Ozëra
+Bol'shiye Saurki
+Bol'shiye Toroki
+Bol'shoy Akh
+Bol'shoy Allak
+Bol'shoy Bugodak
+Bol'shoy Chigirim
+Bol'shoy Gol'yan
+Bol'shoy Kapitan
+Bol'shoy Karakul
+Bol'shoy Kharbeyskiy Sor
+Bol'shoy Kolgiyavr
+Bol'shoy Kosogol
+Bol'shoy Lanchik
+Bol'shoy Laptash
+Bol'shoy Lovdus
+Bol'shoy Mamatkul
+Bol'shoy Ostrovit
+Bol'shoy Pavlosh
+Bol'shoy Pund
+Bol'shoy Rzhanets
+Bol'shoy Sar-Balyk
+Bol'shoy Studenets
+Bol'shoy Sunukul
+Bol'shoy Syalakh
+Bol'shoy Tebis
+Bol'shoy Treugol'nik
+Bol'shoy Tukmysh
+Bol'shoy Tuman
+Bol'shoy Undugun
+Bol'shoy Vyaz
+Bol'shoy Yarkul
+Bol'shoy Yelanchik
+Bol'shoy Zaliv
+Bol'shoye Anomozero
+Bol'shoye Basnevo
+Bol'shoye Bich'ye
+Bol'shoye Brannoye
+Bol'shoye Chelnokovo
+Bol'shoye Degtyarskoye
+Bol'shoye Dikoye
+Bol'shoye Gor'koye
+Bol'shoye Grachëvo
+Bol'shoye Istochnoye
+Bol'shoye Isur'yevskoye
+Bol'shoye Kambal'nich'ye
+Bol'shoye Kame
+Bol'shoye Kargozero
+Bol'shoye Kileynoye
+Bol'shoye Kinoozhskoye
+Bol'shoye Knyaspinskoye
+Bol'shoye Kochkozero
+Bol'shoye Konets-Sarskoye
+Bol'shoye Kremlëvskoye
+Bol'shoye Krokhino
+Bol'shoye Krugloye
+Bol'shoye Kushiyarvi
+Bol'shoye Kustozero
+Bol'shoye Kuznetsovo
+Bol'shoye Kvandozero
+Bol'shoye Kyatki
+Bol'shoye Lagiyarvi
+Bol'shoye Lagunayskoye
+Bol'shoye Lapovskoye
+Bol'shoye Leprindo
+Bol'shoye Linëvo
+Bol'shoye Lyazhevo
+Bol'shoye Mal'tsevskoye
+Bol'shoye Matkozero
+Bol'shoye Maz-Yarvi
+Bol'shoye Miassovo
+Bol'shoye Miriadicheskoye
+Bol'shoye Mokroye
+Bol'shoye Morozovo
+Bol'shoye Mramornoye
+Bol'shoye Nechel'skoye
+Bol'shoye Nikonovo
+Bol'shoye Nyukht'ozero
+Bol'shoye Okhalo
+Bol'shoye Paden'gskoye
+Bol'shoye Paranino
+Bol'shoye Pashozero
+Bol'shoye Pergemya-Lampi
+Bol'shoye Pertozero
+Bol'shoye Pezo
+Bol'shoye Plotich'ye
+Bol'shoye Porshnevo
+Bol'shoye Prosinskoye
+Bol'shoye Rogulichnoye
+Bol'shoye Sarannoye
+Bol'shoye Satykovo
+Bol'shoye Shan'gino
+Bol'shoye Shestovoye
+Bol'shoye Shirokoye
+Bol'shoye Shozhmozero
+Bol'shoye Shuoyarvi
+Bol'shoye Shuyskoye
+Bol'shoye Simaginskoye
+Bol'shoye Solovoye
+Bol'shoye Sopotno
+Bol'shoye Spasskoye
+Bol'shoye Stepankovo
+Bol'shoye Stepanovo
+Bol'shoye Tamitskoye
+Bol'shoye Telyach'ye
+Bol'shoye Teter'yë
+Bol'shoye Totmanskoye
+Bol'shoye Travnoye
+Bol'shoye Trukhnovo
+Bol'shoye Tyl'skoye
+Bol'shoye Uglovoye
+Bol'shoye Uksozero
+Bol'shoye Ushnitskoye
+Bol'shoye Utich'ye
+Bol'shoye Vavayskoye
+Bol'shoye Vegozero
+Bol'shoye Verkhneye Yezevskoye
+Bol'shoye Volkovo
+Bol'shoye Vorochistoye
+Bol'shoye Voronskoye
+Bol'shoye Vyazhnoye
+Bol'shoye Yaren'gskoye
+Bol'shoye Yasaveyto
+Bol'shoye Yazeyevoye
+Bol'shoye Yelizarovo
+Bol'shoye Yemezh
+Bol'shoye Zamoshskoye
+Bol'shoye Zhadovo
+Bol'shoye Zherino
+Bolenlampi
+Boli
+Bologoye
+Bolon
+Bolshoye Beloye
+Boltukhovo
+Bor-Nur
+Borevskoye
+Borodayevskoye
+Borovok
+Bosko-Sir
+Bratskoye
+Brevennoye
+Bron'ye
+Brosno
+Bryzgun
+Bubnovo
+Bubnovskoye
+Buburok
+Bugrinyye Ozëra
+Buin
+Bukhtarasovo
+Bukhuyevskoye
+Buklya
+Bukovets
+Buksozero
+Bukuchozero
+Buogalay-Kyuyel
+Burdakh
+Burduyevskiye Ozëra
+Bureshka
+Burgutu-Khudzhyur
+Burichi
+Burkal'skoye
+Burla
+Bustakh
+Buten
+Butylochka
+Buylakhta
+Buyvola
+Byloye
+Chabynay
+Chachino
+Chag
+Chagol
+Chagytay
+Chaitsy
+Chakol'skoye
+Chalganochki
+Chalgyskol
+Chalmozero
+Chaloye
+Chaplykul
+Charkayy-Kyuyele
+Charozero
+Charskoye
+Chashchevatoye
+Chatara
+Chavkul'skoye
+Chavrosoro
+Chazakhash-Kul
+Chebaagyn
+Chebakul
+Chebarkas
+Chegozero
+Chekhovka
+Chekshinskoye
+Chëlki
+Chelozero
+Chemku
+Chenus
+Chepolshevskoye
+Cherëmkino
+Cherëmushka
+Cherenskoye
+Cherkesskoye
+Cherlivoye
+Chermino
+Chernakovo
+Chërnoe
+Chernokorovnikovo
+Cherstno
+Chertonovo
+Chertorygo
+Chertous
+Chervonnoye
+Cheshvenskoye
+Chetyrëkh Verstnoye
+Chichatskoye
+Chichera
+Chichinetskoye
+Chiganakskoye
+Chiganok
+Chigotovo
+Chikshozero
+Chilgir
+Chir
+Chirovo
+Chishenskoye
+Chistogay
+Chisva
+Chivalkoyarvi
+Chogoy
+Chokurbaakh
+Chongozero
+Chornoye
+Choygan-Khol
+Chubtekul
+Chubunda
+Chuchchu
+Chuchkatskoye
+Chudinovo
+Chudinskoye
+Chudnoye
+Chudtsevskoye
+Chudz'yavr
+Chukkuri
+Chuku
+Chumnoye
+Chumu
+Chur
+Churaniyarvi
+Churint
+Churkan
+Chushevo
+Chvor
+Chyuvochyavr
+Dadzyaty
+Dagachi
+Dal'neozërskiye Ozëra
+Dal'neye Kulikovo
+Dal'niye Mochilki
+Dal'niye Ozëra
+Dal'nyye Kar'yerskie Ozëra
+Dalak
+Dalgan
+Dan'kovo
+Dar'ya
+Dardanelovskoye
+Darginskoye
+Darkilakh
+Darkylakh-Kyuyele
+Darovoye
+Darpir
+Daryn-Kyuyel
+Dausu-Nov
+Dautovo
+Davydovo
+Deden
+Dedov'i Ozëra
+Dekoli
+Delin'ya
+Demey
+Demkino
+Derevenets
+Deri-Kul
+Derikha
+Deryabnik
+Desyatinskoye
+Dgo
+Dimitrovo
+Divikino
+Divnoye
+Diya-Ty
+Dlinnaya Lambina
+Dobshinskoye
+Dolbeyevskoye
+Dolgaya Kur'ya
+Dolgaya-Lamba
+Dolgiy Sor
+Dolgolivka
+Dolovoye
+Dolzh'ye
+Dolzhitsa
+Dolzhno
+Domanskoye
+Dombiyevskoye
+Donetskoye
+Dora-Kul
+Doreyevo
+Dorogalampi
+Dorogalevskoye
+Dorozhnitskoye
+Dovgorokit
+Dranka
+Druzhkovo
+Dub
+Dudnitsa
+Dulag
+Dumbakhozero
+Dunay
+Dunilovskoye
+Dunovskoye
+Durishkino
+Dutoye
+Dvorenskoye
+Dvukhbratkoye
+Dvukhostrovnoye
+Dvurechnoye
+Dyangi
+Dymskoye
+Dynda
+Dzërvad
+Dzhalunskoye
+Dzhamalakh
+Dzhargalakh
+Dzhevdukha
+Dzhuny-Kul
+Edirkey
+Ekachi
+Ekhi
+Ekhin-Nur
+Eksend
+El'-Pauza
+El'gygytgyn
+El'mis
+El'mus
+El'mut
+Elin
+Eliyarvi
+Elyasin
+Emchir-Nur
+Emis-Balyktakh
+Enetor
+Engel'gardt
+Engozero
+Enojärvi
+Entl'-Nërimlor
+Entl'-Yanta-Lor
+Entl'-Yusemlor
+Epekli
+Ergipskiy Sor
+Esan-To
+Etbok
+Etingnyakh
+Evakanskoye
+Evoron
+Eyalin-Yarvi
+Fal'kovskoye
+Farmankino
+Fateyevo
+Fëdorova
+Fedotkino
+Fedovo
+Fenino
+Figurnyye Ozëra
+Fil'kiny Ozëra
+Filippovo
+Finishnoye
+Finkino
+Firsovo
+Foma-Varaka
+Fominskoye
+Frolikha
+Frolovo
+Gacha
+Gadozero
+Gagarinskoye
+Gal
+Galgagytgyn
+Galgan
+Galgoy
+Galich'ye
+Galichnoye
+Galkino
+Galmachinskoye
+Galynino
+Ganyushkino
+Gappamus
+Garugay
+Garynda
+Gassi
+Gatin
+Gauro-Yarvi
+Gavrozero
+Gaydamak
+Gaynovo
+Gazar'ye
+Gazhinskoye
+Gejzernoe
+Gilyakh-Egelyakh
+Giybashkel
+Glazino
+Glazovskoye
+Glez'yevo
+Glubochino
+Glubokaya
+Glubokaya Lambina
+Glyadeno
+Glybay
+Glyboch'ye
+Glybochno
+Gnilyye Klyuchi
+Gogilanttba
+Gogol
+Gol'yanskoye
+Golbunchaturku
+Golubets
+Golubkovskoye
+Golyak
+Gonevo
+Gonginskoye
+Gor'kogo
+Gorba
+Gorbanovo
+Gorbiyachin
+Gorelki
+Gorelovskoye
+Goretskoye
+Gorinskoye
+Gorko-Solënoye
+Gorobovskoye
+Gorodetskoye
+Gorodolyubskoye
+Gorshevets
+Gorskiye Ozëra
+Goryunets
+Goryunya
+Got'kemnen
+Gradilovskoye
+Granit
+Grebenshchikovo
+Grenovskoye
+Greshnoye
+Gribskoye
+Griv
+Groshevo
+Gryunovskoye
+Guba
+Gubanchik
+Gubanovo
+Gubanovskoye
+Gudzhirnoye
+Gul'matly
+Gumilevskoye
+Gus'ozero
+Gusevskiye Ozëra
+Gusinyye
+Gusyatnitsa
+Gutkengde
+Guylli
+Guzen-Nur
+Gyubiya
+Haahkajärvi
+Hankasjärvi
+Haukkajärvi
+Hetto
+Hoikanjärvi
+Hounijärvi
+Icherygytkhyn
+Ichkalinskoye
+Idel
+Idolovo
+Igarskiye Ozëra
+Iglozero
+Ignatovskoye
+Ihmisenjärvi
+Ihojärvi
+Iilinnya
+Ikit
+Ikonnoye
+Il'inskiye Ozëra
+Il'mantino
+Il'men Soldusov
+Il'men' Bol'shoy Gashun
+Il'men' Bol'shoy Kharyu
+Il'men' Dunduk
+Il'men' Kashata
+Il'men' Khoreymsin
+Il'men' Kisin
+Il'men' Konopkin
+Il'men' Pervyy
+Il'men' Popov Kultak
+Il'men' Vtoroy
+Il'menskoye
+Ilasskoye
+Ilemnoye
+Ilenda
+Ileykino
+Ilim Koyvu-Yarvi
+Ilimkan
+Ilimnir
+Ilimyaynen Purstelampi
+Ilinen Lius-Yarvi
+Ilovno
+Ilovskoye
+Ilya-Nautsi-Yarvi
+Ilyushino
+Imlunen
+Imnlor
+In'kovskoye
+Inderskoye
+Indok
+Ingaran
+Ingor
+Ingur
+Inogoshchenskoye
+Inorskoye
+Inyak
+Iokangskoye
+Iouten-Lampi
+Ippolitovo
+Irasa
+Irdynets
+Irekse-Dekit-Dekin
+Irisovyye
+Irkino
+Irziyarvi
+Ishalino
+Ishkol
+Iso Nieriäisjärvi
+Iso-Kimalampi
+Iso-Mustalampi
+Iso-Siyeppi-Yarvi
+Iso-Tervalampi
+Isosiyeminki
+Istochnyye Ozëra
+Itchilyak
+Ity-Kul
+Iurskoye
+Iv
+Iv-tur
+Ivankovskoye
+Ivanovskaya Luka
+Ivapo-Lambi
+Ivashkino
+Ivnyazhnoye
+Izbushechnoye
+Izhogozero
+Izotovo
+Izumrudnoye
+Jäkäjärvi
+Jyrkinjärvi
+Kab
+Kabakovo
+Kabayevo
+Kachalovskoye
+Kachevitskoye
+Kachkar
+Kad'skoye
+Kadanskoye
+Kadomskoye
+Kaftino
+Kagal'kol
+Kainkul
+Kaitakiekki
+Kakhozero
+Kal'kyarvi
+Kal'ya-Yarvi
+Kalachëvo
+Kalahankajärvi
+Kalanan
+Kalashnitsa
+Kalgozero
+Kalinichevo
+Kallio-Yarvi
+Kalloyaur
+Kalmykovo
+Kalnitonner
+Kalozhnoye
+Kaltusnoye
+Kalyaty
+Kalykul
+Kama
+Kamalan
+Kamanozero
+Kambala
+Kamen
+Kamenka
+Kamenka Pervoye
+Kamgol
+Kamot
+Kamyshevoye
+Kamyshëvoye
+Kamyshovyye Ozëra
+Kanderly
+Kangaly
+Kangaslampi
+Kangaz-Yarvi
+Kangol
+Kanly
+Kanovo
+Kantolam
+Kapchuk
+Kapsajärvi
+Kapyluchikan
+Kar'yerskiye Ozëra
+Kara-Balyk
+Kara-Kan
+Karabashevo
+Karachinskoye
+Karakhastakh
+Karakumlyak
+Karamys
+Karangalambina
+Karango-Yarvi
+Karangozero
+Karanino
+Karas'i Ozëra
+Karashakol
+Karasintsy
+Karasun
+Karatay
+Karatayevskoye
+Karavikovo
+Karbotovo
+Kardyvach
+Kare
+Karechenka
+Karengova
+Kargachinskoye
+Kargat
+Kari-Yarvi
+Karkateyevskoye
+Karkomlya
+Karlukskoye
+Karmalinets
+Karmana
+Karmino
+Karnaukhovo
+Karnis'yarvi
+Karnizh
+Karovoye
+Karpovo
+Karspyl'emtor
+Kartpautur
+Karyelak
+Karymov Sor
+Karzikozero
+Kasach'ye
+Kasenkovo
+Kashinskoye
+Kashkadan
+Kashtyk
+Käsijärvi
+Kaskel'yavr
+Kasli
+Kasty-Khol
+Katesovskiy Sor
+Katti-Lampi
+Katyskoye
+Kay-Lor
+Kaydaulovskoye
+Kaymakul
+Kaynakskoye
+Kaytovo
+Kayyavr
+Kazalma
+Kazankino
+Kazarinovo
+Kazarskoye
+Kazhlyalambina
+Kazlya-Yarvi
+Kedengde
+Kedrinskoye
+Kegali
+Kel'yelampi
+Keldovskoye
+Kelyuyë
+Kenas
+Kengre
+Kengyade-Kyuyele
+Kentasozero
+Kentiyarvi
+Kento
+Keraozero
+Kerazhozero
+Kereno
+Kerenskoye
+Kereta
+Kerikota
+Kermaty
+Kerty
+Keshkelambina
+Keskinyainen
+Keskolampi
+Keta
+Këtënvalkia
+Keyttolampi
+Këzenoyam
+Kezyrt'to
+Khabevkoto
+Khabeyto
+Khabuykato
+Khadyn
+Khagal'gim
+Khakhabruguna
+Khalilampi
+Khallinlampi
+Khaluno
+Khalyasyadato
+Khamgasozero
+Khan'goluyarvi
+Khanavyeyto
+Khanderskoye
+Khangaslambina
+Khanskiye Ozëra
+Khantalba
+Khapatozero
+Khapishlampi
+Khar'yuyarvi
+Khara-Khasare-To
+Khara-Syr
+Kharchinskoye
+Khargy
+Kharinskoye
+Kharitom
+Khariusovyye Ozëra
+Kharkozero
+Kharnalyk-Kul
+Kharpicha
+Kharpto
+Kharseyev Liman
+Kharuseteyto
+Khasrëto
+Khaton
+Khatyngnakh
+Khauki-Lampi
+Khaukiyarvi
+Khavgilampi
+Khaya
+Khaybalyk
+Khaydorskiy Sor
+Khayerëdatuto
+Khayeto
+Khazarskoye
+Khebolambina
+Khel-Degi
+Khelmiyarvi
+Khema
+Khendësalyato
+Kheralampi
+Khetik
+Kheto-Yarvi
+Khetyato
+Khev-Yarvi
+Khikhniyayarvi
+Khilka
+Khinikenskoye
+Khiriyarvi
+Khirsikkoyarvi
+Khirtyato
+Khirvi
+Khisichan
+Khitolampi
+Khitroye
+Khiyetayarvi
+Khizozero
+Khlopotnoye
+Khmel'ozero
+Khobilampi
+Khobok
+Khocho
+Khochon
+Khodakova
+Khodzuy-Khouon
+Khokhlatoye
+Khokhlik
+Khokhlovatik
+Khokhlovatiki
+Khokhly
+Kholostuyskoye
+Kholovets
+Khonipaltur
+Khonkhor
+Khopunlampi
+Khora
+Khorino
+Khorizozero
+Khoronilovo
+Khoskhovani
+Khotaran
+Khototuy
+Khotyazhy
+Khovar
+Khovdayarvi
+Khrustal'noye
+Khucheto
+Khudorozhka
+Khudoyezha
+Khukhe-Nur
+Khukhto-Yarvi
+Khuko
+Khultur
+Khummi
+Khusetey
+Khutorskoye
+Khutoyavr
+Khutyk-Nur
+Khutynskoye
+Khvoshchno
+Khvoylovo
+Khvoyno
+Khydyato
+Khyuroyarvi
+Kichagovo
+Kieng-Kyuyël
+Kil'konlambi
+Kilometrovoye
+Kilyan-Kyulege
+Kilyayskoye
+Kimas-Yarvi
+Kimyr'ya
+Kinzhozero
+Kirdy
+Kirgin
+Kiri
+Kirsanovo
+Kirsonlampi
+Kirveslampi
+Kiselëvskoye
+Kishinskoye
+Kishkino
+Kishtym
+Kislenko
+Kislotnoye
+Kislyanskoye
+Kitiyarvi
+Kitskovskoye
+Kivach
+Kiviozero
+Kiyekereyarvi
+Kizhelak
+Kizikey
+Kizina
+Kladovoye
+Klepets
+Klevetetskoye
+Klinskoye
+Klukhor
+Klyuchevaya Zavod
+Klyuchi
+Klyuchki
+Klyukozero
+Knyazh'ye
+Kobyla-Ty
+Kobylino
+Kochëvka
+Kochka
+Kochkomozero
+Kochkomskoye
+Kochkovatko
+Kochushly
+Kodosno
+Koimlor
+Koirin-Lampi
+Koitonjärvi
+Kok
+Kokarevo
+Kokinskiy Uriy
+Kokko-Lambi
+Koko-Yarvi
+Kokol'ninskoye
+Koksu
+Koktysh
+Kokuy
+Kol'tsa
+Kol'tsovo
+Kola
+Koli-Yarvi
+Kollan-Yarvi
+Kollektivnoye
+Kolman
+Kolmikolkka
+Kolmilouganlampi
+Kolodenskoye
+Kolova Pervoye
+Kolova Vtoroye
+Kolyseda
+Kolysodo
+Kommunar
+Kompangna
+Kompangro
+Komshino
+Komsomol
+Komyl'ye
+Kon'kovo
+Kongashlampi
+Konstantinovo
+Konstantinovskoye
+Kopa
+Koppaloyarvi
+Koppol
+Kopshino
+Kopto
+Koras
+Korbokhon
+Korbvarvi
+Kordyugyan-Kyuyël
+Koregoshch
+Koreh
+Korenistyye Ozëra
+Koreshno
+Kormus-Yarvi
+Korniloka
+Kornilovo
+Kornusha
+Korobinskoye
+Korobkino
+Korobuzha
+Koroin-Lampi
+Koros
+Korostelovo
+Korotskoye
+Korovino
+Koroyarvi
+Korpangi
+Korte-Yarvi
+Korteelanjärvi
+Koryakino
+Kos'movo
+Kos-Kul
+Kosachëvoye
+Koshach'ye
+Koshara
+Koshelevskoye
+Kosmylevo
+Kostin-Kyune
+Kostomskoye
+Kostyakovskoye
+Kostyanka
+Kosulino
+Kosynka
+Kotiyarvi
+Kotlovan
+Kotlovoye
+Kotokel'skoye
+Kotolampi
+Kotozhozero
+Kottakh
+Kotyshino
+Kotyyarvi
+Kovdor
+Kovera
+Kovzha
+Koymemtor
+Koyra
+Koyva-Yarvi
+Koyvalampi
+Kozelets
+Kozherel'-Tu
+Kozhul
+Kozhurkino
+Kozyrevskoye
+Krasikovskoye
+Krasinskoye
+Krasnoyarskoye
+Krasulin
+Kravtsovo
+Krestkoye
+Krestovka
+Kresty
+Kriv
+Krivetskoye
+Krivino
+Krivshitskoye
+Kruglovo
+Kruglyy Il'men
+Krupinino
+Krutaya Kur'ya
+Kruten'koye
+Krutik
+Krutovatoye
+Kryl'ye
+Kryuk
+Kryushino
+Kryzhinskoye
+Kuadzi
+Kuasjärvi
+Kubetskoye
+Kubitskoye
+Kubycha
+Kuchane
+Kucherlinskoye
+Kuchigyr
+Kuchozero
+Kuchuba-Tavalzhanskoye
+Kud'mozero
+Kudukanskoye
+Kugas-Kyuyel
+Kuikka-Yarvi
+Kukan
+Kukas
+Kukaus-Yarvi
+Kukharskoye
+Kuktay
+Kuku-Nur
+Kukushkiny Ozëra
+Kukyazhnoye
+Kul
+Kul'-Kur-In-Lor
+Kul'-Yavr
+Kul'chan
+Kul'kul
+Kul'ulampi
+Kulakovo
+Kulikan
+Kulimguba
+Kulingtur
+Kulipeulor
+Kulmakkajärvi
+Kultuban
+Kultyshka
+Kulyagash
+Kum
+Kumakhtakh
+Kumazh'ye
+Kumdykol
+Kumlyak
+Kumshalampi
+Kumshozero
+Kumzerskoye
+Kunashak
+Kundravinskoye
+Kunkul
+Kunovatskiy Sor
+Kuntudy
+Kunushturskoye
+Kuokha-Yarvi
+Kuokka-Yarvi
+Kuolokki
+Kuona-Yarvi
+Kuorejärvi
+Kup-Kul
+Kupriyanovo
+Kurelyakh
+Kurenevo
+Kureyskoye
+Kurgan
+Kurgannoye
+Kurganskoye
+Kurikovskoye
+Kurkhtyurumlor
+Kurkilampi
+Kurkiyarvi
+Kurko
+Kurmas
+Kuropal'skoye
+Kuropatka
+Kurovo
+Kurskoye
+Kurtan
+Kurum'-Yakh
+Kurus-Lor
+Kurvus
+Kuryktor
+Kushelovskoye
+Kushkovo
+Kushkul
+Kustimo
+Kustorka
+Kusukasty
+Kutaramakan
+Kutikan
+Kutizh
+Kutso
+Kutty-Lor
+Kutukan
+Kutusenlampi
+Kutuzhekovo
+Kutyr
+Kuurnanjärvi
+Kuushi-Yarvi
+Kuvachnoye
+Kuvash
+Kuyankol
+Kuyanysh
+Kuybyshevskoye
+Kuykaozero
+Kuykka-Yarvi
+Kuykkasel'kya
+Kuyluk-Emtor
+Kuymilor
+Kuytulampi
+Kuyvash
+Kuz'minovka
+Kuz'minovskoye
+Kuzenkul
+Kuzh-Yer
+Kuzhikha
+Kuzhinki-Yarvi
+Kuzhiry
+Kuzhyarvi
+Kuznetskoye
+Kyal'g-Yarvi
+Kyalozero
+Kyapyulampi
+Kyarchmyarvi
+Kyaypeslampi
+Kymgyr-Chad
+Kypa-Syl'ky-Naryl'-Tu
+Kyrchik
+Kyrtyma
+Kysykul
+Kyubozero
+Kyulyumer
+Kyume
+Kyuryunke
+Kyutyunda
+Kyzylbay
+Kyzyltash
+L'vinoye
+Labadyavto
+Labt-Lor
+Labynkyr
+Labzavitoye
+Ladm
+Ladovo
+Laduketa
+Lagnalampi
+Laguna Amaam
+Lakhty
+Lakshilampi
+Lalnygytgyn
+Lambero
+Landskoye
+Langkarlor
+Lanozero
+Lapakka
+Lapistoye
+Lapkolakh
+Lapozero
+Lapta-Lata-To
+Larlomkino
+Lashku
+Lasozero
+Last'yevo
+Lastso
+Latva-Yarvi
+Latvayarvi
+Lauvozero
+Lavkoyarvi
+Lavnenskoye Pervoye
+Lavochnoye
+Lavrushino
+Layato
+Layga-Yarvi
+Laykhayarvi
+Layya
+Lazarevoye
+Lebedinoye Severnoye
+Lebilyakh
+Led'ozero
+Ledozero
+Lëgan-Kul'skoye
+Lëkhotskoye
+Lemiozero
+Lemmilambina
+Lenovets
+Lentochnoye
+Lepeshany
+Lepinskoye
+Leshch
+Leshchevoye
+Leshchovy Ozëra
+Lesogorskoye
+Letnik
+Lev'yalambina
+Leveyarvi
+Levijärvi
+Levinskoye
+Levkovo
+Leytimo-Yarvi
+Lidozero
+Lieväjärvi
+Lijonlampi
+Liman Bol'shaya Kindya
+Liman Bol'shoy Utkin
+Liman Gor'kiy
+Liman Khulsan
+Liman Malaya Kindya
+Liman Rachinskogo
+Liman Smolyanyy
+Liman Ulyun
+Liman Zapadnyy
+Limanskoye
+Limsozero
+Linevka
+Linkajärvi
+Lipash-Lambina
+Lipnoye
+Lipovskaya Kosa
+Lis'ya-Lampi
+Litovochnoye
+Litvinovo
+Livo
+Liyeslampi
+Liyevyayarei
+Lizhmenskoye
+Lobash
+Lod'mozero
+Logonovitsa
+Logoye
+Lokhovets
+Lonëv
+Lopakkolampi
+Lopaty
+Loshchinka
+Loshchino
+Losyukhino
+Lotos
+Louhijärvi
+Lovetskoye
+Lovkotnoye
+Lovno
+Lozhozero
+Lubenskoye
+Lubetskoye
+Lubyanoye
+Luch
+Luchno
+Lugla-Yarvi
+Luk'yanovo
+Lukanda
+Lukhtayarvi
+Luko
+Lukoshkino
+Lukovastoye
+Lullo
+Lum
+Lunëvo
+Lungemtor
+Lunnememtor
+Luptur
+Lutsakhibyato
+Luykozero
+Luzhki
+Luzhozero
+Lyagugutom-Yentyr
+Lybalakh
+Lychno
+Lyptyntuv
+Lyubimovskoye
+Lyubokhovo
+Lyubosivets
+Lyubyn
+Lyude
+Lyuksina
+Lyushno
+Lyusino
+Lyutoye
+Maajärvi
+Macherga
+Machi
+Machuriy
+Madalayarvi
+Madsash-Yaur
+Mag
+Majma
+Makar'yevskiye Ozëra
+Makarikhino
+Maksi
+Malaya Keyga
+Malaya Khotika
+Malaya Khunta
+Malaya Kulemina
+Malaya Leptsenga
+Malaya Prava
+Malaya Reten
+Malaya-Pitka
+Mald
+Malen'kiye Ozëra
+Malinskoye
+Malishevskoye
+Mallor
+Malnokh
+Maloye Bab'ye
+Maloye Bakhtatskoye
+Maloye Batovo
+Maloye Baydarskoye
+Maloye Brannoye
+Maloye Dolgoye
+Maloye Fokinskoye
+Maloye Gor'koye
+Maloye Ivanozero
+Maloye Kadi Btoroye
+Maloye Kadi Pervoye
+Maloye Kassozero
+Maloye Keyga
+Maloye Khabozero
+Maloye Kokol'ninskoye
+Maloye Koygero
+Maloye Krivoglazovo
+Maloye Kureyskoye
+Maloye Kushiyarvi
+Maloye Kyatke
+Maloye Kyatki
+Maloye Lagyshevo
+Maloye Malyshevo
+Maloye Medvezh'ye
+Maloye Mikino
+Maloye Mugalinskoye
+Maloye Nizhneye
+Maloye Nyukht'ozero
+Maloye Okunëvo
+Maloye Padozero
+Maloye Perme
+Maloye Pikhkal'skoye
+Maloye Puglozero
+Maloye Rakovoye
+Maloye Sastou
+Maloye Satykovo
+Maloye Shkuratovo
+Maloye Shuyskoye
+Maloye Sokhloye
+Maloye Solovoye
+Maloye Stepnoye
+Maloye Tel'noye
+Maloye Teter'yë
+Maloye Toloni
+Maloye Uktuzskoye
+Maloye Vavayskoye
+Maloye Verkhalino
+Maloye Veshkozero
+Maloye Vinnoye
+Maloye Vyatkino
+Maloye Vyshka-Lambina
+Maloye Yamskoye
+Maloye Yangozero
+Maloye Zakhar'yevo
+Maloye Zhuravlikho
+Malto
+Maltomboy
+Malyk
+Malysh
+Malyto
+Malyy Eyk
+Malyy Koklan
+Malyy Kolchedan
+Malyy Kremenkul
+Malyy Kurkal
+Malyy Mar-Kyuyël
+Malyy Olër
+Malyy Sarykul
+Malyy Selezyan
+Malyy Shartash
+Malyy Taraskul
+Malyy Tiberkul
+Malyy Uvat
+Malyy Zimnik
+Malyye Allaki
+Malyye Chany
+Malyye Donki
+Malyye Gari
+Malyye Ulyandy
+Mamadamukh
+Mamontovy Ozëra
+Man'-Ketlokhtur
+Mandychan
+Manezh
+Mangulinsk
+Many-Khol
+Mapastur
+Mar'inskoye
+Maragattalakh
+Marakino
+Maral'ye
+Marëyto
+Marni-Tokh
+Martyushino
+Marukhi
+Mas'kovo
+Masel'ga
+Mashkolampi
+Maskolambina
+Masleyskoye
+Mastakh
+Mastryukovo
+Mataga-Eselyakh
+Matagin
+Matasy
+Materikovyye Ozëra
+Matkoyarvi
+Matojärvi
+Matronlampi
+Matsya
+Matushkino
+Matvey-Lampi
+Matyugino
+Mayan
+Mayarvi
+Mayoysen-Yarvi
+Maysunlampi
+Mayzasskoye
+Mazan
+Mechelout
+Medel'tsovo
+Mediak
+Medvedkino
+Medyanskoye
+Megrozero
+Mel'nikovo
+Mel'yavr
+Melegusha
+Melekhovskoye
+Meletsyavr
+Mellyaklampi
+Melovoye
+Melozero
+Melutka
+Memek-Yavr
+Memi
+Menzero
+Merinovo
+Mertvitsa
+Metch
+Metenyay
+Metishchevo
+Mets
+Metsyasalmi-Lampi
+Metsyelambina
+Mezel'dig-Khol
+Midino
+Midozero
+Mikhailovo
+Mikheyevo
+Mikhundey
+Mikkilänjärvi
+Mikuliny Ozëra
+Milovskoye
+Min'kinskoye
+Mino-Yarvi
+Minzelinskoye
+Mirnoye
+Mironovo
+Mishnëvskoye
+Mishutinskoye
+Misyurikha
+Miyes-yarvi
+Mnevo
+Mochaly
+Mochche
+Mochokh
+Mochugiy-Kyuyël
+Mogil'noye Tret'ye
+Mogilinskoye
+Mokashenskoye
+Mokhey
+Mokhovik
+Mokhovoye Boloto
+Mokhovushka
+Mol'skoye
+Mol'tykangytkhyn
+Moldoga
+Moloki
+Moltino-Yarvi
+Monash'ye
+Monozero
+Montan-Yarvi
+Mordov
+Mordy-Mal-To
+Morena
+Morënnoye
+Moreodskoye
+Morets
+Morotskoye
+Moroznoye
+Mosgorskoye
+Moshavets
+Moshnikovyye Ozëra
+Mozgovoye
+Mozharskoye
+Mstizhskoye
+Muanto-Yarvi
+Mud'yuzhskoye
+Mukhino
+Mukhoroy-Nur
+Muksunak
+Muljana
+Munali
+Munduyskoye
+Murashevskoye
+Muraveynoye
+Murdan-Mukit
+Murdolampi
+Murdoyarvi
+Muri
+Murlyuga
+Muromato
+Muromozero
+Muron
+Murtalampi
+Murtozero
+Muruzhny
+Mus
+Mus-Kyuyël
+Muserskoye
+Muslimovskoye
+Mustafinskoye
+Musto-Lambi
+Mutninskoye
+Muy
+Muyëzero
+Myagozero
+Myaltozero
+Myanduyarvi
+Myarga-Yarvi
+Myatygamta-To
+Mykhpay
+Mylka
+Mylovo
+Myshino
+Myshty
+Mysonoye
+Mysovo
+Myugro
+Myuuy-Sorn-To
+Myuykotsyato
+N'yu Vasyuki
+N'yukozero
+Nadonuyaato
+Nadotapakhato
+Nadya
+Nakhalets
+Nakhar-Tur
+Nakhimovskoye
+Nakhkurto
+Nakhodka
+Nakhty
+Nalimnyye Ozëra
+Nalivnoye
+Naloy
+Namalinga
+Nang-Ty-To
+Nanykul
+Naradtysynyanto
+Narinochek
+Narkato
+Nartovoye
+Naruyto
+Naruzhnoye
+Narvozero
+Narvskoye
+Naryadnoye
+Nasonlampi
+Nastoinlampi
+Nasurtuy
+Naumtsevo
+Nauran-Yarvi
+Nauts-Yarvi
+Navaga
+Navyyemskiye Ozëra
+Naymalampi
+Naytuv
+Nayupi-Lambi
+Nazarovskoye
+Nazi
+Near yumos
+Necheritsa
+Nefra
+Neizvestnyye Ozëra
+Nelengskoye
+Nelidovo
+Nemt
+Ner'yuvskoye
+Neradsalyato
+Nërangda
+Nërimettsenlor
+Nerundya
+Netochnoye
+Nevery
+Nevgozero
+Nevidimka
+Nevskoye
+Nevylor
+Ngadyarto
+Ngarka-Lakomboyto
+Ngarka-Nyarkhalavyto
+Ngarka-Yaineto
+Ngavarito
+Ngevadëdato
+Ngeyaltato
+Ngutyato
+Ngysyndermato
+Nidili
+Nig
+Nikandrayarvi
+Nikitskoye
+Nikogay-To
+Nikolay-Kyuyel
+Nikopol'skoye
+Nikulinskoye
+Niman
+Nini-Sel'gskoye
+Nishneye Kalliojarvi
+Nishneye Shobozero
+Nityattsy
+Nivlyuto
+Nivmilampi
+Nivno
+Nizen'koye
+Nizhnee oz
+Nizhnelebyazh'ye
+Nizhneye Bannoye
+Nizhneye Cherkovskoye
+Nizhneye Gauk-Yarvi
+Nizhneye Kapustnoye
+Nizhneye Karb
+Nizhneye Kumozero
+Nizhneye Kurki-Yarvi
+Nizhneye Lyulyu
+Nizhneye Mashozero
+Nizhneye Nilo-Yarvi
+Nizhneye Oskozero
+Nizhneye Paakanyarvi
+Nizhneye Pen
+Nizhneye Pigm
+Nizhneye Piz
+Nizhneye Posadskoye
+Nizhneye Shaynayarvi
+Nizhneye Shoba
+Nizhneye Vaskozero
+Nizhneye Voopo-Yarvi
+Nizhneye Vumb
+Nizhneye Yelotozero
+Nizhniy Kaltan
+Nizhniy Selis
+Nizhniye Tridtsatyye Ozëra
+Nizhnyaya Onigma
+Nizhnyaya Porusta
+Nizovskoye
+Nogino
+Nomankur
+Norvayarvi
+Noskinbash
+Noskova
+Noskovo
+Noskuansel'kya
+Nosonovskoye
+Notoro Ko
+Notozero
+Noutilampi
+Novochunskoye
+Novoye Baydarskoye
+Noydomozero
+Nuchiangbi
+Nuolajärvi
+Nutko
+Nuzhan-Yer
+Nyabelovo-To
+Nyadbaki
+Nyagame
+Nyakyya
+Nyalm
+Nyarka
+Nyash'ye
+Nyauguyarvi
+Nyavkozero
+Nyreyko
+Nyuchcha-Dzhiyelyakh-Kyuyël
+Nyudongyni-To
+Nyudya-Ngoyato
+Nyudya-Solyatto
+Nyudya-Tyalnato
+Nyudya-Yabtarmato
+Nyuk
+Nyukhnevyye Ozëra
+Nyurma
+Obedovskoye
+Obil'noye
+Obinskoye
+Oblomnoye
+Oblovskoye
+Obo-Nur
+Obokozero
+Oborotnoye
+Obozero
+Ochuma
+Odlu
+Odonskoye
+Ogimlampi
+Oglukhino
+Okayevo
+Okhonnya
+Okhta
+Okrugloye
+Okunevets
+Okunëvka
+Okunevskoye
+Okunëvyye Ozëra
+Ol'gattyr
+Ol'gino
+Ol'khirik
+Olbug
+Olbuk
+Olentur
+Olovozer
+Ombo
+Omchino
+Omelukha
+Onega
+Onerskiye Ozëra
+Ongilampi
+Onogoye
+Oonganchik
+Opalinskoe
+Ora
+Oravayarvi
+Orbat
+Ordonikol'skoye
+Orel
+Orel'ye
+Orelovka
+Orenburg
+Orgulakh
+Orlu-Nur
+Ormeya
+Oron
+Oroy-Nur
+Orsha
+Orshinskoye
+Orto-Kyuyël
+Oseyka
+Osinevskoye
+Osinovaya Pad
+Osinovo
+Oskhot-Lambi
+Osochnoye
+Osolodochnoye
+Ososhnoye
+Osplya
+Ostashchevskoye
+Ostavlennoye
+Ostrechënok
+Ostronoy
+Ostrovatoye
+Ostrovënok
+Ostrovitoye
+Ostrovyanskoye
+Osytur
+Otarnoye
+Otdykhalovskoye
+Otovozero
+Otsyaan
+Ottokh-Kyuyele
+Ovdozero
+Ovsyanikovskoye
+Oyezero
+oz Bol Rjaska
+Oz Bolshoye
+Oz Bolshoye Medveshye
+oz Kamenistoe
+Oz Korkinskoye
+oz Mysovoe
+Oz Pestsannoye
+oz Petushinoe
+oz Pogranitsnoye
+Oz Povezha
+oz Pridorozhnoe
+oz Severnoye Upotsnoye
+oz Verhniye Rjushi
+Oz Vojako
+Oz Yunozero
+Oz Yushnoye Upotsnoye
+oz Zsigilevskoye
+Ozadnevskoye
+Ozëra Aim
+Ozëra Antonovy
+Ozëra Balagany
+Ozëra Baytakh
+Ozëra Bezdonniki
+Ozëra Bilir
+Ozëra Bisernyye
+Ozëra Bobrovinets
+Ozëra Bol'shaya Kavyka
+Ozëra Burichi
+Ozëra Chabinikit
+Ozëra Chekatay
+Ozëra Cherkesskiye
+Ozëra Chertany
+Ozëra Chistaya Voda
+Ozëra Chupallor
+Ozëra Dal'niye
+Ozëra Dormidonovskiye
+Ozëra Dvukh Brat'yev
+Ozëra Eriyen
+Ozëra Filippovy
+Ozera Gagauch
+Ozëra Galitskiye
+Ozëra Gnusovyye
+Ozera Ikki-Kyuyel
+Ozëra Istochnyye
+Ozëra Kabylakhskiye
+Ozëra Kal'chanskiye
+Ozëra Kalachiki
+Ozëra Kamyshovskiye
+Ozëra Kapel'nyye
+Ozëra Karaoba
+Ozëra Kargskiye
+Ozëra Kayvoslampi
+Ozera Kegelyakh-Kyuyel'lere
+Ozëra Kerosinnyye
+Ozëra Keyteto
+Ozëra Khakhayadato
+Ozëra Khara-Gurosuta
+Ozëra Kharutaty
+Ozëra Kharvutatarkamal-To
+Ozera Khastyr-Kyuyel
+Ozëra Khusy-Nur
+Ozëra Kis-Kas
+Ozëra Klyuchi
+Ozëra Kogchamalampi
+Ozëra Kol'tsevyye
+Ozëra Kolladi-Yarvi
+Ozëra Komarinyye
+Ozëra Komnutato
+Ozëra Kondilampi
+Ozëra Kontsenlampi
+Ozëra Kormovyye
+Ozëra Koroslo
+Ozëra Krivyye
+Ozëra Kshukskiye
+Ozëra Kuchugur
+Ozëra Kuikkalammet
+Ozëra Kulseyskiye
+Ozëra Kumyazhoy
+Ozëra Kurchozero
+Ozëra Kutlop'yushlor
+Ozëra Layda-Kulady
+Ozëra Lebyazh'i
+Ozëra Lepëshka
+Ozëra Luokanlammet
+Ozëra Man'yass
+Ozëra Marevyye
+Ozëra Medvezh'i
+Ozera Mokhovushka
+Ozëra Murudzhinskiye
+Ozëra Murum-Chum
+Ozëra Narkay
+Ozëra Nemarito
+Ozëra Nërymtoukh
+Ozëra Nozhevki
+Ozëra Nunato
+Ozëra Nurmenpokh'ya
+Ozëra Nyadokuyaganto
+Ozëra Nyakhortorato
+Ozëra Ofitserskiye
+Ozëra Opasovskiye
+Ozëra Orlovskiye
+Ozera Oy-Nur
+Ozëra Ozhergotinskiye
+Ozëra Peresheyek
+Ozëra Peresheyevskiye
+Ozëra Perevesnyye
+Ozëra Perskiye
+Ozëra Pitkalampi
+Ozëra Poltavskiye
+Ozëra Prirechnyye
+Ozëra Rayozëra
+Ozëra Rizhskiye
+Ozëra Ryamovyye
+Ozëra Rybnyye
+Ozëra Rzhanyye
+Ozëra Satagay
+Ozëra Savekinda
+Ozëra Sayrionyarvet
+Ozëra Semiozërki
+Ozëra Seyuchan
+Ozera Sharva
+Ozëra Shtantsy
+Ozëra Sigoretskiye
+Ozëra Solm-Yarvi
+Ozëra Sorgootskiye
+Ozëra Stolbovyye
+Ozëra Talakovskiye
+Ozëra Tarkakharvutato
+Ozëra Tëmnyye
+Ozëra Travyanyye
+Ozëra Trenenskiye
+Ozëra Tsevtenlor
+Ozëra Ulkhasa-Nur
+Ozëra Umpilammet
+Ozëra Ushumunskiye
+Ozëra Uta-Nur
+Ozëra Utyata
+Ozëra Uzkiye
+Ozëra Variny
+Ozëra Varyushkiny
+Ozëra Vasleynlammet
+Ozëra Verkhovyye
+Ozëra Vodopoynyye
+Ozëra Vol'nyye
+Ozëra Vtoraya Gryada
+Ozëra Vyvodok
+Ozëra Yamata-Kyuyële
+Ozëra Yudetysynyanto
+Ozëra Zametnyye
+Ozera Zerkal'nyye
+Ozëra Zmeinyye
+Ozëra Zolotyye Lampi
+Ozëra Zubarevskiye
+Ozerechki
+Ozeretskoye
+Ozerevki
+Ozërik
+Ozeron
+Ozeryavskoye
+Ozharkovo
+Ozhmozero
+Padozero
+Paganay
+Pahjärvi
+Pailampi
+Pakhakalampi
+Pakhka
+Pakhkalambina
+Pakhkalampi
+Pal'chiny Ozëra
+Pal'shemskoye
+Pal'skiye Ozëra
+Pal'tsevskoye
+Pala-Yarvi
+Palagino
+Palanskoye
+Palen-To
+Paleyevo
+Palish
+Palkin-Ty
+Palkuruto
+Palladi-To
+Palmozero
+Pamlekai
+Panayarvi
+Panemozero
+Panikovets
+Panitu
+Pannemalto
+Panoyarvi
+Panshino
+Panskoye Dolgoye
+Papaninskoye
+Paposskoye
+Para-Yarvi
+Parapkul
+Parfënovo
+Parnoye
+Parshinskoye
+Part
+Partolanlampi
+Pashennoye
+Pasmajärvi
+Patovoye
+Patrinozero
+Patsaslampi
+Patunalampi
+Pavylon
+Pay-Yarvi
+Payno
+Payozero
+Payutato
+Payyavr
+Pazyr
+Pebenchuk
+Pebozero
+Pechenkino
+Pechevskiye Ozëra
+Pechok
+Ped'yarvi
+Pedryavto
+Pekkasenlampi
+Peledochnoye
+Pelemskoye
+Pelënkino
+Pëllyasenlampi
+Pelymskiy Tuman
+Pen-Yavr
+Pendikovskoye
+Pendmyato
+Pendo
+Penisnar
+Peno
+Pentur
+Pepelino
+Perekhanovo
+Perekopnoye
+Perel'to
+Peresokhshiy Prud
+Peri
+Pernovskoye
+Pertalor
+Pertiyarvi
+Pertovskoye
+Perttiyarvi
+Pervoye Berëzovoye
+Pervoye Chetvërtoye
+Pervoye Mokhovoye
+Pervoye Sycheno
+Pes'yanik
+Peskovatoye
+Pesteri
+Pestik
+Petayayarvi
+Petjärvi
+Pëtkyalampi
+Petrushinskoye
+Pettel
+Petyalampi
+Peunto
+Peuralampi
+Peyyarvi
+Piashnoye
+Pichkhinmyitkhyn
+Pig
+Pikhtozero
+Pikku-Khukkayarvi
+Pikkunyasyukkya
+Pil'zamo
+Pilgujärvi
+Pimen-Pavel-Ty
+Pimovka
+Pinis-Yarvi
+Pirenga
+Piriyanadoto
+Piro
+Pirty
+Pisarskoye
+Pise
+Pishchal'noye
+Pisto
+Pitirim
+Pityevoye
+Pivilor
+Pivkozero
+Piyen-Ropulampi
+Piyeni
+Piyeni-Kheynyalampi
+Piyeni-Lakealampi
+Piyeni-Matolampi
+Piyeni-Nupa-Yarvi
+Piyeni-Samallampi
+Piyeni-Siyeppi-Yarvi
+Pkhovo
+Platichenko
+Plekhanovo
+Plës
+Plesetskoye
+Plësy
+Plissa
+Plitino
+Ploskusha
+Plotava
+Plotishchno
+Plotnikovo
+Plotovo
+Plotvichnoye
+Plovskoye
+Plyushchinik
+Pocha
+Pochepskoye
+Pochozero
+Poddubskoye
+Podgryadovoye
+Podkhalyngto
+Podkhrebetnoye
+Podko
+Podmoshch'ye
+Podorel'ye
+Podozërskoye
+Podskal'noye
+Podsnezhnoye
+Podsosnoye Pervoye
+Pogdayevo
+Pokhotnoye
+Pokolevo
+Pokranlambina
+Pokyr-Katyng-Tor
+Pol'shemskoye
+Pol'to
+Pol'to Pervoye
+Pol'to Tret'ye
+Poldnevoye
+Poldnëvoye
+Polgash
+Polgyn
+Pollampi
+Polobzha
+Polovinnaya Lambina
+Polpyarvi
+Polushaimskoye
+Poluyakovskoye
+Polyntur
+Pon'goma
+Pondolozero
+Ponika
+Poniklovo
+Poperechka
+Poplavenets
+Popova Lyava
+Popsaz
+Porokhovoye
+Poroslovskoye
+Porosloye
+Porshnevo
+Portkul
+Portyanka
+Portyn-Peu
+Pos'yar
+Posadnikovskoye
+Posalemtor
+Posemtsy
+Posht
+Poshtayarvi
+Posledneye
+Postel'noye
+Potanka
+Poteryay
+Poukkulampi
+Poyelalampi
+Poytamo-Yarvi
+Pozenskoye
+Pozhnevets
+Prakunjärvi
+Pravdinskoye
+Pridorozhnyye
+Prikurpskoye
+Prirechnoye
+Prishibskoye
+Priskal'noye
+Pristanets
+Pristanskoye
+Prityka
+Priyatel'skoye
+Prongi
+Prosvet
+Prud Tanayev
+Prudskoye
+Prut'ya-Lambino
+Pryazhinskoye
+Psovets
+Pucheyskoye
+Pudanato
+Pukinayarvi
+Puksinskoye
+Pulongskiye Ozëra
+Pultozero
+Pupozero
+Purnach
+Purnezhskoye
+Purnulampi
+Puryaga
+Pushkari
+Pushkozero
+Pushnoye
+Pushtos'-Yarvi
+Pute-Ngyne
+Putis-Yarvi
+Puzhand
+Pyatachok
+Pyaterovo
+Pyatkovo
+Pynryktoukh
+Pyuëreyalampi
+Pyurika
+Pyyskoye Vtoroye
+Raga
+Ragnitskoye
+Raifskoye
+Raj
+Rakalampi
+Rakhe-Lambi
+Rakhelampi
+Rakovichskoye
+Rakushka
+Ralikovo
+Randogskoye
+Rantalampi
+Raschlenënnoye
+Rasseyannoye
+Rassokhovo
+Rassypnoye
+Rastushcheye
+Ratnoye
+Ravay
+Raya
+Razdol'ye
+Razrytoye
+Razvan
+Reberskoye
+Redrovo
+Rekhk
+Rekiyarvi
+Rekshinskoye
+Remaka
+Remok
+Repnoye
+Reshak
+Reta-Yarvi
+Reten
+Retno
+Reyevo
+Ri
+Richapka
+Riikhelampi
+Riinoyarvi
+Rinchin
+Rodina
+Rog
+Rogachëvskoye
+Rogovik
+Roksomskoye
+Rokzh
+Romanovy Ozëra
+Ropaki
+Ropulampi
+Roshchinskoye
+Roslovo
+Rossoshnoye
+Rotnoye
+Rotominskoye
+Roukken-Yarvi
+Rouksa
+Rovkul'skoye
+Rovnyazhskoye
+Rubcha
+Rubezhnoye Shchuchanskoye
+Rubikha
+Rudakova
+Rudinskoye
+Rudnevskoye
+Rudvoyye Ozëra
+Rukovitsa
+Ruskusinlampi
+Ruygozero
+Ruzgozero
+Ryabinovoye
+Ryabozero
+Ryachezero
+Ryadchinskoye
+Ryamovskoye
+Ryaokovo
+Ryapuks
+Ryasovo
+Ryavt-Yavr
+Rybalka
+Rychagovo
+Ryhjänlampi
+Rymovskoye
+Rystozero
+Rytenets
+Ryttyjärvi
+Ryugya-Yarvi
+Ryuyëttilampi
+Ryzh'ye
+Saarar-Yarvi
+Saber
+Sabskoye
+Safoninskoye
+Safronovskoye
+Saitkovo
+Sakhanova
+Sakovo
+Salbuli
+Salkolampi
+Salma
+Salmanovo
+Salmi-Yarvi
+Salmiozero
+Salmistoye
+Samayevskoye
+Samovo
+Samoyedskoye
+Samoylovo
+Samozero
+Samro
+Samsontokhlor
+Sancharo
+Sangar
+Sanken-Tor
+Santayarvi
+Sapozero
+Sappel'-Yavr
+Sapyyalakh
+Sar'yanka
+Saratsijärvi
+Sargayak
+Sarki
+Sarma
+Sarmos
+Sartymtoukh
+Sarvalampi
+Sashikhino
+Saukko
+Saybylakh
+Saydalamina
+Saydam
+Saymagan
+Sayno
+Sdvornoye
+Sebrakhato
+Sedlo
+Sedty
+Segemi
+Segezhskoye
+Segozero
+Seketovo
+Sektinskoye
+Sekuy
+Sel'dinskoye
+Sel'gayarvi
+Sel'skoye
+Sel'tsy
+Seledkovo
+Selishchenskoye
+Selyandzhanskoye
+Semegon
+Semividovoye
+Senezhskoye
+Sennaya Kur'ya
+Sennikovo
+Senokosnoye
+Sereberskoye
+Serebrennikovskoye
+Serebry
+Serkhlovskoye
+Sermenok
+Serozero
+Seryak
+Seryaur-To
+Ses'ka
+Sestrino
+Setkan
+Seuchuge
+Sevast'yan Kyuyele
+Severnoye Pribrezhnoye
+Severnyy Gytgypil'gyn
+Severnyy Yergalakh
+Seybalakh
+Seykhasrëto
+Shabozero
+Shaburovskiye Ozëra
+Shaburovskoye
+Shabzërskoye
+Shadrovo
+Shaimskiy Tuman
+Shakhovskoye
+Shakino
+Shalami
+Shanginskoye
+Shapkozero
+Shapnozero
+Shara
+Shargo
+Shari Yarvi
+Sharinskoye
+Sharki-Lambi
+Sharvi-Lambi
+Sharypkul
+Shaydom
+Shaynayarvi
+Shchëkino
+Shchekinskiye Ozëra
+Shchepetskiye Ozëra
+Shchukinskoye
+Shchukozero
+Shektay
+Shelabanovo
+Shelekhmetskoye
+Shelekhovskoye
+Sheliko-Lambi
+Shelkovskoye
+Shennovo
+Shestigolovoye
+Shestoye
+Sheyno
+Sheyzero
+Shibayevo
+Shikhal'skiye Ozëra
+Shikozero
+Shil'ma
+Shilova
+Shily-Nur
+Shilyy-Nur
+Shimushkino
+Shipovskoye
+Shirchalampi
+Shirdozero
+Shirenga
+Shirik
+Shiritskoye
+Shirokovskoye
+Shirshigul
+Shishkina
+Shivayarvi
+Shkvarninskoye
+Shlino
+Shlintso
+Shnidkino
+Shob
+Shokshozero
+Shol'skoye
+Sholtyn-Yarvi
+Shoppi-Yarvi
+Shortolambina
+Shosh-Yega-Tor
+Shotozero
+Shovna-Yavr
+Shuara
+Shuari
+Shubachkoye
+Shudozero
+Shugozero
+Shugunyak
+Shukhovo
+Shumikha
+Shumskoye
+Shun'ye
+Shunkurkol
+Shur'yavr
+Shuram-Khol
+Shushinskoye
+Shusterkha
+Shustovo
+Sidyanyamdto
+Sien-Kyuyël
+Sigalampi
+Sigayarvi
+Sigun'yarvi
+Siikajärvi
+Sikachi
+Sikhonka
+Silande
+Sileyalampi
+Silikatnoye
+Simbirskoye
+Sindinskoye
+Sinevody
+Singama
+Sirves-Yarvi
+Sitanovo
+Sitovnoye
+Sitskoye
+Sitturilampi
+Sivankoyarvi
+Siverskoye
+Siyan
+Siyskoye
+Sizim-Versta
+Skal'noye
+Skokovskoye
+Skopino
+Skorokhodskoye
+Skripachi
+Slaboye
+Slavyanka
+Slitsovskiye Ozëra
+Slivnoye
+Slobodchakovo
+Slonovoye
+Slyunyavoye
+Smalevo
+Smekhrovskoye
+Snegirëvo
+Snetkovskoye
+Soabosen-Yarvi
+Soan-Yarvi
+Sobino
+Sodomskiye Ozëra
+Soitin-Yarvi
+Sokhondo
+Sokhonto
+Sokhpttur
+Solokhtokh
+Solomennoye
+Solov'yëvskoye
+Solyanka
+Somneniy
+Somovik
+Somovskoye
+Somuttakh-Uolbut
+Sonduzhskoye
+Songozero
+Soozerskoye
+Sopino
+Sordongnokh
+Sorenskoye
+Sorkhynglor
+Sormuslampi
+Soroki
+Sortalampi
+Soseng-To
+Sosna
+Sosnovik
+Sostinskoye
+Sotato
+Sotkayarvi
+Sotyto
+Sovdozero
+Soyartsaveyto
+Soydozero
+Soymo-Yarvi
+Spasitel'ny-Ty
+Spaster
+Sredneye Layskoye
+Sredneye Nizhemskoye
+Sredneye Okunëvo
+Sredneye Pribrezhnoye
+Sredneye Vayen'gskoye
+Sredneye Yershovo
+Sredniy Kaban
+Sredniye Denisovskiye
+Srednyaya Tret
+Stanichnoye
+Stantsinnoye
+Staraya
+Starinskoye
+Starkovskoye
+Starozavodskoye
+Stëganek
+Stëkhovo
+Stekol'shikovo
+Stepankino
+Stepanovskoye
+Ster'khovo
+Stergut
+Sterzh
+Stirkovo
+Storonich'ye
+Storonneye
+Storozh'ye
+Strelka-Anzhu
+Stretenskoye
+Strizhkino
+Stroganets
+Strudno
+Strunalampi
+Stublishche
+Studenetskoye
+Studenoye
+Stvolino
+Suav-Yarvi
+Subachevo
+Suchkino
+Sudno
+Sudomlya
+Sudoromskoye
+Sugdyandyakan
+Sugmuten-Yakh
+Sugomak
+Sukslampi
+Sulalampi
+Sulasu
+Sulat
+Sulos-Yarvi
+Sultugan
+Sulumatskoye
+Sumoklyukol
+Sundukul
+Sungatkol
+Suolalampi
+Suovan-Yarvi
+Suoyarvi
+Sur'yarvi
+Surensuonlampi
+Surgubskoye
+Suri Kyapya-Yarvi
+Suri-Toutiyenlampi
+Suropyatovo
+Surtandy
+Suslovo
+Suuri Kotajärvi
+Suyetok
+Suystamoyarvi
+Suzdalka
+Suzenskoye
+Svalkovo
+Svetchik
+Svetik
+Svetozero
+Sviblo
+Svobodnoye
+Svyat'ye
+Svyatloye
+Svyazevo
+Syabero
+Syadotey
+Syago
+Syakhlpattur
+Syamozero
+Syamtuyyakhato
+Syapch
+Syarg
+Syargilampi
+Syartozero
+Syayun-Yarvi
+Syayunya-Yarvi
+Sychno
+Syklitino
+Synevo
+Syrkovyy Sor
+Syropyatovskoye
+Syruta
+Syrytkul
+Syumkhata-To
+Syurekh-Tongologa
+Syuri-Yarvi
+Syurtyav-Malto
+Syurzi
+Syuya-Yarvi
+Syvtozero
+Syzalta
+Ta-Pauza
+Taastaakh-Kyuyël
+Tabachnoye
+Tabaky
+Tabanda
+Tabayevo
+Tabornoye
+Tachych
+Taga
+Tagley
+Taito
+Takalambina
+Takhiyumto
+Takhkolampi
+Takhkoyarvi
+Takhtalym
+Takka-Yarvi
+Talaktaakh
+Talatato
+Talets
+Talgin
+Talisman
+Talkas
+Talovatka
+Talozhnoye
+Talykan
+Tambeyto
+Tamboto
+Tammilampi
+Tandu
+Tangoyarato
+Tankay-Kyuyele
+Tarakanovskoye
+Tardagan'ye
+Targach
+Tark
+Tarkkalanjärvi
+Tarom
+Tartykul
+Tarutinskoye
+Tashlair
+Tashnoye
+Tashsha
+Taskanchik
+Tatav-Kol
+Tauro
+Tavayarvi
+Tavli
+Tavolzhany
+Tayanovo
+Taybolino
+Taykul
+Taylakovskoye
+Tayshet
+Tebis
+Tegyuryuk-Kyuyel
+Tel'gi
+Tel'ma-Yarvi
+Telemba
+Teleutskoye
+Telkhyto
+Telyach'ye
+Tengeli
+Teniguz
+Tenkul
+Tenyak
+Teponlampi
+Terekhinskoye
+Terel'-Tu
+Teren'-Kul
+Terinunato
+Terpeyty
+Terva-Lambi
+Terva-Yarvi
+Tervaozero
+Teterskoye
+Tetr
+Tetu-Mamontotyay
+Tety-Kul
+Teyrilampi
+Tiilikkajärvi
+Tikhonovo
+Til'binskoye
+Tilkus
+Timashëvo
+Timonino
+Tinigayevo
+Tinkul
+Tintozero
+Tirebyato
+Tirikul
+Tisovskoye
+Tiurinlampi
+Tlepetnik
+To
+Tobarakhato
+Tobato
+Tobol-Kushly
+Tobondya
+Tobonno
+Tochilenoye
+Todzha
+Tohkolanjärvi
+Toki
+Tokurdakh
+Toli-Yarvi
+Tolmozero
+Tolokontsevskoye
+Tolormen
+Tolpanjärvi
+Tolstomenskoye
+Toltto
+Tolvand
+Tomutalampi
+Tonysheva
+Topat-Lek-Tor
+Toporovo
+Toryn
+Totalym-Lor
+Totkhol'ta
+Totugyz
+Toulianlampi
+Tovskoye
+Trabilovskoye
+Travernoye
+Travtsvets
+Travyanistoye Yelkhovoye
+Trëkh Brat'yev
+Trëmovskoye
+Tresh
+Tret'yanskoye
+Treugolnoe
+Tri Vsadnika
+Triton
+Trofimozero
+Troitskiye Ozëra
+Trokmo-Yarvi
+Tropino
+Truba
+Trupannikovo
+Tsagan-Khag
+Tsar
+Tsavdyr
+Tsegerker
+Tsipilya
+Tsogozero
+Tsvetnoye
+Tsych-Yavr
+Tsynginskiy Sor
+Tsypino
+Tsytsarëva
+Tuboss
+Tuch'ye
+Tugundy
+Tugur-Yagun-Lor
+Tukh-Tur
+Tukhka-Lambi
+Tukmakty
+Tuli
+Tumanlygël
+Tumanovskoye
+Tumarkol
+Tumas
+Tumba
+Tumbazhskoye
+Tumovskoye
+Tumpa
+Tumpol'ka
+Tundra
+Tungor
+Tungus'ye
+Tungusozero
+Tungusskoye
+Tunguzskoye
+Tunku-Nur
+Tuobuya
+Tuolp-Yavr
+Tupsilor
+Turishino
+Turist
+Turovo
+Turovskoye
+Turpan
+Turtastur
+Turuk
+Turvatpaul
+Turvattur
+Tuslopa
+Tuzherinskoye
+Tuzovo
+Tyanegozhskoye
+Tyapkinskoye
+Tylakh-Kyuyele
+Tylgyny
+Tympy Pervoye
+Tyn'yar
+Tynpenki
+Tyukhminskoye
+Tyukitskoye
+Tyulen
+Tyundkhynato
+Tyungeriye-Yuryage
+Tyungyulyu
+Tyusmen
+Ubaly
+Uboynoye
+Ubsh-Yar
+Uchchuguy-Det
+Uchma-Lampi
+Udilovskoye
+Udvyat
+Ufimskoye
+Ugdyri
+Uglino
+Uglyanskoye
+Ugrovatoye
+Ugun-Kël
+Ukhtom'yarskoye
+Ukleinskoye
+Ukleynoye
+Ukleynskoye
+Uksu-Yarvi
+Ul'myulikanskoye
+Ul'yanova
+Ulakan
+Ulakhan-Këlyuyekyan
+Ulakhan-Khargy Kyuyel
+Ulakhan-Kyuyël
+Ulakhan-Lëkyumde
+Ulakhon-Khagypyt
+Ulanovskoye
+Ulet-Kul
+Uletskoye
+Ulichnoye
+Ulmanga
+Uloba
+Ulu-Kyuyel
+Ulugan-Khol
+Uluntuy
+Ulysmyka
+Uman'gozero
+Umay
+Umbozero
+Un-Novyinklor
+Unarba
+Ungozero
+Untor
+Untyrlor
+Uochat
+Uolevinlampi
+Upeleganskoye
+Upt-lor
+Urakkajärvi
+Uram
+Uramon-Lampi
+Urash
+Urashnoye
+Urayevo
+Urekty
+Urklubol
+Urlapovskoye
+Urmayarvi
+Urtsevo
+Urul'tun
+Usad
+Ushat
+Ushchel'noye
+Ushcho
+Ushminskoye
+Uskhyndy
+Usmunskiye Ozëra
+Usovo Vtoroye
+Usovskoye
+Uspenovskoye
+Ust'tor
+Ust'yevoye
+Ustrechina
+Usvyat'ye
+Utënok
+Utinka
+Utinyye Ozëra
+Utkachentur
+Utkino
+Utoilor
+Uzgovatoye
+Uzkiye Ozëra
+Uzol'-Tu
+Vachozero
+Vadiga
+Vagan
+Vagan'kovo
+Vakhmistovo
+Vakhvayarvi
+Val'lampi
+Val'skoye
+Valdayskoye
+Valdozero
+Valentiny
+Valgilampi
+Valkamalampi
+Vallas
+Vanchetur
+Vandmtor
+Vanevazhskoye
+Vangkhyto
+Vangutato
+Var'toukh
+Vargashi
+Vargato
+Varguno Vtoroye
+Varka-Ty
+Varmuriy
+Vas'lor
+Vasil'kovskoye
+Vasil'ye
+Vasil'yevskaya Staritsa
+Vasto
+Vat'yarty
+Vaykne
+Vebosi-To
+Vecherneye
+Veemochkino
+Vegotskoye
+Vehkalampi
+Vekhno
+Vel'ga
+Vel'skoye
+Velikovskoye
+Venelampi
+Veprevskoye
+Verbovich
+Vere
+Veretnitskoye
+Verhneye
+Verhneye Shubozero
+Verkh
+Verkhneberëznoye
+Verkhneye Chertovo
+Verkhneye Kapustnoye
+Verkhneye Karb
+Verkhneye Kegozero
+Verkhneye Kholodnoye
+Verkhneye Koydo-Yarvi
+Verkhneye Kud'mozero
+Verkhneye Kumch
+Verkhneye Kurzhinskoye
+Verkhneye Layskoye
+Verkhneye Listvennichnoye
+Verkhneye Mezozer'ye
+Verkhneye Mglinskoye
+Verkhneye Nil'mozero
+Verkhneye Paakanyarvi
+Verkhneye Pen
+Verkhneye Pizama
+Verkhneye Polisarskoye
+Verkhneye Popovo
+Verkhneye Tambichozero
+Verkhneye Tukshozero
+Verkhneye Venozero
+Verkhneye Volch'ye
+Verkhneye Voopo-Yarvi
+Verkhneye Vumb
+Verkhneye Yeresozero
+Verkhneye Zaymishche
+Verkhneye-Lambi
+Verkhniy Ilirneygytgyn
+Verkhniy Kaniyavr
+Verkhniy Termant
+Verkhniy Tikoy
+Verkhniy Venzin
+Verkhniy Zangaryk
+Verkhniy-Kivach
+Verkhniye Ikki
+Verkhniye Pyatnitskiye
+Verkhnyaya Khoyla
+Verkhnyaya Kyuvikanda
+Verkhnyaya Onigma
+Verkhnyaya Pettal
+Verkhovskiye Ozëra
+Vershinskoye
+Vervizhskoye
+Veryato
+Veshka
+Veshkoma
+Veshskoye
+Veslyato
+Vetchinskoye
+Vetlyanoye
+Vetreno-Teleutskoye
+Vetrov
+Veyakokhasrë
+Veyenka
+Vezhavad
+Vezhmozero
+Vezhungiyarvi
+Vidaozero
+Vidimirskoye
+Vidimlya
+Vidu-Lambi
+Vigachozero
+Vikhkozero
+Vil'ko-Yarvi
+Vil'yam-Lampi
+Vilotovoye
+Vilozero
+Vilpuksenjärvi
+Vinogradskoye
+Vinter
+Virazlampi
+Visattonnujärvi
+Visha
+Vishnëvskoye
+Vitailampi
+Vitcheozero
+Vitisito
+Vitrino
+Vitsangip'yarvi
+Viza
+Vizhas
+Viziyarvi
+Vlasovskoye
+Vlesno
+Vodacha
+Vodlitskoye
+Vodlozero
+Volchanets
+Volchek
+Vold
+Volkozero
+Vologochan
+Voloshna
+Volosno
+Voroninskoye
+Vorotno
+Voskresenskiy Mochag
+Vostochnaya Litsa
+Vot-Chizhim-Lor
+Voyepol
+Voyskoye
+Voyvoko
+Vozhe
+Vozhema-Lambi
+Vrazhskoye
+Vselug
+Vtoraya Dekanda
+Vtoroye Kurganskoye
+Vuagolampi
+Vuara-Lambi
+Vuatozero
+Vuchel'yavr
+Vudozero
+Vuenniyaur
+Vul'kesvunyavr
+Vuliyavr
+Vulozero
+Vuori-Yarvi
+Vuosnayarvi
+Vuotsi-Yarvi
+Vuotto-Yarvi
+Vut-Tor
+Vuyem
+Vvedenkovskoye
+Vyakhyainen-Siyeminki
+Vydreyskoye
+Vygozero
+Vyin-Lor
+Vylgotskoye
+Vynggyto
+Vypasnoye
+Vypukloye
+Vyrinskoye
+Vyrvan
+Vysokinskoye
+Vysokovskoye
+Vysykhayushcheye
+Vzglyadovo
+Yabtarkato
+Yad'malto
+Yagalampi
+Yagmakit
+Yain-Tur
+Yakkunlor
+Yakov-Lambina
+Yakovo
+Yakutkul
+Yakym-Kutyp-Tyv-Tor
+Yalan'kul
+Yalangaskul
+Yalpyntur
+Yalyapito
+Yamb-Goraveyto
+Yamenets
+Yamistoye
+Yamlyshevo
+Yamskoy Vodopad
+Yamskoye
+Yan'dozero
+Yand
+Yanëlampi
+Yanemdeto
+Yanoba
+Yanozero
+Yanygaringtur
+Yanytur
+Yaoval'gytyn
+Yarato
+Yarbozero
+Yaritsa
+Yarku
+Yaroto
+Yasavay Mal-To
+Yat'inskoye
+Yatsenkovo
+Yatyaskëlampi
+Yau-Balyk
+Yaubike
+Yaukto
+Yavdozero
+Yavkhevto
+Yayneto
+Yazvinskoye
+Ydzhidkhoylaty
+Yech
+Yefimino
+Yefrem-To
+Yefremovo
+Yegdysh
+Yegorova Lambina
+Yegut
+Yekhenecheto
+Yekkannaigytgyn
+Yel'no
+Yel'skoye
+Yelbachëvo
+Yelbagach
+Yelbakul
+Yelchen-Yarvi
+Yele-Yarvi
+Yelga
+Yelinskiye Ozëra
+Yeliozero
+Yelobozero
+Yelsozero
+Yemeley
+Yendel'skoye
+Yendovo
+Yene-Kyuyël
+Yeng
+Yeniseyskoye
+Yentl'-Lor
+Yepishkino
+Yerbash
+Yerëmkino
+Yerëmkovo
+Yergalakh
+Yermakovskiy Prud
+Yërtomskoye
+Yerusalim
+Yesan-To Pervoye
+Yesyng-To
+Yeuzhiyarvi
+Yevganlampi
+Yevralor
+Yevsino
+Yezerishche
+Yezhmozero
+Ylälampi
+Ylbay-Kyuyel
+Yolleykko
+Ytyk-Kyuyël
+Yuchelampi
+Yudalo
+Yukhlinskoye
+Yukhor
+Yul'ka-Kumpu
+Yulash
+Yuldo
+Yulenkhedo
+Yulinen-Yarvi
+Yulya-Tolva-Yarvi
+Yunkoyarvi
+Yunost
+Yunuyurto
+Yupenga
+Yupyauzhlampi
+Yur'-Yega-Tor
+Yur'inskoye
+Yurasovskoye
+Yurochnoye
+Yurozero
+Yuryukyu
+Yushnoye Hattomozero
+Yushty
+Yutanlampi
+Yuzhnoye Pitkyalampi
+Yuzhnoye Pribrezhnoye
+Yuzhnoye Upochnoye
+Yuzhnyy Gytgypil'gyn
+Yuzhnyy Yergalakh
+Yuzhnyye Ulyandy
+Yzmantsi
+Zabashino
+Zabolot'ye
+Zabulga
+Zacheren'skoye
+Zachist'ye
+Zadneye Semiozero
+Zagorodskoye
+Zakharovo
+Zakhodetskoye
+Zakhrebetnoye
+Zakomaldino
+Zakuryarvi
+Zalomayevskiye Ozëra
+Zalosemskoye
+Zaluzh'ye
+Zalyushchitskoye
+Zangura
+Zaostrennoye
+Zap'yano
+Zapadnoye Punangozero
+Zaperech'ye
+Zaperinskoye
+Zapesoch'ye
+Zaplavka
+Zaplyusskiye Ozera
+Zaplyusskoye
+Zapron'kino
+Zapruda
+Zarastayushiye Ozëra
+Zargu-Igun
+Zarikitsenskoye
+Zashireynyye Ozëra
+Zavert'ye
+Zavesech'ye
+Zaytsevo
+Zdokhnya
+Zdrannoye
+Zelandi
+Zelenodol'skoye
+Zelenopol'skoye
+Zemsutsnojejärvi
+Zemtitskoye
+Zerkalo
+Zernovo
+Zgonskoye
+Zhabernoye
+Zhaltyr
+Zhangiz
+Zhardovo
+Zharkovo
+Zhartykol
+Zhelachskoye
+Zhelib'ye
+Zhëlten'koye
+Zheltushka
+Zherebutskoye
+Zhibreyevo
+Zhivilovskoye
+Zhizhitskoye
+Zhmurskiye Klyuchi
+Zhokhovskoye
+Zhuk
+Zhukovskoye
+Zhuravlëvo
+Zhuravlëvskoye
+Zhurkovskoye
+Zimetskoye
+Ziryayevo
+Zizda
+Zlydarskoye
+Zmeino
+Zmeinoye
+Zobo
+Zolotoye Dno
+Zolotukha
+Zorino
+Zotkino
+Zotovskoye
+Zovolotskoye
+Zubovskoye
+Zuikhina Lambina
+Zuino
+Zun-Araltuy
+Zun-Soktuy
+Zvanka
+Zverinyye Ozëra
+Zybul'ki

@@ -1,0 +1,1824 @@
+Carlos	1161
+Juan	1068
+José	923
+Jorge	790
+Luis	666
+Gustabo	642
+Pablo	582
+Alberto	568
+Eduardo	555
+Roberto	498
+Alejandro	488
+Daniel	464
+Francisco	452
+Fernando	445
+Nicolás	421
+Ricardo	418
+Pedro	412
+Diego	403
+Guillermo	397
+Enrique	394
+Manuel	385
+Mario	376
+Marcelo	372
+Federico	363
+Antonio	358
+Héctor	356
+Gustavo	349
+Miguel	349
+Julio	334
+Oscar	334
+Santiago	319
+Lucas	305
+Matías	305
+Alfredo	296
+Juan Carlos	292
+Gabriel	287
+Mariano	284
+Sergio	269
+Horacio	264
+Agustín	255
+Hugo	253
+Sebastián	226
+Javier	224
+Rodolfo	222
+Ángel	215
+Andrés	211
+Emilio	207
+Tomás	207
+Gonzalo	204
+Rubén	200
+Franco	197
+Claudio	195
+Ernesto	191
+Ignacio	189
+Leandro	180
+Osvaldo	179
+Marcos	171
+Ariel	170
+Cristian	168
+Facundo	168
+Hernán	164
+Luciano	160
+Rodrigo	160
+Ezequiel	159
+César	155
+Leonardo	153
+Maximiliano	151
+Walter	151
+Rafael	150
+Ramón	148
+Adolfo	145
+Esteban	145
+José María	139
+Gastón	132
+Joaquín	130
+Néstor	130
+Germán	129
+Domingo	126
+Arturo	125
+Julián	124
+Víctor	124
+Vicente	121
+Miguel Ángel	117
+David	116
+Omar	116
+Fabián	106
+Juan Manuel	106
+Norberto	103
+Felipe	100
+Mauricio	99
+Mauro	99
+Armando	98
+Patricio	98
+José Luis	97
+Adrián	96
+Emiliano	96
+Juan José	95
+Augusto	92
+Gerardo	92
+Darío	90
+Damián	87
+Edgardo	87
+Bernardo	79
+Juan Pablo	79
+Christian	75
+Bruno	74
+Félix	73
+Emanuel	72
+Jonathan	72
+Aldo	71
+Aníbal	71
+Humberto	68
+Ramiro	66
+Gregorio	64
+Salvador	64
+Mateo	63
+Enzo	62
+Alan	61
+Iván	61
+Nahuel	61
+Lautaro	60
+Abel	59
+Guido	58
+José Antonio	58
+Leopoldo	57
+Alexis	56
+Orlando	56
+Benjamín	55
+Eugenio	55
+Matias	55
+Dante	52
+Leonel	52
+Brian	51
+Lucio	51
+Lorenzo	49
+Elías	47
+Nicolas	47
+Carlos Alberto	46
+Óscar	44
+Rolando	44
+Jaime	42
+Sebastian	41
+Victor	41
+Atilio	40
+Juan Ignacio	40
+Juan Bautista	38
+Silvio	38
+Lisandro	37
+Octavio	37
+René	37
+Valentín	37
+Alejo	36
+Benito	36
+Máximo	36
+Pascual	36
+Hector	34
+Ismael	34
+Samuel	34
+Fabio	33
+Adrian	32
+Jesús	32
+Kevin	32
+León	32
+Américo	31
+Justo	31
+Axel	30
+Emmanuel	30
+Roque	30
+Julio César	29
+Leo	29
+Tito	29
+Alfonso	28
+Rogelio	28
+Bautista	26
+Camilo	26
+Marco	26
+Nelson	26
+Angel	25
+Juan Antonio	25
+Agustin	24
+Álvaro	24
+Edmundo	24
+Fabricio	24
+Gerónimo	24
+Román	24
+Jose	23
+Julian	23
+Andres	22
+Carmelo	22
+Eusebio	22
+John	22
+Saúl	22
+Braian	21
+Jerónimo	21
+Luis María	21
+Ruben	21
+Cayetano	20
+Eric	20
+Florencio	20
+Hipólito	20
+Ivan	20
+Segundo	20
+Víctor Hugo	20
+Bartolomé	19
+Dario	19
+Estanislao	19
+Fausto	19
+Jorge Luis	19
+Marcelino	19
+Thomas	19
+Tomas	19
+Arnaldo	18
+Isaac	18
+Natalio	18
+Nestor	18
+Aurelio	17
+Conrado	17
+Cristián	17
+Eliseo	17
+Jacinto	17
+Milton	17
+Teodoro	17
+Alex	16
+Blas	16
+Gaspar	16
+Gaston	16
+Isidoro	16
+Jacobo	16
+Joel	16
+Moisés	16
+Paul	16
+Victorio	16
+Abraham	15
+Clemente	15
+José Alberto	15
+Lino	15
+Reynaldo	15
+Sixto	15
+Thiago	15
+Amadeo	14
+Anselmo	14
+Argentino	14
+Damian	14
+Dionisio	14
+Exequiel	14
+Fidel	14
+Flavio	14
+Juan Francisco	14
+Luca	14
+Narciso	14
+Nazareno	14
+Pepe	14
+Rómulo	14
+Ulises	14
+William	14
+Abelardo	13
+Ambrosio	13
+Boris	13
+Celestino	13
+Danilo	13
+Evaristo	13
+Faustino	13
+Francisco Javier	13
+Jeremías	13
+Jorge Antonio	13
+Laureano	13
+María	13
+Max	13
+Reinaldo	13
+Renato	13
+Renzo	13
+Rufino	13
+Simón	13
+Virgilio	13
+Antonino	12
+Fabian	12
+Fermín	12
+Genaro	12
+James	12
+Jonatan	12
+Lázaro	12
+Lionel	12
+Otto	12
+Paulo	12
+Raul	12
+Santos	12
+Tobías	12
+Viktor	12
+Wenceslao	12
+Alcides	11
+Amado	11
+Constantino	11
+Elio	11
+Hilario	11
+Ian	11
+Oreste	11
+Rosendo	11
+Severo	11
+Adalberto	10
+Alexander	10
+Amílcar	10
+Anibal	10
+Benjamin	10
+Carlos María	10
+Cesar	10
+Dardo	10
+Fortunato	10
+Frank	10
+Isidro	10
+Lalo	10
+Michel	10
+Raimundo	10
+Richard	10
+Tiago	10
+Tulio	10
+Alberto José	9
+Andy	9
+Belisario	9
+Benigno	9
+Bernabé	9
+Bernardino	9
+Calixto	9
+Cándido	9
+Charles	9
+Emir	9
+George	9
+Gervasio	9
+Gianluca	9
+Gino	9
+José Daniel	9
+José Ramón	9
+Juan Ramón	9
+Oliverio	9
+Ruperto	9
+Willy	9
+Aaron	8
+Albino	8
+Arnoldo	8
+Cecilio	8
+Ceferino	8
+Cornelio	8
+Cosme	8
+Demetrio	8
+Donato	8
+Eloy	8
+Elvio	8
+Favio	8
+Feliciano	8
+Francisco José	8
+Gilberto	8
+Henry	8
+Heriberto	8
+Herminio	8
+Israel	8
+José Manuel	8
+Josué	8
+Juan Ángel	8
+Ludovico	8
+Marcial	8
+Maria	8
+Marino	8
+Michael	8
+Nico	8
+Paolo	8
+Próspero	8
+Prudencio	8
+Stefano	8
+Teófilo	8
+Tristán	8
+Adán	7
+Aquiles	7
+Arístides	7
+Arsenio	7
+Avelino	7
+Bonifacio	7
+Buenaventura	7
+Ciro	7
+Dino	7
+Duilio	7
+France	7
+Ivo	7
+Joaquin	7
+Leónidas	7
+Luís	7
+Mirko	7
+Oliver	7
+Ovidio	7
+Peter	7
+Roy	7
+Washington	7
+Wilfredo	7
+Wilson	7
+Albano	6
+Alonso	6
+Aniceto	6
+Aristóbulo	6
+Baldomero	6
+Basilio	6
+Dámaso	6
+Desiderio	6
+Diógenes	6
+Don	6
+Dylan	6
+Edelmiro	6
+Edgar	6
+Franc	6
+Franklin	6
+Gabino	6
+Georg	6
+German	6
+Hermenegildo	6
+Honorio	6
+Ildefonso	6
+Imanol	6
+Ítalo	6
+Jean	6
+Jorge Roberto	6
+José Fernando	6
+Juan de Dios	6
+Justiniano	6
+Lito	6
+Luis Alberto	6
+Manuel José	6
+Modesto	6
+Paulino	6
+Plácido	6
+Quique	6
+Raymundo	6
+Remo	6
+Sandro	6
+Torcuato	6
+Ubaldo	6
+Aarón	5
+Albert	5
+Alfred	5
+Anacleto	5
+Angelo	5
+Apolinario	5
+Balthazar	5
+Beto	5
+Carlo	5
+Carlos Eduardo	5
+Casiano	5
+Casimiro	5
+Catriel	5
+Cesáreo	5
+Cipriano	5
+Cirilo	5
+Clodomiro	5
+Cristóbal	5
+Cruz	5
+Delfín	5
+Demian	5
+Denis	5
+Eddie	5
+Efraín	5
+Elias	5
+Elpidio	5
+Emil	5
+Eudoro	5
+Eustaquio	5
+Floreal	5
+Francis	5
+Fulvio	5
+Giovanni	5
+Giuliano	5
+Herman	5
+Homero	5
+Italo	5
+Jack	5
+Joe	5
+Jonás	5
+José Eugenio	5
+Joseph	5
+Juan Alberto	5
+Juan Andrés	5
+Juan Miguel	5
+Juan Nepomuceno	5
+Juan Sebastián	5
+Livio	5
+Maximo	5
+Milo	5
+Napoleón	5
+Nicanor	5
+Nicasio	5
+Osmar	5
+Oswaldo	5
+Pastor	5
+Pedro Nolasco	5
+Pierre	5
+Rinaldo	5
+Romeo	5
+Romualdo	5
+Ronald	5
+Rubens	5
+Simon	5
+Tobias	5
+Toribio	5
+Yamil	5
+Absalón	4
+Alfio	4
+Anton	4
+Benedicto	4
+Bernard	4
+Cacho	4
+Charly	4
+Cleto	4
+Délfor	4
+Demián	4
+Edward	4
+Epifanio	4
+Felix	4
+Floro	4
+Francesco	4
+Francisco Eduardo	4
+Froilán	4
+Galo	4
+Gianfranco	4
+Graciano	4
+Gustavo Adrián	4
+Haroldo	4
+Hugo Miguel	4
+Iñaki	4
+Jorge Alberto	4
+Jorge José	4
+José Domingo	4
+José Ignacio	4
+José Nicolás	4
+Juan Crisóstomo	4
+Juan Pedro	4
+Karl	4
+Klaus	4
+Lajos	4
+Lidoro	4
+Louis	4
+Luigi	4
+Luis Jorge	4
+Luis José	4
+Mamerto	4
+Manuel Antonio	4
+Marcello	4
+Maxi	4
+Medard	4
+Melchor	4
+Melitón	4
+Milan	4
+Misael	4
+Nehuén	4
+Nemesio	4
+Nery	4
+Pablo Antonio	4
+Paco	4
+Pantaleón	4
+Pedro Antonio	4
+Pietro	4
+Pío	4
+Pocho	4
+Ramon	4
+Rene	4
+Ronaldo	4
+Rudecindo	4
+Salomón	4
+Salustiano	4
+Servando	4
+Tadeo	4
+Tiburcio	4
+Tom	4
+Tony	4
+Urbano	4
+Uriel	4
+Valentin	4
+Valentino	4
+Ventura	4
+Vinko	4
+Virginio	4
+Vito	4
+Waldo	4
+Werner	4
+Xavier	4
+Yair	4
+Zenón	4
+Adeodato	3
+Adolf	3
+Alessandro	3
+Álex	3
+Amancio	3
+Anastasio	3
+Andrej	3
+Ángel Osvaldo	3
+Antenor	3
+Antoni	3
+August	3
+Augusto César	3
+Baltasar	3
+Baruch	3
+Brandon	3
+Bryan	3
+Carl	3
+Carlos Juan	3
+Carlos Miguel	3
+Carmen	3
+Celedonio	3
+Christopher	3
+Ciriaco	3
+Claudio Marcelo	3
+Coco	3
+Dalmiro	3
+Dani	3
+Dick	3
+Eladio	3
+Eleodoro	3
+Elian	3
+Erich	3
+Erik	3
+Ernst	3
+Eustoquio	3
+Fabrizio	3
+Fernán	3
+Florentino	3
+Florian	3
+Florindo	3
+François	3
+Franjo	3
+Fred	3
+Freddy	3
+Ginés	3
+Godofredo	3
+Gunnar	3
+Hamlet	3
+Harry	3
+Hermann	3
+Higinio	3
+Hilarión	3
+Igor	3
+Indalecio	3
+Isaías	3
+Jacques	3
+Janez	3
+Jesus	3
+Joan	3
+Jonas	3
+Jorge Juan	3
+José Alfredo	3
+José Ángel	3
+José Carlos	3
+José Elías	3
+José Eusebio	3
+José Gabriel	3
+Jože	3
+Juan Cruz	3
+Juan de la Cruz	3
+Juan Enrique	3
+Juan Felipe	3
+Juan Gualberto	3
+Juanito	3
+Juanjo	3
+Justino	3
+Karel	3
+Kurt	3
+Ladislao	3
+Leon	3
+Macedonio	3
+Manolo	3
+Mardoqueo	3
+Marta	3
+Maurice	3
+Miguel Angel	3
+Miguel Antonio	3
+Mijailo	3
+Mike	3
+Nereo	3
+Neri	3
+Nicola	3
+Nikanor	3
+Norman	3
+Onofre	3
+Pablo Daniel	3
+Panchito	3
+Pedro José	3
+Pedro Ramón	3
+Pipo	3
+Ramón Alfredo	3
+Ricky	3
+Robertino	3
+Rudolf	3
+Rudy	3
+Santino	3
+Serafín	3
+Severino	3
+Sigfrido	3
+Silvestre	3
+Timoteo	3
+Tino	3
+Uladislao	3
+Umberto	3
+Valerio	3
+Víctor Manuel	3
+Waldemar	3
+Waldino	3
+Walther	3
+Youssef	3
+Zelmar	3
+Zoilo	3
+Adriano	2
+Adrien	2
+Ahmed	2
+Alejandra	2
+Alejandro Pedro	2
+Alessio	2
+Alí	2
+Alojzij	2
+Alvaro	2
+Amable	2
+Amaro	2
+Amilcar	2
+Amin	2
+Anacarsis	2
+André	2
+Andrea	2
+Andrés José	2
+Andrew	2
+Ángel Vicente	2
+Antón	2
+Arcadio	2
+Arnold	2
+Aron	2
+Astor	2
+Atanasio	2
+Athos	2
+Attilio	2
+Augustín	2
+Aureliano	2
+Barry	2
+Beatriz	2
+Bill	2
+Billy	2
+Branko	2
+Braulio	2
+Carlos Alfredo	2
+Carlos Enrique	2
+Carlos Mauricio	2
+Cástulo	2
+Cecilia	2
+Celso	2
+Chango	2
+Chino	2
+Ciril	2
+Claudia	2
+Clément	2
+Constantin	2
+Crisanto	2
+Cristiano	2
+Cristino	2
+Curt	2
+Dalmacio	2
+Dan	2
+Delio	2
+Demis	2
+Derek	2
+Derlis	2
+Domenico	2
+Donald	2
+Eber	2
+Ed	2
+Eddy	2
+Edison	2
+Edoardo	2
+Eduard	2
+Eduardo Antonio	2
+Egidio	2
+Elbio	2
+Eleazar	2
+Eleuterio	2
+Elisardo	2
+Elmo	2
+Emeterio	2
+Enio	2
+Erasmo	2
+Ergasto	2
+Eros	2
+Erwin	2
+Eufemio	2
+Eufrasio	2
+Everardo	2
+Fábio	2
+Farid	2
+Ferenc	2
+Fernando Gustavo	2
+Florián	2
+Francisco de Asís	2
+Francisco de Paula	2
+Francisco Juan	2
+Francisco Manuel	2
+Frederico	2
+Friedrich	2
+Fritz	2
+Gabriel Alejandro	2
+Galileo	2
+Gary	2
+Gato	2
+Georges	2
+Gian	2
+Giancarlo	2
+Gianni	2
+Giorgio	2
+Giovanni Battista	2
+Glenn	2
+Gualberto	2
+Guillermo José	2
+Guillermo Luis	2
+Gyula	2
+Hanna	2
+Heinrich	2
+Heinz	2
+Hellmuth	2
+Helmut	2
+Herbert	2
+Hippolyte	2
+Horace	2
+Horácio	2
+Hubert	2
+Huberto	2
+Ibrahim	2
+Ilyas	2
+Imre	2
+Inés	2
+Ireneo	2
+Jacob	2
+Jair	2
+Jakob	2
+Jan	2
+Jeffrey	2
+Jens	2
+Joaquim	2
+Johannes	2
+Johnny	2
+Jorge Enrique	2
+Jorge Ricardo	2
+Jorge Víctor	2
+José Evaristo	2
+José Felipe	2
+José Félix	2
+José Guillermo	2
+José Jorge	2
+José Miguel	2
+José Patricio	2
+José Rubén	2
+José Vicente	2
+Josep	2
+Juan Alfredo	2
+Juan Diego	2
+Juan Luis	2
+Juan María	2
+Julius	2
+Junior	2
+Jurij	2
+Kenneth	2
+Kike	2
+Larry	2
+László	2
+Lauro	2
+Lelio	2
+Leoncio	2
+Leonhard	2
+Lewis	2
+Liborio	2
+Lisardo	2
+Lucho	2
+Ludwig	2
+Luiggi	2
+Luis Ángel	2
+Luis Antonio	2
+Luis Federico	2
+Luis Ignacio	2
+Luis Manuel	2
+Luka	2
+Maico	2
+Manfredo	2
+Manlio	2
+Marcio	2
+Marco Antonio	2
+María Laura	2
+Mariana	2
+Marijan	2
+Marko	2
+Maxim	2
+Mijaíl	2
+Mikel	2
+Nacho	2
+Natanael	2
+Naum	2
+Nazario	2
+Niceto	2
+Nick	2
+Nikolaj	2
+Nino	2
+Nito	2
+Noel	2
+Norbert	2
+Numa	2
+Obdulio	2
+Octaviano	2
+Olegario	2
+Olimpio	2
+Orestes	2
+Pancho	2
+Pascasio	2
+Patrick	2
+Paula	2
+Pedro Luis	2
+Pier	2
+Pinchas	2
+Pio	2
+Polo	2
+Primo	2
+Ray	2
+Reginaldo	2
+Remigio	2
+Roberto Alfredo	2
+Roberto Carlos	2
+Robustiano	2
+Roland	2
+Said	2
+Salo	2
+Salomon	2
+Sasha	2
+Serapio	2
+Sergio Mauricio	2
+Silvano	2
+Silverio	2
+Silvino	2
+Siro	2
+Stefan	2
+Takehiro	2
+Teo	2
+Theodor	2
+Tine	2
+Tiziano	2
+Tommy	2
+Tone	2
+Toto	2
+Tupac	2
+Tyler	2
+Ulyses	2
+Víctor José	2
+Victoriano	2
+Victorino	2
+Vittorio	2
+Vladimiro	2
+Wilfrido	2
+Wilhelm	2
+Willi	2
+Yael	2
+Yoel	2
+Yosef	2
+Yuri	2
+Yuriy	2
+Zacarías	2
+Zdravko	2
+Zitto	2
+Abdul Latif
+Abiel
+Abigail
+Abner
+Abril
+Achille
+Adalbert
+Adan
+Adelio
+Adolpho
+Adone
+Adonis
+Adrián Hernández
+Afanasy
+Agenor
+Ago
+Agus
+Aharon
+Akaki
+Al
+Alain
+Alba
+Albano Dante
+Alberico
+Alberto Eduardo
+Albin
+Alceo
+Alcira
+Ale
+Alejandro Francisco
+Alejandro Javier
+Alek
+Aleksandar
+Aleksander
+Aleksandr
+Aleš
+Alexandro
+Alexandru
+Alexei
+Alfredo José Lucas
+Ali
+Alicia
+Alieto
+Allan
+Alojz
+Alvise
+Amador
+Amando
+Amarko
+Amaru
+Amelia
+Amelio
+America
+Americo
+Amir
+Anaël
+Anastasius
+Anatole
+Anatolio
+Andor
+András
+Andreas
+Andréi
+Andrzej
+Anel
+Ángeles
+Anselm
+Ante
+Anteo
+Antonio Juan
+Anuar
+Aparicio
+apodo
+Apolo
+Apolonio
+Aquileo
+Ara
+Aram
+Arcángel Gabriel
+Ardilla
+Argentina
+Arieh
+Arif
+Aristeo
+Aristides
+Aristotle
+Arpad
+Árpád
+Arquímedes
+Asencio
+Ataúlfo
+Atilano
+Avigdor
+Ayar
+Ayrton
+Baby
+Bacilio
+Baltazár
+Bari
+Barron
+Bartolo
+Bebe
+Bedrós
+Béla
+Belen
+Belindo
+Beltrán
+Ben
+Benicio
+Benny
+Berardo
+Berna
+Bernaldo
+Bernardo José
+Bernhard
+Berta
+Bertram
+Bertrand
+Bibiloni
+Black
+Bob
+Bobby
+Bogumil
+Boleslao
+Bony
+Boy
+Božidar
+Brahian
+Burgos
+Byron
+Caín
+Calogero
+Camille
+Can
+Carlos Antonio
+Carlos Diego
+Carlos Fernando
+Carlos Javier
+Carlos Jorge
+Carlos Luis
+Carlos Manuel
+Carlos Roberto
+Carolina
+Casildo
+Cataldo
+Catalino
+Cátulo
+Cayo
+Cecyliusz
+Čedomir
+Cedric
+Celes
+Celestin
+César Luis
+Cesare
+Chang-seong
+Chang-su
+Chany
+Charlie
+Chris
+Christiano
+Christopher John
+Chrystian
+Claes
+Clara
+Claus
+Clelio
+Clemens
+Clement
+Cleopatra
+Clyde
+Coleman
+Colin
+Conrad
+Constancio
+Constante
+Constanzo
+Contardo
+Coriolano
+Cortés
+Courteney
+Cris
+Crisólogo
+Cristhian
+Cristina
+Csaba
+Cyril
+Danel
+Danie
+Daniel Alejandro
+Daniel José
+Danny
+Dany
+Darian
+Darien
+Darwin
+Dávid
+David Emanuel
+Dean
+Delesio
+Delfo
+Dennis
+Desmond
+Dilan
+Dimitri
+Dirck
+Domènec
+Dominic
+Dominik
+Dominique
+Donaciano
+Doroteo
+Duccio
+Dudley
+Duval
+Eamon
+Eberhard
+Edberto
+Édgar
+Edgard
+Edilberto
+Edith
+Edlef
+Edmo
+Edmund
+Edwyn
+Efraim
+Efrén
+Eitan
+El Diente
+Elemér
+Eli
+Eliahu
+Elián
+Elías Ramón
+Ellery
+Elmer
+Elso
+Elvidio
+Elvino
+Elvis
+Emánuel
+Emerenciano
+Emerson
+Emile
+Emili
+Emin
+Ennio
+Ennis
+Enrico
+Enrique Alejandro
+Enrique José
+Eolo
+Eriberto
+Érico
+Ermete
+Erminio
+Ernie
+Esfrain
+Estefano
+Ettore
+Eugène
+Eulogio
+Evelyn
+Ever
+Éver
+Ewald
+Ezechiel
+Ezio
+Ezra
+Fabiana
+Fede
+Felicindo
+Felipe Antonio
+Félix Francisco
+Ferdinando
+Fermin
+Fernand
+Fernando José
+Ferran
+Ferran Pasqual
+Ferruccio
+Filemón
+Filiberto
+Filinto
+Filippo
+Firmo
+Flavia
+Flávio
+Floriano
+Fran
+Francisco Antonio
+Francisco María
+Franz
+Freddie
+Frederick
+Frigyes
+Fructuoso
+Gabriela
+Gaby
+Gael
+Gaetano
+García
+Garibaldi
+Garibaldo
+Gennaro
+Geno
+Georgo
+Gérard
+Geronimo
+Gerson
+Gherardo
+Gibrán
+Gildo
+Giocondo
+Giora
+Giovani
+Giulio Cesare
+Giuseppe
+Goar
+Gonzálo
+Gordon
+Gori
+Gottlob
+Graciliano
+Grant
+Guadalupe
+Gualterio
+Guelfo
+Guille
+Guillermo Antonio
+Guillermo Enrique
+Guillermo Ramón
+Gumersindo
+Günter
+Günther
+Gustav
+Gustavo Adolfo
+Guy
+Gvīdo
+György
+Győző
+Hamish
+Harold
+Heber
+Héctor Eduardo
+Hedelvio
+Helber
+Hellen
+Helmuth
+Henoch
+Henri
+Henrik
+Heraclio
+Heraldo
+Herberto
+Hermógenes
+Hernando
+Hideo
+Hideto
+Hilarion
+Hippolyt
+Hobson
+Holdo
+Holger
+Horatio
+Horst
+Hosni
+Howard
+Hugh
+Hunter
+Iker
+Ilan
+Ilmar
+Impacto
+Índigo
+Indio
+Indra
+Ingo
+Innocente
+Inocencio
+Inti
+Iosi
+Iosif
+Irving
+Isabelino
+Isaias
+Isauro
+István
+Isztar
+Itai
+Itamar
+Ivar
+Jacky
+Jairo
+Jalil
+János
+Jaroslaw
+Jaume
+Javier Alejandro
+Jawad
+Jean-Claude
+Jean-François
+Jean-Pierre
+Jeremias
+Jérôme
+Jerónimo José
+Jésus
+Jesús María
+Jesús Ricardo
+Jhon
+Jim
+Jo
+Joël
+Johann
+Johny
+Jon
+Jonny
+Jordan
+Jordi
+Jorge Andrés
+Jorge Antônio
+Jorge Carlos
+Jorge Ernesto
+Jorge Fernando
+Joris
+José Adolfo
+José Agustín
+José Alejandro
+José Bernardo
+José Carmelo
+José Celestino
+José de la Cruz
+José Eduardo
+José Emilio
+José Enrique
+José Ernesto
+José Francisco
+José Gregorio
+José Joaquín
+José Julián
+José Julio
+Jose Manuel
+José Maria
+José Matías
+José Ruperto
+José Tomás
+José Víctor
+José Victoriano
+Josef
+Josh
+Joshua
+Josimar
+Josip
+Jota
+Joža
+Jozef
+Jožko
+Juan Agustín
+Juan Alejandro
+Juan Domingo
+Juan Gabriel
+Juan Gregorio
+Juan Rafael
+Juan Roberto
+Juan Santiago
+Juan Vicente
+Juhan
+Julia
+Juliana
+Julieta
+Julio José
+Julio Manuel
+Júnior
+Kalman
+Karim
+Karl-Egon
+Kārlis
+Károly
+Kazimierz
+Kazuya
+Ken
+KEtO
+Kiko
+Knud
+Ko
+Konstantin
+Kornél
+Lars
+Lastenes
+Laura
+Laurentino
+Laurio
+Leda
+Leocadio
+Leonida
+Leonidas
+Leopold
+Lía
+Lian
+Libardo
+Liberato
+Libero
+Lidio
+Lido
+Lindolfo
+Liudas
+Llanto
+Lluís
+Loan
+Lojze
+Lombardo
+Lucciano
+Lúcio
+Ludolf-Hermann
+Luis Bernardo
+Luis Eduardo
+Luis Enrique
+Luis Felipe
+Luis Fernando
+Luis Guillermo
+Luis Miguel
+Luis Oscar
+Luis Rafael
+Luis Roberto
+Luis Segundo
+Luis Vicente
+Lukas
+Lutz
+Mabel
+Mac
+Macario
+Malcolm
+Manfred
+Manfredi
+Manu
+Manuel Ignacio
+Manuel Jorge
+Manuel María
+Manuel Ricardo
+Mara
+Marc
+Marcel
+Marcela
+Marciano
+Marcolino
+María Eugenia
+María Fernanda
+Mário
+Mario Antonio
+Mario del Tránsito
+Mario José
+Marius
+Marjan
+Markas
+Markus
+Márton
+Marty
+Massimiliano
+Mate
+Mateu
+Mathias
+Mathías
+Matilde
+Matko
+Mattia
+Mattias
+Maximilien
+Maximino
+Médéric
+Mederico
+Meir
+Melvin
+Mempo
+Micael
+Michele
+Michiel
+Mieczysław
+Miguel Juan
+Mihai
+Mijael
+Mikael
+Miklós
+Milcíades
+Miloš
+Min-su
+Miqueas
+Mirco
+Mirkko
+Mirto
+Mischa
+Mohamed
+Mohammed
+Moiséi
+Mookie
+Morris
+Moses
+Moshe
+Mousa
+Muriel
+Myrta
+Nabor
+Nacianceno
+Natan
+Nathan
+Nazzareno
+Neal
+Nello
+Nelo
+Nemer
+Nené
+Nepomuceno
+Nerio
+Niccolò
+Nicholas
+Nicky
+Nicolino
+Niels
+Nigel
+Nikolái
+Nilo
+Noah
+Noe
+Noé
+Nono
+Nuno
+Oberdan
+Odilón
+Ödön
+Olivero
+Olívio
+Onésimo
+Onofrio
+Orest
+Orio
+Osias
+Osías
+Oskar
+Oswald
+Otmar
+Ottavio
+Owen
+Pablo Enrique
+Palemon
+Papu
+Paquito
+Parmenio
+Pathology and Oncology Research
+Patricia
+Paulin
+Paz
+Pedro Andrés
+Pedro de Alcántara
+Pedro del Corazón
+Pedro Felipe
+Pedro Ignacio
+Pelagio
+Pelayo
+Pellegrino
+Percival
+Peregrino
+Perfecto
+Petar
+Pete
+Péter
+Petro
+Philip
+Philipp
+Phillip
+Piero
+Pierpaolo
+Pinélides
+Pino
+Plinio
+Pompeu
+Pompeyo
+Prilidiano
+Quirino
+Ralph
+Ramez
+Ramirez
+Ramón Alberto
+Raoul
+Raphael
+Reginald
+Regino
+Regis
+Renée
+Rey
+Rezső
+Ricardo Ernesto
+Ricardo Jorge
+Ricardo Luis
+Ricardo Manuel
+Riccardo
+Riego
+Rimas
+Risieri
+Riziero
+Roby
+Rocco
+Rocío
+Rod
+Rody
+Roger
+Rolf
+Roman
+Romolo
+Romuald
+Ron
+Roni
+Ronnie
+Rosa
+Rubén Darío
+Rudi
+Rudolph
+Ruggero
+Sabatino
+Sabin
+Sabino
+Sacha
+Sadi
+Salvo
+Sameer
+Sampietro
+Samy
+Sándor
+Santo
+Sara
+Satoshi
+Saulo
+Saverio
+Seba
+Sebastiano
+Sebastien
+Sebastijan
+Serafin
+Serafino
+Sergej
+Seven
+Severiano
+Shabtai
+Shahid
+Shaquille
+Shlomo
+Shmuel
+Siegfried
+Silvestro
+Silvina
+Simeón
+Simone
+Socrates
+Sócrates
+Soledad
+Sotero
+Srečko
+Stalin
+Stanislav
+Stanisław
+Stanko
+Stanley
+Štefan
+Stephan
+Stephen
+Steven
+Süleyman
+Susana
+Sydney
+Sylvain
+Tadeusz
+Tal
+Tamer
+Tamir
+Tano
+Tarik
+Tato
+Taty
+Tebaldo
+Teddy
+Telémaco
+Telmo
+Teodosio
+Teoman
+Teresa
+Theo
+Theophilus
+Tiit
+Tilo
+Tirso
+Tomàs
+Tomáš
+Tomi
+Tommie
+Tomy
+Tõnis
+Toti
+Tranquilo
+Trinidad
+Tristan
+Troels
+Tucho
+Uberto
+Uki
+Ulderico
+Ulf
+Ulpiano
+Valdo
+Valente
+Valerian
+Vasili
+Veli
+Venancio
+Venceslao
+Vernon
+Vicente Antonio
+Vicente Luis
+Víctor Eduardo
+Victor Hugo
+Víctor María
+Victoria
+Vilfredo
+Villa
+Vinicio
+Vital
+Viviano
+Vjekoslav
+Vladímir
+Vojko
+Voldemar
+Wadi
+Walberto
+Walton
+Wanda
+Wander
+Wendel
+Wifredo
+Wilder
+Wilmer
+Wolfgang
+Władysław
+Xabier
+Xan
+Yaakov
+Yago
+Yayo
+Yeheskel
+Yehuda
+Yeruham
+Yevgueni
+Yitzhak
+Yolanda
+Yonathan
+Yosafat
+Yosyf
+Zaid
+Zaki
+Zalman
+Zdenko
+Zefiryn
+Zelman
+Zenobio
+Zeta
+Zoltán
+Zorko

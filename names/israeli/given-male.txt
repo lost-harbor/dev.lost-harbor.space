@@ -1,0 +1,1738 @@
+Moshe	545
+David	456
+Yitzhak	319
+Michael	282
+Avraham	260
+Zvi	244
+Shlomo	242
+Daniel	220
+Israel	217
+Chaim	205
+Yosef	190
+Shmuel	188
+Meir	173
+Avi	169
+Mordecai	165
+Uri	164
+Yehuda	161
+Yaakov	144
+Yossi	144
+Dan	142
+Guy	139
+Abraham	130
+Jacob	130
+Shimon	128
+Amir	125
+Eli	124
+Aharon	118
+Haim	116
+Arie	114
+Menachem	114
+Yuval	109
+Joseph	106
+Yaacov	104
+Baruch	103
+Dov	103
+Eliezer	102
+Gideon	102
+Amos	97
+Ron	97
+Alon	96
+Yair	94
+Noam	93
+Dávid	92
+Yoav	92
+Aryeh	91
+Jonathan	90
+Alexander	89
+Eyal	89
+Danny	87
+Doron	86
+Ilan	85
+Yoram	84
+Ariel	81
+Oded	80
+Eitan	79
+Lior	79
+Ephraim	78
+Eran	77
+Isaac	77
+Reuven	75
+Nir	72
+Ze'ev	72
+Asaf	70
+Gil	70
+Amnon	69
+Tal	68
+Ben	67
+Amit	66
+Ori	66
+Zeev	66
+Ran	65
+Ofer	64
+Asher	63
+Erez	63
+Yaron	63
+Nathan	62
+Omer	62
+Eliahu	61
+Shalom	61
+Tomer	61
+Ehud	60
+Josef	60
+Benjamin	58
+Gilad	58
+Oren	58
+Adam	57
+Ido	57
+Benny	56
+Rafi	56
+Aaron	55
+Boaz	55
+Joshua	55
+Yehoshua	55
+Yonatan	55
+Binyamin	54
+Emanuel	54
+Shai	54
+Itamar	51
+Idan	49
+Yigal	49
+Avner	48
+Boris	48
+Rafael	48
+Yaniv	47
+Ami	46
+Mark	46
+Nissim	46
+Omri	46
+Gal	45
+Roy	45
+Samuel	45
+Shaul	45
+Yoel	45
+Nadav	44
+Alex	43
+Gabriel	43
+Pinchas	43
+Adi	42
+Nahum	42
+Dror	41
+Mikhail	41
+Yechiel	41
+Aleksandr	40
+Elad	40
+Mordechai	39
+Moses	39
+Rami	39
+Dovid	37
+Ben-Zion	36
+Leonid	36
+Micha	36
+Raphael	36
+Gad	35
+Itai	35
+Ohad	35
+Tom	34
+Uriel	34
+Gershon	33
+Hanan	33
+Sharon	33
+Albert	32
+Dani	32
+George	32
+Hanoch	32
+Itay	32
+Ronen	32
+Alli	31
+Aviv	31
+Ezra	31
+Giora	31
+Hillel	31
+Naftali	31
+Ziv	31
+Assaf	30
+Matan	30
+Natan	30
+Barak	29
+Ari	28
+Eliyahu	28
+Nimrod	28
+Reuben	28
+Tamir	28
+Uzi	28
+Arnon	27
+Chen	27
+Paul	27
+Roey	27
+Shlomi	27
+Ezekiel	26
+Gadi	26
+Max	26
+Victor	26
+Arik	25
+Chagai	25
+Leon	25
+Lev	25
+Ofir	25
+Simcha	25
+Vladimir	25
+Yevgeny	25
+Yohanan	25
+Kobi	24
+Peter	24
+Shabtai	24
+Eldad	23
+Leo	23
+Simon	23
+Yakov	23
+Avigdor	22
+Elisha	22
+Muhammad	22
+Ram	22
+Zohar	22
+Jakob	21
+Roman	21
+Saul	21
+Yeshayahu	21
+Dudu	20
+Igor	20
+Joel	20
+Yinon	20
+Zalman	20
+Zvika	20
+Akiva	19
+Efraim	19
+Emil	19
+Roni	19
+Viktor	19
+Aviad	18
+Avishay	18
+Bezalel	18
+Elchanan	18
+Ernst	18
+Ilya	18
+Liron	18
+Maor	18
+Niv	18
+Or	18
+Samson	18
+Shraga	18
+Eden	17
+Liran	17
+Michel	17
+Rotem	17
+Erich	16
+Menahem	16
+Nitzan	16
+Sergey	16
+Shachar	16
+Walter	16
+Yehudah	16
+Yury	16
+Alfred	15
+Amiram	15
+Anatoly	15
+Emmanuel	15
+Felix	15
+Harry	15
+Nisan	15
+Noah	15
+Ronny	15
+Semyon	15
+Shahar	15
+Yotam	15
+Arthur	14
+Gabi	14
+Hans	14
+Iosif	14
+Juda	14
+Nachum	14
+Netanel	14
+Roi	14
+Shay	14
+Solomon	14
+Vadim	14
+Zion	14
+Avichai	13
+Itzik	13
+Kfir	13
+Levi	13
+Naor	13
+Richard	13
+Sami	13
+Udi	13
+Yonathan	13
+Ali	12
+Amihai	12
+Avinoam	12
+Eduard	12
+Eleazar	12
+Elias	12
+Henry	12
+Herzl	12
+Ibrahim	12
+Isaiah	12
+Izhar	12
+Jehuda	12
+Leib	12
+Matityahu	12
+Menachem Mendel	12
+Menashe	12
+Miki	12
+Oz	12
+Pavel	12
+Ra'anan	12
+Raz	12
+Yakir	12
+Yishai	12
+Adir	11
+Ahmad	11
+Anton	11
+Arieh	11
+Arkady	11
+Dor	11
+Eric	11
+Eytan	11
+Fritz	11
+Gavriel	11
+Iftach	11
+Igal	11
+Ilay	11
+Jacques	11
+Jonah	11
+Julius	11
+Kalman	11
+Maksim	11
+Marcel	11
+Mickey	11
+Tuvia	11
+Yekutiel	11
+Yoni	11
+Abiathar	10
+Amram	10
+Dudi	10
+Kurt	10
+Maxim	10
+Mike	10
+Nachman	10
+Rahamim	10
+Sagi	10
+Salomon	10
+Yosi	10
+Aleksander	9
+Andrey	9
+Dmitry	9
+Edward	9
+Gaby	9
+Gur	9
+Joram	9
+Mahmoud	9
+Meshulam	9
+Peretz	9
+Pesaḥ	9
+Sam	9
+Yanai	9
+Abner	8
+Adrian	8
+Ahmed	8
+Avshalom	8
+Bernard	8
+Denis	8
+Dori	8
+Gershom	8
+Gidon	8
+Gili	8
+Golan	8
+Grigory	8
+Harel	8
+Hisham	8
+Jan	8
+Joël	8
+John	8
+László	8
+Mosheh	8
+Moti	8
+Oleg	8
+Oleksandr	8
+Sagiv	8
+Salman	8
+Sean	8
+Shneur Zalman	8
+Werner	8
+William	8
+Yedidia	8
+Yisrael	8
+Yona	8
+Abram	7
+Aron	7
+Avital	7
+Bruno	7
+Charles	7
+Dennis	7
+Efim	7
+Eugene	7
+Gary	7
+Georg	7
+Heinz	7
+Jeremy	7
+Leopold	7
+Marc	7
+Marek	7
+Matti	7
+Mendel	7
+Miron	7
+Morris	7
+Nahman	7
+Nehemiah	7
+Nitay	7
+Oscar	7
+Pierre	7
+Roee	7
+Samir	7
+Sammy	7
+Shmulik	7
+Siegfried	7
+Steve	7
+Valentin	7
+Vyacheslav	7
+Yariv	7
+Yochai	7
+Abba	6
+Abdullah	6
+Aleksey	6
+Amichai	6
+Amikam	6
+Amitai	6
+Amotz	6
+Aviezer	6
+Avihu	6
+Barry	6
+Benno	6
+Claude	6
+Dean	6
+Dvir	6
+Elia	6
+Elon	6
+Freddy	6
+Hagay	6
+Harold	6
+Heinrich	6
+Henryk	6
+Hugo	6
+Ilai	6
+Issachar	6
+Jerahmeel	6
+Konstantin	6
+Marco	6
+Mati	6
+Maurice	6
+Misha	6
+Moran	6
+Nechemia	6
+Nehemia	6
+Omar	6
+Otto	6
+Ruben	6
+Shuki	6
+Waleed	6
+Wolfgang	6
+Yedidya	6
+Zevi	6
+Almog	5
+Amaziah	5
+Amiel	5
+Artyom	5
+Avishai	5
+Avrohom	5
+Benyamin	5
+Carmel	5
+Edmund	5
+Effi	5
+Eliad	5
+Elie	5
+Elimelech	5
+Elyakim	5
+Eylon	5
+Frank	5
+Franz	5
+Fred	5
+Friedrich	5
+Georgy	5
+Gilles	5
+Herbert	5
+Isaak	5
+Ivan	5
+Jeffrey	5
+Joachim	5
+Joe	5
+Josh	5
+Kenneth	5
+Khalid	5
+Lee	5
+Ludwig	5
+Manfred	5
+Mario	5
+Meyer	5
+Mohamed	5
+Moni	5
+Moshé	5
+Oron	5
+Ronnie	5
+Rudolf	5
+Samy	5
+Sergio	5
+Stephen	5
+Steven	5
+Tawfik	5
+Theodor	5
+Tommy	5
+Tzvi	5
+Willy	5
+Yarin	5
+Yeruham	5
+Yoash	5
+Zahi	5
+Aba	4
+Adolf	4
+Alan	4
+André	4
+Aner	4
+Arnold	4
+Artur	4
+Aviel	4
+Avishalom	4
+Avram	4
+Azriel	4
+Beni	4
+Dany	4
+Elazar	4
+Elieser	4
+Eliezer Zeev	4
+Eliran	4
+Eugen	4
+Gennady	4
+Gerald	4
+Gerhard	4
+Gidi	4
+Gregory	4
+Gustavo	4
+Hadar	4
+Hamad	4
+Hananiah	4
+Hassan	4
+Hilik	4
+Howard	4
+Immanuel	4
+Ion	4
+Iyad	4
+Izrail	4
+Jack	4
+Jackie	4
+Jacky	4
+James	4
+Jamil	4
+Jeff	4
+Jeremiah	4
+Jonatan	4
+Jordan	4
+Judah	4
+Karl	4
+Lazar	4
+Lidor	4
+Liel	4
+Louis	4
+Malachi	4
+Manasseh	4
+Marwan	4
+Maximilian	4
+Meni	4
+Milton	4
+Mohamad	4
+Mohammad	4
+Moisei	4
+Moris	4
+Neil	4
+Obadiah	4
+Ofek	4
+Orel	4
+Oskar	4
+Philip	4
+Roberto	4
+Rom	4
+Ronald	4
+Rony	4
+Rudi	4
+Saadia	4
+Salah	4
+Saleh	4
+Sasson	4
+Saúl	4
+Selig	4
+Sergiu	4
+Shadi	4
+Shelomoh	4
+Shilo	4
+Stav	4
+Teddy	4
+Theodore	4
+Thom	4
+Tony	4
+Uriya	4
+Valery	4
+Vladislav	4
+Wolf	4
+Yadin	4
+Yahav	4
+Yali	4
+Yan	4
+Yarden	4
+Yehezkel	4
+Yossef	4
+Zadok	4
+Zwi	4
+Absalom	3
+Alberto	3
+Alexandre	3
+Alexei	3
+Andrei	3
+Andy	3
+Armand	3
+Asi	3
+Assa	3
+Assi	3
+Azaria	3
+Bar	3
+Ben-Ami	3
+Bobby	3
+Bradley	3
+Brian	3
+Carol	3
+Charlie	3
+Daniil	3
+Dekel	3
+Din	3
+Dmytro	3
+Dylan	3
+Eldar	3
+Élie	3
+Elkana	3
+Ely	3
+Erik	3
+Ernest	3
+Ernő	3
+Ervin	3
+Ezer	3
+Feliks	3
+Frederick	3
+Gerardo	3
+Gilbert	3
+Habib	3
+Hanina	3
+Hanna	3
+Herman	3
+Hermann	3
+Hirsch	3
+Hubert	3
+Iddo	3
+Ilia	3
+Isidor	3
+István	3
+Ittai	3
+Itzchak	3
+Jair	3
+Jakub	3
+Jamal	3
+Jean	3
+Johnny	3
+Julian	3
+Kamal	3
+Kirill	3
+Luis	3
+Maayan	3
+Manor	3
+Maoz	3
+Marian	3
+Marius	3
+Mauricio	3
+Melech	3
+Mendy	3
+Michail	3
+Miguel	3
+Miklós	3
+Mitchell	3
+Mosche	3
+Murray	3
+Nachshon	3
+Naim	3
+Nehemya	3
+Nehorai	3
+Neri	3
+Nick	3
+Nikita	3
+Nikolay	3
+Norman	3
+Ofri	3
+Pablo	3
+Pál	3
+Patrick	3
+Pyotr	3
+Rafik	3
+Ravid	3
+Rehavia	3
+Ricardo	3
+Ruslan	3
+Ryan	3
+Saar	3
+Salim	3
+Sasha	3
+Schlomo	3
+Schmuel	3
+Serge	3
+Shir	3
+Shlomo Zalman	3
+Shmaryahu	3
+Simion	3
+Sivan	3
+Sorin	3
+Stanislav	3
+Szymon	3
+Tibor	3
+Timur	3
+Uziel	3
+Yehoram	3
+Yerachmiel	3
+Yevgeni	3
+Yisroel	3
+Yitzchok	3
+Yom Tov	3
+Yuly	3
+Yusuf	3
+Zelig	3
+Abbas	2
+Abe	2
+Abed	2
+Abel	2
+Abijah	2
+Adar	2
+Adel	2
+Adiel	2
+Ahron	2
+Alaa	2
+Alexandru	2
+Allen	2
+Amal	2
+Amiran	2
+Amjad	2
+Andor	2
+Andre	2
+Andrew	2
+Anshel	2
+Armon	2
+Arno	2
+Asa	2
+Asael	2
+Ashraf	2
+Attila	2
+Aviram	2
+Ayman	2
+Bassam	2
+Béla	2
+Benjamín	2
+Benni	2
+Beno	2
+Bernhard	2
+Bernie	2
+Berry	2
+Bob	2
+Bruce	2
+Camil	2
+Carl	2
+Chai	2
+Chanoch	2
+Chris	2
+Constantin	2
+Cyril	2
+Dawid	2
+Denny	2
+Diaa	2
+Didi	2
+Didier	2
+Dolev	2
+Don	2
+Dotan	2
+Earl	2
+Ebrahim	2
+Edan	2
+Eddy	2
+Edgar	2
+Edmond	2
+Elihu	2
+Elli	2
+Emanuele	2
+Emile	2
+Émile	2
+Endre	2
+Ernesto	2
+Erwin	2
+Etan	2
+Firas	2
+Fouad	2
+Francis	2
+Freddie	2
+Frédéric	2
+Fyodor	2
+Gábor	2
+Gael	2
+Gamaliel	2
+Gerard	2
+Ghaleb	2
+Goni	2
+Günter	2
+Günther	2
+György	2
+Hana	2
+Harvey	2
+Haviv	2
+Hayim	2
+Henri	2
+Henrik	2
+Hersch	2
+Hryhorii	2
+Hussein	2
+Ian	2
+Icchak	2
+Ihab	2
+Ilja	2
+Imad	2
+Irad	2
+Iser	2
+Ismail	2
+Izaak	2
+Iziaslav	2
+Jake	2
+Jakov	2
+János	2
+Jared	2
+Jay	2
+Jean-Claude	2
+Jean-Jacques	2
+Jenő	2
+Jerry	2
+Jerzy	2
+Jimmy	2
+Jitzchak	2
+Jorge	2
+Józef	2
+József	2
+Juraj	2
+Kamil	2
+Karam	2
+Károly	2
+Ken	2
+Kenny	2
+Koby	2
+Konrad	2
+Kyle	2
+Larry	2
+Laurence	2
+Lawrence	2
+Leanid	2
+Léon	2
+Leonard	2
+Leslie	2
+Liam	2
+Lionel	2
+Liviu	2
+Lou	2
+Lucian	2
+Mani	2
+Manny	2
+Marcelo	2
+Marcus	2
+Mariano	2
+Masoud	2
+Matt	2
+Mel	2
+Meron	2
+Micah	2
+Michaël	2
+Michał	2
+Mickaël	2
+Mihály	2
+Mirel	2
+Moisés	2
+Mor	2
+Moussa	2
+Murad	2
+Mustafa	2
+Nader	2
+Nadir	2
+Naphtali	2
+Nathaniel	2
+Nati	2
+Neria	2
+Neta	2
+Nicholas	2
+Nicky	2
+Nico	2
+Nino	2
+Noach	2
+Noga	2
+Osama	2
+Oswald	2
+Pascal	2
+Peleg	2
+Péter	2
+Philippe	2
+Phillip	2
+Qais	2
+Radu	2
+Ralph	2
+Ramsey	2
+Ramy	2
+Rani	2
+Raul	2
+Razi	2
+Reshef	2
+Riad	2
+Rick	2
+Rico	2
+Robby	2
+Robi	2
+Roger	2
+Ruby	2
+Rudolph	2
+Rudy	2
+Saleem	2
+Sámuel	2
+Sayed	2
+Semion	2
+Shahaf	2
+Shalva	2
+Shiloh	2
+Shmaya	2
+Shon	2
+Siegmund	2
+Silvan	2
+Sinai	2
+Snir	2
+Soso	2
+Stanley	2
+Stéphane	2
+Stuart	2
+Tai	2
+Tanhum	2
+Theo	2
+Thierry	2
+Thomas	2
+Timothy	2
+Tovia	2
+Vadym	2
+Vilém	2
+Vilmos	2
+Vitali	2
+Vitaly	2
+Ward	2
+Wilhelm	2
+Willie	2
+Yahya	2
+Yam	2
+Yanal	2
+Yawhen	2
+Yegor	2
+Yigael	2
+Yohannan	2
+Yonah	2
+Youssef	2
+Yuri	2
+Yussuf	2
+Zadoc	2
+Zebulon	2
+Zechariah	2
+Zevulun	2
+Zoltán	2
+Zouheir	2
+Zrubavel	2
+Zygmunt	2
+Abas
+Abbass
+Abd al-Hamid
+Abd al-Rahim
+Abd al-Rahman
+Abdel
+Abdoulaye
+Abdul Razak
+Abie
+Abir
+Abiram
+Abu
+Achille
+Addam
+Addy
+Adham
+Adil
+Adlai
+Adnan
+Adolfo
+Adolph
+Adriano
+Ady
+Afif
+age of a person
+Ahad
+Ahikam
+Aki
+Akram
+Akwasi
+Aladin
+Alber
+Alek
+Aleksandar
+Aleksandras
+Aleksandre
+Alexis
+Alfons
+Alfredo
+Aliaksandr
+Alik
+Alim
+Alisher
+Allan
+Alois
+Alter
+Alvin
+Ameer
+Amer
+Amin
+Amitay
+Ammar
+Ammiel
+Anan
+Ananias
+Anas
+Anatol
+Andi
+András
+Angel
+Ângelo
+Anson
+Antero
+Anthony
+Antoine
+Antuan
+Anuar
+Arad
+Aran
+Archie
+Archimede
+Aren
+Aris
+Arkan
+Ármin
+Armond
+Arnaud
+Árpád
+Arsen
+Asad
+Asif
+Asil
+Ata
+Atallah
+Atay
+Atef
+Atta
+Atticus
+Aurel
+Avior
+Avisar
+Avivi
+Avraam
+Ayad
+Ayano
+Ayham
+Ayi
+Aymen
+Ayoob
+Ayub
+Bachar
+Badí
+Bari
+Barnabás
+Bart
+Behrouz
+Beny
+Benzi
+Ber
+Beram
+Berl
+Bernardo
+Bernd
+Berney
+Berthold
+Bibras
+Bilal
+Billy
+Bino
+Blake
+Blessing
+Boleslaw
+Boruch
+Brad
+Brandon
+Branko
+Brett
+Bulus
+Byron
+Calvin
+Carlo
+Cecil
+Cerf
+Chaïm
+Chalifa
+Chananel
+Charley
+Cheon
+chocolate
+Christopher
+Chuck
+Clement
+Cobi
+Colin
+Corey
+Cory
+Costa
+Craig
+Cyrille
+Cyrus
+Damian
+Danni
+Dario
+Darwish
+Daud
+Davit
+Deni
+Deon
+Derek
+Derrick
+Dezső
+Dieter
+Dimitri
+Dimitry
+Dino
+Dion
+Dmitri
+Donald
+Dore
+Dorel
+Dorian
+Dory
+Doug
+Drew
+Durar
+Dustin
+Easy
+Eckart
+Ed
+Eddie
+Edi
+Edmon
+Edo
+Edwin
+Edy
+Efi
+Egon
+Egor
+Eḥsan
+Einan
+Einav
+Elam
+Elan
+Eliakim
+Eliaz
+Elija
+Elijah
+Elior
+Eliot
+Elischa
+Ella
+Ellis
+Elly
+Emilio
+Emin
+Enoch
+Enosh
+Enric
+Enrico
+Erel
+Eri
+Erol
+Esmaeil
+Esra
+Etgar
+Ethan
+Etienne
+Eugène
+Eugeniusz
+Evan
+Even
+Eyad
+Ezequiel
+Fabian
+Fadel
+Fahad
+Faisal
+Faiz
+Fares
+Farid
+Faris
+Farouk
+Félix
+Félix-Marie
+Feras
+Ferdinando
+Ferenc
+Fernando
+Filip
+Francesco
+Franco
+Franks
+Froim
+Fu'ad
+Fuad
+Gabby
+Gaddi
+Gaëtan
+Garik
+Garri
+Gaston
+Gavriil
+Gavril
+Gedeon
+Gedi
+German
+Germán
+Gerrit
+Géza
+Ghassān
+Gigi
+Gilan
+Giorgi
+Giulio
+Gleb
+Gocha
+Gotthold
+Grant
+Greg
+Grzegorz
+Gualtiero
+Guido
+Guli
+Guni
+Guri
+Gusztáv
+Hai
+Haim-Moshe
+Halil
+Hamoudi
+Hannan
+Hardy
+Harley
+Harrison
+Hartwig
+Hasan
+Hashim
+Hasson
+Hatem
+Hay
+Hen
+Henrique
+Heorhiy
+Heriberto
+Hertsal
+Hilal
+Hinrich
+Hiram
+Hirsh
+Horace
+Horst
+Hosam
+Hossam
+Iakob
+Iancu
+Igeal
+Ihor
+İhsan
+Ika
+Ilijah
+Iliya
+Imanuel
+Imre
+Imri
+Imrich
+Inbar
+Indy
+Ino
+Ioseb
+Ira
+Irineos
+Irving
+Isac
+Isaïe
+Isaj
+Isakas
+Ishak
+İshak
+Ishmael
+Isi
+Ismar
+Israël
+Israeli
+Issa
+Ithamar
+Iván
+Ivica
+Izak
+Izrael
+Jabr
+Jaime
+Jakab
+Jamahl
+Jamie
+Janek
+Jason
+Jasser
+Jean-Daniel
+Jean-Marc
+Jean-Paul
+Jenia
+Jeremias
+Jerome
+Jérôme
+Jeron
+Jesse
+Jo
+Joakim
+Joaquín
+Johanan
+Johny
+Jojo
+Jon
+Jona
+Jonas
+Jones
+Joni
+Jonny
+Joop
+Joris
+Jose
+José
+José María
+Josep Lluís
+Josi
+Jozeph
+Juan
+Jubayer
+Juliano
+Julien
+Juma
+Jurij
+Justus
+Jusuf
+Kadish
+Karel
+Karem
+Karol
+Kazem
+Kevin
+Khader
+Khaled
+Khalil
+Kim
+Klaus
+Kobbie
+Kopel
+Kristian
+Lael
+Lajos
+Lasar
+Latif
+Laurent
+Lazăr
+Leó
+Leonidas
+Leor
+Leshem
+Levin
+Lew
+Li
+Liad
+Lipót
+Loren
+Lorne
+Louie
+Lova
+Lucas
+Lucien
+Ludovic
+Luka
+Lutfi
+Ma'ayan
+Magd
+Magdi
+Mahmud
+Maikel
+Makbel
+Makhluf
+Makram
+Malchiel
+Mandy
+Mano
+Mansour
+Manu
+Manuel
+Marik
+Marinus
+Mário
+Marjan
+Markus
+Matis
+Matthew
+Matvey
+Maurizio
+máximo merilio
+May
+Mehdi
+Melvin
+Mendi
+Merton
+Mervat
+Mervyn
+Michael Joseph
+Michailas
+Michal
+Michele
+Micki
+Micky
+Mikail
+Mikhael
+Mila
+Milan
+Milla
+Mindia
+Miner
+Miriam
+Miro
+Mirza
+Mischa
+Mishael
+Mishel
+Mitch
+Modi
+Mohammed
+Moische
+Moise
+Moisis
+Monty
+Mór
+Mordechaj
+Mordi
+Móric
+Moritz
+Morton
+Moshe-Zvi
+Mosko
+Mossi
+Mousa
+Mózes
+Mudar
+Mufid
+Munio
+Munir
+Musa
+Nabil
+Naftoli
+Nahel
+Nancy
+Nasser
+Nat
+Nathanael
+Naum
+Nawaf
+Nazar
+Nazih
+Neal
+Nelly
+Nessim
+Netta
+Nicolae
+Nidal
+Nigel
+Niki
+Nikola
+Nil
+Nison
+Nizār
+Noad
+Nobuya
+Norbert
+Nosson
+Noy
+Nur
+Nuri
+Ödön
+Olaf
+Oleh
+Oleksii
+Olivier
+Ollie
+Oran
+Orit
+Osher
+Oshri
+Osias
+Osnat
+Ossip
+Osvaldo
+Ota
+Otta
+Otte
+Ottó
+Paltiel
+Paolo
+Paval
+Pavlo
+Paweł
+Paz
+Peer
+Penn
+Pepe
+Peri
+Petr
+Philipp
+Prosper
+Raanan
+Rachel
+Rad'a
+Raed
+Rafat
+Raffi
+Rafiq
+Raja
+Raji
+Rama
+Ramiz
+Ramon
+Ranan
+Raoul
+Raphaël
+Rasem
+Raúl
+Raymond
+Reda
+Regev
+Reinhard
+Renato
+René-Samuel
+Renzo
+Reuel
+Riegel
+Rifat
+Rimon
+Rino
+Robbie
+Robert
+Robin
+Roby
+Rodrigo
+Rogel
+Roland
+Rolf
+Rolly
+Romain
+Romy
+Ronan
+Ronel
+Ronen Lifshitz
+Rostam
+Rosłan
+Rubi
+Rubin
+Russell
+Saad
+Sabi
+Sacha
+Saeed
+Saharon
+Sahir
+Said
+Saïd
+Salama
+Salem
+Salo
+Salva
+Samer
+Samuele
+Sándor
+Sandy
+Santiago
+Sapir
+Sarel
+Sari
+Sassoon
+Savely
+Sebastian
+Sebastián
+Sefi
+Seif
+Selmar
+Senan
+Serafim
+Seraiah
+Sergei
+Sergej
+Serhii
+Seth
+Sha'aban
+Shabi
+Shafiq
+Shaked
+Shamma
+Shane
+Shani
+Sharif
+Shawn
+Shaye
+Sheran
+Shimshon
+Shoham
+Shota
+Shuli
+Sidney
+Sigi
+Sigmund
+Simeon
+Simhah
+Sioma
+Sirak
+Slava
+Slobodan
+Smil
+Sohel
+Spencer
+Stanisław
+Stef
+Stefan
+Ștefan
+Stu
+Suheil
+Suleiman
+Sydney
+Sylvan
+Tadesse
+Tadeusz
+Tair
+Taleb
+Talmon
+Tamer
+Tamim
+Taras
+Tarek
+Tarik
+Ted
+Terry
+Teymur
+Théodore
+tilapia
+Tim
+Timofey
+Timor
+Timoti
+Toby
+Todd
+Tohar
+Toivo
+Toma
+Tomas
+Tomáš
+Tomm
+Tomy
+Tor
+Toto
+Toufik
+Tvrtko
+Ty
+Tyler
+Tzachi
+Uladzimir
+Umberto
+uncle
+Usher
+Uziyah
+Vania
+Vasilis
+Velvl
+Vicki
+Vicky
+Víctor
+Viki
+Viktar
+Vince
+Virgil
+Vittorio
+Vivian
+Vlad
+Vladi
+Vladimír
+Vladyslav
+Wasil
+Wayne
+Will
+Willi
+Witold
+Wolter
+Władysław
+Ya'akov
+Ya'qub
+Yahor
+Yaish
+Yakau
+Yakiv
+Yankel
+Yann
+Yaroslav
+Yasha
+Yasir
+Yerahmiel
+Yifrach
+Yisgav
+Yo-ram
+Yoan
+Yoed
+Yogev
+Yohan
+Yoḥanan
+Yon
+Yousef
+Yudel
+Yuli
+Yulian
+Yurii
+Yussef
+Yvan
+Zach
+Zachary
+Zack
+Zaid
+Zakaria
+Zaki
+Zamir
+Zanvil
+Zephaniah
+Zev
+Ziki
+Zivan
+Zoltan
+Zuhayr
+Zurab
+ʻAbd al-Wahhāb

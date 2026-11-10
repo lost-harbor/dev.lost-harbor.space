@@ -1,0 +1,493 @@
+Étang Neuf	11
+Blanc	3
+Bleu	2
+Étang de la Forge	2
+Étang des Bois	2
+Étang des Landes	2
+Étang du Rocher	2
+Étang Moulin	2
+Grand	2
+Grand Étang	2
+Lauzet	2
+Long	2
+Motte	2
+Noir	2
+Vert	2
+Ardiden
+Ballon
+Bariclé
+Barrage du Doubs
+Barterand
+Bastani
+Bergeonnerie
+Blanchemer
+Bouchet
+Bourdouze
+Bourget
+Caillaouas
+Cap de Long
+Cassière
+Castillon
+Cenis
+Cerces
+Chalain
+Chambedaze
+Chambon
+Charpal
+Chauvet
+Chevelu
+Chevril
+Ciaffour
+Clair
+Clausis
+Combeynot
+Corbeaux
+Corne
+Cos
+Cottepens
+Cozet
+Cregut
+Crozet
+Crupillouse
+Derrière la Croix
+Dublée
+Égorgeou
+Estivadoux
+Étang
+Étang au Duc
+Étang Bailly
+Étang Barral
+Étang Bataillard
+Étang Beauregard
+Étang Beffou
+Étang Blanc
+Étang Blaou
+Étang Boeuf'mort
+Étang Borgne
+Étang Bouchard
+Étang Bousdion
+Étang Buret
+Étang d'Achet
+Étang d'Aigremont
+Étang d'Araing
+Étang d'Archambault
+Étang d'Armainvilliers
+Étang d'Aron
+Étang d'Élise
+Étang d'Entressen
+Étang d'Haniquet
+Étang d'Irieu
+Étang d'Oie
+Étang d'Orleans
+Étang d'Orléans
+Étang d'Urbino
+Étang de Baignant
+Étang de Bain
+Étang de Barrière
+Étang de Bassiès
+Étang de Beaufour
+Étang de Beaulieu
+Étang de Beaumont
+Étang de Bellebouche
+Étang de Belval
+Étang de Berringue
+Étang de Biévre
+Étang de Bignotoi
+Étang de Biscarrosse
+Étang de Bischwald
+Étang de Bonnevais
+Étang de Bouillon
+Étang de Boulet
+Étang de Bourg
+Étang de Boussons
+Étang de Brach
+Étang de Brandon
+Étang de Breuil
+Étang de Carcans
+Étang de Carcraon
+Étang de Cazaux
+Étang de Champage
+Étang de Chancelade
+Étang de Chassagne
+Étang de Châtillon
+Étang de Chevré
+Étang de Cieux
+Étang de Cîteaux
+Étang de Corcambon
+Étang de Corée
+Étang de Cousseau
+Étang de Daniel
+Étang de Derrière
+Étang de Devant
+Étang de Evray
+Étang de Frasne
+Étang de Gabriau
+Étang de Galop
+Étang de Garbet
+Étang de Gelenaux
+Étang de Girondel
+Étang de Givry
+Étang de Gole
+Étang de Gondrexange
+Étang de Grand Rû
+Étang de Gravotel
+Étang de Gruellau
+Étang de Gruissan
+Étang de Guerlande
+Étang de Hanau
+Étang de Javoulet
+Étang de Ker-Vihan
+Étang de Kergalan
+Etang de Kerloc'h
+Étang de l'Épine
+Étang de l'Épineau
+Étang de l'Hardouine
+Étang de l'Olivier
+Étang de la Binoche
+Étang de La Blisière
+Étang de la Capelle
+Étang de la Chaîne
+Étang de la Chapelle
+Étang de la Chaudière
+Étang de la Chaume
+Étang de la Chelouse
+Étang de la Chevreux
+Étang de la Demoiselle
+Étang de la Folie
+Étang de la Fosse aux Bois
+Étang de la Gabrière
+Étang de la Gazzonne
+Étang de la Grande Malneau
+Étang de la Grande Rouillie
+Étang de la Grande Rue
+Étang de la Grande Souche
+Étang de la Grille
+Étang de la Horre
+Étang de la Lieue
+Étang de la Loge
+Étang de la Logette
+Étang de la Mer Rouge
+Étang de la Morge des Bois
+Étang de la Morge des Champs
+Étang de la Noue
+Étang de la Noue Mazone
+Étang de la Perche
+Étang de la Poitevinière
+Étang de la Provostière
+Étang de la Rama
+Étang de la Ramade
+Étang de la Rouère
+Étang de la Taberge
+Étang de la Toison
+Étang de la Tour
+Étang de la Tuilerie
+Étang de la Vallée
+Étang de Laborde
+Étang de Lacanau
+Étang de Lachaussée
+Étang de Lanoux
+Étang de Laoual
+Étang de Lérignon
+Étang de Lindre
+Étang de Loto
+Étang de Marcenay
+Étang de Marchainville
+Étang de Marcillé
+Étang de Marcilly
+Étang de Martenet
+Étang de Maubusson
+Étang de Maux la Chère
+Étang de May
+Étang de Meyranne
+Étang de Molandon
+Étang de Montaubry
+Étang de Montjean
+Étang de Moras
+Étang de Morches
+Étang de Moret
+Étang de Moustiers
+Étang de Murat
+Étang de Naguille
+Étang de Neuilly
+Étang de Notz
+Étang de Paintourteau
+Étang de Pémur
+Étang de Pen-ar-Poul
+Étang de Péreuse
+Étang de Piégu
+Étang de Pinaud
+Étang de Pirot
+Étang de Pissegrain
+Étang de Pissevache
+Étang de Poisson
+Étang de Poulguidou
+Étang de Princey
+Étang de Priziac
+Étang de Ramerupt
+Étang de Réchicourt
+Étang de Renac
+Étang de Roches
+Étang de Romefort
+Étang de Roussi Pré
+Étang de Ruffaud
+Étang de Rumien
+Étang de Ry
+Étang de Saclay
+Étang de Sagnat
+Étang de Saint Quentin
+Étang de Saint-Aubin
+Étang de Saint-Bonnet
+Étang de Saint-Hubert
+Étang de Saint-Just
+Étang de Scamandre
+Étang de Tabouret
+Étang de Tanchiccia
+Étang de Taysse
+Étang de Theillay
+Étang de Tix
+Étang de Torcy-Neuf
+Étang de Trémelin
+Étang de Trémigon
+Étang de Trunval
+Étang de Valencienne
+Étang de Vargévaux
+Étang de Vergis
+Étang de Villeron
+Étang de Vilpale
+Étang des Aulnes
+Étang des Barons
+Étang des Beaurois
+Étang des Bénismes
+Étang des Besse
+Étang des Bordes
+Étang des Brauzes
+Étang des Chaumes
+Étang des Cloyes
+Étang des Fontaines
+Étang des Fosses
+Étang des Fougeres
+Étang des Grandes Couées
+Étang des Grandes Fourdines
+Étang des Houssois
+Étang des Landres
+Étang des Liesses
+Étang des Personnes
+Étang des Pesquiers
+Étang des Peyrisses
+Étang des Planches
+Étang des Planchettes
+étang des Roseaux
+Étang des Salles
+Étang des Vallées
+Étang des Vavres
+Étang des Vigneaux
+Étang Donjon
+Étang du Bas
+Étang du Belloy
+Étang du Blizon
+Étang du Bois Joalland
+Étang du Charnier
+Étang du Condreau
+Étang du Coroncq
+Étang du Couvent
+Étang du Cranic
+Étang du Désert
+Étang du Diable
+Étang du Fourneau
+Etang du Fret
+Étang du Giblas
+Étang du Grand Baronnet
+Étang du Grand Birieux
+Étang du Grand Coulon
+Étang du Grand Glareins
+Étang du Grand Mez
+Étang du Grand Montfaucon
+Étang du Grand Veau
+Étang du Gué des Cens
+Étang du Gué l'Évêque
+Étang du Guébriand
+Étang du Lys-Saint-Georges
+Étang du Milieu
+Étang du Moury
+Étang du Moyen
+Étang du Parc aux Pourceaux
+Étang du Perray
+étang du Petit-Haut
+Étang du Pondy
+Étang du Pont
+Étang du Prévôt
+Étang du Puits
+Étang du Sault
+Étang du Stock
+Étang du Ter
+Étang du Val Joyeux
+Étang Duris
+Étang Fauché
+Étang Ferrier
+Étang Gadoret
+Étang Gardaché
+Étang Grolleau
+Étang l'Harouchêne
+Étang la Dame
+Étang le Roi
+Étang Long
+Étang Mardasson
+Étang Millot
+Étang Montiacre
+Étang Perret
+Étang Perrière
+Étang Poitier
+Étang Pottin
+Étang Purais
+Étang Renard
+Étang Richebourg
+Étang Romé
+Étang Rompu
+Étang Saint-Victor
+Étang Seigneur
+Étang Turpin
+Étangs de Bénestroff
+Étangs de Villefermoy
+Fabrèges
+Faravel
+Fischboedle
+Forcle
+Foréant
+Gaillands
+Gary
+Gaube
+Gérardmer
+Giettaz
+Girotte
+Glière
+Grand de Laffrey
+Grand des Estaris
+Grand du Laus
+Grand Étang d'Arpeval
+Grand Étang de Grandeffe
+Grand Étang de Jugon
+Grand Étang de la Gourgousse
+Grand Étang de Migné
+Grand Étang de Mittersheim
+Grand Étang de Torcy
+Grand Étang du Roi
+Grand-Lieu
+Grande Roullie
+Guéry
+Hasselfurt
+Hommes
+Hôpitaux
+Ibón de Acherito
+Inférieur
+Jovet
+Jujal
+Kruth-Wildenstein
+L'Étang du Bois
+L'Étang Grand
+L'Étang Neuf
+La Grande Mare
+La Mare
+La tourbière
+Lachtelweiher
+Lacroix
+Lande
+Landie
+Laspialade
+Lauch
+Lauvitel
+Lauzanier
+Lavedan
+Le Grand Étang
+Le Grand Morinval
+Le Grand Vivier
+Le Loc'h
+Le Petit Riau
+Le Vieil
+Longemer
+Longet
+Madic
+Madine
+Maine
+Maix
+Marais du Crey
+Mare aux Évées
+Mare de Vauville
+Marie
+Marinet
+Maury
+Mesches
+Miguelou
+Montagnon
+Montcineyre
+Montriond
+Morillon
+Mort
+Murin
+Muzelle
+Nantua
+Narlay
+Néal
+Neuf Couleurs
+Paladru
+Palluel
+Pareloup
+Pavin
+Payolle
+Perches Sternsee
+Petichet
+Peyrol
+Pierre Châtel
+Pierre-Percée
+Pisses
+Plagne
+Plaine de la Poupinière
+Plaine de Mazerolles
+Plan d'Embrun
+Plan d'Eygliers
+Plan de la de-Rame
+Plan de Plobsheim
+Ponsonnière
+Premier
+Prés Soubeyrand
+Profond
+Rabuons
+Randanne
+Reculaïa
+Remoray
+Réservoir de Charmes
+Réservoir de la Mouche
+Réservoir de Lecey
+Retournemer
+Revire Souléou
+Rond
+Rouites
+Roure
+Rousses
+Roy
+Saint-Cassien
+Saint-Pardoux
+Saint-Point
+Sainte-Anne
+Salagou
+Sarailles
+Save
+Schiessrothried
+Serre-Ponçon
+Servière
+Sewen
+Siguret
+Sirènes
+Souliers
+St Guerin
+Ste-Marguerite
+Sylans
+Tazenat
+Tempête
+Ténibres
+Tignes
+Truites du Forlet
+Vaches
+Vallon
+Vallonpierre
+Venetier
+Vens

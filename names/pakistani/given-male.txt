@@ -1,0 +1,662 @@
+Muhammad	321
+Mohammad	155
+Syed	115
+Ali	79
+Malik	78
+Ahmed	57
+Abdul	51
+Khalid	51
+İmran	41
+Sardar	40
+Tariq	39
+Anwar	35
+Shahid	32
+Asif	29
+Abdullah	28
+Ahmad	27
+Iqbal	24
+Saeed	24
+Rashid	23
+Amir	21
+Faisal	21
+Akhtar	20
+Amjad	19
+Hasan	18
+Hassan	18
+Aziz	16
+Adnan	15
+Hamid	15
+Mustafa	15
+Bilal	14
+Rizwan	14
+Arsalan	13
+Shaukat	13
+Abul	12
+Irfan	12
+Kamran	12
+Tahir	12
+Aamir	11
+Abid	11
+Imtiaz	11
+Jamal	11
+Abd al-Hamid	10
+Adil	10
+Arif	10
+Ijaz	10
+Sajid	10
+Abdur Rashid	9
+Asim	9
+Eḥsan	9
+Ghulam	9
+Hameed	9
+Hamza	9
+Kamal	9
+Shabbir	9
+Abbas	8
+Abd al-Aziz	8
+Abd al-Rahman	8
+Asad	8
+Fawad	8
+Hanif	8
+Kazi	8
+Noor	8
+Omar	8
+Qasim	8
+Salman	8
+Umar	8
+Wasim	8
+Abd al-Majid	7
+Abd al-Qadir	7
+Abdul Jabbar	7
+Farhan	7
+Hussein	7
+Lal	7
+Mahmud	7
+Pir	7
+Sarmad	7
+Sultan	7
+Usman	7
+Zubair	7
+Abd al-Karīm	6
+Ashfaq	6
+Fazal	6
+Hafız	6
+Hakim	6
+Haris	6
+Ismail	6
+Mahmoud	6
+Michael	6
+Mohamed	6
+Munir	6
+Rasheed	6
+Safdar	6
+Abd al-Haqq	5
+Abd al-Rahim	5
+Abdul Ghafoor	5
+Akbar	5
+Akram	5
+Amin	5
+Ayub	5
+Fahad	5
+Habib	5
+Ibrahim	5
+Israr	5
+Jamil	5
+Jan	5
+Javed	5
+Jawad	5
+Mahbub	5
+Manzoor	5
+Masoud	5
+Mehdi	5
+Mubashir	5
+Omer	5
+Qamar	5
+Rafiq	5
+Waqas	5
+Yusuf	5
+Abdul Ghaffar	4
+Abdul Khaliq	4
+Abdul Malik	4
+Abdul Sattar	4
+Adam	4
+Ajmal	4
+Aqeel	4
+Ashraf	4
+Athar	4
+Awais	4
+Azhar	4
+Basit	4
+Enamul	4
+Faiz	4
+Faqir	4
+Fateh	4
+Francis	4
+Hussain	4
+Ishtiaq	4
+Jalal	4
+Jameel	4
+James	4
+John	4
+Khalil	4
+Mirza	4
+Mohsin	4
+Naved	4
+Nazir	4
+Nisar	4
+Rafi	4
+Ramesh	4
+Rustam	4
+Salim	4
+Sami	4
+Shah	4
+Ubaidullah	4
+Yasir	4
+Zahid	4
+ʻAbd al-Ra'ūf	4
+ʿAbd al-Laṭīf	4
+Abd al-Hakim	3
+Abdul Hafeez	3
+Abdul Mannan	3
+Abdul Matin	3
+Abdul Qayyum	3
+Abdur Razzaq	3
+Abed	3
+Adeel	3
+Aizaz	3
+Ali Akbar	3
+Altaf	3
+Ammar	3
+Anis	3
+Anjum	3
+Arun	3
+Aslam	3
+Bashir	3
+Danish	3
+Ejaz	3
+Farid	3
+Fayyaz	3
+Fazlur	3
+Hashim	3
+Idris	3
+Ilyas	3
+Joseph	3
+Majid	3
+Mehboob	3
+Miangul	3
+Mudassar	3
+Munawar	3
+Murad	3
+Murtuza	3
+Naim	3
+Najaf	3
+Naveed	3
+Nazar	3
+Patrick	3
+Qazi	3
+Rahim	3
+Rahman	3
+Rana	3
+Saad	3
+Said	3
+Samar	3
+Sanaullah	3
+Shaheen	3
+Shaheer	3
+Shoaib	3
+Taj	3
+Tufail	3
+Yahya	3
+Yousuf	3
+Zafar	3
+Zamir	3
+Zeeshan	3
+Ziaur	3
+ʻAbd al-Wahhāb	3
+Abd al-Salam	2
+Abd al-Wahid	2
+Abdelaziz	2
+Abdul Hafiz	2
+Abdul Hai	2
+Abdur	2
+Adeem	2
+Ahsan	2
+Aijaz	2
+Akmal	2
+Alim	2
+Allan	2
+Aly	2
+Amanullah	2
+Amar	2
+Anil	2
+Anthony	2
+Arman	2
+Arshad	2
+Arslan	2
+Asadullah	2
+Ashiq	2
+Ataullah	2
+Atif	2
+Ayaz	2
+Azam	2
+Azim	2
+Baba	2
+Baby	2
+Bakhtiar	2
+Barua	2
+Cecil	2
+Daud	2
+David	2
+Deepak	2
+Dilshad	2
+Fahd	2
+Fakir	2
+Fazlul	2
+George	2
+Haidar	2
+Haider	2
+Haroon	2
+Harris	2
+Humayun	2
+Iftikhar	2
+Ikram	2
+Irshad	2
+Ishrat	2
+Izhar	2
+Jacob	2
+Jaffar	2
+Jahangir	2
+Javid	2
+Julian	2
+Karam	2
+Karim	2
+Kashif	2
+Khan	2
+Khurshid	2
+Kumail	2
+Lawrence	2
+Lutfullah	2
+Mansoor	2
+Mazhar	2
+Moazzam	2
+Moez	2
+Moinuddin	2
+Mumtaz	2
+Mushtaq	2
+Muzaffer	2
+Nabil	2
+Nadir	2
+Nasim	2
+Nazim	2
+Noel	2
+Noman	2
+Nurul	2
+Oli	2
+Osama	2
+Osman	2
+Pappu	2
+Parviz	2
+Paul	2
+Pervaiz	2
+Peter	2
+Qaiser	2
+Quazi	2
+Raḥat	2
+Rasoul	2
+Saddam	2
+Safiullah	2
+Sahir	2
+Salah	2
+Salih	2
+Samad	2
+Samson	2
+Samuel	2
+Saud	2
+Selim	2
+Shahnawaz	2
+Shahryar	2
+Shahzaib	2
+Sharafat	2
+Shishir	2
+Sohail	2
+Suleiman	2
+Taha	2
+Talat	2
+Tony	2
+Uzair	2
+Victor	2
+Waleed	2
+Yogi	2
+Ziauddin	2
+Zillur	2
+Zulfiqar	2
+Aamer
+Abazar
+Abbasuddin
+Abdolali
+Abdul Baqi
+Abdul Bari
+Abdul Ghani
+Abdul Halim
+Abdul Jalil
+Abdul Monem
+Abdul Qadeer
+Abdul Qahar
+Abdul Razak
+Abdulrahman
+Abdus
+Abdusshakoor
+Abolhassan
+Abraham
+Abrār
+Abu
+Adib
+Adrian
+Afaq
+Aftab
+Ahad
+Ahmer
+Ainun
+Aitzaz
+Ajit
+Ajoy
+Akhtaruzzaman
+Alam
+Aleem
+Ali-Asghar
+Alvin
+Ameen
+Ameer
+Aminullah
+Anas
+Andrew
+Anisul
+Anu
+Archie
+Ardeshir
+Arefin
+Arnold
+Art
+Arthur
+Asaduzzaman
+Asaf
+Ashok
+Ata
+Atef
+Atta
+Atıf
+Augustine
+Aurangzeb
+Ayan
+Ayyub
+Azad
+Azeem
+Babar
+Badr
+Balach
+Baseer
+Basheer
+Baz
+Behram
+Binod
+Bonaventure
+Chalifa
+Chalmers
+Clement
+Colin
+Daim
+Daniel
+Daniyal
+Debu
+Deen
+Diaa
+Dino
+Dwijen
+Emmanuel
+Enver
+Eric
+Ernest
+Etzaz
+Ezatullah
+fāḍil
+Faheem
+Faizan
+Fakhar
+Falak
+Faran
+Farasat
+Faraz
+Farhad
+Faris
+Faruk
+Faruque
+Fida
+Fredrick
+Gauhar
+Geoffrey
+Gerald
+Gervas
+Ghazanfar
+Gholam
+Ghulamullah
+Gogi
+Govinda
+Graham
+Gul
+Hannan
+Hasnain
+Ḥassān
+Hayat
+Hidayat
+Humaira
+Ian
+Ibad
+Ibtisam
+Ihsan
+İhsan
+İlhan
+Ilias
+Imam
+Intizar
+Inzam
+Ishaq
+Israel
+Ja'far
+Jàbir
+Jack
+Jalil
+Jani
+Jaun
+Jehangir
+Jesus
+Jewel
+Jimmy
+Jogendra
+Josh
+Julius
+Junaid
+Kabir
+Kadir
+Kamil
+Kapil
+Kawthar
+Kâzım
+Khaki
+Khaled
+Khurram
+Kifayat
+Kishan
+Latif
+lawyer
+Leslie
+Liaqat
+Linus
+Lucas
+Lutfor
+Mahboob
+Mahdi
+Mahesh
+Mahfuz
+Mahmudul
+Makhdoom
+Malak
+Mamnoon
+Manabendra
+Mansur
+Maqbool
+Maqsood
+Mashkoor
+Masood
+Masud
+Max
+Mervyn
+Mir
+Miran
+Misbah
+Misha
+Mitty
+Moeed
+Moeen
+Mohammad-Taghi
+Mohd
+Mohiuddin
+Moni
+Mostafa
+Mudjib
+Muhammad Ali
+Muhammad Yasir
+Muhammad Zaki
+Muhammed
+Mujtaba
+Mukesh
+Muqeet
+Murshed
+Musa
+Musarat
+Musharraf
+Mustapha
+Myra
+Nadeem
+Najibullah
+Naqi
+Nasir
+Nasiruddin
+Nasruddin
+Nasser
+Nassir
+Naushad
+Nawaz
+Nazeer
+Nazmul
+Norman
+Nur
+Oliver
+Oscar
+Oskar
+Osmany
+Oswald
+Pabitra
+Patras
+Peer
+Pritish
+Qadeer
+Qadri
+Qari
+Rabindranath
+Rachid
+Rafik
+Raheel
+Rahimuddin
+Rahimullah
+Raj
+Raja
+Rajab
+Rajesh
+Ram
+Ramzi
+Rashad
+Ravinder
+Rehan
+Riaz
+Richard
+Robin
+Romen
+Rony
+Rufin
+Sabir
+Sadek
+Sadiq
+Sadruddin
+Safi
+Saghar
+Sahar
+Sahil
+Saif
+Saifur Rahman
+Sajjad
+Salah ad-Din
+Salahuddin
+Salam
+Samir
+Sana
+Sanat
+Sanjay
+Santosh
+Sarfraz
+Sattar
+Sayyid
+Sebastian
+Shabeeh
+Shabnam
+Shafeeq
+Shafi
+Shafiq
+Shafique
+Shahabuddin
+Shaharyar
+Shahbaz
+Shahruz
+Shahzad
+Shamim
+Shams
+Shamshad
+Shamsuddin
+Shani
+Sharjeel
+Shehroz
+Sheikh
+Shirshendu
+Siraj
+Sohel
+Somnath
+Stephen
+Sufyan
+Sulehri
+Tabarak
+Taimur
+Talha
+Tanveer
+Tarek
+Tareque
+Taşkın
+Tasneem
+Teja
+Theodore
+Uday
+Upendra
+Wahajat
+Wajid
+Wali
+Waliullah
+Waqar
+Waseem
+Wisal
+Yakub
+Yasin
+Yousef
+Youssef
+Zack
+Zaid
+Zain
+Zak
+Zia

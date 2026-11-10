@@ -1,0 +1,5000 @@
+Cohen	507
+Levy	150
+Katz	115
+Levi	106
+Friedman	64
+Shapira	63
+Goldberg	52
+Dorian	51
+Klein	51
+Schwartz	50
+Weiss	50
+Levin	48
+Rosen	47
+Golan	46
+Goldstein	41
+Kaplan	40
+Adler	39
+Landau	39
+Tal	39
+Stern	37
+Bar	36
+Peretz	36
+Gross	35
+Berger	34
+Epstein	34
+Feldman	34
+Gal	34
+Peled	34
+Shamir	33
+Zohar	33
+Dayan	32
+Sharon	32
+Amir	31
+Arad	31
+Gordon	31
+Peleg	31
+Lev	30
+Miller	30
+Mizrahi	30
+Tamir	30
+Shavit	29
+Alon	28
+Harel	28
+Lifshitz	28
+Rosenfeld	28
+Rubinstein	28
+Aharoni	27
+Berman	27
+Meir	27
+Rosenberg	27
+Almog	26
+Navon	26
+Rabinovich	26
+Raz	26
+Bernstein	25
+Goldman	25
+Israeli	25
+Roth	25
+Sela	25
+Amit	24
+Ben-David	24
+Dagan	24
+David	24
+Goren	24
+Koren	24
+Lavi	24
+Sagi	24
+Salomon	24
+Shalev	24
+Bergman	23
+Nir	23
+Ronen	23
+Rubin	23
+Segev	23
+Aloni	22
+Ben-Zvi	22
+Biton	22
+Bloch	22
+Edri	22
+Eshel	22
+Halperin	22
+Harari	22
+Horowitz	22
+Margalit	22
+Mor	22
+Yanai	22
+Yaron	22
+Ariel	21
+Ashkenazi	21
+Efrat	21
+Frenkel	21
+Halevi	21
+Moses	21
+Singer	21
+Zamir	21
+Amar	20
+Barak	20
+Dror	20
+Fisher	20
+Gil	20
+Lavie	20
+Noy	20
+Wolf	20
+Dekel	19
+Hadar	19
+Hoffman	19
+Keren	19
+Kraus	19
+Mann	19
+Manor	19
+Oren	19
+Porat	19
+Reshef	19
+Shaked	19
+Vardi	19
+Aviv	18
+Azoulay	18
+Barnea	18
+Baruch	18
+Carmel	18
+Doron	18
+Green	18
+Greenberg	18
+Heller	18
+Herman	18
+Inbar	18
+Kaufman	18
+Neumann	18
+Rivlin	18
+Shani	18
+Stein	18
+Alexander	17
+Avni	17
+Banai	17
+Barkai	17
+Dotan	17
+Fuchs	17
+Geffen	17
+Gilboa	17
+Hirsch	17
+Kaspi	17
+Malka	17
+Schwarz	17
+Shahar	17
+Sofer	17
+Weinberg	17
+Zahavi	17
+Ziv	17
+Agmon	16
+Barzilai	16
+Drori	16
+Ehrlich	16
+Elbaz	16
+Fischer	16
+Frank	16
+Gafni	16
+Grossman	16
+Hasson	16
+Herzog	16
+Mayer	16
+Ron	16
+Shemesh	16
+Shoham	16
+Zur	16
+Ben	15
+Ben-Ami	15
+Even	15
+Hacohen	15
+Keinan	15
+Lahav	15
+Leibowitz	15
+Lerner	15
+Perry	15
+Rotem	15
+Schlesinger	15
+Shmueli	15
+Steinberg	15
+Atzmon	14
+Dahan	14
+Erlich	14
+Eyal	14
+Gazit	14
+Gilad	14
+Kahana	14
+Kariv	14
+Kedar	14
+Kogan	14
+Ofer	14
+Ohana	14
+Orbach	14
+Raviv	14
+Rosenbaum	14
+Rotman	14
+Sa'ar	14
+Sachs	14
+Schneider	14
+Solomon	14
+Tzur	14
+Yitzhaki	14
+Arnon	13
+Avital	13
+Burstein	13
+Daniel	13
+Erez	13
+Glazer	13
+Gonen	13
+Israel	13
+Kagan	13
+Leshem	13
+Levanon	13
+Maimon	13
+Marcus	13
+Regev	13
+Shalom	13
+Shapiro	13
+Toledano	13
+Zemach	13
+Afek	12
+Aharon	12
+Arbel	12
+Barkat	12
+Beck	12
+Becker	12
+Ben Ari	12
+Blum	12
+Carmi	12
+Eden	12
+Eldar	12
+Elias	12
+Gavish	12
+Hadas	12
+Harpaz	12
+Hazan	12
+Keller	12
+Kimhi	12
+Melamed	12
+Michaeli	12
+Netanyahu	12
+Paz	12
+Rabin	12
+Sarid	12
+Sasson	12
+Shechori	12
+Simon	12
+Tadmor	12
+Vilensky	12
+Yaari	12
+Yosef	12
+Abraham	11
+Abramovich	11
+Amsalem	11
+Artzi	11
+Assulin	11
+Auerbach	11
+Avitan	11
+Ben-Dov	11
+Biran	11
+Carmon	11
+Cohn	11
+Dadon	11
+Danon	11
+Efrati	11
+Gabai	11
+Geva	11
+Gold	11
+Goldenberg	11
+Hen	11
+Ilan	11
+Maor	11
+Morag	11
+Naor	11
+Netzer	11
+Pollack	11
+Rosenthal	11
+Rosenzweig	11
+Sapir	11
+Sharvit	11
+Sivan	11
+Strauss	11
+Tsabari	11
+Yarkoni	11
+Alfasi	10
+Asher	10
+Avisar	10
+Avivi	10
+Ben Haim	10
+Ben Nun	10
+Blumenthal	10
+Deutsch	10
+Eisenberg	10
+Elimelech	10
+Elkayam	10
+Eshed	10
+Eytan	10
+Fogel	10
+Ginzburg	10
+Gottlieb	10
+Hochman	10
+Hoffmann	10
+Japhet	10
+Kafri	10
+Kohn	10
+Kushnir	10
+Liberman	10
+Matalon	10
+Meyer	10
+Moshe	10
+Ohayon	10
+Omer	10
+Oron	10
+Rabinowitz	10
+Reich	10
+Shechter	10
+Sheetrit	10
+Shimoni	10
+Shochat	10
+Shoval	10
+Weizman	10
+Yahalom	10
+Zafrir	10
+Adam	9
+Altman	9
+Argov	9
+Atias	9
+Aviram	9
+Bar-On	9
+Ben David	9
+Ben Yehuda	9
+Ben Zaken	9
+Ben-Artzi	9
+Brand	9
+Brenner	9
+Buzaglo	9
+Dor	9
+Dori	9
+Dvir	9
+Eliyahu	9
+Ettinger	9
+Gera	9
+Guttmann	9
+Joffe	9
+Katzir	9
+Khoury	9
+Levine	9
+Magen	9
+Mandel	9
+Mansour	9
+Maoz	9
+Meiri	9
+Mintz	9
+Miron	9
+Moyal	9
+Nahmias	9
+Nathan	9
+Naveh	9
+Ne'eman	9
+Nevo	9
+Nissim	9
+Pinto	9
+Rahav	9
+Ravid	9
+Ravitz	9
+Rosenblum	9
+Schiff	9
+Tamari	9
+Toren	9
+Waldman	9
+Weitz	9
+Yerushalmi	9
+Abutbul	8
+Avrahami	8
+Ayalon	8
+Bachar	8
+Baer	8
+Barkan	8
+Barzel	8
+Be'eri	8
+Beer	8
+Ben Menahem	8
+Benvenisti	8
+Braun	8
+Bronstein	8
+Chen	8
+Dar	8
+Davidovich	8
+Davidson	8
+Eckstein	8
+Edelstein	8
+Elad	8
+Elitzur	8
+Elkabetz	8
+Falk	8
+Feder	8
+Feuerstein	8
+Fink	8
+Fraenkel	8
+Friedmann	8
+Gershon	8
+Goldschmidt	8
+Grinberg	8
+Gur	8
+Guttman	8
+Hameiri	8
+Hecht	8
+Kadosh	8
+Kasher	8
+Kremer	8
+Lapid	8
+Lazar	8
+Lubin	8
+Lurie	8
+Malul	8
+Mazor	8
+Meller	8
+Mesika	8
+Milstein	8
+Moran	8
+Nesher	8
+Oppenheimer	8
+Or	8
+Oz	8
+Rafaeli	8
+Rappaport	8
+Razel	8
+Razin	8
+Rimon	8
+Romano	8
+Sahar	8
+Savir	8
+Schechter	8
+Schreiber	8
+Schuster	8
+Shafir	8
+Shalem	8
+Sherman	8
+Shiloh	8
+Shor	8
+Shuv	8
+Spector	8
+Talmon	8
+Toker	8
+Ullman	8
+Vered	8
+Weizmann	8
+Yaniv	8
+Yinon	8
+Zakai	8
+Zilberman	8
+Zuckerman	8
+Abergel	7
+Abramson	7
+Agbaria	7
+Albeck	7
+Almagor	7
+Alterman	7
+Amram	7
+Arieli	7
+Assaf	7
+Avidar	7
+Bar-Lev	7
+Baram	7
+Baron	7
+Bartov	7
+Ben Harush	7
+Berlin	7
+Carmeli	7
+Cooper	7
+Dan	7
+Dolev	7
+Eshkol	7
+Even-Chen	7
+Farber	7
+Farkash	7
+Fine	7
+Finkelstein	7
+Franco	7
+Fridman	7
+Gabay	7
+Gat	7
+Givati	7
+Glick	7
+Golomb	7
+Gruber	7
+Gutman	7
+Haddad	7
+Haim	7
+Halevy	7
+Haran	7
+Hayun	7
+Heifetz	7
+Hertz	7
+Hess	7
+Jacobi	7
+Kalderon	7
+Katsav	7
+Kramer	7
+Landsman	7
+Laufer	7
+Livnat	7
+Livne	7
+Lustig	7
+Naaman	7
+Nitzan	7
+Ofek	7
+Peres	7
+Pinchasi	7
+Ram	7
+Revivo	7
+Saban	7
+Sadan	7
+Sadeh	7
+Samuel	7
+Shamai	7
+Sharabi	7
+Sharett	7
+Sharoni	7
+Shaul	7
+Shemer	7
+Shemi	7
+Shilo	7
+Shoshan	7
+Shoshani	7
+Sinai	7
+Smith	7
+Sobol	7
+Sperber	7
+Spitzer	7
+Suissa	7
+Tauber	7
+Unger	7
+Wagner	7
+Weil	7
+Weiner	7
+Weingarten	7
+Wertheimer	7
+Zuares	7
+Abbas	6
+Abramov	6
+Adar	6
+Agassi	6
+Aharonov	6
+Alpert	6
+Amiel	6
+Arazi	6
+Asaf	6
+Atar	6
+Avidan	6
+Avraham	6
+Azran	6
+Azulay	6
+Bader	6
+Bechar	6
+Beilin	6
+Ben Tov	6
+Ben-Eliyahu	6
+Berg	6
+Berkovic	6
+Berkovich	6
+Birnbaum	6
+Bitton	6
+Bloom	6
+Braverman	6
+Brosh	6
+Brown	6
+de-Shalit	6
+Degani	6
+Deri	6
+Dothan	6
+Einstein	6
+Eliakim	6
+Elon	6
+Ephraim	6
+Evron	6
+Feller	6
+Finkel	6
+Fleischer	6
+Fox	6
+Friedland	6
+Galil	6
+Gamliel	6
+Gershoni	6
+Giladi	6
+Gilat	6
+Goldfarb	6
+Gurevich	6
+Hadad	6
+Hager	6
+Hartman	6
+Hendel	6
+Hever	6
+Hillel	6
+Hochberg	6
+Hurvitz	6
+Ifrah	6
+Jaber	6
+Kahane	6
+Kahn	6
+Katzman	6
+Kaznelson	6
+Kedem	6
+Klausner	6
+Knafo	6
+Kochavi	6
+Kohen	6
+Kotler	6
+Lehavi	6
+Levinger	6
+Lidor	6
+Lior	6
+Lotan	6
+Luria	6
+Malkin	6
+Margolin	6
+Meidan	6
+Meltzer	6
+Menashe	6
+Mizrachi	6
+Moav	6
+Morgenstern	6
+Moskowitz	6
+Nachmias	6
+Namir	6
+Neeman	6
+Niv	6
+Nudelman	6
+Olmert	6
+Perez	6
+Pines	6
+Pollak	6
+Raban	6
+Raiskin	6
+Ramon	6
+Rapaport	6
+Ratsabi	6
+Ratzon	6
+Reiner	6
+Rosner	6
+Rozen	6
+Salman	6
+Schatz	6
+Schocken	6
+Schorr	6
+Shelach	6
+Shenhav	6
+Shevach	6
+Shilon	6
+Shorer	6
+Shuval	6
+Smilansky	6
+Tannenbaum	6
+Tavoru	6
+Tirosh	6
+Topol	6
+Turgeman	6
+Uziel	6
+Wallach	6
+Wasserman	6
+Waxman	6
+Weissman	6
+Wexler	6
+Wiener	6
+Yardeni	6
+Yehoshua	6
+Yoeli	6
+Zach	6
+Zack	6
+Zadok	6
+Zaid	6
+Zimmerman	6
+Zucker	6
+Abu	5
+Abulafia	5
+Admoni	5
+Aharonovich	5
+Ankori	5
+Applebaum	5
+Atlas	5
+Avneri	5
+Awerbuch	5
+Azar	5
+Azuri	5
+Bahat	5
+Bar-Joseph	5
+Baratz	5
+Bartal	5
+Barzilay	5
+Bashan	5
+Baum	5
+Ben Tovim	5
+Ben-Gurion	5
+Ben-Moshe	5
+Ben-Porat	5
+Ben-Shalom	5
+Ben-Shaul	5
+Ben-Zeev	5
+Bergmann	5
+Besser	5
+Bornstein	5
+Damari	5
+Danino	5
+Davidi	5
+Davidov	5
+Deshe	5
+Dorfman	5
+Edelman	5
+Egozi	5
+Eilam	5
+Einhorn	5
+Elizur	5
+Engel	5
+Ezer	5
+Feingold	5
+Fishman	5
+Folman	5
+Friedlander	5
+Fürst	5
+Fux	5
+Gelfand	5
+Goodman	5
+Gordin	5
+Granot	5
+Guetta	5
+Gurevitch	5
+Hachmon	5
+Haimovici	5
+Haviv	5
+Ḥazzan	5
+Hirshberg	5
+Jacoby	5
+Jaffe	5
+Jakobson	5
+Kahan	5
+Kaminski	5
+Kantor	5
+Kfir	5
+Kishon	5
+Kor	5
+Kugel	5
+Lamdan	5
+Lankri	5
+Levit	5
+Lewis	5
+Lichtenstein	5
+Lieberman	5
+Lipkin	5
+Locker	5
+Luzon	5
+Madar	5
+Maman	5
+Mark	5
+Mazuz	5
+Mekel	5
+Merhav	5
+Meron	5
+Milman	5
+Mordecai	5
+Moreno	5
+Munitz	5
+Nagar	5
+Nahum	5
+Narkis	5
+Neuman	5
+Nussbaum	5
+Orr	5
+Ovadia	5
+Parnas	5
+Pearl	5
+Peer	5
+Peri	5
+Perl	5
+Piamenta	5
+Pinkas	5
+Polak	5
+Preminger	5
+Primo	5
+Rafael	5
+Ran	5
+Rechter	5
+Rich	5
+Richter	5
+Rom	5
+Ross	5
+Rothenberg	5
+Rottenberg	5
+Russo	5
+Samet	5
+Sandler	5
+Sarig	5
+Schmidt	5
+Shahaf	5
+Shaker	5
+Shalit	5
+Shefi	5
+Sheleg	5
+Shlomo	5
+Shushan	5
+Spiegel	5
+Stav	5
+Steiner	5
+Sukenik	5
+Sultan	5
+Talmi	5
+Telem	5
+Tene	5
+Tessler	5
+Tobi	5
+Twersky	5
+Ullmann	5
+Weinstein	5
+Weinstock	5
+Winograd	5
+Wolff	5
+Yadlin	5
+Yahav	5
+Yakir	5
+Yekutieli	5
+Yogev	5
+Yossefi	5
+Zak	5
+Zar	5
+Ze'evi	5
+Zilber	5
+Abramović	4
+Abu Hanna	4
+Ahimeir	4
+Allon	4
+Alter	4
+Amdursky	4
+Amrani	4
+Antebi	4
+Appelbaum	4
+Aronov	4
+Assayag	4
+Assis	4
+Atari	4
+Atiya	4
+Avigad	4
+Avner	4
+Azaria	4
+Baker	4
+Bakshi	4
+Balaban	4
+Baneth	4
+Baranes	4
+Bavli	4
+Begin	4
+Behar	4
+Bejarano	4
+Belfer	4
+Ben Shushan	4
+Ben-Aharon	4
+Benayahu	4
+Benjamin	4
+Bibas	4
+Biderman	4
+Binyamin	4
+Bitan	4
+Blau	4
+Boneh	4
+Brandes	4
+Brener	4
+Breuer	4
+Brodsky	4
+Bruck	4
+Brunner	4
+Buch	4
+Buhbut	4
+Burak	4
+Burg	4
+Burla	4
+Calderon	4
+Chaplin	4
+Chelouche	4
+Chikli	4
+Cukierman	4
+Danziger	4
+Davidoff	4
+Davis	4
+Diamant	4
+Diamond	4
+Dinur	4
+Domb	4
+Dreyfus	4
+Dunietz	4
+Duvdevani	4
+Eisenstadt	4
+Eisner	4
+Eldor	4
+Eleazar	4
+Eliav	4
+Elkin	4
+Elyashiv	4
+Eshet	4
+Etzioni	4
+Farkas	4
+Feigenbaum	4
+Fein	4
+Feinberg	4
+Feiner	4
+Feinstein	4
+Ferber	4
+Fichman	4
+Fisch	4
+Fish	4
+Freier	4
+Freudenthal	4
+Freund	4
+Fried	4
+Frisch	4
+Frost	4
+Fruchter	4
+Fruman	4
+Gad	4
+Ganor	4
+Gaon	4
+Geller	4
+Gidron	4
+Gill	4
+Ginossar	4
+Givon	4
+Glickman	4
+Goldin	4
+Goldwasser	4
+Goshen	4
+Gozlan	4
+Greenspan	4
+Grossmann	4
+Gruzman	4
+Gurfinkel	4
+Haas	4
+Haber	4
+Harnoy	4
+Hedaya	4
+Heiman	4
+Hendler	4
+Hershko	4
+Hershkovitz	4
+Hershkowitz	4
+Heymann	4
+Hirschfeld	4
+Hirsh	4
+Hod	4
+Hollander	4
+Huberman	4
+Ifergan	4
+Isaac	4
+Itzhaki	4
+Ivry	4
+Jacob	4
+Jacobson	4
+Jones	4
+Joseph	4
+Kahlon	4
+Kalev	4
+Kalmanovich	4
+Kandel	4
+Kanevsky	4
+Karp	4
+Karpel	4
+Katan	4
+Katzenelson	4
+Kaufmann	4
+Kay	4
+Kenan	4
+Keret	4
+Kluger	4
+Koenig	4
+Kol	4
+Kollek	4
+Koller	4
+Koppel	4
+Krol	4
+Kurtz	4
+Lahat	4
+Lampel	4
+Landa	4
+Lasri	4
+Lederman	4
+Lerer	4
+Lerman	4
+Lewin	4
+Liebes	4
+Louk	4
+Marciano	4
+Markus	4
+Marmor	4
+Marom	4
+Maron	4
+Mass	4
+Megged	4
+Menachem	4
+Meridor	4
+Merin	4
+Meshulam	4
+Metzger	4
+Milo	4
+Mimran	4
+Molcho	4
+Mondschein	4
+Moore	4
+Moreh	4
+Morris	4
+Mosenzon	4
+Moshonov	4
+Muszkat	4
+Nadav	4
+Nadel	4
+Naim	4
+Nardi	4
+Nassar	4
+Nawi	4
+Negbi	4
+Neiman	4
+Nelson	4
+Nizri	4
+Novak	4
+Nuriel	4
+Ofarim	4
+Offer	4
+Orenstein	4
+Palgi	4
+Pardo	4
+Pe'er	4
+Peles	4
+Penn	4
+Perlmutter	4
+Pick	4
+Pilpel	4
+Polonsky	4
+Pratt	4
+Priel	4
+Procaccia	4
+Rada	4
+Rand	4
+Raphael	4
+Rath	4
+Raveh	4
+Reuven	4
+Riklin	4
+Robinson	4
+Rochman	4
+Rokach	4
+Rokeach	4
+Rosenak	4
+Rothman	4
+Rozental	4
+Saar	4
+Sabag	4
+Sagiv	4
+Saul	4
+Schindler	4
+Schweitzer	4
+Seri	4
+Sever	4
+Shahor	4
+Shai	4
+Shamriz	4
+Sharir	4
+Shemtob	4
+Shifrin	4
+Shimon	4
+Shir	4
+Shragai	4
+Shriki	4
+Silberman	4
+Silberstein	4
+Silbertein	4
+Silver	4
+Simantov	4
+Sirota	4
+Skolnick	4
+Sorek	4
+Spivak	4
+Stark	4
+Sternberg	4
+Suleiman	4
+Sussman	4
+Talmor	4
+Teicher	4
+Tenenbaum	4
+Toledo	4
+Trainin	4
+Ulman	4
+Vaknin	4
+Verbin	4
+Vital	4
+Wald	4
+Weiser	4
+Weisman	4
+Weismann	4
+Weissfisch	4
+Werner	4
+Wiesel	4
+Wilensky	4
+Winkler	4
+Yadin	4
+Yahalomi	4
+Yarden	4
+Yariv	4
+Zaltzman	4
+Ziegler	4
+Zimmermann	4
+Zoabi	4
+Zukerman	4
+Zussman	4
+Zweig	4
+Abarbanel	3
+Abed	3
+Abrahami	3
+Abramovici	3
+Abuhatzira	3
+Ackerman	3
+Adoni	3
+Aflalo	3
+Agam	3
+Agnon	3
+Aizenberg	3
+Altmann	3
+Altshuler	3
+Altshuller	3
+Amedi	3
+Amichai	3
+Amihai	3
+Aminoff	3
+Amiran	3
+Amitay	3
+Aner	3
+Angel	3
+Aran	3
+Arber	3
+Arditi	3
+Argaman	3
+Ari	3
+Aroch	3
+Aronson	3
+Ashkar	3
+Ashlag	3
+Assouline	3
+Atia	3
+Attal	3
+Averbuch	3
+Avron	3
+Badash	3
+Bahloul	3
+Bank	3
+Barash	3
+Barda	3
+Bareli	3
+Barlev	3
+Barouch	3
+Batz	3
+Baumgarten	3
+Bear	3
+Beger	3
+Beit-Halahmy	3
+Belhassen	3
+ben Asher	3
+Ben-Rubi	3
+Benari	3
+Benhamou	3
+Bennett	3
+Berkovitz	3
+Berkowitz	3
+Bezek	3
+Bibi	3
+Biedermann	3
+Bilu	3
+Binder	3
+Birenbaum	3
+Birman	3
+Blank	3
+Blass	3
+Blumberg	3
+Blumenfeld	3
+Bodenheimer	3
+Boehm	3
+Boker	3
+Bolotin	3
+Bracha	3
+Brandt	3
+Brick	3
+Brill	3
+Bromberg	3
+Bronfman	3
+Buchbinder	3
+Butbul	3
+Byron	3
+Caspi	3
+Castel	3
+Castro	3
+Chechik	3
+Cheshin	3
+Chetrit	3
+Churgin	3
+Cole	3
+Cook	3
+Dafni	3
+Dana	3
+Danan	3
+Danieli	3
+Darmon	3
+Daskal	3
+Daus	3
+De Vries	3
+Dean	3
+Deutscher	3
+Dobkin	3
+Ebner	3
+Eichler	3
+Eilat	3
+Eisen	3
+Eisenbach	3
+Elazari	3
+Elbaum	3
+Eldad	3
+Elefant	3
+Elinav	3
+Elkana	3
+Ella	3
+Enav	3
+Eppelbaum	3
+Etzion	3
+Ezra	3
+Faingezicht	3
+Falah	3
+Fares	3
+Farhi	3
+Fass	3
+Faust	3
+Federman	3
+Fishelson	3
+Fodor	3
+Forer	3
+Fortis	3
+Francis	3
+Frankel	3
+Fränkel	3
+Freed	3
+Freeman	3
+Frieder	3
+Frimer	3
+Frish	3
+Frishman	3
+Frumkin	3
+Gabbay	3
+Gadot	3
+Galay	3
+Galor	3
+Galron	3
+Gamzu	3
+Gantz	3
+Gardos	3
+Gary	3
+Gellman	3
+Gerber	3
+German	3
+Gerstein	3
+Gerstel	3
+Glass	3
+Gliksberg	3
+Goldfinger	3
+Goldschläger	3
+Gottfried	3
+Gov	3
+Granit	3
+Grant	3
+Greenbaum	3
+Greenfeld	3
+Greenfield	3
+Grobman	3
+Groner	3
+Grupper	3
+Guez	3
+Gutfreund	3
+Guy	3
+Gvirtz	3
+Habib	3
+Hahn	3
+Haimovich	3
+Hajaj	3
+Halabi	3
+Halbertal	3
+Halfon	3
+Halkin	3
+Halpern	3
+Halpert	3
+Handler	3
+Hanuka	3
+Harash	3
+Hardy	3
+Harlap	3
+Harman	3
+Haroche	3
+Harris	3
+Hart	3
+Havlin	3
+Hayek	3
+Hayoun	3
+Hecker	3
+Heimann	3
+Henig	3
+Henkin	3
+Hermann	3
+Hillman	3
+Holtzman	3
+Horn	3
+Horovitz	3
+Horvitz	3
+Huber	3
+Hugi	3
+Huppert	3
+Huss	3
+Idan	3
+Idelson	3
+Imber	3
+Ish-Shalom	3
+Ivgy	3
+Jacobs	3
+Jammer	3
+Jonas	3
+Jubran	3
+Kadari	3
+Kadmon	3
+Kallner	3
+Kaminka	3
+Kaner	3
+Kara	3
+Kark	3
+Karni	3
+Kedmi	3
+Kerem	3
+Kerman	3
+Khazanov	3
+Kim	3
+Kipnis	3
+Kirschenbaum	3
+Kirschner	3
+Kleinstein	3
+Kober	3
+Kobo	3
+Kofman	3
+Kohlberg	3
+Kook	3
+Kornfeld	3
+Korsia	3
+Kovner	3
+Krakauer	3
+Kreitler	3
+Krinsky	3
+Krispel	3
+Kulka	3
+Kuper	3
+Kuperman	3
+Kurzweil	3
+Lampert	3
+Landsberg	3
+Landsmann	3
+Lang	3
+Laor	3
+Lax	3
+Lazare	3
+Lazarus	3
+Lehrer	3
+Leibovitz	3
+Leifer	3
+Lemberger	3
+Levenberg	3
+Levinson	3
+Levitan	3
+Lewensohn	3
+Lindenstrauss	3
+Lis	3
+Liss	3
+London	3
+Maayan	3
+Machnes	3
+Makhoul	3
+Man	3
+Manes	3
+Markovich	3
+Marx	3
+Massalha	3
+Mazar	3
+Mazia	3
+Meisel	3
+Meisler	3
+Mendel	3
+Mendelson	3
+Mendelssohn	3
+Mendes	3
+Merari	3
+Meshel	3
+Meskin	3
+Michael	3
+Milchan	3
+Milner	3
+Mirkin	3
+Mirsky	3
+Morgan	3
+Morin	3
+Moshkovich	3
+Moskovits	3
+Mukamel	3
+Nachmani	3
+Nacht	3
+Nagler	3
+Nahon	3
+Nakash	3
+Nenner	3
+Neufeld	3
+Neuwirth	3
+Newman	3
+Ninio	3
+Nitzani	3
+Novick	3
+Orgad	3
+Ori	3
+Orlev	3
+Ornstein	3
+Ostrovsky	3
+Ouaknine	3
+Oxman	3
+Ozeri	3
+Padan	3
+Pasternak	3
+Patai	3
+Patt	3
+Peli	3
+Perelman	3
+Perets	3
+Pérez	3
+Perlov	3
+Pevsner	3
+Picard	3
+Pinhasov	3
+Plotkin	3
+Polyakov	3
+Popper	3
+Porush	3
+Posner	3
+Prager	3
+Pugach	3
+Ra'anan	3
+Raab	3
+Rabi	3
+Rabinovitch	3
+Rabinovitz	3
+Rakover	3
+Ramot	3
+Rapoport	3
+Ravina	3
+Reichert	3
+Reichmann	3
+Reisner	3
+Reiter	3
+Rennert	3
+Reuben	3
+Rimmer	3
+Riskin	3
+Roberts	3
+Roitman	3
+Roll	3
+Romanov	3
+Rosengarten	3
+Rosolio	3
+Rot	3
+Rothschild	3
+Saada	3
+Sade	3
+Saks	3
+Samson	3
+Sanderson	3
+Schaffer	3
+Schechtman	3
+Schneid	3
+Schneidman	3
+Schnitzer	3
+Schönfeld	3
+Schwager	3
+Seker	3
+Seroussi	3
+Shabo	3
+Shabtai	3
+Shahal	3
+Shaham	3
+Sharp	3
+Shasha	3
+Shatz	3
+Shehadeh	3
+Shek	3
+Sherer	3
+Sherf	3
+Shifman	3
+Shiloah	3
+Shiloni	3
+Shkedi	3
+Shlonsky	3
+Shwartz	3
+Sidi	3
+Siegal	3
+Silman	3
+Silverman	3
+Sklar	3
+Smadja	3
+Snunit	3
+Soffer	3
+Sommer	3
+Soomekh	3
+Spitz	3
+Sprecher	3
+Sprinzak	3
+Stauber	3
+Steinitz	3
+Steinman	3
+Szőllős	3
+Taub	3
+Tayar	3
+Tayeb	3
+Teitelbaum	3
+Temkin	3
+Tepper	3
+Tibi	3
+Tibon	3
+Timor	3
+Tishby	3
+Traub	3
+Treves	3
+Tzarfati	3
+Tzivoni	3
+Ungar	3
+Unna	3
+Urbach	3
+Uzan	3
+Versano	3
+Vilner	3
+Wagman	3
+Walden	3
+Warhaftig	3
+Wax	3
+Weisz	3
+Weitzman	3
+Wininger	3
+Wolfson	3
+Yaffe	3
+Yamin	3
+Yavneh	3
+Yedid	3
+Yehuda	3
+Yekutiel	3
+Yoffe	3
+Yona	3
+Zafrani	3
+Zandberg	3
+Zaritsky	3
+Zeidel	3
+Zeitlin	3
+Ziffer	3
+Zilberstein	3
+Zimmer	3
+Zinger	3
+Zisman	3
+Zmora	3
+Zondek	3
+Zuckermann	3
+Abadi	2
+Abecassis	2
+Abeles	2
+Abitbol	2
+Aboulafia	2
+Abramsky	2
+Abravanel	2
+Abuhatzeira	2
+Adams	2
+Ades	2
+Adi	2
+Adib	2
+Adin	2
+Adîr	2
+Agron	2
+Ajiashvili	2
+Akerman	2
+Akselrod	2
+Alaluf	2
+Albert	2
+Albin	2
+Alcalay	2
+Aldouby	2
+Alexandroni	2
+Alkalai	2
+Allouche	2
+Alouf	2
+Alpher	2
+Alush	2
+Amer	2
+Amirav	2
+Amos	2
+Ansbacher	2
+Ansky	2
+Apelbaum	2
+Apfel	2
+Arbib	2
+Ardon	2
+Arie	2
+Ariely	2
+Armon	2
+Arnheim	2
+Arnold	2
+Aron	2
+Artman	2
+Artom	2
+Artzy	2
+Arusi	2
+Ascher	2
+Ash	2
+Ashkenazy	2
+Ashman	2
+Asman	2
+Asscher	2
+Attali	2
+Attar	2
+Attas	2
+Attias	2
+Aumann	2
+Avdija	2
+Averbukh	2
+Avin	2
+Avineri	2
+Avishai	2
+Avram	2
+Awad	2
+Ayoub	2
+Azari	2
+Azrieli	2
+Bach	2
+Bacharach	2
+Bachur	2
+Badner	2
+Bahar	2
+Baidatz	2
+Bak	2
+Bakhar	2
+Bakon	2
+Bakri	2
+Bakst	2
+Balas	2
+Ballan	2
+Bamberger	2
+Banet	2
+Bar Siman Tov	2
+Bar-Kochva	2
+Barad	2
+Barbash	2
+Barbi	2
+Barry	2
+Barsky	2
+Baruchyan	2
+Bashir	2
+Bass	2
+Bassan	2
+Bau	2
+Bauer	2
+Bauman	2
+Bauminger	2
+Bayer	2
+Bazak	2
+Bedir	2
+Bein	2
+Beit	2
+Beker	2
+Belenky	2
+Bell	2
+Bello	2
+Belmaker	2
+Belov	2
+Ben Dayan	2
+Ben Israel	2
+Ben Melech	2
+Ben Youssef	2
+Ben-Zion	2
+Benayoun	2
+Bender	2
+Benedek	2
+Benenson	2
+Benkler	2
+Benn	2
+Bentolila	2
+Bentwich	2
+Ber	2
+Bercu	2
+Berenson	2
+Bergson	2
+Bergstein	2
+Berkman	2
+Berkovits	2
+Berliner	2
+Berner	2
+Bernheim	2
+Bertini	2
+Beskin	2
+Bielski	2
+Biermann	2
+Bigman	2
+Biham	2
+Bikel	2
+Bin	2
+Bing	2
+Biram	2
+Birk	2
+Bishara	2
+Bisharat	2
+Bitter	2
+Blatt	2
+Blich	2
+Block	2
+Blumen	2
+Boasson	2
+Boaz	2
+Bodinger	2
+Bogin	2
+Bogler	2
+Bondi	2
+Booker	2
+Borokhov	2
+Borsuk	2
+Bouskilla	2
+Brailovsky	2
+Branski	2
+Braslavskiy	2
+Brauner	2
+Braunstein	2
+Breger	2
+Breiner	2
+Brezis	2
+Brezniak	2
+Brik	2
+Brin	2
+Brisker	2
+Brod	2
+Broner	2
+Brook	2
+Brooks	2
+Broshi	2
+Broza	2
+Bruckner	2
+Bruckstein	2
+Brun	2
+Buber	2
+Buchsenbaum	2
+Bursztyn	2
+Bushinsky	2
+Bykhovsky	2
+Cameron	2
+Canetti	2
+Cantor	2
+Capon	2
+Carasso	2
+Carlebach	2
+Carpi	2
+Carter	2
+Caspin	2
+Censor	2
+Chachashvili	2
+Chasson	2
+Chazom	2
+Cherki	2
+Cherniak	2
+Chertok	2
+Chillag	2
+Chomsky	2
+Choshen	2
+Ciechanover	2
+Constantini	2
+Cornelius	2
+Curiel	2
+Czerniak	2
+Dagon	2
+Dahari	2
+Daloya	2
+Damri	2
+Danilov	2
+Danin	2
+Danker	2
+Darwish	2
+Dasa	2
+Daube	2
+Daum	2
+Davies	2
+Dawson	2
+de Lange	2
+Degen	2
+Dery	2
+Deutch	2
+Dicker	2
+Dickstein	2
+Dina	2
+Diskin	2
+Dolphin	2
+Donath	2
+Donchin	2
+Drexler	2
+Drucker	2
+Druyan	2
+Dubiner	2
+Duek	2
+Dünner	2
+Dunsky	2
+Dvorin	2
+Eder	2
+Edrei	2
+Ehrenberg	2
+Ehrenreich	2
+Eisenman	2
+Eisenmann	2
+Eisenstein	2
+Eitam	2
+Eitan	2
+Eizenman	2
+El	2
+Elazar	2
+Elbling	2
+Eldan	2
+Eli	2
+Elinson	2
+Elisha	2
+Elstein	2
+Engelberg	2
+Engelmayer	2
+Englard	2
+Enoch	2
+Entin	2
+Erel	2
+Ernster	2
+Etrog	2
+Ezouz	2
+Fahn	2
+Fain	2
+Falkov	2
+Farah	2
+Faran	2
+Fast	2
+Faynberg	2
+Fehr	2
+Feige	2
+Feiglin	2
+Feiler	2
+Fekete	2
+Felix	2
+Ferguson	2
+Fest	2
+Fialkov	2
+Finkler	2
+First	2
+Firstenberg	2
+Fischl	2
+Fishkin	2
+Fleischmann	2
+Fleisher	2
+Fleishman	2
+Flug	2
+Freedman	2
+Freilich	2
+Frid	2
+Friedländer	2
+Friedler	2
+Fuhrer	2
+Furman	2
+Furstenberg	2
+Gabrieli	2
+Galai	2
+Gali	2
+Gamburg	2
+Ganon	2
+Ganot	2
+Gans	2
+Ganzel	2
+Garbuz	2
+Gardi	2
+Gartner	2
+Garty	2
+Garzon	2
+Gattegno	2
+Gavrieli	2
+Gavrielov	2
+Gelehrter	2
+George	2
+Geron	2
+Gertner	2
+Ghinsberg	2
+Gidal	2
+Gidali	2
+Gideon	2
+Gigi	2
+Gilady	2
+Gillies	2
+Gilon	2
+Ginsberg	2
+Ginsburg	2
+Giterman	2
+Gitter	2
+Glantz	2
+Glanz	2
+Glezer	2
+Glicksman	2
+Glozman	2
+Gofman	2
+Golani	2
+Goldberg-Polin	2
+Goldblum	2
+Goldhammer	2
+Goldreich	2
+Goldshteyn	2
+Goldsmith	2
+Golergant	2
+Golod	2
+Goor	2
+Gorenstein	2
+Gotlib	2
+Gotlieb	2
+Gottesmann	2
+Graber	2
+Grad	2
+Graetz	2
+Graf	2
+Gridenberg	2
+Griffin	2
+Grosman	2
+Grossbard	2
+Grunfeld	2
+Guberman	2
+Gueta	2
+Guggenheim	2
+Gurvitz	2
+Guterman	2
+Gutmann	2
+Hacker	2
+HaElyon	2
+Haimovitz	2
+Haj	2
+Hajdu	2
+Hakim	2
+Halachmi	2
+Halak	2
+Hall	2
+Haller	2
+Halter	2
+Halutz	2
+Hamburger	2
+Hamoud	2
+Handelman	2
+Handelsman	2
+Hanna	2
+Hannes	2
+Har-Even	2
+Haramati	2
+Harish	2
+Harmat	2
+Harnik	2
+Harth	2
+Hasan	2
+Hasdai	2
+Hasin	2
+Haspel	2
+Hass	2
+Hassan	2
+Hassid	2
+Hassin	2
+Hatuel	2
+Havemann	2
+Hayat	2
+Hayman	2
+Hayut	2
+Haziza	2
+Heber	2
+Heichman	2
+Heilprin	2
+Heinemann	2
+Heinrich	2
+Helfgott	2
+Helman	2
+Hemmo	2
+Herlitz	2
+Herscovici	2
+Hershman	2
+Herstein	2
+Heuberger	2
+Hevron	2
+Heyd	2
+Heyman	2
+Hill	2
+Hirschberg	2
+Hochstädter	2
+Hodak	2
+Hodes	2
+Holdheim	2
+Holland	2
+Honigman	2
+Hornstein	2
+Horwitz	2
+Hunter	2
+Huri	2
+Hussein	2
+Ibrahim	2
+Ingedashet	2
+Isaacson	2
+Ish-Kassit	2
+Itai	2
+Itzhak	2
+Ivanir	2
+Izak	2
+Jabarin	2
+Jablonka	2
+Jackson	2
+Jano	2
+Jauvel	2
+Jelinek	2
+Joel	2
+Joubran	2
+Kachila	2
+Kakon	2
+Kalay	2
+Kalfon	2
+Kalinsky	2
+Kalisch	2
+Kalish	2
+Kalisky	2
+Kalman	2
+Kalo	2
+Kama	2
+Kamil	2
+Kaminer	2
+Kaminker	2
+Kanievsky	2
+Kaniuk	2
+Kanner	2
+Kaplansky	2
+Kaplinsky	2
+Kaploun	2
+Karadi	2
+Karelitz	2
+Karsh	2
+Kashtan	2
+Kats	2
+Kayuf	2
+Kellner	2
+Kelman	2
+Kempner	2
+Kenig	2
+Kenner	2
+Keshet	2
+Kesten	2
+Khaiutin	2
+Khalaili	2
+Khatib	2
+Khromchenko	2
+Khrzhanovsky	2
+Khuri	2
+Kirshner	2
+Kiselov	2
+Kitzis	2
+Klapper	2
+Klarsfeld	2
+Klaus	2
+Kleiman	2
+Kleinberger	2
+Klemperer	2
+Kless	2
+Klier	2
+Kling	2
+Klinger	2
+Klinghoffer	2
+Kneller	2
+Knispel	2
+Koch	2
+Kodish	2
+Konfino	2
+Konovalov	2
+Kopelman	2
+Korman	2
+Korol	2
+Kot	2
+Kozma	2
+Krausz	2
+Kravchenko	2
+Kravitz	2
+Kribus	2
+Kristal	2
+Kristler	2
+Krone	2
+Kroy	2
+Kroyter	2
+Krupnik	2
+Kun	2
+Kunik	2
+Kuperstein	2
+Kupferman	2
+Kutscher	2
+Kuznetsov	2
+Labanowski	2
+Lachman	2
+Lalo	2
+Lamdani	2
+Lamm	2
+Landes	2
+Lange	2
+Langer	2
+Langerman	2
+Langermann	2
+Langford	2
+Lanir	2
+Lapidoth	2
+Laredo	2
+Laron	2
+Lasry	2
+Lavon	2
+Lazarov	2
+Leaf	2
+Legum	2
+Lehmann	2
+Leiba	2
+Leibner	2
+Leibovich	2
+Leibovitch	2
+Leitersdorf	2
+Leitner	2
+Lellouche	2
+Lensky	2
+Leon	2
+Less	2
+Levav	2
+Levental	2
+Levitt	2
+Levitzki	2
+Levkovich	2
+Levo	2
+Libai	2
+Libstein	2
+Licht	2
+Lichter	2
+Lichtheim	2
+Limon	2
+Linder	2
+Lion	2
+Lipman	2
+Lipshitz	2
+Lipski	2
+Litman	2
+Litvak	2
+Litvin	2
+Litvinov	2
+Livio	2
+Livni	2
+Lloyd	2
+Lobe	2
+Lobel	2
+Lorand	2
+Lovich	2
+Lowengart	2
+Loya	2
+Lubetkin	2
+Lunts	2
+Luntz	2
+Luz	2
+Lynn	2
+Maghalashvili	2
+Mahamid	2
+Mahler	2
+Makov	2
+Malach	2
+Maler	2
+Malik	2
+Malki	2
+Malkiel	2
+Manna	2
+Mannheim	2
+Mano	2
+Marco	2
+Marcovici	2
+Margaliot	2
+Margulies	2
+Markish	2
+Markman	2
+Markovitch	2
+Marks	2
+Marton	2
+Marzel	2
+Marzouk	2
+Mastai	2
+Matatov	2
+Maymon	2
+Mayo	2
+Medan	2
+Medding	2
+Medina	2
+Meirowitz	2
+Meisels	2
+Melman	2
+Menahemi	2
+Mendelsohn	2
+Mer	2
+Mercier	2
+Mergui	2
+Mesner	2
+Messinger	2
+Michelson	2
+Milgrom	2
+Millepied	2
+Mimouni	2
+Minka	2
+Mintzer	2
+Mishkovsky	2
+Mogilever	2
+Mogilner	2
+Mohar	2
+Morad	2
+Morel	2
+Mori	2
+Morozov	2
+Moscovitz	2
+Moskovitz	2
+Mossel	2
+Mosseri	2
+Mudrik	2
+Mugrabi	2
+Munk	2
+Murro	2
+Nadir	2
+Nadler	2
+Nagel	2
+Nakar	2
+Nass	2
+Nasser	2
+Natan	2
+Nathanson	2
+Natour	2
+Nave	2
+Nebenzahl	2
+Neiger	2
+Netz	2
+Neumark	2
+Nini	2
+Nusbaum	2
+Oberman	2
+Ohel	2
+Okun	2
+Oppenheim	2
+Oreg	2
+Orion	2
+Orly	2
+Oryan	2
+Oshman	2
+Ostfeld	2
+Oved	2
+Ozer	2
+Pachter	2
+Pade	2
+Paglin	2
+Paldi	2
+Paran	2
+Pardes	2
+Pariente	2
+Paul	2
+Pereg	2
+Perlman	2
+Perlstein	2
+Pfeffer	2
+Piccio	2
+Pichkhadze	2
+Pilowsky	2
+Piltz	2
+Pinkhof	2
+Pinsker	2
+Pinsky	2
+Pinson	2
+Piron	2
+Pivko	2
+Plessner	2
+Plotnik	2
+Poliak	2
+Poliakov	2
+Polin	2
+Polishchuk	2
+Pomerance	2
+Ponte	2
+Porath	2
+Portugali	2
+Posen	2
+Pozin	2
+Prashker	2
+Press	2
+Preuss	2
+Pridan	2
+Propp	2
+Pundak	2
+Rager	2
+Rapel	2
+Raskin	2
+Ratner	2
+Ravikovitch	2
+Reches	2
+Rechlis	2
+Rechtman	2
+Redler	2
+Reicher	2
+Reichman	2
+Reis	2
+Reisfeld	2
+Remer	2
+Renan	2
+Reuveni	2
+Rimalt	2
+Ringler	2
+Rivkin	2
+Robbins	2
+Rofe	2
+Rokni	2
+Roman	2
+Romm	2
+Ronel	2
+Ronnen	2
+Rose	2
+Rosin	2
+Rosman	2
+Rosset	2
+Rotenstreich	2
+Roter	2
+Rothstein	2
+Rozenberg	2
+Rozenfeld	2
+Rozenson	2
+Rozin	2
+Rubashov	2
+Rubín	2
+Rubinger	2
+Rübner	2
+Rudberg	2
+Ruderman	2
+Rudner	2
+Saad	2
+Sagall	2
+Salah	2
+Salinger	2
+Salzberger	2
+Sand	2
+Sander	2
+Saporta	2
+Sarfati	2
+Sas	2
+Sass	2
+Sassi	2
+Sayar	2
+Schaefer	2
+Schaps	2
+Scharf	2
+Scheuer	2
+Scheyer	2
+Schick	2
+Schiller	2
+Schleien	2
+Schlosser	2
+Schnabel	2
+Scholem	2
+Schragenheim	2
+Schramm	2
+Schreier	2
+Schuldiner	2
+Schwartzman	2
+Schwartzmann	2
+Schwarze	2
+Schwarzwald	2
+Schweid	2
+Schwimmer	2
+Seelig	2
+Seeligmann	2
+Segre	2
+Selinger	2
+Seltzer	2
+Semel	2
+Senderowitz	2
+Sereni	2
+Serfaty	2
+Serrouya	2
+Sfard	2
+Shaban	2
+Shabat	2
+Shadar	2
+Shaer	2
+Shafran	2
+Shahak	2
+Shakargy	2
+Shalita	2
+Shami	2
+Shankar	2
+Sharabani family	2
+Sharfman	2
+Shaulov	2
+Shay	2
+Shechtman	2
+Sheffer	2
+Sheinfeld	2
+Sheinmann	2
+Shemtov	2
+Sher	2
+Shine	2
+Shlezinger	2
+Shomer	2
+Shoresh	2
+Shorr	2
+Shulman	2
+Shur	2
+Shurer	2
+Siboni	2
+Sibony	2
+Sigalov	2
+Silfen	2
+Silverstein	2
+Simonson	2
+Sirkis	2
+Slama	2
+Slavin	2
+Slonim	2
+Sneh	2
+Sokolov	2
+Sokolsky	2
+Sonnenfeld	2
+Sorkin	2
+Soroker	2
+Sosna	2
+Speiser	2
+Spiegler	2
+Springer	2
+Steinberger	2
+Steinmetz	2
+Sternhell	2
+Stieglitz	2
+Stoller	2
+Stroumsa	2
+Sutskever	2
+Swirski	2
+Syrkin	2
+Szenes	2
+Sztulman	2
+Tabak	2
+Taha	2
+Taler	2
+Talgam	2
+Tamar	2
+Taran	2
+Tartakovsky	2
+Tassa	2
+Teferi	2
+Teitel	2
+Teitelboim	2
+Tekoah	2
+Tenne	2
+Terner	2
+Tery	2
+Thau	2
+Theodor	2
+Thomas	2
+Thon	2
+Ticho	2
+Tischler	2
+Toor	2
+Tor	2
+Torek	2
+Toueg	2
+Toury	2
+Trajtenberg	2
+Triest	2
+Triger	2
+Tropper	2
+Tsukerman	2
+Turel	2
+Turkel	2
+Twito	2
+Tzadok	2
+Tzuri	2
+Uffenheimer	2
+Varon	2
+Vega	2
+Vidal	2
+Vincze	2
+Vinik	2
+Vinokur	2
+Volk	2
+Wahrman	2
+Waknine	2
+Walker	2
+Warszawski	2
+Wasser	2
+Weber	2
+Wechsler	2
+Wegner	2
+Weider	2
+Weigert	2
+Weiler	2
+Wein	2
+Weinberger	2
+Weinblatt	2
+Weinfeld	2
+Weinshall	2
+Weizmanová	2
+Weksler	2
+Welner	2
+Weltsch	2
+Werbin	2
+Werses	2
+Wertheim	2
+Wertman	2
+Westreich	2
+White	2
+Whitman	2
+Wiesenberg	2
+Wilhelm	2
+Williams	2
+Willis	2
+Willner	2
+Winter	2
+Wise	2
+Wittenberg	2
+Wohl	2
+Wolberg	2
+Wosner	2
+Yagel	2
+Yagoda	2
+Yaguri	2
+Yakar	2
+Yakovlev	2
+Yakubov	2
+Yampolsky	2
+Yankelevich	2
+Yechiel	2
+Yelin	2
+Yeruham	2
+Yishai	2
+Young	2
+Younis	2
+Yudin	2
+Yunus	2
+Yurman	2
+Yusim	2
+Yusupov	2
+Zacks	2
+Zadek	2
+Zaguri	2
+Zakheim	2
+Zarai	2
+Zaretsky	2
+Zauber	2
+Zeiger	2
+Zeisel	2
+Zeldes	2
+Zellner	2
+Zelnik	2
+Zelniker	2
+Zemer	2
+Zevi	2
+Ziegelman	2
+Zien	2
+Zilberberg	2
+Zilker	2
+Zimbalista	2
+Zinder	2
+Ziskind	2
+Zisser	2
+Zomer	2
+Zorea	2
+Zoref	2
+Zouzout	2
+Zuaretz	2
+Zwick	2
+Zyskind	2
+Æbatæ	2
+Aaronovich
+Abada
+Abady
+Abargil
+Abba
+Abbasi
+Abbass
+Abdallah
+Abdel kader
+Abdi
+Abdu
+Abel
+Abend
+Aberdam
+Abiri
+Abner
+Aboud
+Abourom
+Abramowicz
+Abramski
+Abu Alkian
+Abuksis
+Abusch
+Achtel
+Adadi
+Adamov
+Adari
+Adato
+Adeleye
+Adelson
+Adelstein
+Admasu
+Adon
+Adwan
+Agai
+Agami
+Agasi
+Agay
+Ağayev
+Ageyev
+Ahmed
+Aiden
+Ailon
+Ainbinder
+Aini
+Akhanov
+Akhundov
+Akolzin
+Al-Hadi
+Al-Khatib
+Alamo
+Aldea
+Aleksandrowicz
+Aleksin
+Alexeyev
+Alfi
+Alfon
+Alia
+Alkalay
+Alman
+Alpan
+Alper
+Alrod
+Alsberg
+Alsheikh
+Altaras
+Altholz
+Alton
+Altukhov
+Amidror
+Ammar
+Amnuel
+Amon
+Amran
+Amsterdamski
+Amzallag
+Ancel
+Andělová
+Anghel
+Anner
+Antman
+Antwi
+Apel
+Apeloig
+Apfelbaum
+Apoteker
+Appel
+Appelfeld
+Appelman
+April
+Aragon
+Aram
+Arar
+Arbid
+Arditti
+Ardov
+Arel
+Arens
+Arif
+Arikha
+Arkın
+Armoni
+Armstrong
+Arnan
+Arnovitz
+Aronovich
+Aronsohn
+Artus
+Asa
+Asad
+Asadi
+Asch
+Aschner
+Asfour
+Ashmoz
+Asia
+Asimini
+Askénazy
+Askling
+Aslanyan
+Asrasai
+Assa
+Assouly
+Astanjelove
+Astel
+Astruc
+Atamanov
+Ater
+Atwan
+Averbach
+Avi
+Aviner
+Avman
+Avrech
+Awwad
+Ayash
+Azaz
+Azouri
+Azzam
+Baar
+Bachman
+Bachrach
+Badran
+Baginsky
+Baharier
+Bahr
+Baider
+Bailey
+Balabin
+Balak
+Balay
+Balestra
+Balian
+Balili
+Balkany
+Ballin
+Balman
+Balulu
+Ban
+Bán
+Band
+Bandel
+Banjo
+Banker
+Banon
+Bantish
+Bar Yehuda
+Bar-Adon
+Baranga
+Barasch
+Barats
+Barber
+Barbivai
+Bardach
+Bardanashvili
+Bardin
+Bardugo
+Barenboim
+Barg
+Barkay
+Barkin
+Barmore
+Barnett
+Barski
+Barter
+Baruchson
+Bary
+Barzani
+Basanta
+Baser
+Bashi
+Bashiri
+Bashkirova
+Basil
+Basin
+Baskind
+Basmadjian
+Bason
+Batel
+Batlle
+Baumann
+Baumel
+Baye
+Be'er
+Beckermann
+Been
+Beeri
+Beham
+Behr
+Beiner
+Beja
+Bejerano
+Bekenstein
+Bekerman
+Belenki
+Belitsky
+Belousov
+Ben Yair
+Ben-Gavriêl
+Ben-Sasson
+Ben-Sira
+Ben-Tzur
+Benbassa
+Bendor
+Benedikt
+Benhaim
+Benish
+Benisty
+Benit
+Benson
+Bentin
+Bentov
+Berdichevsky
+Berdugo
+Berend
+Berendt
+Berezin
+Berezovski
+Bergel
+Bergelson
+Berglas
+Berkofsky
+Berlinski
+Bernshteyn-Kogan
+Berti
+Bertman
+Beru
+Bespalov
+Bess
+Bessonov
+Bettan
+Better
+Beyder
+Bibe
+Biberman
+Bick
+Bienstock
+Bilia
+Biller
+Bilsky
+Bingham
+Biniaurishvili
+Birbraer
+Birger
+Birnbach
+Birnberg
+Birnhack
+Biro
+Biron
+Biryukov
+Bity
+Bizański
+Blair
+Blankstein
+Blaustein
+Blay
+Bleiberg
+Blockmon
+Blu
+Blumenstein
+Blumstein
+Bluth
+Boaron
+Boas
+Bobovich
+Bochman
+Bodek
+Bodin
+Boers
+Bogdanova
+Boger
+Bogolyubov
+Bogoslav
+Bogoslavsky
+Bohensky
+Böhm
+Böhmer
+Bohrer
+Boim
+Bojko
+Bokshteyn
+Bolder
+Bolton
+Bombach
+Bommer
+Bonanni
+Bond
+Bondarenko
+Bonfil
+Bonne
+Bonner
+Bor
+Bordman
+Boritzer
+Borochoff
+Borochovicz
+Borodiansky
+Borodin
+Borowski
+Bortman
+Boskovich
+Bostain
+Bostock
+Botner
+Boukobza
+Bourdillon
+Bouskila
+Bousso
+Boutelier
+Bova
+Bove
+Bowman
+Boxer
+Boyle
+Bradshaw
+Brande
+Brander
+Brandl
+Brandsdorfer
+Brandwein
+Brawer
+Brayer
+Breakstone
+Bregman
+Breitbart
+Breitenbach
+Bressler
+Brichta
+Brickman
+Bright
+Brillant
+Brilliant
+Brim
+Brimer
+Bringer
+Brinker
+Brinner
+Briskman
+Brison
+Broder
+Brodman
+Brodski
+Brom
+Bronchtein
+Bronowski
+Bronshtein
+Broyde
+Bruk
+Bruno
+Brustein
+Büchler
+Buchmann
+Buchris
+Buenos
+Buhman
+Bukler
+Buller
+Bunin
+Bunina
+Bunis
+Burdin
+Burlas
+Burstyn
+Burt
+Bush
+Bushakevitz
+Bussel
+Busso
+Butman
+Cabel
+Cabrera
+Cackon
+Caftori
+Cahen
+Cahn
+Calderón
+Caldi
+Calizo
+Calo
+Campbell
+Canaan
+Cane
+Caplan
+Capone
+Caro
+Carol
+Caroly
+Carr
+Carrington
+Carucci
+Cashman
+Cassel
+Cassuto
+Cassvan
+Castelnuovo
+Catueli
+Catz
+Cedar
+Cegla
+Celkovnik
+Cerf
+Chabra
+Chacour
+Chaim
+Chait
+Chalfi
+Chammah
+Chane
+Chapman
+Charbit
+Charny
+Chasman
+Chelli
+Cherkassky
+Cherney
+Cherny
+Chernyak
+Chester
+Chill
+Chinski
+Chocron
+Chokron
+Chor
+Chouraqui
+Chudnovsky
+Cinnamon
+Citron
+Clark
+Cline
+Cocos
+Cogan
+Colautti
+Comen
+Confino
+Conners
+Contes
+Contini
+Coral
+Corinaldi
+Corry
+Costa
+Cotler
+Covington
+Creveld
+Crombie
+Crystal
+Cunio
+Cuperman
+Ćurčić
+Cvetković
+Czarny
+Daitch
+Daka
+Dalal
+Daliot
+Dallal
+Dalyot
+Dalzell
+Damen
+Damian
+Damon
+Dancig
+Daniels
+Danilenko
+Danilowitz
+Dann
+Daoud
+Daraselia
+Darr
+Darvasi
+Dascal
+Datz
+Daud
+Dávid
+Davidian
+Davids
+Davidzon
+Davydov
+Dawidowicz
+Day
+de Jong
+De Philippe
+Debel
+Define
+Deichmann
+Delshad
+Demsky
+Dermer
+Dershowitz
+Devor
+Diab
+Diachenko
+Diament
+Diba
+Dichter
+Dick
+Dik
+Diment
+Dinerman
+Dishon
+Dobrin
+Dobrovic
+Dobrovolsky
+Dobson
+Dohan
+Dol
+Dolberg
+Dolin
+Dolinski
+Domany
+Domi
+Domnitz
+Don
+Donenfeld
+Dorchin
+Dorell
+Dorman
+Dorr
+Dotsenko
+Douek
+Douglass
+Dowek
+Drach
+Drahi
+Dresner
+Dreyer
+Drozd
+Druckman
+Druzhinin
+Dubinsky
+Dubov
+Dubovenko
+Dubrovkin
+Duchin
+Duda
+Dudai
+Dudakov
+Dueck
+Duk
+Dunne
+Dushkin
+Dweck
+Dworzecki
+Dzyadko
+Ebstein
+Eck
+Edden
+Edel
+Edelheit
+Edery
+Edinger
+Edvardson
+Efron
+Ehrenfeld
+Eichner
+Eid
+Eig
+Eiland
+Einbinder
+Eisemann
+Eisenkot
+Elam
+Elefánt
+Elgar
+Elgart
+Elharar
+Elia
+Elian
+Eliezer
+Elijah
+Elin
+Eliner
+Elk
+Elke
+Ellwanger
+Elman
+Elrod
+Elster
+Elya
+Emanuel
+Enis
+Enukashvili
+Enzel
+Erba
+Erban
+Erben
+Erbenová
+Erdal
+Erenberg
+Erlanger
+Ertel
+Escapa
+Essner
+Esteron
+Etkin
+Etler
+Evan
+Ever Hadani
+Fabian
+Fabrikant
+Factor
+Faiman
+Fainaru
+Făinaru
+Fair
+Fait
+Falb
+Fano
+Farag
+Farago
+Farbman
+Farhat
+Farhud
+Fathi
+Fattal
+Febland
+Fehér
+Feinglass
+Feld
+Felder
+Feldheim
+Fellus
+Felman
+Felner
+Feluś
+Felzenbaum
+Fenster
+Ferede
+Ferenci
+Fernbach
+Ferrara
+Ferster
+Feuer
+Feynman
+Fiat
+Fiks
+Filc
+Filter
+Finer
+Fines
+Finkelman
+Firer
+Fischbein
+Fischler
+Fischman
+Fischmann
+Fișel
+Fishbach
+Fishbein
+Fitoussi
+Flam
+Flash
+Flato
+Flaum
+Fletcher
+Flicker
+Florentin
+Fluss
+Foerster
+Fogelman
+Fokina
+Foner
+Fontaine
+For
+Forman
+Foulds
+Fouzailov
+Fraiman
+Francez
+Francks
+Frankenstein
+Frankfurt
+Freid
+Freidlin
+Freiman
+Freiwald
+Freud
+Freudenberg
+Freundlich
+Frey
+Freydzon
+Freyer
+Fridge
+Fridman-Goldman
+Friedberg
+Frieman
+Friesel
+Frischer
+Frister
+Frohlich
+Fröhlinger
+Frohman
+From
+Froman
+Fromer
+Frydman
+Frye
+Fuerst
+Fuks
+Fuld
+Fulda
+Furtună
+Fyne
+Gabet
+Gabizon
+Gafinovitz
+Gafner
+Gafney
+Gagnon
+Galant
+Galibov
+Galin
+Galitsky
+Galkin
+Galkina
+Gallin
+Ganan
+Gang
+Gani
+Gara
+Garfinkel
+Gargir
+Gati
+Gatterer
+Gavra
+Gechtman
+Gedalin
+Gefen
+Gehl
+Geiger
+Gelbfish
+Gelfer
+Gelman
+Gemmer
+Gendel
+Gendelev
+Gendelman
+Genis
+Gens
+Gerafi
+Gershony
+Gerson
+Gerstenfeld
+Gertler
+Gerz
+Getahon
+Getter
+Getz
+Getzler
+Gevorkyan
+Ghanayem
+Gilead
+Giler
+Gilo
+Gindin
+Giner
+Ginis
+Gino
+Ginsburgh
+Giora
+Girenko
+Gitelman
+Giv'ati
+Gladstone
+Glas
+Glik
+Glikman
+Gliksman
+Globus
+Gloger
+Gluck
+Glück
+Glucker
+Glücksam
+Gluskin
+Glusman
+Gnessin
+Gnezdilov
+Godard
+Goetschel
+Gofshteyn
+Goldammer
+Goldfajn
+Goldner
+Goldrich
+Goldring
+Goldstien
+Golombek
+Goltz
+Golub
+Gonzales
+Goodall
+Goodes
+Gorban
+Gorbenko
+Gorenshteyn
+Gores
+Gorin
+Gorman
+Gorno
+Gorodetsky
+Gorodetzky
+Gorokhovskaya
+Gortler
+Gosh
+Got
+Gothelf
+Gottesfeld
+Gottleib
+Gottschalk
+Gottshalk
+Govrin
+Gozman
+Gracer
+Grady
+Grechkin
+Gredeskul
+Greene
+Greenstein
+Greenwald
+Gressel
+Gries
+Grife
+Grigore
+Grinblat
+Grinfeld
+Grinshteyn
+Grinspan
+Grober
+Groman
+Gropper
+Grotto
+Grubea
+Gruenwald
+Gruman
+Grumberg
+Grunewald
+Grunzweig
+Guedj
+Gul
+Gumpel
+Gurfel
+Guri
+Guthi
+Gutterman
+Gutwirth
+Guzik
+Guzovsky
+Habas
+Habash
+Habermann
+Habibi
+Hadash
+Hadid
+Hafner
+Haftel
+Hagai
+Hagi
+Haick
+Haik
+Hait
+Halaby
+Halberstad
+Halberstam
+Haldi
+Halle
+Hamami
+Hamani
+Hamaty
+Hamdan
+Hamdani
+Hammel
+Hanan
+Hanani
+Hanania
+Hanegbi
+Hanein
+Hani
+Hanin
+Hannoun
+Hanoch
+Harag
+Harband
+Hari
+Haring
+Harkavy
+Harlev
+Harmatz
+Harmelin
+Harten
+Hartstein
+Harush
+Harvey
+Haskel
+Haski
+Hasman
+Hason
+Hassner
+Hauser
+Hausner
+Havia
+Havilio
+Havron
+Hayon
+Haza
+Hazak
+Hazi
+Hebel
+Hefer
+Heffner
+Hefner
+Heib
+Heidecker
+Heidegger
+Heitner
+Hekselman
+Held
+Helholz-or
+Hellberg
+Hellerman
+Hellinger
+Hellman
+Helpman
+Hemed
+Hemi
+Henik
+Herbelin
+Herberg
+Herescu
+Hermon
+Herscu
+Hershberg
+Hershtik
+Herskovits
+Hertman
+Hertog
+Herz
+Herzfeld
+Herzig
+Ḥeshin
+Hibner
+Hildesheim
+Hildesheimer
+Hilger
+Hillo
+Hilman
+Himmelreich
+Hindy
+Hinton
+Hiram
+Hirschberger
+Hirshman
+Hlushko
+Hochbaum
+Hofer
+Hoffer
+Hoffner
+Hofi
+Hofman
+Hofstatter
+Holbrook
+Holstein
+Holub
+Holzman
+Hon
+Honig
+Horev
+Horita
+Horvath
+Hoter
+Houri
+Housman
+Howell
+Hoz
+Hübner
+Huchon
+Huett
+Hupert
+Hushi
+Hussar
+Hutchinson
+Hutner
+Iancu
+Ida
+Ifraimov
+Iglinsky
+Ilia
+Iliin
+Ilyin
+Indig
+Ingber
+Ingster
+International
+Ioffe
+Ioscovich
+Ipalé
+Irsai
+Isaacs
+Isaak
+Isakov
+Ishchenko
+Iskandar
+Israelson
+Issa
+Isser
+Itzik
+Itzkowitz
+Ivanov
+Jablonski
+Jachimowicz
+Jack
+Jackerson
+Jadlowker
+Jaeger
+Jaffé
+Jago
+Jahoda
+Jakir
+Jakob
+Jakubovic
+Jakubowicz
+James
+Janco
+Jarblum
+Jarecki
+Jean
+Jelínek
+Jeshurun
+Johnson
+Jokl
+Jordan
+Jovanović
+Jugend
+Julie
+Junger
+Jungman
+Kadar
+Kafrit
+Kaganovich
+Kahloon
+Kahneman
+Kain
+Kais
+Kaiser
+Kait
+Kaitz
+Kaizman
+Kakiashvili
+Kalai
+Kaldor
+Kale
+Kalig
+Kalik
+Kalmanson
+Kamal
+Kamelhar
+Kamien
+Kamin
+Kamm
+Kamp
+Kampel
+Kamrat
+Kan
+Kanaan
+Kanitz
+Kantorowicz
+Kapelyan
+Kapitulnik
+Kaplon
+Karasik
+Karhi
+Kari
+Kario
+Karish
+Karl
+Karpin
+Karplus
+Karpyuk
+Karram
+Kasa
+Kashanian
+Kasowski
+Kassem
+Kastan
+Kastenbaum
+Kastner
+Katsnelson
+Katzenelenbogen
+Katzenstein
+Katzmann
+Katznelson
+Kauffmann
+Kave
+Kaveh
+Kaye
+Kaynar
+Kałuski
+Keisari
+Keisi
+Kelemen
+Keleti
+Kelmer
+Kennet
+Kent
+Kenyon
+Kepler
+Kerler
+Kertes
+Kerzner
+Kesse
+Kessel
+Kest
+Keyes
+Khader
+Khitarishvili
+Kiel
+Kimel
+Kimmel
+Kimmerling
+Kinberg
+Kind
+Kinda
+Kiperman
+Kipper
+Király
+Kirsh
+Kirt
+Kis
+Kisin
+Kisner
+Kister
+Kita
+Kiwan
+Klauss
+Klebanov
+Kleeberg
+Kleiner
+Kleingon
+Klevan
+Kleyman
+Klibanoff
+Kliger
+Kligman
+Klingberg
+Klonski
+Klug
+Klyachkin
+Knebel
+Knyazev
+Kochan
+Kochman
+Kofler
+Kogut
+Kokolayev
+Kolander
+Kolb
+Koler
+Kolganov
+Kolodny
+Kolosov
+Kolton
+Kompaniez
+Kon
+Kondor
+Kontorovich
+Koplewitz
+Koplik
+Kops
+Kordon
+Koretz
+Korff
+Korin
+Korkin
+Kornhauser
+Kornowski
+Korotkov
+Korus
+Korzhakov
+Kosla
+Kott
+Kotzer
+Kozer
+Kozev
+Kozhevnikov
+Kozlov
+Kozuch
+Kramarenko
+Krämer
+Krampf
+Krantz
+Krasny
+Krause
+Krawczyk
+Kreiner
+Kreisel
+Kreisky
+Kreiss
+Kremerman
+Kretzmer
+Kreuzer
+Krief
+Kriegel
+Krimer
+Krischer
+Krispin
+Kriss
+Krivoshei
+Kron
+Kronenfeld
+Kronland
+Krook
+Kruglikov
+Kruk
+Krut
+Krutogolov
+Krylov
+Krylova
+Kudlik
+Kudryavtsev
+Kula
+Kulas
+Kulik
+Kulikov
+Kulp
+Kumar
+Kunytskyi
+Künzel
+Kupferberg
+Kupiec
+Kurt
+Kusturica
+Kutin
+Kutler
+Kuttner
+Kutz
+Kuzenkova
+Kuzmin
+Kwiatkowski
+Kyzer
+Laadan
+Lachmi
+Lager
+Laitarovsky
+Laius
+Lakner
+Lala
+Lalena
+Lam
+Lambert
+Lander
+Landesberg
+Landy
+Langgässer
+Langholz
+Langman
+Langsam
+Langsner
+Laniado
+Lanyi
+Lanzer
+Lapide
+Lara
+Larry
+Lask
+Lasker
+Lass
+Laszlo
+Late
+Latzer
+Lau
+Laub
+Laudon
+Launer
+Lavy
+Lazarovich
+Lazimi
+Leal
+Leb
+Lebel
+Lebovic
+Lebovich
+Lefler
+Lehman
+Leichman
+Leider
+Leiderman
+Leilor
+Leiter
+Leizerovich
+Lemay
+Lemkin
+Lenart
+Lengyel
+Lenk
+Lenz
+Lenzner
+Leonardo
+Leonidow
+Leopold
+Léron
+Leser
+Leshchynskyi
+Lessing
+Lessner
+Levendel
+Levina
+Levinhar
+Levitas
+Levitsky
+Levron
+Levtzion
+Lévy
+Levytskyi
+Lewitt
+Lewkowitz
+Lexer
+Leza
+Liba
+Liberty
+Lichtenbaum
+Lichtenfeld
+Lider
+Lieber
+Liebermann
+Lifshits
+Ligeti
+Lightman
+Linchevski
+Lindström
+Linker
+Linn
+Linton
+Lipes
+Lipka
+Lipper
+Lipsker
+Lipson
+Lish
+List
+Littauer
+Litwak
+Liubimov
+Lober
+Löbl
+Loel
+Loewe
+Loewy
+Lokshin
+Lord
+Lotz
+Loukas
+Lourie
+Lovinescu
+Lowenstein
+Löwenstein
+Lozinský
+Lubart
+Lubetzky
+Luca
+Luft
+Lukash
+Lumbrozo
+Lundin
+Lupa
+Lupi
+Lupu
+Lutsky
+Lux
+Lwow
+Lysov
+Maas
+Mach
+Machluf
+Macht
+Maciejko
+Magnes
+Magnus
+Magomedow
+Magon
+Mahfoud
+Maier
+Maiman
+Maislos
+Makai
+Makarevich
+Makin
+Malawsky
+Malca
+Malets
+Mali
+Malinovsky
+Malkov
+Malovaný
+Mamali
+Mamedov
+Mamon
+Mamou
+Mana
+Mandal
+Mandelbaum
+Manger
+Manos
+Manova
+Mansfeld
+Mansuri
+Mantel
+Manulis
+Margolies
+Mari
+Maril
+Marin
+Markel
+Markevich
+Marko
+Mas
+Maschke
+Maschler
+Masel
+Mashour
+Masri
+Massini
+Matmon
+Matt
+Matus
+Matusevich
+Matz
+Matzkin
+Maurer
+Maya
+Mazel
+Mazour
+Mazur
+Mazursky
+McKenzie
+Medalie
+Medin
+Medved
+Meerov
+Megiddo
+Megrelishvili
+Mehr
+Meiselman
+Melcer
+Melika
+Melnick
+Melnik
+Melnikov
+Melzer
+Menaged
+Menahem
+Menczel
+Mendelevitch
+Mengistu
+Menis
+Mensch
+Menuhin
+Menzel
+Menzer
+Meras
+Mercer
+Merimovich
+Merkel
+Merlin
+Mesh
+Messenger
+Messer
+Messing
+Metal
+Meyman
+Micha
+Michaels
+Michel
+Migdal
+Miklos
+Miles
+Milescu
+Milhem
+Milikowsky
+Millar
+Millo
+Milon
+Minerbi
+Mingalov
+Minin
+Minke
+Minkin
+Minsker
+Miran
+Mircu
+Mirodan
+Mirzayev
+Mischel
+Mishiner
+Mitelman
+Mitnick
+Mitrani
+Mittelberg
+Mittelman
+Moallem
+Moatti
+Modan
+Mohr
+Mol
+Molina
+Molla
+Molodezki
+Mond
+Monzon
+Morcos
+Mordechai
+Mordkovich
+Morell
+Morozova
+Morrison
+Morzyński
+Moshiashvili
+Moshon
+Moss
+Mostovoy
+Moussa
+Moussaieff
+Mozes
+Muchnik
+Muki
+Mula
+Mulkiewicz
+Mumcuoglu
+Munson
+Muntner
+Murad
+Murez
+Murray
+Musallam
+Musayev
+Musler
+Myers
+Nachman
+Naddaf
+Naftali
+Nagan
+Nahoum
+Nakamura
+Nakashian
+Namdar
+Naparstek
+Nasser el-Din
+Nates
+Nattel
+Negev
+Neguse
+Németh
+Ner
+Neria
+Nes
+Nessim
+Nesterenko
+Nethanel
+Neuberger
+Neuding
+Neustadt
+Neustein
+Neyman
+Nguyen
+Niehoff
+Nikel
+Nikulin
+Nillissen
+Niron
+Nisan
+Nisiewicz
+Nissan
+Nolan
+Noun
+Novack
+Novah
+Novák
+Novikov
+Nudel
+Nulman
+Nun
+Nur
+Nurok
+Nusel
+Ochs
+Oesterle
+Oettinger
+Offen
+Ofner
+Ofri
+Oksman
+Olier
+Olivero
+Olshan
+Onn
+Opher
+Orel
+Orell
+Orland
+Orloff
+Orner
+Orrelle
+Ortal
+Ortner
+Ory
+Osher
+Ostermann
+Ottolenghi
+Oudeh
+Paas
+Pablo
+Pagel
+Páldi
+Palli
+Palma
+Palombo
+Paltchik
+Paly
+Pancer
+Pape
+Paper
+Papiashvili
+Papiernik
+Papo
+Pappé
+Parienté
+Pasa
+Paska
+Passweg
+Passy
+Paster
+Pat
+Patak
+Patel
+Patrich
+Pauker
+Paverman
+Pazi
+Pearlmutter
+Pecht
+Pechter
+Pecker
+Pekerman
+Pelc
+Pellach
+Pelli
+Pelly
+Pelman
+Pepper
+Peralta
+Perek
+Perel
+Perles
+Perlis
+Perlson
+Persi
+Persico
+Petel
+Peter
+Peterson
+Petran
+Petrescu
+Petri
+Petruška
+Pevzner
+Philip
+Philipe
+Phillip
+Piasecki
+Piatov
+Picker
+Piekarz
+Pilip
+Pinchuk
+Pinker
+Pins
+Pinski
+Piper
+Pisetskyi
+Piskorz
+Piskun
+Pittel
+Platonov
+Plesser
+Pnueli
+Podell
+Pogonowska
+Pokorny
+Polachek
+Polack
+Polikarpova
+Politi
+Politis
+Pollard
+Pollitzer
+Polus
+Polyanskiy
+Poran-Zion
+Portal
+Portnov
+Pozner
+Prais
+Prato
+Prausnitz
+Prebor
+Preda
+Preger
+Preis
+Prener
+Pressburger
+Pribeagu
+Price
+Prion
+Priver
+Proper
+Propes
+Prosek
+Pross
+Puder
+Pyvovarov
+Qadri
+Qual
+Quenan
+Rabau
+Rabbi
+Rabello
+Rabie
+Rabiner
+Rabitz
+Radler
+Raff
+Raḥimi
+Rainey
+Rak
+Rapp
+Rappel
+Raski
+Rau
+Raubvögel
+Raucher
+Ravitch
+Ray
+Rayman
+Razi
+Razon
+Razvozov
+Redday
+Redman
+Regal
+Regelson
+Regirer
+Rei
+Reichstadt
+Reider
+Reifenberg
+Reifer
+Reik
+Reim
+Rein
+Reinhart
+Reiser
+Reisinger
+Reitler
+Rener
+Resler
+Resnick
+Resnik
+Ressler
+Révész
+Rezes
+Reznic
+Ribak
+Ribner
+Richmond
+Riesel
+Rifkin
+Riklis
+Rinkevich
+Rinn
+Rips
+Rishony
+Rishpon
+Rita
+Rivkind
+Robin
+Roditi
+Rodkin
+Rodriguez
+Rogel
+Roger
+Rogers
+Rogov
+Rohr
+Rohrlich
+Roi
+Roiz
+Roja
+Rolls
+Rolnick
+Romanoff
+Romberg
+Rona
+Roninson
+Ronn
+Roseman
+Rosén
+Rosenblatt
+Rosenheim
+Rosenkrantz
+Rosenkranz
+Rosenman
+Rosenn
+Rosenstein
+Rosetti
+Rosh
+Rosinsky
+Rosmarin
+Rotberg
+Rothbart
+Rothkopf
+Rotner
+Rotshtein
+Rotstein
+Rotter
+Rouach
+Roumani
+Roup
+Rousso
+Rovina
+Rovner
+Rowe
+Roz
+Rozenbaum
+Rozenblat
+Rozenštein
+Rozman
+Rózsa
+Rub
+Rubel
+Ruberg
+Rubina
+Rubner
+Rülf
+Rumbak
+Rura
+Rush
+Russak
+Rustom
+Rutenberg
+Ruzin
+Saab
+Saari
+Sabar
+Sabato
+Sabbah
+Sabia
+Sabo
+Sachar
+Sack
+Sadaka
+Saeed
+Safdie
+Safonov
+Safran
+Safrin
+Sahm
+Said
+Saidian
+Sakal
+Sakharov
+Sakhnovsky
+Salam
+Saleem
+Salim
+Saliman
+Salkind
+Sallis
+Salmon
+Salo
+Salpeter
+Saltiel
+Salton
+Salvi
+Salzman
+Sambursky
+Samohin
+Samsonov
+Samuels
+Sanbar
+Sandel
+Sandhaus
+Sándorfi
+Sandy
+Sapozhnikov
+Saraf
+Sarano
+Sardinas
+Sartell
+Sarum
+Sasaki
+Sason
+Sassoon
+Sassower
+Savchenko
+Savenkov
+Schach
+Schachter
+Schäfer
+Schalit
+Schanzer
+Schapira
+Schattner
+Schaul
+Schechner
+Scheck
+Scheffer
+Scheiner
+Schem
+Scherz
+Scheurich
+Schiffrin
+Schlachter
+Schleifer
+Schnapp
+Schneeberg
+Schneersohn
+Schneller
+Schoenberg
+Schön
+Schönberger
+Schor
+Schrader
+Schubert
+Schul
+Schultz
+Schulz
+Schütz
+Schwabe
+Schwalb
+Schwarcz
+Schwartzenberg
+Schwebel
+Seck
+Segmann
+Seidel
+Seidemann
+Seiden
+Seidman
+Seldes
+Seliger
+Selver
+Selwyn
+Selzer
+Semberg
+Semo
+Semyonov
+Senator
+Senior
+Sergeyev
+Sergi
+Serlin
+Sessler
+Setter
+Setzer
+Sgan
+Shaaban
+Shabi
+Shagal
+Shagrir
+Shaheen
+Shahin
+Shain
+Shalabi
+Shamalov
+Shamash
+Shamis
+Shanab
+Shapir
+Sharaizin
+Sharan
+Sharr
+Shatilov
+Shayer
+Sheafer
+Shefer Mossensohn
+Shefler
+Shekhtman
+Shem Tov
+Shenkman
+Sheriff
+Shertzer
+Shiber
+Shidlovskyi
+Shik
+Shikhman
+Shimko
+Shin
+Shiraz
+Shirom
+Shish
+Shlaim
+Shmailov
+Shmukler
+Shmulovich
+Shnayder
+Shnider
+Shoenfeld
+Shofania
+Shore
+Shoshany
+Shoufani
+Shpak
+Shreiber
+Shteinman
+Shtern
+Shuldiner
+Shuster
+Shusterman
+Shvarts
+Siani
+Sides
+Sidon
+Siegel
+Sík
+Silk
+Simin
+Simonsohn
+Simsolo
+Sipper
+Sirat
+Sirotkin
+Sisley
+Sisselman
+Sitbon
+Sitte
+Sittner
+Sklut
+Skolnik
+Skorka
+Sladky
+Sloane
+Slutsky
+Smirin
+Smolar
+Smotritsky
+Snir
+Snow
+Sobel
+Sobolev
+Sokolovskaya
+Solan
+Sole
+Solodkin
+Solomons
+Solomovici
+Solonin
+Soloveitchik
+Somberg
+Somer
+Sonego
+Sonis
+Sonne
+Sontag
+Sorinov
+Soskin
+Șover
+Spakow
+Spencer
+Sperandeo
+Spielmann
+Spier
+Spindel
+Sprung
+Spungin
+Srabrinski
+Srouji
+Srulovitch
+Stadler
+Stahl
+Starkman
+Steen
+Stefani
+Steg
+Steinbach
+Steinbock
+Steinherz
+Steinlauf
+Steir
+Stelmach
+Stendel
+Stepper
+Sternfeld
+Stibbe
+Stiegman
+Stillmann
+Stoinov
+Stollman
+Stolov
+Stolzer
+Stoppel
+Stora
+Strasman
+Strauch
+Straus
+Strelitz
+Stricker
+Stronach
+Strongin
+Strum
+Stuart
+Stupel
+Stupp
+Sturman
+Styopin
+Suan
+Sudakov
+Sukhikh
+Sumkin
+Super
+Surkis
+Surman
+Suss
+Susser
+Sussmann
+Sutton
+Sverdlin
+Sverdlov
+Sviderski
+Svirsky
+Swid
+Szabo
+Székely
+Szilárd
+Szychowski
+Tabibi
+Taddia
+Taffet
+Tager
+Tahari
+Talesnikov
+Tam
+Tamarkina
+Tannhauser
+Tanus
+Tanzman
+Tapiero
+Taragan
+Tarasov
+Tarasova
+Tarif
+Tartakower
+Tasman
+Tau
+Taube
+Tausinger
+Taylor
+Tchaikovsky
+Tchernovitz
+Tedeschi
+Teferra
+Tegegne
+Tehrani
+Teichman
+Teichner
+Tekes
+Teler
+Tell
+Teller
+Teman
+Termin
+Tichý
+Tilles
+Tilma
+Timofeyev
+Tintner
+Tiran
+Tish
+Tkach
+Toaff
+Tochterman
+Toder
+Tolstoy
+Tomas
+Topolansky
+Toporowski
+Torbilo
+Torgeman
+Toth
+Toval
+Tracz
+Traube
+Treiber
+Tretiak
+Trigano
+Trocki
+Trope
+Tsirelson
+Tsitaishvili
+Tsitsin
+Tsvetkov
+Tucker
+Tulchinsky
+Tuller
+Tuna
+Turek
+Turiski
+Turki
+Turner
+Turov
+Turovsky
+Tuvim
+Twerski
+Tyus
+Udwin
+Uko
+Uman
+Unglick
+Ur
+Urgant
+Uriel
+Usyshkin
+Vágó
+Vainshtein
+Vais
+Vajda
+Vakil
+Vaks
+Valencia
+van Gelder
+Van Leeuwen
+Vana
+Vas
+Vaserdam
+Vasilyev
+Vaya
+Veinberg
+Veksler
+Velner
+Ventura
+Vermeulen
+Vernik
+Vershinin
+Vider
+Vidor
+Vikoo
+Vilan
+Vilenskaya
+Villa
+Villalobo
+Vilma
+Vissoker
+Vistaneckis
+Vítor
+Vladimirov
+Volf
+Volfson
+Voll
+Vollach
+Volman
+Volner
+Volodarsky
+Volovici
+Vorontsov
+Vroman
+Vunder
+Wachtel
+Wahba
+Wahl
+Wais
+Waisman
+Waked
+Wallace
+Wallenstein
+Walzer
+Wandel
+Wander
+Wanger
+Warburg
+Warshawski
+Warshel
+Wassermann
+Watson
+Webber
+Wees
+Weichert
+Weidmann
+Weigel
+Weill
+Weiller
+Weinbach
+Weinreb
+Weinreich
+Weintraub
+Weisfeld
+Weishoff
+Weiskopf
+Weitzner
+Weller
+Werba
+Werber
+Werdyger
+Werman
+Wert
+Wieder
+Wiernik
+Wigdor
+Wilf
+Willenberg
+Willenz
+Winterberg
+Winterstein
+Wintner
+Winz
+Wittkower
+Wohlberg
+Wold
+Wolfman
+Wolinsky
+Wollman
+Wolpe
+Wolpert
+Wool
+Workman
+Wołyniec
+Wydra
+Yacobi
+Yadan
+Yahel
+Yahia
+Yakubovich
+Yam
+Yamaguchi
+Yanko
+Yanni
+Yanus
+Yashar
+Yassin
+Yechieli
+Yeger
+Yehudah
+Yermilov
+Yerushalmy
+Yeruslavski
+Yohanan
+Yonah
+Yones
+Yoran
+Yosha
+Youngman
+Yudasin
+Yuhas
+Yusuf
+Zada
+Zadka
+Zafran
+Zaidel
+Zaidman
+Zaken
+Zakim
+Zaks
+Zalevsky
+Zalka
+Zalkind
+Zanger
+Zareski
+Zarnegar
+Zaslavsky
+Zeffren
+Zeilberger
+Zeiler
+Zeiri
+Zeldman
+Zeligson
+Zelikovitch
+Zeltner
+Zenati
+Zender
+Zentner
+Zevin
+Zhabotinsky
+Zhairi
+Zhuk
+Zibel
+Zick
+Zidon
+Zilbershats
+Ziller
+Zimels
+Zin
+Zinni
+Zino
+Zins
+Zipper
+Zlatkin
+Zlotnik
+Zoran
+Zuk
+Zundelovich
+Zunger
+Zunz
+Zuroff
+Zurr
+Zusman
+Zwanziger
+Zwebner
+Zwecker
+Zwillinger
+Zylberman

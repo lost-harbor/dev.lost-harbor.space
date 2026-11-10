@@ -1,0 +1,737 @@
+Vytautas	358
+Jonas	350
+Juozas	296
+Antanas	276
+Petras	164
+Algirdas	163
+Algimantas	134
+Tomas	129
+Stasys	113
+Kęstutis	109
+Vladas	109
+Mindaugas	100
+Andrius	97
+Saulius	85
+Povilas	84
+Gediminas	83
+Darius	81
+Kazys	80
+Pranas	80
+Rimantas	80
+Marius	78
+Aleksandras	77
+Paulius	72
+Kazimieras	68
+Gintaras	65
+Romualdas	65
+Arūnas	64
+Jurgis	64
+Artūras	63
+Arvydas	62
+Alfonsas	60
+Audrius	55
+Mantas	54
+Martynas	54
+Viktoras	53
+Bronius	51
+Julius	51
+Vincas	50
+Donatas	49
+Ričardas	49
+Rolandas	49
+Karolis	48
+Tadas	47
+Leonas	46
+Mykolas	46
+Giedrius	43
+Gintautas	42
+Rokas	42
+Albinas	41
+Dainius	41
+Linas	40
+Robertas	40
+Egidijus	39
+Justinas	39
+Vaclovas	39
+Valdas	39
+Ignas	37
+Remigijus	37
+Albertas	36
+Česlovas	35
+Sigitas	35
+Algis	34
+Eugenijus	34
+Lukas	34
+Vilius	34
+Henrikas	33
+Ramūnas	33
+Adolfas	32
+Šarūnas	32
+Romas	31
+Raimondas	30
+Eduardas	29
+Nerijus	29
+Vladimiras	29
+Deividas	28
+Edgaras	28
+Vidmantas	28
+Edvardas	27
+Aurimas	26
+Raimundas	26
+Alvydas	25
+Edmundas	25
+Feliksas	25
+Matas	25
+Zigmas	25
+Adomas	24
+Alfredas	24
+Evaldas	24
+Rytis	24
+Simonas	24
+Aloyzas	23
+Vaidotas	23
+Valentinas	23
+Virginijus	23
+Zenonas	23
+Laurynas	22
+Liudas	22
+Justas	21
+Leonardas	21
+Stanislovas	21
+Gytis	20
+Rimas	20
+Rimvydas	20
+Vitalijus	20
+Jokūbas	19
+Juozapas	19
+Konstantinas	19
+Balys	18
+Aidas	17
+Edvinas	17
+Steponas	17
+Tautvydas	17
+Vaidas	17
+Valdemaras	17
+Vidas	17
+Benediktas	16
+Dominykas	16
+Aleksas	15
+Arnas	15
+Bronislovas	15
+Dalius	15
+Ernestas	15
+Pranciškus	15
+Augustinas	14
+Dovydas	14
+Kristupas	14
+Liudvikas	14
+Aivaras	13
+Domas	13
+Kostas	13
+Mečislovas	13
+Modestas	13
+Sergejus	13
+Vincentas	13
+Vytenis	13
+Gabrielius	12
+Motiejus	12
+Simas	12
+Virgilijus	12
+Žilvinas	12
+Arnoldas	11
+Domantas	11
+Erikas	11
+Jan	11
+Romanas	11
+Valerijus	11
+Žygimantas	11
+Artur	10
+Augustas	10
+Benjaminas	10
+Daniel	10
+Danielius	10
+Džiugas	10
+Eimantas	10
+Igoris	10
+Samuel	10
+Vilhelmas	10
+Klemensas	9
+Laimonas	9
+Osvaldas	9
+Pijus	9
+Stepas	9
+Titas	9
+Valerijonas	9
+Vytas	9
+Zigmantas	9
+Žydrūnas	9
+Aurelijus	8
+Boleslovas	8
+Jeronimas	8
+Lionginas	8
+Rapolas	8
+Regimantas	8
+Silvestras	8
+Stanisław	8
+Vitas	8
+Vladislovas	8
+Vygantas	8
+Almantas	7
+Anicetas	7
+Arminas	7
+Gvidas	7
+Leonidas	7
+Liutauras	7
+Nedas	7
+Rimgaudas	7
+Sergej	7
+Vydas	7
+Anatolijus	6
+Andrejus	6
+Benas	6
+Daumantas	6
+David	6
+Jaunius	6
+Joseph	6
+Józef	6
+Kasparas	6
+Kastytis	6
+Kipras	6
+Kornelijus	6
+Kristijonas	6
+Ksaveras	6
+Laimutis	6
+Marijus	6
+Mikalojus	6
+Mikas	6
+Nojus	6
+Ovidijus	6
+Pavel	6
+Vilmantas	6
+Visvaldas	6
+Boris	5
+Chaim	5
+Danas	5
+Eimutis	5
+George	5
+Gustas	5
+Haroldas	5
+Ipolitas	5
+Jurijus	5
+Klaudijus	5
+Leopoldas	5
+Michailas	5
+Oleg	5
+Olegas	5
+Pavelas	5
+Ramutis	5
+Renaldas	5
+Rytas	5
+Shlomo	5
+Tauras	5
+Teodoras	5
+Valdemar	5
+Władysław	5
+Aleksander	4
+Aleksandr	4
+Anton	4
+Armandas	4
+Bolesław	4
+Deimantas	4
+Fabijonas	4
+Faustas	4
+Irmantas	4
+Ivan	4
+Izidorius	4
+Jacob	4
+Jaroslavas	4
+Juras	4
+Kajus	4
+Karol	4
+Leon	4
+Mamertas	4
+Marijonas	4
+Mečys	4
+Moshe	4
+Napoleonas	4
+Romaldas	4
+Roman	4
+Vasilijus	4
+Victor	4
+Viktor	4
+Vygandas	4
+Vytis	4
+Yosef	4
+Zbigniew	4
+Zvi	4
+Zygmunt	4
+Adam	3
+Adas	3
+Aistis	3
+Aleksey	3
+Alexander	3
+Arimantas	3
+Bernard	3
+Bernardas	3
+Borisas	3
+Donaldas	3
+Dovas	3
+Eligijus	3
+Ernst	3
+Franciszek	3
+Gustavas	3
+Ignacy	3
+Isakas	3
+Jarosław	3
+Kęstas	3
+Konstantas	3
+Leib	3
+Leonard	3
+Mark	3
+Markas	3
+Michael	3
+Michał	3
+Paul	3
+Renatas	3
+Rimtautas	3
+Saliamonas	3
+Samuelis	3
+Svajūnas	3
+Tadeusz	3
+Teisutis	3
+Telesforas	3
+Vigantas	3
+Vitalis	3
+Vladislav	3
+Vygintas	3
+Wacław	3
+Yitzhak	3
+Abraham	2
+Abram	2
+Alanas	2
+Aliaksandr	2
+Alis	2
+Alvidas	2
+Andrej	2
+Andriejus	2
+Andrzej	2
+Anthony	2
+Antoni	2
+Anzelmas	2
+Aras	2
+Archibald	2
+Audronius	2
+Avraham	2
+Avrom	2
+Ąžuolas	2
+Benjamin	2
+Czesław	2
+Danius	2
+Darijus	2
+Denis	2
+Dobilas	2
+Eduard	2
+Edvard	2
+Edward	2
+Eivinas	2
+Elchanan	2
+Emilis	2
+Enrikas	2
+Gabriel	2
+Genadijus	2
+Gennadi	2
+Georgas	2
+Georgy	2
+Gerardas	2
+Gershon	2
+Gražvydas	2
+Grigory	2
+Igor	2
+Ilya	2
+Iosif	2
+Isaac	2
+Isaak	2
+Izaak	2
+Jacques	2
+Jakub	2
+Jaroslav	2
+Jerzy	2
+Jewgeni	2
+Johann	2
+John	2
+Joris	2
+Josef	2
+Julijonas	2
+Kazimierz	2
+Konradas	2
+Lauras	2
+Leanid	2
+Leiba	2
+Leo	2
+Lev	2
+Liavon	2
+Liubomiras	2
+Manfredas	2
+Mantvydas	2
+Marcelinas	2
+Marian	2
+Max	2
+Mikhail	2
+Moses	2
+Nikita	2
+Nikolaj	2
+Nikolajus	2
+Norbertas	2
+Oskar	2
+Oskaras	2
+Piotr	2
+Pyotr	2
+Ray	2
+Richardas	2
+Ronaldas	2
+Ruslanas	2
+Rymantas	2
+Semyon	2
+Shalom	2
+Sigutis	2
+Simon	2
+Skirmantas	2
+Solomon	2
+Stanislavas	2
+Szymon	2
+Teofilis	2
+Vacys	2
+Vadim	2
+Vainius	2
+Valentas	2
+Venantas	2
+Vidutis	2
+Vigintas	2
+Virgis	2
+Virmantas	2
+Vismantas	2
+Vitalij	2
+Vitoldas	2
+Vladislavas	2
+Voldemaras	2
+Vytaras	2
+Zalman	2
+Abe
+Adauktas
+Adolf
+Adrian
+Aharon
+Aidis
+Ainis
+Alain
+Alaksandar
+Alan
+Aleksei
+Alex
+Alfons
+Alfridas
+Alimantas
+Alius
+Alminas
+Amir
+Anatole
+Andre
+Anicet
+Antonas
+Antonijs
+Apolinaras
+Arijandas
+Aristide
+Armanas
+Armantas
+Arnold
+Aronas
+Artem
+Arthur
+Aryeh
+Audris
+Audrys
+Aušrys
+Avgust
+Avrohom
+Bartas
+Ben
+Ben-Zion
+Bogdan
+Bogusław
+Bonifacas
+Bronis
+Bruno
+Cemach
+Chaimas
+Christoph
+Christopher
+Dailis
+Danny
+Dariusz
+Darvydas
+Deivid
+Dmitry
+Dominik
+Domininkas
+Dov
+Dovid
+Dzmitry
+Edgar
+Edgars
+Edis
+Edminas
+Edmund
+Eduards
+Eglė
+Egmontas
+Eimundas
+Eimuntas
+Eitvydas
+Eivydas
+Elias
+Eliasz
+Eligius
+Elly
+Elvinas
+Elvis
+Emanuel
+Emanuelis
+Emilijus
+Emmanuel
+Ensio
+Éric
+Erlandas
+Ernest
+Eustachijus
+Evan
+Everistas
+Fedor
+Felicijonas
+Felix
+Francesco
+Francisco
+Frank
+Fred
+Freddy
+Fricas
+Friedrich
+Fyodor
+Gajus
+Galius
+Garri
+Gasparas
+Gedvydas
+Genadij
+Gendrikas
+Georg
+Gerdas
+Gerdenis
+Ginutis
+Gitanas
+Gleb
+Gottfried
+Gregorius
+Gus
+Gustavo
+Gvidonas
+Ha-neul
+Habib
+Haris
+Harry
+Heinrich
+Henryk
+Herkus
+Herman
+Hermanas
+Hieronim
+Hirsch
+Ibrahimas
+Ignacas
+Ignatas
+Ignaty
+Ilja
+Imantas
+Isidore
+Israel
+Izraelis
+Jackus
+Jakob
+James
+Jānis
+Januš
+Jauhien
+Jazep
+Jevgenijus
+Jonathan
+Jorge
+José
+Juris
+Kajetonas
+Karl
+Kārlis
+Kazem
+Kazimežas
+Kipryjan
+Kirilas
+Klemas
+Kristian
+Kšyštof
+Ladas
+Laimis
+Laimontas
+Laisvūnas
+Lasar
+Laurence
+Léon
+Leonardus
+Leonid
+Leonida
+Levas
+Libertas
+Ligitas
+Lucjan
+Ludwik
+Maksas
+Maksim
+Marcelijus
+Marek
+Margiris
+Marijan
+Markus
+Matt
+Maurice
+Meir
+Merūnas
+Meshulam
+Meyer
+Miguel
+Mike
+Mikelis
+Miroslav
+Miroslaw
+Mirosław
+Moisei
+Moishe
+Monte
+Mordecai
+Mordechai
+Moritz
+Mosheh
+Mstislav
+Nachman
+Naftali
+Naglis
+Napoleon
+Nath
+Nathan
+Nauris
+Neris
+Netanel
+Nicolai
+Nijolė
+Nikolas
+Nikolay
+Nison
+Nosson
+Olev
+Oscar
+Patrikas
+Paul Anthony
+Pedro
+Peliksas
+Pentti
+Phil
+Philipp
+Piotra
+Rafael
+Rami
+Ramojus
+Ravinder
+Reinoldijus
+Remigius
+Rene
+Reuben
+Reuven
+Rimandas
+Rimundas
+Rimutis
+Ringaudas
+Rodion
+Romasis
+Rostislavas
+Roy
+Ruben
+Rudolf
+Ruslan
+Ryszard
+Sacha
+Salomon
+Salvijus
+Sammy
+Saul
+Schlomo
+Selig
+Shabtai
+Shaul
+Shmuel
+Shneur Zalman
+Siarhiej
+Silverijus
+Simcha
+Slava
+Stan
+Stanley
+Stefan
+Teofilius
+Thomas
+Uri
+Vaidievutis
+Vaidutis
+Vakaris
+Valentin
+Valerij
+Valierius
+Valius
+Venceslas
+Viačeslav
+Viačeslavas
+Vidimantas
+Vigilijus
+Vigimantas
+Vigirdas
+Vilijandas
+Vilijus
+Vinsas
+Vitalija
+Vitalius
+Vitolis
+Vizgirdas
+Vsevolodas
+Vygaudas
+Vykintas
+Waldemar
+Walenty
+Walerian
+Walter
+Wawrzyniec
+Wilhelm
+William
+Wincenty
+Wojciech
+Woolf
+Włodzimierz
+Yaakov
+Yakov
+Yehudah
+Yekutiel
+Yom Tov
+Yudel
+Yury
+Yusuf
+Zelig
+Zeno
+Žibartas
+Zigmundas
+Žimantas
+Zita

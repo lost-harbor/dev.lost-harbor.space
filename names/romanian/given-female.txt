@@ -1,0 +1,915 @@
+Maria	314
+Elena	258
+Cristina	187
+Ana	145
+Alexandra	140
+Ioana	131
+Mihaela	128
+Daniela	113
+Gabriela	111
+Andreea	105
+Alina	102
+Carmen	99
+Mariana	97
+Simona	90
+Laura	88
+Adriana	85
+Irina	79
+Monica	71
+Anca	68
+Rodica	67
+Oana	63
+Raluca	57
+Doina	55
+Corina	54
+Liliana	54
+Claudia	52
+Ileana	51
+Katalin	51
+Eugenia	47
+Roxana	45
+Bianca	44
+Cornelia	44
+Mária	42
+Silvia	42
+Camelia	41
+Georgeta	40
+Iulia	38
+Lucia	38
+Mădălina	38
+Anna	37
+Nicoleta	37
+Teodora	37
+Adina	36
+Éva	36
+Viorica	36
+Dana	35
+Luminița	34
+Olga	34
+Emilia	33
+Elisabeta	32
+Margareta	32
+Florica	31
+Iuliana	31
+Loredana	30
+Magda	30
+Angela	29
+Ramona	29
+Veronica	29
+Erzsébet	28
+Ecaterina	26
+Lavinia	26
+Marina	26
+Cristiana	25
+Delia	25
+Georgiana	25
+Ildikó	25
+Magdalena	25
+Zsuzsa	25
+Aurelia	24
+Paula	24
+Enikő	23
+Valentina	23
+Victoria	23
+Adela	22
+Aurora	22
+Florentina	22
+Mirela	22
+Andrea	21
+Ștefania	21
+Florina	20
+Anamaria	19
+Dorina	19
+Ilona	19
+Manuela	19
+Ágnes	18
+Klára	18
+Liana	18
+Mioara	18
+Ruxandra	18
+Sanda	18
+Beatrice	17
+Eva	17
+Margit	17
+Natalia	17
+Piroska	17
+Csilla	16
+Livia	16
+Violeta	16
+Virginia	16
+Alice	15
+Cătălina	15
+Edit	15
+Eliza	15
+Felicia	15
+Júlia	15
+Lidia	15
+Marcela	15
+Sabina	15
+Sonia	15
+Valeria	15
+Zsuzsanna	15
+Denisa	14
+Catalina	13
+Judit	13
+Larisa	13
+Stela	13
+Tatiana	13
+Alexandrina	12
+Andra	12
+Anișoara	12
+Cecilia	12
+Clara	12
+Emese	12
+Ilinca	12
+Ionela	12
+Mara	12
+Marilena	12
+Réka	12
+Ada	11
+Amalia	11
+Ana Maria	11
+Anikó	11
+Antoaneta	11
+Irén	11
+Ligia	11
+Marta	11
+Melania	11
+Nadia	11
+Olimpia	11
+Zoe	11
+Alexia	10
+Anda	10
+Angelica	10
+Annamária	10
+Crina	10
+Erika	10
+Gyöngyi	10
+Melinda	10
+Nina	10
+Patricia	10
+Smaranda	10
+Adelina	9
+Aneta	9
+Antonia	9
+Constanța	9
+Cosmina	9
+Elvira	9
+Gabriella	9
+Gina	9
+Ibolya	9
+Lia	9
+Luciana	9
+Miruna	9
+Orsolya	9
+Otilia	9
+Rozália	9
+Sofia	9
+Stefania	9
+Tamara	9
+Vera	9
+Cristian	8
+Daria	8
+Eleonora	8
+Eszter	8
+Lenuța	8
+Lili	8
+Márta	8
+Noémi	8
+Tünde	8
+Vasilica	8
+Aida	7
+Aura	7
+Dora	7
+Geanina	7
+Gizella	7
+Grațiela	7
+Iolanda	7
+Isabela	7
+Juliane	7
+Marie	7
+Mona	7
+Petra	7
+Renata	7
+Simina	7
+Ágota	6
+Anita	6
+Brigitta	6
+Dina	6
+Dumitrița	6
+Edith	6
+Emanuela	6
+Flavia	6
+Irene	6
+Julia	6
+Maia	6
+Marioara	6
+Maya	6
+Miriam	6
+Narcisa	6
+Niculina	6
+Olivia	6
+Suzana	6
+Zsófia	6
+Alma	5
+Catrinel	5
+Ella	5
+Emma	5
+Emöke	5
+Etelka	5
+Gianina	5
+Hajnalka	5
+Irma	5
+Izabella	5
+Judith	5
+Karina	5
+Kinga	5
+Maria-Magdalena	5
+Matilda	5
+Michaela	5
+Nelly	5
+Nora	5
+Sandra	5
+Sara	5
+Sidonia	5
+Steluța	5
+Tania	5
+Yvonne	5
+Zita	5
+Alexa	4
+Amelia	4
+Anastasia	4
+Aranka	4
+Ariana	4
+Arina	4
+Berta	4
+Borbála	4
+Brândușa	4
+Carolina	4
+Constantina	4
+Elisabeth	4
+Evghenia	4
+Fanny	4
+Helga	4
+Hermina	4
+Hildegard	4
+Ida	4
+Ilka	4
+Imola	4
+Ingrid	4
+Ionica	4
+Irinel	4
+Julianna	4
+Kata	4
+Lăcrămioara	4
+Lorena	4
+Luana	4
+Ludmila	4
+Luiza	4
+Marietta	4
+Marinela	4
+Micaela	4
+Mira	4
+Monika	4
+Nicole	4
+Olguța	4
+Paraschiva	4
+Petrică	4
+Sarolta	4
+Sorana	4
+Sorina	4
+Stanca	4
+Viviana	4
+Alessia	3
+Ana-Maria	3
+Ancuța	3
+Annamaria	3
+Anne-Marie	3
+Annemarie	3
+Astrid	3
+Blanka	3
+Carina	3
+Carla	3
+Catherine	3
+Cella	3
+Christine	3
+Cleopatra	3
+Coca	3
+Doinița	3
+Dorothea	3
+Eleonore	3
+Gerda	3
+Giulia	3
+Greta	3
+Hanna	3
+Hannah	3
+Henriette	3
+Herta	3
+Hilda	3
+Hortensia	3
+Iris	3
+Izabela	3
+Jana	3
+Jeanne	3
+Joana	3
+Julieta	3
+Karola	3
+Kornélia	3
+Krisztina	3
+Lelia	3
+Leontina	3
+Liane	3
+Lídia	3
+Linda	3
+Lucica	3
+Luisa	3
+Lulu	3
+Marieta	3
+Mărioara	3
+Măriuca	3
+Martha	3
+Mia	3
+Minodora	3
+Mirabela	3
+Nóra	3
+Ofelia	3
+Ortansa	3
+Pia	3
+Rebeca	3
+Rebecca	3
+Rita	3
+Roberta	3
+Rozalia	3
+Sabrina	3
+Theodora	3
+Timea	3
+Tímea	3
+Tunde	3
+Ursula	3
+Veturia	3
+Viola	3
+Viorela	3
+Wanda	3
+Zoia	3
+Zsuzsánna	3
+Adele	2
+Afrodita	2
+Agatha	2
+Agnes	2
+Alicia	2
+Alida	2
+Alla	2
+Anastasiya	2
+Angéla	2
+Anica	2
+Anisia	2
+Anne	2
+Anneliese	2
+Annie	2
+Antoinette	2
+Antoneta	2
+Anya	2
+Arianna	2
+Barbara	2
+Beata	2
+Bettina	2
+Boglárka	2
+Boróka	2
+Brigitte	2
+Catinca	2
+Cecília	2
+Céline	2
+Cezara	2
+Charlotte	2
+Christina	2
+Codruța	2
+Consuela	2
+Cynthia	2
+Daciana	2
+Daiana	2
+Dida	2
+Elaine	2
+Elisa	2
+Elisaveta	2
+Elizabeth	2
+Elsa	2
+Floriana	2
+Francesca	2
+Francisca	2
+Gaby	2
+Georgia	2
+Georgina	2
+Gerlinde	2
+Gertrud	2
+Gertrude	2
+Gilda	2
+Grete	2
+Gyöngyvér	2
+Györgyi	2
+Hajnal	2
+Hédi	2
+Hermine	2
+Ildiko	2
+Ina	2
+Iosefina	2
+Irena	2
+Izolda	2
+Johanna	2
+Jolán	2
+Karin	2
+Kati	2
+Katia	2
+Kriszta	2
+Lăcrimioara	2
+Lana	2
+Lenke	2
+Letiția	2
+Lina	2
+Lizica	2
+Lucretia	2
+Madeleine	2
+Magdolna	2
+Malvina	2
+Marga	2
+Maria Magdalena	2
+Mariam	2
+Marian	2
+Marianna	2
+Maricica	2
+Marion	2
+Marlena	2
+Medeea	2
+Mimi	2
+Mónika	2
+Naomi	2
+Nastasia	2
+Noemi	2
+Norina	2
+Olívia	2
+Petronela	2
+Rada	2
+Raisa	2
+Renáta	2
+Romina	2
+Rose	2
+Rózsi	2
+Selma	2
+Sevastia	2
+Shoshana	2
+Silvana	2
+Silviana	2
+Ștefana	2
+Stella	2
+Susana	2
+Svetlana	2
+Szidónia	2
+Szilvia	2
+Thea	2
+Tia	2
+Tina	2
+Tita	2
+Verginia	2
+Viktória	2
+Vilma	2
+Yolanda	2
+Zaharia	2
+Zina	2
+Zorina	2
+Abdel
+Abigail
+Adelaida
+Adelheid
+Adrienn
+Adrienne
+Agafia
+Agata
+Aglaia
+Aglaja
+Agnès
+Agota
+Aimée
+Alberta
+Alesia
+Alessandra
+Alex
+Alexandru
+Aline
+Alis
+Alisa
+Alisia
+Amabella
+Amál
+Amélie
+Amita
+Ana Cristina
+Ana María
+Ana-Dorica
+Anaïs
+Andrada
+Andreia
+Andriana
+Anemone
+Angelia
+Angi
+Ani
+Ania
+Animona
+Anina
+Annaliese
+Annamari
+Anny
+Antigona
+Antonella
+Antónia
+Apolonia
+Aquilina
+Arany
+Arethia
+Argentina
+Ariadna
+Ashley
+Asma
+Aurelian
+Aurélie
+Aurore
+Aviva
+Beáta
+Beate
+Bella
+Benedicta
+Bernadette
+Betty
+Bianca-Andreea
+Blandina
+Bogdana
+Briana
+Brigita
+Bucura
+Cabiria
+Caliopia
+Calypso
+Carmina
+Carola
+Casandra
+Casiana
+Castelia
+Catarina
+Caterina
+Cesonia
+Chris
+Cicilia
+Claire
+Clody
+Clotilde
+Constance
+Cora
+Coralia
+Corinne
+Cosette
+Cosima
+Costina
+Crenguța
+Cristel
+Cristela
+Cristine
+Cristinel
+Csengele
+Csillag
+Dalia
+Dalma
+Dania
+Denis
+Denisa-Maria
+Denise
+Désirée
+Didina
+Didona
+Dodi
+Dona
+Dóra
+Dorotea
+Draga
+Dumitra
+Ebru
+Edeltraut
+Edina
+Edita
+Edvina
+Ela
+Eleanor
+Elenore
+Éléonore
+Elina
+Elise
+Elizabeta
+Elke
+Ellie
+Elly
+Else
+Elwira
+Elzina
+Emel
+Emil
+Emilía
+Erastia
+Erica
+Erna
+Ersilia
+Erzsi
+Esmeralda
+Estela
+Ester
+Estera
+Esther
+Esthera
+Eta
+Etti
+Etti-Rosa
+Eufrosina
+Evdokia
+Eveline
+Evelyne
+Fani
+Fănică
+Fatma
+Federica
+Fernanda
+Fifi
+Filofteia
+Fiorela
+Flaviana
+Flore
+Floria
+Florian
+Florida
+Florin
+Flory
+Fortuna
+Françoise
+Franziska
+Frida
+Frieda
+Frosa
+Gabi
+Galina
+Geraldine
+Géraldine
+Gertrúd
+Ghizela
+Gigi
+Gisella
+Giselle
+Gloria
+Gulnara
+Guță
+Hannelore
+Hedda
+Hedi
+Hedvig
+Helene
+Henrieta
+Henrietta
+Hermiona
+Hilde
+Hogaș
+Honoria
+Hortenzia
+Iana-Alesia
+Ilonka
+Ines
+Ioanna
+Ion
+Iozefina
+Irène
+Irimia
+Isabelle
+Isidora
+Iva
+Jacqueline
+Jane
+Janetta
+Janina
+Janka
+Jany
+Jaqueline
+Jasmine
+Jeanina
+Jeni
+Jenica
+Jennifer
+Joan
+Josine
+Joujou
+Jozefina
+Juliana
+Julie
+Justina
+Jutta
+Kadriye
+Katharina
+Katherine
+Kincső
+Kira
+Kitty
+Klara
+Kristina
+Laila
+Lamia
+Lara
+Larissa
+Laurenția
+Lea
+Leah
+Lella
+Lena
+Leny
+Leocadia
+Leonida
+Leontia
+Leopoldina
+Letitia
+Leya
+Lidiia
+Lidija
+Lilia
+Lilla
+Lilly
+Lisa
+Lise
+Lisette
+Liuba
+Lívia
+Liviana
+Lola
+Loretta
+Luci
+Lucreția
+Lucy
+Ludmilla
+Lujza
+Lya
+Lydia
+Magdaléna
+Magdalene
+Malina
+Mama
+Mansi
+Manya
+Marcella
+Marcelle
+Marciana
+Marfa
+Margaret
+Margarete
+Margarita
+Marguerite
+María
+Maria Manuela
+Maria Sara
+Maria-Victoria
+Maricela
+Marie-Luise
+Mariella
+Marija
+Marthe
+Maruca
+Mel
+Melek
+Melisa
+Melitta
+Mellina
+Meral
+Mercedes
+Mihaéla
+Mihaela-Maria
+Mihaiela
+Mijaela
+Milia
+Mina
+Mirabella
+Mirella
+Mizzi
+Monalisa
+Mónica
+Mora
+Muguraş
+Myriam
+Naciye
+Nadejda
+Nadine
+Nadire
+Nataliya
+Nela
+Nicola
+Niculiță
+Ninel
+Nneka
+Noelle
+Norica
+Nuța
+Octavia
+Odette
+Olimpiea
+Oltea
+Oriana
+Ottilia
+Paloma
+Panca
+Paulina
+Pauline
+Păunița
+Pola
+Poliana
+Polina
+Pollyanna
+Pompilia
+Rădișoara
+Radu
+Rahela
+Raissa
+Ramóna
+Regina
+Regine
+Renate
+Renée
+Ria
+Ricarda
+Rifka
+Romana
+Rona
+Rose-Marie
+Rozina
+Rózsa
+Rucsandra
+Rusanda
+Rut
+Ruth
+Sabina-Cornelia
+Sabine
+Safina
+Sandina
+Sarah
+Sari
+Sarina
+Sava
+Seidy
+Șeiva
+Sevil
+Shalina
+Silly
+Silva
+Simone
+Sofie
+Sophie
+Stefana
+Stefánia
+Steliana
+Sultana
+Suzanna
+Suzanne
+Sylvia
+Szerafina
+Tabita
+Tanya
+Tekla
+Telly
+Teo
+Teofila
+Teréz
+Tereza
+Terézia
+Theo
+Thusnelda
+Tom
+Tora
+Trude
+Uta
+Valentine
+Valerică
+Vali
+Vanda
+Vanessa
+Velvet
+Venera
+Veronika
+Vika
+Violette
+Virgilia
+Vitalia
+Vivian
+Vivien
+Vlăduță
+Wilma
+Xenia
+Yaroslava
+Yevdokiya
+Yuliia
+Zaidee
+Zelma
+Zenaida
+Zoé
+Zorica
+Zsazsa
+Zsizsi
+Zsóka
+Zsolna

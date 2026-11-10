@@ -1,0 +1,619 @@
+Medio	6
+Paloma	6
+Grande	5
+Larga	5
+Chata	4
+Laureles	4
+Leones	4
+Pájaros	4
+Blanca	3
+Chica	3
+Conejo	3
+Conejos	3
+Dorado	3
+Gaviota	3
+Ombú	3
+Tala	3
+Tragadero	3
+Alcaraz	2
+Año Nuevo	2
+Boca Chica	2
+Bridges	2
+Burro	2
+Burros	2
+Cañas	2
+Carpincho	2
+Castillo	2
+Chanchos	2
+Deseada	2
+Diablo	2
+Dos Hermanas	2
+Francés	2
+Garzas	2
+Gaviotas	2
+Guaycurú	2
+Hermanas	2
+Herradura	2
+Invernada	2
+Islote Chato	2
+León	2
+Lobos	2
+Margarita	2
+Mborebí	2
+Nueva	2
+Pacú	2
+Palmas	2
+Paraguayo	2
+Pelada	2
+Puerto	2
+Rica	2
+Romero	2
+San Juan	2
+San Mateo	2
+San Pablo	2
+San Pedro	2
+Santiago	2
+Sur	2
+Talar	2
+Tonelero	2
+Vargas	2
+Victoria	2
+Yaguareté	2
+Abra
+Aguapey
+Aguarachay
+Agustín Real
+Alazanes
+Albino
+Alejandro
+Alférez Goffre
+Algarrobal
+Alicia
+Ancha
+Anduelo
+Ánimas
+Antequera
+Antonio
+Apipé Chico
+Apipé Grande
+Arañas
+Árbol Solo
+Arce
+Ariadna
+Aristizábal
+Aroma
+Baguales
+Ballesteros
+Barranqueras
+Barrionuevo
+Barro
+Barros
+Bécasses
+Bellaco
+Berg
+Bermejo
+Bernache
+Bertha
+Blancas
+Blanco
+Blancos al Sur
+Bodega
+Bonfiglio
+Borsani
+Bosnia
+Bote
+Botija
+Botta
+Brasilera
+Buque
+Caballada
+Cabrera
+Cachal Huapi
+Cadena
+Cafferata
+Cai-Mbocá
+Calderón
+Camba Nupá
+Cambacuá
+Campichuelo
+Campo Rico
+Canal Tuerto
+Canarios
+Cancha Dorada
+Candelaria
+Carabajal
+Caraguatay
+Carayá
+Carbón
+Carcarañá
+Caré
+Caridad
+Carmelita
+Carneros
+Caroarñá
+Carrizal
+Carrizo
+Casco
+Castellanos
+Castre
+Cattáneo
+Caviglia
+Cayetano
+Caygué
+Ceibal
+Ceibo
+Centinela
+Cerrito
+Césares
+Cevallos
+Chafariz
+Chaffers
+Chana
+Chancho
+Chaparro
+Chapetón
+Chepes
+Cheshire
+Chimbolar
+China Muerta
+Chivos
+Choele Choel Chica
+Choele Choel Grande
+Churlaquín Chica
+Churlaquín Grande
+Cigüeñas
+Ciprés
+Cisne
+Cochicó
+Colnett
+Colón Chico
+Colón Grande
+Colorada
+Colorado
+Comandante Simone
+Conejas
+Corazon
+Corazón
+Cordillate
+Cordobesa
+Cormorán
+Corpen
+Corpus
+Corral
+Correa
+Correntina
+Costa Brava
+Crique
+Cuay
+Cuello
+Cupalén
+Curtiembre
+Curuzucha
+Cyarvide
+Damas
+Dampier
+Denis
+Despard
+Dickenpach
+Dino
+Doble
+Dolores
+Domingo López
+Doradito
+Dos De Oro
+Dos Hitos
+Dos Lomos
+Durand
+Elena
+Embudo
+Encanto
+Ensenada
+Escobar
+Escondida
+Esmeralda
+Espera
+Espinillares
+Espinillo
+Espinosa
+Estados
+Este
+Esteros
+Estorbo
+Estrella
+Fantino
+Ferreira
+Fioravanti
+Flamenco
+Flora
+Florida
+Francas
+Francesa
+Franceses
+Fray Menéndez
+Frazada
+Gable
+Galiano
+Gallinas
+Gama
+Garcerosa
+García
+Garibaldi
+Garilli
+Garruchos
+Gatica
+Gato
+Gaucho
+Gauna
+Gemma
+General Winter
+Gobernación
+González
+Gorosito
+Grande de Saudade
+Grande de Tierra del Fuego
+Grande del Chico
+Gravota
+Gritón
+Grupo de la Grande
+Guanaco
+Guano
+Guardia
+Guáscara
+Guaviyú
+Guayaba
+Guazú
+Hornos
+Huemul
+Ibaté
+Ibira Pitá
+Iguasí
+Ilhas do Chafariz
+Ilhas Piratini
+Inés
+Infiel
+Isabel
+Isleta de las Frutas
+Isleta de los Timbúes
+Isleta las Victorianas
+Islote
+Islote Aguilón del Norte
+Islote Aguilón del Sur
+Islote Alvina
+Islote Arellano
+Islote Bajo
+Islote Belgrano
+Islote Blanco
+Islote Cangrejo
+Islote Constancia
+Islote de los Conejos
+Islote de los Reyes
+Islote de los Troncos Fósiles
+Islote del Cabo
+Islote del Cañadón del Puerto
+Islote del Noroeste
+Islote del Paraguayito
+Islote del Tigre
+Islote Elizalde
+Islote Figueroa
+Islote Gaglianone
+Islote Galfrascoli
+Islote Gilbert
+Islote Gran Robredo
+Islote Grosso
+Islote Gutiérrez
+Islote Hakenyeshka
+Islote Lobos
+Islote Los Bordón
+Islote Los Huevos
+Islote Los Periquillos
+Islote Los Siete González
+Islote Luisoni
+Islote Méndez
+Islote Morro Indio
+Islote Muñoz
+Islote Oriental
+Islote Osuna
+Islote Page
+Islote Pájaro
+Islote Peña
+Islote Pequeño Robredo
+Islote Pleamar
+Islote Puente
+Islote Puntudo
+Islote Redondo
+Islote Republicano
+Islote Rojas
+Islote Rojo
+Islote Sajama
+Islote San Juan
+Islote Spur
+Islote Trescientos Cincuenta Pies
+Islote Trípode
+Islote Veleros
+Islote Villegas
+Islote Zurbriggen
+Islotes Bergantín
+Islotes Cáceres
+Islotes Chafariz
+Islotes Cinco Romero
+Islotes Colina de los Riachos
+Islotes del Borracho
+Islotes del Chico Alférez
+Islotes Fabián
+Islotes Goeland
+Islotes Itacumbú
+Islotes Iyuhy
+Islotes Los Dos Ahumada
+Islotes Los Tres Fernández
+Islotes Margarita
+Islotes Massa
+Islotes Pies
+Islotes Sarandí
+Islotes Siri
+Islotes Zalazar
+Itá-Pirú
+Ita-Pitá
+Itacaruaré Chica
+Itacuá Oc
+Itacumbú
+Ituarte
+Jabalí
+Jabón
+Jaula del Tigre
+Josefina
+Juancho Nacurutú
+Juanicó
+Juncal
+Jupy-Pucú
+Justicia
+Kito
+Lagraña
+Larco
+Latorre
+Laurel
+Laurelti
+Lechiguanas
+Leelom
+Lepen
+Libertad
+Liborio
+Liebres
+Lieve
+Limosna
+Lonco Vaca
+Lorenzo
+Los Gemelos
+Lucas
+Lucero
+Lucha
+Lucía
+Lynch
+Mal Abrigo
+Malo
+Malú
+Mamajué
+Mamaria
+Manantiales
+Manga
+Marchesotti
+María
+Marianetas
+Mary
+Mary Ann
+Masones
+Matasiete
+Matina
+Médano
+Melilla
+Mellados
+Mellizas
+Mencho
+Mendieta
+Menzies
+Meriño
+Mesa
+Mini Mini
+Molino
+Montaña
+Montegrosso
+Montenegro
+Montequitti
+Moreno
+Mortero
+Mujeres
+Mullhall
+Murcielago
+Murciélago
+Ñanganui
+Naranjal
+Naranjito
+Ñari
+Narne
+Naró
+Ñatiú
+Negros
+Nicanor
+Nieve
+Novaro
+Nueva de Bodega
+Nutria
+Obligado
+Observatorio
+Oca
+Olga
+Olimpo
+Oliva
+Oro
+Otero
+Pacheco
+Paciencia
+Palacios
+Palmar
+Palo
+Palomera
+Pampero
+Pañuelito
+Papal
+Paracao
+Paraná Guazú
+Parejina
+Pareuna
+Paso Hacha
+Patí
+Patos
+Paulino
+Pavón
+Payaguá
+Paz
+Pega
+Pelado
+Pelón
+Peluquero
+Peñalva
+Península Stokes
+Península Viedma
+Pepeají
+Perdida
+Perdido
+Pereira
+Pesquerias
+Petrel
+Piedra Buena
+Pindotí
+Pindoy
+Pingüino
+Pinos
+Piracuá
+Piracuacito
+Piragua
+Piuque-Huapi
+Platos
+Ponce
+Porteña
+Portugués
+Posta Vieja
+Pucci
+Pucha Para Atrás
+Puente
+Puestos
+Punta
+Puou
+Puoú
+Quechuquina
+Quinta
+Quintano
+Quiroga
+Rabbit
+Rasa
+Rasa Chica
+Rayo
+Redonda
+Regina
+Retamito
+Rey
+Reynolds
+Riachos
+Rincón
+Rincón del Cabo
+Roble
+Roca Masín
+Rojas
+Rosita
+Ruiz
+Saca Calzones
+Salabert
+San Agustín
+San Alberto
+San Carlos
+San Genaro
+San Hilario
+San Jerónimo
+San José
+San Julián
+San Lorenzo
+San Lucas Grande
+San Miguel
+Sánchez
+Santa Ana
+Santa Candida
+Santa Catalina
+Santa Gregoria
+Santa Isabel
+Santa Lucía Superior
+Santa Mónica
+Santa Rosa
+Santos Vega
+Sapo
+Sapos
+Sarmiento
+Sauce Blanco
+Sauzal
+Schwarz
+Selzo
+Shag
+Sirena
+Sirgadera
+Sola
+Soldado
+Solís
+Solitaria
+Sombrero
+Sostén
+Soto
+Sudoeste
+Susana
+Tabaco
+Tacuaras
+Tagiliani
+Tambor
+Tapao
+Taruma
+Teresa
+Teros
+Thomas
+Tigre
+Tigres del Mar
+Timbó
+Timboy
+Toledo
+Toro
+Toropí
+Tova
+Tovita
+Tres Bocas
+Trinidad
+Tunas
+Ubajayes
+Union
+Upú
+Vaca
+Vacía
+Vado
+Valdés
+Vascos
+Veinticinco de Mayo
+Velázquez
+Vernaci
+Viana
+Vilardebó
+Villarino
+Villegas
+Villeta
+Vívires
+Vizcaíno
+Volantín
+Warden
+Warú
+Willie
+Wood
+Y C A
+Yerbones
+Yunque
+Yuquery
+Yuruhata
+Zabala
+Zaballos
+Zambo
+Zapallo
+Zárate
+Zuraita

@@ -1,0 +1,1403 @@
+Mary	41
+Elizabeth	36
+Margaret	32
+Anna	28
+Michelle	25
+Susan	23
+Sarah	21
+Amanda	20
+Jane	20
+Jessica	20
+Patricia	20
+Karen	19
+Linda	19
+Sandra	19
+Helen	18
+Louise	18
+Nicole	18
+Barbara	17
+Karin	17
+Candice	16
+Claire	16
+Jennifer	16
+Marie	16
+Rachel	16
+Frances	15
+Megan	15
+Wendy	15
+Catherine	14
+Florence	14
+Sheila	14
+Ann	13
+Anne	13
+Christine	13
+Denise	13
+Emma	13
+Joan	13
+Johanna	13
+Julia	13
+Maria	13
+Amy	12
+Joyce	12
+Kathleen	12
+Kim	12
+Lauren	12
+Leigh	12
+Natasha	12
+Robyn	12
+Ruth	12
+Samantha	12
+Yvonne	12
+Bianca	11
+Brenda	11
+Ingrid	11
+Janet	11
+Kate	11
+Rebecca	11
+Angela	10
+Caroline	10
+Dorothy	10
+Faith	10
+Jean	10
+Lisa	10
+Nadia	10
+Pamela	10
+Antoinette	9
+Esther	9
+Hannah	9
+Irene	9
+Jacqueline	9
+Judith	9
+Laura	9
+Lee	9
+Lydia	9
+Marlene	9
+Mbali	9
+Melanie	9
+Monique	9
+Stephanie	9
+Vanessa	9
+Annie	8
+Carina	8
+Carol	8
+Christina	8
+Dawn	8
+Diane	8
+Elsie	8
+Fiona	8
+Grace	8
+Heidi	8
+Ina	8
+Isabella	8
+Jill	8
+Kelly	8
+Kerry	8
+Kirsten	8
+Lerato	8
+Mandisa	8
+Marianne	8
+Melissa	8
+Natalie	8
+Nicola	8
+Nozipho	8
+Pauline	8
+Priscilla	8
+Sophie	8
+Tanya	8
+Valerie	8
+Andrea	7
+Annette	7
+Bertha	7
+Charlotte	7
+Cindy	7
+Constance	7
+Deborah	7
+Dominique	7
+Doris	7
+Eileen	7
+Ethel	7
+Eva	7
+Gladys	7
+Hazel	7
+Ilse	7
+Jade	7
+Jana	7
+Jenna	7
+Jenny	7
+Judy	7
+Lara	7
+Lesley	7
+Monica	7
+Nadine	7
+Nomsa	7
+Rose	7
+Sally	7
+Sophia	7
+Virginia	7
+Abigail	6
+Alice	6
+Beverley	6
+Carla	6
+Charlene	6
+Dianne	6
+Edith	6
+Ellen	6
+Fatima	6
+Helena	6
+Helene	6
+Jeanne	6
+Leah	6
+Liesl	6
+Lucy	6
+Magdalena	6
+Marguerite	6
+Marietjie	6
+Marion	6
+Melinda	6
+Michele	6
+Naledi	6
+Olivia	6
+Paula	6
+Phyllis	6
+Precious	6
+Rosa	6
+Sonja	6
+Sylvia	6
+Tania	6
+Taryn	6
+Wilma	6
+Zoe	6
+Adele	5
+Agnes	5
+Angelique	5
+Annelie	5
+Ashleigh	5
+Ayanda	5
+Beverly	5
+Busisiwe	5
+Chloe	5
+Clare	5
+Connie	5
+Cynthia	5
+Desiree	5
+Doreen	5
+Dorothea	5
+Elaine	5
+Elsa	5
+Erin	5
+Esmé	5
+Gillian	5
+Glenda	5
+Heather	5
+Hester	5
+Jeanette	5
+Jo	5
+Juanita	5
+Kayla	5
+Liezel	5
+Lilian	5
+Liza	5
+Lorna	5
+Lorraine	5
+Louisa	5
+Lynette	5
+Lynn	5
+Mabel	5
+Maggie	5
+Mariette	5
+Marjorie	5
+Martha	5
+Maureen	5
+Miriam	5
+Natalia	5
+Nosipho	5
+Nqobile	5
+Olive	5
+Penny	5
+Petronella	5
+Pumla	5
+Refilwe	5
+Regina	5
+Rene	5
+Rika	5
+Sara	5
+Sharon	5
+Shirley	5
+Simone	5
+Stella	5
+Sue	5
+Susanna	5
+Thandi	5
+Ursula	5
+Victoria	5
+Winnie	5
+Yolanda	5
+Zanele	5
+Aletta	4
+Alexandra	4
+Alicia	4
+Alison	4
+Anita	4
+Audrey	4
+Beatrice	4
+Bridget	4
+Bronwyn	4
+Caitlin	4
+Carmen	4
+Cathy	4
+Charmaine	4
+Charné	4
+Cheryl	4
+Christa	4
+Claudia	4
+Cornelia	4
+Daphne	4
+Debbie	4
+Deirdre	4
+Eleanor	4
+Evelyn	4
+Felicia	4
+Georgia	4
+Gwendoline	4
+Hayley	4
+Hilda	4
+Hope	4
+Inge	4
+Isabel	4
+Jessie	4
+Josephine	4
+Joy	4
+Julie	4
+June	4
+Lindiwe	4
+Lise	4
+Liz	4
+Lynne	4
+Magda	4
+Marcia	4
+Margaretha	4
+Mildred	4
+Naomi	4
+Nina	4
+Nomvula	4
+Nonkululeko	4
+Norma	4
+Pippa	4
+Refiloe	4
+Rina	4
+Rita	4
+Rosemary	4
+Stacey	4
+Tessa	4
+Thando	4
+Tracey	4
+Tracy	4
+Vera	4
+Ada	3
+Adelaide	3
+Adriana	3
+Alida	3
+Amelia	3
+Angel	3
+Anja	3
+Anneke	3
+Ashley	3
+Beauty	3
+Bernice	3
+Brigitte	3
+Busi	3
+Carin	3
+Carolyn	3
+Cecilia	3
+Celeste	3
+Chanelle	3
+Chantelle	3
+Charlize	3
+Chloé	3
+Colleen	3
+Daisy	3
+Danelle	3
+Demi	3
+Edna	3
+Emily	3
+Erika	3
+Freda	3
+Frieda	3
+Gabisile	3
+Georgina	3
+Gertrude	3
+Gina	3
+Gloria	3
+Greta	3
+Gugulethu	3
+Henriette	3
+Irma	3
+Isobel	3
+Jacoba	3
+Jamie	3
+Janice	3
+Janine	3
+Justine	3
+Kabelo	3
+Kara	3
+Katherine	3
+Katie	3
+Keira	3
+Laurette	3
+Lee-Anne	3
+Leila	3
+Leonie	3
+Lillian	3
+Lina	3
+Lindsay	3
+Lindy	3
+Lucinda	3
+Madeleine	3
+Mandy	3
+Mapaseka	3
+Marcelle	3
+Marijke	3
+Marilyn	3
+Marissa	3
+Marita	3
+Marlize	3
+Maud	3
+May	3
+Mia	3
+Michaela	3
+Mila	3
+Moira	3
+Nandipha	3
+Nelisiwe	3
+Nicky	3
+Nicolene	3
+Nomathemba	3
+Nomonde	3
+Nthabiseng	3
+Olga	3
+Paige	3
+Patience	3
+Pearl	3
+Penelope	3
+Phindile	3
+Phumzile	3
+Portia	3
+Renée	3
+Rhoda	3
+Shannon	3
+Shelley	3
+Sibongile	3
+Simphiwe	3
+Sonia	3
+Suzanne	3
+Tamara	3
+Tamaryn	3
+Tammy	3
+Thea	3
+Thelma	3
+Theresa	3
+Thokozile	3
+Toni	3
+Violet	3
+Wilna	3
+Yvette	3
+Zandile	3
+Zelda	3
+Adrienne	2
+Agatha	2
+Aimee	2
+Albertina	2
+Alex	2
+Alexia	2
+Alexis	2
+Alina	2
+Amber	2
+Amina	2
+Andile	2
+Andriette	2
+Anika	2
+Anke	2
+Anne-Marie	2
+Annelise	2
+Annika	2
+Anri	2
+Anthea	2
+Aphiwe	2
+Augusta	2
+Beata	2
+Belinda	2
+Bernette	2
+Beryl	2
+Bessie	2
+Beth	2
+Bettina	2
+Betty	2
+Bongi	2
+Bonnie	2
+Bridgette	2
+Camilla	2
+Candy	2
+Carole	2
+Catharina	2
+Catherina	2
+Cecile	2
+Celia	2
+Chantal	2
+Cherry	2
+Cheyna	2
+Chrisna	2
+Clarissa	2
+Cora	2
+Courtney	2
+Dane	2
+Daniela	2
+Daniella	2
+Debra	2
+Deidré	2
+Desiré	2
+Désirée	2
+Dikeledi	2
+Dina	2
+Dolly	2
+Donna	2
+Dora	2
+Dudu	2
+Dulcie	2
+Elisabeth	2
+Elise	2
+Elma	2
+Eloise	2
+Elsabe	2
+Elza	2
+Enid	2
+Erica	2
+Esme	2
+Estelle	2
+Fanny	2
+Fay	2
+Felicity	2
+Fikile	2
+Francesca	2
+Frederika	2
+Gabriela	2
+Gail	2
+Genevieve	2
+Genna	2
+Geraldine	2
+Gerda	2
+Gertrud	2
+Giselle	2
+Glynis	2
+Gugu	2
+Hanna	2
+Harriet	2
+Heike	2
+Hellen	2
+Hendrika	2
+Henrietta	2
+Ilana	2
+Ilene	2
+Iris	2
+Ivy	2
+Jackie	2
+Jemma	2
+Jesse	2
+Jillian	2
+Jo-Anne	2
+Joanne	2
+Jodi	2
+Josie	2
+Juliana	2
+Kagiso	2
+Kaitlyn	2
+Karien	2
+Kathy	2
+Kerryn	2
+Kerstin	2
+Kgomotso	2
+Khadija	2
+Laurika	2
+Leandra	2
+Leandri	2
+Leanne	2
+Lebogang	2
+Lee-Ann	2
+Leslie	2
+Letitia	2
+Liana	2
+Liezl	2
+Lily	2
+Lindie	2
+Lindsey	2
+Lizette	2
+Loretta	2
+Madelaine	2
+Madelein	2
+Makayla	2
+Maki	2
+Maria Elizabeth	2
+Marieke	2
+Mariska	2
+Marlies	2
+Marlise	2
+Mary Ann	2
+Maryna	2
+Maude	2
+Maxine	2
+Meagan	2
+Mercy	2
+Mimi	2
+Miranda	2
+Mirriam	2
+Muriel	2
+Myra	2
+Myrtle	2
+Nan	2
+Nancy	2
+Nathalie	2
+Naydene	2
+Nikki	2
+Noël	2
+Nolwazi	2
+Nomusa	2
+Noni	2
+Nontobeko	2
+Ntokozo	2
+Ongeziwe	2
+Pam	2
+Pat	2
+Peggy	2
+Petrusa	2
+Philippa	2
+Pia	2
+Prudence	2
+Quanita	2
+Riana	2
+Rochelle	2
+Romy	2
+Ronelda	2
+Rosamund	2
+Roxanne	2
+Saartjie	2
+Salome	2
+Salomina	2
+Sanelisiwe	2
+Sasha	2
+Savannah	2
+Sheryl	2
+Shireen	2
+Siphiwe	2
+Sizani	2
+Stacy	2
+Stefanie	2
+Susanne	2
+Tali	2
+Tarryn	2
+Tasmin	2
+Tasneem	2
+Tatiana	2
+Tatum	2
+Tayla	2
+Tebogo	2
+Tegan	2
+Teresa	2
+Thandeka	2
+Tiffany	2
+Tina	2
+Trudi	2
+Tshepo	2
+Tsholofelo	2
+Veronica	2
+Winifred	2
+Xanthe	2
+Zoë	2
+Zoleka	2
+Zukiswa	2
+Abbie
+Abby
+Abi
+Abrahams
+Adah
+Adel
+Adila
+Adolphina
+Aileen
+Aishah
+Alana
+Alanna
+Alba
+Albina
+Aleah
+Alet
+Alexandre
+Aline
+Allettha
+Allison
+Alta
+Alys
+Alyson
+Alyssa
+Amalia
+Amari
+Ambra
+Amie
+Amma
+Amore
+Ana
+Anastacia
+Anastasia
+Andrée
+Andy
+Ane
+Anel
+Anele
+Aneta
+Anette
+Ângela
+Angelina
+Angeline
+Angie
+Anina
+Anique
+Aniya
+Ann-Marie
+Anna-Lise
+Annabel
+Annah
+Annalize
+Annari
+Annchen
+Anneliese
+Anneline
+Annelisa
+Annemari
+Annesley
+Annique
+Anriette
+Antje
+Antonette
+Antonieta
+Anushka
+Arabella
+Ariane
+Ariel
+Arien
+Arita
+Arja
+Armitage
+Ashlyn
+Ashlynn
+Ashton
+Athi
+Aura
+Auriol
+Averil
+Avril
+Ayesha
+Azisa
+Aziza
+Azra
+Babette
+Bailey
+Barrie
+Belle
+Benedicta
+Benita
+Benjamina
+Berenice
+Bernadette
+Berni
+Berrell
+Berta
+Bess
+Betine
+Bettie
+Bettine
+Beulah
+Billie
+Bina
+Blanche
+Blessing
+Bobbie
+Bobs
+Bokgabo
+Bongekile
+Bonolo
+Bridgid
+Brittany
+Brooklyn
+Bryoni
+Busiswa
+Camille
+Camryn
+Candace
+Candis
+Cara
+Caren
+Carey
+Carle
+Carli
+Carlyn
+Carmel
+Carolina
+Caryn
+Casandra
+Cass
+Cassandra
+Cassie
+Catharine
+Cathleen
+Catrina
+Catriona
+Cayla
+Cayleen
+Caylin
+Cecil
+Cecily
+Chandra
+Chanel
+Chanette
+Chanté
+Charity
+Charlbi
+Charlie
+Charne
+Chelsea
+Cherie
+Cherryl
+Chiara
+Chidimma
+Chioma
+Chris
+Christelle
+Christi
+Christin
+Chrysoula
+Chrystabel
+Chrystelle
+Cian
+Cissie
+Claire-Louise
+Cleo
+Cleopatra
+Cloudia
+Coghill
+Coleen
+Colette
+Connor
+Constantia
+Coreen
+Cornel
+Cornell
+Courteney
+Cristina
+Crystal
+Dada
+Daneel
+Danette
+Danielle
+Danila
+Danuta
+Deanne
+Debby
+Debora
+Deepti
+Delia
+Delina
+Dena
+Dene
+Deshun
+Desirée
+Dianna
+Dimitra
+Dirkie
+Dixon
+Dona
+Dorice
+Dorine
+Dot
+Duduzile
+Dulcibel
+Edwina
+Edyth
+Ekta
+Ela
+Elana
+Eleanore
+Elena
+Elga
+Elinda
+Elinor
+Eliza
+Elizabeth-Anne
+Elize
+Ella
+Elna
+Elodie
+Elsebeth
+Elsje
+Elske
+Elvira
+Emalie
+Ember
+Embeth
+Emke
+Ena
+Engela
+Enya
+Ernesta
+Eugenia
+Eunice
+Éva
+Evadne
+Eve
+Eveleen
+Evelina
+Everharda
+Evette
+Farhana
+Farida
+Farrah
+Fawzia
+Faye
+Ferial
+Feroza
+Fifi
+Filipa
+Flavia
+Fleur
+Flora
+Floretta
+Florrie
+Fortune
+Fourie
+Francina
+Francine
+François
+Františka
+Freddie
+Frederica
+Frida
+Gabi
+Gabriella
+Gabrielle
+Gael
+Garcelle
+Gaylene
+Gcina
+Gena
+Geneviève
+Georgiana
+Gerdina
+Gerhardina
+Gertruide
+Gia
+Gill
+Gisèle
+Gita
+Gizella
+Glynnis
+Golda
+Gonda
+Graça
+Graticia
+Greer
+Grizelda
+Gussie
+Gwen
+Gwendolen
+Gwladys
+Haidee
+Hailey
+Hanneke
+Heide
+Héloïse
+Hendrietta
+Hendriette
+Henriëtta
+Henriëtte
+Henry
+Herculina
+Hermien
+Hiawyn
+human rights defender
+Ida
+Igle
+Ilze
+Imogen
+Ine
+Inez
+Inger
+Inke
+Irena
+Irmgard
+Isabelle
+Ishtar
+Izelle
+Izette
+Jabulile
+Jacki
+Jacomina
+Jacqui
+Jadwiga
+Jaimee
+Jaimi
+Jakkie
+Jameelah
+Janette
+Jani
+Janie
+Janke
+Jann
+Jannie
+Jaqueline
+Jaroslava
+Jasmin
+Jasmine
+Jay
+Jayne
+Jazzara
+Jeane
+Jeanelle
+Jeanet
+Jeanine
+Jeannette
+Jeannine
+Jenefer
+Jenni
+Jermaine
+Jitka
+Joanna
+Jody
+Joha
+Johanita
+Johanne
+Jolana
+Jolette
+Jordan
+Josette
+Julene
+Juliet
+Jyoti
+Kaela
+Kaili
+Kajal
+Karabo
+Karina
+Karla
+Karlien
+Katharine
+Katheryn
+Kathrina
+Kathryn
+Katinka
+Katrina
+Katrine
+Kay
+Kaylene
+Kaylie
+Kaylin
+Keke
+Keletso
+Kelli
+Kelly-Anne
+Kendra
+Kent
+Kerri
+Kezia
+Kiara
+Kiera
+Kieran
+Kimberly
+Kirstin
+Kirsty
+Klara
+Kopano
+Krige
+Kristel
+Kristen
+Kristin
+Kristina
+Kylie
+Lael
+Laetitia
+Landie
+Larraine
+Latoya
+Laurence
+Lauretta
+Laurian
+Lavinia
+Leana
+Lebohang
+Lehandre
+Lelia
+Leona
+Leoni
+Leonora
+Leontine
+Lesedi
+Lesego
+Lesle-Ann
+Lesley-Ann
+Letoya
+Letta
+Lettie
+Li
+Libbie
+Lidia
+Lien
+Liesbeth
+Liesel
+Lin
+Lindi
+Linzi
+Lisabel
+Lizanne
+Lize
+Lizeth
+Lizzie
+Logan
+Loren
+Lorette
+Lorinda
+Lou
+Loyiso
+Lucia
+Lucía
+Lungile
+Lusanda
+Luyanda
+Lyn
+Madge
+Magaretha
+Magdalene
+Magdeleine
+Magdelena
+Magna
+Mahalia
+Maike
+Maite
+Malaika
+Malebogo
+Malikah
+Malka
+Mandeep
+Marcel
+Maretha
+Marga
+Margarete
+Margo
+Mari
+Mari-Louise
+Marian
+Marianna
+Mariella
+Marielle
+Mariëtte
+Marika
+Marike
+Marina
+Marine
+Marione
+Marise
+Marleen
+Marliese
+Marta
+Mary Louise
+Mary-Anne
+Maryam
+Maryon
+Mathilda
+Mavis
+Maya
+Mayda
+Maye
+Meagen
+Meganne
+Melika
+Melis
+Melita
+Melodie
+Melody
+Menga
+Meri
+Merinda
+Merle
+Merveille
+Meryl
+Micaela
+Michaella
+Michèle
+Micke
+Micki
+Mieke
+Miemsie
+Mignon
+Mika
+Mikayla
+Miluše
+Minnette
+Minnie
+Mira
+Mischa
+Misha
+Mohale
+Molly
+Morgan
+Mowbray
+Mpho
+Mpumi
+Mudene
+Muhammad
+Musetta
+Myfanwy
+Myrah
+Myrna
+Nadja
+Nana
+Nanette
+Nannie
+Nara
+Nathania
+Navanethem
+Nazira
+Nefisa
+Nelleke
+Nellie
+Nellien
+Nené
+Nerina
+Nerissa
+Nhlanhla
+Nica
+Nicolette
+Nicollette
+Nobuhle
+Noel
+Noeline
+Nokugcina
+Nokwethemba
+Noluthando
+Nomalanga
+Nomzamo
+Nondumiso
+Nonhle
+Nora
+Noreen
+Noshir
+Nothando
+Nova
+Nozuko Ncayiyane
+Nqabisa
+Ntombi
+Octavia
+Odette
+Odile
+Oluchi
+Olwen
+Oonagh
+Palesa
+Paola
+Pascale
+Pascaline
+Patty
+Perla
+Petronelle
+Phillipa
+Phillippa
+Phiwe
+Pinky
+Poppy
+Primrose
+Princess
+Promise
+Puleng
+Qhawekazi
+Quinn
+Rabia
+Rachelle
+Radha
+Raeesah
+Randy
+Rashida
+Rayda
+Rayne
+Redi
+Reeva
+Reino
+Remigia
+Renata
+Renate
+Renaye
+René
+Reneé
+Reneshan
+Retha
+Reza
+Rhona
+Ria
+Robin
+Romina
+Ronel
+Rosalyn
+Roseanne
+Roseline
+Rosemund
+Rowena
+Roxane
+Roxy
+Ryne
+Sadie
+Sakwa
+Sally-Ann
+Sanah
+Sandi
+Sandulela
+Sandy
+Sanette
+Sannah
+Saray
+Saskia
+Scarlett
+Sefora
+Selna
+Senzeni
+Serenity
+Serita
+Shamima
+Shandre
+Shanley
+Shante
+Shantel
+Shareen
+Shauna
+Shawn
+Sheena
+Shekhinah
+Shelby
+Shereen
+Sherri
+Sherry
+Sherylle
+Shoki
+Sieglinde
+Sihle
+Simonne
+Sindi
+Siobhan
+Siyabulela
+Sky
+Snowy
+Sofia
+Sophi
+Sophy
+Stéphane
+Sthandiwe
+Suanne
+Sulette
+Suna
+Sune
+Surisa
+Susanah
+Susara
+Suzan
+Svea
+Sybil
+Sydney
+Sylvaine
+Tala
+Talia
+Tamia
+Tamsin
+Tamzin
+Tana
+Tanit
+Tanith
+Tanja
+Tansey
+Tara
+Tatjana
+Tecla
+Tenille
+Terry
+Tersia
+Thalassa
+Thalente
+Thalia
+Thandiwe
+Thato
+Theo dors là
+Therese
+Thirza
+Thuli
+Tia
+Tikvah
+Tine
+Tini
+Tobi
+Tony
+Topaz
+Tori
+Tricia
+Trisha
+Trix
+Trudie
+Tshegofatso
+Tumi
+Tyde
+Tyla
+Tyler
+Uduak
+Uga
+Unathi
+Unelle
+Urmila
+Ute
+Vannessa
+Vas
+Veli
+Velia
+Venitia
+Vere
+Verity
+Verna
+Veronika
+Veronique
+Véronique
+Vesta
+Vicentia
+Vicki
+Vicky
+Vida
+Viola
+Vita
+Vitalina
+Vivian
+Vivienne
+Vyvyan
+Wanda
+Welma
+Wilhelmina
+Winsome
+Wood
+Xolile
+Yaël
+Yasmin
+Yola
+Yolande
+Zainab
+Zalika
+Zama
+Zana
+Zane
+Zani
+Zara
+Zena
+Zenani
+Zindziwa
+Zipporah
+Zita
+Ziya
+Zola
+Zulaikha

@@ -1,0 +1,5000 @@
+La Estación	37
+Castro	30
+Villanueva	29
+Villar	29
+Vilar	28
+San Pedro	24
+La Vega	20
+Piñeiro	20
+Robledo	20
+San Andrés	18
+Pando	17
+Arcos	16
+Otero	16
+San Cristóbal	16
+Lamas	15
+Paradela	15
+Pena	15
+San Esteban	15
+San Juan	15
+San Miguel	15
+Santa Ana	15
+Santa Cruz	15
+El Campillo	14
+Murias	14
+Prado	14
+San Román	14
+San Vicente	14
+Villaverde	14
+Castelo	13
+La Torre	13
+Los Llanos	13
+Monte	13
+Noceda	13
+Pacios	13
+Parada	13
+Pereira	13
+Santa Marina	13
+Vilela	13
+Covas	12
+Linares	12
+Outeiro	12
+Quintana	12
+Villarín	12
+Campo	11
+Cela	11
+Ferreiros	11
+Mosteiro	11
+Pazos	11
+Souto	11
+Vilanova	11
+Busto	10
+El Valle	10
+Ferreira	10
+La Laguna	10
+San Antonio	10
+San Isidro	10
+San Pelayo	10
+Santa Eulalia	10
+Santalla	10
+Vilariño	10
+Villamayor	10
+Buenavista	9
+Casablanca	9
+Casares	9
+Francos	9
+La Cuesta	9
+Lago	9
+Piñeira	9
+Piñera	9
+Santa Lucía	9
+Valverde	9
+Agüera	8
+Aldehuela	8
+Cabanas	8
+Carballal	8
+Castañedo	8
+Castrelo	8
+Collado	8
+El Puerto	8
+El Villar	8
+Fresnedo	8
+Granda	8
+La Atalaya	8
+La Cañada	8
+La Magdalena	8
+Las Cuevas	8
+Lourido	8
+Moreda	8
+Oleiros	8
+Ríoseco	8
+San Lorenzo	8
+San Salvador	8
+Santa María	8
+Santiago	8
+Santianes	8
+Serantes	8
+Soto	8
+Veiga	8
+Ventosa	8
+Arroyo	7
+Bóveda	7
+Castiello	7
+Couso	7
+El Campo	7
+El Collado	7
+Faedo	7
+Filgueira	7
+Folgoso	7
+Fonfría	7
+Fuentes	7
+Gándara	7
+Insúa	7
+La Hoya	7
+La Nava	7
+Las Cañadas	7
+Las Casicas	7
+Las Casillas	7
+Los Baños	7
+Los Molinos	7
+Lousada	7
+Nogueira	7
+Pousada	7
+Quintanilla	7
+Rebollar	7
+Reboredo	7
+Río	7
+Salcedo	7
+San Julián	7
+San Roque	7
+San Tirso	7
+Santullano	7
+Sierra	7
+Barredo	6
+Campelo	6
+Carballido	6
+Carracedo	6
+Castañera	6
+Cereceda	6
+Cortes	6
+Couto	6
+El Puntal	6
+El Rincón	6
+Errekalde	6
+Folgueras	6
+Ibarra	6
+La Florida	6
+La Mata	6
+La Paz	6
+La Solana	6
+Las Cruces	6
+Llano	6
+Loureiro	6
+Mato	6
+Montouto	6
+Moreiras	6
+O Castro	6
+Pajares	6
+Piedrafita	6
+Porto	6
+Requeixo	6
+Requejo	6
+Rubiales	6
+San Bartolomé	6
+San Clemente	6
+San José	6
+San Mamed	6
+Santa Clara	6
+Santa Comba	6
+Santa Eufemia	6
+Santa Marta	6
+Seoane	6
+Sobrado	6
+Soutelo	6
+Torres	6
+Ugarte	6
+Vigo	6
+Vista Alegre	6
+Acebal	5
+Acebedo	5
+Altamira	5
+Aranguren	5
+Arce	5
+Arrieta	5
+Arrojo	5
+Bárcena	5
+Barrio	5
+Barrio de Arriba	5
+Barruelo	5
+Bárzana	5
+Bustelo	5
+Bustiello	5
+Camba	5
+Camino	5
+Campillo	5
+Camporredondo	5
+Canedo	5
+Casas Nuevas	5
+César	5
+Cuevas	5
+Cuiña	5
+El Batán	5
+El Carmen	5
+El Hoyo	5
+El Viso	5
+Elbarrena	5
+Elexalde	5
+Ergoien	5
+Esperante	5
+Fuensanta	5
+Gestoso	5
+Goierri	5
+Herrera	5
+Horna	5
+Hospital	5
+La Alameda	5
+La Carrasca	5
+La Carrera	5
+La Estrella	5
+La Herrería	5
+La Muela	5
+La Rambla	5
+La Serna	5
+La Toba	5
+La Vereda	5
+La Zarza	5
+Las Canteras	5
+Las Casas	5
+Las Salinas	5
+Los Morenos	5
+Los Pérez	5
+Louredo	5
+Magdalena	5
+Manzaneda	5
+Mendiola	5
+Mera	5
+Miranda	5
+Moreira	5
+Paderne	5
+Palacio	5
+Parga	5
+Pedroso	5
+Pedrouzos	5
+Pereda	5
+Pinilla	5
+Portela	5
+Pumarín	5
+Quintáns	5
+Quintela	5
+Ramil	5
+Ribas de Miño	5
+Ribeira	5
+Saá	5
+Salto	5
+San Ciprián	5
+San Felices	5
+San Justo	5
+San Mamés	5
+Santa Cristina	5
+Santiuste	5
+Sorribas	5
+Tablado	5
+Trascastro	5
+Val	5
+Valle	5
+Vallejo	5
+Vea	5
+Vega	5
+Vilachá	5
+Villa	5
+Villarejo	5
+Villaseca	5
+Viñas	5
+A Veiga	4
+Ablanedo	4
+Agirre	4
+Alba	4
+Albarellos	4
+Alcedo	4
+Arenas	4
+Armental	4
+Arriaga	4
+Arriola	4
+Asma	4
+Atalaya	4
+Balboa	4
+Barcia	4
+Bardaos	4
+Barreiro	4
+Barreiros	4
+Barro	4
+Belmonte	4
+Bembibre	4
+Biescas	4
+Bouza	4
+Braña	4
+Cabana	4
+Calo	4
+Campos	4
+Canaleja	4
+Canales	4
+Cangas	4
+Carbajal	4
+Carballedo	4
+Carballo	4
+Casasola	4
+Casillas	4
+Castillo	4
+Cerceda	4
+Cerezal	4
+Cimadevilla	4
+Cobatillas	4
+Corralejo	4
+Corros	4
+Cortegada	4
+Coucieiro	4
+Covelo	4
+Cruces	4
+Cueto	4
+Cueva	4
+Egileor	4
+Eiras	4
+El Chaparral	4
+El Fresno	4
+El Llano	4
+El Madroño	4
+El Marchal	4
+El Molino	4
+El Monte	4
+El Pilar	4
+El Pozuelo	4
+El Pueblo	4
+El Río	4
+Escalada	4
+Faramontaos	4
+Feás	4
+Fontecha	4
+Frades	4
+Freijo	4
+Freixo	4
+Fresno	4
+Gallegos	4
+Garai	4
+Gaztelu	4
+Gramedo	4
+Graña	4
+Guadalupe	4
+Guntín	4
+Hermida	4
+Horta	4
+La Alquería	4
+La Braña	4
+La Caleta	4
+La Canal	4
+La Granja	4
+La Herrera	4
+La Higuera	4
+La Molina	4
+La Montaña	4
+La Parra	4
+La Pedrera	4
+La Rebollada	4
+La Revilla	4
+La Riba	4
+La Riera	4
+La Roza	4
+La Sierra	4
+La Tejera	4
+La Umbría	4
+Las Barracas	4
+Las Huertas	4
+Las Norias	4
+Las Rosas	4
+Leiro	4
+Liñares	4
+Lorenzana	4
+Los Arcos	4
+Los Barrancos	4
+Los Campos	4
+Los Morales	4
+Los Olmos	4
+Los Pinos	4
+Los Rosales	4
+Los Vicentes	4
+Los Villares	4
+Maceda	4
+Moldes	4
+Molinos	4
+Monteagudo	4
+Moral	4
+Muimenta	4
+Muro	4
+Nieva	4
+Olabe	4
+Oliveira	4
+Paredes	4
+Pastoriza	4
+Pastrana	4
+Paúles	4
+Pedrafita	4
+Piornedo	4
+Ponte	4
+Posada	4
+Prada	4
+Prados	4
+Puente	4
+Quejo	4
+Quintá	4
+Reiriz	4
+Renedo	4
+Retuerto	4
+Revilla	4
+Rubiás	4
+Sabadelle	4
+San Blas	4
+San Lázaro	4
+San Mamede	4
+San Migel	4
+San Pablo	4
+San Paio	4
+Santa Bárbara	4
+Santa Cecilia	4
+Santa Engracia	4
+Santa Isabel	4
+Santa Olalla	4
+Santiso	4
+Senra	4
+Sequeiro	4
+Silva	4
+Solana	4
+Sopeña	4
+Taboada	4
+Teijeira	4
+Tor	4
+Torre	4
+Torreblanca	4
+Trabazos	4
+Trasmonte	4
+Triana	4
+Uribarri	4
+Valdefuentes	4
+Valiña	4
+Venta Nueva	4
+Vilaboa	4
+Vilares	4
+Villabona	4
+Abades	3
+Abejuela	3
+Abelleira	3
+Acevedo	3
+Aday	3
+Aginaga	3
+Agrón	3
+Algaida	3
+Algar	3
+Allende	3
+Almenara	3
+Amarante	3
+Ambás	3
+Andra Maria	3
+Anseán	3
+Arana	3
+Aranerreka	3
+Arco	3
+Arenal	3
+Arenillas	3
+Arganza	3
+Armada	3
+Artika	3
+Avellaneda	3
+Balsa	3
+Baltar	3
+Baños	3
+Baos	3
+Barcala	3
+Barcela	3
+Barja	3
+Barrantes	3
+Barriosuso	3
+Bazar	3
+Belesar	3
+Bellavista	3
+Bello	3
+Bobadilla	3
+Bobia	3
+Boo	3
+Brañas	3
+Brion	3
+Búbal	3
+Budiño	3
+Buisán	3
+Buxán	3
+Cabañas	3
+Cabanillas	3
+Cabarcos	3
+Caldevilla	3
+Calvos	3
+Campiello	3
+Cañamares	3
+Cañedo	3
+Canyelles	3
+Capela	3
+Carabias	3
+Carbayal	3
+Carbonera	3
+Carcedo	3
+Carmona	3
+Carral	3
+Carrascalejo	3
+Carreira	3
+Carrio	3
+Carrizal	3
+Casa Blanca	3
+Casa Nueva	3
+Casas de Abajo	3
+Casas del Río	3
+Castellanos	3
+Castrillón	3
+Cea	3
+Céltigos	3
+Cerdeira	3
+Cerredo	3
+Chamoso	3
+Ciruelos	3
+Ciudad Jardín	3
+Coba	3
+Coiro	3
+Collada	3
+Concha	3
+Condado	3
+Corporales	3
+Corrales	3
+Cortiguera	3
+Corvelle	3
+Coto	3
+Crespos	3
+Cubas	3
+Cumbraos	3
+Curra	3
+Delicias	3
+Derramador	3
+Devesa	3
+El Arenal	3
+El Barrio	3
+El Cañuelo	3
+El Castaño	3
+El Castellar	3
+El Castillo	3
+El Castro	3
+El Cerezo	3
+El Chorrillo	3
+El Esparragal	3
+El Espinar	3
+El Estrecho	3
+El Grado	3
+El Grao	3
+El Guijo	3
+El Horcajo	3
+El Jaral	3
+El Mojón	3
+El Molar	3
+El Molinillo	3
+El Olivar	3
+El Palacio	3
+El Palmar	3
+El Pardo	3
+El Perelló	3
+El Prado	3
+El Puente	3
+El Realengo	3
+El Romeral	3
+El Roque	3
+El Torno	3
+El Vado	3
+Elizalde	3
+Entrambasaguas	3
+Entrepeñas	3
+Entrerríos	3
+Escalona	3
+Escalonilla	3
+Espasande	3
+Estacas	3
+Esteiro	3
+Fabal	3
+Farnadeiros	3
+Ferreros	3
+Ferroy	3
+Figaredo	3
+Figueiras	3
+Figueiredo	3
+Figueroa	3
+Folgosa	3
+Fontao	3
+Fontoria	3
+Fornelos	3
+Fresneda	3
+Froján	3
+Froyán	3
+Fuejo	3
+Fuencaliente	3
+Fuente del Pino	3
+Fuentesaúco	3
+Galegos	3
+Gallinero	3
+Gamonal	3
+Godos	3
+Goiburu	3
+Grijoa	3
+Grou	3
+Guimarey	3
+Helguera	3
+Herías	3
+Herreros	3
+Higueruela	3
+Huerta	3
+Iglesia	3
+Jesús	3
+La Calera	3
+La Calzada	3
+La Canaleja	3
+La Concepción	3
+La Costa	3
+La Cruz	3
+La Cueva	3
+La Cumbre	3
+La Dehesa	3
+La Dehesilla	3
+La Encina	3
+La Ermita	3
+La Esperanza	3
+La Espina	3
+La Frecha	3
+La Lastra	3
+La Loma	3
+La Losilla	3
+La Mortera	3
+la palma	3
+La Pared	3
+La Parrilla	3
+La Parte	3
+La Peña	3
+La Penilla	3
+La Pera	3
+La Peral	3
+La Puerta	3
+La Seca	3
+La Yedra	3
+Lagoa	3
+Laje	3
+Landa	3
+Las Cabañas	3
+Las Cabezadas	3
+Las Eras	3
+Las Fuentes	3
+Las Herrerías	3
+Las Lomas	3
+Las Murias	3
+Las Palomas	3
+Las Quintanas	3
+Las Torres	3
+Lavandera	3
+Laxe	3
+Leirado	3
+León	3
+Les Olives	3
+Lizarraga	3
+Lloreda	3
+Lomba	3
+Loredo	3
+Los Barrios	3
+Los Campillos	3
+Los Charcos	3
+Los Conesas	3
+Los Dolores	3
+Los Giles	3
+Los López	3
+Los Prados	3
+Los Ruices	3
+Los Santos	3
+Los Valles	3
+Losilla	3
+Loureda	3
+Mao	3
+Mar	3
+Marzán	3
+Masegoso	3
+Mata	3
+Mazo	3
+Mediavilla	3
+Mercadillo	3
+Mestas	3
+Mieres	3
+Milleirós	3
+Miraflores	3
+Miraz	3
+Moeche	3
+Monasterio	3
+Mondoñedo	3
+Mones	3
+Monte de Meda	3
+Monterroso	3
+Montes	3
+Morás	3
+Mourelle	3
+Moya	3
+Muriellos	3
+Nande	3
+Narón	3
+Nava	3
+Navallo	3
+Nespereira	3
+Niñodaguía	3
+Nocedo	3
+Novales	3
+O Seixo	3
+Oca	3
+Olaberria	3
+Osma	3
+Padornelo	3
+Palomares	3
+Pandiello	3
+Pedraza	3
+Pedreira	3
+Pedrera	3
+Pedrosa	3
+Peñaflor	3
+Peñarrubia	3
+Penedo	3
+Pereiro	3
+Pías	3
+Piedrahita	3
+Piñeiros	3
+Piñeres	3
+Piñor	3
+Pol	3
+Porciles	3
+Porqueira	3
+Portillo	3
+Puente Nuevo	3
+Puertas	3
+Puerto	3
+Quintanilla del Monte	3
+Rabal	3
+Real	3
+Rebollada	3
+Recesende	3
+Retorta	3
+Retortillo	3
+Retuerta	3
+Riaño	3
+Ribadulla	3
+Ribarteme	3
+Ribela	3
+Riobó	3
+Ríofrío	3
+Roces	3
+Rosales	3
+Rozas	3
+Rucandio	3
+Rueda	3
+Sabucedo	3
+Sales	3
+Salgueiros	3
+San Andres	3
+San Antón	3
+San Bernardo	3
+San Cosme	3
+San Feliz	3
+San Francisco	3
+San Pedro de las Dueñas	3
+San Torcuato	3
+Sant Jordi	3
+Sant Ponç	3
+Santa Barbara	3
+Santa Coloma	3
+Santelices	3
+Santibáñez	3
+Santillán	3
+Santo Domingo	3
+Santo Tomé	3
+Santotís	3
+Santovenia	3
+Santurde	3
+Sarria	3
+Seira	3
+Seixo	3
+Sevane	3
+Silvallana	3
+Sisto	3
+Sixto	3
+Sobradelo	3
+Sobrepeña	3
+Solveira	3
+Somoza	3
+Son	3
+Suevos	3
+Tabladillo	3
+Tarrío	3
+Tejares	3
+Tobes	3
+Toldaos	3
+Toril	3
+Torneiros	3
+Trabada	3
+Trasierra	3
+Trives	3
+Truébano	3
+Tuiriz	3
+Úbeda	3
+Valbona	3
+Valbuena	3
+Valdeconejos	3
+Valdeprado	3
+Valderas	3
+Vales	3
+Valín	3
+Veneros	3
+Ventosilla	3
+Viana	3
+Vide	3
+Vieiro	3
+Vilaplana	3
+Vilarello	3
+Vilavella	3
+Villaescusa	3
+Villafranca	3
+Villalba	3
+Villalonga	3
+Villamar	3
+Villamartín	3
+Villameá	3
+Villamor	3
+Villares	3
+Villarmayor	3
+Villasante	3
+Villaseco	3
+Villasuso	3
+Villegas	3
+Villoría	3
+Viloria	3
+Viña	3
+Xinzo	3
+Zaballa	3
+Zubieta	3
+Zubillaga	3
+A Broza	2
+A Cabana	2
+A Cal	2
+A Canda	2
+A Costa	2
+A Graña	2
+A Madalena	2
+A Mezquita	2
+A Pena	2
+A Peroxa	2
+A Ponte	2
+A Portela	2
+A seara	2
+A Torre	2
+A Veiguiña	2
+Abeancos	2
+Abeleda	2
+Abeledo	2
+Abelenda	2
+Ablaneda	2
+Acebo	2
+Acered	2
+Adrados	2
+Agar	2
+Aguadulce	2
+Agüero	2
+Aguiar	2
+Aguilar	2
+Ahedo	2
+Aia	2
+Aizpea	2
+Akorda	2
+Alaje	2
+Alameda	2
+Albaida	2
+Albaladejo	2
+Albán	2
+Albaredos	2
+Alberite	2
+Alcántara	2
+Alcantarilla	2
+Alcocer	2
+Alcolea	2
+Aldaba	2
+Aldea	2
+Aldea de Arriba	2
+Aldealafuente	2
+Aldeanueva	2
+Aldeavieja	2
+Aldehuela del Codonal	2
+Alegia	2
+Almagro	2
+Almansa	2
+Almendra	2
+Almoguera	2
+Alto	2
+Altzibar	2
+Altzola	2
+Amandi	2
+Ambasaguas	2
+Ambroz	2
+Amer	2
+Amposta	2
+Anciles	2
+Ancorados	2
+Andosilla	2
+Ángeles	2
+Angostina	2
+Anguix	2
+Angustina	2
+Anlló	2
+Ansemil	2
+Antas	2
+Antigua	2
+Antoñana	2
+Ánxeles	2
+Apregación	2
+Aranibar	2
+Arapiles	2
+Araujo	2
+Araya	2
+Arbeyales	2
+Árbol	2
+Arbolí	2
+Arca	2
+Arceo	2
+Archidona	2
+Arconada	2
+Ardanaz	2
+Areas	2
+Areños	2
+Aretxabaleta	2
+Arévalo	2
+Argañoso	2
+Argas	2
+Argés	2
+Argüelles	2
+Arguijo	2
+Arkotxa	2
+Armariz	2
+Armea	2
+Armentia	2
+Armilda	2
+Arnado	2
+Arnedo	2
+Arnego	2
+Arrecife	2
+Arriba	2
+Arrós	2
+Arroyal	2
+Arroyofrío	2
+Arteaga	2
+Artes	2
+Artieda	2
+Arzúa	2
+Aspra	2
+Astigarraga	2
+Augasantas	2
+Auzotxikia	2
+Avilés	2
+Ayones	2
+Ayuela	2
+Azkenportu	2
+Baiña	2
+Baldomar	2
+Ballesteros	2
+Balmonte	2
+Balonga	2
+Bande	2
+Baño	2
+Barca	2
+Bárcenas	2
+Barcenilla	2
+Barjas	2
+Baró	2
+Barral	2
+Barreda	2
+Barrenetxe	2
+Barriga	2
+Barrio Bajo	2
+Barrio de la Estación	2
+Barriopalacio	2
+Barros	2
+Barrosa	2
+Bascuas	2
+Basozabal	2
+Bastavales	2
+Bastida	2
+Batallanes	2
+Bayas	2
+Beade	2
+Becerril	2
+Beiro	2
+Bélmez	2
+Benatae	2
+Benavente	2
+Bengoetxea	2
+Benquerencia	2
+Beraun	2
+Bercedo	2
+Bercimuelle	2
+Berducido	2
+Bergondo	2
+Bernales	2
+Bernia	2
+Bernúy	2
+Berrocal	2
+Bezares	2
+Bidebieta	2
+Bikuña	2
+Bilbao	2
+Biniali	2
+Boado	2
+Bobadela	2
+Boimorto	2
+Boiro	2
+Bores	2
+Borgonyà	2
+Bouzas	2
+Brácana	2
+Braña del Río	2
+Brañavieja	2
+Bricia	2
+Brieva	2
+Bugallido	2
+Buitrago	2
+Buján	2
+Burgo	2
+Busmayor	2
+Bustasur	2
+Bustillo del Páramo	2
+Butarque	2
+Cabaleiros	2
+Cabanelas	2
+Cabanes	2
+Cabeza Gorda	2
+Cabo Blanco	2
+Caborno	2
+Cabra	2
+Cabral	2
+Cabreira	2
+Cabrera	2
+Cabrerizas	2
+Cabrillas	2
+Cabrojo	2
+Cacabelos	2
+Cala d'Or	2
+Cala Llonga	2
+Calabazas	2
+Calatañazor	2
+Caldelas	2
+Calderón	2
+Calella	2
+Callobre	2
+Calonge	2
+Cámara	2
+Camarillas	2
+Cambre	2
+Cambrils	2
+Camesa	2
+Campa	2
+Campo Bajo	2
+Campohermoso	2
+Campomanes	2
+Camposancos	2
+Cañada	2
+Cañada de la Jara	2
+Cañaveral	2
+Candanal	2
+Candás	2
+Candeda	2
+Candín	2
+Candón	2
+Caniles	2
+Cañizares	2
+Cantallops	2
+Cantarranas	2
+Canteras	2
+Capilla	2
+Carantoña	2
+Carazo	2
+Carbajosa	2
+Carballeda	2
+Carboneras	2
+Carceda	2
+Cárdenas	2
+Cardeñosa	2
+Cardes	2
+Caricedo	2
+Cármenes	2
+Carnota	2
+Carrascal	2
+Carrascalino	2
+Carrocera	2
+Cartuja Baja	2
+Casa Grande	2
+Casais	2
+Casas Altas	2
+Casas de Don Pedro	2
+Casas de la Peña	2
+Casas de Moya	2
+Casas de Penén de Albosa	2
+Casas del Monte	2
+Cascante	2
+Caserío El Pozuelo	2
+Casicas	2
+Castandiello	2
+Castanedo	2
+Castañoso	2
+Castejón	2
+Castellana	2
+Castellar de la Frontera	2
+Castellote	2
+Castilblanco	2
+Castillejos	2
+Castiñeira	2
+Castiñeiras	2
+Castrejón	2
+Castrelos	2
+Castro de Amarante	2
+Castromayor	2
+Castromil	2
+Castroverde	2
+Castroviejo	2
+Catral	2
+Caudé	2
+Cazalla	2
+Cazorla	2
+Cebreiro	2
+Cedeira	2
+Ceilán	2
+Celada	2
+Celeiros	2
+Celorio	2
+Cepeda	2
+Cerdedo	2
+Cerecedo	2
+Cereijo	2
+Cernado	2
+Cervela	2
+Cervera	2
+Chacín	2
+Chaguazoso	2
+Chaín	2
+Chamartín	2
+Chaparral	2
+Chas	2
+Chave	2
+Chera	2
+Chilches	2
+Chorente	2
+Chueca	2
+Cigüenza	2
+Cillas	2
+Cimadevila	2
+Cincovillas	2
+Claravalls	2
+Coañana	2
+Cobas	2
+Cobeña	2
+Cobres	2
+Coea	2
+Coedo	2
+Coence	2
+Cohiño	2
+Colina	2
+Collados	2
+Comba	2
+Comillas	2
+Concepción	2
+Conforcos	2
+Congosto	2
+Consolación	2
+Contreras	2
+Cope	2
+Corbera	2
+Corchuela	2
+Corcos	2
+Cordovilla	2
+Corias	2
+Córneas	2
+Corneda	2
+Cornide	2
+Coro	2
+Corrubedo	2
+Cortegana	2
+Cortijo de Arriba	2
+Cortijo Grande	2
+Cortina	2
+Cortos	2
+Corvera	2
+Cos	2
+Cospeito	2
+Cotaredo	2
+Cotarelo	2
+Cotorraso	2
+Couzadoiro	2
+Cova	2
+Covarrubias	2
+Creixell	2
+Cristimil	2
+Crucero	2
+Cubelas	2
+Cubelo	2
+Cubilla	2
+Cuéllar	2
+Cuenca	2
+Cuerres	2
+Cuerrías	2
+Cuesta	2
+Cuevas de Río Baza	2
+Cuevas Labradas	2
+Cuiñas	2
+Cuns	2
+Cures	2
+Currás	2
+Curro	2
+Cutián	2
+Dadín	2
+Damil	2
+Daroca de Rioja	2
+Dehesa	2
+Deva	2
+Distriz	2
+Doade	2
+Dodro	2
+Dolores	2
+Domeño	2
+Domingo Pérez	2
+Don Benito	2
+Donas	2
+Dóriga	2
+Duio	2
+Duruelo	2
+Edrada	2
+Egia	2
+Eitzaga	2
+Eixample	2
+El Alamillo	2
+El Álamo	2
+El Algarbejo	2
+El Almicerán	2
+El Berrueco	2
+El Bocal	2
+El Bosque	2
+El Burgo	2
+El Campico	2
+El Cañar	2
+El Cantal	2
+El Canyet	2
+El Carretón	2
+El Casar	2
+El Castañar	2
+El Cepero	2
+El Cerezal	2
+El Cerro	2
+El Charco	2
+El Charcón	2
+El Chopo	2
+El Cid	2
+el Coll	2
+El Colmenar	2
+El Convento	2
+El Cortijo Blanco	2
+El Cuadro	2
+El Cubillo	2
+El Cuervo	2
+El Cueto	2
+El Escorial	2
+El Espín	2
+El Espinillo	2
+El Espino	2
+El Ganso	2
+El Golfo	2
+El Guincho	2
+El Hornillo	2
+El Humo	2
+El Mármol	2
+El Masnou	2
+El Mazo	2
+El Molinar	2
+El Montico	2
+El Moral	2
+El Ojuelo	2
+El Olmo	2
+El Otero	2
+El Palomar	2
+El Paraíso	2
+El Parral	2
+El Pedregal	2
+El Pedrosillo	2
+El Peñón	2
+El Peral	2
+El Pino	2
+El Pla dels Pastors	2
+El Plano	2
+el Poblenou	2
+El Pocico	2
+El Poyo	2
+El Puig	2
+El Quejigal	2
+El Royo	2
+El Sahuco	2
+El Sardinero	2
+El Sotillo	2
+El Soto	2
+El Tablero	2
+El Teatino	2
+El Tejado	2
+El Tesoro	2
+El Tobar	2
+El Toro	2
+El Toyo	2
+El Varadero	2
+El Villarejo	2
+Elizondo	2
+Elorregi	2
+Elorriaga	2
+els Vilars	2
+Embid	2
+Encinares	2
+Entralgo	2
+Entrambosríos	2
+Ergoena	2
+Errekaballara	2
+Errekaldea	2
+Errenteria	2
+Escobal	2
+Escobar	2
+Escobedo	2
+Escobio	2
+Escuredo	2
+Esfarrapa	2
+Esgos	2
+Esparragal	2
+Esparza	2
+Espejo	2
+Espina	2
+Espinaredo	2
+Espiñeira	2
+Espiniella	2
+Esposende	2
+Esquíroz	2
+Estrada	2
+Estrella	2
+Etxaguen	2
+Etxeberri	2
+Etxezarreta	2
+Fafián	2
+Fano	2
+Fao	2
+Faro	2
+Favara	2
+Fecha	2
+Feleches	2
+Feria	2
+Ferreiravella	2
+Ferreirola	2
+Ferrera	2
+Ferreras	2
+Figares	2
+Figueira	2
+Figueiroa	2
+Figueiroá	2
+Figueretes	2
+Flores	2
+Fojas	2
+Folgueiras	2
+Fombellida	2
+Fontanar	2
+Fonteita	2
+Fontela	2
+Fonteta	2
+Forcadela	2
+Forcarei	2
+Forcas	2
+Forna	2
+Fornells	2
+Fornillos	2
+Foyedo	2
+Foz	2
+Fraga	2
+Freán	2
+Freijeiro	2
+Freixeiro	2
+Frejulfe	2
+Fresnedilla	2
+Fresno del Río	2
+Friera	2
+Froufe	2
+Fuenlabrada	2
+Fuente Carrasca	2
+Fuente-Álamo	2
+Furco	2
+Galapagar	2
+Galilea	2
+Gamiz	2
+Gamonedo	2
+Gamones	2
+Gañuelas	2
+Garabelos	2
+Garachico	2
+Garagartza	2
+Garcíez	2
+Gargantilla	2
+Gavilán	2
+Gavilanes	2
+Gazeta	2
+Gema	2
+Gende	2
+Genestosa	2
+Genovés	2
+Gete	2
+Ginestar	2
+Gobantes	2
+Godella	2
+Godón	2
+Goialdea	2
+Goiballara	2
+Goje	2
+Golpellás	2
+Gomariz	2
+Gondar	2
+Gonzar	2
+Gorozika	2
+Gosende	2
+Goyanes	2
+Grado	2
+Grandes	2
+Grandiella	2
+Guadiaro	2
+Guareña	2
+Guijosa	2
+Guillar	2
+Guimara	2
+Hazas	2
+Hedroso	2
+Hellín	2
+Heras	2
+Herbón	2
+Herrán	2
+Higueral	2
+Híjar	2
+Hontanares	2
+Hontoria	2
+Horcajo	2
+Hornos	2
+Hortichuela	2
+Hostafrancs	2
+Hoyos	2
+Hoz de Arriba	2
+Ibiza	2
+Igartza	2
+Igueste	2
+Ipentza-Garmendia	2
+Irixoa	2
+Isabela	2
+Isla Plana	2
+Itsaso	2
+Ituero	2
+Iturgoien-Lizardi	2
+Iturreta	2
+Iza	2
+Izartza	2
+Jalón	2
+Jarilla	2
+Jausoro	2
+Javiña	2
+Juan XXIII	2
+Jubera	2
+Juncosa	2
+Kurtzea	2
+l'Aigüeta	2
+l'Almadrava	2
+L'Ametlla del Vallès	2
+La Aceña	2
+La Aguilera	2
+La Alberca	2
+La Aldea	2
+La Aldehuela	2
+La Antigua	2
+La Aparecida	2
+La Arquera	2
+La Asomada	2
+La Baña	2
+La Barbolla	2
+la Barceloneta	2
+La Bermeja	2
+La Bobadilla	2
+La Bonanova	2
+La Boquera	2
+La Busta	2
+La Cabezuela	2
+La Cabrera	2
+La Cardenchosa	2
+La Caridad	2
+La Casería	2
+La Cerca	2
+La Colonia	2
+la Coma	2
+La Concha	2
+La Condomina	2
+La Corona	2
+La Coronada	2
+La Corte	2
+La Cuba	2
+La Degollada	2
+La Felguera	2
+La Figal	2
+La Figuera	2
+La Flecha	2
+La Fresneda	2
+La Fuensanta	2
+La Fuente	2
+La Galera	2
+La Garganta	2
+la Garriga	2
+La Guàrdia	2
+La Herguijuela	2
+La Herradura	2
+La Hinojosa	2
+La Horcajada	2
+La Huelga	2
+La Iglesia	2
+La Jara	2
+La Joya	2
+La Junquera	2
+La Llama	2
+La Lobera	2
+La Losa	2
+La Luz	2
+La Majada	2
+La Marina	2
+La Matanza	2
+La Matilla	2
+La Mesa	2
+La Miñosa	2
+La Molata	2
+La Nisal	2
+La Oliva	2
+La Olmeda	2
+La Pereda	2
+La Pesquera	2
+La Piñera	2
+La Pobla de Farnals	2
+La Portilla	2
+La Presa	2
+La Punta	2
+La Quintana	2
+La Rábita	2
+La Rinconada	2
+La Risca	2
+La Roda	2
+La Romana	2
+La Ronda	2
+La Rosa	2
+La Sagrada	2
+la Salut	2
+La Santa	2
+La Sota	2
+La Tala	2
+La Tercia	2
+la Vall	2
+La Veguellina	2
+La Velilla	2
+La Vera	2
+La Veredilla	2
+La Viña	2
+La Viñuela	2
+Labrada	2
+Lacorzana	2
+Ladines	2
+Ladrido	2
+Lagos	2
+Lagostelle	2
+Laiño	2
+Laiseca	2
+Lama	2
+Lamela	2
+Lamuño	2
+Lañas	2
+Langre	2
+Langueirón	2
+Lantero	2
+Larín	2
+Laroá	2
+Larrea	2
+Las Alcubillas Altas	2
+Las Caldas	2
+Las Canales	2
+Las Carboneras	2
+Las Chozas	2
+Las Cobatillas	2
+Las Ermitas	2
+Las Fraguas	2
+Las Higueras	2
+Las Infantas	2
+Las Juntas	2
+Las Labores	2
+Las Lagunetas	2
+Las Manchas	2
+Las Maravillas	2
+Las Mercedes	2
+Las Minas	2
+Las Navas	2
+Las Nieves	2
+Las Nogueras	2
+Las Palmas	2
+Las Playas	2
+Las Quintanillas	2
+Las Rozas	2
+Las Tablas	2
+Las Tiendas	2
+Las Toscas	2
+Las Umbrías	2
+Las Ventas	2
+Las Villas	2
+Las Viñas	2
+Lasarte	2
+Latasa	2
+Latorre	2
+Lavapiés	2
+Lavares	2
+Lea	2
+Lebozán	2
+Ledesma	2
+Legarda	2
+Legazpi	2
+Leiva	2
+Lema	2
+Les	2
+les Cases Noves	2
+Les Corts	2
+Les Mallorquines	2
+les Roquetes	2
+Lestedo	2
+Lestón	2
+Lezama	2
+Lillo	2
+Limiñón	2
+Linarejos	2
+Liñayo	2
+Lira	2
+Llamera	2
+Llanera	2
+Llanes	2
+Llanos	2
+Llera	2
+Lleus	2
+Lluçars	2
+Lobera	2
+Lobios	2
+Lodares	2
+Lodoso	2
+Loiola	2
+Lois	2
+Lorca	2
+Loroño	2
+Los Álamos	2
+Los Alejos	2
+Los Ángeles	2
+Los Arroyos	2
+Los Balcones	2
+Los Barreros	2
+Los Camachos	2
+Los Caños	2
+Los Cantos	2
+Los Carballos	2
+Los Carriles	2
+Los Carriones	2
+Los Celdranes	2
+Los Clementes	2
+Los Corrales	2
+Los Cortados	2
+Los Gallardos	2
+Los Gálvez	2
+Los Garcías	2
+Los Huertos	2
+Los Loberos	2
+Los Madriles	2
+Los Marines	2
+Los Mases	2
+Los Mateos	2
+Los Morabios	2
+Los Palacios	2
+Los Paredes	2
+Los Pavos	2
+Los Pontones	2
+Los Rocas	2
+Los Roses	2
+Los Sapos	2
+Los Sauces	2
+Los Segados	2
+Los Silos	2
+Los Tablones	2
+Los Tornos	2
+Los Urreas	2
+Los Vidales	2
+Los Vivancos	2
+Losón	2
+Louro	2
+Lousadela	2
+Loza	2
+Lugarejos	2
+Lusa	2
+Maceira	2
+Maceiras	2
+Madariaga	2
+Madrigueras	2
+Madrona	2
+Madroñal	2
+Mafalla	2
+Magazos	2
+Mairena	2
+Malagón	2
+Malcocinado	2
+Malillos	2
+Mallón	2
+Malpaís	2
+Malpica	2
+Manán	2
+Manresa	2
+Mansilla	2
+Manzanares	2
+Manzanedo	2
+Manzanera	2
+Manzanillo	2
+Maquirriain	2
+Marcelle	2
+Marchena	2
+Marchenilla	2
+Margarida	2
+Marín	2
+Marines	2
+Mariz	2
+Markina	2
+Marrubio	2
+Martul	2
+Maside	2
+Matabuena	2
+Matagorda	2
+Matallana	2
+Matamá	2
+Matanza	2
+Matela	2
+Matienzo	2
+Mazaira	2
+Mazariegos	2
+Mazarulleque	2
+Mazos	2
+Meaka	2
+Meda	2
+Media Legua	2
+Meilán	2
+Meira	2
+Meirás	2
+Meis	2
+Melias	2
+Mélida	2
+Mendibil	2
+Mendieta	2
+Mercadal	2
+Merlán	2
+Mesones	2
+Mijares	2
+Millares	2
+Miño	2
+Mira	2
+Miralcampo	2
+Miramar	2
+Mirandela	2
+Miravalles	2
+Mironcillo	2
+Miyares	2
+Mogor	2
+Moimenta	2
+Molinar	2
+Molleda	2
+Molledo	2
+Momán	2
+Monegrillo	2
+Monfero	2
+Monleón	2
+Mont-ral	2
+Montalvo	2
+Montán	2
+Montaña	2
+Montañana	2
+Monte Alto	2
+Montealegre	2
+Montecillo	2
+Montefurado	2
+Montellano	2
+Montemayor	2
+Monterrey	2
+Monterrubio	2
+Montgai	2
+Montmajor	2
+Montnegre	2
+Montoto	2
+Montoxo	2
+Montuenga	2
+Morales	2
+Moratalla	2
+Morente	2
+Morgade	2
+Moriana	2
+Morillas	2
+Moro	2
+Mosende	2
+Mourazos	2
+Mourente	2
+Mourisco	2
+Muiños	2
+Muja	2
+Muñoz	2
+Mures	2
+Murgia	2
+Murueta	2
+Naharros	2
+Navacerrada	2
+Navafría	2
+Navahermosa	2
+Navalcán	2
+Navallos	2
+Navalón	2
+Navarredonda	2
+Navarrete	2
+Navas	2
+Navas de San Juan	2
+Naveda	2
+Navedo	2
+Naves	2
+Navia	2
+Nazaret	2
+Neda	2
+Nestares	2
+Nieves	2
+Noalla	2
+Nogales	2
+Nora	2
+Noval	2
+Novás	2
+Novés	2
+O Allo	2
+O Burgo	2
+O Castelo	2
+O Pindo	2
+Obre	2
+Ocaña	2
+Oco	2
+Oia	2
+Ois	2
+Ola	2
+Olabarri	2
+Olabarrieta	2
+Olazabal	2
+Olías	2
+Oliván	2
+Olivares	2
+Olives	2
+Olmillos	2
+Olveira	2
+Oncebreros	2
+Onón	2
+Ordes	2
+Orellán	2
+Oria	2
+Oroso	2
+Orrea	2
+Órrea	2
+Orro	2
+Ortigosa	2
+Otazu	2
+Oteiza	2
+Oteo	2
+Otos	2
+Otura	2
+Oural	2
+Ouría	2
+Oza	2
+Pacio	2
+Padrenda	2
+Padrón	2
+Pagoeta	2
+Pájara	2
+Pajarejos	2
+Palacios	2
+Palazuelos	2
+Palmeira	2
+Palol	2
+Palomar	2
+Palomas	2
+Paniceres	2
+Para	2
+Paradas	2
+Paradaseca	2
+Paradiña	2
+Páramos	2
+Parderrubias	2
+Pardos	2
+Pasantes	2
+Pasarón	2
+Pascualcobo	2
+Paulenca	2
+Pechina	2
+Pedra	2
+Pedro Muñoz	2
+Pedrosa del Rey	2
+Peña Rubia	2
+Peñacastillo	2
+Peñalba	2
+Peñalosa	2
+Peñarroya	2
+Penas	2
+Penela	2
+Penosiños	2
+Penouta	2
+Pentes	2
+Pepín	2
+Perales	2
+Peralta	2
+Pereiriña	2
+Peromingo	2
+Perros	2
+Peruyero	2
+Pesqueiras	2
+Pesquera	2
+Picón	2
+Picones	2
+Piedras Albas	2
+Pilas	2
+Pinedo	2
+Piñeira de Arriba	2
+Pinillos	2
+Pino	2
+Pinos	2
+Pinza	2
+Playa Honda	2
+Plaza	2
+Poio	2
+Poladura	2
+Polopos	2
+Pomar	2
+Pontejos	2
+Pontellas	2
+Pontigo	2
+Pontón	2
+Pontones	2
+Poo	2
+Porcuna	2
+Porta	2
+Portazgo	2
+Portugalete	2
+Posadas	2
+Posadorio	2
+Postigo	2
+Poulo	2
+Pozancos	2
+Pozo de la Higuera	2
+Pozo Negro	2
+Pozoblanco	2
+Pozuelo	2
+Pradeda	2
+Pradela	2
+Pradilla	2
+Pradolongo	2
+Prahúa	2
+Presqueiras	2
+Priesca	2
+Pueblo Nuevo	2
+Puerto de la Cruz	2
+Puerto Rey	2
+Puertollano	2
+Pueyo	2
+Puig	2
+Pumarega	2
+Punta Prima	2
+Queizán	2
+Querol	2
+Quintanal	2
+Quintas	2
+Quitapellejos	2
+Rabanal	2
+Rales	2
+Rambla Seca	2
+Rañeces	2
+Ranera	2
+Ranero	2
+Ranón	2
+Rasillo	2
+Raso	2
+Rebolledo	2
+Rebollo	2
+Rebordaos	2
+Reboreda	2
+Recaré	2
+Rececende	2
+Redonda	2
+Redondo	2
+Refojos	2
+Regueira	2
+Reigada	2
+Reigosa	2
+Reinante	2
+Relloso	2
+Remesar	2
+Repostería	2
+Requián	2
+Retamal	2
+Retamar	2
+Revenga	2
+Ribas	2
+Ribeiro	2
+Ribera	2
+Ribón	2
+Ribota	2
+Rieiro	2
+Rigueira	2
+Rinconada	2
+Ríoaveso	2
+Ríomao	2
+Rioseco	2
+Ríotorto	2
+Rivilla de Barajas	2
+Roales	2
+Robledillo	2
+Rocafort	2
+Rodeiro	2
+Rodiles	2
+Rodís	2
+Rois	2
+Rojas	2
+Roma	2
+Ronda	2
+Roo de Abajo	2
+Rosende	2
+Roturas	2
+Roza	2
+Rozabales	2
+Rozadas	2
+Rúa	2
+Rubián	2
+Rubín	2
+Rubiós	2
+Rubite	2
+Rus	2
+Sabugo	2
+Sagra	2
+Saiáns	2
+Salamanca	2
+Salbatore	2
+Salce	2
+Salceda	2
+Salcedillo	2
+Salgueiras	2
+Salientes	2
+Salinas	2
+Sallent	2
+Salmerón	2
+Salobral	2
+Salvador	2
+Sama	2
+Sambreijo	2
+Sampaio	2
+San Adriano	2
+San Agustin	2
+San Agustín	2
+San Amaro	2
+San Antolín	2
+San Bartolome	2
+San Benito	2
+San Carlos	2
+San Claudio	2
+San Clodio	2
+San Cristobal	2
+San Cristóbal del Monte	2
+San Diego	2
+San Emiliano	2
+San Felipe	2
+San Félix	2
+San Fernando	2
+San Gregorio	2
+San Inazio	2
+San Jerónimo	2
+San Jorge	2
+San Jose	2
+San Juan Bautista	2
+San Llorente	2
+San Lorentzo	2
+San Lourenzo	2
+San Luis	2
+San Mateo	2
+San Medel	2
+San Pascual	2
+San Rafael	2
+San Sebastián	2
+Sancedo	2
+Sancti Spíritus	2
+Sandiás	2
+Sandín	2
+Sansoáin	2
+Sant Andreu	2
+Sant Antoni	2
+Sant Daniel	2
+Sant Francesc	2
+Sant Salvador	2
+Santa Anna	2
+Santa Brígida	2
+Santa Catalina	2
+Santa Elena	2
+Santa Eugenia	2
+Santa Eugènia	2
+Santa Gertrudis	2
+Santa Inés	2
+Santa Justa	2
+Santa Luzia	2
+Santa Margarida	2
+Santa María de los Llanos	2
+Santa María de Valverde	2
+Santa María del Mar	2
+Santa Mariña	2
+Santa Quiteria	2
+Santa Susanna	2
+Sante	2
+Santecilla	2
+Santigoso	2
+Santillana	2
+Sarandón	2
+Sarceada	2
+Sarceda	2
+Sardina	2
+Sariego	2
+Seana	2
+Segovia	2
+Segura	2
+Selas	2
+Sena	2
+Senande	2
+Sendelle	2
+Sendón	2
+Sepúlveda	2
+Sequeiros	2
+Sergude	2
+Serín	2
+Serrapio	2
+Serratella	2
+Sésamo	2
+Setcases	2
+Seteventos	2
+Sieteiglesias	2
+Silvela	2
+Simancas	2
+Singla	2
+Sobrada	2
+Sobradillo	2
+Sobredo	2
+Sobreira	2
+Sobrerriba	2
+Sofán	2
+Solaguren	2
+Solanilla	2
+Soldón	2
+Sorgintxulo	2
+Soria	2
+Sorriba	2
+Sotiello	2
+Sotillo	2
+Soutullo	2
+Suegos	2
+Sueiro	2
+Sueros	2
+Tabagón	2
+Taco	2
+Tamaide	2
+Tapia	2
+Taragudo	2
+Tárano	2
+Tarifa	2
+Tarriba	2
+Tébar	2
+Tebra	2
+Teijedo	2
+Teijo	2
+Teixeiro	2
+Teixido	2
+Tejadilla	2
+Tejedal	2
+Tejedo	2
+Tella	2
+Terroso	2
+Tobar	2
+Tobera	2
+Tolosa	2
+Torás	2
+Torce	2
+Tordera	2
+Tormos	2
+Toro	2
+Torralba	2
+Torrecilla	2
+Torrecilla del Pinar	2
+Torrefiel	2
+Torremocha	2
+Torrent	2
+Torrenueva	2
+Torrubia	2
+Tórtoles	2
+Tosende	2
+Tourón	2
+Traba	2
+Trabadelo	2
+Trapiche	2
+Trasancos	2
+Travesas	2
+Tremado	2
+Treto	2
+Treviño	2
+Trigal	2
+Trillo	2
+Tronceda	2
+Troncedo	2
+Trubia	2
+Trujillo	2
+Tudanca	2
+Txingurri	2
+Umbrías	2
+Universidad	2
+Urdaneta	2
+Urdiales	2
+Ures	2
+Uriarte	2
+Uribe	2
+Uriz	2
+Urizar	2
+Urkizu	2
+Urrexola	2
+Urria	2
+Urriós	2
+Used	2
+Valbueno	2
+Valdedo	2
+Valdehierro	2
+Valdelaguna	2
+Valdelinares	2
+Valdemarín	2
+Valdemora	2
+Valdemoro	2
+Valderrueda	2
+Valdesaz	2
+Valdespina	2
+Valencia	2
+Valencia do Sil	2
+Valenzuela	2
+Valladares	2
+Vallcarca	2
+Valle de Oro	2
+Valles	2
+Vallés	2
+Vallgornera	2
+Vallín	2
+Vallvidrera	2
+Valmayor	2
+Valmojado	2
+Valsalobre	2
+Vega del Rey	2
+Veguillas	2
+Veigas	2
+Velasco	2
+Velilla	2
+Vellosillo	2
+Venta	2
+Ventín	2
+Ventosela	2
+Ver	2
+Veredas	2
+Viaña	2
+Vidal	2
+Vidural	2
+Viego	2
+Viescas	2
+Vila	2
+Vilacoba	2
+Vilaesteva	2
+Vilamarín	2
+Vilamitjana	2
+Vilamor	2
+Vilarchao	2
+Vilaseca	2
+Vilaseco	2
+Vilches	2
+Villabáñez	2
+Villabol	2
+Villabuena	2
+Villacorta	2
+Villafeliz	2
+Villaflor	2
+Villaflores	2
+Villafría	2
+Villafruela	2
+Villagarcía	2
+Villalaín	2
+Villalbilla	2
+Villaluenga	2
+Villalvite	2
+Villanueva de la Peña	2
+Villanueva de la Sierra	2
+Villanueva de la Torre	2
+Villanueva del Rey	2
+Villanueva del Río	2
+Villaoril	2
+Villapedre	2
+Villaquinte	2
+Villar de Santiago	2
+Villar del Rey	2
+Villarán	2
+Villarente	2
+Villargordo	2
+Villarino	2
+Villariño	2
+Villaselán	2
+Villatoro	2
+Villaverde del Monte	2
+Villaveta	2
+Villaviciosa	2
+Villavieja	2
+Villela	2
+Vilouriz	2
+Vimianzo	2
+Vimieiro	2
+Viñón	2
+Viñuelas	2
+Vioño	2
+Visantoña	2
+Viso	2
+Vista Hermosa	2
+Vistabella	2
+Viveiro	2
+Viver	2
+Vivero	2
+Vozmediano	2
+Xestoso	2
+Xubia	2
+Xuvencos	2
+Yebra	2
+Yeste	2
+Zabaleta	2
+Zafra	2
+Zamora	2
+Zapateros	2
+Zaratán	2
+Zarza	2
+Zarzuela del Monte	2
+Zelaia	2
+Zorita	2
+Zubia	2
+Zubiaur	2
+Zuhatzu	2
+Zújar	2
+Zuloaga	2
+Zúñiga	2
+A Baña
+A Coruña
+A Estrada
+A Pobra do Brollon
+A Pobra do Caramiñal
+A Ramallosa
+A Rúa
+Abadín
+Abanilla
+Abarán
+Abegondo
+Abenójar
+Abla
+Abrantes
+Abrera
+Abrucena
+Acacias
+Aceuchal
+Adamuz
+Adeje
+Adelfas
+Ademuz
+Ador
+Adra
+Adzaneta
+Aeropuerto
+Agaete
+Agost
+Agramunt
+Ágreda
+Aguilar de Campoo
+Águilas
+Agüimes
+Agullent
+Agulo
+Agurain
+Ahigal
+Ahillones
+Aielo de Malferit
+Aiguafreda
+Aínsa
+Ainzón
+Aitona
+Ajalvir
+Ajofrín
+Alaejos
+Alagón
+Alaior
+Alajeró
+Alameda de Osuna
+Alange
+Alaquàs
+Alar del Rey
+Alaró
+Alàs i Cerc
+Alba de Tormes
+Albacete
+Albaida del Aljarafe
+Albal
+Albalat de la Ribera
+Albalat dels Sorells
+Albalate de Cinca
+Albalate del Arzobispo
+Albatera
+Albelda de Iregua
+Alberche del Caudillo
+Alberic
+Albesa
+Albocàsser
+Albolote
+Alboraya
+Albox
+Albudeite
+Albuixech
+Albuñol
+Albuñuelas
+Alburquerque
+Alcalá de Guadaira
+Alcalá de Henares
+Alcalá de los Gazules
+Alcalà de Xivert
+Alcalá del Júcar
+Alcalá del Río
+Alcalá del Valle
+Alcalá la Real
+Alcalalí
+Alcanar
+Alcañices
+Alcañiz
+Alcàntera de Xúquer
+Alcaracejos
+Alcaraz
+Alcarràs
+Alcàsser
+Alcaucín
+Alcaudete
+Alcázar de San Juan
+Alcobendas
+Alcocéber
+Alcolea de Calatrava
+Alcolea de Cinca
+Alcolea del Río
+Alcoletge
+Alconchel
+Alcorcón
+Alcorisa
+Alcover
+Alcoy
+Alcúdia
+Alcuéscar
+Aldaia
+Aldea del Fresno
+Aldea del Rey
+Aldeadávila de la Ribera
+Aldeanueva de Ebro
+Aldeanueva de la Vera
+Alella
+Alfacar
+Alfafar
+Alfajarín
+Alfamén
+Alfara del Patriarca
+Alfarnate
+Alfaro
+Alfarp
+Alfarràs
+Alfarrasí
+Alforja
+Algámitas
+Algarinejo
+Algarrobo
+Algeciras
+Algemesí
+Algete
+Alginet
+Algodonales
+Algorfa
+Algorta
+Alguaire
+Alguazas
+Algueña
+Alhama de Almería
+Alhama de Aragón
+Alhama de Granada
+Alhama de Murcia
+Alhambra
+Alhaurín de la Torre
+Alhaurín el Grande
+Alhendín
+Alía
+Alicante
+Aliseda
+Aljaraque
+Allariz
+Allo
+Almacelles
+Almáchar
+Almadén
+Almaraz
+Almargen
+Almassora
+Almazán
+Almedinilla
+Almenar
+Almendral
+Almendralejo
+Almendrales
+Almendricos
+Almensilla
+Almería
+Almodóvar del Campo
+Almodóvar del Río
+Almogía
+Almoharín
+Almoines
+Almonte
+Almoradí
+Almorox
+Almoster
+Almozara
+Almudévar
+Almuñécar
+Almussafes
+Alora
+Alosno
+Alovera
+Alozaina
+Alp
+Alpedrete
+Alpera
+Alpicat
+Alquerías
+Alquerías del Niño Perdido
+Altafulla
+Altea
+Altsasu
+Altura
+Aluche
+Alzira
+Ambía
+Amoeiro
+Amorebieta
+Ampuero
+Amurrio
+Andoain
+Andorra
+Andratx
+Andújar
+Anglès
+Anglesola
+Anna
+Añora
+Añover de Tajo
+Antella
+Antequera
+Aoiz
+Apostol Santiago
+Aracena
+Arafo
+Araia
+Aranda de Duero
+Aranga
+Aranjuez
+Aravaca
+Arbeca
+Arbo
+Arboleas
+Archena
+Arcos de Jalón
+Arcos de la Frontera
+Ardales
+Arenas de Iguña
+Arenas de San Juan
+Arenas de San Pedro
+Arenas del Rey
+Arenys de Mar
+Arenys de Munt
+Argamasilla de Alba
+Argamasilla de Calatrava
+Arganda
+Arganzuela
+Argentona
+Argoños
+Arguedas
+Ariza
+Arjona
+Arjonilla
+Armilla
+Aroche
+Arona
+Arquillos
+Arrasate
+Arriate
+Arrigorriaga
+Arróniz
+Arroyo de la Encomienda
+Arroyo de la Luz
+Arroyo de la Miel
+Arroyo de San Serván
+Arroyo del Ojanco
+Arroyomolinos
+Artà
+Artajona
+Artana
+Arteixo
+Artenara
+Artés
+Artesa de Segre
+Arucas
+As Pontes de García Rodríguez
+Ascó
+Aspe
+Asteasu
+Astorga
+Astudillo
+Atamaría
+Atarfe
+Atarrabia
+Ataun
+Ateca
+Atocha
+Atzeneta d'Albaida
+Autol
+Ávila
+Avinyó
+Avión
+Axpe-San Bartolome
+Ayamonte
+Ayegui
+Ayllón
+Ayora
+Azagra
+Azkoitia
+Aznalcázar
+Aznalcóllar
+Azpeitia
+Azuaga
+Azuqueca de Henares
+Badajoz
+Badalona
+Badolatosa
+Baena
+Baeza
+Bagà
+Bailén
+Baiona
+Balaguer
+Balazote
+Balmaseda
+Balsareny
+Baltanás
+Baños de la Encina
+Baños de Molgas
+Baños de Río Tobía
+Banyoles
+Barajas de Madrid
+Barakaldo
+Baralla
+Barañáin
+Barbastro
+Barbate
+Barberà del Vallès
+Barcarrota
+Barcelona
+Bárcena de Cicero
+Bareyo
+Bargas
+Barlovento
+Baró de Viver
+Barraco
+Barrax
+Barri de les Corts
+Barri de Sant Andreu
+Barri Gòtic
+Barrio de la Concepción
+Barrio de Peral
+Barruelo de Santullán
+Barx
+Barxeta
+Basauri
+Batea
+Batres
+Baza
+Beas
+Beas de Granada
+Beas de Segura
+Beasain
+Becerreá
+Becerril de la Sierra
+Begíjar
+Begonte
+Begues
+Begur
+Béjar
+Belalcázar
+Belchite
+Bellas Vistas
+Bellcaire d'Urgell
+Bellpuig
+Bellreguard
+Bellver de Cerdanya
+Bellvís
+Bélmez de la Moraleda
+Belmonte de Tajo
+Belorado
+Belver de Cinca
+Belvis de la Jara
+Benacazón
+Benaguasil
+Benahadux
+Benahavís
+Benalmádena
+Benalúa de Guadix
+Benalúa de las Villas
+Benalup-Casas Viejas
+Benamargosa
+Benamaurel
+Benamejí
+Benamocarra
+Benaoján
+Benasque
+Benassal
+Benavarri
+Benavides
+Beneixama
+Benejúzar
+Benetússer
+Benferri
+Beniaján
+Beniarbeig
+Beniarjó
+Beniarrés
+Benicarló
+Benicàssim
+Benidorm
+Beniel
+Benifaió
+Benifairó de les Valls
+Benigànim
+Benijofar
+Benimodo
+Beniparrell
+Benirredrà
+Benisanó
+Benissa
+Benitachell
+Benzú
+Bera
+Berango
+Berga
+Bergara
+Beriáin
+Berja
+Berlanga
+Berlanga de Duero
+Bermeo
+Bermillo de Sayago
+Berriatua
+Berriobeiti
+Berriozar
+Berriz
+Berruguete
+Besalú
+Bescanó
+Betanzos
+Bétera
+Betxí
+Biar
+Bienvenida
+Bigastro
+Bigues i Riells
+Bimenes
+Binaced
+Binéfar
+Binissalem
+Biota
+Blanca
+Blancos
+Blanes
+Blimea
+Boadilla del Monte
+Boal
+Boalo
+Boborás
+Bocairent
+Boecillo
+Bogarra
+Bolaños de Calatrava
+Bolbaite
+Bollullos de la Mitación
+Bollullos par del Condado
+Boñar
+Bonares
+Bonete
+Bordils
+Borja
+Bormujos
+Bornos
+Borox
+Borriol
+Brazatortas
+Brea de Aragón
+Breda
+Breña Alta
+Breña Baja
+Brenes
+Brihuega
+Briviesca
+Brozas
+Brunete
+Buenavista del Norte
+Bueu
+Buitrago del Lozoya
+Bujalance
+Bullas
+Buñol
+Buñuel
+Bunyola
+Burela de Cabo
+Burgohondo
+Burgos
+Burguillos
+Burguillos de Toledo
+Burguillos del Cerro
+Burjassot
+Burlata
+Burriana
+Burujón
+Busot
+Bustarviejo
+Cabañas de la Sagra
+Cabanillas del Campo
+Cabecicos
+Cabeza del Buey
+Cabeza la Vaca
+Cabezón
+Cabezón de la Sal
+Cabezuela del Valle
+Cabra del Santo Cristo
+Cabrera de Mar
+Cabrerizos
+Cabrils
+Cáceres
+Cadaqués
+Cádiar
+Cadiz
+Cadreita
+Cadrete
+Cájar
+Cala Millor
+Cala Rajada
+Calaceite
+Calaf
+Calafell
+Calahorra
+Calamocha
+Calamonte
+Calañas
+Calanda
+Calasparra
+Calatayud
+Calatorao
+Caldas de Reis
+Caldes de Montbui
+Calera y Chozas
+Càlig
+Callosa de Segura
+Calp
+Calvià
+Camarena
+Camargo
+Camariñas
+Camarma de Esteruelas
+Camas
+Cambados
+Cambil
+Caminomorisco
+Camp de Mar
+Campamento
+Campanario
+Campanet
+Campaspero
+Campdevànol
+Campillo de Altobuey
+Campillo de Arenas
+Campillo de Llerena
+Campillos
+Campiña
+Campo de Caso
+Campo de Criptana
+Campo Real
+Camponaraya
+Camporrobles
+Campos del Río
+Campotéjar
+Camprodon
+Camuñas
+Can Baró
+Can Pastilla
+Can Peguera
+Can Picafort
+Cañada Rosal
+Canals
+Cañamero
+Candelaria
+Candeleda
+Canena
+Canet d'En Berenguer
+Canet de Mar
+Cañete de las Torres
+Cañete la Real
+Cangas de Onís
+Cangas del Narcea
+Cangas do Morrazo
+Canillas
+Canillas de Aceituno
+Canillejas
+Canjáyar
+Canovelles
+Cànoves i Samalús
+Cantalapiedra
+Cantalejo
+Cantillana
+Cantimpalos
+Cantoria
+Caparroso
+Capdepera
+Capellades
+Carabaña
+Carabanchel
+Caravaca
+Carbajosa de la Sagrada
+Carballeda de Avia
+Carbonero el Mayor
+Carcabuey
+Carcaixent
+Cárcar
+Carcastillo
+Càrcer
+Cardedeu
+Cardeña
+Cardona
+Cariñena
+Cariño
+Carlet
+Carracedelo
+Carranque
+Carreña
+Carrión de Calatrava
+Carrión de los Céspedes
+Carrión de los Condes
+Carrizo de la Ribera
+Carrizosa
+Cartagena
+Cártama
+Cartaya
+Cartelle
+Cartes
+Casa de Campo
+Casabermeja
+Casalarreina
+Casar de Cáceres
+Casar de Palomero
+Casarabonela
+Casariche
+Casarrubios del Monte
+Casarrubuelos
+Casas de Fernando Alonso
+Casas de Juan Núñez
+Casas Ibáñez
+Casasimarro
+Casatejada
+Casavieja
+Casco Histórico de Barajas
+Casco Histórico de Vallecas
+Casco Histórico de Vicálvaro
+Casinos
+Caspe
+Cassà de la Selva
+Castalla
+Castell de Ferro
+Castell-Platja d'Aro
+Castellar de Santiago
+Castellar de Santisteban
+Castellar del Vallès
+Castellbisbal
+Castelldefels
+Castellet
+Castelló d'Empúries
+Castelló de la Plana
+Castelló de Rugat
+Castellserà
+Castellví de Rosanes
+Castilblanco de los Arroyos
+Castilla
+Castilleja de Guzmán
+Castilleja de la Cuesta
+Castilléjar
+Castillo de Bayuela
+Castillo de Locubín
+Castrelo de Miño
+Castril
+Castro Caldelas
+Castro de Rei
+Castro del Río
+Castro-Urdiales
+Castrocalbón
+Castrocontrigo
+Castropodame
+Castuera
+Catadau
+Catarroja
+Catoira
+Caudete
+Cazalegas
+Cebolla
+Cebreros
+Ceclavín
+Cedillo del Condado
+Cee
+Cehegín
+Celanova
+Cella
+Celrà
+Cenes de la Vega
+Cenicero
+Cenizate
+Cenlle
+Centelles
+Centro
+Cercedilla
+Cerdanyola del Vallès
+Cerdido
+Cervelló
+Cervera de Pisuerga
+Cervera del Río Alhama
+Cervo
+Cesuras
+Ceuta
+Ceuti
+Chamberí
+Chantada
+Chapinería
+Chauchina
+Cheles
+Chella
+Chelva
+Cheste
+Chiclana de la Frontera
+Chiclana de Segura
+Chilluévar
+Chiloeches
+Chimeneas
+Chinchilla de Monte Aragón
+Chinchón
+Chipiona
+Chirivel
+Chiva
+Chopera
+Chozas de Abajo
+Chozas de Canales
+Chucena
+Churra
+Churriana de la Vega
+Ciempozuelos
+Cieza
+Cifuentes
+Cigales
+Cijuela
+Cilleros
+Cintruénigo
+Cistérniga
+Cistierna
+Ciudad Lineal
+Ciudad Quesada
+Ciudad Real
+Ciudad Rodrigo
+Ciudad Universitaria
+Ciutadella
+Ciutat Meridiana
+Ciutat Vella
+Coaña
+Cobeja
+Cobisa
+Coca
+Cocentaina
+Coín
+Coirós
+Coles
+Colindres
+Coll d'en Rabassa
+Collado Mediano
+Collado-Villalba
+Collbató
+Colmenar
+Colmenar de Oreja
+Colmenar del Arroyo
+Colmenar Viejo
+Colmenarejo
+Colomera
+Colònia de Sant Jordi
+Colunga
+Coma-ruga
+Comares
+Combarro
+Cómpeta
+Conil de la Frontera
+Consell
+Constantí
+Constantina
+Consuegra
+Corbera de Llobregat
+Corbins
+Corcubión
+Córdoba
+Cordobilla de Lácara
+Corella
+Coreses
+Corgo
+Coria
+Coria del Río
+Coripe
+Coristanco
+Cornellà de Llobregat
+Corral de Almaguer
+Corral de Calatrava
+Corralejos
+Corte de Peleas
+Cortes de Baza
+Cortes de la Frontera
+Corullón
+Corvera de Asturias
+Coslada
+Costa Calma
+Costa Teguise
+Costacabana
+Costillares
+Covaleda
+Cox
+Cózar
+Crevillente
+Cruce de Arinaga
+Cruïlles
+Cuadros
+Cualedro
+Cuarte de Huerva
+Cuatro Caminos
+Cuatro Vientos
+Cubelles
+Cubillos del Sil
+Cudillero
+Cuerva
+Cuevas Bajas
+Cuevas de San Marcos
+Cuevas de Vinromá
+Cuevas del Almanzora
+Cuevas del Becerro
+Cuevas del Campo
+Cúllar-Vega
+Cullera
+Culleredo
+Cunit
+Cuntis
+Daganzo de Arriba
+Daimiel
+Daimús
+Dalías
+Daroca
+Darro
+Daya Nueva
+Deba
+Degaña
+Deifontes
+Deltebre
+Denia
+Derio
+Diagonal Mar
+Dílar
+Doña Mencía
+Doneztebe-Santesteban
+Donostia
+Dos Hermanas
+Dos Torres
+Dosbarrios
+Dosrius
+Dozón
+Dreta de l'Eixample
+Dueñas
+Dumbría
+Durango
+Dúrcal
+Duruelo de la Sierra
+Ea
+Echarri-Aranaz
+Écija
+Eibar
+Ejea de los Caballeros
+El Altet
+El Arahal
+El Astillero
+el Baix Guinardó
+El Barco de Ávila
+el Besòs i el Maresme
+el Bon Pastor
+El Bonillo
+El Burgo de Ebro
+El Burgo de Osma
+el Camp d'en Grassot i Gràcia Nova
+el Camp de l'Arpa del Clot
+El Campello
+El Carmel
+El Carpio
+El Carpio de Tajo
+El Casar de Escalona
+El Castillo de las Guardas
+El Cerro de Andévalo
+el Clot
+el Congrés i els Indians
+El Coronil
+El Cotillo
+El Ejido
+El Franco
+El Gastor
+El Goloso
+el Guinardó
+El Hoyo de Pinares
+el Parc i la Llacuna del Poblenou
+El Paso
+El Pedernoso
+El Pla de Santa Maria
+El Plan
+El Plantío
+el Pont de Suert
+El Prat de Llobregat
+El Provencio
+El Puente del Arzobispo
+El Puerto de Santa María
+el Putxet i el Farró
+el Raval
+El Real de San Vicente
+El Robledo
+El Rompido
+El Ronquillo
+El Rubio
+El Saucejo
+El Tiemblo
+El Toboso
+el Torricó
+el Turó de la Peira
+El Vellón
+El Vendrell
+El Viso de San Juan
+El Viso del Alcor
+Elche
+Elche de la Sierra
+Elda
+Elgoibar
+Eljas
+Éller
+Elorrio
+Elorz
+els Pallaresos
+els Poblets
+Embajadores
+Empuriabrava
+Encinas Reales
+Enguera
+Entrena
+Entrevías
+Entrimo
+Épila
+Erandio
+Ermitagaña
+Ermua
+Es Castell
+Es Molinar
+Escacena del Campo
+Escatrón
+Escucha
+Eskoriatza
+Esparragalejo
+Esparragosa de la Serena
+Esparreguera
+Espartinas
+Espera
+Espiel
+Espinosa de los Monteros
+Esplugues de Llobregat
+Esporles
+Esquivias
+Establiments
+Estación de Cártama
+Estella-Lizarra
+Estepa
+Estepona
+Estivella
+Estremera
+Ezcaray
+Fabara
+Fabero
+Falces
+Falset
+Fasnia
+Faura
+Felanitx
+Fene
+Fermoselle
+Fernán-Núñez
+Ferreries
+Ferrol
+Figueres
+Figueruelas
+Fiñana
+Fines
+Finestrat
+Firgas
+Fisterra
+Fitero
+Flix
+Foios
+Folgoso de la Ribera
+Fonelas
+Fonollosa
+Fonsagrada
+Fontarrón
+Formentera de Segura
+Fornells de la Selva
+Fornelos de Montes
+Fort Pienc
+Fortuna
+Frailes
+Fregenal de la Sierra
+Fresnedillas
+Fresno de Torote
+Fresno El Viejo
+Frigiliana
+Friol
+Frontera
+Fuencaliente de la Palma
+Fuencarral
+Fuencarral-El Pardo
+Fuengirola
+Fuenlabrada de los Montes
+Fuenmayor
+Fuensaldaña
+Fuensalida
+Fuensanta de Martos
+Fuente de Cantos
+Fuente de Pedro Naharro
+Fuente de Piedra
+Fuente del Berro
+Fuente del Maestre
+Fuente el Fresno
+Fuente el Saz
+Fuente Obejuna
+Fuente Palmera
+Fuente Vaqueros
+Fuente-Álamo de Murcia
+Fuentealbilla
+Fuentes de Andalucía
+Fuentes de Ebro
+Fuentes de León
+Fuentes de Oñoro
+Fuentidueña de Tajo
+Fuerte del Rey
+Funes
+Fustiñana
+Gádor
+Galar
+Galdakao
+Gáldar
+Galende
+Galera
+Galisteo
+Gallur
+Gálvez
+Gandesa
+Gandia
+Garafía
+Garganta la Olla
+Garrafe de Torío
+Garrovillas
+Garrucha
+Gasteiz
+Gata
+Gata de Gorgos
+Gatika
+Gaucín
+Gavà
+Gavarda
+Gaztambide
+Gelida
+Gelsa
+Gelves
+Gerena
+Gérgal
+Gerindote
+Gernika-Lumo
+Getafe
+Getaria
+Getxo
+Gibraleón
+Gijón
+Gilena
+Gilet
+Gines
+Girona
+Gironella
+Godelleta
+Gójar
+Golmayo
+Golmés
+Gondomar
+Goya
+Gràcia
+Gradefes
+Granada
+Granadilla de Abona
+Grandas de Salime
+Grañén
+Granja de Rocamora
+Granja de Torrehermosa
+Granollers
+Grao de Murviedro
+Graus
+Grazalema
+Griñón
+Guadacorte
+Guadahortuna
+Guadalajara
+Guadalcázar
+Guadalix de la Sierra
+Guadamur
+Guadarrama
+Guadassuar
+Guadix
+Gualchos
+Guardamar del Segura
+Guardo
+Guaro
+Guarromán
+Güéjar-Sierra
+Güeñes
+Güevéjar
+Guia
+Guía de Isora
+Guijo de Galisteo
+Guijuelo
+Guillena
+Güimar
+Guindalera
+Guissona
+Guitiriz
+Gurb
+Gurrea de Gállego
+Haría
+Haro
+Hazas de Cesto
+Herencia
+Hermigua
+Hernani
+Herrera de Pisuerga
+Herrera del Duque
+Hervás
+Higuera de Arjona
+Higuera de la Serena
+Higuera de Vargas
+Higuera la Real
+Hinojos
+Hinojosa del Duque
+Hispanoamérica
+Hondarribia
+Hondón de las Nieves
+Honrubia
+Horcajo de Santiago
+Horche
+Hornachos
+Hornachuelos
+Horta-Guinardó
+Hortaleza
+Hospital de Órbigo
+Hostalric
+Hoyo de Manzanares
+Huarte
+Huelma
+Huelva
+Huéneja
+Huércal de Almería
+Huercal-Overa
+Huerta de Valdecarábanos
+Huerta del Rey
+Huerta Nueva
+Huesa
+Huesca
+Huéscar
+Huete
+Huétor Santillán
+Huétor Vega
+Huétor-Tájar
+Huévar del Aljarafe
+Humanes
+Humanes de Madrid
+Humilladero
+Ibeas de Juarros
+Ibi
+Ibros
+Icod de los Vinos
+Idiazabal
+Igualada
+Igüeña
+Illa de Arousa
+Illescas
+Illora
+Illueca
+Imperial
+Inca
+Infantes
+Infiesto
+Ingenio
+Iniesta
+Irun
+Irura
+Iscar
+Isla Cristina
+Islantilla
+Istán
+Iturrama
+Iznájar
+Iznalloz
+Iznatoraf
+Jabalquinto
+Jabugo
+Jaca
+Jacarilla
+Jadraque
+Jaén
+Jamilena
+Jaraíz de la Vera
+Jarandilla de la Vera
+Javalí Nuevo
+Javalí Viejo
+Javea
+Jayena
+Jerez de la Frontera
+Jerez de los Caballeros
+Jérez del Marquesado
+Jérica
+Jerónimos
+Jerte
+Jimena
+Jimena de la Frontera
+Jódar
+Jumilla
+Juneda
+Justicia
+l'Alcora
+L'Alcúdia
+L'Alcúdia de Crespìns
+l'Alfàs del Pi
+L'Alqueria de la Comtessa
+L'Ampolla
+l'Antiga Esquerra de l'Eixample
+L'Eliana
+L'Entregu
+l'Escala
+L'Esquirol
+l'Estartit
+L'Hospitalet de Llobregat
+L'Olleria
+La Adrada
+La Alameda de la Sagra
+La Alberca de Záncara
+La Albuera
+La Algaba
+La Aljorra
+La Almunia de Doña Godina
+La Antilla
+La Bañeza
+la Bisbal d'Empordà
+La Bordeta
+La Calzada de Calatrava
+La Campana
+La Canonja
+La Carlota
+La Carolina
+La Codosera
+la Font d'en Fargues
+La Font de la Figuera
+la Font de la Guatlla
+La Fuente de San Esteban
+La Fuliola
+La Gangosa Vistasol
+La Garrovilla
+La Gineta
+La Granada
+La Guancha
+La Guardia
+La Guardia de Jaén
+la Guineueta
+La Haba
+La Iruela
+La Lantejuela
+La Lastrilla
+La Latina
+La Línea de la Concepción
+La Llagosta
+La Luisiana
+La Manga del Mar Menor
+la Marina de Port
+la Marina del Prat Vermell
+La Matanza de Acentejo
+la Maternitat i Sant Ramon
+La Mojonera
+La Ñora
+la Nova Esquerra de l'Eixample
+la Nucia
+La Orotava
+La Palma del Condado
+La Pesga
+La Pineda
+La Plaza
+La Pobla de Claramunt
+la Pobla de Mafumet
+La Pobla de Vallbona
+La Pobla Llarga
+La Pola de Gordón
+La Poveda
+la Prosperitat
+La Puebla de Almoradiel
+La Puebla de Cazalla
+La Puebla de los Infantes
+La Puebla de Montalbán
+La Puebla del Río
+La Pueblanueva
+La Puerta de Segura
+La Robla
+La Roca de la Sierra
+La Roca del Vallès
+La Roda de Andalucía
+La Sagrera
+La Secuita
+La Selva del Camp
+La Seu d'Urgell
+la Teixonera
+La Torre de Esteban Hambrán
+La Torrecilla
+la Trinitat Nova
+la Trinitat Vella
+La Unión
+la Vall d'Hebron
+la Verneda i la Pau
+La Victoria
+La Victoria de Acentejo
+la Vila de Gràcia
+la Vila Olímpica del Poblenou
+Láchar
+Lada
+Lagartera
+Laguardia
+Laguna de Duero
+Laguna de Negrillos
+Lalín
+Lanaja
+Láncara
+Landete
+Lanjarón
+Laracha
+Lardero
+Laredo
+Larraga
+Las Águilas
+Las Cabezas de San Juan
+Las Cortes
+Las Gabias
+Las Matas
+Las Mesas
+Las Navas del Marqués
+Las Palas
+Las Palmas de Gran Canaria
+Las Pedroñeras
+Las Rozas de Madrid
+Las Torres de Cotillas
+Las Tres Torres
+Las Ventas de Retamosa
+Latina
+Laudio
+Laujar de Andarax
+Laza
+Lebrija
+Leciñena
+Ledaña
+Leganés
+Legorreta
+Leioa
+Lekeitio
+Lepe
+Lerín
+Lerma
+les Borges del Camp
+Les Cases d'Alcanar
+les Planes d'Hostoles
+Lesaka
+Letur
+Lezo
+Lezuza
+Librilla
+Liencres
+Liétor
+Limpias
+Linyola
+Lista
+Llagostera
+Llamas de la Ribera
+Llançà
+Llanera de Ranes
+Llano del Beal
+Llaurí
+Llefià
+Lleida
+Llerena
+Llers
+Lliçà d'Amunt
+Llíria
+Llívia
+Llombai
+Lloret de Mar
+Lloret de Vistalegre
+Llosa de Ranes
+Lloseta
+Llubí
+Llucmajor
+Llutxent
+Lo Pagán
+Lobón
+Lodosa
+Loeches
+Logroño
+Logrosán
+Loja
+Lominchar
+Lomo de Arico
+Lopera
+Lora del Río
+Loriguilla
+Lorquí
+Los Alcázares
+Los Angeles
+Los Belones
+Los Corrales de Buelna
+Los Gabatos
+Los Gigantes
+Los Hinojosos
+Los Hueros
+Los Llanos de Aridane
+Los Molares
+Los Montesinos
+Los Navalmorales
+Los Navalucillos
+Los Nietos
+Los Palacios y Villafranca
+Los Realejos
+Los Santos de la Humosa
+Los Santos de Maimona
+Los Yébenes
+Losar de la Vera
+Lousame
+Luanco
+Lubrín
+Lucena
+Lucena del Cid
+Lucena del Puerto
+Lucero
+Lugo
+Lugones
+Luintra
+Lumbier
+Lumbrales
+Luque
+Luzmela
+Macael
+Macastre
+Mácher
+Macotera
+Madrid
+Madrid Centro
+Madridejos
+Madrigal de la Vera
+Madrigal de las Altas Torres
+Madrigalejo
+Madroñera
+Maella
+Magallón
+Magaluf
+Magán
+Maguilla
+Mahora
+Mairena del Alcor
+Mairena del Aljarafe
+Majadahonda
+Majadas
+Málaga
+Malgrat de Mar
+Mallén
+Malpartida de Cáceres
+Malpartida de Plasencia
+Manacor
+Mancha Real
+Manilva
+Manises
+Manlleu
+Mansilla de las Mulas
+Manuel
+Manzanares el Real
+Manzanilla
+Maó
+Maracena
+Marbella
+Marchamalo
+Marcilla
+María
+María de Huerva
+Maria de la Salut
+Marinaleda
+Marmolejo
+Marratxí
+Marroquina
+Martorell
+Martos
+Mas de las Matas
+Masalavés
+Maspalomas
+Masquefa
+Massamagrell
+Matadepera
+Matallana de Torío
+Mataporquera
+Mataró
+Mayorga
+Mazagón
+Mazarambroz
+Mazaricos
+Mazarrón
+Meaño
+Meco
+Medellín
+Medina de las Torres
+Medina de Pomar
+Medina de Ríoseco
+Medina del Campo
+Medina Sidonia
+Mediona
+Mejorada
+Mejorada del Campo
+Melgar de Fernamental
+Meliana
+Melilla
+Melón
+Membrilla
+Menasalbas
+Mendaro
+Mendavia
+Mengibar
+Méntrida
+Mequinensa
+Mérida
+Mesia
+Miajadas
+Miengo
+Miguel Esteban
+Miguelturra
+Mijas
+Milagro
+Minaya
+Minglanilla
+Miraflores de la Sierra
+Miralcamp
+Miranda de Ebro
+Mirandilla
+Mirasierra
+Mislata
+Moaña
+Mocejón
+Moclín
+Moclinejo
+Mogán
+Mogente
+Moguer
+Moià
+Mojacar
+Mojados
+Molina de Aragón
+Molina de Segura
+Molinicos
+Molins de Rei
+Mollerussa
+Mollet del Vallès
+Mollina
+Molvízar
+Mombeltrán
+Monachil
+Moncada
+Moncloa-Aravaca
+Moncofa
+Monda
+Mondariz
+Mondéjar
+Monesterio
+Monforte de Lemos
+Monforte del Cid
+Monistrol de Montserrat
+Monóvar
+Monreal del Campo
+Monserrat
+Mont-roig del Camp
+Montaberner
+Montalbán
+Montalbán de Córdoba
+Montánchez
+Montbau
+Montblanc
+Montcada i Reixac
+Montealegre del Castillo
+Montecanal
+Montefrío
+Montehermoso
+Montejicar
+Montemolín
+Monterrubio de la Serena
+Montesa
+Montgat
+Montiel
+Montijo
+Montilla
+Montillana
+Montizón
+Montmeló
+Montornès del Vallès
+Montoro
+Montroy
+Montuïri
+Monturque
+Monzón
+Mora
+Móra d'Ebre
+Mora de Rubielos
+Moraira
+Moral de Calatrava
+Moraleda de Zafayona
+Moraleja
+Moraleja de Enmedio
+Moraleja del Vino
+Morales de Toro
+Morales del Vino
+Moralzarzal
+Moraña
+Morata de Jalón
+Morata de Tajuña
+Moratalaz
+Morella
+Morón de la Frontera
+Mos
+Moscardó
+Móstoles
+Mota del Cuervo
+Motilla del Palancar
+Motril
+Muel
+Mugardos
+Mugia
+Mula
+Mundaka
+Munera
+Mungia
+Murchante
+Murcia
+Murillo de Río Leza
+Muro del Alcoy
+Muros
+Muros de Nalón
+Museros
+Mutriku
+Mutxamel
+Nájera
+Nambroca
+Náquera
+Natahoyo
+Nava de la Asunción
+Nava del Rey
+Navaconcejo
+Navalagamella
+Navalcarnero
+Navalmanzano
+Navalmoral de la Mata
+Navalperal de Pinares
+Navalquejigo
+Navaluenga
+Navalvillar de Pela
+Navarcles
+Navarrés
+Navàs
+Navas de Oro
+Navas del Madroño
+Navas del Rey
+Navia de Suarna
+Negreira
+Nerja
+Nerpio
+Nerva
+Niebla
+Nigrán
+Níjar
+Niño Jesús
+Noalejo
+Noblejas
+Nogueira de Ramuín
+Noja
+Noreña
+Nou Barris
+Novelda
+Nueva España
+Nueva Jarilla
+Nueva-Carteya
+Nuevo Baztán
+Nules
+Numancia
+Numancia de la Sagra
+Nuñomoral
+O Barco de Valdeorras
+O Carballiño
+O Grove
+O Incio
+O Páramo
+O Rosal
+Obejo
+Òdena
+Ogíjares
+Oimbra
+Oion
+Ojén
+Olazagutía
+Olesa de Bonesvalls
+Olesa de Montserrat
+Oliana
+Olías del Rey
+Olite-Erriberri
+Oliva
+Oliva de la Frontera
+Oliva de Mérida
+Olivella
+Olivenza
+Oliver-Valdefierro
+Olmedo
+Olocau
+Olost
+Olot
+Oltza
+Olula del Río
+Olvega
+Olvera
+Oña
+Oñati
+Onda
+Ondara
+Ondarroa
+Onil
+Ontígola
+Ontinyent
+Ontur
+Onzonilla
+Opañel
+Orba
+Orcasitas
+Orcasur
+Orce
+Orcera
+Orcheta
+Orellana la Vieja
+Orgaz
+Órgiva
+Orihuela
+Orio
+Orkoien
+Oropesa
+Oropesa del Mar
+Ortuella
+Ossa de Montiel
+Osuna
+Ourense
+Ourol
+Outeiro de Rei
+Outes
+Oviedo
+Pacífico
+Padul
+Paiporta
+Palacios del Sil
+Palafrugell
+Palamós
+Palazuelos de Eresma
+Palencia
+Palenciana
+Pallejà
+Palma
+Palma de Gandía
+Palma del Río
+Palmanova
+Palomares del Río
+Palomeras Bajas
+Palomeras Sureste
+Palos de la Frontera
+Palos de Moguer
+Pals
+Pamplona
+Pantoja
+Pantón
+Paracuellos de Jarama
+Paredes de Nava
+Parets del Vallès
+Parla
+Parres
+Pasaia
+Paterna
+Paterna de Rivera
+Paterna del Campo
+Pavones
+Paymogo
+Peal de Becerro
+Pedrajas de San Esteban
+Pedralba
+Pedralbes
+Pedreguer
+Pedrezuela
+Pedro Abad
+Pedro Bernardo
+Pedroche
+Pedrola
+Pegalajar
+Pego
+Peguera
+Pelayos de la Presa
+Peligros
+Peña Grande
+Peñafiel
+Penagos
+Peñalsordo
+Peñaranda de Bracamonte
+Peñarroya-Pueblonuevo
+Peñas de San Pedro
+Peníscola
+Peraleda de la Mata
+Perales de Tajuña
+Pereiro de Aguiar
+Periana
+Petín
+Petra
+Picanya
+Picassent
+Piedrabuena
+Piedralaves
+Piedras Blancas
+Piera
+Pilar
+Pilar de la Horadada
+Piles
+Pina de Ebro
+Piñar
+Pinar de Chamartín
+Pinar del Rey
+Pineda de Mar
+Pinofranqueado
+Pinos Genil
+Pinos Puente
+Pinoso
+Pinseque
+Pinto
+Piornal
+Piovera
+Pizarra
+Plasencia
+Platja d'Alcúdia
+Playa Blanca
+Playa de las Américas
+Playa de San Juan
+Playa del Ingles
+Pliego
+Poble Sec
+Poblete
+Pobra de Trives
+Pola de Allande
+Pola de Laviana
+Pola de Lena
+Pola de Siero
+Pola de Somiedo
+Polán
+Polinyà
+Polinyà de Xúquer
+Pollença
+Polop
+Ponferrada
+Ponteareas
+Pontevedra
+Ponts
+Porreres
+Porriño
+Port d'Alcúdia
+Port de Pollença
+Port de Sóller
+Portas
+Portbou
+Portillo de Toledo
+Porto Cristo
+Porto do Son
+Portocolom
+Portonovo
+Porzuna
+Potes
+Pozo Alcón
+Pozo-Cañada
+Pozohondo
+Pozuelo de Alarcón
+Pozuelo de Calatrava
+Pradejón
+Prado del Rey
+Pradoluengo
+Premià de Dalt
+Premià de Mar
+Priego de Córdoba
+Primer Ensanche
+Principe
+Prosperidad
+Provenals del Poblenou
+Pruna
+Puçol
+Puebla de Alcocer
+Puebla de Alfindén
+Puebla de Don Rodrigo
+Puebla de Guzmán
+Puebla de la Calzada
+Puebla de Obando
+Puebla de Sanabria
+Puebla de Sancho Pérez
+Puente de Domingo Flórez
+Puente de Génave
+Puente de Vallecas
+Puente la Reina
+Puente Tocinos
+Puente Viesgo
+Puente-Genil
+Puerta Bonita
+Puerta del Angel
+Puerto del Carmen
+Puerto del Rosario
+Puerto Lumbreras
+Puerto Real
+Puerto Rico
+Puerto Serrano
+Puigcerdà
+Puigpunyent
+Pulgar
+Pulianas
+Pulpí
+Punta de Mujeres
+Punta Umbría
+Puntagorda
+Puntallana
+Purchena
+Purullena
+Quart d'Onyar
+Quart de Poblet
+Quartell
+Quatretonda
+Quel
+Quero
+Quesada
+Quijorna
+Quintana de la Serena
+Quintanar de la Orden
+Quintanar de la Sierra
+Quintanar del Rey
+Quintanilla de Onésimo
+Quinto
+Quiroga
+Quismondo
+Rábade
+Rafal
+Rafelcofer
+Rafelguaraf
+Rairiz de Veiga
+Ramales de la Victoria
+Rascafría
+Real de Gandía
+Real de Montroi
+Realejo Alto
+Recas
+Recoletos
+Redondela
+Redován
+Reinosa
+Rejas
+Remolinos
+Reocín
+Requena
+Retiro
+Reus
+Riañu
+Rianxo
+Riaza
+Ribadavia
+Ribadeo
+Ribadesella
+Ribadumia
+Ribaforada
+Ribarroja del Turia
+Ribera del Fresno
+Ribes de Freser
+Ribesalbes
+Ricla
+Ricote
+Rincón de la Victoria
+Rincón de Soto
+Ríogordo
+Rioja
+Riola
+Ríolobos
+Riópar
+Riós
+Rios Rosas
+Ripoll
+Ripollet
+Riudecols
+Riudellots de la Selva
+Riudoms
+Rivas-Vaciamadrid
+Roa
+Robledo de Chavela
+Roda de Barà
+Rojales
+Roquetas de Mar
+Rosal de la Frontera
+Rosalejo
+Rosas
+Roses
+Rosselló
+Rota
+Rotglá y Corbera
+Rótova
+Rubí
+Ruesga
+Rute
+S'Agaró
+s'Arenal
+sa Pobla
+Sabadell
+Sabero
+Sabiñánigo
+Sabiote
+Sacedón
+Sada
+Sádaba
+Sagrada Família
+Sagunto
+Sahagún
+Salar
+Salas
+Salas de los Infantes
+Saldaña
+Sallent de Gállego
+Salobreña
+Salou
+Salt
+Salteras
+Salvaleón
+Salvatierra de los Barros
+Salvatierra de Miño
+Samos
+San Adrián
+San Agustín del Guadalix
+San Andrés del Rabanedo
+San Antonio Abad
+San Asensio
+San Bartolomé de la Torre
+San Bartolomé de Tirajana
+San Blas-Canillejas
+San Carlos del Valle
+San Cristóbal de Entreviñas
+San Cristóbal de Segovia
+San Esteban de Gormaz
+San Fermín
+San Fernando de Henares
+San Ginés de la Jara
+San Ildefonso
+San Javier
+San Juan de Aznalfarache
+San Juan de la Arena
+San Juan de la Rambla
+San Juan de Moró
+San Juan del Puerto
+San Justo de la Vega
+San Leonardo de Yagüe
+San Lorenzo de El Escorial
+San Lorenzo de la Parrilla
+San Mateo de Gállego
+San Miguel De Abona
+San Miguel de Meruelo
+San Miguel de Salinas
+San Nicolás
+San Pedro Alcántara
+San Pedro de Muiños
+San Pedro del Pinatar
+San Sebastián de la Gomera
+San Sebastián de los Reyes
+San Vicent del Raspeig
+San Vicente de la Barquera
+San Vicente de la Sonsierra
+Sangonera la Verde
+Sangüesa
+Sanlúcar de Barrameda
+Sanlúcar la Mayor
+Sant Adrià de Besòs
+Sant Agustí
+Sant Andreu de la Barca
+Sant Andreu de Llavaneres
+Sant Antoni de Portmany
+Sant Boi de Llobregat
+Sant Carles de la Ràpita
+Sant Carles de Peralta
+Sant Celoni
+Sant Cristòfol de les Fonts
+Sant Cugat del Vallès
+Sant Esteve d'en Bas
+Sant Feliu de Guíxols
+Sant Feliu de Llobregat
+Sant Francesc de Formentera
+Sant Genís dels Agudells
+Sant Gervasi-Galvany
+Sant Joan d'Alacant
+Sant Joan de Labritja
+Sant Joan de les Abadesses
+Sant Joan de Mediona
+Sant Joan de Vilatorrada
+Sant Joan Despí
+Sant Joan les Fonts
+Sant Josep de sa Talaia
+Sant Julià de Cerdanyola
+Sant Just Desvern
+Sant Lluís
+Sant Pere
+Sant Pere de Ribes
+Sant Pere de Riudebitlles
+Sant Pol de Mar
+Sant Quirze del Vallès
+Sant Sadurní d'Anoia
+Sant Salvador de Guardiola
+Sant Vicenç de Castellet
+Sant Vicenç de Montalt
+Sant Vicenç dels Horts
+Santa Amalia
+Santa Coloma de Cervelló
+Santa Coloma de Farners
+Santa Coloma de Gramenet
+Santa Cristina d'Aro
+Santa Cristina de la Polvorosa
+Santa Cruz de Bezana
+Santa Cruz de la Palma
+Santa Cruz de la Zarza
+Santa Cruz de Mudela
+Santa Cruz de Tenerife
+Santa Cruz del Retamar
+Santa Elena de Jamuz
+Santa Eugènia de Berga
+Santa Eulàlia de Ronçana
+Santa Eulària des Riu
+Santa Margalida
+Santa María de Cayón
+Santa Maria de Palautordera
+Santa Maria del Camí
+Santa María del Páramo
+Santa María la Real de Nieva
+Santa Marina del Rey
+Santa Marta de Ortigueira
+Santa Marta de Tormes
+Santa Oliva
+Santa Pau
+Santa Perpètua de Mogoda
+Santa Pola
+Santa Ponsa
+Santa Úrsula
+Santa Uxía de Ribeira
+Santaella
+Santafé
+Santander
+Santanyí
+Santiago de Compostela
+Santiago de la Ribera
+Santiago del Teide
+Santibáñez de la Peña
+Santibáñez de Vidriales
+Santiponce
+Santisteban del Puerto
+Santiurde de Toranzo
+Santo Domingo de la Calzada
+Santomera
+Santoña
+Santovenia de Pisuerga
+Sants
+Sants-Badal
+Sants-Montjuïc
+Santurtzi
+Santutxu
+Sanxenxo
+Sariegos
+Sariñena
+Sarreaus
+Sarrià
+Sarrià de Ter
+Sarrià-Sant Gervasi
+Sarriguren
+Sarrión
+Sartaguda
+Sasamón
+Sástago
+Sauzal
+Sax
+Sayalonga
+Sedaví
+Segorbe
+Segundo Ensanche
+Segura de la Sierra
+Segura de León
+Segurilla
+Selaya
+Selva
+Sencelles
+Sentmenat
+Serón
+Seròs
+Serra
+Serrada
+Serradilla
+Serranillos del Valle
+Ses Salines
+Seseña
+Sesma
+Sestao
+Setenil de las Bodegas
+Seva
+Sevilla
+Sevilla La Nueva
+Sierra de Fuentes
+Sierra de Yeguas
+Sierra-Engarcerán
+Siete Aguas
+Sigüenza
+Silla
+Silleda
+Sils
+Simat de la Valldigna
+Sinarcas
+Sineu
+Siruela
+Sisante
+Sitges
+Sober
+Socovos
+Socuéllamos
+Solana de los Barros
+Sollana
+Sóller
+Solórzano
+Solsona
+Somozas
+Son Ferrer
+Son Ferriol
+Son Rapinya
+Son Roca
+Son Sardina
+Son Servera
+Soneja
+Sonseca
+Sopela
+Sopuerta
+Sorbas
+Sorihuela del Guadalimar
+Sort
+Soses
+Sotillo de la Adrada
+Soto de la Vega
+Soto de Viñuelas
+Soto del Barco
+Soto del Real
+Suances
+Subirats
+Sueca
+Sumacàrcer
+Súria
+Tabernas
+Taboadela
+Tacoronte
+Tafalla
+Talamanca de Jarama
+Talarrubias
+Talavera de la Reina
+Talavera La Real
+Talayuela
+Tamaraceite
+Tamarit de Llitera
+Tanque
+Tapia de Casariego
+Taradell
+Tarancón
+Tarazona
+Tarazona de la Mancha
+Tardienta
+Tarragona
+Tàrrega
+Tauste
+Tavernes Blanques
+Tavernes de la Valldigna
+Tazacorte
+Teba
+Tegueste
+Teguise
+Teià
+Tejeda
+Telde
+Tembleque
+Teo
+Térmens
+Teror
+Teruel
+Tetuán de las Victorias
+Teulada
+Tiana
+Tías
+Tibi
+Tielmes
+Tijarafe
+Tíjola
+Timón
+Tinajo
+Tineo
+Tobarra
+Tocina
+Toén
+Toledo
+Tolox
+Tomares
+Tomelloso
+Tomiño
+Tona
+Torà de Riubregós
+Tordesillas
+Torelló
+Toreno
+Tornavacas
+Torquemada
+Torralba de Calatrava
+Torre Baró
+Torre de Juan Abad
+Torre de la Horadada
+Torre de Miguel Sesmero
+Torre del Bierzo
+Torre del Campo
+Torre del Mar
+Torre-Cardela
+Torre-Pacheco
+Torreblascopedro
+Torrecampo
+Torrecillas de la Tiesa
+Torredembarra
+Torredonjimeno
+Torrefarrera
+Torrejón de Ardoz
+Torrejón de la Calzada
+Torrejón de Velasco
+Torrejón del Rey
+Torrejoncillo
+Torrelaguna
+Torrelavega
+Torrelles de Llobregat
+Torrelodones
+Torremegía
+Torremolinos
+Torreorgaz
+Torreperogil
+Torres de Berrellén
+Torres de la Alameda
+Torres de Segre
+Torrevieja
+Torrijos
+Torroella de Montgrí
+Torrox
+Tortosa
+Tossa de Mar
+Totana
+Touro
+Tous
+Trafalgar
+Traiguera
+Trasmiras
+Trazo
+Trebujena
+Tremp
+Tres Cantos
+Trespaderne
+Trigueros
+Trujillanos
+Tudela
+Tudela de Duero
+Tuéjar
+Tui
+Tuineje
+Turcia
+Turégano
+Turís
+Turre
+Ubrique
+Uceda
+Ugena
+Ugíjar
+Ullastrell
+Ulldecona
+Umbrete
+Urbanización Todosol
+Urda
+Urduña
+Urnieta
+Usagre
+Usera
+Usurbil
+Utebo
+Utiel
+Utrera
+Utrillas
+Valdeacederas
+Valdebernardo
+Valdecaballeros
+Valdefresno
+Valdeganga
+Valdelacalzada
+Valdemorillo
+Valdeolmos
+Valdepeñas
+Valdepeñas de Jaén
+Valdepolo
+Valderrobres
+Valdés
+Valdestillas
+Valdetorres
+Valdetorres de Jarama
+Valdevimbre
+Valdezarza
+Valdezorras
+Valdilecha
+Valdoviño
+Valencia de Alcántara
+Valencia de Don Juan
+Valencia del Ventoso
+Valencina de la Concepción
+Valga
+Vallada
+Valladolid
+Vallbona
+Valldemossa
+Valle de la Serena
+Valle de Santa Ana
+Vallecas
+Vallehermosa
+Vallehermoso
+Valleseco
+Vallfogona de Balaguer
+Vallgorguina
+Vallirana
+Vallmoll
+Valls
+Valsequillo de Gran Canaria
+Valtierra
+Valverde de Júcar
+Valverde de la Virgen
+Valverde de Leganés
+Valverde de Mérida
+Valverde del Camino
+Valverde del Fresno
+Vecindario
+Vedra
+Vega de Espinareda
+Vega de San Mateo
+Vegadeo
+Vejer de la Frontera
+Velada
+Vélez de Benaudalla
+Velez Rubio
+Vélez-Blanco
+Vélez-Málaga
+Velilla de San Antonio
+Velilla del Río Carrión
+Venta de Baños
+Venta del Moro
+Ventas
+Ventas con Peña Aguilera
+Venturada
+Vera
+Verdun
+Verea
+Vergel
+Verges
+Verín
+Viana de Cega
+Viator
+Vic
+Vicálvaro
+Vícar
+Vielha
+Vila-real
+Vila-seca
+Vilablareix
+Viladecans
+Vilafant
+Vilaflor
+Vilafranca de Bonany
+Vilafranca del Penedès
+Vilagarcía de Arousa
+Vilaión
+Vilalba
+Vilamarxant
+Vilanova de Arousa
+Vilanova de Bellpuig
+Vilanova del Camí
+Vilanova i la Geltrú
+Vilapicina i la Torre Llobeta
+Vilasantar
+Vilassar de Mar
+Vilaxoán
+Villa de Don Fadrique
+Villa de Vallecas
+Villa del Prado
+Villa del Río
+Villablanca
+Villablino
+Villabrágima
+Villacañas
+Villacarriedo
+Villacarrillo
+Villacastín
+Villaconejos
+Villada
+Villadecanes
+Villadiego
+Villafamés
+Villafranca de Córdoba
+Villafranca de los Barros
+Villafranca de los Caballeros
+Villafranca del Bierzo
+Villafranca del Cid
+Villafufre
+Villagonzalo
+Villagonzalo-Pedernales
+Villagordo del Júcar
+Villahermosa
+Villajoyosa
+Villalba de los Barros
+Villalba del Alcor
+Villalón de Campos
+Villalpando
+Villalpardo
+Villamalea
+Villamañán
+Villamanín
+Villamanrique
+Villamanrique de la Condesa
+Villamanta
+Villamayor de Gállego
+Villamayor de Santiago
+Villamediana de Iregua
+Villamuriel de Cerrato
+Villanubla
+Villanueva de Alcardete
+Villanueva de Algaidas
+Villanueva de Castellón
+Villanueva de Córdoba
+Villanueva de Duero
+Villanueva de Gállego
+Villanueva de la Cañada
+Villanueva de la Fuente
+Villanueva de la Jara
+Villanueva de la Reina
+Villanueva de la Serena
+Villanueva de la Vera
+Villanueva de San Juan
+Villanueva de Tapia
+Villanueva de Valdegovía
+Villanueva del Ariscal
+Villanueva del Arzobispo
+Villanueva del Campo
+Villanueva del Duque
+Villanueva del Fresno
+Villanueva del Pardillo
+Villanueva del Río y Minas
+Villanueva del Rosario
+Villanueva del Trabuco
+Villaquilambre
+Villar de Rena
+Villar del Arzobispo
+Villar del Olmo
+Villaralbo
+Villaralto
+Villardompardo
+Villarejo de Órbigo
+Villarejo de Salvanés
+Villares de la Reina
+Villarino de los Aires
+Villarrasa
+Villarrobledo
+Villarrubia
+Villarrubia de los Ojos
+Villarrubia de Santiago
+Villarta de San Juan
+Villasabariego
+Villasana de Mena
+Villaseca de la Sagra
+Villasequilla de Yepes
+Villatobas
+Villaturiel
+Villaverde del Río
+Villaviciosa de Córdoba
+Villaviciosa de Odón
+Villena
+Vinalesa
+Vinaròs
+Vinateros
+Viñuela
+Viso del Marqués
+Vitigudino
+Xàtiva
+Xeraco
+Xeresa
+Xinzo de Limia
+Xirivella
+Xixona
+Yaiza
+Yátova
+Yecla
+Yeles
+Yepes
+Yerri
+Yuncler
+Yuncos
+Yunquera
+Yunquera de Henares
+Zafarraya
+Zagra
+Zahara
+Zahara de los Atunes
+Zahinos
+Zaidín
+Zalamea de la Serena
+Zalamea la Real
+Zalla
+Zamudio
+Zaragoza
+Zarandona
+Zaratamo
+Zarautz
+Zarza de Alange
+Zarza de Granadilla
+Zarza la Mayor
+Zarzalejo
+Zeanuri
+Zierbena
+Zizur Mayor
+Zofío
+Zuera
+Zumaia
+Zumarraga
+Zurgena

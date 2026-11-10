@@ -1,0 +1,784 @@
+Cassard	7
+Duguay-Trouin	7
+Jean Bart	6
+Desaix	5
+Forbin	5
+Gloire	5
+Chevalier Paul	4
+Couronne	4
+Dupleix	4
+Formidable	4
+Jeanne d'Arc	4
+Montcalm	4
+Primauguet	4
+Protet	4
+Suffren	4
+Tourville	4
+Aconit	3
+Aigle	3
+Albatros	3
+Alcide	3
+Aurore	3
+Bougainville	3
+Courbet	3
+Danae	3
+Du Chayla	3
+Duperré	3
+Duquesne	3
+Épervier	3
+Foudroyant	3
+Guépratte	3
+Junon	3
+Kersaint	3
+Léopard	3
+Lion	3
+Pique	3
+Provence	3
+Scipion	3
+Superbe	3
+Surcouf	3
+Surveillante	3
+Tartu	3
+Téméraire	3
+Terrible	3
+Trident	3
+Vauquelin	3
+Vengeur	3
+Volta	3
+Ajax	2
+Alceste	2
+Ambuscade	2
+Amiral Aube	2
+Amiral Charner	2
+Arab	2
+Aréthuse	2
+Armide	2
+Atalante	2
+Audacieux	2
+Bayard	2
+Beautemps-Beaupré	2
+Belle Poule	2
+Bellone	2
+Blonde	2
+Borée	2
+Bretagne	2
+Brillant	2
+Caton	2
+Charlemagne	2
+Châteaurenault	2
+Clemenceau	2
+Colbert	2
+Commandant Bory	2
+Commandant Rivière	2
+Cosmao	2
+Courageuse	2
+Courageux	2
+D'Entrecasteaux	2
+D'Estrées	2
+D'Iberville	2
+Dague	2
+Danaé	2
+Diane	2
+Duguesclin	2
+Dumont d'Urville	2
+Dupetit-Thouars	2
+Dupuy-de-Lôme	2
+Foch	2
+Gaulois	2
+Gauloise	2
+Généreux	2
+Georges Leygues	2
+Hannibal	2
+Hardi	2
+Hercule	2
+Hussard	2
+Infernet	2
+Inflexible	2
+Intrépide	2
+Invincible	2
+Iphigénie	2
+Iris	2
+Jauréguiberry	2
+Jean de Vienne	2
+Jemmapes	2
+L'Indomptable	2
+La Fayette	2
+La Galissonnière	2
+La Motte-Picquet	2
+Laplace	2
+Latouche-Tréville	2
+Le Pélican	2
+Le Redoutable	2
+Linois	2
+Lorraine	2
+Magenta	2
+Magnanime	2
+Mameluck	2
+Marengo	2
+Marocain	2
+Milan	2
+Modeste	2
+Nestor	2
+Normandie	2
+Northumberland	2
+Orion	2
+Poulette	2
+Pultusk	2
+Régulus	2
+Reine Blanche	2
+Rigault de Genouilly	2
+Roland	2
+Romulus	2
+Scarborough	2
+Seignelay	2
+Sphinx	2
+Thésée	2
+Thétis	2
+Tonnerre	2
+Trajan	2
+Valeur	2
+Vauban	2
+Virginie	2
+Wattignies	2
+Actif
+Africaine
+Agamemnon
+Aglaia
+Aigrette
+Aisne
+Albanais
+Alcmène
+Aldébaran
+Alecton
+Alexander
+Alfredo Oriani
+Alger
+Algérie
+Algérien
+Algésiras
+Algol
+Allegiance
+Alma
+Alsace
+Alysse
+Amazone
+Amelia
+America
+Amethyst
+Amiral Baudin
+Amiral Castex
+Amiral Cécille
+Amiral Louzeau
+Amiral Ronarc'h
+Amiral Sénès
+Amiral Tréhouart
+Amphitrite
+Amyot d'Inville
+Andromaque
+Andromède
+Anglesea
+Annamite
+Annibal
+Antarés
+Antigua
+Anversois
+Aquilon
+Aquitaine
+Arabe
+Arbalète
+Arc
+Arcole
+Ardent
+Argonaut
+Argonaute
+Ariel
+Armorique
+Arquebuse
+Arromanches
+Artésien
+Aspirant Herber
+Auguste
+Auvergne
+Avenger
+Aventurier
+Babet
+Badine
+Baleine
+Baliste
+Balny
+Bambara
+Béarn
+Bélier
+Bellatrix
+Belleisle
+Belliqueux
+Bellona
+Berceau
+Berwick
+Biche
+Bienfaisant
+Bison
+Bisson
+Bizarre
+Blackwall
+Bombarde
+Bombe
+Bonne Citoyenne
+Bouclier
+Bourayne
+Bourgogne
+Bourrasque
+Boutefeu
+Bouvet
+Bouvines
+Braid
+Branlebas
+Brave
+Bravoure
+Brazen
+Brennus
+Breslaw
+Brestois
+Bruix
+Brutus
+Bucentaure
+Buchanan
+Bugeaud
+Buino
+Canopus
+Capitaine Mehl
+Captain Saken
+Carabine
+Carabinier
+Carnot
+Carquois
+Carrere
+Casabianca
+Casque
+Cassiopée
+Castiglione
+Catapulte
+Catinat
+Cavalier
+Censeur
+Centaure
+César
+Chacal
+Champlain
+Chanzy
+Chaptal
+Charles de Gaulle
+Charles J French
+Charles-Martel
+Charmante
+Chasseloup-Laubat
+Chasseur
+Chastang
+Chester
+Chiffone
+Child's Play
+Cimeterre
+Claymore
+Cléopâtre
+Cocarde
+Coëtlogon
+Cognée
+Colosse
+Commandant Birot
+Commandant Blaison
+Commandant Bouan
+Commandant d'Estienne d'Orves
+Commandant Detroyant
+Commandant Detroyat
+Commandant Lucas
+Commandant Teste
+Commerce de Bordeaux
+Comte d'Eu
+Concorde
+Condé
+Condor
+Condorcet
+Consolante
+contre-torpilleur Massue
+contre-torpilleur Verdun
+Coquette
+Coquille
+Corbesier
+Couleuvrine
+Coutelas
+Créole
+Crescent
+Cruizer
+Cumberland
+Curieux
+Cybèle
+Cyclone
+D'Assas
+D'Estaing
+D'Hautpoul
+Dalmate
+Danton
+Dantzig
+Danube
+Dard
+Dartmouth
+Dauphin Royal
+Dauphine
+Davout
+Dayot
+De Grasse
+Decade
+Decrès
+Dehorter
+Deligny
+Démocratie
+Descartes
+Dévastation
+Dictateur
+Diderot
+Didon
+Dixmude
+Dolphin's Prize
+Donegal
+Dover Prize
+Droits de l'Homme
+Du Chaffault
+Du Couëdic
+Dubourdieu
+Duc D'Aquitaine
+Duchaffault
+Ducouédic
+Dunkerque
+Dunkirk's Prize
+Durandal
+Echo
+Éclaireur
+Edgar Quinet
+Égyptienne
+Elizabeth
+Embuscade
+Emerald
+Émile Bertin
+Engageante
+Enseigne de vaisseau Henry
+Enseigne de vaisseau Jacoubet
+Enseigne Gabolde
+Enseigne Henry
+Enseigne Roux
+Entreprenant
+Éole
+Épée
+Épieu
+Ernest Renan
+Escaut
+Escopette
+Esperance
+Espingole
+Étendard
+Etna
+Eugenie
+Éveillé
+Experiment
+Fabert
+Fame
+Fanfare
+Fanion
+Fantassin
+Fantome
+Faucon
+Fauconneau
+Faulx
+Faune
+Fauvette
+Ferme
+FFL Somali F
+Flamant
+Flamberge
+Fleche
+Fleuret
+Fleurus
+Flora
+Flore
+Floréal
+FNFL commandant Drogou
+Fontenoy
+Forte
+Fortune
+Fougueux
+Fourche
+Fox
+Fox Prize
+Framée
+France
+France Libre
+Franchise
+Francis Garnier
+Francisque
+Friant
+Friedland
+Fronde
+Frondeur
+Fulminant
+Furieux
+Gabion
+Gaiete
+Galathée
+Galillée
+Garland
+Gascogne
+Génois
+Gerfaut
+Germinal
+Gibraltar Prize
+Gironde
+Glaive
+Glenarm
+Glorieux
+Golymin
+Gracieuse
+Greenwich
+Guadeloupe
+Guépard
+Guerriere
+Guerrière
+Gueydon
+Guichen
+Guyenne
+Hache
+Hallebarde
+Hamelin
+Happy Return
+Harpon
+Hawk
+Hébé
+Helena
+Henri
+Hermione
+Héroïne
+Héros
+Hinchinbrook
+Hirondelle
+Hobart
+Hoche
+Hova
+Hugon
+Iéna
+Imogen
+Impérial
+Impérieuse
+Impétueux
+Infatigable
+Insurgente
+Intrepid
+Isère
+Isly
+Italienne
+Jaguar
+Janissaire
+Java
+Javeline
+Jean-Jacques Rousseau
+Joffre
+Jules Ferry
+Jules Michelet
+Jurien de la Gravière
+Justice
+kabyle
+Keith
+Kerguélen
+Kléber
+L'Achille
+L'Adroit
+L'Algésiras
+L'Astrolabe
+L'Audacieux
+L'Effronté
+L'Entreprise
+L'Escarmouche
+L'Hermitte
+L'Héroïne
+L'Intrépide
+L'Océan
+L'Orient
+La Bastiaise
+La Bourdonnais
+La Clochèterie
+La Combattante
+La Confiance
+La Furieuse
+La Grandière
+La Lune
+La Malouine
+La Pérouse
+La Renommée
+La Réunion
+Lalande
+Lance
+Languedoc
+Lansquenet
+Laurel
+Lavoisier
+Le Bourguignon
+Le Fantasque
+Le Foudroyant
+Le Géographe
+Le Héros
+Le Magnifique
+Le Malin
+Le Polonais
+Le Renaudin
+Le Téméraire
+Le Triomphant
+le vulcain
+Leander
+Legionario
+Léon Gambetta
+Liberté
+Lieutenant de vaisseau Le Hénaff
+Limier
+Lobelia
+Loire
+Louis
+Loyalist
+Lutine
+Lynx
+Lys
+Madagascar
+Magicienne
+Magnet
+Magon
+Maillé Brézé
+Maillé-Brézé
+Mangini
+Marceau
+Marcel Delage
+Marne
+Marquis de Seignelay
+Matelot Leblanc
+Matilda
+Mazaré
+Mécanicien Principal Lestin
+Méduse
+Medway's Prize
+Melpomène
+Météore
+Meuse
+Mignonne
+Milford
+Mimosa
+Mirabeau
+Mistral
+Mitragliere
+Mogador
+Monarque
+Monsieur
+Mont Saint-Bernard
+Mont-Blanc
+Montebello
+Montreal
+Mortier
+Moucheron
+Mousquet
+Mousqueton
+Moyola
+Muiron
+Muros
+Mutine
+Nemesis
+Néréide
+Nielly
+Niemen
+Nisus
+Nivôse
+Nord
+Nymphe
+Obusier
+Océan
+Oise
+Oiseau
+Opiniâtre
+Orage
+Oréade
+Orénoque
+Orford's Prize
+Oriflamme
+Orignal
+Orphée
+Ouragan
+Pacificateur
+Painlevé
+Paris
+Pas-de-Calais
+Pascal
+Patrie
+Patriote
+Pégase
+Pénélope
+Perçante
+Perdrix
+Pert
+Pertuisane
+Phlégéton
+Piémontaise
+Pierre Durand
+Pierrier
+Piet Hein
+Pistolet
+Poignard
+Polyphème
+Pomone
+Pompée
+Pothuau
+Prairial
+Premier Consul
+Preneuse
+Prince de Conty
+Proserpine
+Protée
+Puissant
+Quatorze Juillet
+Queen Anne's Revenge
+Racehorse
+Rageot de la Touche
+Raisonnable
+Rapière
+Redoutable
+Régénérateur
+Régénérée
+Regensburg
+Renard
+Renommée
+Renoncule
+Réolaise
+République
+Résolue
+Richelieu
+Rigel
+Rivoli
+Robuste
+Roccafortis
+Rosario
+Roselys
+Rouen
+Royal Italien
+Royal Louis
+Ruby Prize
+Sabre
+Sabretache
+Sagaie
+Saint Pierre
+Saint-Laurent
+Saint-Louis
+Saint-Philippe
+Sainte Anne
+Sainte Barbe
+Sakalave
+Salisbury
+Salve
+San Sebastián
+Sané
+Sans Pareil
+São Paulo
+Sape
+Sarbacane
+Sardine
+Savoie
+Second-Maître Le Bihan
+Segond
+Seine
+Sénégalais
+Sensible
+Sentinelle
+Sérieuse
+Serpente
+Sfax
+Sibylle
+Simoun
+Siroco
+Soleil Royal
+Solférino
+Solitaire
+Somali
+Somme
+Sorlings
+Spahi
+Spartiate
+Spencer
+St Fiorenzo
+St Florentine
+Strasbourg
+Stylet
+Success
+Suchet
+Suffisant
+Sully
+Superb
+Surprise
+Svenner
+Swiftsure
+Sylphe
+Tage
+Takou
+Talisman
+Tartar's Prize
+Taureau
+Tempête
+Thémis
+Thémistocle
+Tigre
+Tilsitt
+Tirailleur
+Tonkinois
+Tonnant
+Topaze
+Torche
+Tornade
+Torridge
+Touareg
+Tramontane
+Tribune
+Triomphant
+Triomphante
+Triton
+Triton's Prize
+Trombe
+Tromblon
+Trompeuse
+Troude
+Tunisien
+Turenne
+Typhon
+Ulm
+Union
+Utile
+Vaillant
+Valeureuse
+Valmy
+Vautour
+Velite
+Vendémiaire
+Vengeance
+Ventôse
+Verdun
+Vergniaud
+Vérité
+Vertu
+Vestale
+Vétéran
+Viala
+Victor Hugo
+Victor Schœlcher
+Villars
+Ville de Berlin
+Ville de Bordeaux
+Ville de Nantes
+Ville de Paris
+Voltaire
+Voltigeur
+Waakzaamheid
+Waldeck-Rousseau
+Wassenaar
+Windrush
+Yatagan
+Yser
+Zodiaque

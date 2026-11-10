@@ -1,0 +1,289 @@
+Hrútey	6
+Sandey	6
+Heimaey	4
+Hrappsey	4
+Elliðaey	3
+Flatey	3
+Grímsey	3
+Háey	3
+Hellisey	3
+Hrisey	3
+Lambey	3
+Langey	3
+Lundey	3
+Seley	3
+Skáley	3
+Suðurey	3
+Akureyjar	2
+Arnarey	2
+Bjarnarey	2
+Borgarey	2
+Bæjarey	2
+Drangey	2
+Engey	2
+Fagurey	2
+Garðey	2
+Hjörsey	2
+Hrísey	2
+Húsey	2
+Kiðey	2
+Landey	2
+Mikley	2
+Nónsker	2
+Purkey	2
+Suðurlönd	2
+Vigur	2
+Þerney	2
+Akurey
+Álsey
+Andey
+Andriðsey
+Arfaklettur
+Árnes
+Árnesey
+Árneseyjar
+Arney
+Áskelsey
+Ásmóðarey
+Ásmundarstaðaey
+Bíldsey
+Bjarnarsker
+Bjarneyjar
+Björgólfsey
+Bláfellshólmi
+Bogasker
+Borgareyjar
+Borgey
+Borgir
+Böðvarsklettar
+Brandur
+Brimilsnes
+Broddanesey
+Brokey
+Bæjarhólmur
+Deildarey
+Dímonarhólmi
+Dímun
+Djúpey
+Djúpeyjar
+Djúphólmi
+Drangahólmar
+Drangavíkurhólmar
+Dýreyjar
+Efri-Langey
+Eiðahólmar
+Eskilsey
+Eyjarsker
+Eystra Hvanneyjarsker
+Fáskrúður
+Feitsey
+Fiskaflaga
+Flangey
+Flathólmi
+Flesjur
+Fótur
+Fremri Langey
+Gamlaeyri
+Geirshólmi
+Geitareyjar
+Geldungur
+Gjarðey
+Glænefur
+Grenjaðarey
+Grind
+Grótta
+Grænhólmi
+Gunnarsstaðaey
+Gunnhildarey
+Gvendareyjar
+Gvendarhólmi
+Gvendarnesfles
+Haffjarðarey
+Hafnarey
+Hagaey
+Háhólmi
+Háholt
+Hallgrímsey
+Heiðnarey
+Helgafellseyjar
+Helgasteinn
+Helgeyjarlönd
+Hellir
+Herbjarnarey
+Hergilsey
+Hjalley
+Hlaða
+Hólar
+Hóley
+Hólmarnir
+Hólmi
+Hólminn
+Hólmur
+Hörfinnsey
+Höskuldsey
+Hrafnabjargahólmi
+Hrafnsey
+Hrauneyjar
+Hrollaugseyjar
+Hrómundarey
+Hrúteyjar
+Hvalbakur
+Hvalhaushólmi
+Hvallátur
+Hvalsey
+Hvalseyjar
+Hvammsey
+Hvanney
+Hvannhólmur
+Hvítingseyjar
+Iceland
+Innra-Drápsker
+Innri-Flesjur
+Kána
+Kerling
+Ketilboðafles
+Kiðólmar
+Kjalarey
+Kjóey
+Kjöggur
+Klakkeyjar
+Kleifar
+Klofningur
+Knararsundsfles
+Kolbeinsey
+Kolla
+Kollur
+Kongsey
+Kongsvíkurmelar
+Köngursey
+Kópaflaga
+Kópsker
+Kræklingahólmar
+Lagey
+Lambastaðaey
+Landhólmi
+Landoddar
+Langa
+Látralönd
+Latur
+Látur
+Leiðvallarhólmar
+Litla Öffersey
+Litla Ólafsey
+Litla Seley
+Lunðólmi
+Lyngey
+Lýngey
+Lækjarey
+Lækjarland
+Máfabót
+Máfastapar
+Málmey
+Mánáreyjar
+Melahólmi
+Melrakkaey
+Miðey
+Miðsker
+Múlaey
+Múlaeyjar
+Naustey
+Nauþolt
+Náð
+Nesjaey
+Nóney
+Nýjaland
+Oddbjarnarsker
+Oddleifsey
+Oddsey
+Ögurhólmi
+Ólafsey
+Ólafseyjar
+Örfirisey
+Ósfles
+Ósland
+Öxarárhólmi
+Öxney
+Öxneyjar
+Papey
+Rauðseyjar
+Reykey
+Rótarhólmi
+Rúfeyjar
+Sandeyjarhólmur
+Sauðey
+Sauðeyjar
+Selkollur
+Sellátur
+Sellón
+Setusker
+Skafeyrar
+Skáleyjar
+Skarfey
+Skeley
+Skinnalónsey
+Skinney
+Skipsey
+Skipshólmi
+Skjaldarey
+Skjaldbreið
+Skjaldey
+Skjaldmeyjareyjar
+Skógey
+Skorbeinn
+Skoreyjar
+Skrúður
+Skutilsey
+Skutulsey
+Slúttnes
+Smáeyjar
+Snóksey
+Snæfoksey
+Spjóþólmar
+Sprókseyjar
+Stafey
+Stagley
+Stangasker
+Stapaey
+Staðarey
+Stóra Brákarey
+Stóra Öffersey
+Stórhólmi
+Strákey
+Straumsker
+Streitisfles
+Stykki
+Stykkiseyjar
+Surtsey
+Svartnes
+Svefneyjar
+Sviðnur
+Sýrey
+Tangaey
+Tindahólmi
+Tögl
+Tóptarhólmi
+Trésnefur
+Tunguey
+Tungueyjar
+Tvísker
+Útey
+Valshamarseyjar
+Vaðstakksey
+Vestmannaeyjar
+Vestur Hvanneyjarsker
+Viðborðshólmar
+Viðey
+Ytra-Drápsker
+Ytri-Flesjur
+Ytriey
+Ytrihólmur
+Æðaklettar
+Æðey
+Þernhólmi
+Þingey
+Þórisey
+Þóriseyjar
+Þórishólmi
+Þormóðsey
+Þvottáreyjar
+Þyrilsey

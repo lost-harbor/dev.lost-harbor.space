@@ -1,0 +1,779 @@
+Oleksandr	912
+Volodymyr	807
+Viktor	762
+Sergey	698
+Ihor	665
+Vladimir	644
+Ivan	603
+Aleksandr	588
+Andriy	588
+Mykola	540
+Yurii	513
+Dmytro	437
+Serhii	429
+Roman	404
+Yury	402
+Oleg	373
+Anatoly	359
+Igor	357
+Vasyl	345
+Mykhailo	314
+Oleh	292
+Vitalii	280
+Nikolay	255
+Yevhen	246
+Leonid	241
+Yevgeny	237
+Oleksii	234
+Mikhail	232
+Andrey	223
+Vasily	217
+Aleksey	204
+Anatolii	201
+Petro	201
+Valery	185
+Bohdan	182
+Yaroslav	182
+Boris	178
+Valeriy	165
+Pavlo	154
+Valentin	154
+Maksim	150
+Konstantin	148
+Artem	146
+Anton	145
+Dmitry	143
+Stanislav	132
+Alexander	131
+Ruslan	129
+Taras	128
+Maksym	125
+Vladislav	118
+Vadim	115
+Stepan	110
+Denys	108
+Bogdan	98
+Pyotr	92
+Gennady	88
+Vadym	88
+Pavel	85
+Vladyslav	78
+Borys	76
+Artyom	74
+Hryhorii	74
+Kostiantyn	72
+Vyacheslav	65
+Georgy	64
+Eduard	62
+Viacheslav	62
+Artur	55
+Grigory	53
+Heorhiy	52
+Yevheniy	48
+Denis	45
+Hennadiy	43
+Fyodor	40
+Rostyslav	40
+Fedir	39
+Myroslav	39
+Kyrylo	38
+Orest	37
+Vitaly	34
+Illia	33
+Danylo	32
+Lev	32
+Ilya	29
+Ostap	28
+Kirill	26
+Sviatoslav	25
+Vsevolod	25
+Mykyta	23
+Witalij	22
+Vitali	21
+Arkady	20
+Mark	20
+Nazar	20
+Timur	19
+Yakiv	19
+Andrej	18
+Semyon	18
+Victor	17
+Albert	16
+Daniil	16
+Marian	16
+Vladimír	16
+Yevgeni	15
+Iosif	14
+Nazarii	14
+Stanisław	14
+Yehor	14
+Adam	13
+Alex	13
+David	13
+Eugene	13
+Władysław	13
+Arsen	12
+Marko	12
+Myron	12
+Nikita	12
+Rustam	12
+Semen	12
+Stefan	12
+Yakov	12
+Jan	11
+Jarosław	11
+Oles	11
+Valeri	11
+Jurij	10
+Nikolaj	10
+Pylyp	10
+Rostislav	10
+Tymofii	10
+Yosyp	10
+Arnold	9
+Hennadii	9
+László	9
+Miroslav	9
+Nestor	9
+Robert	9
+Vladlen	9
+Alexey	8
+Anatoliy	8
+Arthur	8
+Herman	8
+István	8
+Iwan	8
+Maxim	8
+Rodion	8
+Yuly	8
+Zenovii	8
+Alexandre	7
+Arkadiy	7
+Danyil	7
+Edward	7
+Ferenc	7
+Marat	7
+Platon	7
+Sergej	7
+Yegor	7
+Alexandr	6
+Anatolij	6
+Andrei	6
+Dennis	6
+Felix	6
+Filipp	6
+Isaak	6
+Jaroslav	6
+Klym	6
+Kostyantyn	6
+Matvey	6
+Michael	6
+Oleksander	6
+Omelian	6
+Peter	6
+Petr	6
+Sergei	6
+Vitaliy	6
+Zoltán	6
+Daniel	5
+Demian	5
+Eldar	5
+Emil	5
+Ernest	5
+Evhen	5
+Feliks	5
+György	5
+Hlib	5
+Markiyan	5
+Mihály	5
+Siergiej	5
+Yan	5
+Yarema	5
+Yukhym	5
+Yulian	5
+Zinovii	5
+Abram	4
+Anatoli	4
+Andrew	4
+Basil	4
+Davyd	4
+Efim	4
+Enver	4
+Filip	4
+Franciszek	4
+Garri	4
+Gleb	4
+Hermann	4
+János	4
+Jozef	4
+József	4
+Julian	4
+Leon	4
+Les	4
+Levan	4
+Levko	4
+Michail	4
+Michał	4
+Piotr	4
+Polikarp	4
+Serhiy	4
+Solomon	4
+Teodor	4
+Yosyf	4
+Zenon	4
+Zinoviy	4
+Alan	3
+Aleksander	3
+Alexei	3
+Alfred	3
+Aliaksiej	3
+Anatol	3
+Andri	3
+Armen	3
+Arsenii	3
+Boryslav	3
+Danila	3
+Danilo	3
+Dawid	3
+Dimitri	3
+Dmitriy	3
+Dumitru	3
+Erik	3
+Feodosii	3
+Garik	3
+Georgi	3
+German	3
+Gregory	3
+Israel	3
+Iván	3
+Jean	3
+Josef	3
+Karen	3
+Kim	3
+Kuzma	3
+Leonard	3
+Leonti	3
+Luka	3
+Makar	3
+Mikola	3
+Miron	3
+Mstyslav	3
+Mychajlo	3
+Naum	3
+Panteleimon	3
+Paul	3
+Rudolf	3
+Sam	3
+Serge	3
+Sergii	3
+Sergiy	3
+Spartak	3
+Tadeusz	3
+Tiberius	3
+Timofey	3
+Vakhtang	3
+Valentýn	3
+Vasile	3
+Vasili	3
+Viktar	3
+Vitalij	3
+Volodimir	3
+Yulii	3
+Zorian	3
+Adrian	2
+Afanasy	2
+Agafanel	2
+Akim	2
+Aleh	2
+Aleksy	2
+Alexandru	2
+Alexej	2
+Andreas	2
+Andrzej	2
+Andy	2
+Antoni	2
+Antonii	2
+Arsenius	2
+Bertalan	2
+Bronisław	2
+Davit	2
+Dmitri	2
+Enrique	2
+Ervin	2
+Eugen	2
+Evgeniy	2
+Fedor	2
+Feodor	2
+Feodosiy	2
+Gavriil	2
+Gia	2
+Giorgi	2
+Havrylo	2
+Heinrich	2
+Hiob	2
+Ihar	2
+Ilia	2
+Illya	2
+Irfan	2
+Joseph	2
+Juri	2
+Károly	2
+Kazymyr	2
+Klemens	2
+Kornii	2
+Lazar	2
+Leontii	2
+Leopold	2
+Louis	2
+Maks	2
+Matvii	2
+Menachem Mendel	2
+Michel	2
+Mikhailo	2
+Moshe	2
+Mustafa	2
+Mykhayil	2
+Mykhaylo	2
+Nikodem	2
+Osman	2
+Péter	2
+Renat	2
+Rinat	2
+Roland	2
+Rustem	2
+Samuel	2
+Samuil	2
+Sándor	2
+Siarhiej	2
+Sofron	2
+Stephan	2
+Stephen	2
+Tibor	2
+Vasylii	2
+Vital	2
+Walery	2
+Wasyl	2
+Wiktor	2
+Yefrem	2
+Yoan	2
+Zakhar	2
+Zaza	2
+Zurab	2
+Adalbert
+Adnan
+Adolf
+Adriian
+Ahmad
+Aivaras
+Akaki
+Akaky
+Akhmed
+Akhrik
+Akmal
+Albin
+Aleko
+Aleksandras
+Aleksandre
+Aleksandru
+Aleksei
+Aleksej
+Aleksejus
+Alemdar
+Alen
+Ales
+Alexis
+Alik
+Alla
+Almar
+Amet
+Amir
+András
+Andrejs
+Andrew and variants
+Andriian
+Andrij
+Antin
+Antoninus
+Antonio
+Anushavan
+Anzor
+Aram
+Arata
+Arcadie
+Arik
+Arkhyp
+Arnaldo
+Aron
+Arseny
+Artúr
+Aryan
+Ashot
+Aslanbek
+Atanas
+Attila
+August
+Augustin
+Augustyn
+Avksentii
+Avtandil
+Aziz
+Basara
+Beka
+Béla
+Bill
+Björn
+Bob
+Bogodar
+Borislav
+Cafer
+Cemal
+Chaim
+Chingiz
+Christian
+Csaba
+Cyryl
+Damir
+Daniyal
+Dany
+Danyl
+Davidson
+Dean
+Demetrius
+Devi
+Dezső
+Dima
+Dionisiy
+Dmitrij
+Dwayne
+Dymitr
+Dymytrii
+Dzmitry
+Edem
+Edgar
+Edmar
+Edvard
+Elbrus
+Elemér
+Elhan
+Emin
+Emlen
+Emmanuel
+Enriko
+Epifanii
+Eric
+Erich
+Ernő
+Eugeniusz
+Euzebiusz
+Evgeni
+Evgeny
+Ewald
+fāḍil
+Farid
+Filaret
+Florian
+Florii
+Franc
+František
+Gabor
+Gábor
+Gary
+Gene
+Gennadiy
+George
+Gerald
+Gerasime
+Gheorghe
+Giannis
+Gordey
+Grégoire
+Gregor
+Grigore
+Grigori
+Grzegorz
+Gündüz
+Haim
+Halyna
+Hamlet
+Hanna
+Harold
+Harutyun
+Henry
+Henryk
+Heo
+Herbert
+Hilarion
+Hilary
+Hipolit
+Hippolyte
+Hordii
+Iago
+Ibrahim
+Ignat
+Igorevich
+Illarion
+Inna
+Innocent
+Innocenty
+Ioan
+Ioann
+Ion
+Irakli
+Irek
+Isaac
+Isaiah
+Isidore
+Ismail
+Izrail
+Izydor
+Jack
+Jakob
+Jakov
+Ján
+Jan Paweł
+Jarema
+Jaroslavas
+Jaroslaw
+Jean-Robert
+Jerome
+Jeronim
+Jevhen
+Jimmy
+Joel
+Johannes
+John
+Jonasz
+Jose
+Josif
+Josip
+Jozafat
+Józef
+Juliusz
+Júnior
+Jury
+Kálmán
+Karl
+Karol
+Kenneth
+Khariton
+Khristofor
+Klymentii
+Konstanty
+Kost
+Kristian
+Lajos
+Laszlo
+Lavrentii
+Lei
+Leonardo
+Leonhard
+Levi
+Lew
+Liudomyr
+Longin
+Lonhyn
+Lubomír
+Ludwik
+Maksimas
+Manolis
+Marcjan
+Marco
+Margarita
+Marianna
+Marjan
+Markiian
+Markus
+Marlen
+Martyn
+Masaru
+Matityahu
+Max
+Maxime
+Meletii
+Menyhért
+Michailas
+Mika
+Mikaelo
+Mikail
+Mike
+Mikhaïl
+Mikita
+Miklós
+Mikołaj
+Mikuláš
+Milan
+Milton
+Mirek
+Mirosław
+Modest
+Moisei
+Moses
+Moussa
+Mstislav
+Murat
+Musiy
+Nail
+Natan
+Navid
+Nelson
+Nicholas
+Nicolae
+Nicolai
+Nikola
+Nikolai
+Nikoloz
+Nil
+Norman
+Nuzet
+Oksentiy
+Olavale
+Oleksa
+Olga
+Olgierd
+Olivér
+Oltion
+Omar
+Onufry
+Opanas
+Oreste
+Oskar
+Otar
+Otto
+Ovik
+Ozar
+Pantelimon
+Parviz
+Patricio
+Petru
+Philippe
+Pinchas
+Policarpo
+Przemek
+Radiy
+Radomir
+Radomyr
+Radoslav
+Radu
+Rafael
+Rafał
+Raman
+Ramazan
+Ramiz
+Rashad
+Ravil
+Razmik
+Refat
+Reşat
+Reşid
+Reuven
+Roald
+Roberto
+Robin
+Ronald
+Rosłan
+Ruslans
+Ryszard
+Said
+Samir
+Samson
+Sandro
+Sasha
+Sava
+Savely
+Savva
+Sean
+Serafym
+Serghei
+Sergi
+Sergiusz
+Serik
+Severin
+Shakir
+Simion
+Slava
+Spyrydon
+Stefania
+Steve
+Steven
+Svetislav
+Sydir
+Symeon
+Szergej
+Sławomir
+Tamás
+Tamaz
+Taran
+Temur
+Teodosii
+Terentii
+Teymur
+Theodor
+Theodosius
+Thomas
+Tigran
+Titus
+Toadere
+Tomas
+Tomasz
+Tsenko
+Tsotne
+Tycho
+Ugochukwu
+Uri
+Ustym
+Vagif
+Vahagn
+Valentina
+Valerian
+Valerii
+Valyantsin
+Varfolomiy
+Vazgen
+Veaceslav
+Venedykt
+Victoria
+Vilhelm
+Vilmos
+Vincenc
+Virko
+Vissarion
+Vitaliĭ
+Vitold
+Vlas
+Vlodko
+Vojislav
+Vüqar
+Vytovt
+Waleed
+Walentyn
+Walerian
+Wilhelm
+William
+Witold
+Wladislaw
+Wladyslaw
+Włodzimierz
+Yaraslaw
+Yaromyr
+Yasser
+Yawhen
+Yelisey
+Yemelyan
+Yermolay
+Yevgen
+Yevgeniy
+Yevstakhii
+Yuliian
+Yuri
+Yustyn
+Yuval
+Zahid
+Zahiddin
+Zakhary
+Zalmen
+Zaur
+Zora
+Zorislav
+Zsolt
+Zunia
+Łukasz

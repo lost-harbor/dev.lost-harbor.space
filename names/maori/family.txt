@@ -1,0 +1,539 @@
+Smith	9
+Thompson	9
+Brown	8
+Williams	8
+Wilson	8
+Jones	5
+Walker	5
+Durie	4
+Gillies	4
+Green	4
+Muru	4
+Bailey	3
+Baker	3
+Bennett	3
+Black	3
+Clark	3
+Harrison	3
+Heuheu	3
+Jenkins	3
+Kingi	3
+Love	3
+Mahuta	3
+Mead	3
+Moore	3
+Morrison	3
+Ngata	3
+Nicholas	3
+Parata	3
+Robinson	3
+Scott	3
+Stirling	3
+Tau	3
+Taylor	3
+Yates	3
+Allen	2
+Anderson	2
+Andrews	2
+Borell	2
+Broughton	2
+Bryant	2
+Cameron	2
+Campbell	2
+Carrington	2
+Clarke	2
+Cooper	2
+Davis	2
+Dewes	2
+Diamond	2
+Doherty	2
+Edwards	2
+Ellis	2
+Ellison	2
+Fraser	2
+George	2
+Gowler	2
+Graham	2
+Harawira	2
+Harwood	2
+Hawke	2
+Henare	2
+Higgins	2
+Hohepa	2
+Hopa	2
+Huata	2
+Ihaka	2
+Imrie	2
+Ioane	2
+Jackson	2
+Jahnke	2
+Kake	2
+Kanawa	2
+Kātene	2
+Kawharu	2
+Lardelli	2
+Leach	2
+Lowe	2
+MacDonald	2
+Macfarlane	2
+Maihi	2
+Makoare	2
+Manuel	2
+Matamua	2
+McDonald	2
+Milroy	2
+Nathan	2
+Pardington	2
+Paterson	2
+Paul	2
+Pita	2
+Poananga	2
+Reid	2
+Reweti	2
+Riddell	2
+Roskruge	2
+Russell	2
+Ruwhiu	2
+Solomon	2
+Stephens	2
+Tikao	2
+Trow	2
+Waititi	2
+Warbrick	2
+Watene	2
+Webber	2
+Wright	2
+Abel
+Abolins
+Abraham
+Adsett
+Aikman
+Aiono
+Amner
+Andersen
+Aranui
+Arlidge
+Armstrong
+Arnett
+Aspin
+Atkins
+Awekotuku
+Ayton
+Bachop
+Ballantyne
+Barber
+Barclay
+Bargh
+Barnes
+Barnett
+Barron
+Barton
+Bateman
+Bates
+Baxter
+Beamish
+Becker
+Beggs
+Bell
+Belz
+Berryman
+Beyer
+Biggs
+Bigham
+Birch
+Blair
+Blake
+Blank
+Bloomfield
+Bond
+Boult
+Boulton
+Brake
+Bresanello
+Brewer
+Brightwell
+Bristow
+Bristowe
+Brooke
+Browne
+Brownlie
+Brunning
+Bryers
+Buck
+Bull
+Bulling
+Bullmore
+Cairns
+Calman
+Carter
+Casey
+Castle
+Chadwick
+Cherrington
+Chitham
+Clareburt
+Clay
+Clifford
+Collier
+Comer
+Conner
+Conrad
+Corban
+Corneal
+Coster
+Cotton
+Cottrell
+Couch
+Coulter
+Coxhead
+Cram
+Crawford
+Crengle
+Crow
+Cull
+Cunningham
+Curtis
+Darlison
+Davies
+Derby
+Devery
+Dickson
+Downes
+Doyle
+Dudley
+Duke
+Dunn
+Eaton
+Edmunds
+Elder
+Elliott
+Erceg
+Everitt
+Evernden
+Everton
+Fairweather
+Ferguson
+Fitzmaurice
+Flavell
+Flutey
+Flynn
+Ford
+Forde
+Forster
+Fox
+Foy
+Freller
+Garden
+Gaze
+Gear
+Gibbons
+Gifford
+Gildea
+Gillon
+Glover
+Goodwin
+Grant
+Gray
+Griffen
+Haddon
+Hall
+Hansard
+Hansen
+Harris
+Hartendorp
+Harvey
+Hawkins
+Hayden
+Hearn
+Hei
+Heke
+Henry
+Hepi
+Hickey
+Hill
+Hilton
+Hindin
+Hippolite
+Hireme
+Hirini
+Hitchens
+Hodgetts
+Hohaia
+Hood
+Hooper
+Hoskins
+Houkamau
+House
+Hudson
+Ihimaera
+Ingham
+Insley
+Isaac
+Iti
+Jarvis
+Johansen
+Johnston
+Joseph
+Joyce
+Julian
+Ka'ai
+Kaipara
+Kaipo
+Katae
+Kawana
+Keegan
+Keiha
+Kemp
+Kennedy
+Kennett
+Kenney
+Kerr
+Kidman
+King
+Kirikiri
+Kirkwood
+Kiro
+Klaricich
+Knebel
+Kuka
+Kukutai
+Lanning
+Lapwood
+Larkin
+Latimer
+Lawless
+Lawton
+Le Comte
+Lee-Morgan
+Leifi
+Leslie
+Lewis
+Lilley
+Lilo
+Loader
+Lodge
+Lovett
+Mace
+MacGregor
+Mahuika
+Main
+Mané
+Mann
+Manning
+Mantell
+Marks
+Masters-Awatere
+Matenga
+Matunga
+Maxwell
+McAlister
+McCaw
+McConnell
+McGregor
+McIlroy
+McInroe
+McIntosh
+McMeeking
+McMillian
+McNaughton
+McNeill
+Mellish
+Menzies
+Mercier
+Meredith
+Merrilees
+Messam
+Mete
+Metzger
+Mika
+Mikaere
+Mitai
+Mitchell
+Moeahu
+Moller
+Molyneux
+Morehu
+Morey
+Morgan
+Morris
+Mountain
+Muir
+Mulholland
+Mullins
+Munn
+Munro
+Murchie
+Murphy
+Mutu
+Nahu
+Nelson
+Ngārimu
+Ngatai
+Nikora
+Nin
+Norris
+Norton
+O'Connor
+O'Neill
+O'Regan
+O'Sullivan
+Ohlson
+Oliver
+One
+Ormsby
+Owen
+Packer
+Paddy Barrett
+Paget
+Paikea
+Palmer
+Pānoho
+Papa
+Parore
+Parr
+Pauling
+Pearse
+Pepere
+Pereira
+Perry
+Petricevich
+Phillips
+Pihama
+Pine
+Pirihi
+Pitama
+Pittman
+Pokaia
+Potaka
+Pou
+Pouwhare
+Priest
+Quince
+Radford
+Radich
+Raerino
+Ralph
+Rameka
+Randell
+Rangi
+Rangihuna
+Ratapu
+Raukawa
+Raumati
+Rayner
+Reeves
+Rehu
+Reriti
+Rewi
+Richmond
+Rickard
+Ridings
+Ringham
+Ritchie
+Roa
+Roberts
+Roche
+Rogers
+Rolls
+Ronald
+Rose
+Ross
+Rua
+Rufer
+Ruka
+Rupe
+Rurawhe
+Ruru
+Rush
+Ryder
+Sadler
+Samuels
+Schmidt
+Schuster
+Shailer
+Shepherd
+Sheridan
+Shortland
+Simon
+Simpson
+Singe
+Smiler
+Snee
+Snow
+Snowden
+Solly
+Sorrenson
+Spencer
+Spiller
+Spraggon
+Stairmand
+Stanaway
+Staniland
+Stevens
+Stewart
+Stone
+Stuart
+Szászy
+Taiaroa
+Tākao
+Taleni
+Tanner
+Taonui
+Tapsell
+Tassell
+Taulelei
+Tauroa
+Taurua
+Tawhai
+Tawhiao
+Te Aho
+Te Morenga
+Te Wiata
+Temara
+Theodore
+Thomas
+Thompsett
+Tiatoa
+Tibble
+Tipa
+Tipene
+Tocker
+Tremaine
+Turei
+Tuteao
+Tuwhare
+Uru
+Vercoe
+Vincent
+Vining
+Waaka
+Waerea
+Waghorn
+Waitoki
+Wallace
+Wallis
+Walters
+Wara
+Warahi
+Ward
+Ware
+Warren
+Watson
+Webb
+Whaitiri
+Whata
+Wheoki
+Whitelock
+Whyte
+Wihapi
+Wikaire
+Wiki
+Wilcox
+Willing
+Wiremu
+Wiri
+Witehira
+Wong
+Woodman
+Wynyard
+Zister

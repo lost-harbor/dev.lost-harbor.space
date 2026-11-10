@@ -1,49 +1,40 @@
-// Caution! Be sure you understand the caveats before publishing an application with
-// offline support. See https://aka.ms/blazor-offline-considerations
+/*
+ * Retires the old Blazor app's offline service worker. That worker answered
+ * every navigation from its cache. Browsers keep a registered worker when its
+ * script returns 404, so this replacement must stay at the same path.
+ *
+ * On activation it deletes every Cache Storage entry and every IndexedDB
+ * database except the game's own `lost-harbor` saves, unregisters itself and
+ * reloads the tabs it controlled. The game never registers a service worker,
+ * so only browsers that still run the old worker load this file.
+ */
+const KEEP_DATABASES = new Set(["lost-harbor"]);
 
-self.importScripts('./service-worker-assets.js');
-self.addEventListener('install', event => event.waitUntil(onInstall(event)));
-self.addEventListener('activate', event => event.waitUntil(onActivate(event)));
-self.addEventListener('fetch', event => event.respondWith(onFetch(event)));
+self.addEventListener("install", () => self.skipWaiting());
 
-const cacheNamePrefix = 'offline-cache-';
-const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
-const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [ /^service-worker\.js$/ ];
+self.addEventListener("activate", (event) => {
+  event.waitUntil(retire());
+});
 
-async function onInstall(event) {
-    console.info('Service worker: Install');
-
-    // Fetch and cache all matching items from the assets manifest
-    const assetsRequests = self.assetsManifest.assets
-        .filter(asset => offlineAssetsInclude.some(pattern => pattern.test(asset.url)))
-        .filter(asset => !offlineAssetsExclude.some(pattern => pattern.test(asset.url)))
-        .map(asset => new Request(asset.url, { integrity: asset.hash, cache: 'no-cache' }));
-    await caches.open(cacheName).then(cache => cache.addAll(assetsRequests));
+async function retire() {
+  const keys = await caches.keys();
+  await Promise.all(keys.map((key) => caches.delete(key)));
+  if (self.indexedDB && typeof self.indexedDB.databases === "function") {
+    const databases = await self.indexedDB.databases();
+    await Promise.all(
+      databases
+        .filter((db) => db.name && !KEEP_DATABASES.has(db.name))
+        .map((db) => deleteDatabase(db.name)),
+    );
+  }
+  await self.registration.unregister();
+  const tabs = await self.clients.matchAll({ type: "window" });
+  await Promise.all(tabs.map((tab) => tab.navigate(tab.url).catch(() => {})));
 }
 
-async function onActivate(event) {
-    console.info('Service worker: Activate');
-
-    // Delete unused caches
-    const cacheKeys = await caches.keys();
-    await Promise.all(cacheKeys
-        .filter(key => key.startsWith(cacheNamePrefix) && key !== cacheName)
-        .map(key => caches.delete(key)));
+function deleteDatabase(name) {
+  return new Promise((resolve) => {
+    const request = self.indexedDB.deleteDatabase(name);
+    request.onsuccess = request.onerror = request.onblocked = () => resolve();
+  });
 }
-
-async function onFetch(event) {
-    let cachedResponse = null;
-    if (event.request.method === 'GET') {
-        // For all navigation requests, try to serve index.html from cache
-        // If you need some URLs to be server-rendered, edit the following check to exclude those URLs
-        const shouldServeIndexHtml = event.request.mode === 'navigate';
-
-        const request = shouldServeIndexHtml ? 'index.html' : event.request;
-        const cache = await caches.open(cacheName);
-        cachedResponse = await cache.match(request);
-    }
-
-    return cachedResponse || fetch(event.request);
-}
-/* Manifest version: dTWYNMyH */

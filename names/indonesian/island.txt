@@ -1,0 +1,5000 @@
+Panjang	40
+Burung	24
+Dua	22
+Babi	21
+Tengah	16
+Kambing	13
+Baru	12
+Batu	12
+Pisang	11
+Tiga	11
+Tikus	11
+Bakau	10
+Buaya	8
+Genting	8
+Laut	8
+Kalong	7
+Kelapa	7
+Nanas	7
+Nyamuk	7
+Paniki	7
+Bulat	6
+Damar	6
+Nangka	6
+Nibung	6
+Ular	6
+Bangko	5
+Batukapal	5
+Batuputih	5
+Besar	5
+Bungin	5
+Gadung	5
+Hantu	5
+Kecil	5
+Kera	5
+Lima	5
+Pandan	5
+Payung	5
+Semut	5
+Air	4
+Antu	4
+Ayer	4
+Buan	4
+Bunta	4
+Buton	4
+Cempedak	4
+Datu	4
+Kapas	4
+Karang	4
+Kramat	4
+Kubur	4
+Labu	4
+Liang	4
+Mas	4
+Ngaimadodera	4
+Pasir	4
+Pinang	4
+Satu	4
+Seraya	4
+Sulawesi	4
+Tempurung	4
+Tokong	4
+Akat	3
+Badas	3
+Bajo	3
+Basing	3
+Batang	3
+Batumandi	3
+Batutiga	3
+Belading	3
+Berhala	3
+Beruk	3
+Besi	3
+Boe	3
+Bulu	3
+Busung	3
+Delapan	3
+Kapal	3
+Karangan	3
+Karantu	3
+Kayangan	3
+Kelo	3
+Kelor	3
+Kepulauan Banggai	3
+Ketam	3
+Komang	3
+Kukusan	3
+Kumbang	3
+Kunyit	3
+Lalang	3
+Layang	3
+Lemo	3
+Lintang	3
+Lipan	3
+Lito Dudepo	3
+Macan	3
+Mariam	3
+Medang	3
+Meong	3
+Merah	3
+Mesa	3
+Miskin	3
+Nusa	3
+Nusa Batu	3
+Paku	3
+Papan	3
+Pasi	3
+Pasirputih	3
+Peling	3
+Pucung	3
+Raja	3
+Rengat	3
+Sama	3
+Selayar	3
+Serai	3
+Seram	3
+Suanggi	3
+Tambelan	3
+Ujung	3
+Unggas	3
+Yu	3
+Agas	2
+Alor	2
+Ambai	2
+Anso	2
+Asu	2
+Aur	2
+Ayam	2
+Ayermasin	2
+Babar	2
+Bagu	2
+Bajau	2
+Bakung	2
+Bakung Besar	2
+Bakung Kecil	2
+Balai	2
+Balak	2
+Bali	2
+Bambu	2
+Bangka	2
+Bangkau	2
+Bangkobangkoang	2
+Bango	2
+Bani	2
+Banyak	2
+Barat	2
+Baruk	2
+Batong	2
+Batu Mandi	2
+Batulancang	2
+Batulayar	2
+Bawah	2
+Bedil	2
+Belang	2
+Belangbelang	2
+Belen	2
+Bembe	2
+Berambang	2
+Berbatukarang	2
+Beting	2
+Biak	2
+Birahbirahan	2
+Bisa	2
+Bodo	2
+Bokor	2
+Boo	2
+Buau	2
+Buntar	2
+Buntu	2
+Buru	2
+Cilik	2
+Cina	2
+Cun	2
+Daram	2
+Dendang	2
+Dolak	2
+Durai	2
+Fanildo	2
+Fatan	2
+Gag	2
+Gam	2
+Gili Kebo	2
+Gili Santigi	2
+Gili Sarang	2
+Gili Tenge	2
+Gundul	2
+Haji	2
+Ibul	2
+Inus	2
+Itua	2
+Jagung	2
+Jailamu	2
+Jedan	2
+Jefdoif	2
+Joji	2
+Joronga	2
+Kabu	2
+Kaidung	2
+Kalies	2
+Karimunjawa	2
+Karsik	2
+Kasuari	2
+Kauna	2
+Kawio	2
+Kedi	2
+Kekek	2
+Kembang	2
+Kepayang	2
+Keramat	2
+Kerayaan	2
+Kerisian	2
+Ketapang	2
+Kidang	2
+Kila	2
+Kluang	2
+Kolorai	2
+Kotok Kecil	2
+Krakatau	2
+Kucing	2
+Kundur	2
+Kura	2
+Kusu	2
+Laibobar	2
+Lailawan	2
+Laiya	2
+Laki	2
+Langir	2
+Langkai	2
+Lantang Besar	2
+Latalata	2
+Libukang	2
+Limau	2
+Liukanglu	2
+Lobam	2
+Lopon	2
+Lotong	2
+Lumulumu	2
+Lumut	2
+Lutur	2
+Mademo	2
+Mai	2
+Maisel	2
+Makaranangana	2
+Malang	2
+Malu	2
+Manek	2
+Mangimangi	2
+Mangkudu	2
+Mani	2
+Manipa	2
+Manuk	2
+Mapat	2
+Mariri	2
+Mauang	2
+Mengkudu	2
+Merak	2
+Merbau	2
+Meru	2
+Midai	2
+Mimien	2
+Mios	2
+Mubur	2
+Mumus	2
+Natuna Besar	2
+Nenas	2
+Nenung	2
+Nipa	2
+Nipis	2
+Nitu	2
+Nukori	2
+Nusa Batujinengan	2
+Nusa Bibi	2
+Nusa Buan	2
+Nusa Deket	2
+Nusi	2
+Obi	2
+Pahat	2
+Panabean	2
+Panda	2
+Pandang	2
+Panggang	2
+Panjang Besar	2
+Panjang Kecil	2
+Parang	2
+Pasaran	2
+Pat	2
+Pekuburan	2
+Pelangi	2
+Pengelap	2
+Pengibu	2
+Penjaliran Timur	2
+Penyu	2
+Perangatan	2
+Perling	2
+Pombo	2
+Pompong	2
+Pulutiga	2
+Putri	2
+Ragi	2
+Rakit	2
+Rarangane	2
+Rawa	2
+Reusam	2
+Rica	2
+Rida	2
+Roti	2
+Rumbia	2
+Runi	2
+Rusa	2
+Sabaru	2
+Sain	2
+Samaga	2
+Sarang	2
+Sarangalu	2
+Sarangburung	2
+Satonda	2
+Saumang	2
+Sebai	2
+Sebuku	2
+Sedeng	2
+Sedua	2
+Sepatu	2
+Serak	2
+Serang	2
+Seribu	2
+Sibuntar	2
+Sidom	2
+Sikandang	2
+Sikawai	2
+Sinaboi	2
+Sisi	2
+Solor	2
+Suka	2
+Sukun	2
+Sula	2
+Sumanga	2
+Sumba	2
+Sumur	2
+Tabuhan	2
+Tabulu	2
+Talam	2
+Talur	2
+Tamban	2
+Tanah Merah	2
+Tangah	2
+Tapai	2
+Tawa	2
+Tayandu	2
+Telaga	2
+Telaga Kecil	2
+Telan	2
+Telopo	2
+Telor	2
+Temiang	2
+Tepi	2
+Ternate	2
+The Brothers	2
+Timor	2
+Tinggi	2
+Toabi	2
+Toade Sambo	2
+Toba	2
+Togongboyoko	2
+Tokong Belayar	2
+Tomahu	2
+Tonga	2
+Tuada	2
+Tuan	2
+Tuangku	2
+Tulang	2
+Tupir	2
+Umbele	2
+Ungar	2
+Usu	2
+Ut	2
+Walo	2
+Waria	2
+Waruwaru	2
+Watubela	2
+Watulai	2
+Watulawang	2
+Wayam	2
+Woda	2
+Wolas	2
+Yanusi	2
+Aai Berar Besar
+Aai Berar Kecil
+Abadi
+Abang
+Abang Besar
+Abang Kecil
+Abidon
+Adam
+Adanar
+Adi
+Adonara
+Adu
+Aduar
+Aearia
+Aermasin
+Agas Kecil
+Agis
+Ahus
+Ai
+Aibai
+Aibondeni
+Aiduma
+Aikei
+Airabu
+Airasuk
+Airbatu
+Airraja
+Airterputer
+Akalo
+Akar
+Aki
+Aknaes
+Ala
+Alabona
+Alahula
+Alai
+Alalak
+Alang Bakau
+Alang Hutan
+Alang-alang
+Alanggantang
+Alangtiga
+Alipan
+Aliyai
+Aloang
+Aluan
+Alut
+Aman
+Ambabee
+Ambasinsi
+Ambatin
+Ambatu
+Ambelau
+Ambiloleh
+Ambon
+Ambungi
+Amdebar
+Amjama
+Amortaun
+Ampalasa
+Ampat
+Amsterdam
+Amutu Besar
+Amutu Kecil
+Anak
+Anak Awur
+Anak Kerayaan
+Anak Ladang
+Anak Mati
+Anak Melor
+Anak Petong
+Anakair
+Anakan
+Anakburung
+Anakileuh
+Anakmati
+Anakmecan
+Anaksambu
+Anambas
+Anano
+Anduhian
+Anggarmasa
+Angkut
+Angrameos
+Ansunda
+Ansus
+Antinang
+Anton
+Anue
+Anus
+Anusaanasuramu
+Anyar
+Anyaru
+Anyer
+Anyuranyur
+Apelabu
+Araan
+Arabi
+Aran
+Araseta
+Arguni
+Ariu
+Armo
+Aroh
+Aru
+Aruah
+Aruri
+Asa Besar
+Asa Kecil
+Asakmatan
+Asam
+Asamamanuke
+Asan
+Asap
+Asasal
+Asaudi
+Asia
+Asok
+Asutubun
+Atung
+Augusta
+Aurgadang
+Auri
+Awaar
+Awai
+Awawo
+Awi
+Awirisi
+Awo-Awo
+Awu
+Ayar
+Ayarobego
+Ayawi
+Ayemi
+Ayer Besar
+Ayerabu
+Ayu
+Ayuan
+Baam
+Baba
+Babagang
+Babakun
+Babua
+Babuan
+Baburnu
+Baby
+Bacan
+Badak Badak
+Badi
+Badul
+Bagat Binuni
+Bagong
+Bahan
+Baholokmonegoro
+Bahomoiri
+Bahubulu
+Bahuluang
+Bai
+Baika
+Bainanam
+Baiwawa
+Bakalan
+Bakalsasalo
+Bakan
+Bakealu
+Baki
+Bakoberes
+Bakori
+Bakuku
+Bakungan
+Balabalangan
+Balai Lumba
+Balakbalak
+Balambangan
+Balangcaddi
+Balanglompo
+Balasika
+Balayon
+Balbili
+Balbulol
+Balean
+Baleara
+Baleara Kecil
+Baleh
+Balian
+Baligi
+Balilsini
+Balingbaling
+Balobah
+Balobaloang Kecil
+Balong
+Balontohe
+Balu
+Bamballan
+Bambanuse
+Bambedadari
+Bambuyano
+Ban
+Banawaya
+Banda
+Banda Besar
+Banda Neira
+Bandahara
+Bandang
+Bandialit
+Bando
+Bangge
+Bangkai
+Bangkalan Pauno
+Bangkao
+Bangkaru
+Bangkauluang
+Bangkil
+Bangkudulis Besar
+Bangkudulis Kecil
+Bangkurung
+Bangulemea
+Baning
+Banis
+Banjar
+Bankobankoang
+Bansa
+Banttowae
+Banyo
+Banyu
+Banyutarung
+Bapa
+Bara Lompo
+Barakan
+Bararan
+Baras
+Barataku
+Bardaun
+Barenggemonokodi
+Baringin
+Barogang
+Baronusu
+Barubaru
+Barus
+Basa
+Basak
+Basaran
+Basumpelan
+Batambawi
+Batanglampe
+Batangpele
+Batanta
+Batarkusu
+Bate
+Batee
+Batek
+Bati
+Batimbul
+Batimee
+Batisan
+Batngusi
+Batok
+Batongo
+Batserang
+Batu Adang Selatan
+Batu Bale
+Batu Belahir
+Batu Bengah
+Batu Bilis
+Batu Daefui
+Batu Garam
+Batu Hitam
+Batu Hun
+Batu Ililai
+Batu Kagulung
+Batu Kapal
+Batu Karangbolong
+Batu Maesan
+Batu Masin Satu
+Batu Nunggal
+Batu Nusamanuk
+Batu Ofak
+Batu Payung
+Batu Selayar
+Batu Sohong
+Batu Suluh
+Batu Tua Besar
+Batu Tua Kecil
+Batuampar
+Batuampas
+Batuampat
+Batuanyur Besar
+Batuanyur Kecil
+Batuasahan
+Batuata
+Batubawaikang
+Batubedaun
+Batubelah
+Batubelobang
+Batuburuk
+Batudandang
+Batudinding
+Batudolohe
+Batudua
+Batugoyang
+Batuhiang
+Batuilomoti Opat
+Batukahemise
+Batukalasi
+Batukebo
+Batukolu
+Batukuhia
+Batuliang Disi
+Batulompa
+Batumakele
+Batumalokong
+Batumananinta
+Batumaresoh
+Batunago
+Batunderang
+Batupandak
+Batupengah
+Batupeti
+Batupiing
+Batupuikang
+Batusalambeang
+Batusombo
+Batusuanggi
+Batutentumbangho
+Batutolu
+Batuwingkong
+Batuwora Gheghuwa
+Bauasak
+Bauluwang
+Baun
+Bawa
+Bawal
+Bawean
+Bawondeke
+Baya
+Baya Laut
+Bayan
+Bayar
+Bebalang
+Bebuar
+Bedari
+Bedegum
+Bedera
+Bedua
+Beeng Darat
+Beeng Laut
+Beeuw
+Begunung
+Bekantan
+Bekengkeng
+Belakangpadang
+Belakangsidih
+Belal
+Belanak
+Belanda
+Belanding
+Belantung
+Belaong
+Belat
+Belawan
+Belembang
+Belete
+Belian
+Belimsili
+Belitung
+Bellis
+Bellis Darat
+Belukar
+Belungking
+Beluput
+Benah
+Benal
+Benan
+Benawa Dua
+Benawa Satu
+Bendera
+Benggala
+Bengkalis
+Bengku
+Bengkung
+Bengori
+Bentenan
+Benut
+Bepondi
+Berak
+Berakit
+Beralas
+Beralas Pasir
+Berang
+Berangas
+Berasbasah
+Berekkai
+Berendam
+Beriberi
+Berikupek
+Berikurep
+Beringin
+Berisi
+Berkey
+Berlak
+Bertam
+Beruan
+Berunai
+Besori Besar
+Besori Kecil
+Betet
+Beting Aceh
+Betingau
+Betuah
+Betunde
+Beung
+Bewak
+Bia
+Biang
+Biantsyi Besar
+Biantsyi Kecil
+Biaro
+Biawak
+Bicora
+Bidadari
+Bidan
+Bidara
+Bikanmut
+Binaar
+Bindalang
+Binga
+Bingkudu
+Bini
+Binje
+Bintan
+Bintanggor
+Bintangor
+Bintung
+Binyoso
+Bira Besar
+Bira Kecil
+Birang-Birang
+Bitila
+Bittinabolanan
+Bivak
+Blandoh Besar
+Blian
+Boano
+Boba
+Boba Besar
+Boba Kecil
+Bobagai
+Bobatdaka
+Bobi
+Boboko
+Bobongonmahaharong
+Bobu Dalam
+Bobu Luar
+Bocek
+Bog
+Bojo
+Bokan
+Boko
+Bokuboku
+Bokuboku Pefot
+Bokuboku Plim
+Bokuboku Plu
+Bokuboku So
+Bola
+Bolah
+Bolakamba
+Bolano
+Bole
+Bolelanga
+Bolo
+Boloh
+Bolokimolomos
+Bolong
+Bolu
+Bone Bonoang
+Bonerate
+Bonesaio
+Bongko
+Bontoala
+Bontosua
+Bontubontu Barat
+Bontubontu Timur
+Boo Besar
+Boo Kecil
+Boompyes
+Boora
+Bora
+Borang
+Bori
+Bori Kecil
+Borneo
+Borus
+Bossack
+Botolino
+Boyolangu
+Brabang
+Brace
+Bras
+Breueh
+Briehdarat
+Briehlaut
+Bromsi
+Brunoh
+Buagala
+Buantawar
+Buantawar Utara
+Buasei
+Bubale
+Budih
+Buegala
+Buersinu
+Bugai
+Bugei Besar
+Bugi
+Bui
+Bujang
+Bujareng
+Bujur
+Buka
+Bukabuka
+Bukang
+Bukat
+Bukide
+Bukidebatu
+Bukidelapango
+Bukithitam
+Bukoang
+Bukuan
+Bulan
+Bulang Kebam
+Bulu Air
+Buluh
+Bulupolo
+Buma
+Bumbel
+Bumin
+Bunaken
+Bunder
+Bundin
+Bundu
+Bundung
+Bunga
+Bungihoyo
+Bungin Tengah
+Bungintende
+Bunginyarat
+Bungiolo
+Bungkutoko
+Bungsu
+Bunibelle
+Bunte
+Bunteng
+Buntong
+Bunut
+Bunyu
+Buol
+Bur
+Burikan
+Buro
+Burok
+Buroto
+Burung Delapan
+Burungloe
+Busak
+Butongbutongan
+Buwar
+Buyat
+Cambacambang
+Campedak Selatan
+Campedak Utara
+Canding Besar
+Canding Kecil
+Candur
+Candus
+Cangke
+Cangkir
+Canpade
+Capan
+Capatu
+Catu
+Catur
+Cawan
+Cebe
+Cebenam
+Cef
+Cekukur
+Celaka
+Celukan Bawang
+Cemara
+Cemara Besar
+Cempah
+Cendikian
+Cepedak
+Cerit Besar
+Cerit Kecil
+Cermin
+Cicere
+Cicin
+Ciger
+Cikantung
+Cilipgo
+Cimbing
+Cinamadoidu
+Cingkuk Kecil
+Cingkukgadang
+Cingkul
+Cingkung Besar
+Cipananabesar
+Ciparage
+Citlim
+Combol
+Combun Darat
+Combun Laut
+Concong
+Condong Darat
+Condong Laut
+Cowocowo
+Cubadak
+Cuhin
+Cukas
+Cukuh Pandan
+Cukus
+Cukus Sarang
+Cula
+Cungcung
+Cutei
+Daar
+Dabung
+Dadapat
+Dadawe
+Daga
+Daga Besar
+Daga Kecil
+Dagasuli
+Dahudahu
+Dai
+Daiwo
+Daka
+Dakokayu
+Dakupang
+Daleh
+Damaha
+Damalawa Besar
+Damalawa Kecil
+Damar Besar
+Damar Kecil
+Dambila
+Dana
+Dandangdangdang
+Dane
+Dangar Besar
+Dangar Kecil
+Dangsi
+Danta
+Dao
+Daoim
+Dapur
+Dapur Sandung
+Daramunim
+Darat Depan
+Daru
+Dasi
+Datok
+Datuk
+Daweloor
+Dawera
+Dawora
+Dayong
+Dedap
+Dedep
+Degong
+Deherete
+Deli
+Dempu
+Denawang
+Dengayak
+Dengka
+Denie
+Derawan
+Derwaria
+Dewakang Besar
+Dewakang Kecil
+Dii
+Dikar
+Dinbatibobar
+Dinkor
+Ditair
+Diti
+Doangdoangan Besar
+Doangdoangan Kecil
+Dobul Yef
+Dodaweweda
+Dodera
+Dodi
+Dodiki
+Dodoku
+Dodola Besar
+Dodola Kecil
+Dodora
+Doi
+Dokkor
+Dokoh
+Dolangon
+Dolungun
+Dondolang
+Dongas
+Dongkala
+Doo
+Doolangan
+Doro
+Doro Ici
+Doro Lamo
+Doro Panjang
+Doroobi Kecil
+Dorosolome Besar
+Dorosolome Kecil
+Doukai
+Dowongirotu
+Doworaici
+Doworalamo
+Dramai
+Dranan
+Dua Barat
+Dua Timur
+Duaseta
+Dudu Besar
+Dudu Kecil
+Dufin
+Duiven Eiland
+Dukoh Kecil
+Duku
+Dula-darat
+Dulang
+Dulief
+Dumarehe
+Dumdum
+Durian Kecil
+Dusyait
+Dutungan
+Duyung
+Ebo
+Edawang
+Ederah Dadi
+Efkalabas
+Efna
+Efpian
+Eftawa
+Efwai
+Eja
+Eka
+Eki
+Ela
+Elel
+Embodi
+Empoh
+Ena Mbojo
+Enam
+Ende
+Endokdokan
+Enggahai Besar
+Enggano
+Engkoasan
+Enu
+Epar
+Erianak
+Esau
+Eunggang
+Faar
+Facet
+Fafan Um
+Fafani
+Fagom
+Fagon Genan
+Fair
+Faknikiadori
+Fambemuk
+Fani
+Fanny
+Faraigirif
+Faraimagen
+Faroa
+Farondi
+Faternus
+Fatohoi Ici
+Fatohoi Lamo
+Fatsati
+Fatul
+Fau
+Fayus
+Femin
+Feminkanaan
+Fiabacet
+Filonga
+Fior
+Fisuhamrir
+Flay Bajo
+Fles
+Flores
+Fo
+Fogi
+Fonokabai
+Fordate
+Frinun
+Friwinbonda
+Fuattambururit
+Fuilu
+Fukuweu
+Fun Sorga
+Fwoyo
+Gabi
+Gadungan Besar
+Gagasem
+Gajah
+Gakkutu
+Gala
+Gala Besar
+Gala Kecil
+Galang
+Galang Baru
+Galogalo Besar
+Galogalo Kecil
+Gamai
+Gampunu
+Gamti
+Gandaha
+Gangga
+Ganone
+Gantang
+Gantung
+Garaga
+Garat
+Gariyama Kecil
+Gaspar
+Gayang
+Gebe
+Gebe Besar
+Gebe Kecil
+Gede
+Gego
+Gegoru
+Gei
+Gelam
+Gelean
+Gellem
+Gelo
+Gelu
+Gembili
+Gemien
+Gemut
+Genteng
+Genteng Besar
+Genteng Kecil
+Gentingunyut
+Gentung
+Gersik
+Geser
+Gesungigaku
+Getah
+Gewie
+Gilen
+Gili
+Gili Anakanjan
+Gili Areng
+Gili Asahan
+Gili Bajo
+Gili Bakau
+Gili Balere
+Gili Banta
+Gili Batubesar
+Gili Batudaeng
+Gili Batuputik
+Gili Belek
+Gili Bembek
+Gili Bembekkecil
+Gili Bia
+Gili Botak
+Gili Cangkir
+Gili Depi
+Gili Dewa
+Gili Gede
+Gili Kado
+Gili Kaki
+Gili Kapas
+Gili Kele
+Gili Kerate
+Gili Kere
+Gili Krata
+Gili Kratak
+Gili Krucut
+Gili Kubur
+Gili Kuri
+Gili Lampu
+Gili Larot
+Gili Lawadarat
+Gili Lawalaut
+Gili Lawang
+Gili Layar
+Gili Lebur
+Gili Lipan
+Gili Loangberayun
+Gili Maja
+Gili Makemkao
+Gili Mas
+Gili Medas
+Gili Melayu
+Gili Meriam Besar
+Gili Meriam Kecil
+Gili Meringkik
+Gili Motang
+Gili Nae
+Gili Nanggu
+Gili Ngara
+Gili Nusa
+Gili Nyepuq
+Gili Ode
+Gili Paning
+Gili Pasaran
+Gili Pasir
+Gili Perigi
+Gili Petagan
+Gili Petelu
+Gili Poh
+Gili Puyung
+Gili Ree
+Gili Rengit
+Gili Rhee
+Gili Sarangburung
+Gili Sayang
+Gili Selang
+Gili Solet
+Gili Sudak
+Gili Sulat
+Gili Surak
+Gili Tangkong
+Gili Temeak
+Gili Torobero
+Gili Toto
+Gili Trawangan
+Gili Watubako
+Gili Wayang
+Gilibatu
+Giliduak
+Giligenting
+Giligili
+Gililawak
+Gilipandan
+Giliraja
+Gilisaya
+Gin Besar
+Gin Kecil
+Giombang
+Glatik
+Godo
+Godon
+Gof Besar
+Gof Kecil
+Gofa
+Gogabola
+Gojong
+Gomala
+Gombal
+Gommu
+Gong
+Gono
+Goraici
+Goralamo
+Goras
+Gorauci
+Gordon
+Gorom Laut
+Gosobaohi
+Gosong
+Gosong Baru
+Gosong Keroya
+Gosong Pajenekangkeke
+Gosong Pandan
+Gosong Rangat
+Gosongasam
+Gotar
+Goweba
+Gresik
+Grogas
+Grogus
+Guagua
+Guasarang
+Gubbins
+Guci Ici
+Gufela
+Gumbong
+Gumele
+Gumutu
+Gunange
+Gunatin
+Gundu
+Guntung
+Gunungapi
+Gura Boso
+Gura Tabailenge
+Guraici
+Gurango Fabajo
+Gurango Fadero
+Gurango Faici
+Gurango Falamo
+Gurango Famarimari
+Gurango Famuhia
+Gurango Fangoom
+Gurango Faou
+Gurango Faselebe
+Gurango Fasosoro
+Guratamo
+Guratu
+Gureda
+Guruahiku
+Gurung Besar
+Gurung Kecil
+Gusung Bara Caddi
+Gusung Bonetambu
+Gusung Lapoipoi
+Habeeke
+Habibanoha
+Haeu
+Halang
+Halima
+Halmahera
+Handeuleum
+Hangop
+Haniar
+Hanoman
+Haowat
+Hari
+Haruku
+Hatala
+Hatebesi Besar
+Hatebesi Kecil
+Hatianauni
+Hatta
+Hatuwe
+Haur
+Havik-eiland
+Hawangirnoha
+Hayau
+Helehanak
+Her
+Herberg Dua
+Hiligito
+Hilimafau
+Hilimakora
+Hinako
+Hiri
+Hiriuli
+Hiu
+Hoa
+Hogow
+Hole
+Hongi
+Hoo
+Hoog
+Hooiberg
+Hoorn
+Hudang
+Hulawa
+Hulu
+Hum
+Ibau
+Iborambondi
+Ibus
+Ifinun
+Ifsaminiet
+Igar
+Igiem
+Igo
+Iju
+Ikaguri
+Ilir
+Imana
+Impul
+Ina
+Incikmail
+Indari
+Indokdimak
+Indoklampido
+Inggelang
+Insobabi
+Insomndi
+Insumanai
+Insumoar
+Intan
+Intan Kecil
+Intata
+Ipan
+Ipet
+Iras
+Islap
+Ismoyo
+Itek-Itek
+Iting-iting
+Iwissa
+Iyan
+Iyu
+Iyu Besar
+Iyu Kecil
+Jaba
+Jabi-jabi
+Jadi
+Jaga
+Jaga Utara
+Jagattutun
+Jagatutur
+Jahan
+Jakat
+Jal
+Jali
+Jaloh
+Jam
+Jambat
+Jambe
+Jambu
+Jandaberias
+Jangangjangangang
+Janggut
+Jangka
+Jangkulak
+Jangkung
+Jantai
+Japu
+Jaran
+Jarang
+Jarengkeng
+Java
+Jawa
+Jawang
+Jawijawi
+Jayakesuma
+Jeh
+Jela
+Jelopang
+Jemaja
+Jemur
+Jepang
+Jere
+Jerief
+Jerinusi
+Jerum
+Jeudin
+Jin
+Jire
+Joholemo
+Jojaga Dalam
+Jojaga Luar
+Jojikula
+Jojok
+Jroh
+Ju
+Juanta
+Juha
+Jujuat
+Jukung
+Julai
+Jumanat
+Jumangjang
+Jumpino
+Jungok
+Jupang
+Jursian
+Juwuwur
+Kabaena
+Kabaladua
+Kabawa
+Kabetan
+Kabihu
+Kabil Besar
+Kabo
+Kabuai
+Kabung
+Kaburuang
+Kacuwawa
+Kadapongan
+Kadatuang
+Kadidi
+Kadola
+Kafal
+Kahala
+Kaibulaubuggai
+Kaicebo
+Kaidulah
+Kaimeer
+Kainangmuri
+Kairu
+Kaitanimbar
+Kaitjebo
+Kajoh
+Kajuara
+Kakaban
+Kakabia
+Kakapali
+Kakole
+Kakorotan
+Kakupang
+Kalama
+Kalambau
+Kalan
+Kalao
+Kalaotoa
+Kalapa
+Kalapu
+Kalaroang Laut
+Kalasipo
+Kalbur
+Kalea
+Kaledupa
+Kaleroang
+Kalia Besar
+Kalia Kecil
+Kaliage Besar
+Kaliage Kecil
+Kalig
+Kalimantung Na Godang
+Kalimantung Na Menek
+Kalinaon
+Kaliroggo
+Kaliwala
+Kallo
+Kaloangan
+Kaloh
+Kalolum
+Kaluang
+Kalukalukuang
+Kalumbangan
+Kalungan
+Kalwat
+Kamaco
+Kamanisan
+Kamara
+Kamarong
+Kambanglamari
+Kambat
+Kambenim
+Kambuno
+Kambunong
+Kamerang
+Kamet
+Kampai
+Kampak
+Kampion
+Kamuai Um
+Kamual
+Kamudi
+Kananowat
+Kanari
+Kanawa
+Kandang Balak
+Kandanglunik
+Kandapute
+Kandu
+Kangean
+Kangge
+Kanim
+Kanipaan
+Kanis
+Kaniungan Besar
+Kaniungan Kecil
+Kanjokanaha
+Kano
+Kanober
+Kanuli
+Kapacan
+Kapal Besar
+Kapal Kecil
+Kapalkapal
+Kapaya
+Kapayu
+Kapcan Kecil
+Kapis-kapis
+Kapoposang
+Kapoposangbali
+Kapuliha
+Kapur
+Kapuri
+Karaba Besar
+Karaba Kecil
+Karabaik
+Karaka
+Karakelang
+Karamasan
+Karami
+Karampuang
+Karamputan
+Karang Beras
+Karang Bongkok
+Karang Gongso
+Karang Hantu
+Karang Jamuang
+Karang Keling
+Karang Luar
+Karang Mas
+Karang Sendara
+Karang Tengah
+Karanganjing
+Karanganyar
+Karangbolong
+Karangdalam
+Karanggemer
+Karangjajar
+Karangkasan
+Karangmajat
+Karangmalang
+Karangnoko
+Karangpegat
+Karangraya
+Karangtikukur
+Karanrang
+Kararabu
+Karas
+Karas Kecil
+Karas-besar
+Karata
+Karatung
+Karawapop
+Karawatu
+Karaweira
+Karaweira Mariri
+Karawo
+Karifaukidai
+Karimata
+Karimun Besar
+Kariori
+Karompacadi
+Karoti
+Karto
+Karumpalompo
+Karupiar
+Karwai
+Karya
+Kas
+Kasa
+Kasab
+Kasem
+Kasi
+Kasia
+Kasik
+Kasteel
+Kasu
+Kasuari Dalam
+Kasumba
+Kasurwai
+Kasya
+Kasyanfu
+Kataball
+Katang
+Katang Lingga
+Katapu
+Kateman
+Katinai Besar
+Katinai Kecil
+Katini
+Katip
+Katong
+Katumba
+Katupa Besar
+Katupa Kecil
+Katutifmatan
+Kaun Ko
+Kaung
+Kaunut Sollon
+Kaurangka
+Kawaluso
+Kawanawa
+Kawasang
+Kawayuni
+Kawe
+Kawing
+Kawula
+Kaye
+Kayoa
+Kayuadi
+Kayuangin
+Kayuangin Melintang
+Kayuanginputri
+Kayuara
+Kayubutang
+Kayumajarang
+Kayumerah
+Kayupanggang
+Keban
+Kebari
+Kebatu
+Kebon
+Kebu
+Kebumasmas
+Kecilhutan
+Kecoreh
+Kedapongan
+Kedidi
+Kedompit
+Keiari
+Kekeh
+Kekeh Besar
+Kelakela
+Kelang
+Kelapa Dua
+Kelapan
+Kelawa
+Kelawar
+Kelayang
+Kelemar
+Keling
+Kelmambang
+Kelombang
+Kelombok
+Kelong
+Kelor Barat
+Kelor Timur
+Keluang
+Kemara
+Kemaro
+Kembar
+Kemboleng
+Kemujan
+Kemunting
+Kena
+Kenamit
+Kenari
+Kenata
+Kenawa
+Kenecil
+Kenta
+Kentar
+Kentiole
+Kepahiang
+Kepala
+Kepala Ganding
+Kepala Siuncal
+Kepala Tambelan
+Kepalajernih
+Kepita Empat
+Kepita Pitu
+Kepita Tiga
+Kepulauan Alor
+Kepulauan Atotpopin
+Kepulauan Bacan
+Kepulauan Bakuno
+Kepulauan Balabalagan
+Kepulauan Bangkalan
+Kepulauan Banyak
+Kepulauan Barat
+Kepulauan Barat Daya
+Kepulauan Batu
+Kepulauan Bawoka
+Kepulauan Bonerate
+Kepulauan Buenak
+Kepulauan Burung
+Kepulauan Dakokayu
+Kepulauan Dangkal
+Kepulauan Fam
+Kepulauan Gorom
+Kepulauan Guri
+Kepulauan Gurung
+Kepulauan Hinako
+Kepulauan Kabalutan
+Kepulauan Kangean
+Kepulauan Karimata
+Kepulauan Karimunjawa
+Kepulauan Kedindingan
+Kepulauan Kei
+Kepulauan Kolo
+Kepulauan Lambasina
+Kepulauan Langkesi
+Kepulauan Layah
+Kepulauan Layang
+Kepulauan Leman
+Kepulauan Leti
+Kepulauan Lima
+Kepulauan Lingga
+Kepulauan Loloda Selatan
+Kepulauan Loloda Utara
+Kepulauan Maba
+Kepulauan Madais
+Kepulauan Masalembu
+Kepulauan Masalima
+Kepulauan Masar
+Kepulauan Matarape
+Kepulauan Mentawai
+Kepulauan Momparang
+Kepulauan Nangka
+Kepulauan Obit
+Kepulauan Pagai
+Kepulauan Pandaidori
+Kepulauan Pelapis
+Kepulauan Penjalin
+Kepulauan Podena
+Kepulauan Ranjuni
+Kepulauan Riau
+Kepulauan Salabangka
+Kepulauan Saplap
+Kepulauan Sapude
+Kepulauan Sarangburung
+Kepulauan Sariga
+Kepulauan Sawu
+Kepulauan Schildpad
+Kepulauan Schouten
+Kepulauan Segama
+Kepulauan Sembilan
+Kepulauan Seprang
+Kepulauan Seram Laut
+Kepulauan Seribu
+Kepulauan Sermata
+Kepulauan Siatu
+Kepulauan Silumba
+Kepulauan Singkep Laut
+Kepulauan Sobrain
+Kepulauan Soma
+Kepulauan Sumur
+Kepulauan Sunsuri
+Kepulauan Tengah
+Kepulauan Tiga
+Kepulauan Tipporra
+Kepulauan Tobea
+Kepulauan Tobelo
+Kepulauan Togian
+Kepulauan Treko
+Kepulauan Tujuh
+Kepulauan Tukangbesi
+Kepulauan Tumbak
+Kepulauan Tupis
+Kepulauan Ukenao
+Kepulauan Umbele
+Keran
+Keras
+Kerbau
+Kerdau
+Kerei
+Kerela
+Keret
+Keringan
+Kerkhoven
+Keruo
+Kes
+Keswu
+Ketamba
+Ketapa
+Ketapan
+Ketawi
+Ketimkerio
+Ketir
+Ketofu
+Keueh
+Khala-khala
+Khebia
+Kicik
+Kida
+Kidai
+Kidaimogin
+Kifar
+Kijang
+Kikek
+Kiluan
+Kilwaru
+Kilwik
+Kinabahutan
+Kinun
+Kirai
+Kisar
+Kisyui
+Kital
+Klah
+Klapagowok
+Klappa
+Klasi
+Klepor
+Kletakan
+Kletek
+Klo
+Klosot
+Koaba
+Koatak
+Kobalin
+Kobra
+Kobroor
+Kodingare
+Kodor
+Kofiau
+Koholifano
+Koja
+Kojo
+Kojok
+Kokara Besar
+Kokara Kecil
+Kokau
+Kokenau
+Koko
+Kokoe
+Kokoh
+Kokoh Besar
+Kokoila
+Kokoitawar
+Kokop
+Kokoraf Barat
+Kokoraf Timur
+Kokos
+Kokota
+Kokoya
+Kokudang
+Kola
+Kolokoloang
+Kolong
+Komba
+Kombongan
+Komfane
+Komirian
+Komodo
+Konan
+Konawe
+Kondiri
+Kondo
+Kondongbali
+Konga
+Kongka Besar
+Kongsi Barat
+Kongsi Tengah
+Kongsi Timur
+Konor
+Koolmimien
+Koolwiri
+Koon
+Kootbaai
+Kopano
+Kopataor
+Kopiah
+Kore
+Korek Busung
+Korle
+Koro
+Koruati
+Korukorutidore
+Kosah
+Kosamba
+Kosela
+Kotaboa
+Kotmalankari
+Kotok Besar
+Kottajeng Kecil
+Kowangko
+Koyang
+Koyobata
+Kra
+Kraka
+Krakal Besar
+Krakal Kecil
+Krakatau Kecil
+Kramiah
+Kramut
+Krawang
+Kri
+Krus
+Kuan
+Kubi
+Kubong
+Kuburan
+Kuburan Cina
+Kudingarenglompo
+Kuel
+Kukadom
+Kukumbi
+Kukup
+Kulaim
+Kulambing
+Kulefu
+Kulingkima
+Kultubai Selatan
+Kultubai Utara
+Kulur
+Kumamba
+Kumbik
+Kumbur
+Kumeke
+Kumir
+Kumis
+Kumnaar
+Kumpai
+Kumukumu
+Kumul
+Kundurkecil
+Kunti
+Kupang
+Kurah Besar
+Kurah Kecil
+Kuran
+Kurau
+Kurilompo
+Kurudu
+Kuso
+Kuta
+Kuta Tengah
+Kutim
+Kutu
+Kuwom
+Kuyu
+Kwangan
+Laag
+Laba
+Labajau
+Labengke
+Labian
+Labobo
+Labolien
+Labolong
+Labon Besar
+Labon Kecil
+Labu Kecil
+Labuan Belanda
+Labuanbilik
+Labuasore
+Labun
+Labunlu
+Laburoko
+Ladan
+Ladi
+Laelae
+Lafusa
+Laga Kecil
+Lago
+Laguling
+Lahu
+Laigoma
+Lain
+Laingjawa
+Laitat
+Laitunan
+Lajupemali Besar
+Lajupemali Kecil
+Lakahia
+Lakai
+Lakaloro
+Lakatamba
+Laklakar
+Lakor
+Lakoromibidi
+Lakota
+Lalanggabalak
+Lalawan
+Laliola
+Laluin
+Lalukenan
+Lambasi
+Lambasina Besar
+Lambasina Kecil
+Lambeke
+Lambudong
+Lampahen
+Lampu
+Lamputang
+Lamsutu
+Lamudaan Besar
+Lamudaan Kecil
+Lamun
+Lamuruang
+Lancang Besar
+Lancang Kecil
+Landu
+Lang
+Langala
+Langau
+Langgairak
+Langkissiel
+Langkoi
+Langu
+Lanjut
+Lanon
+Lantampeak
+Lantigiang
+Lantondu Kecil
+Lanyukang
+Lapak
+Lapang
+Lara
+Larat
+Lari Larian
+Lasa
+Lasak
+Lasia
+Latondu Besar
+Latuanai
+Laurot
+Lautbumi
+Lauzaro
+Lawak
+Lawandra
+Lawang Besar
+Lawase
+Lawat
+Laweang
+Lawin
+Layah Besar
+Layah Kecil
+Layang Besar
+Layangan
+Layar
+Layeu
+Lea
+Lebessan
+Lebu
+Leelang
+Leer
+Lelamtuti
+Lelangga
+Lelangga Lunik
+Leleve
+Leliling
+Leman
+Lemanbudi
+Lemanpaku
+Lemari
+Lemas
+Lembai
+Lembeh
+Lembolaro
+Lembu
+Lemo Kecil
+Lemukutan
+Len-gao
+Lengah
+Lengkana
+Lengkang Besar
+Lenkafal
+Lentea
+Lenteakiwolu
+Lenteaoge
+Lepang
+Lepar
+Ler
+Lera
+Lerung
+Lesampuang
+Lesman
+Leso
+Leti
+Letung
+Lewakai
+Lewuto Bete
+Lewuto Kido
+Leyab
+Lheeblah
+Liametu
+Liangliang
+Liat
+Libuton Babi
+Libuton Bantong
+Libuton Kelapa
+Libuton Laga
+Libuton Pondanmointok
+Libuton Pondanmoloben
+Libuton Tompalan
+Lidah
+Liek
+Ligaliga
+Ligua
+Lihaga
+Lihuto Damar
+Lihuto Lampu
+Lihuto Nunuka
+Likeri
+Liki
+Liku
+Lilai
+Lilikang
+Limangun
+Limangun Bibir
+Limas
+Limbo
+Limbung
+Limo
+Limutu
+Linat
+Lindu
+Lindung
+Lindungdarat
+Lingayan
+Lingga
+Linggam
+Lingkai
+Lini
+Linta
+Lipaeng
+Lipi
+Lipulalongo
+Liran
+Lisan
+Lising
+Lito Asiangi
+Lito Banggo Daa
+Lito Banggo Kiki
+Lito Biato
+Lito Bogisa
+Lito Bohu
+Lito Bulangkang
+Lito Dulangka
+Lito Dulawono
+Lito Duluo
+Lito Dulupi
+Lito Duyonumo
+Lito Huha
+Lito Huliahedaa
+Lito Huliahu Bunggu
+Lito Huliahu Daa
+Lito Hutokalo
+Lito Imam
+Lito Kaposo
+Lito KeaKease
+Lito Lahengo
+Lito Lampu
+Lito Lamua Daa
+Lito Lamua Kiki
+Lito Limba
+Lito Limboku Daa
+Lito Limboku Kiki
+Lito Limboso Dua
+Lito Limboso Satu
+Lito Limuyudu
+Lito Lolahe
+Lito Maraati
+Lito Maruangi
+Lito Mas
+Lito Matuo
+Lito Mohinggito
+Lito Mohupombo Daa
+Lito Mohupombo Kiki
+Lito Molioto
+Lito Monggaila
+Lito Monji Daa
+Lito Ohimu
+Lito Olinggobe
+Lito Otilade
+Lito Otiola Daa
+Lito Otiola Kiki
+Lito Pajongge Daa
+Lito Paniki
+Lito Para Para
+Lito Pasigiogo
+Lito Pasir
+Lito Payata
+Lito Podo
+Lito Pomolia Daa
+Lito Pomolia Kiki
+Lito Popaya
+Lito Popayato Besar
+Lito Puntu Daa
+Lito Puntu Kiki
+Lito Putia
+Lito Sahrina
+Lito Samaunu
+Lito Sandaa
+Lito Sandii
+Lito Sangii
+Lito Saronde
+Lito Taludahe
+Lito Tapata
+Lito Tolinggula
+Lito Tomelo
+Lito Ulipan
+Lito Walea
+Little
+Little Shoalwater
+Little Tobea
+Liwungan
+Liwutonkidi
+Lleuh
+Lobam Kecil
+Lobimagololi
+Loeha
+Lohloh
+Loiloi
+Loiso
+Lok
+Lola
+Lolanga Kecil
+Lolato Yisiko
+Loleba Besar
+Lolos
+Lomar
+Lombok
+Lombokita
+Lombongan
+Lontiong
+Lorang
+Los
+Luang
+Lubang Tamban
+Lugo
+Luhu
+Luing
+Luing Bendera
+Luing Darat
+Luing Laut
+Luing Singkek
+Lukotuo
+Lukus
+Lukut Kera
+Lulua
+Lum
+Lumba Besar
+Lumbung
+Lumpat
+Lumu
+Lung
+Lungsuran Naga
+Lunik
+Luo
+Lupito
+Lusya
+Lutong
+Lutung
+Lutungan
+Luwang
+Luyong
+Maama
+Maar
+Maas
+Mabuli
+Macan Besar
+Macan Gundul
+Macan Kecil
+Madais Besar
+Madais Kecil
+Madangkati
+Madorang
+Madu
+Maduwa
+Maegangan
+Maga
+Magalihu
+Maginti
+Magnin
+Magorangofa
+Mahelo
+Mahengetang
+Mahode
+Mahoro
+Mahumu
+Maijaria
+Maikoor
+Maitem
+Maka
+Makabalu
+Makalehi
+Makambara
+Makapan
+Makasar
+Makassar
+Makeat
+Makian
+Makita
+Makita Tingnga
+Makmak
+Makoahe
+Makola
+Makole
+Makoropo
+Malaba Besar
+Malaba Kecil
+Malabakung
+Malamala
+Malamkudu
+Malang Berdaun
+Malang Pinggang
+Malangan
+Malangbilang
+Malangjarum
+Malangke
+Malangladi
+Malatar
+Malawa
+Malelangan
+Malim Besar
+Malim Kecil
+Malimbu
+Malin
+Mallatan
+Mallo
+Malondobara
+Malumdidim
+Mam Dadi
+Mamalayu
+Mamali
+Mamat
+Mambuat
+Mambuat Kecil
+Mamburit
+Mampu
+Mamud
+Mamut
+Man
+Mana
+Manado Tua
+Manaru
+Manawoka
+Mancin Besar
+Mancin Kecil
+Mancur
+Mandah
+Mandalika
+Mandar Tiga
+Mandariau Darat
+Mandariouw Laut
+Mandigrobiyok
+Mandingan
+Mandioli
+Mandolang
+Mandra
+Mandul
+Mangan
+Mangata
+Manggar
+Manggoa
+Mangiatan
+Mangir
+Mangkai
+Mangkait
+Mangkaloli
+Mangket
+Mangkian
+Mangkianpandak
+Mangkir Gadang
+Mangkir Ketek
+Mangkok
+Mangkut
+Mangole
+Mangudu
+Mangupun
+Maniai
+Manim
+Manimoje
+Maninring
+Manis
+Maniundas
+Manjariti
+Manjin Besar
+Manju
+Mano
+Manok
+Manomadehe
+Mansman
+Mansuar
+Mantan
+Mantang Besar
+Mantang Kecil
+Mantaras Besar
+Mantaras Kecil
+Mantas
+Mantawalu Daka
+Mantawalu Ise
+Mantehage
+Manti
+Manti Kecil
+Mantobe
+Manu
+Manubuga
+Manukang
+Manukmanuk
+Manumpitaeng
+Maoi
+Maopora
+Mapahini
+Mapia
+Mapur
+Maputi
+Mar
+Marabatuang
+Maraboi
+Marai
+Marampit
+Maransabadi
+Maras
+Marasende
+Maratua
+Marau
+Marawang
+Mardula
+Mare
+Marege
+Marein
+Maria
+Marikapal
+Marikkidai
+Maringkio
+Marinu
+Marit
+Mariuk
+Marjinjin
+Marlau
+Marok
+Marore
+Marosa
+Maru
+Marungan
+Masa
+Masabang
+Masadian
+Masakambing
+Masalembu
+Masalima
+Masaloka
+Masaloka Kecil
+Masaloka Tengah
+Masaran
+Masawan
+Masela
+Masiem
+Masilo
+Masimasi
+Masin
+Masingitmakalo
+Masokut
+Masoni
+Masori
+Masori Timur
+Maspari
+Matagate
+Matah
+Mataha
+Matahari
+Matahodu
+Matahora
+Matak
+Matalang
+Matan
+Matarulamoko
+Matas
+Matasiri
+Matauli
+Mate
+Matengo
+Materang
+Mati
+Matkamap
+Matkus
+Mato
+Matontonaig
+Matoya
+Matumara
+Matutui
+Maunuh
+Mausi
+Mauwang
+Mauwara
+Maya
+Mayatiga
+Mayu
+Mbombole
+Mbuangmbuang
+Mbumbu
+Me
+Meaterialam
+Mecan
+Medang Besar
+Medang Kecil
+Mede
+Mega
+Meirang
+Meladang
+Melahing
+Melangi
+Meledang
+Melinjo
+Melintang
+Melintang Besar
+Melintang Kecil
+Melor Besar
+Memanu
+Membesaro
+Membok
+Memong
+Memperuk
+Mempirak
+Memporo
+Mempunai
+Memupuri
+Memyai
+Mences Besar
+Mences Kecil
+Mencogih
+Mendanau
+Mendarik
+Mendempuge
+Mendol
+Mendulang
+Mendulu
+Mengegah
+Menggantung
+Mengge
+Menggonuai
+Menggunang
+Menggung
+Mengirang Kecil
+Mengiring Besar
+Mengirli
+Mengkadah
+Mengkubung
+Menifom
+Mening
+Menipo
+Menjangan
+Menjangan Besar
+Menjangan Kecil
+Menkada
+Menlau
+Menokot
+Menon
+Menotos
+Mentai
+Mentangor
+Mentelir
+Mentigi Besar
+Mentigi Kecil
+Mentima
+Menui
+Menyali
+Menyawakan
+Meoko
+Mepa
+Mepar
+Merak Kecil
+Meranti
+Merapas
+Merati
+Merayap
+Meregah
+Meresak
+Merican
+Meriza
+Merodong
+Merpati
+Mersegu
+Mersin
+Merundung
+Merwatu
+Mes
+Mesanak
+Mesarangat
+Mesayu
+Mesemta
+Mesjid
+Meslu
+Meslu Kecil
+Mesluput
+Metutun
+Meu
+Mewuku
+Mia
+Miang Besar
+Miang Kecil
+Miatkori
+Middle Ketir
+Middle Saponda
+Milok
+Mingiman
+Mintin
+Minyaifun
+Miongan
+Mios Ben
+Mios Kri
+Mios Ros
+Mios Su
+Miosandau Besar
+Miosandau Kecil
+Miosarar
+Miosba
+Miosga
+Miosging
+Miosindi
+Mioskon
+Miosmanggwandi
+Miosmengkara
+Mioswaar
+Mioswundi
+Miosyepban
+Mirah
+Mislui
+Mislui Kecil
+Misool
+Mitak
+Mitan
+Mitduan
+Mitita
+Mitnaloa
+Mituwat
+Miwar
+Moa
+Mobon
+Mocam
+Modan
+Mof
+Moff
+Mogo Besar
+Mogo Kecil
+Mogogimbun
+Moha
+Moiyan
+Mokon
+Mokon Kecil
+Molana
+Mole
+Molilis
+Molom
+Molosing
+Molosso
+Molu
+Moluccas
+Momoi
+Monda
+Monding
+Mondong
+Mongumbasan
+Monjong Biras
+Monong
+Monot
+Monsolonian
+Moramo Besar
+Moramo Kecil
+Morau
+Moreporoco
+Moresa
+Mori
+Moro Darat
+Moro Laut
+Moro Tengah
+Moromaho
+Moronan
+Morotai
+Morris
+Moty
+Mou
+Moyo
+Mretne
+Mtu
+Muang
+Muaraulu
+Muari
+Mubudarat
+Mubutlaut
+Muci
+Muda
+Mudu
+Muhanuhujanat
+Muko
+Mum Gelap
+Muna
+Munante
+Mundaga
+Mundo
+Mundu
+Muntia
+Muor
+Murbai
+Murei
+Murih
+Muritamba
+Musala
+Musang
+Musel
+Musi
+Musing
+Musiro
+Muslat
+Mustaka
+Mustika
+Musuh
+Mutiara
+Mutorai
+Mutus
+Mutus Kecil
+Myanef
+Naduk
+Nagamadoto
+Nagu
+Nai
+Nailaka
+Naili
+Nain Besar
+Nain Kecil
+Namatote
+Namboan
+Nambolaki
+Nampale
+Namsar
+Namwaan
+Nan
+Nanaka
+Nanga
+Nangka Barat
+Nangka Besar
+Nangoi
+Nanoang
+Nanusa
+Napokering
+Napomano
+Napumbalu
+Naruh
+Nasaulang
+Nasingitngit
+Natraal
+Natrool
+Natuna
+Natuna Selatan
+Natuna Utara
+Naufi
+Nawan
+Ndaa
+Ndana
+Ndihang
+Nefenin
+Neksumar
+Nelayan
+Nelo
+Nenasi
+Nenek
+New Guinea
+Ngaf
+Ngafahi
+Ngaimadedera
+Ngal
+Ngali
+Ngalih
+Ngawab
+Ngelengele Besar
+Ngelengele Kecil
+Nggilas
+Ngiau
+Nginang
+Ngivaldepan
+Ngoba
+Ngolin
+Ngolobalu
+Ngondo
+Ngrawe
+Ngrembang
+Ngual
+Nibing
+Nibun
+Nibung-kecil
+Niene
+Nihutoa
+Nika
+Nikoi
+Nikrumi Kecil
+Nikwaho
+Nila
+Nipah
+Niram
+Nirup
+Nirwana
+Nisa Batu
+Nisa Bea
+Nisa Conae
+Nisa Genda
+Nisa Kalongko
+Nisa Kambing
+Nisa Kijang
+Nisa Lansa
+Nisa Limbas
+Nisa Limbu
+Nisa Mbolo
+Nisa Melai
+Nisa Ndoko
+Nisa Ntodo
+Nisa Pasirputih
+Nisa Peka Besar
+Nisa Pualiman
+Nisa Puukarawo
+Nisa Rate
+Nisa Roga
+Nisa Roslunga
+Nisa Saloka
+Nisa Samir
+Nisa Sanae
+Nisa Sobu
+Nisa Sura
+Nisa Tosa
+Nisa Wadu
+Nisa Wontu
+Niur
+Niv
+Nohahaweweri
+Nohari Barat
+Nohari Timur
+Nohumaru
+Noja
+Noko
+Nokor
+Nomula
+Nona
+Nongko
+Noran
+North Haycock
+Noulas
+Nu
+Nuan
+Nuana
+Nuaponda
+Nubi
+Nubul
+Nuburi
+Nufter
+Nuha
+Nuha Beleng
+Nuha Kowa
+Nuha Lewurang
+Nuha Witi
+Nuhabelar
+Nuhahafeferi
+Nuhakepa
+Nuhale
+Nuhu Roa
+Nuhuroa
+Nuhuyaan
+Nujalalei
+Nujambolo
+Nukaha
+Nukup
+Nukus
+Num
+Numai
+Numangguri
+Numarai
+Numfoor
+Numini
+Numnu
+Nuncanuo
+Nunsa
+Nunsa Bakau
+Nunsa Bampa
+Nunsa Meja
+Nunsa Rutong
+Nunsa Sui
+Nunsa Tembaga
+Nunsa Tiga
+Nunsa Watu
+Nunsa Wire
+Nunukan
+Nunukan Selatan
+Nunukan Timur
+Nunusa Abibiaun
+Nuori
+Nura
+Nurage
+Nus Enlu
+Nus Kalaan
+Nusa Alasanom
+Nusa Anak
+Nusa Anug
+Nusa Babaku
+Nusa Bacak
+Nusa Bagian
+Nusa Baleh
+Nusa Balehkoe
+Nusa Banah
+Nusa Bantarloji
+Nusa Batu Melawang
+Nusa Batu Meling
+Nusa Batu Pahet
+Nusa Batuabah
+Nusa Batubesar
+Nusa Batumandi
+Nusa Batumategan
+Nusa Batupadasan
+Nusa Bolodoea
+Nusa Boti
+Nusa Cauraga
+Nusa Ceningan
+Nusa Damnu
+Nusa Dangka
+Nusa Dinanga
+Nusa Donge
+Nusa Dua
+Nusa Duawaju
+Nusa Faliti
+Nusa Faram
+Nusa Ginggo
+Nusa Henu
+Nusa Huambatu
+Nusa Kafat
+Nusa Kahatola
+Nusa Karangbraja
+Nusa Kasa
+Nusa Kodang
+Nusa Kode
+Nusa Kodi
+Nusa Komokomo
+Nusa Koru
+Nusa Kuka
+Nusa Kutin
+Nusa Lafo
+Nusa Lai
+Nusa Lakat
+Nusa Lau
+Nusa Lelei
+Nusa Lembongan
+Nusa Lihu
+Nusa Limo
+Nusa Lintang
+Nusa Liu
+Nusa Lorokanbuntu
+Nusa Lorokantengah
+Nusa Maibu
+Nusa Manamalen
+Nusa Manu
+Nusa Manuk
+Nusa Manupui
+Nusa Masidua
+Nusa Munjulgoong
+Nusa Nak
+Nusa Namuderat
+Nusa Nulu
+Nusa Nyaolaka
+Nusa Obom
+Nusa Oeasa
+Nusa Patkujang
+Nusa Peropa
+Nusa Piafula
+Nusa Pici
+Nusa Pigaraja
+Nusa Pua
+Nusa Pudut
+Nusa Rajakando
+Nusa Sambi
+Nusa Sanam
+Nusa Segandong
+Nusa Sibelis
+Nusa Sidanga
+Nusa Songko
+Nusa Sosota
+Nusa Tanaf
+Nusa Tapi
+Nusa Tatanyeranu
+Nusa Tegetege
+Nusa Tepulimabole
+Nusa Tiranggesik
+Nusa Tobalo
+Nusa Togoan
+Nusa Tutuka
+Nusa Udi
+Nusa Ufua
+Nusa Uwa
+Nusa Wainatu
+Nusa Waju
+Nusa Wammer
+Nusa Wates
+Nusa Watudedungode
+Nusa Watulaja
+Nusa Were
+Nusabarung
+Nusabuan
+Nusadua
+Nusakambangan
+Nusalaut
+Nusamararum
+Nusambier
+Nusaner
+Nusaraloid
+Nusariwani
+Nusariwe
+Nusatea
+Nuse
+Nusir
+Nuslima
+Nusreen
+Nustabun
+Nustuari
+Nustumbo
+Nusurumi
+Nutabari
+Nutorutomorya
+Nutrawet
+Nuwait
+Nuwowa
+Nuyanat
+Nuyanatroal
+Nyamplung
+Nyampur
+Nyata
+Nyemuk
+Nyiur
+Nyol
+Oar
+Obilatu
+Obit
+Obsiabori
+Odoraswai
+Ogar
+Ogotion
+Ogu
+Oki
+Olobie Ganan
+Olongonabonua
+Oluan Pauno
+Olukaluka
+Omba
+Ombai
+Ompak
+Ondalo
+Ongka
+Onolimbu
+Onrust
+Onsulit
+Ontoloe
+Opak Besar
+Opasiaf
+Openta
+Orangkaya
+Oraraoni
+Orasa
+Orasilam
+Ori
+Oroho
+Orongan
+Ose
+Osir
+Oti
+Oti Ponggarongga
+Otintaipa
+Owi
+Paadar
+Pabelokan Besar
+Pabisi
+Pabunua Besar
+Pacar
+Pacitaka
+Padabale
+Padaido
+Padaidori
+Padamaiyan Besar
+Padamarang
+Padangtikar
+Padar Besar
+Padar Kecil
+Padarangeer
+Padei Darat
+Padei Kecil
+Padi
+Padopado
+Pagai Selatan
+Pagai Utara
+Pagama
+Pagar
+Pager
+Pagerungan Besar
+Pagerungan Kecil
+Pahangwa
+Pahawang Kecil
+Pahepa
+Pai
+Pailowa
+Paimit
+Paisin
+Pait
+Pajak
+Pajangan
+Pajenekang
+Pakal
+Pakolor
+Pakot
+Pakriki
+Paku Besar
+Paku Terus
+Pakuburan
+Pakuburan Panimbawang
+Pala
+Palabuat
+Palambakbesar
+Palambakkecil
+Palawano
+Paliana
+Paliat
+Paligisan
+Palintangan
+Paloi
+Palu
+Pamagangan
+Pamalika
+Pamangangang
+Pamantawang
+Pamolikang
+Panabali
+Panaitan
+Panambungang
+Panananggalan
+Pandai
+Pandan Besar
+Pandan Kecil
+Pandanpandangang
+Pandi
+Pane
+Pangaan Darat
+Pangaan Laut
+Pangabatang
+Pangais
+Pangajarang
+Pangalasiang
+Pangapos
+Pangapos Raje
+Pangempang
+Pangendangan
+Panggak
+Panggalaran
+Pangkal
+Pangkil
+Pangkil Besar
+Pangkil Kecil
+Panimbawang
+Panjan
+Panjangsaibi
+Panjukut
+Panjuring
+Panjurit
+Pankaiya
+Pantar
+Pantara Barat
+Pantara Timur
+Panteh
+Panti
+Panyu
+Pao
+Pao Kecil
+Papagaran Besar
+Papagaran Kecil
+Papandangang
+Papanggau
+Papatheo
+Papu
+Para
+Parapara
+Parapotang
+Pararambah
+Paratmasupin Kokoi
+Pari
+Parit
+Parlak
+Paroppo
+Parsupahan
+Parubuso
+Parumaan
+Pasai
+Pasiewakube
+Pasifah
+Pasige
+Pasir Buluh
+Pasirgagah
+Pasirpandan
+Pasirsgadang
+Pasirtengah
+Pasit Besar
+Pasitanete
+Pasitelu
+Pasitelu Laut
+Pasitelu Raja
+Pasitelu Tengah
+Pasitofiri
+Pasokan
+Pasoso
+Pasturi Dina
+Pasturi Papan
+Pasu
+Pata
+Patah
+Pataikasawari
+Pateloran Barat
+Pateloran Timur
+Patipi
+Patnusaptuan
+Patolang
+Patuktales
+Patumbu
+Pauh
+Pauk
+Paur
+Pawolo
+Pawonan
+Paya
+Payong-payongan
+Payung Besar
+Payung Kecil
+Payunga
+Pea Nyamuk
+Peang Langka
+Pecom
+Pef
+Pegun
+Pejamu
+Pejantan
+Pejaul
+Pekan Lais
+Pekin
+Pela
+Pelakam
+Pelang
+Pelangkat
+Pelarian
+Pelelan
+Pelepasan
+Peli
+Pelintuan
+Pelo
+Pelokang
+Pelubang
+Pelungut
+Peluntang
+Pemagaran
+Pemain
+Pemana
+Pemankaran
+Pembantaian
+Pemirsan
+Pemirsan Kecil
+Pempe
+Pemping
+Pemuja
+Pemurung
+Pemutus
+Penah
+Penambulai
+Penambun
+Penang
+Penanggalansabeu
+Penanggalansigoiso
+Penangis
+Penata Besar
+Penata Kecil
+Penau
+Pencak
+Pencaras
+Pendek
+Penemu
+Penengkia
+Penerus
+Pengah Besar
+Pengah Kecil
+Penganak
+Pengapit
+Pengautbibis
+Pengelat
+Pengendung
+Penghalang
+Penghela
+Pengia
+Pengidan
+Pengiki Besar
+Pengiki Kecil
+Penibungan
+Peniki
+Penilan
+Penisil
+Penjalin Besar
+Penjalin Kecil
+Penjaliran Barat
+Penjantai
+Penjuring
+Pentako Ef
+Penuba
+Penuh
+Penuh Laut
+Penyaitlayer
+Penyambung
+Penyengat
+Penyusu
+Penyusuk
+Peposo
+Perak
+Peraman
+Peranak
+Perantang
+Perantung
+Perasi
+Perasi Besar
+Perdamaran
+Peredi
+Periuk
+Perolin
+Peropos
+Perpat Payung
+Pertapaan
+Perut
+Pesalang
+Petong
+Peucang
+Peugaseh
+Peunasu
+Peureuleng
+Peyaba
+Pia
+Pial
+Pian
+Piatu
+Pidi
+Pieh
+Pilang Besar
+Pilang Kecil
+Pilis
+Pinanang
+Pinangkara
+Pinangkuning
+Pinangseratus
+Pinangseribu
+Pinatang
+Pindana
+Pini
+Pinjan
+Pinomotan
+Pintu
+Piring
+Piropok
+Pitojetsigoisa
+Pittojat
+Piyai
+Pleng
+Plum
+Poa
+Poaboloki
+Pobongkohi
+Podangpodangcaddi
+Podangpodanglompo
+Podena
+Pogodongan
+Pohon Ndongo
+Poina
+Pokal
+Polewali
+Poloe
+Poncan
+Poncan-kacik
+Ponggori
+Pongko
+Pongompiti
+Ponguk
+Pononaguan
+Ponteng
+Pontianak
+Popaco
+Popilo
+Popole
+Poposan
+Poriau
+Porok
+Poteang
+Poteran
+Potil-kecil
+Poto
+Poya
+Pramuka
+Prantun
+Prap
+Prenjono
+Probas
+Proco
+Pua
+Puan
+Pugago
+Pugi
+Pui
+Pukding
+Pulai Tobalai
+Pulak
+Pulias
+Pulo Balu
+Pulo Bangkomalampe
+Pulo Battoa
+Pulo Belanbelan Besar
+Pulo Belanbelan Kecil
+Pulo Bero
+Pulo Deadea
+Pulo Dusuntora
+Pulo Indo
+Pulo Kamboka
+Pulo Karamasan
+Pulo Katela
+Pulo Kayuangi
+Pulo Kirukiru
+Pulo Lalang Kechil
+Pulo Laogo
+Pulo Latoa
+Pulo Limboa
+Pulo Maloang
+Pulo Mandike
+Pulo Masalokaan
+Pulo Masaringan
+Pulo Ocintonga
+Pulo Panampeang
+Pulo Pasiea
+Pulo Pasipi
+Pulo Rahansama
+Pulo Ransaweta
+Pulo Sanggaleang
+Pulo Santigi
+Pulo Simuang
+Pulo Tangnga
+Pulo Tasipi
+Pulo Tiga
+Pulo Tondaa
+Pulo Waodeburi
+Pulon
+Pulu Aifo
+Pulu Ondo
+Pulu Tanunu
+Pulua Cikem
+Pulubesar
+Pulusarmi
+Pulusawar
+Pumpun
+Punggur
+Pungu Besar
+Punisan
+Punjung
+Punten
+Punya
+Pupuru
+Pura
+Purbasbeba
+Puri
+Puriri
+Purung
+Purup
+Pusa
+Pusaoat
+Puserepangan
+Pusong
+Pusung Attapang
+Pusung Lacungkilang
+Pusung Marasanga
+Pusung Pasimparee
+Pusung Tellang
+Putang
+Putean
+Putera
+Putih
+Putri Barat
+Putri Timur
+Putus
+Putuse
+Ra'as
+Racun
+Ragaraga
+Raharoriha
+Raibi
+Raifisik
+Raijua
+Raja Ampat
+Rajagunung
+Rajuni Besar
+Rajuni Kecil
+Ram
+Raman
+Rambut
+Rampang
+Ramye
+Randayan
+Raneue
+Rangas
+Range
+Ranggah
+Ranggas
+Rangit-kecil
+Rangitbesar
+Rani
+Ranoh
+Rantai
+Rante
+Rapang
+Raratmanata
+Rariei
+Ratewo
+Rau
+Raya
+Rayo
+Rayori
+Rea
+Reangreang
+Redang
+Reeyanat
+Regen
+Reges
+Rejeki
+Rekas
+Reman
+Rempang
+Renda
+Rending
+Rengit
+Reni
+Reong
+Repeh
+Resam
+Rewan
+Riama
+Riau
+Ribung
+Rica Kecil
+Ridai
+Rikel
+Rimau Lunik
+Rimaubalak
+Rinca
+Ringawan
+Ringgi
+Rinjis
+Rinti
+Rinyi
+Ripon
+Ritan
+Rlibuto Dokokayu Daa
+Rlibuto Dokokayu Kiki
+Roa
+Rohbong
+Roko
+Romang
+Romboh
+Romuso
+Rondo
+Roni
+Ronsuar
+Roon
+Rorebo
+Rotan
+Rouw
+Ru
+Rua Morio
+Ruberube
+Rubia
+Ruftbari
+Rukan
+Rukan Selatan
+Rukan Utara
+Ruku
+Rumadan
+Rumandasan
+Rumberpon
+Rumut
+Rumwakon
+Run
+Runduma
+Rupat
+Rusa Besar
+Rusa Kecil
+Rusah
+Rusbasbedar
+Rusukbuaya
+Rutum
+Saaruwela
+Sababi
+Sabai
+Sabal
+Sabalat
+Sabanko
+Sabatang
+Sabba
+Sabennibnu
+Sabian
+Sabir
+Sabiteng
+Sabolan-besar
+Sabolan-kecil
+Saboyan
+Sabrunan
+Sabuangin
+Sabulu
+Sabuntah
+Sabunten
+Sabutung
+Sadau
+Sadu
+Sadulang Besar
+Sadulang Kecil
+Sadulangang
+Sadung
+Saebus
+Safereng
+Safumit
+Saga
+Sagara
+Sagaranusa
+Sagemur
+Sagewu
+Sagin
+Sago
+Sagof
+Sagu Dampar
+Saguil
+Saguilum
+Sahaong
+Sahi
+Saildo
+Sailus Besar
+Sailus Kecil
+Sainoa
+Saka
+Sakala
+Sakfandu
+Sako
+Sakobing
+Sakotok
+Saladatan
+Salahnama
+Salakula
+Salamanang
+Salando
+Salangadeke
+Salaoge
+Salaor
+Salaor Dua
+Salarangan
+Salaut Kecil
+Salaut-besar
+Salawi
+Salebo
+Saleh Besar
+Saleh Kecil
+Saleha
+Salemo
+Saleng
+Salengkere
+Salibabu
+Salimburung
+Salimongo
+Salipogot
+Salira
+Saliriang
+Salo
+Saloka
+Salor
+Salura
+Saluton
+Samada Kecil
+Samakuri
+Samaleko
+Samalona
+Samambulit
+Samarago
+Samarengga
+Samataha
+Samatello Laut
+Samatello Raya
+Samatello Tinggi
+Sambae
+Sambargalang
+Sambargigitang
+Sambarjaga
+Samber Gelap
+Sambiki
+Sambit
+Sambu
+Sambujan
+Sambulaling
+Saminyamao
+Samut
+Sanak
+Sanana Besar
+Sanana Kecil
+Sanane
+Sandam Darat
+Sandam Laut
+Sanding
+Sangalakki
+Sangean
+Sangeang
+Sanggeluhang
+Sangiang
+Sangihe
+Sangihe Besar
+Sangisangiang
+Sangkar Ayam
+Sangkarang
+Sangkeles
+Sanglang Besar
+Sanglang Kecil
+Sanogah
+Sanop
+Santare
+Santigi
+Santigiang
+Santo
+Saonek Besar
+Saonek Kecil
+Sapang
+Sapapan
+Sapares
+Saparua
+Sapeken
+Sapi
+Sapiat
+Sapili
+Sapinggang
+Sapiri Besar
+Sapiri Kecil
+Saponda Tengah
+Saponda Utara
+Sapudi
+Sapuli
+Sapunti
+Sara
+Sara Kecil
+Sarah
+Sarah Baru
+Saranga
+Sarangbaung
+Saranggantung
+Saransaran
+Sarap
+Sarappokeke
+Sarappolompo
+Sarasang
+Saratranju
+Saredeng Besar
+Saredeng Kecil
+Sarege
+Sarena
+Saringi
+Sarok
+Saronglang
+Sarudik
+Saseel
+Satando
+Satanga
+Satengar
+Sattu
+Satunggul
+Sau
+Saugi
+Sauh
+Saular
+Saur
+Savu
+Sawa
+Sawai
+Sawang
+Saweru
+Sawi
+Saya
+Sayang
+Sayap
+Sayol
+Sayor
+Sayuda
+Schaarvogel
+Seal
+Sebakau
+Sebangkatan
+Sebangmawang
+Sebaru Besar
+Sebaru Kecil
+Sebatik
+Sebawoho
+Sebayur
+Sebayur Besar
+Sebayur Kecil
+Sebesi
+Sebiang
+Sebidai
+Sedanau
+Sededap
+Sedendem
+Sedua Besar
+Sedua Kecil
+Sedulah
+Segaf
+Segal Besar
+Segal Kecil
+Segentoh
+Sego
+Segomasmas
+Segun
+Sehun
+Seja
+Sejambi
+Sejangan
+Sekajang Besar
+Sekajang Kecil
+Sekaka
+Sekaka Taha
+Sekapar
+Sekatap
+Sekate
+Sekatung
+Sekenah
+Sekepal
+Sekerah
+Seku
+Sekukur
+Sekumpul
+Selai
+Selamar
+Selandu
+Selanga
+Selaru
+Selasi
+Selat Nenek
+Selatan
+Selatkisar
+Selayu
+Selebah
+Selih
+Selimu
+Selinsing
+Selintang
+Seliu
+Seloang
+Seloko
+Selu
+Seluan
+Semai
+Semakau
+Semakau Besar
+Semakau Kecil
+Semakdaun
+Semalah
+Semangat
+Semangka
+Semantar
+Semarung
+Semasin
+Semau
+Sembakau Kecil
+Sembibing
+Sembilan
+Sembung
+Sembur
+Semesa
+Semisak
+Semisarom
+Semiun
+Semni
+Semoket
+Sempadeh Besar
+Sempadeh Kecil
+Sempeng
+Sempu
+Semu
+Semukit Besar
+Semukit Kecil
+Semumbung
+Semuntah
+Semut Besar
+Semut Kecil
+Senau
+Senayang
+Sendiri
+Sendong
+Sendulang Kecil
+Senganggang
+Senggeris
+Sengua
+Senimpan
+Senjolong
+Senogotul
+Sentut
+Senua
+Senumpak
+Senyu
+Senyu Kecil
+Sepa Barat
+Sepa Timur
+Sepan
+Sepanjang
+Separoh
+Sepeken
+Sepintu Kecil
+Sepokkeladi
+Seprang
+Sepukparupuk
+Seraja-kecil
+Seram Laut
+Seram Rei
+Seramadofo
+Serangan
+Seranjau
+Serantas
+Serapat
+Serapisi
+Serapung
+Serasan
+Seraya-besar
+Serayacundung
+Serdang
+Serebesigi
+Serelah
+Seret
+Seretan
+Sermata
+Serote
+Sertung
+Serua
+Serudung
+Serui
+Serukat Besar
+Serukat Kecil
+Seruku
+Serungus
+Seruni
+Serutu
+Sesai
+Sesayap
+Seserot
+Sessun
+Setambal
+Setemu
+Setinjam
+Setoko
+Setumu
+Setunah
+Seturian
+Seulaku
+Seunabah
+Sevelak
+Sewer
+Siaba Besar
+Siabusabeu
+Siadung
+Siaimu
+Siakung
+Sialang
+Siang
+Sianiri Besar
+Sianiri Kecil
+Siantan
+Siantu
+Sibandang
+Sibaranuk
+Sibarubaru
+Siberut
+Sibigau
+Sibitti
+Sibolo
+Sibrong
+Sibu
+Siburu
+Siceh
+Sida
+Sidakah
+Sidopo
+Sidu
+Sidula
+Sie
+Sigalanganjojo
+Sigalatogong
+Sigandan
+Sigata
+Sigogolo
+Sigunung
+Siite
+Sijanu Besar
+Sijaujau
+Sijebi
+Sijinjang
+Sijugi
+Sika
+Sikeling
+Sikindang
+Siklopo
+Siko
+Silabulabu Na Godang
+Silabulabu Na Menek
+Siladen
+Silae
+Silam
+Silando
+Siloina
+Silota
+Simalepet
+Simalintau
+Simamora
+Simatang
+Simatapi
+Simbang
+Simbar
+Simedang
+Simeulucut
+Simeulue
+Simira
+Simogaling
+Simok
+Simondang
+Simpora
+Simuk
+Simungguk
+Simur
+Sindu
+Sinelak
+Singe
+Singgah
+Singkep
+Singkep Laut
+Singkuang
+Sinsin
+Sinta
+Sintok
+Siokona
+Sioman
+Siomang
+Siopasabeu
+Siopasigoiso
+Sipasabela
+Sipika
+Sipura
+Siput
+Sirah
+Sirangge
+Sirap
+Sireh
+Sirih
+Sirit
+Sironjong
+Sironjong Gadang
+Siruamata
+Sirukkungon
+Siruso
+Sisifi
+Sisir
+Sissie
+Sitaban Barat
+Sitabok
+Sitaka Besar
+Sitangis
+Situpai
+Situri
+Siumat
+Siumpu
+Siuncal
+Slameapein
+Sleguk
+Snul
+So
+Socce
+Sodang Besar
+Sodang Kecil
+Sogiloga
+Sohomadodobo
+Sohomao
+Sokong
+Sokos
+Sombori
+Sombroko
+Sombuan
+Somo
+Somoloko
+Songkop
+Songo
+Songolungun
+Sonyiha
+Sopa
+Soreh
+Sorenarwa
+Sorkam
+Sorobuna
+Sosari
+Sosepe
+Sosepe Kecil
+Sosomon
+Sowai
+Soyangi
+Sroyo
+Stephanie
+Strat Kecil
+Subangmas
+Subar
+Subi Besar
+Subi Kecil
+Sudimara
+Sugi
+Sugi Bawah
+Sugi Darat
+Sugi Laut
+Sui
+Sukana
+Sukar
+Sukeler
+Suleh
+Suleman
+Sumabawa
+Sumadra
+Sumangga
+Sumatra
+Sumbawa
+Sumpat
+Sumsum
+Sunam
+Sunda
+Sunekuku
+Sungbang
+Sunsa
+Sunti
+Supiori
+Supu
+Sura
+Suranti
+Suren
+Suruabu
+Surunggading
+Susumulas
+Susunu
+Suwangi
+Suwangi Kecil
+Suwe
+Syakarer
+Syeitmogan
+Syirnusu
+Taam
+Tabalah
+Tabanan
+Tabanusa
+Tabar
+Tabek
+Taberfane
+Tabisasu
+Tabo Selatan
+Tabo Utara
+Tabobi
+Taboklintoh
+Tabokraba
+Tabuan
+Tabui
+Tabuluk
+Tabunasa
+Tacon
+Tadinang
+Tadoku
+Taduku
+Tafkini
+Tagaga
+Tagalaya
+Tagur
+Tahbunanan
+Taimanu
+Taitaitanopo
+Taitaiumatsiteut
+Takaluwar
+Takat Darat
+Takong Besar
+Takong Kecil
+Takuhak
+Takulak
+Takurak
+Takurumagula
+Tala
+Talaga
+Talak
+Talang
+Talango Aeng
+Talango Tengah
+Talango Timur
+Talas
+Talatakoh
+Talaud
+Taliabu
+Talinga
+Talise
+Taloyan
+Tamagui
+Tamang
+Tamaraw
+Tambangoni
+Tambarat
+Tambelit
+Tambikil
+Tambolongang
+Tambolusu
+Tambun Barat
+Tambun Barat Daya
+Tambun Besar
+Tambun Tenggara
+Tambuna Besar
+Tameini
+Tamengan
+Tamotamo
+Tampaang
+Tampakan
+Tampea
+Tampelekan
+Tampohaya
+Tanahbala
+Tanahjampea
+Tanahmalalla
+Tanahmasa
+Tanakeke
+Tanalan
+Tanalanpaun
+Tandula
+Tandur
+Taneti
+Tanga
+Tangatanga
+Tanggae
+Tangkian
+Tangkil
+Tangkorak
+Tangkuladi
+Tanjung Binlun
+Tanjung Merah
+Tanjungbatu
+Tanjungbuayabuaya
+Tanjungbunga
+Tanjungdahan
+Tanjungdewa
+Tanjungkulit
+Tanjungladan
+Tanjunglombo
+Tanjungpelalang
+Tanjungsau
+Tantaruga
+Tantororarat
+Tao
+Taoleh
+Tapa
+Tapah
+Tapappai
+Tapat
+Tapaya
+Tapaya Kecil
+Tapesse
+Tapeuh
+Tapok
+Tapusur
+Taraha
+Tarakan
+Tarakina
+Tarang
+Tarape
+Tarfafar
+Tariba
+Taring
+Tarkulai
+Tarnana
+Taroa
+Tarunggu Besar
+Taruntungbolak
+Tarupa Kecil
+Tatapon
+Tatas
+Tatawa
+Tatinang
+Tating
+Tatobalasungke
+Tatobobensin
+Tatobosurati
+Taudore
+Taunama
+Taupan
+Tawa Besar
+Tawa Kecil
+Tawabi Besar
+Tawabi Kecil
+Tawali Kecil
+Tawaya
+Tebakar
+Tebeian Besar
+Tebeian Kecil
+Tebias
+Tebing Tinggi
+Tebokbatang
+Tegal
+Tegawa
+Tekeros
+Tekkon
+Tekoleh
+Tekong
+Telaga Besar
+Telaga Cina
+Telagapahat
+Telang
+Telang Kecil
+Telaro Sembilan
+Telassau
+Telefoa
+Teleme
+Telibang
+Telipo
+Telising
+Teloga
+Telokrisan
+Telom
+Telotelogedang
+Telotelokecil
+Teluk
+Teluk Bakau
+Teluk Sepaku
+Teluk Sumlamanyoko
+Telukbakau
+Telukpau
+Telumas
+Telup
+Temayu
+Tembako
+Tembalang
+Tembang
+Tembangan
+Tembelai
+Tembelak
+Tembing Macan
+Temborah Darat
+Temborah Laut
+Temenggah
+Temo
+Temomadafa
+Tempau
+Tempo
+Tempudus
+Tempuling
+Tempurung Besar
+Temukus
+Temuruk
+Tenar
+Tendan
+Tende
+Tendoh
+Tengah Darat
+Tengah Laut
+Tengah Tengah
+Tenggelanga
+Tengger
+Tenggeran
+Tenggiling
+Tengkokbiawa
+Tengkorak
+Tengtonget
+Tenung
+Teor
+Tepok
+Tepu Tepus
+Terang
+Teras
+Terbak
+Terbang Selatan
+Terbang Utara
+Tereweng
+Teribi
+Teriman
+Teripang
+Terong
+Teroti
+Tete
+Teterang
+Teun
+Teungku Meuse
+Teunom
+Teupah
+Tiabung
+Tiasanuling
+Tibi
+Tibu
+Tidore
+Tidung
+Tidung Besar
+Tidung Kecil
+Tifore
+Tiga Dalam
+Tiga Tengah
+Tigasaudara
+Tigi
+Tikolo
+Tilan
+Timadonge
+Timang
+Timau
+Timba
+Timbangburukang
+Timlis
+Timpaus
+Timudung
+Timun
+Timundarat
+Timunlaut
+Tinabasan
+Tinabo Besar
+Tinabo Kecil
+Tinalapu
+Tinanja
+Tinanuman
+Tindila
+Tinggalungang
+Tinggir
+Tingkarah Besar
+Tingkarah Kecil
+Tinjil
+Tioro
+Tipoaret
+Tipus
+Tirangcawang
+Titampan
+Titampan Kecil
+Toad
+Toade
+Toade Batunolo
+Toade Bukide
+Toade Salahunge
+Toademanandu
+Toado
+Tobalai
+Tobat Meme
+Tobea Besar
+Tobintah
+Tobo Agoh
+Tobolon
+Tobong
+Tobongi
+Tobotobo
+Tobotobo Dua
+Tobotobu
+Tobunan
+Todat
+Todoku
+Toduku
+Tofuwidi
+Togean
+Togo-togo
+Togoani
+Togong Tandak
+Togong Teo
+Togonglantang
+Togongpotil
+Togongtotolu
+Togopilog
+Togoplun
+Toguan
+Tokohbatu
+Tokolingato
+Tokong Buton
+Tokong Kemudi
+Tokong Pencalang
+Tokongbelanda Satu
+Tokongperangin
+Tokou
+Tolabe Besar
+Tolandona
+Tolian
+Tolimau
+Tolonuu
+Tolping
+Tomako Kecil
+Tomakomafatu
+Tomini
+Tomonsi
+Tomori
+Tondang
+Tonduk
+Tongaan
+Tonggobubu
+Tonggulungbabasal
+Tonggulungpauno
+Tonghaya
+Tongidi
+Tongkabo
+Tongkeng
+Tongo
+Tonguin
+Tongusumu
+Tonton
+Toosan
+Topa
+Topang
+Toran
+Toropot
+Torosimane
+Torpedoboot
+Totiy
+Totogong
+Totuasan
+Toulan
+Towade Batugosok
+Towo
+Traling
+Trangan
+Trebabesar
+Trebakecil
+Tredau
+Trega
+Trejil Besar
+Trejil Kecil
+Trumon
+Trusanhaji
+Tsiof
+Tua
+Tuakara
+Tual
+Tuanane
+Tuapen
+Tuapen Selatan
+Tubafu
+Tuban
+Tubiserang
+Tubu
+Tudabulusan
+Tudamatimbuku
+Tudu
+Tudunya
+Tugas
+Tugau
+Tujuh
+Tuka
+Tukah Basar
+Tukoh Batudidiki
+Tukoh Bonda
+Tukoh Bubu
+Tukoh Didiki Kanang
+Tukoh Didiki Kidal
+Tukoh Gagak
+Tukoh Jerangkeng
+Tukoh Lebokboi
+Tukoh Luah Kemal
+Tukoh Matingga
+Tukoh Mbosembah
+Tukoh Pabiloang
+Tukoh Pancoh
+Tukoh Pemaroh
+Tukoh Pengempe
+Tukoh Pipinda
+Tukoh Putih
+Tukoh Rada
+Tukoh Sarah
+Tukoh Sekaka Kecil
+Tukoh Setan
+Tukoh Taha
+Tukoh Tira
+Tukohbele
+Tukong
+Tukongkembang
+Tukongmas
+Tukongsimbang
+Tulai
+Tulas
+Tulo
+Tulus
+Tuma
+Tumbak
+Tumbutumbu
+Tumir
+Tumiranamu
+Tumpangan
+Tumpel
+Tunda
+Tundung
+Tungkusnasi
+Tungoan
+Tunjuk
+Tuntun
+Tuntungkalik
+Tunu
+Tuotuo
+Tuputupu
+Turturjuring
+Tusa
+Tutu
+Tuwotuwo
+Uadadasami Kecil
+Ubarsafata
+Ubo-ubo
+Ubu Ubu
+Ubur
+Udip
+Udjan
+Uhitear
+Uhiwa
+Ujan
+Ujir
+Ujungkayu
+Ular Besar
+Uliasers
+Uma
+Umana
+Umang
+Umbele Mandidi
+Umbur
+Umbur Kecil
+Umbus
+Umien
+Umpe
+Umya
+Unaginim
+Unang-unang
+Unauna
+Unggi
+Ungla
+Unoga
+Untelies
+Untuk
+Untung Jawa
+Ur
+Ura
+Urampi
+Uran
+Urangkaitui
+Uranie
+Urat
+Urbabo Iba
+Urea
+Urimatiti
+Uriv
+Urobi
+Uruk-uruk
+Urwibori
+Usakmata
+Usam Lakoh
+Usmanik
+Uta
+Utama
+Utan
+Utir
+Utun
+Uwagger Dadi
+Uwandepi
+Uwi
+Valiantepak
+Van Tee eilanden
+Vanagalaizo
+Vatlimas
+Vatsori
+Vatulmaa
+Vatvurat
+Verkikur
+Veunu
+Waaf
+Wabu
+Wacoke
+Waden Rusak
+Wadijili
+Wadu Nisamboko
+Wagnab
+Wahalaulau
+Wahru
+Wai
+Waibalun
+Waigeo
+Waiji
+Wailoro
+Wailoro Kecil
+Waindi Besar
+Waindi Kecil
+Wairundi
+Waitin Besar
+Waitin Kecil
+Waiwah
+Wajaban
+Wakamangkuni
+Wakanati
+Wakde
+Waktawor
+Wala
+Walakau
+Walambi
+Waleabahi
+Waleakodi
+Wali Besar
+Walib
+Walis
+Wamar
+Wamsor
+Wangi-wangi
+Wangil
+Wanoma
+Wanua Apengminuni
+Wanua Kalakughi
+Wanua Kaluhaghi
+Wanua Ruang
+Wanua Salangka
+Wanua Seha Kadio
+Wanua Seha Labo
+Wanua Tagulandang
+Wanua Tandungkuhang
+Wanua Tumbonang Kodio
+Wanua Tumbonang Kolabo
+Wanua Walalang
+Waponin
+Waralneu
+Warba
+Warilau
+Waring
+Waringer
+Waringin
+Warir
+Warja
+Waromi
+Warparear
+Warwawang
+Was
+Wasankaini
+Wasir
+Waslion Yef
+Waslu
+Watadurie
+Watleu
+Watlora
+Watu Apuladu
+Watu Gencing
+Watu Ile
+Watu Kalode
+Watu Kambuka
+Watu Kapengbani
+Watu Karata
+Watu Laikumbu
+Watu Laitarung
+Watu Lee
+Watu Liangbowo
+Watu Madongara
+Watu Mete
+Watu Ngunjutamiang
+Watu Nisakuma
+Watu Pahomba
+Watu Payung
+Watu Pedangbalang
+Watu Praibakul
+Watu Praigage
+Watu Praiway
+Watu Purutahu
+Watu Rante
+Watu Sorimalanak
+Watu Tamakatangu
+Watu Tawutu
+Watu Telokarata
+Watu Tutuk
+Watu Wahang
+Watu Walla
+Watu Wona
+Watuanjir
+Watubakul
+Watubalu
+Watubebek
+Watukurung
+Watulombor
+Watupeni
+Watusipu
+Watuwangka
+Waudu
+Wawatu
+Wawoni
+Wawonii
+Wawosunggu
+Wayangan
+Wayatimu
+Wayibatan
+Wayil
+We
+Wefmelaos
+Weilon
+Weninu
+Wermatan
+Wernifar Barat
+Werpati
+Wetan
+Wetar
+Wetin
+Widi
+Wingsanggeni
+Witamemea
+Wobo
+Wodinhun
+Wofoh
+Woha
+Woka
+Wokam
+Wolil
+Wolvat
+Wonim
+Workai
+Workbondi
+Wotap
+Wotkemkemdi
+Woto
+Woyo
+Wruwarez
+Wuliaru
+Wundi
+Wunga
+Wurki
+Yabatano
+Yamdena
+Yamna
+Yanggelo
+Yanimerai
+Yapdio
+Yapen
+Yar
+Yariffi
+Yarnguraa
+Yarngurual
+Yarsun
+Yeben
+Yef Beto
+Yef Ettom
+Yef Kanjin
+Yef Kasyit
+Yef Nabi Kecil
+Yef Waran
+Yefbie
+Yefbo
+Yefdanya
+Yefkabu
+Yeflie
+Yefm
+Yefman
+Yefmatel
+Yefmo
+Yefnabi
+Yefnawan
+Yefua
+Yefyal
+Yefyus
+Yellu
+Yeri Kecil
+Yetpelle
+Yewya
+Yiew
+Yilliet
+Yop
+Yos Sudarso
+Yu Barat
+Yu Timur
+Yuan
+Yum
+Yumni
+Yupa
+Yusgenan
+Yustina

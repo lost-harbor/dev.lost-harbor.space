@@ -1,0 +1,2726 @@
+Mary	18
+Isabella	10
+Ann	9
+Jane	9
+Hope	8
+Maria	8
+Nancy	8
+Britannia	7
+Phoenix	7
+Advance	6
+Betsey	6
+Eagle	6
+Elizabeth	6
+Lalla Rookh	6
+Margaret	6
+Sarah	6
+Anna	5
+Argo	5
+Concord	5
+Flying Fish	5
+Helena	5
+Morris	5
+Viper	5
+Virginia	5
+Wasp	5
+Active	4
+Agenoria	4
+Brunswick	4
+Concordia	4
+Conflict	4
+Contest	4
+Diligent	4
+Dolphin	4
+Eclipse	4
+Ellen	4
+Enterprise	4
+France	4
+Friends	4
+George	4
+Hannah	4
+Ida	4
+Industry	4
+James	4
+Laura	4
+Linnet	4
+Lynx	4
+Musquito	4
+Nicorette	4
+Pen Duick	4
+Plumper	4
+Swinger	4
+Tigress	4
+Union	4
+Wellington	4
+Zephyr	4
+Adder	3
+Adelaide	3
+Adventure	3
+Agnes	3
+Aid	3
+Albatross	3
+Albion	3
+Annie	3
+Antelope	3
+Ariel	3
+Atalanta	3
+Atlantic	3
+Aurora	3
+Australia	3
+Beatrice	3
+Beginning	3
+Boxer	3
+Brothers	3
+Caledonia	3
+Cesar Godeffroy	3
+Charlotte	3
+Claudia	3
+Clinker	3
+Clio	3
+Columbia	3
+Defender	3
+Diamond	3
+Dominica	3
+Express	3
+Fanny	3
+Ferret	3
+Fortuna	3
+Fortune	3
+Frolic	3
+Griper	3
+Growler	3
+Halifax	3
+Helen	3
+Henry	3
+Hero	3
+Irene	3
+Jessie	3
+John	3
+Liberty	3
+Manly	3
+Martha	3
+Matilda	3
+Mayflower	3
+Meteor	3
+Monkey	3
+Morne Fortunee	3
+Morning Star	3
+Najaden	3
+Nautilus	3
+Netley	3
+Nippon Maru	3
+Nymph	3
+Pelter	3
+Peter Godeffroy	3
+Pilgrim	3
+Pioneer	3
+Providence	3
+Ranger	3
+Rebecca	3
+Redbridge	3
+Resolute	3
+Revenge	3
+Santa Anna	3
+Santa Clara	3
+Shamrock	3
+Shenandoah	3
+Speedwell	3
+Spitfire	3
+Success	3
+Surprise	3
+Susanna	3
+Sylph	3
+Teazer	3
+Twee Gebroeders	3
+USA	3
+Velocity	3
+Victoria	3
+Victory	3
+Waterloo	3
+William	3
+Abel Tasman	2
+Abigail	2
+Acute	2
+Ada Letitia	2
+Alabama	2
+Alert	2
+Alexander	2
+Alicia	2
+Alligator	2
+Amazon	2
+Amazone	2
+America	2
+Amerigo Vespucci	2
+Amity	2
+Amphitrite	2
+Amsterdam	2
+Anemos	2
+Anne	2
+Ariadne	2
+Arica	2
+Asp	2
+Assistance	2
+Astral	2
+Astrid	2
+Atlas	2
+Attack	2
+Avontuur	2
+Azzam	2
+Azzurra	2
+Bagheera	2
+Baltimore	2
+Barbara	2
+Batavia	2
+Beagle	2
+Beaver	2
+Bee	2
+Belem	2
+Belinda	2
+Berbice	2
+Betty	2
+Biter	2
+Black Joke	2
+Blazer	2
+Bloodhound	2
+Bluenose	2
+Bold	2
+Borer	2
+Bouncer	2
+Bounty	2
+Brilliant	2
+Bruiser	2
+Bustler	2
+Carolina	2
+Caroline	2
+Catharina	2
+Catherine	2
+Cleopatra	2
+Clyde	2
+Commodore	2
+Conquest	2
+Constantia	2
+Cornelia	2
+Cracker	2
+Cumberland	2
+Cygnet	2
+Daring	2
+Dart	2
+Dauntless	2
+Defiance	2
+Delaware	2
+Deseada	2
+Dexter	2
+Discovery	2
+Doris	2
+Dove	2
+Dreadnought	2
+Edmiston	2
+Edwin	2
+Eendracht	2
+Eleanor	2
+Eliza	2
+Eliza Jenkins	2
+Ella	2
+Emma	2
+Esmeralda	2
+Ethel	2
+Eugenia	2
+Eugenie	2
+Experiment	2
+Falken	2
+Fama	2
+Fame	2
+Farmer	2
+Favourite	2
+Fearless	2
+Felix	2
+Flirt	2
+Flor de la Mar	2
+Flora	2
+Flyer	2
+Flying Dutchman	2
+Fox	2
+Francis	2
+Freedom	2
+Friendship	2
+Gabriel	2
+Gallant	2
+Gallatin	2
+Garland	2
+General Nott	2
+Gerda	2
+Gipsy	2
+Gladan	2
+Gloria	2
+Gorch Fock	2
+Gratia	2
+Hart	2
+Harvey Gamage	2
+Hawke	2
+Hornet	2
+Iris	2
+Isabel	2
+Jackson	2
+Jehu	2
+John Bull	2
+Kaiwo Maru	2
+Kate	2
+Kensington	2
+Lady Franklin	2
+Lady Montgomerie	2
+Lady Nelson	2
+Leander	2
+Leeuwin	2
+Levant	2
+Libertad	2
+Lily	2
+Lion	2
+Lois	2
+Lucy	2
+Maglona	2
+Magpie	2
+Majestic	2
+Margaret Sutton	2
+Margaretta	2
+Mariner	2
+Martha Lloyd	2
+Mary Ann	2
+Mastiff	2
+Mela	2
+Meridian	2
+Messenger	2
+Mindelo	2
+Minx	2
+Mustang	2
+Nadezhda	2
+Naomi	2
+Nimrod	2
+Nirvana	2
+Nonsuch	2
+Ocean	2
+Ontario	2
+Pandora	2
+Patriot	2
+Pera	2
+Perseverance	2
+Peter von Danzig	2
+Phaeton	2
+Pictou	2
+Piercer	2
+Pigeon	2
+Pigmy	2
+Pincher	2
+Pinta	2
+Planter	2
+Priscilla	2
+Puritan	2
+Quail	2
+Racer	2
+Rainha de Portugal	2
+Rapid	2
+Raven	2
+Reaper	2
+Regina Maris	2
+Renard	2
+Resolution	2
+Resolven	2
+Richard	2
+Royalist	2
+Safeguard	2
+Samuel	2
+Santa Eulàlia	2
+Santa Maria	2
+Santiago	2
+Sarah Davies	2
+Sarpen	2
+Scorpion	2
+Scotsman	2
+Scourge	2
+Sea Cloud	2
+Sea Flower	2
+Seaflower	2
+Sealark	2
+Shark	2
+Shearwater	2
+Sir Sidney Smith	2
+Skipjack	2
+Snapper	2
+Snipe	2
+Solway	2
+Sparkler	2
+Speedy	2
+Starling	2
+Staunch	2
+Steady	2
+Summer Cloud	2
+Swallow	2
+Syren	2
+Thistle	2
+Tickler	2
+Tory	2
+Two Sisters	2
+Undine	2
+Utopia	2
+Vega	2
+Venture	2
+Vertrouwen	2
+Vesta	2
+Victoire	2
+Victor	2
+Victoria Emmanuel	2
+Vixen	2
+Volunteer	2
+Wanderer	2
+Washington	2
+Wave	2
+Whiting	2
+Wild Cat	2
+William And Sarah	2
+Woodlark	2
+Wrangler	2
+Young Endeavour	2
+Zenobia	2
+A E Vickery
+A Houghton
+A J Meerwald
+A J View
+A W Greely
+Aagtekerke
+aak
+Aalshokker
+Abaeté
+Aberdeen
+Aberystwyth
+Abin
+Aboukir bay
+Absalon
+Abstainer
+Acapella
+Achilles
+Acme
+Açor
+Acorn
+Acrohc Australis
+Acteon
+Ada and Ethel
+Adamant
+Adela S Hills
+Adèle
+Adirondack
+Adix
+Admiral
+Admiral Bellingshausen
+Admiral Gifford
+Admiral Juel
+Admiral Rainier
+Admiral Tegetthoff
+Admiral von Trotha
+Admittance
+Adolph Hugel
+Adonis
+Adoram
+Adrien
+Adrienne
+Adroit
+Advance Australia
+Advent
+Adventuress
+Advice
+Aenos
+Aeron Belle
+Aeron Lass
+Aeron Maid
+Aeron Queen
+Aeron Vale
+Aeronian
+af Chapman
+Affines
+Afon Alaw
+Afon Cefni
+Afonso de Albuquerque
+Africaine
+Aggressor
+Agil
+Agnes Cairnes
+Agnes Fraser
+Agnes Smith
+Aimwell
+Aita Guria
+Akaroa
+Ala Charles
+Alacrity
+Alban
+Albanaise
+Albanus
+Albany
+Albatros
+Albemarle
+Albert and Isabella
+Albert Johannes
+Alberta
+Albicore
+Alciope
+Alegre Pensamento
+Alerta
+Alerte
+Aleut
+Alex T Brown
+Alexa
+Alexander Cochrane
+Alexander von Humboldt
+Alexandria
+Alfa Romeo
+Algerine
+Alice
+Alice Burnyeat
+Alina
+Allahabad
+Allart
+Allen Gardiner
+Alma
+Almorah
+Alphea
+Älva
+Alvin Clark
+Amalia
+Amazing Grace
+Ambassador
+Amboy
+Amboyna
+Ambrose Light
+Amelia
+América
+America's Challenge
+American Eagle
+American Pride
+American Spirit
+Amethyst
+Amistad
+Amoret
+Anapa
+Ancud
+Anemone
+Angel Gabriel
+Angele Aline
+Angelique
+Anglia
+Anita
+Anitra
+Ann And Francis
+Ann and Rebecca
+Ann Jones
+Ann McKim
+Anna B Smith
+Anna Catharina
+Anna Magdalena
+Anna Rogde
+Anna-Lisa von Wischhafen
+Anna-Rosa
+Anne Catherine
+Anne Davies
+Anne Elizabeth
+Anne Jane
+Anne Jenkins
+Anne Jones
+Anne Warren
+Annie Larsen
+Annie Maude
+Annie Ramsay
+Annsboro
+Antarès
+Antigua
+Anunciação
+Appia
+Appledore
+Aquijo
+Ar Zenith
+Arabia
+Arago
+Aránzazu
+Arbuthnot
+Archer
+Archibald Russell
+Arcturus
+ARD Almirante Juan Bautista Cambiaso
+Ardent
+Aretas
+Arethusa
+Argia
+Argonavt
+Argus
+Ark Royal
+Arletta
+Armorique
+Arnhem
+Arno
+Aron
+ars Vivendi
+As Duas Margaritas
+Aschanti
+Ashley
+Askoy
+Assa Abloy
+Assault
+Assiduous
+Assistant
+Astrea
+Atlanta
+Atlantis
+Attentive
+ATYLA
+Audaz
+Augustus
+Aura
+Avatar
+Aventura
+Aventurier
+Aviemore
+Avon
+Ayvara
+Azoff
+Azorean
+Azzardoso
+Babin-Chevaye
+Baby Bootlegger
+Bacubo
+Badger
+BAE Guayas
+Balamam
+Balclutha
+Ballahoo
+Baltic
+Baltic Beauty
+Baltic Star
+Bamboo
+Bancroft
+Banjaard
+Barão de Lazarim
+Barba
+Barba Negra
+Barbara Innes
+Bardia
+Baring
+Barracouta
+Barretto Junior
+Basilisk
+Battus
+Bay
+Bayesian
+Beacon
+Bear
+Beauregard
+Bedar
+Bel Espoir
+Belchior
+Belgica
+Belina
+Bell
+Bella Dolores
+Belle
+Belle Poule
+Belle Sheridan
+Belle-Amie
+Bellona
+Belsher
+Beluga
+Ben Morgan
+Benevolence
+Benicia
+Benjamin
+Benjamin C Cromwell
+Benjamin F Packard
+Benjamin Peirce
+Benn
+Berlin
+Berliner Baer
+Berntine
+Berrimilla
+Berrio
+Bertie
+Bessie
+Bessie Jones
+Bessie Rowe
+Bethune Blackwater Schooner
+Betsy
+Betty And Margaret
+Bezaleel
+Biały Lew
+Biche
+Bieszczady
+BIL
+Billow
+Bima Suci
+Biscaye
+Black Douglas
+Black Pearl
+Black Prince
+Bleijenburg
+Blenden Hall
+Blink Bonnie
+Blodwen
+Blue Dolphin
+Blue Jacket
+Blue Sirius
+Boa Esperança
+Boatman
+Bodotria
+Bolette
+Bolina
+Bom Jesus
+Bombori
+Bona Fortuna
+Bonavista
+Bonawentura
+Bonito
+Bonitta
+Bonne Amie
+Bota Fogo
+Bourbaki
+Bowditch
+Bowdoin
+Bramble
+Braunfisch
+Breadalbane
+Breaker
+Bream
+Bremen
+Bremen cog
+Brev Drageren
+Bridgetown
+Bridgewater
+Brigantine Yankee
+Briggs
+Brindabella
+Bristol Merchant
+Britomart
+Britta
+Brockholes
+Brooksfield
+Bruce
+Bruinvisch
+Bull
+Bunte Kuh
+Burchiello
+Burdyna
+Busbridge
+Busiris
+Buteo
+C A Thayer
+C H Trumbull
+C H Wheeler
+C P Williams
+Cabinda
+Cadboro
+Caique Mindelo
+Cairngorm
+Californian
+Calypso
+Cambria
+Cambrian
+Cambrian Belle
+Camden
+Camilla
+Camper Lifelovers
+Canada
+Canada One
+Canandaigua
+Candace
+Candia
+Candor
+Canso
+Capacity
+Capelin
+Capitan Miranda
+Caprice
+Capricorn
+Caradog
+Carl And Louise
+Carl Pihl
+Carlisle
+Carmelan
+Carn Brea
+Carnegie
+Caroline Spooner
+Carradale
+Carroll A Deering
+Carron
+Cartier
+Cashier
+Cassandra
+Castle
+Castle Eden
+Cat hump barge
+Cataraqui
+Caterina Accame
+Catherina
+Catherine Anne
+Catherine Hendry
+Catherine Morgan
+Catnazse
+Cato
+Cecil Brindley
+Celerity
+Censor
+Centinel
+Centurion
+Cerbere
+Ceredig
+Cerf
+Cervantes Saavedra
+César
+Ceylon
+Challenge
+Challenge France
+Champion
+Charger
+Charlemagne
+Charles Chalmers
+Charles Racine
+Charlotte Ann
+Charlotte Kerr
+Chasseur
+Chatham
+Cheerful
+Cheerly
+Chessie Racing
+Chippeway
+Chotank
+Christian Charlotte
+Christian Radich
+Christiana
+Christiania
+Christina Nilsson
+Christopher
+Chrysolite
+Chub
+Chubut
+Churfürst von Brandenburg
+Circassian
+Cirus
+Cisne Branco
+City of Adelaide
+City of Grand Haven
+City of New York
+Clarissa
+Clarita
+Clarovine
+Clementina
+Clementson
+Clipper City
+Clotilda
+Club Med
+ClubSwan
+Coaster
+Cockatrice
+Cockchafer
+Coco
+Codseeker
+Cogs of Varberg
+Colibri
+Collingwood
+Colombo
+Colonel de Villebois-Mareuil
+Colonist
+Colpoys
+Columbia Rediviva
+Comanche-USA
+Comet
+Commerce
+Commercie Compagnie
+Comte de Paris
+Comte de Smet de Naeyer
+Concepción
+Conde de Tojal
+Conde Don Henrique
+Condor
+Condor of Bermuda
+Confidence
+Confounder
+Congo
+Connie
+Conovium
+Constant
+Convoy
+Cooksone
+Coolangatta
+Coquette
+Cor Caroli
+Cora F Cressey
+Coral Trekker
+Cornish Lass
+Cornwallis
+Coronella
+Coronet
+Coronilla
+Corribee
+Corsair
+Corsario
+Corsican
+Corso
+Corwith Cramer
+Corypheus
+Cospatrick
+Countryman
+County of Dumfries
+County of Peebles
+Courageous
+Coureuse
+Courier
+Coutts
+Crane
+Crash
+Crawford
+Créole
+Cricket
+Cruelle
+Crusader
+Cuauhtémoc
+Cuba
+Cuckoo
+Culloden
+Cuttle
+Cutty Sark
+Cwmsymlog
+Cymric
+Cynara
+Cyprus
+D R Owen
+D'Halve Maen
+Daino
+Daisy
+Dallas
+Dan Smith
+Danmark
+Dante
+Daphne
+Dapper
+Dar Młodzieży
+Dar Pomorza
+Dash
+Dashing Wave
+Dauphin Royal
+David Clark
+David Dows
+David Grant
+David Walter
+De Albertha
+De Catherina
+De Herman
+De Joffrouw Maria
+De Jonge Berend
+De Jonge Catharina
+De Jonge Thomas
+De Koning Salomon
+De Liefde
+De Reiherstieg
+De Roosenboom
+De Rot
+De Twee Catharinas
+De Twee Gebroeders
+De vrouw Maria Elisabet
+De Wadden
+Decouverte
+Decoy
+Defence
+Delawana
+Delight
+Demerara
+Den Store Bjørn
+Denis Sullivan
+Deodar
+Derby
+Derfflinger
+Derry Castle
+Derwent
+Desdemona
+Deseado
+Desire
+Despatch
+Desperate
+Detroit
+Deutschland
+Deux Amis
+Deveron
+Devinal
+Dewi Lass
+Dexterous
+Diemermeer
+Dieu Protège
+Diligence
+Dimsdale
+Dione
+Dispatch
+Djuice Dragons
+Doarp Grou
+Dockenhuden
+Dolly Varden
+Dom João de Castro
+Don
+Don João
+Don Pedro
+Don Silvano
+Donna Wood
+Dora Ann
+Dorchester
+Dordrecht
+Doris von Ochtum
+Dorothea Weber
+Dotor Livre
+Dotterel
+Douglas
+Dourada
+Douro
+Dovey Belle
+Dragon
+Draken
+Drie Gezusters
+Dronning Caroline Mathilde
+Druid
+Drum
+Drusus
+Druzhba
+Duchess Of Buccleuch
+Duchesse Anne
+Duguay-Trouin
+Duke Of Athol
+Duke of Gloucester
+Duke of Rutland
+Dunay
+Dunbar
+Dunbrody
+Dundee
+Dundonald
+Dupleix
+Duque da Terceira
+Duyfken
+Dwyn Wen
+E R Sterling
+E W Scripps
+Eagle Eyed
+Eagre
+Eamont
+Earl St Vincent
+Earnest
+Eastward
+Ebe
+Eben Haezer
+Echo
+Eclair
+Ecover of Skagen
+Eden D Jordan
+Edith Eleanor
+Edmund Blunt
+Edna E Lockwood
+Edward
+Edward Cooper
+Edward John
+Eenigheid
+EF Education
+EF Language
+Egcrateia
+Egeria
+Eigen
+El Cano
+El Pájaro
+El-Mellah
+Elbark
+Eldorado
+Eleanor Francis
+Eleanor Thomas
+Eleanora
+Eleanore
+Electra
+Elegant
+Eleonora
+Elf
+Elfin
+Elfrida
+Elfriede
+Elgen
+Elgin
+Eling
+Elise
+Elissa
+Eliza Charles
+Eliza Francis
+Eliza Jane
+Eliza Pirrie
+Eliza Stewart
+Elizabeth Ann
+Elizabeth Davies
+Elizabeth Jane
+Elizabeth Lewis
+Elizabeth Owens
+Elizabeth Thomas
+Ellen Anne
+Ellen Beatrice
+Ellen Catherine
+Ellen Edwards
+Ellen Owen
+Elsa Margrethe
+Elsinore
+Emeline
+Emerald
+Emil
+Emily
+Emily Agnes
+Emily Farnum
+Emily Reed
+Emma Alice
+Emmet
+Empire Sandy
+Empress
+Empress of China
+Emrys
+Encounter
+Endeavour
+Endurance
+Endymion
+Enez Glaz
+Engelina
+Ensgeizentheit
+Enterprize
+Entrerriana
+Eos
+Epervier
+Equator
+Equity
+Erasmo
+Erica
+Erna Signe
+Esbern Snare
+Escarmouche
+Esperanto
+Espigle
+Essex
+Estelle
+Esther
+Estramina
+Et Zeepard
+Ethel Anne
+Ethel von Brixham
+Étoile
+Étoile de France
+Étoile Molène
+Etta M Burns
+Eudora
+Eugénie
+Eugenie Desiree
+Eulala
+Eunice
+Euphemia
+Euphrosyne
+Europe
+Eva
+Evaine
+Evdokim
+Evelina M Goulart
+Evenwood
+Evstafii
+Excalibur
+Excelsior
+Exchange
+Exertion
+F T Barney
+Fair American
+Fair Hope
+Fairlina
+Fairy
+Falcon
+Falconry
+Fancy
+Fancy Free
+Fanny Fothergill
+Fanny P
+Fanny Taylor
+Fansie
+Far Barcelona
+Favell
+Favorite
+Federación
+Federal
+Fekeline
+Fenimore Cooper
+Fennia
+Ferreter
+Fervent
+Fidelity
+Fielding
+Fifeshire
+Fingal
+Firebrand
+Firefly
+Firm
+Fishburn
+Five Brothers
+Flamer
+Fleece
+Fleetwing
+Fleur de la Mer
+Fleur de Lampaul
+Fleur des Ondes
+Flinders
+Flinthörn
+Flora Kerr
+Florence
+Flusser
+Flying Scud
+Folly
+Fontana
+Foraaret
+Force
+Fort Chesterfield
+Fortinet-Best Western
+Fortuyn
+Forward
+Four Sisters
+Foxhound
+Fram
+Francis H Leggett
+Francisca e Catherina
+Franklin
+Fraternity
+Frau Elisabeth
+Frauenlob
+Fredensborg Slot
+Frederica
+Frederick Griffing's
+Frederick Van Gross
+Fredonia
+Fredrica Christiana
+Freia
+Freya
+Fridthjof
+Fridtjof Nansen
+Frieda
+Friede
+Friendship of Salem
+Fulton
+Furious
+Furnace
+Fury
+Fylla
+G W Blunt
+Gainsborough
+Galatea
+Galathea
+Galeón Andalucía
+Galeón de la Constitución
+Galiasse
+Galilee
+Gallinipper
+Gálvez
+Gambia
+Game Cock
+Gartenlaube of Stralsund
+Garthpool
+Gaspée
+Gaydamak
+Gazela Primeiro
+Geertruda Magdalena
+Geertruida Gerarda
+Gefion
+Général de Sonis
+General Gates
+General Grant
+General Hunter
+Generał Zaruski
+Generoso
+Geoanna
+Georg
+Georg Stage
+George Fyfe
+George Mangham
+George Reynolds
+George Roper
+George W Rodgers
+Georgiana
+Gerben van Manen
+Gertrude
+Gibraltar
+Glad Tidings
+Glanrheidol
+Glanwern
+Glasgow
+Gleaner
+Glenalvon
+Glenara
+Glenaros
+Glenbreck
+Glendovey
+Glenlee
+Glenlivet
+Glenn L Swetman
+Glentanner
+Gloria Dalton
+Glory
+Glückauf
+Glynaeron
+Godewind
+Godspeed
+Golden Fleece
+Golden Hind
+Golden Horizon
+Golden State
+Good Hope
+Goolwa
+Götheborg
+Governor Ames
+Governor Hunter
+Governor King
+Governor Macquarie
+Governor Simcoe
+Governor Stone
+Gowerian
+Grace
+Grace A Channon
+Grace Bailey
+Grace Harwar
+Gracieuse
+Grafton
+Grampion
+Grampus
+Grape Shot
+Grasbrook
+Gratitude
+Great Britain
+Great Republic
+Grecian
+Greif
+Greme
+Grenada
+Grenville
+Grete
+Gretel
+Gribshunden
+Griffon
+Grifo
+Grinde
+Grönland
+Grootebroek
+Großherzogin Elisabeth
+Grouper
+Grønne Erna
+Guachapin
+Guadaloupe
+Guanaco
+Gudsekop
+Guiade
+Guide
+Guineesche Galey
+Guinevere
+Gulden Leeuw
+Gulnare
+Gulnore
+Gunilla
+Gustaf
+Gustav Adolph
+Gwalia
+Gwladys
+Haddock
+Hagar
+Hai
+Hallberg-Rassy
+Halls
+Halstarr
+Hamilton
+Hancock
+Hannah Parr
+Hanne Marie
+Hanover
+Hansekogge
+Hansteen
+Happy Return
+Hardy
+Harmina
+Harmony
+Harrier
+Harriet Julia
+Harrington
+Harrison
+Hasty
+Haughty
+Havana
+Havelock
+Havock
+Havsörn
+Hawendale
+Hazelwood
+HCS Mahi
+HCS Sylph
+Heart of America
+Hearty
+Heather Bell
+Hector
+Hedessa
+Heedful
+Hein Godenwind
+Heineken
+Heinrich
+Heistad
+Heitor
+Hela
+Helen Baughman
+Helen J Seitz
+Helen Miller Gould
+Helene
+Helmi
+Helvetia
+Hendrika
+Henry And William Allan
+Henry E Taylor
+Henry Grace à Dieu
+Henry Janes
+Henry Newell
+Henry Porcher
+Henry Roop
+Henry Wellesley
+Herald
+Herbert Norkus
+Hermann
+Hermann Oelrichs
+Hermosa
+Herring
+Herzogin Cecilie
+Heti
+Hetman Sahaidachny
+Hetty Ellen
+Hetty Mary
+Heureux
+Highflyer
+Hildred
+Hind
+Hindu
+Hioma
+Hiram
+Hirondelle
+Hohenzollern
+Holly
+Home
+Honduras
+Honora
+Hōō Maru
+Hoop
+Hoop op Welvaart
+Hoppet
+Horstendaal
+Houghton
+Hougomont
+Hound
+Howe
+Howell Cobb
+Huia
+Humanity
+Humber
+Huntress
+Hvide Ørn
+Hydro
+Hydroptère
+Hyperion
+Høydal
+I'm Alone
+Ianthe
+Ide Min
+Idea
+Idler
+Idris
+Ifor
+Illbruck Challenge
+Illeri
+Ilsley
+Impala
+Inca
+Inconstant
+Indian
+Indignant
+Indivisible
+Ingham
+Ingo
+Innovation Kvaerner
+Integrity
+Intelligent
+Intrepid
+Intrepido
+Intrum Justitia
+Invencible
+Inveterate
+Invincible
+Ionian Belle
+Irving Johnson
+Isaac H Evans
+Isabelinha
+Isabella and Lydia
+Isallt
+Ischia
+Iserbrook
+Iskra
+Island City
+Island Maid
+Isobel
+Istria
+Itaka
+Italian Hero
+Ithuriel
+Ivanhoe
+J B Brown
+J B Walker
+J Llewellyn
+J M Chapman
+J P Frecker
+J R Tolkien
+J W A
+J W Clise
+J W Harris
+J W Wilder
+Jabusintack
+Jachara
+Jackal
+Jackdaw
+Jaen Teär
+Jäger
+James A Garfield
+James and Joseph
+James Craig
+James Lyon
+James Postlethwaite
+James S Chambers
+Jane And Ellen
+Jane Bird
+Jane Butcher
+Jane Davies
+Jane Elizabeth
+Jane Ellen
+Jane Gifford
+Jane Griffiths
+Jane Gwynne
+Jane Herbert
+Jane Jones
+Jane Maria
+Jane Morgans
+Jane Owens
+Jane Rowland
+Jane Shearer
+Jane Wheaton
+Jane Williams
+Janek Krasicki
+Jankea
+Janne Allerton
+Jarramas
+Jaseur
+Jean et Jeanne
+Jean Laing
+Jeanne-Elisabeth
+Jeany And Peggy
+Jefferson
+Jefferson Davis
+Jem Bunt
+Jenny
+Jensine
+Jesmond
+Jesus Maria José
+Jesus of Lübeck
+Joan Cunllo
+Jobert
+Joffre
+Johann Smidt
+Johanna
+Johanna Hendrika
+Johanna Smith
+Johanna Wagner
+Johanne Dan
+Johannes
+John and Sarah
+John Elias
+John Ewing
+John Griffith
+John Hannah
+John J Audubon
+John James
+John Palmer
+John Pierce
+John Pirie
+John Shaw
+John Slater
+John Swan
+John William
+Jolly Bachelor
+Jonathan
+Jonge Berend
+Jonge Louisa
+Jonge Willem
+Jönköping
+Josefa
+Joseph F Loubat
+Joseph N Lord
+Joshua
+Juan Sebastián Elcano
+Judith
+Julia
+Julia Hamilton
+Julianna
+Julie
+Juliet
+Jumna
+Juniper
+Jylland
+Kaimiloa
+Kainan Maru
+Kajama
+Kaliakra
+Kamper kogge
+Kaper
+Kapitan Borchardt
+Karolina
+Kaskelot
+Kate Kelly
+Kate Sophia
+Katherine M Lee
+Kay
+Keldhead
+Kent
+Kentish
+Keppel
+Khersones
+Kiebitz
+Killia Lass
+Killoran
+King Cenric
+King William
+Kingfisher
+Kings Fisher
+Kingston
+Kirk B Schooner
+Kirkdale
+Kishamis
+Kittatinny
+Kitty Clyde
+Klara Marie
+koftjalk
+Komeet
+Konstantin
+Konung Karl
+Kookaburra
+Koporye
+Koru
+Kosova
+Krake ZK
+Kraken
+Krik Vig
+Kriter
+Kruzenshtern
+Kvartsita
+Kvik
+L A Dunton
+L'Aigle
+L'Ami Pierre
+L'Astrolabe
+L'Enterprise
+L'intrépide
+La Argentina
+La Boussole
+La Cancalaise
+La Cordelière
+La Merced
+La Pepa
+La Recouvrance
+La Romanche
+La Vaudoise
+La Zélée
+Labrador
+Lacedemonian
+Lady
+Lady Agnes
+Lady Bute
+Lady Ellen
+Lady Kinnaird
+Lady Lyttleton
+Lady Mary
+Lady Mary Pelham
+Lady Maryland
+Lady Maud
+Lady of St Kilda
+Lady Pryse
+Lady Robert Williams
+Lady Washington
+Lagerbielke
+Lamartine
+Landrail
+Lanikai
+Lark
+LASHA
+Lastdrager
+Latajacy Jelen
+Latifa
+Laura Reed
+Laurel
+Lawhill
+Lawrence
+Le Casuarina
+Le Français
+Le Grand Alexandre
+Le Ponant
+Lê Quý Đôn
+Le Saint-André
+Leadbitter
+Leah
+Leão Holandês
+Lee
+Legend
+Leiden
+Lelievlet
+Lemster skûtsje
+Lena
+Leone of Caprera
+Leonidas
+Leopard
+Leopoldus Primus
+Les Trois Frères
+Letitia
+Lettice Catherine
+Lettie G Howard
+Lewis R French
+Lexington
+Liberty Star
+Licor
+Lidador
+Liddell
+Liela
+Lighthorse
+Lightning
+Lilla Dan
+Lima
+Lina
+Lincoln
+Linden
+Lion New Zealand
+Little Jennie
+Lively Lass
+Liverpool Packet
+Lizzie Jane
+Loa
+Loch Linnhe
+Loch Torridon
+Locust
+Lofthus
+Lom
+Loma
+London Mail
+Lone Star
+Lonsdale
+Lord Archibald Hamilton
+Lord Ashburton
+Lord Melville
+Lord Nelson
+Lord Salton
+Lord Templemore
+Lord Wellington
+Lorena
+Lorina
+Lorne
+Loth Loriën
+Lottie Cooper
+Lougen
+Louisa
+Louisa Ann
+Louisa Campbell
+Louisa Jane
+Louise
+Louise No
+Love And Unity
+Love Bird
+Lovina
+Loyal
+Loyal Judy
+Loyalty
+Lübecker Kogge
+Lucerne
+Lucia A Simpson
+Lucy And Andrew
+Lucy Neal
+Lumberman
+Lumen
+Lydgate
+Lydia
+Lydia Koidula
+Lynch
+Lynwood
+M A Evans
+M A Jones
+M F Merrick
+Mackerel
+Madeira
+Madeleine
+Madelynn
+Madison
+Madona
+Maelota
+Magdala
+Magdalen Esther
+Magdalena
+Magdalene
+Maggie Cross
+Maggie Cummings
+Maggie Phillips
+Maggie S Myers
+Magnet
+Mahratta
+Mail
+Malacabada
+Malahat
+Malbragas
+Malca
+Malcolm Miller
+Maldonado
+Malizia-Seaexplorer
+Mallard
+Mallejan
+Mally And Peggy
+Malpas Belle
+Malta
+Maltese Falcon
+Malvina
+Mandarin
+Mantura
+Maple Leaf
+Mar Mostro
+Marco Polo
+Mare Frisium
+Marettimo
+Margaret Ann
+Margaret Evans
+Margaret Jane
+Margaret Jones
+Margaret Lewis
+Margaret Todd
+Margarethe
+Margarida
+Margarita
+Margery Austin
+Margrethe
+Maria A Wood
+Maria Anna
+Maria Asumpta
+María Chica
+Maria J Carlton
+Marian
+Marie
+Marie Antoinette
+Marie Galante
+Marie Séraphique
+Marie-Clarisse
+Mariehamn
+Mariette
+Marigold
+Marion
+Marion Ballantyne
+Marita
+Marité
+Marmion
+Marquis Of Wellington
+Martroger
+Marwood
+Mary A Williams
+Mary Abigail
+Mary And Ann
+Mary And Betty
+Mary and Lydia
+Mary and Margaret
+Mary and Rebecca
+Mary Anna
+Mary Anne
+Mary B Mitchell
+Mary Botwood
+Mary Celeste
+Mary Davies
+Mary Elizabeth
+Mary Ellen
+Mary Evans
+Mary Gally
+Mary Hughes
+Mary Isabella
+Mary Jane
+Mary Jones
+Mary Lloyd
+Mary Rose
+Mary Sarah
+Mary Walker
+Mary Young
+Marys
+Matchless
+Mathilde
+Matthew
+Matthew Vassar
+Matty
+Maud
+Mauritius
+Mayan
+McLane
+Meander
+Meda
+Medea
+Mediterranean
+Medusa
+Mefkure
+Melodia
+Melpomene
+Mentor
+Mercantile
+Mercedes
+Merchant
+Meredith
+Meridianas
+Meriliisa
+Merit Cup
+Mermaid
+Mersey
+Mervinia
+Mestre
+Metha Nelson
+Mi Amigo
+Midloo
+Mighty Mary
+Mina
+Minnie Harley
+Mir
+Miranda
+Mircea
+Miss Hughes
+Miss Nylex catamaran
+Mist of Avalon
+Mistletoe
+Miztec
+Moewe
+Mohawk
+Moira
+Molly
+Monarch
+Mongoose
+Monmouth
+Monserrat
+Montague
+Montego
+Mõntu
+Moonland
+Morell
+Morgan Evans
+Morgenster
+Morgiana
+Mosalaki Cruise
+Mosambique
+Moshulu
+Mosquidobit
+Mount Wollaston
+Mountain Lass
+Mullett
+Mutine
+Myrah
+Myron
+Mystic
+Mytho
+Nadir
+Naga Pelangi
+Nal
+Nancies
+Naniwa Maru
+Nanteos
+Nao Victoria
+Napoleon
+Narwhal
+Nathan F Cobb
+Nathaniel
+Nathaniel Taylor
+Native
+Native Pearl
+Naturalia
+Nau Capitânia
+Navio de Juan Antonio Basto
+Neanthes
+Néarque
+Neerlandia
+Neire Mâove
+Nellie J Banks
+Nellie Jackson
+Nensy
+Nerbudda
+Nerissa
+Neutralitaten
+New Blessing
+New Harmony
+New Sweden
+New Zealander
+Newell A Eddy
+Niagara
+Nieuwe Hoop
+Nieuwe Zorg
+Nieuwerwerf
+Nimble
+Niña
+Niobe
+Nisus
+Nitro
+Nive
+Noel
+Nonpareil
+Noord Nieuwland
+Noorderlicht
+Noquebay
+Nord Stern
+Nordischer Löwe
+Nordkaperen
+Nordlandsjekta Brødrene
+Nordlyset
+Nordstjernen
+Norfolk
+Norfolk Packet
+Northern Light
+Northerner
+Nossa Senhora da Assunção
+Nossa Senhora da Conceição
+Nossa Senhora da Graça
+Nossa Senhora do Pilar
+Notorious
+Nova Scotia
+Novo Matilde
+NTM Creoula
+Nuestra Señora de Belén
+Nuestra Señora de los Dolores
+NZ Endeavour
+Oban
+Ocean Belle
+Ocean Chief
+Ocean Dart
+Ocean Star
+Ocean Telegraph
+Ocean Wave
+Oceanis
+Oema
+Ohio
+Old Briton
+Old Maid
+Olga
+Olive Branch
+Olivebank
+Oliver H Lee
+Oloferne
+Omnibus
+Oneida
+Onkahye
+Onward
+Oosterschelde
+Ópal
+Oprichnik
+Oquecham
+Orcadia
+Oregon Pine
+Orient Express Corinthian
+Orion
+Oronsa
+Oroonoko
+Orvetta
+Orwell
+Osprey
+Ottawa
+Otto
+Owny Belle
+P M Willcock
+Pacific
+Pacific Grace
+Pacific Swift
+Padarn
+Palinure
+Palinuro
+Pallada
+Pallas
+Palma
+Pamir
+Papeete
+Papillon
+Para
+Paramour
+Parma
+Parmelia
+Parnassus
+Partridge
+Passat
+Paul
+Paul Jones
+Paul Palmer
+Pauline
+Paz
+Pearl
+Pedra de Bejar
+Pedro Nunes
+Peerless
+Peggy
+Peggy of Castletown
+Peking
+Pelican
+Penang
+Penguin Cafe
+Pero de Alenquer
+Perpetual LOYAL
+Persévérance
+Perseverence
+Pestonjee Bomanjee
+Petchelee
+Peter Iredale
+Petrel
+Phantom
+Phelipa
+Philanthropist
+Philia
+Philippa
+Philips Innovator
+Phipps
+Phyllis
+Pickle
+Picton Castle
+Pike
+Pilchard
+Pinas
+Pinta Phinisi
+Pippilotta
+Pitcairn
+Pitt
+Pizarro
+Plantagenet
+Platessa
+Playfair
+playmobil
+Pleiades
+Plimsoll
+Pluvier
+Podorange
+Pogoria
+Polar Bear
+Polaris
+Polecat
+Polly Woodside
+Polyarnaya Zvezda
+Polydora
+Pommern
+Ponape
+Porcupine
+Porgey
+Porpoise
+Port
+Port au Prince
+Port Of Sunderland
+Port Royal
+Portland
+Postillion
+Potosi
+Poulton
+Pouncer
+Prairie Flower
+Presidente Sarmiento
+Presviata Pokrova
+Pretoria
+Preussen
+Prevost
+Pride of Baltimore
+Prima Donna
+Prince Cadwgan
+Prince de Neufchatel
+Prince Eugene
+Prince Llewelyn
+Prince of Portugal
+Prince of Wales
+Prince Of Waterloo
+Prince Regent
+Princess Louise
+Princess Svanevit
+Principality
+Principality of Catalonia
+Principe Carlo
+Prinsesse Wilhelmine Caroline
+Priwall
+Procyon
+Progress
+Prometheus
+Prosperity
+Protector
+Prudence
+Prudent Sarah
+Puella
+Pyrenee
+Płomień
+Queen's Cliff
+Quest
+Quevilly
+Quinnipiack
+Quo Vadis
+R C Rickmers
+R H Fauntleroy
+R Tucker Thompson
+Race Horse
+Rachel Lewis
+Rachel Seaman
+Raduga
+Raffles
+Ragna
+Rainbow
+Rainbow Warrior
+Rainier
+Ramsey
+Ran
+Randmeer
+Rapide
+Raposa
+Raposo
+Rara Avis
+Rara Avis Yacht
+Ratingen
+Rattler
+Raymond
+Ready
+Rebuff
+Recruit
+Red Jacket
+Redbreast
+Redburn
+Redoubt Kali
+Reefer
+Reform
+Renegade
+Renshaw
+Reposado
+Reprisal
+República
+Republicano
+Repulse
+Resolue
+Restaurador
+Result
+Retaliation
+Retina
+retourship
+Retriever
+Revolving Light
+Rheidol
+Rheidol Queen
+Rheidol Vale
+Rhone
+Richard Brown
+Richard Thomson
+Richmond
+Ridderschap van Holland
+Rienk Ulbesz
+Rifleman
+Rigmor
+Ring Andersen
+Ringö
+Rio
+Rio da Prata
+Río de la Plata
+Rio Sado
+Rio Tâmega
+Roald Amundsen
+Robert
+Robert H McCurdy
+Roberts
+Robin
+Robin Hood
+Roca
+Rock of Cashel
+Rola
+Rook
+Rosario
+Rosebud
+Roseina
+Rosenfelde
+Roseway
+Rosina
+Rosita
+Rosland
+Rossie
+Roter Teufel
+Rouse Simmons
+Rover
+Rowena
+Rowland Evans
+Royal Clipper
+Royal Exchange
+Royal Savage
+Ruby
+Runbjarn
+Running on Waves
+Rush
+Ryurik
+Ryvar
+S S S Lotus
+S T V Pathfinder
+S V Cynthia Woods
+Sabrina
+Sacramento
+Sadyão
+Sagres
+Saint Andrew
+Saint Lucia
+Saint Nicholas
+Saint Phillip
+Saint Pierre
+Salamine
+Sally
+Salskar
+Sam Houston
+Sampo
+Samson
+Samuel B Johnston
+Samuel P Ely
+Samuel Rotan
+Samyrah
+San Antonio
+San Buena Ventura
+San Francisco de Paula
+San Lesmes
+San Pedro
+Sandfly
+Sandra
+Santa Catarina
+Santa Catarina do Monte Sinai
+Santa Luzia
+Santa María de Barcelona
+Santa Maria de Colombo
+Santa Maria Manuela
+Santa Teresa e Santo António
+Santíssimo Sacramento
+Santo Alberto
+Santo António e São Lourenço
+Santo Cristo de Boa Viagem
+São Bento
+São Boaventura
+São Gabriel
+São João
+São João Baptista
+São Lucas
+São Mateus
+São Paulo
+São Pedro de Rates
+São Rafael
+São Tomé
+Sara af Hangö
+Sarah and Caroline
+Sarah Ann
+Sarah Bridget
+Sarah Bruen
+Sarah Forsyth
+Sarah Jane
+Sarah Phillips
+Sarandí
+Sardam
+Savannah
+Sayula
+SB Adieu
+Schelya
+Schiedam
+Schlosser
+Science
+Scottish Maid
+Sea Bird
+Sea Cloud Spirit
+Sea Gull
+Sea Horse
+Sea Queen
+Sea Venture
+Sea Witch
+Seaforth
+Seahawk
+Sedna
+Sedov
+Segundo Romano
+Sekstant
+Selina
+Sentinel
+Separación Dominicana
+Sepia
+Serpent
+Seute Deern
+Severn
+Sex Brodre
+Shannon
+Sharpshooter
+Sheila
+Shelburne
+Sherbroke
+Sherman Zwicker
+Shinetsu Maru
+Shockwave
+Shon Quilt
+Shooting Star
+Sidney C Jones
+Sieben Brüder
+Sierra Nevada
+Sigen
+Silk Cut
+Silva of Halifax
+Simón Bolívar
+Singe
+Siora Veronica
+Sir Andrew Hammond
+Sir Colin
+Sir Lancelot
+Sir Robert Baden Powell
+Sir Robert McClure
+Sir Thomas Pasley
+Sir Winston Churchill
+Siren
+Sisters
+Skade
+Skandia
+Skibladner
+Skjold
+Smok
+SMY Hohenzollern
+Smyrna
+Snap
+Solway Lass
+Somerfield
+Somers
+Sophia
+South Australian
+South Esk
+South Passage
+South Walian
+South Wind
+Southern Swan
+Southerner
+Sovereign
+Spark
+Sparrow
+Sparta
+Speculator
+Speed
+Spider
+Spirit of New Zealand
+Spirit of South Carolina
+Spiteful
+Sprite
+Squirrel
+St Catrina
+St Clair
+St Fillan
+St Helena
+St John
+St Lawrence
+St Michael
+St Peter
+Stad Amsterdam
+Staffetta
+Stafford
+Stag
+Star Clipper
+Star Flyer
+Star of India
+Star of Wales
+Starlight
+Statsraad Lehmkuhl
+Steak 'n' Kidney
+Steinlager
+Stella
+Stella Maris
+Stephen Taber
+Stjernen
+Stonehaven
+Stonewall
+Stopleleivraket
+Stortemelk
+Stranger
+Strata Florida
+Stratford
+Strenuous
+Struma disaster
+Subreselente
+Subtle
+Súdwesthoek
+Suhaili
+Suir
+Sultana
+Sunbeam
+Sunny South
+Sunton
+Suomen Joutsen
+Superb
+Superieure
+Superior
+Supply
+Surf
+Surinaamse Galey
+Susan Constant
+Susannah Knapp
+Sutherland
+Sutil
+Svanen
+Svecia
+Svolder
+Svælget
+Swaensborgh
+Swaggerer
+Swan fan Makkum
+Swarte Arent
+Swedish Match
+Swell
+Swift
+Swift of Ipswich
+Swiks
+Swordfish
+Sylphe
+Sylvia
+Symmetry
+Søren Larsen
+Sørlandet
+T A Ward
+t Gulden Zeepaert
+t Wapen van Hoorn
+Taihoro
+Taisei Maru
+Takarabune
+Taliesin
+Tally Ho
+Tancook Schooner
+Taney
+Tang
+Tante Fine
+Tara
+Tarleton
+Te Rehutai
+Te Vega
+Tees
+Telegraph
+Tennie and Laura
+Terceira
+Termagent
+Terrier
+Terry
+Texel
+Thalassa
+The Postboy
+Theresa E Conner
+Thermopylae
+Third Turtle
+Thomas
+Thomas and James
+Thomas Ferguson
+Thomas W Lawson
+Thomas Winsmore
+Thomas Young
+Thoon Kramom
+Thor Heyerdahl
+Thrasher
+Three Brothers
+Tiger
+Tikoma
+Tilikum
+Timandra
+Timberwind
+Tino
+Tirsah
+Tobago
+Tocorimé Pamatojari
+Tole Mour
+Tom Bowline
+Toms
+Tonkin
+Tonquin
+Torch
+Tormilind
+Toronto
+Torrent
+Tortelduif
+Toshiba
+Toufic El Rahman
+Tradewind
+Traveller
+Tre Kronor
+Treitár
+Tremiti
+Tres Hombres
+Tresness
+Trial
+Trimaran IDEC
+Trinidad
+Tristram Shandy
+Triton
+Trivia
+Trompeuse
+Troubadour
+Truant
+Tryall
+Tumbes
+Tunas Samudera
+Turbulent
+Turtle Dove
+Twister
+Two Brothers
+Typhoon
+Tyro
+Tyrronall
+U Larsing
+Ubena von Bremen
+Uljas
+Ulysses
+Unicorn
+Unique
+Unity
+Unyo Maru
+Urania
+Urgent
+Uribes
+USA R
+USFC Grampus
+Utrecht
+V and B-Monbana-Mayenne
+Vacuna
+Vadehavet
+Vaimos
+Valborg
+Vale de Moura
+Valiente
+Van Buren
+Vanderbilt
+Vänergalease
+Vanguard
+Vanitie
+Varberg shipwecks
+Varuna
+Večeslav
+Vega Gamleby
+Veljet
+Vema
+Vendredi
+Venom
+Venturer
+Vera Cruz
+Verandering
+Verein
+Vergulde Draeck
+Vesuve
+Veteran
+Vétille
+Vezon
+Viajante
+Vianen
+Victor Jara
+Victorine
+Victory Chimes
+Vigilant
+Vigilantie
+Vikhr
+Viking
+Viktoria
+Vimiera
+Vinca
+Vincejo
+Vingança
+Viola
+Virago
+Virgen de Covadonga
+Viscata
+Vivo
+Vliegende Faam
+Voador
+Volo
+Voltigeur
+Vontade Própria
+Voortrekker
+Voorwaarts Voorwaarts
+Vostok
+Vouga
+Voyager
+W H Dimond
+W L Bartlett
+Wagtail
+Wakamiya-maru
+Walcheren
+Walmsley
+Walpole
+Walter Forward
+Walter J Cummins
+Walton
+Wandrahm
+Wapama
+Wapen van Holland
+Wapen van Rotterdam
+Wapen von Hamburg
+Wappen von Ueckermünde
+Warren
+Warren Hastings
+Warwick
+Watchful
+Wavertree
+Wawona
+Weasel
+Weeke Harhuis
+Weetamoe
+Welmeenende
+Wemyss
+Wendameen
+West coast lumber trade
+Westerly Centaur
+Western Monarch
+Western Union
+Westkapelle
+Westkust
+Westward
+Weymouth
+Whim
+Whirlwind
+White Bear
+White Crusader
+White Pearl
+White Ship
+Why Not
+Widgeon
+Willem Barentsz
+William Akins
+William and Isabella
+William Cossar
+William F Garms
+William H Aspinwall
+William Landreth
+William Turcan
+Williams
+Wilton
+Wind Song
+Windbreeker
+Windeward Bound
+Windy
+Winston
+Wissemara
+Wolcott
+Wolf
+Wolfhound
+Woodcock
+Worstelaar
+Wortley
+Wyoming
+Wyvern
+Xanthippe
+Yamaha
+Yankee
+Yankton
+Yarmouth
+Yoroshiku
+Young Teazer
+Ystwyth
+Yuniy Baltiets
+Zanggodin
+Zapad
+Zapata
+Zarya
+Zawisza Czarny
+Zebu
+Zeelust
+Zeeuwse Kat
+Zeewijk
+Zeewolf
+Zingara
+Zodiac
+Zorg met Vlijt
+Zorida
+Zouave
+Zuiderzee
+Zulette
+Zulu
+Zuversicht
+Ørnen

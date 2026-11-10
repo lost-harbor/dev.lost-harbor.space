@@ -1,0 +1,4999 @@
+Newtown	39
+Milltown	23
+Grange	19
+Cashel	16
+Killeen	16
+Cappagh	15
+Lecarrow	15
+Tully	15
+Ballynamona	14
+Carrowmore	14
+Knockbrack	13
+Carrowkeel	12
+Churchtown	12
+Castletown	11
+Clooneen	11
+Kilmore	11
+New Bridge	11
+Ballyglass	10
+Carrowreagh	10
+Claggan	10
+Derreen	10
+Johnstown	10
+Lisduff	10
+Raheen	10
+Annagh	9
+Ballard	9
+Glebe	9
+Glen	9
+Graigue	9
+Kilmurry	9
+Roosky	9
+Ardagh	8
+Carrick	8
+Curragh	8
+Dromore	8
+Gorteen	8
+Knockroe	8
+Largan	8
+Oldtown	8
+Rockfield	8
+Streamstown	8
+Togher	8
+Ardmore	7
+Ballinvally	7
+Ballyduff	7
+Brockagh	7
+Caher	7
+Carn	7
+Cartron	7
+Clogher	7
+Deerpark	7
+Derry	7
+Doon	7
+Emlagh	7
+Kill	7
+Knock	7
+Lurgan	7
+Magheraboy	7
+Meelick	7
+Mullagh	7
+Rathmore	7
+Ross	7
+Tooreen	7
+Ballinlough	6
+Balloor	6
+Ballynakill	6
+Clonmore	6
+Cloonagh	6
+Cloonkeen	6
+Corbally	6
+Creevagh	6
+Cross	6
+Derrylea	6
+Drinagh	6
+Esker	6
+Inch	6
+Irishtown	6
+Kilbride	6
+Laragh	6
+Old Town	6
+Park	6
+Riverstown	6
+Rossmore	6
+Slieveroe	6
+Tawnagh	6
+Thomastown	6
+Walterstown	6
+Whitechurch	6
+Aglish	5
+Ballagh	5
+Ballingarry	5
+Ballybrack	5
+Ballymoney	5
+Ballymore	5
+Ballynoe	5
+Brackloon	5
+Cabragh	5
+Carrigeen	5
+Carrowbeg	5
+Clogh	5
+Cloonmore	5
+Coolbaun	5
+Curraheen	5
+Doogary	5
+Drom	5
+Drum	5
+Faha	5
+Fahy	5
+Farran	5
+Garrane	5
+Gortmore	5
+Graffy	5
+Grange Beg	5
+Greenan	5
+Harristown	5
+Keeloges	5
+Letter	5
+Lissaniska	5
+Lyre	5
+Newcastle	5
+Pollagh	5
+Rathbaun	5
+Rinn	5
+Rochestown	5
+Shanbally	5
+Tawnaghmore	5
+Tober	5
+Woodfield	5
+Aughrim	4
+Ballina	4
+Ballinphull	4
+Ballycullane	4
+Ballywilliam	4
+Barrack Village	4
+Barroe	4
+Batterstown	4
+Blackwater Bridge	4
+Bridgetown	4
+Brittas	4
+Callow	4
+Caltragh	4
+Carran	4
+Carrig	4
+Carrowbaun	4
+Cavan	4
+Cloghan	4
+Clogheen	4
+Cloghfin	4
+Coole	4
+Corballis	4
+Cornamucklagh	4
+Corraun	4
+Cregg	4
+Creggan	4
+Cross Keys	4
+Crumlin	4
+Cuilmore	4
+Curry	4
+Danesfort	4
+Derrylahan	4
+Drumcondra	4
+Dysart	4
+Garraun	4
+Glenmore	4
+Gorteen Bridge	4
+Gowlaun	4
+Jamestown	4
+Kells	4
+Kilcolman	4
+Killea	4
+Kilpatrick	4
+Kinard	4
+Knockglass	4
+Knockmore	4
+Knockrawer	4
+Knocks	4
+Leitrim	4
+Lurganboy	4
+Magheramore	4
+Mitchelstown	4
+Moneymore	4
+Mount Rivers	4
+Moyne	4
+Newbridge	4
+Oldcourt	4
+Parkmore	4
+Port	4
+Robinstown	4
+Shanco	4
+Shanvally	4
+Sheskin	4
+Srah	4
+Stonestown	4
+Stradbally	4
+Adamstown	3
+Aghamore	3
+Aghoo	3
+Arderry	3
+Ardnaglass	3
+Ardvarney	3
+Ashtown	3
+Bahana	3
+Baldoyle	3
+Ballinacor	3
+Ballinafad	3
+Ballinlig	3
+Ballintemple	3
+Ballintlea	3
+Ballybeg	3
+Ballyfoyle	3
+Ballyknockan	3
+Ballynahown	3
+Ballyowen	3
+Ballyroe	3
+Ballyshane	3
+Barna	3
+Barnaboy	3
+Barry's Cross Roads	3
+Belclare	3
+Bellewstown	3
+Belmont	3
+Black Bridge	3
+Blackrock	3
+Boley	3
+Breaghwy	3
+Burrow	3
+Bushfield	3
+Carha	3
+Carns	3
+Carrigans	3
+Carrowgarve	3
+Carrownacreevy	3
+Carrowneden	3
+Carton	3
+Claragh	3
+Cloghaun	3
+Cloghoge	3
+Clonard	3
+Cloneen	3
+Cloon	3
+Cloonaghmore	3
+Clooncah	3
+Clooncunny	3
+Cloonfad	3
+Commons	3
+Coolboy	3
+Coolross	3
+Corlea	3
+Cornaveagh	3
+Croghan	3
+Cullenagh	3
+Cummeen	3
+Dardistown	3
+Davidstown	3
+Derreens	3
+Derrycoosh	3
+Derryool	3
+Donaghmore	3
+Doomore	3
+Dromin	3
+Drummin	3
+Drumneen	3
+Edergole	3
+Fauleens	3
+Five Cross Roads	3
+Formoyle	3
+Garvagh	3
+Glanlough	3
+Glinsk	3
+Goatstown	3
+Gormanstown	3
+Greaghnafarna	3
+Greenhall	3
+Hartstown	3
+Herbertstown	3
+Hilltown	3
+Keenagh	3
+Kilbeg	3
+Kilbride Cross Roads	3
+Kilcolgan	3
+Kilgarriff	3
+Killadoon	3
+Killavally	3
+Kilmainham	3
+Kilmichael	3
+Knockboy	3
+Knockmanagh	3
+Lackagh	3
+Lavagh	3
+Lavally	3
+Lisheen	3
+Longford	3
+Lough	3
+Maghera	3
+Maum	3
+Millstreet	3
+Milltown Cross Roads	3
+Moat	3
+Mooretown	3
+Muckanagh	3
+Mucklagh	3
+Mullaghmore	3
+New Town	3
+Newpark	3
+Pallas	3
+Philpotstown	3
+Pike Cross Roads	3
+Pollboy	3
+Rath	3
+Rathglass	3
+Ray	3
+Rockhill	3
+Rusheen	3
+Scurlockstown	3
+Shankill	3
+Sheepwalk	3
+Skehanagh	3
+Springfield	3
+Sraheens	3
+Stonehall	3
+Stonepark	3
+The Pike	3
+Tonroe	3
+Toor	3
+Tullig	3
+Tully Beg	3
+Turlough	3
+Whitegate	3
+Whitehall	3
+Whitehill	3
+Williamstown	3
+Woodford	3
+Woodtown	3
+Woodville	3
+Acres	2
+Addergoole	2
+Aghacurreen	2
+Annagh Upper	2
+Annaghmore	2
+Annamoe	2
+Ardaghy	2
+Ardbear	2
+Ardee	2
+Ardeen	2
+Ardkeeran	2
+Ardnaree	2
+Ardrahan	2
+Ards	2
+Ardvally	2
+Arthurstown	2
+Ashbrook	2
+Ashford	2
+Attavally	2
+Aughris	2
+Baldwinstown	2
+Balgeeth	2
+Ballinagore	2
+Ballinapark	2
+Ballincurry	2
+Ballinderry	2
+Ballinlassa	2
+Ballinphuill	2
+Ballinroad	2
+Ballinteskin	2
+Ballintleva	2
+Ballintober	2
+Ballintogher	2
+Ballintra	2
+Ballintubber	2
+Ballinure	2
+Ballinvally Upper	2
+Ballinvoher	2
+Ballure	2
+Ballybane	2
+Ballybaun	2
+Ballybay	2
+Ballyboy	2
+Ballycollin	2
+Ballyconnell	2
+Ballydavid	2
+Ballydoogan	2
+Ballydowling	2
+Ballyeighter	2
+Ballygannon	2
+Ballygarriff	2
+Ballyglass East	2
+Ballyglass West	2
+Ballygriffin	2
+Ballyhara	2
+Ballyhugh	2
+Ballykean	2
+Ballyknock	2
+Ballyloughan	2
+Ballylusky	2
+Ballymartin	2
+Ballymartin Cross Roads	2
+Ballymorris	2
+Ballymount	2
+Ballymun	2
+Ballynaboll	2
+Ballynacarrick	2
+Ballynacarriga	2
+Ballynaclogh	2
+Ballynacourty	2
+Ballynagall	2
+Ballynagaul	2
+Ballynahallia	2
+Ballynakilla	2
+Ballynakillew	2
+Ballynaskeagh	2
+Ballyneety	2
+Ballynew	2
+Ballypatrick	2
+Ballyquin	2
+Ballyrush	2
+Ballysheen	2
+Ballytarsna	2
+Ballytarsna Cross Roads	2
+Ballyteige	2
+Ballythomas	2
+Ballyvaughan	2
+Balrath	2
+Balreask	2
+Banada	2
+Banagher	2
+Barna Cross Roads	2
+Barnadarrig	2
+Barnadown	2
+Bawn	2
+Bawn Cross Roads	2
+Bawnmore	2
+Bawnoge	2
+Beagh	2
+Beaumont	2
+Behagh	2
+Behy Bridge	2
+Bellanode	2
+Belleek	2
+Bellville	2
+Beltra	2
+Benmore	2
+Betaghstown	2
+Blackfriary	2
+Blacklion	2
+Blackpool	2
+Blacksod	2
+Bofeenaun	2
+Boggaun	2
+Bohalas	2
+Boley Cross Roads	2
+Boleyboy	2
+Borris	2
+Boston	2
+Boycetown	2
+Brackagh	2
+Bracklagh	2
+Branchfield	2
+Brannockstown	2
+Bray	2
+Bree	2
+Broadford	2
+Brosna	2
+Brownstown Cross Roads	2
+Bruff	2
+Bull Ring Cross Roads	2
+Bullaun	2
+Burren	2
+Butlerstown	2
+Cadamstown	2
+Caherbarnagh	2
+Cahermore	2
+Callan	2
+Camross	2
+Cappamore	2
+Cappanrush	2
+Capparoe	2
+Cargagh	2
+Carney	2
+Carraun	2
+Carricknagat	2
+Carrigane	2
+Carrigeen Cross Roads	2
+Carrigeenmore	2
+Carroward	2
+Carrowerin	2
+Carrowgarriff	2
+Carrownacross	2
+Carrownageeragh	2
+Carrownaglogh	2
+Carrownamaddoo	2
+Carrownree	2
+Carrowntober	2
+Carrownurlar	2
+Castlecor	2
+Castlegal	2
+Castlehill	2
+Castlequarter	2
+Castletown Bridge	2
+Castletownroche	2
+Causestown	2
+Chapel	2
+Chapeltown	2
+Charlestown	2
+Claddagh	2
+Clara	2
+Clare	2
+Cleanderry	2
+Clerragh	2
+Cloghane	2
+Cloghboley	2
+Cloghroe	2
+Cloncullen	2
+Cloncurry	2
+Clonkeen	2
+Clonygowan	2
+Cloonaraher	2
+Cloonconra	2
+Clooncose	2
+Clooney	2
+Cloonlara	2
+Cloonlee	2
+Cloonlumney	2
+Cloonmeen	2
+Cloontarriff	2
+Cloontubbrid	2
+Clydagh	2
+Clydagh Bridge	2
+Coan	2
+Cogaula	2
+Colthurst Bridge	2
+Commeen	2
+Coolagh	2
+Coolaght	2
+Coolderry	2
+Coolgarrow	2
+Coolmeen	2
+Coolmore	2
+Coom	2
+Corderry	2
+Corglass	2
+Corgreagh	2
+Corlisheen	2
+Cornageeha	2
+Corragh	2
+Corraneary	2
+Corskeagh	2
+County Bridge	2
+Cranareen	2
+Craughwell	2
+Creagh	2
+Creeve	2
+Creevy	2
+Creggaun	2
+Croagh	2
+Crockaun	2
+Crone	2
+Crooked Bridge	2
+Crookstown	2
+Crosspatrick	2
+Cuiltybo	2
+Cullahill	2
+Cullen	2
+Cullentragh	2
+Culliagh	2
+Cully	2
+Cummer	2
+Cumminstown	2
+Curraghboy	2
+Curraghmore	2
+Daly's Cross Roads	2
+Dawros	2
+Deer Park	2
+Derradda	2
+Derragh	2
+Derrew	2
+Derrybeg	2
+Derrycon	2
+Derryfadda	2
+Derrygarve	2
+Derrykinlough	2
+Derrylough	2
+Derryloughan	2
+Derrymore	2
+Derrymore Bridge	2
+Derrynanaff	2
+Dogstown	2
+Dooagh	2
+Doobeg	2
+Dookinelly	2
+Doonane	2
+Downey's Cross Roads	2
+Dromard	2
+Drumacreeve	2
+Drumadoon	2
+Drumagh	2
+Drumard	2
+Drumaville	2
+Drumbar	2
+Drumbrick	2
+Drumconor	2
+Drumcorrabaun	2
+Drumdoney	2
+Drumfin	2
+Drumhillagh	2
+Drumman	2
+Drummond	2
+Drumnacross	2
+Drumraine	2
+Dundrum	2
+Dunganstown	2
+Dungarvan	2
+Eden	2
+Eighter	2
+Erriff	2
+Fahan	2
+Fairymount	2
+Farnaght	2
+Fearmore	2
+Feenagh	2
+Fennor	2
+Feohanagh	2
+Ferrybank	2
+Fethard	2
+Fiddaun	2
+Fieries	2
+Finisklin	2
+Flesk Bridge	2
+Ford	2
+Fordstown	2
+Fort William	2
+Furnace	2
+Garrettstown	2
+Garryduff	2
+Garryduff Cross Roads	2
+Gibstown	2
+Glan Cross Roads	2
+Glantane	2
+Glascloon	2
+Glen Bridge	2
+Glenbrook	2
+Glendine Bridge	2
+Glendowan	2
+Gleneely	2
+Glennan	2
+Glentrasna	2
+Glin	2
+Glounthaune	2
+Glynn	2
+Gneeves	2
+Gorey	2
+Gort	2
+Gortahork	2
+Gortermone	2
+Gortroe	2
+Gowel	2
+Gowlan	2
+Gowlin	2
+Graigue More	2
+Granny	2
+Greagh	2
+Greenhills	2
+Greenville	2
+Greyfield	2
+Hacketstown	2
+Halfquarter	2
+Hodgestown	2
+Hollyfort	2
+Hollymount	2
+Hollywood	2
+Holycross	2
+Inver	2
+Islandmore	2
+Johnstown North	2
+Johnstown South	2
+Jordanstown	2
+Keel	2
+Keelty	2
+Keenaghan	2
+Kesh	2
+Kilballyowen	2
+Kilbarry	2
+Kilberry	2
+Kilcashel	2
+Kilcavan Lower	2
+Kilcock	2
+Kilcommon	2
+Kilconnell	2
+Kilcooly	2
+Kilcorney	2
+Kilcummin	2
+Kildangan	2
+Kilderry	2
+Kilfenora	2
+Kilgarvan	2
+Kilglass	2
+Kilgorman	2
+Kilgowan	2
+Kilkenny	2
+Killadangan	2
+Killala	2
+Killard	2
+Killaun	2
+Killeenduff	2
+Killelton	2
+Killiney	2
+Killinny	2
+Killoran	2
+Killough	2
+Killowen	2
+Killurin	2
+Killybegs	2
+Killylea	2
+Killyon	2
+Kilmihil	2
+Kilnageer	2
+Kilnagross	2
+Kilnamanagh	2
+Kilquane	2
+Kilross	2
+Kilrush	2
+Kiltoom	2
+Kiltullagh	2
+Kincon	2
+Kingsland	2
+Kippagh	2
+Knightstown	2
+Knock Cross Roads	2
+Knockaderry	2
+Knockadoo	2
+Knockalough	2
+Knockane	2
+Knockatee	2
+Knockatemple	2
+Knockaun	2
+Knockbaun	2
+Knockduff	2
+Knockgrania	2
+Knocklough	2
+Knockmoyle	2
+Knockmoyleen	2
+Knockmullin	2
+Knocknageeha	2
+Knocknamuck	2
+Knocknashammer	2
+Knockrath	2
+Knockstown	2
+Knoppoge	2
+Kyle	2
+Kyle Cross Roads	2
+Lacka	2
+Lackan	2
+Lackareagh	2
+Lahard	2
+Lahardane	2
+Larkfield	2
+Leabeg	2
+Leagaun	2
+Leckaun	2
+Lettermore	2
+Leveelick	2
+Lispatrick	2
+Loghill	2
+Longford Bridge	2
+Longstone	2
+Losset	2
+Lougher	2
+Lowtown	2
+Mahanagh	2
+Maryland	2
+Maulin	2
+Mayo	2
+Meadstown	2
+Meanus	2
+Meenacross	2
+Meenagolan	2
+Meenasrona	2
+Menlough	2
+Middletown	2
+Milestown	2
+Mill Land	2
+Mill Town	2
+Moanvaun	2
+Moate	2
+Moher	2
+Monard	2
+Moneen	2
+Money	2
+Moneyduff	2
+Monkstown	2
+Monroe	2
+Montiagh	2
+Moyles	2
+Moylough	2
+Moyny	2
+Mullacrew	2
+Mullaghboy	2
+Mullaghroe	2
+Mullan	2
+Mullanacross	2
+Mweelin	2
+Mylerstown Cross Roads	2
+Neillstown	2
+New Inn	2
+Newbawn	2
+Newhall Cross Roads	2
+Newmarket	2
+Newmills	2
+Newport	2
+Newtown Lower	2
+Noughaval	2
+Nurney	2
+Ogham	2
+Oghil	2
+Oldcastle	2
+Oughterard	2
+Owenduff	2
+Philipstown	2
+Piercetown	2
+Pike	2
+Porterstown	2
+Pottlereagh	2
+Priesttown	2
+Prospect	2
+Raheen Bridge	2
+Raheens	2
+Ranns	2
+Rapemills	2
+Rathbrack	2
+Rathduff	2
+Rathmagurry	2
+Rathmorgan	2
+Rathscanlan	2
+Reacaslagh	2
+Reask	2
+Redbog	2
+Redgate	2
+Redgate Cross Roads	2
+Reen	2
+Richardstown	2
+Ring	2
+Ringsend	2
+Riversdale	2
+Roadstown	2
+Robertstown	2
+Rocktown	2
+Rockview	2
+Rodstown	2
+Roemore	2
+Rooskey	2
+Rosetown	2
+Rossbeg	2
+Rusheens	2
+Ryan's Cross Roads	2
+Saint Catherines	2
+Sallybrook	2
+Sandymount	2
+Scardaun	2
+Scarriff	2
+Scrahan	2
+Scrahane Cross Roads	2
+Seafield	2
+Seskin	2
+Shancough	2
+Sheean	2
+Simonstown	2
+Slade	2
+Sleveen	2
+Slievemore	2
+Smithstown	2
+Snugborough	2
+Sooey	2
+Spaddagh	2
+Srahmore	2
+Summerhill	2
+Tallagh	2
+Tankardstown	2
+Tarmon	2
+Tawny	2
+The Bush	2
+The Grove	2
+The Harrow	2
+The Leap	2
+The Sweep	2
+Tiduff	2
+Tiknock	2
+Timahoe	2
+Tobernaveen	2
+Toberpatrick	2
+Tonamace	2
+Tonduff	2
+Toomour	2
+Toorard	2
+Tooraree	2
+Tower Bridge	2
+Treantagh	2
+Trooperstown	2
+Tulla	2
+Tullagh	2
+Tullaghan	2
+Tullaghanmore	2
+Tullamore	2
+Tullow	2
+Tully More	2
+Tullyskeherny	2
+Tullyvin	2
+Tunnagh	2
+Turkstown	2
+Twomile Bridge	2
+Uggool	2
+Umrycam	2
+Victoria Bridge	2
+Walshestown	2
+Waterville	2
+Whitefield	2
+Willbrook	2
+Windtown	2
+Woodenbridge	2
+Woodlands	2
+Woodpark	2
+Woods	2
+Woodside	2
+Woodstown	2
+Youghal	2
+Abbeydorney
+Abbeydown
+Abbeyfeale
+Abbeyknockmoy
+Abbeylara
+Abbeyleix
+Abbeyshrule
+Abbeyside
+Abbotstown
+Achill Sound
+Adare
+Adrigole
+Aghabullogue
+Aghacunna
+Aghada
+Aghade Bridge
+Aghaderry
+Aghadiffin
+Aghadreen
+Aghadrestan
+Aghakilmore
+Aghalackan
+Aghaloonteen
+Aghalour
+Aghanure
+Aghaterry
+Aghathomas
+Aghatubrid Bridge
+Aghavas
+Aghaveagh
+Aghavrin Cross Roads
+Aghaward
+Aghinree Bridge
+Aghlattacru
+Aghlaverty
+Aghleam
+Aghnagollop
+Aghnamarroge Cross Roads
+Aghowle Upper
+Aghreena
+Ahakista
+Ahane
+Ahane Bridge
+Ahane Cross Roads
+Ahare
+Ahascragh
+Ahaunduff Cross Roads
+Aherla
+Ahqunboy
+Aiden's Cross Roads
+Aighe
+Aille
+Aillenacally
+Alleeny Bridge
+Allen's Bridge
+Allenwood
+Allenwood Cross Roads
+Alliconaun
+Almaseed Bridge
+Altadush
+Altagowlan
+Alter
+Altnagapple
+An Carnan
+An Chrois
+An Chrois Thoir
+An Geata Mór
+An Gort Breac
+An Muileann gCearr
+An Ros
+An Tearmann
+An Tuar Glas
+Anascaul
+Anghnagappall Bridge
+Anglesey Road
+Annacotty
+Annagary
+Annagassan
+Annagh Beg
+Annagh Bridge
+Annagh Long
+Annagh More
+Annaghbrack
+Annaghcor
+Annaghdown
+Annaghgerry
+Annaghroe Bridge
+Annagore Bridge
+Annalittin
+Annestown
+Annie Brady Bridge
+Annistown
+Annyalla
+Antylstown
+Araglin
+Arbatt
+Ard
+Ardamore
+Ardanew
+Ardara
+Ardcahan Bridge
+Ardcanaght
+Ardcarn
+Ardcath
+Ardconnell Bridge
+Ardcree
+Ardfert
+Ardfield
+Ardfinnan
+Ardgivna
+Ardkeen
+Ardleebeg
+Ardline
+Ardlona
+Ardloy
+Ardminnan
+Ardmoneen
+Ardmore Lower
+Ardnacrusha
+Ardnaglass Upper
+Ardnasodan
+Ardneeskan
+Ardoley
+Ardpatrick
+Ardskea More
+Ardskeagh
+Ardtully
+Arklow
+Arnyara
+Arodstown
+Arryheernabin
+Artane
+Arvagh
+Ashbourne
+Ashtree Cross Roads
+Ashwood Lower
+Ask
+Askaheige
+Askakeagh
+Askamore
+Askeaton
+Askill
+Askintarney
+Askintinny
+Aspealy Bridge
+Assey
+Astee
+Atadav Bridge
+Athboy
+Athea
+Athgaine Great
+Athgarvan
+Athleague
+Athlone
+Athnaleenta
+Athnanangle Bridge
+Athy
+Attiantaggart
+Atticahill
+Attinkee
+Attireesh
+Attiregan
+Aubawn
+Auburn
+Aucloggeen
+Aughabrack
+Aughacasla
+Aughadown
+Aughatubbrid
+Aughavas
+Aughboy
+Aughernagalliagh
+Aughinish
+Aughnacliffe
+Aughnacrow Bridge
+Aughnasheelan
+Aughness
+Aughnish Isle
+Aughrus More
+Aught Upper
+Avoca
+Avoncore
+Bagenalstown
+Baggotstown
+Bahobuck
+Baile an Dúna
+Baile an Fhormna
+Baile an Mhuilinn
+Baile an Teampaill
+Baile Bhuirne
+Baile Chuag
+Baile na Craige
+Bailieborough
+Balally
+Balbradagh
+Balbriggan
+Balcynamoyntragh Cross Roads
+Balgill
+Balgree
+Balla
+Ballaba
+Balladian
+Ballagh Cross Roads
+Ballaghaclay
+Ballaghadereen
+Ballaghaderg Bridge
+Ballaghaderreen
+Ballaghaderren
+Ballaghassaan
+Ballaghkeen
+Ballaghmore Cross Roads
+Ballaghtallon
+Ballanagh
+Ballardan Great
+Ballardiggan
+Balleese
+Balleeshal
+Balliarea Cross
+Ballinabanoge
+Ballinabranagh
+Ballinabrannagh
+Ballinaclash
+Ballinacor East
+Ballinacostello
+Ballinacurra
+Ballinafunshoge
+Ballinagappoge
+Ballinagar
+Ballinagee Bridge
+Ballinagh
+Ballinagleragh
+Ballinagree
+Ballinahinch
+Ballinakill
+Ballinalea
+Ballinalee
+Ballinameen
+Ballinameesda
+Ballinamore
+Ballinamore Bridge
+Ballinamuck
+Ballinanty
+Ballinasilloge
+Ballinasloe
+Ballincar
+Ballinclare
+Ballincloher
+Ballincollig
+Ballincourlea
+Ballincrossig Cross Roads
+Ballincur
+Ballincurra
+Ballinderreen
+Ballindine
+Ballindrait
+Ballindrehid
+Ballindrum
+Ballineadig
+Ballineanig
+Ballinfoyle
+Ballingaddy South
+Ballingeary
+Ballinguile
+Ballinhoe
+Ballinlug
+Ballinn
+Ballinora
+Ballinrannig
+Ballinrobe
+Ballinrolla
+Ballinskelligs
+Ballinspittle
+Ballintaffy
+Ballintaylor Lower
+Ballinteer
+Ballintim
+Ballintlea Bridge
+Ballintombay
+Ballintombay Upper
+Ballintotes
+Ballintroohan
+Ballinunty
+Ballinvally Lower
+Ballinvilla
+Ballinvoash
+Ballinvreena
+Ballinvuskig
+Ballisodare
+Ballitore
+Ballivor
+Ballon
+Balloughter
+Ballowen
+Ballyagran
+Ballyandreen
+Ballyara
+Ballybarney
+Ballybatter
+Ballybeg Cross Roads
+Ballybegly
+Ballyboden
+Ballyboe
+Ballybofey
+Ballybofey-Stranorlar
+Ballyboggan
+Ballyboggan Bridge
+Ballyboughal
+Ballyboyle
+Ballybrit
+Ballybrittas
+Ballybryan
+Ballybuck
+Ballybunnion
+Ballycallan
+Ballycanew
+Ballycannan
+Ballycarha
+Ballycarrigeen
+Ballycastle
+Ballyclare Bridge
+Ballyclerahan
+Ballyclery
+Ballyclogh
+Ballycolla
+Ballyconlore
+Ballyconra
+Ballycotton
+Ballycroneen
+Ballycronigan
+Ballycrossal
+Ballyculleen
+Ballycullen
+Ballycumber
+Ballycurreen South
+Ballycurrin
+Ballydavis
+Ballyday
+Ballydehob
+Ballydermot
+Ballydesmond
+Ballydevill
+Ballydine Cross Roads
+Ballydonegan
+Ballydonnell
+Ballydooley
+Ballydoyle
+Ballydrane
+Ballydrum
+Ballyduffy
+Ballydurn Cross Roads
+Ballyedmond
+Ballyell Little
+Ballyellis Cross Roads
+Ballyelly
+Ballyengland
+Ballyfahy
+Ballyfarnagh
+Ballyfarnan
+Ballyfermot
+Ballyferriter
+Ballyfinnane Bridge
+Ballyforan
+Ballyfree
+Ballygahan
+Ballygallagart
+Ballygar
+Ballygarvan
+Ballygastell
+Ballygawley
+Ballygeale
+Ballygerry
+Ballygodboy
+Ballygub
+Ballyguile
+Ballygullen
+Ballyhack
+Ballyhacket Cross Roads
+Ballyhaise
+Ballyhale
+Ballyhander
+Ballyhane Bridge
+Ballyhar
+Ballyhaunis
+Ballyhean
+Ballyhearin
+Ballyheige
+Ballyhenebery
+Ballyhenry
+Ballyherrig
+Ballyhest Cross Roads
+Ballyhillin
+Ballyhine
+Ballyhist
+Ballyhogan
+Ballyhoge
+Ballyhooly
+Ballyhoorisky
+Ballyhote
+Ballyinch East
+Ballyjamesduff
+Ballykeeran
+Ballykelsh
+Ballykenly Bridge
+Ballykillageer Upper
+Ballykillaneer
+Ballykilleen Cross Roads
+Ballykilliane
+Ballykilmurry Upper
+Ballyknockan Upper
+Ballyla
+Ballylanders
+Ballylarkin
+Ballylarkin Bridge
+Ballyleen
+Ballylennon Cross Roads
+Ballylickey
+Ballyliffin
+Ballylinan
+Ballyline
+Ballyline West
+Ballylongford
+Ballyloughlin
+Ballyluoge
+Ballylynan
+Ballymacarbry
+Ballymackeogh
+Ballymackesy House
+Ballymacky
+Ballymacoda
+Ballymacprior
+Ballymacredmona
+Ballymacrown
+Ballymacsherron
+Ballymadun
+Ballymagan
+Ballymahon
+Ballymakee Cross Roads
+Ballymakeery
+Ballymakellelt
+Ballymakenny
+Ballymaquirk Bridge
+Ballymartle
+Ballymeeny
+Ballymoe
+Ballymoghany
+Ballymoneen
+Ballymoon
+Ballymore Eustace
+Ballymorris Lower
+Ballymote
+Ballymurn
+Ballymurphy
+Ballymurrin
+Ballymurry
+Ballymurtagh
+Ballynabarny
+Ballynaboley Cross Roads
+Ballynabucky
+Ballynacallagh
+Ballynacarrigy
+Ballynacarrow
+Ballynacloghy
+Ballynacole
+Ballynacree
+Ballynadrumny
+Ballynagarbry
+Ballynaglogh
+Ballynagore
+Ballynagranshy
+Ballynagussaun
+Ballynahattina
+Ballynahulla
+Ballynallon Bridge
+Ballynamanagh
+Ballynamaul Cross Roads
+Ballynamrossagh
+Ballynamuddagh
+Ballynaneashagh
+Ballynaraw
+Ballynare Cross Roads
+Ballynashannagh
+Ballynatray Commons
+Ballynavar Bridge
+Ballyneale
+Ballynee
+Ballyneill
+Ballyness
+Ballynoe Bridge
+Ballyoliver
+Ballyonan
+Ballyonen
+Ballyorney
+Ballyoughiera
+Ballyoughna Cross Roads
+Ballyoughter
+Ballyoulster
+Ballyphehane
+Ballyporeen
+Ballyragget
+Ballyrahan
+Ballyraine Middle
+Ballyraine Upper
+Ballyre
+Ballyroan
+Ballyroe Cross Roads
+Ballyrogan Lower
+Ballyrogan Upper
+Ballyrooaun
+Ballyrourke
+Ballysadare
+Ballysax
+Ballyscartin
+Ballyshannon
+Ballyshanock
+Ballyshoneen
+Ballyshrule
+Ballysimon Cross Roads
+Ballysuggart
+Ballysumaghan
+Ballytarsha Cross Roads
+Ballytegan
+Ballytiniska Cross Roads
+Ballytoohy
+Ballyvaghan
+Ballyvaldon
+Ballyvary
+Ballyvisteen
+Ballyvolane
+Ballyvoodane
+Ballyvoyle Cross Roads
+Ballyweelin
+Balnacart
+Balnavine
+Balrath East
+Balreask Old
+Balrothery
+Balsaw
+Balscaddan
+Baltimore
+Baltinglass
+Baltinoran
+Balton's Cross Roads
+Baltovin
+Baltracey Cross Roads
+Baltray
+Bananimma
+Bandon
+Banestown
+Bangor
+Banna
+Bannagh Cross Roads
+Banoge South
+Bansha
+Banteer
+Bantry
+Baravore
+Barheen
+Barnacahoge
+Barnacashel
+Barnacawley
+Barnacleagh South
+Barnagowlane
+Barnagree
+Barnalisheen
+BARNALYRA
+Barnamuinga
+Barnatra
+Barnaviddane
+Barndarrig
+Barnetstown
+Barney
+Barnland
+Barntown
+Barrack
+Barrack Cross Roads
+Barrackcroghan
+Barrackland
+Barracks Cross Roads
+Barracks Village
+Barracurragh
+Barrakilly
+Barranisky East
+Barranisky West
+Barranny
+Barratoor
+Barreen
+Barrettsplot West
+Barroge
+Barrowhouse Cross Roads
+Barry
+Barry's Glyn
+Barryareigh Cross Roads
+Bartholomews Bridge
+Batterjohn
+Battle Bridge
+Baunballinlough
+Baunrosmore
+Bawananee
+Bawnboy
+Bawndunhill
+Bay View
+Baylet
+Baylin
+Bayside
+Bealaha
+Bearna
+Bearstown
+Beaufort
+Beaufort House
+Beaulieu Cross
+Beaulieu House
+Bective
+Bedlnamorive
+Beenbane
+Beennameelane
+Beennamweel
+Beglieve
+Bekan
+Belalt
+Belcamp
+Belcarra
+Belfield
+Belgooly
+Bellaburke
+Belladooan
+Bellaheady Bridge
+Bellahy
+Bellanacarra
+Bellanagare
+Bellanamallaght
+Bellanaman
+Bellatrain
+Bellavary
+Bellia
+Bellmount
+Bellshill
+Belmullet
+Beltany Lower
+Beltany Upper
+Belturbet
+Belville
+Bennettsbridge
+Bere Island
+Bergins Bridge
+Bernard's Cross Roads
+Bernard's Island
+Bigstone
+Bilboa
+Billa
+Binalt
+Binbane
+Binkeeragh
+Birr
+Bishopsland
+Bishopslough Newtown
+Bishopsquarter
+Black Bull
+Blackboy Bridge
+Blackcastle
+Blackditch
+Blackers Bridge
+Blackgarden
+Blackhill
+Blackpatch
+Blackrath Gate
+Blackwood
+Blairs Cove
+Blanchardstown
+Blane Bridge
+Blarney
+Bleankeragh
+Blennerville
+Blessington
+Bloomfield Cross Roads
+Bluebell
+Boakefield
+Boderan Cross Roads
+Bodyke
+Bofickil
+Boghadoon
+Bohane's Cross Roads
+Bohaun
+Bohehs
+Boheraval Cross Roads
+Boherbaun Lower
+Boherbue
+Boherderroye
+Bohernamuck Cross Roads
+Bohoge
+Bohogerawer
+Bohola
+Bolagh
+Bolandstown
+Bolany
+Boldereen Cross Roads
+Boley's Cross Roads
+Boleyard
+Boleybawn
+Boleybeg Cross Roads
+Boleycarrigeen
+Boleynagoagh North
+Boleynagoagh South
+Boleysillagh
+Bolinaspick
+Bonabrocka
+Boneill
+Bonnybrook
+Bonvoge Bridge
+Bookeen
+Boolakeel
+Boolard
+Booly Bridge
+Booterstown
+Borim
+Borleagh
+Borleagh Demesne
+Boro Bridge
+Borris in Ossory
+Borrisokane
+Borrisoleigh
+Bostoncommon
+Botara
+Botinny
+Bottlehill
+Bouladuff
+Bourney
+Boyerstown
+Boyle
+Boyne Bridge
+Boyogonnell
+Brackcloonagh
+Brackery
+Brackhill
+Brackloon East
+Brackloon South
+Bracknagh
+Brandon
+Branganstown
+Brannanstown
+Brawnroe Cross Roads
+Braystown
+Breaghva
+Breakwater Cottages
+Breanabeg
+Breenagh
+Bregage Cross Roads
+Brickana
+Brickhill Bridge
+Bridebridge
+Brideswell Little
+Bridge End
+Bridgeacrin
+Brinlack
+Briscloonagh
+Briskil Lower
+Briskil Upper
+Britway
+Broadale
+Broadford Bridge
+Broadleas Commons
+Brockna
+Brogher
+Broher
+Brooklawn
+Brooklodge
+Brough Cross Roads
+Brownespark
+Bruckana
+Brumlin
+Bruree
+Buck's Bridge
+Buckfield
+Buckill
+Buddock Cross Roads
+Buggaeen Cross Roads
+Buggagh Bog
+Bulcaun
+Bullaunmeneen
+Bullhill
+Bullogfane Bay
+Bullys Corner
+Bunacrick
+Bunacurry
+Bunclody
+Buncrana
+Bundoran
+Bunduff Bridge
+Bunlacken
+Bunmahon
+Bunnafedia
+Bunnafinglas
+Bunnagee
+Bunnoe
+Bunnyconnellan
+Bunratty
+Bunratty East
+Bunratty West
+Bunree
+Burged Bridge
+Burgesbeg
+Burke Ville
+Burkestown Cross Roads
+Burnataunia
+Burncourt
+Burnfoot
+Burnfort
+Burnthouse
+Burris
+Burrishoole Abbey
+Burtonport
+Burtown Cross Roads
+Bush
+Bushville
+Bushypark House
+Butlersbridge
+Buttevant
+Bweeng
+Byrnes Cross Roads
+Byrnesgrove
+Byrneshill
+Cabin River
+Cabinteely
+Cabra
+Cahefurvan
+Caher Lower
+Caheracruttera
+Caheragh
+Caherakilleen
+Caherbannagh
+Caherboshina
+Caherbreagh
+Caherbullig
+Caherconlish
+Caherdavin
+Cahererillan
+Cahergal
+Caherkeen
+Caherkinmonwee
+Caherlane
+Caherlean
+Caherlevoy
+Cahermacun
+Cahermucker
+Cahernahallia
+Caherphuca
+Cahersiveen
+Cahir
+Calhaine
+Calliagh
+Calliaghstown
+Callowbrack
+Calluragh
+Calverstown
+Camaross
+Camderrynabinnia
+Cameron
+Camolin
+Camp
+Campile
+Cams
+Camus
+Camus Bridge
+Camus Eighter
+Canbrack
+Canguillia
+Cannahawna
+Canningstown
+Canonstown
+Canower
+Cappagh Cross Roads
+Cappagh House
+Cappalusk
+Cappanagh
+Cappanaghtan
+Cappanagoul
+Cappanarrow
+Cappanavarnoge
+Cappanoloha
+Cappantruhaun
+Capparanny
+Cappataggle
+Cappavuse
+Cappawhite
+Cappeen
+Cappoquin
+Cappry
+Cappul Bridge
+Cappyroe
+Caranavoodaun
+Caraun
+Caraunduff
+Carberrystown
+Carbury Sweep
+Cargaghoge
+Carhameere
+Carhoomeengar
+Carhoon
+Carlanstown
+Carlingford
+Carlow
+Carna
+Carnaross
+Carnaun
+Carnaweeleen
+Carnbane
+Carncash
+Carndonagh
+Carnew
+Carnhill
+Carnonkeelwy
+Carntullagh
+Carowcanon
+Carragh
+Carranstown Great
+Carranstown Little
+Carraroe
+Carrick Lower Bridge
+Carrick-on-Shannon
+Carrick-on-Suir
+Carrickbanagher
+Carrickboy
+Carrickbrack
+Carrickcarnan
+Carrickmaclim
+Carrickmacross
+Carrickmore Lower
+Carricknasheeoge
+Carricknashoke
+Carrig Lower
+Carrigadrohid
+Carrigagrenane Cross Roads
+Carrigaholt
+Carrigahorig
+Carrigaline
+Carrigallen
+Carrigaloe
+Carriganimmy
+Carrigans Lower
+Carrigard Cross Roads
+Carrigart
+Carrigatogher
+Carrigcannon
+Carrigeensallagh
+Carrigeershinnagh
+Carrigkerry
+Carrigmore
+Carrigmore Cross Roads
+Carrignamweel
+Carrignavar
+Carrigthomas
+Carrigtwohill
+Carrowblough Beg
+Carrowcashel
+Carrowcaslan
+Carrowculleen
+Carrowdough
+Carrowduff
+Carrowen
+Carrower
+Carrowflatley
+Carrowgilhooly
+Carrowkeeran
+Carrowliam Beg
+Carrowloughlin
+Carrowlustia
+Carrowmaclenany
+Carrowmore North
+Carrowmoreknock
+Carrowmorris
+Carrownabanny
+Carrownaboll
+Carrownaculla
+Carrownagark
+Carrownagleragh
+Carrownahaun
+Carrownaknockan
+Carrownalough South
+Carrownaraha
+Carrownaskeagh
+Carrownaworan
+Carrowncalla South
+Carrownlacka
+Carrowntawn
+Carrowntleva
+Carrownyclowan
+Carrowreilly
+Carrowtober
+Cartenstown
+Cartron North
+Cartronabree
+Cartrongarv
+Cartronplank
+Cartrontaylor
+Casheltourly
+Cashla
+Cashlan
+Casstletowndelvin
+Castle Wrixon
+Castlebar
+Castlebellingham
+Castleblakeney
+Castleblayney
+Castleboy
+Castlebridge
+Castlecomer
+Castleconnell
+Castlecranna
+Castledermot
+Castleellis
+Castlefin
+Castlefinn
+Castleforward
+Castlegregory
+Castleisland
+Castleknock
+Castlelyons
+Castlemaine
+Castlemartyr
+Castlemitchell South
+Castlepole
+Castlepollard
+Castlerea
+Castlerichard
+Castleroe Cross Roads
+Castleroyan
+Castletown Geoghegan
+Castletownbere
+Castletownshend
+Castletroy
+Castlewarren
+Casttercose
+Catstown
+Causeway
+Cauteen Bridge
+Cave
+Celbridge
+Celvinstown
+Chanonstown
+Chapelizod
+Charlesfort
+Charlesland
+Charless Bridge
+Charleville
+Cheekpoint
+Cherry Orchard
+Cherrymount
+Cherryville
+Cherrywood
+Church Cross
+Church Town
+Churchbay
+Churchstreet
+Cill Alaithe
+Cill Fhíonáin
+Claddaghduff
+Claggan Lower
+Clamper Cross
+Clane
+Claragh Irish
+Clarefield
+Claregalway
+Claremorris
+Clarina
+Clarinbridge
+Clashatrake Bridge
+Clashmore
+Clashnadarriv
+Cleady
+Clearies Cross Roads
+Cleavry
+Cleedagh Bridge
+Cleggan
+Cleighran
+Cleristown
+Clifden
+Cliffony
+Cliffort
+Clocully
+Clogfin
+Clogga
+Cloghane Bridge
+Cloghanebane
+Cloghannageeragh
+Cloghannmore
+Clogharevaun Bridge
+Clogharinka
+Cloghaun Bridge
+Clogher More
+Clogherhead
+Cloghmine
+Cloghnagaune
+Cloghore
+Cloghorn
+Cloghpook
+Cloghran
+Cloghvoley
+Clomacow
+Clonaderg
+Clonagooden
+Clonakenny
+Clonakilty
+Clonard Little
+Clonarney
+Clonarrow
+Clonaslee
+Clonbane
+Clonblesk
+Clonbulloge
+Clonbullogue
+Cloncanon
+Cloncat
+Cloncourse Bridge
+Cloncreen
+Cloncullane
+Cloncumber
+Clondalee More
+Clondalkin
+Clondelara
+Clondrohid
+Clondulane
+Clonea
+Clonebud
+Clonee
+Cloneen Bridge
+Clonegal
+Clonegath Cross Roads
+Clones
+Clonevin Cross Roads
+Cloneybeg
+Clonfane
+Clonfert Cross Roads
+Clongarret
+Clongulery
+Clonincurragh
+Clonlack
+Clonlara
+Clonleasan
+Clonliffe
+Clonlyon
+Clonmalevan
+Clonmany
+Clonmellon
+Clonmore Cross Roads
+Clonmullen
+Clonnkeelaun
+Clonoula
+Clonpadden
+Clonreagh
+Clonroche
+Clonroe Lower
+Clonroosk
+Clonsast
+Clonsilla East
+Clonskeagh
+Clontibret
+Clontoe
+Clonygaheen
+Clonyhague
+Clonylogan
+Clonymore
+Cloomdoolough
+Cloonacaltry
+Cloonachoor
+Cloonacool
+Cloonacurra
+Cloonagh Bridge
+Cloonagun
+Cloonakilleg
+Cloonakillina
+Cloonalis
+Cloonamanagh
+Cloonameehan
+Cloonamirran
+Cloonaquin
+Cloonard
+Cloonargid
+Cloonarragh Bridge
+Cloonascragh
+Cloonavullaun
+Cloonbaniff
+Cloonbannan
+Cloonbonniff
+Cloonboo
+Cloonboygher
+Cloonchambers
+Clooncogaile
+Cloonconragh
+Clooncrooeel
+Cloondart
+Cloonderreen
+Cloondrihara
+Clooneally
+Cloonelt
+Clooneshil
+Cloonfadda
+Cloonfallagh
+Cloonfaulus
+Cloonflyn
+Cloonfohler
+Cloongad
+Cloongaheen East
+Cloongawn
+Cloongoonagh
+Cloongowla
+Cloongullaun
+Cloonierin
+Cloonlaheen
+Cloonlarhan
+Cloonlavis Upper
+Cloonlurg
+Cloonlyon
+Cloonmagunnaun
+Cloonmaul
+Cloonmeen East
+Cloonmore Lower
+Cloonnamaskry
+Cloonoolia North
+Cloonoolia South
+Cloonoon
+Cloonsheever
+Cloonshinnagh
+Cloontaconnagh
+Cloontakilla
+Cloontarsna
+Cloonteen
+Cloontia
+Cloontuskert
+Cloontybaunan
+Cloontyprughlish
+Cloonusker
+Cloonygowan
+Cloonyross Cross Roads
+Clooskirt
+Cloughduv
+Cloughjordan
+Clountane
+Cloyne
+Cloysuckera
+Cluain Damh
+Cluain Meala
+Cluid
+Clveagh Upper
+Clykeel Leary's Cross
+Clynacartan
+Clynch
+Cnoc Na Muirleog
+Coachford
+Coagh
+Coars
+Coarsepark
+Coast Guard Cottages
+Coats Bridge
+Cobbler's Cross
+Cobh
+Cock Hill
+Cockow
+Cogran
+Cohunon
+Collegeland
+Collierstown
+Collinstown
+Collmanagh Lower
+Collmanagh Upper
+Collon
+Collooney
+Collorus
+Colmanstown
+Common Bridge
+Commons West
+Conaghra
+Condonstown
+Coneyburrow Bridge
+Confey
+Cong
+Conna
+Connellmore
+Connonagh
+Connor Bridge
+Conroy's Cross Roads
+Contoon
+Controversy
+Convoy
+Coogla
+Coogue South
+Cookstown
+Cookstown Great
+Cookstown Little
+Cool Bridge
+Cooladangan
+Coolaflake
+Coolagarranoe Bridge
+Coolagary
+Coolaghbaun
+Coolaghflags
+Coolamoney
+Coolanearl
+Coolaney
+Coolard
+Coolastingan
+Coolattin
+Coolayna Haggard
+Coolbarreen
+Coolbaun Cross Roads
+Coolboreen
+Coolcashla
+Coolcoulagata
+Coolcullen
+Coole East
+Coole West
+Coolea
+Cooleen
+Cooleenduff Bridge
+Cooleighter
+Cooley
+Coolfin Cross Roads
+Coolgreany
+Coolintaggarthill
+Cooljohn
+Coolkenna Street
+Coollagagh
+Coollegreane
+Coolmela
+Coolnabinnia
+Coolnacreehaun Bridge
+Coolnagillagh
+Coolnahorna
+Coolnalaght
+Coolnaleen Cross Roads
+Coolnamara Cross Roads
+Coolnareen
+Coolock
+Coolpowra
+Coolroe Great
+Coolronan
+Cools
+Coolskeagh
+Coolstuff Cross Roads
+Coomhola Bridge
+Coomnacarrig Bridge
+Coonagh
+Cooney
+Cooneys Cross Roads
+Cooraclare
+Coorlaghan
+Coornagillagh
+Coosavuddig
+Cootehall
+Cootehill
+Copan
+Coppanagh Mills
+Coppanaghmore
+Corah
+Coratown Cross
+Corballis Upper
+Corbetstown
+Corcanon
+Corcoran's Cross Roads
+Cordarragh
+Corfad
+Corgarriff
+Corglancey
+Corhawnagh
+Corhoor
+Cork
+Corkagh Beg
+Corlat
+Corlis
+Corlough
+Corlummin
+Cormakilly
+Cornabrogue
+Cornafulla
+Cornaglia
+Cornagunleog
+Cornalaghta
+Cornaleck
+Cornamarrow
+Cornamona
+Cornamucklach
+Cornanool
+Cornelscourt
+Corofin
+Corolanty
+Corracoggil South
+Corradoo
+Corrahoor
+Corranagh
+Corrandromaun Cross Roads
+Corrandulla
+Corratimore
+Corratowick
+Corrawaleen
+Corraweelis
+Correagh
+Corrigeenroe
+Corrigo
+Corrofin
+Corroy
+Corrúch
+Corrudda
+Corrycullen
+Corryolus
+Cortaghart
+Cortober
+Cortown
+Corvally
+Corvickremon
+Cottian
+Coulagh
+Coum
+Courtbrack
+Courtmacsherry
+Courtmatrix
+Courtown
+Craanford
+Cracknagh
+Craggagh
+Craigawillin
+Craigmore
+Craigtown
+Cranemore
+Cranereagh Bridge
+Crannagh
+Cratloe
+Creagh Upper
+Crean's Cross Roads
+Creduff
+Creerin
+Creeslough
+Creevelands
+Creevelea
+Cregganbaun
+Creggannavar
+Cregganroe
+Creggaunnahorna
+Creglahan
+Cregnafyla
+Crehelp
+Creig an Chéirín
+Crinkill
+Croaghan
+Croaghbeg
+Croaghlosky
+Croanshagh Bridge
+Crockalaghta
+Crockglass
+Crocknagapple
+Croghan Bridge
+Crohy
+Crois an Fhaoitigh
+Crolly
+Cromane
+Cromoge Cross Roads
+Crompaun Bridge
+Cromponn Bridge
+Cromwella Bridge
+Cronagass
+Cronawinnia
+Crone Lower
+Cronesallagh
+Croneskagh Lower
+Croneskagh Upper
+Cronyhorn Lower
+Cronyhorn Upper
+Croom
+Croony Bridge
+Croppys Cross Roads
+Cross Barry
+Cross Guns
+Cross North
+Crossakeel
+Crossakiel
+Crossbane
+Crossboyne
+Crossdrum Upper
+Crosshaven
+Crossmolina
+Crosswell
+Crove
+Crowkeeragh
+Crumpan
+Crumpane
+Crusheen
+Crushnalanmy Cross Roads
+Cuddagh
+Cuffs Town
+Cuilgar
+Cuilkillew
+Cuillaun
+Cuilmullagh
+Cuilnaglerag
+Cuiltaboolia
+Cuiltrasna
+Culdaff
+Culdaly
+Culkeeny
+Cullbeg
+Culleens
+Cullen Lower
+Cullen Upper
+Cullenstown
+Culliagharny
+Cullin
+Cullomane Cross Roads
+Culmullin Cross Roads
+Culnascagh
+Culoort
+Cum
+Cumber Lower
+Cunaberry
+Cunard
+Cunghill
+Cunnacher
+Cunnagher North
+Cunningham's Cross Roads
+Cuppanagh
+Cuppanagh Bridge
+Cur
+Curraduff Cross Roads
+Curragh West
+Curraghaleen
+Curraghgorm
+Curraghnalaght Cross Roads
+Curraghs North
+Curraghteemore
+Curraghtown
+Curraglass
+Currahy Bridge
+Curralanty Cross Roads
+Curranes
+Curranvellikeen Cross Roads
+Curreentorpan
+Curreeny Cross
+Curryaun
+Curryglass
+Curtistown Upper
+Curtlestown
+Cush Cross Roads
+Cushalogurt
+Cushina
+Cushlecka
+D'Loughtane Cross Roads
+Daggan
+Daghloonagh
+Daingean
+Dalgin
+Dalkey
+Dalteen
+Danescastle
+Dangan Bridge
+Dansefort Cross Roads
+Dardeen
+Darndale
+Darraghlan
+Darraragh
+Davisshill
+Dawros Beg
+Dawros Bridge
+Delvin
+Demailestown
+Derinch Island
+Dermotstown
+Dermott's Bog
+Dernacally
+Dernahelty Beg
+Derra West
+Derrartan
+Derreenacarrin
+Derreenamackaun
+Derreenboy
+Derreendooey
+Derreenmoria
+Derreennawinshin
+Derreeny Bridge
+Derrineanig
+Derrinkee
+Derrintaggart
+Derrintober
+Derrinturn
+Derrinumeera
+Derrinvoney
+Derroon
+Derrowel
+Derry Cross Roads
+Derryad
+Derrybrat
+Derrybrennan
+Derrybrook
+Derrycalliff Lower
+Derrycarney
+Derrycashel
+Derryclaha
+Derrycoagh
+Derrycoeraun
+Derrycooldrim
+Derrycooly
+Derrycrossaun Bridge
+Derrydarragh
+Derrydolney
+Derryfrench
+Derrygarran Bridge
+Derrygorman
+Derrygowla
+Derrylaggy
+Derrylesk
+Derrymartin
+Derrymullan
+Derrynacaheragh
+Derrynacong
+Derrynadivva
+Derrynagower
+Derrynagran
+Derrynagraug
+Derrynameel
+Derrynamuck
+Derrynananta
+Derryness
+Derryounce
+Derrypatrick
+Derryrobinson
+Derryvillane
+Derryvohy
+Derryvulcaun
+Dervotstown
+Deshure
+Devleash
+Digby Bridge
+Dingle
+Doagh
+Dollymount
+Donabate
+Donadea
+Donaghmede
+Donaghmoyne
+Donard
+Donaskeagh
+Donegal
+Doneraile
+Donnybrook
+Donnycarney
+Donore
+Donoure
+Doobehy
+Doodaun
+Dooey
+Dooghbeg
+Dooglaun
+Doohamlat
+Doohooma
+Doolahag
+Dooleeg More
+Doon Cross Road
+Doona
+Doonaha
+Doonally
+Doonamurray
+Doonbeg
+Dooncastle
+Dooneen
+Dooniver
+Doonmanagh
+Doonowney
+Doonsheane
+Doonty
+Dooreel
+Doorly
+Dooroge
+Dooros
+Dooveher
+Dornan's Bridge
+Dorothys Cross Roads
+Dorreenanarry
+Dorrusawillin
+Douglas
+Dowdallshill
+Downdaniel
+Downshill
+Dowra
+Doyle's Cross Roads
+Drangan
+Drehideighteragh Bridge
+Drehidnaman Bridge
+Drehidnaraga Bridge
+Dreminstown
+Drewstown Little
+Drimina
+Driminidy
+Drimmavohaun
+Drimnagh
+Drimoleague
+Drin
+Dripsey
+Drish Bridge
+Drishaghaun
+Drishanebeg
+Drissoge
+Drogheda
+Droichead Nua
+Dromahair
+Dromahaire
+Dromahoe
+Dromalught
+Dromcolliher
+Dromcollogher
+Dromcummer More
+Dromdowney
+Dromgarriff
+Dromgownagh
+Dromina
+Dromiskin
+Dromkeare Bridge
+Drommahane
+Drommartin
+Dromnacarra
+Dromod
+Dromore West
+Drumacappul
+Drumacloghan
+Drumacrib
+Drumalegaun
+Drumanaffrin
+Drumanaraher
+Drumandoora
+Drumane
+Drumany
+Drumany Glebe
+Drumaragh
+Drumasladdy
+Drumbaragh
+Drumbarnet
+Drumboher
+Drumbrawn
+Drumbrollisk
+Drumcarban
+Drumcattan
+Drumcliff
+Drumconrath
+Drumcor
+Drumcree
+Drumcullen Bridge
+Drumdangan
+Drumdoo
+Drumdowney
+Drumeanan
+Drumellihy
+Drumfad
+Drumgoole
+Drumgownagh
+Drumgriffin
+Drumhuskert
+Drumillion
+Druming
+Drumkeaghta
+Drumkeen
+Drumkeeran
+Drumlane
+Drumlea
+Drumlease
+Drumleck
+Drumlish
+Drumlosh
+Drummad
+Drummanreagh
+Drummeen
+Drumminnagleagh Bridge
+Drummullagh
+Drummurphy
+Drummury
+Drumnagoal
+Drumnakilly
+Drumnasoohy
+Drumnatread
+Drumnee Lower
+Drumnee Upper
+Drumoake Bridge
+Drumone
+Drumrane
+Drumreask
+Drumristin
+Drumscoba
+Drumshanbo
+Drumsheen
+Drumsleed
+Drumslig
+Drumsloe
+Drumsmat Bridge
+Drumsna
+Drumveagh
+Drung
+Drunganagh
+Dry Mills
+Duagh
+Dublin
+Duggarry
+Duke Street
+Duleek
+Dún Laoghaire
+Dunany
+Dunavinally
+Dunboyne
+Dunbur
+Duncannon
+Duncansland
+Duncormick
+Dundalk
+Dunderk
+Dunderrow
+Dunderry
+Dundonnell
+Dunfanaghy
+Dunfierth Cross Roads
+Dungloe
+Dunheeda
+Dunhill
+Duniry
+Dunkineely
+Dunlavin
+Dunleer
+Dunleever Glebe
+Dunlewy
+Dunmanway
+Dunmoran
+Dunmore
+Dunmore East
+Dunn's Cross Roads
+Dunnamaggan
+Dunshane
+Dunshaughlin
+Durha
+Durhamstown
+Durrow
+Durrus
+Dysertmore
+Eadestown
+Eakin's Cross Roads
+Earlstown
+Easky
+East Grove
+East Town
+Ecawn
+Edenacarnan
+Edenancane
+Edenderry
+Edergole Bridge
+Edernishfree
+Edgar's Cross Roads
+Edgeworthstown
+Edmondstown
+Effickmore
+Elliss Bridge
+Ellistrin
+Elmhall
+Elphin
+Emlaghgissan
+Emlaghnaghtan
+Emly
+Emlybeg South
+Emmet's Cross Roads
+Emo
+Emyvale
+Enfield
+Ennis
+Enniscorthy
+Enniskean
+Enniskeane
+Enniskerry
+Ennistimon
+Errew
+Errill
+Errit
+Erry
+Esker Bridge
+Eskerboy
+Essex
+Everlaun
+Eyrecourt
+Fahaduff
+Fahanlunaghta Bridge
+Faheen Cross Roads
+Fahy Beg
+Fair Green
+Fairfield
+Fairfield Bridge
+Fairview
+Fairwood
+Fairybush Cross Roads
+Falcarragh
+Falduff
+Fallathurteen
+Fallsollus
+Falmore
+Falnasoogaun
+Farmleigh
+Farnanes Cross Roads
+Farneigh
+Farrahill
+Farran Cross Roads
+Farranacoush
+Farrandeen
+Farranduff
+Farranpierce
+Farrans
+Farranthomas
+Farranyharpy
+Farrellstown
+Farsid
+Fartrin
+Fartrin Cross Roads
+Father Murphy's Bridge
+Faughary
+Faughil
+Faul
+Faulagh
+Faulkland
+Feagarrid
+Feakle
+Feakle Lower
+Febog
+Fedamore
+Feegavla
+Fegart
+Fenit
+Fennagh
+Feragh
+Ferbane
+Ferganstown and Ballymacon
+Fergus
+Fermoy
+Ferns
+Ferrard Cross
+Fiddown
+Figart
+Fighting Cooks Cross Roads
+Finavarra
+Finglas
+Finglass South
+Finned Bridge
+Finnow Bridge
+Firhouse
+Firville
+Fivemilebourne
+Fivemilebridge
+Flughany
+Foher
+Foherlagh
+Foilmore
+Foley's Cross Roads
+Fontstown
+Foohagh
+Ford Bridge
+Forkfield
+Fort Bridge
+Fort Middle
+Fort Stewart
+Fortchester Lower
+Fortel
+Forthill
+Fossy
+Fountainstown
+Four Mile House
+Four Mile Water Bridge
+Foxfield
+Foxford
+Foxhall
+Foxhill
+Foxrock
+Foygh
+Foyle Bridge
+Foynes
+Foyoges
+Fraine
+Frasnadeffa
+Freagh
+Freemount
+Freffans Great
+Frenchpark
+Freneystown
+Freshford
+Frevanagh
+Friarspark
+Friarstown Bridge
+Frosses
+Fuhiry
+Funshin More
+Furbo
+Furkeal Bridge
+Fybagh
+Gaddan
+Gainstown
+Galbally
+Galdonagh
+Galey Cross Roads
+Gallon
+Gallows Glen
+Galmoy
+Galros
+Galros Cross Roads
+Galway
+Gannaveen
+Garadice
+Garhawnagh
+Garnavilla
+Garnish
+Garrahill
+Garrane Cross Roads
+Garranelahan Cross Roads
+Garranmaconly
+Garrauncam Bridge
+Garraunnatooha
+Garristown
+Garry Bridge
+Garrycloonagh
+Garrymore Bridge
+Garrymore Cross Roads
+Garrynafana
+Garrynagry
+Garryntemple
+Garryvoe
+Gartbrattan
+Gates
+Gattabaun
+Gay Town
+Gearhasallagh
+Geashill
+Geehanstown
+Geeragh Bridge
+Geevagh
+Gerahies
+Gernonstown
+Gillstown Great
+Gillstown Little
+Ginnets Great
+Girley
+Glacknabrade
+Glananea
+Glanballima
+Glanbannoo Upper
+Glandahalin West
+Glandore
+Glanerdalliv
+Glanmire
+Glanmore Bridge
+Glannagaul
+Glanworth
+Glasacken
+Glashagal Bridge
+Glashanailor Bridge
+Glaslough
+Glasnevin
+Glassan
+Glasshouse
+Glebe East
+Glebe West
+Glen of Imail
+Glena Bridge
+Glenade
+Glenageary
+Glenamaddy
+Glenamoy
+Glenard
+Glenatlucky
+Glenaward
+Glenawilling
+Glenballyvally
+Glenbaun
+Glenbeigh
+Glenbonniv
+Glenbough
+Glenbower
+Glenbrien
+Glenbrohane
+Glencastle
+Glencaw
+Glencolumbkille
+Glencree
+Glencullen
+Glencullin Lower
+Glendavoolagh
+Glendiff
+Glendooskert
+Glendree
+Glenduff
+Glenealy
+Glengarriff
+Glengesh
+Glenieraragh
+Glenisland
+Glenlassra River
+Glenmagoo
+Glenmore Bridge
+Glenmullynaha Cross Roads
+Glenmullynaha West
+Glennagoolagh
+Glennagoul
+Glennahulla Cross
+Glennaphuca Cross Roads
+Glennaskagh
+Glennaveel
+Glenogra Bridge
+Glenosheen
+Glenoughty
+Glenranny
+Glensharrold
+Glensmill
+Glentane
+Glenties
+Glentogher
+Glenulra
+Glenville
+Glouria
+Gneevgullia
+Goff's Bridge
+Golan
+Golden
+Golden Ball
+Goldings Cross
+Goldsmithslot
+Goleen
+Goleen Holiday Cottages
+Goolamore
+Goolaway Cross Roads
+Goresbridge
+Gormanston
+Gortacoula Cross Roads
+Gortacrossane
+Gortaganny
+Gortaglanna
+Gortagowan
+Gortahile
+Gortakecran
+Gortalough
+Gortanure
+Gortard
+Gortarevan
+Gortaroe
+Gortatleva
+Gortatresk
+Gortavadda Bridge
+Gortaveer
+Gortbrack
+Gortbrack North
+Gortbrack South
+Gortearagh
+Gorteen Beg
+Gorteenboy
+Gorteenkeel
+Gorteens
+Gortfree
+Gortgar
+Gortgarve
+Gortglass
+Gortlahan
+Gortlassabrien
+Gortleatilla
+Gortletteragh
+Gortmellia
+Gortnaclasha
+Gortnagroagh
+Gortnagross
+Gortnahoe
+Gortnahoon
+Gortnahurra
+Gortnamearacaun
+Gortnaminsha
+Gortnaraha
+Gortnasate
+Gortnaskeagh
+Gortnaskehy
+Gortolee
+Gortormerillagh
+Gortroe Cross Roads
+Gortshane Middle
+Gouladane
+Goulane Ard
+Goulburn Bridge
+Gouldavoher
+Goulreagh
+Gour Bridge
+Gowlane
+Gowlane North
+Gowlane South
+Gowlin New
+Gowran
+Gradoge
+Graffa More
+Graffin
+Grahormack
+Graiganster
+Graignagower
+Graigs
+Graigue Great
+Graigueavoice
+Graiguecullen
+Graiguenamanagh
+Grallagh
+Grallagh Bridge
+Granabeg
+Granard
+Grange and Kiltober
+Grange Cross Roads
+Grange Hill
+Grangegeeth
+Grangegeeth Cross Roads
+Grangemockler
+Grangemore
+Graniaroe
+Granias Cross Roads
+Graun
+Greagh Cross Roads
+Greaghnaguillaun
+Grean Mountain
+Greatcommon
+Greatconnell
+Greenan Bridge
+Greenan's Cross Roads
+Greenans
+Greenanstown
+Greencastle
+Greenhall Bridge
+Greenmount
+Greethill
+Grenagh
+Greyfort
+Greystones
+Griffin's Bridge
+Gubacreeny
+Gubavilla
+Guffsborough Cross Roads
+Gullane
+Gunard North
+Gurranebraher
+Gurteenulla
+Gweedore
+Gweestin Bridge
+Hagansgate Cross Roads
+Haggard
+Halfway
+Halls
+Hannigans Bridge
+Haremount
+Harlinstown
+Harmonstown
+Harney's Cross Roads
+Harold's Cross
+Harristown Cross Roads
+Haughtons Bridge
+Hawarden Bridge
+Hawksford
+Hawkshaws Bridge
+Hawkstown
+Headford
+Heatheryhill
+Heirhill
+Hell Bridge
+Hermitage
+High Town
+Highfield
+Highpark Lower
+Highstreet
+Hill of Down
+Hillside
+Hillview
+Hogan's Bridge
+Hollowpark
+Hollyford
+Holme
+Hooper's Cross Roads
+Hores Mead Bridge
+Horseleap Cross Roads
+Hospital
+Howth
+Humewood
+Huntington
+Hurdlestown
+Illannaskenoga
+Illies
+Inagh
+Inane
+Inch Cross Roads
+Inch-West
+Inchamay
+Inchec Bridge
+Inchibeg Bridge
+Inchigeelagh
+Inchinalyra
+Inchintaglin Bridge
+Inchisine
+Inishcarra Bridge
+Inishcrone
+Inishee
+Inisheer
+Inishlay
+Inistioge
+Innishannon
+Inniskeen
+Insnasallagh
+Inveran
+Irichaboy South
+Irineragh
+Irishford
+Iry
+Islandeady
+Islandganniv
+Islands
+Jack White's Cross Roads
+Jackson's Bridge
+Janesboro
+Jeffrystown
+Jenkinstown Cross
+Jobstown
+Johnstown Bridge
+Johnstown Upper
+Johnstownbridge
+Jonestown Cross Roads
+Jordan's Bridge
+Joristown Lower
+Julianstown
+Kane's Bridge
+Kanturk
+Kate's Cross Roads
+Keadeen
+Keadew
+Keadue
+Keaigh
+Keale
+Kealkill
+Kean Bridge
+Kean Cross Roads
+Keeas
+Keekill
+Keelbanada
+Keeloge
+Keeloge South
+Keem
+Keenanmore
+Kell East
+Kenmare
+Kennastown
+Kenned's Cross Roads
+Kenny's Cross Roads
+Kentstown
+Kerinstown and Balrowan
+Kernanstown
+Kerney Cross Roads
+Kerrykeel
+Keys Cross Roads
+Kibranagh
+Kilbarrack
+Kilbeggan
+Kilbegnet
+Kilbennan
+Kilbolashy
+Kilboy
+Kilbragh
+Kilbrenan
+Kilbrin
+Kilbrittain
+Kilcahill
+Kilcaimin
+Kilcandra
+Kilcar
+Kilcarn
+Kilcarney Lower
+Kilcarney Upper
+Kilcarra East
+Kilcarry
+Kilcasel
+Kilcasey
+Kilcash
+Kilcatherina
+Kilchreest
+Kilclaran
+Kilclogh
+Kilcloon
+Kilcomin
+Kilcoole
+Kilcor
+Kilcorkan
+Kilcormac
+Kilcornan
+Kilcotty
+Kilcow
+Kilcredaun
+Kilcrohane
+Kilcruise
+Kilcullane
+Kilcullen
+Kilcumber Bridge
+Kilcummer Bridge
+Kilcummin Farmhill
+Kilcurry Bridge
+Kilcusnaun
+Kildalkey
+Kildare
+Kildarganmore
+Kildavin
+Kilday
+Kildoagh
+Kildoon
+Kildorragh
+Kildorrery
+Kildrinagh Cross Roads
+Kildrum
+Kildun
+Kildurrih
+Kilearagh Cross Roads
+Kileen
+Kilester
+Kilfane
+Kilfarboy
+Kilfinnane
+Kilfinny
+Kilflynn
+Kilfree
+Kilgill
+Kilgoly
+Kilgraney
+Kilkea
+Kilkee
+Kilkeehagh
+Kilkeelan
+Kilkelly
+Kilkerin
+Kilkinlea
+Kilkishen
+Kilknock
+Kill of the Grange
+Killachonna
+Killaclare
+Killacorraun
+Killacrim
+Killadiskert
+Killadoon Cross Roads
+Killadysert
+Killagoola
+Killaha
+Killahurler Upper
+Killahy
+Killahy Cross Roads
+Killalane
+Killaleen
+Killallon
+Killaloe
+Killananima
+Killananny
+Killandy
+Killann
+Killanny
+Killanummery
+Killare
+Killarida
+Killarney
+Killarone
+Killashee
+Killaturly
+Killavanowl
+Killavoggy
+Killavullen
+Killawullaun
+Killbride
+Killeagh
+Killeagh Cross Roads
+Killeany
+Killedmond
+Killee Bridge
+Killeedy
+Killeek
+Killeelaun
+Killeena
+Killeenagh
+Killeenaran
+Killeenemer
+Killeenleagh Bridge
+Killeennashask
+Killeens
+Killeens Cross
+Killehenny
+Killeigh
+Killenard
+Killenaule
+Killerrig
+Killeshandra
+Killeshin
+Killester
+Killicreny Bridge
+Killilan Bridge
+Killimer
+Killimor
+Killina
+Killinaboy
+Killined
+Killinick
+Killinierin
+Killiniskyduff
+Killinlahan
+Killinthomas
+Killomoran
+Killorglin
+Killoscully
+Killoveenoge
+Killoveeny
+Killowen Lower
+Killsallaghan
+Killucan
+Killulagh
+Killumney
+Killunagher
+Killuragh
+Killure
+Killurtan
+Killybeg
+Killyclug
+Killycluggin
+Killycreeny
+Killyganard
+Killygordon
+Killyvahan
+Killyverry
+Kilmacanoge
+Kilmacar
+Kilmaclenine Cross Roads
+Kilmacogue
+Kilmacomb Cross Roads
+Kilmacoo Upper
+Kilmacow
+Kilmacowen
+Kilmacrea Upper
+Kilmacrenan
+Kilmacroy
+Kilmacshane
+Kilmacteige
+Kilmacthomas
+Kilmactranny
+Kilmacurra East
+Kilmacurragh
+Kilmaehugh
+Kilmaganny
+Kilmagig Upper
+Kilmaine
+Kilmainham Wood
+Kilmalady
+Kilmaley
+Kilmalkedar
+Kilmallin
+Kilmallock
+Kilmanagh
+Kilmanaheen
+Kilmanalian Bridge
+Kilmartin Upper
+Kilmastulla Bridge
+Kilmead
+Kilmeaden
+Kilmeage
+Kilmeedy
+Kilmeen Cross Roads
+Kilmessan
+Kilmonaster
+Kilmoon
+Kilmore Quay
+Kilmovee
+Kilmoylerane South
+Kilmuckridge
+Kilmurry Lower
+Kilmurry McMahon
+Kilmurry Middle
+Kilmurry North
+Kilmurvy
+Kilmyshall
+Kilnabooley
+Kilnacranna Bridge
+Kilnahinch
+Kilnahown
+Kilnaleck
+Kilnamaddy
+Kilnamona
+Kilnanare
+Kilpedder
+Kilpoole
+Kilquade
+Kilquain
+Kilrainy Cross Roads
+Kilrane
+Kilroghter
+Kilronan
+Kilronane
+Kilrush Lower
+Kilsallagh
+Kilsarkan
+Kilshanchoe
+Kilsheelan
+Kilskeer
+Kilsob
+Kilstillaghan
+Kilstraghlan
+Kiltale
+Kiltamagh
+Kiltealy
+Kilteean
+Kilteel
+Kilteely
+Kilteevan
+Kiltegan
+Kilternan
+Kilthomas Cross Roads
+Kiltoghert
+Kiltoome
+Kiltormer
+Kiltrea Bridge
+Kiltrellig
+Kiltroge
+Kiltumper
+Kiltybardan
+Kiltybegs
+Kiltyclogher
+Kiltymaine
+Kilvanlon
+Kilvine
+Kilwalter
+Kilwarden
+Kilworth
+Kilworth Camp
+Kimmage
+Kincasslagh
+Kingsbog
+Kingsborough
+Kingsbrook
+Kingscourt
+Kingsfort
+Kingsmountain
+Kingston Bridge
+Kingswood
+Kinkillew
+Kinlough
+Kinnadoohy
+Kinnagrelly
+Kinnegad
+Kinnitty
+Kinsale
+Kinsaley
+Kinsealy-Drinan
+Kinturk
+Kinvarra
+Kirikee
+Kishkeam
+Knappagh More
+Knightsbrook
+Knockacrump
+Knockadalteen
+Knockadrehid
+Knockakilleen
+Knockalegan
+Knockananig
+Knockananna
+Knockananny
+Knockananore
+Knockanare
+Knockanarrow
+Knockancarrigan
+Knockanelo
+Knockanevin
+Knockanimma
+Knockanimrish
+Knockanooker Lower
+Knockanooker Upper
+Knockanore
+Knockanrahan Lower
+Knockanrahan Upper
+Knockanree
+Knockaphrumpa
+Knockardrahan
+Knockarradaun West
+Knockaskehane
+Knockaskibbole
+Knockatallon
+Knockatanvally
+Knockatelly
+Knockatober
+Knockatooan
+Knockattotaun
+Knockaunakioun
+Knockaunbrack
+Knockaunranny
+Knockaunroe
+Knockavilla
+Knockawarriga
+Knockbarron South
+Knockbeg
+Knockbrack Upper
+Knockbride
+Knockbridge
+Knockburden
+Knockcoolkeare
+Knockcroghery
+Knockdramagh Bridge
+Knockeen Cross Roads
+Knockeencreen
+Knockeennahone
+Knockeens
+Knockfin Cross Roads
+Knockgaffon
+Knockloe Bridge
+Knocklofty Bridge
+Knocklong
+Knocklyon
+Knockmacoony
+Knockmahon
+Knockmannon Cross Roads
+Knockmant
+Knockmeale
+Knockmourne
+Knockmuinard
+Knocknaboley
+Knocknaboul Cross
+Knocknacross
+Knocknafaska
+Knocknagat Cross Roads
+Knocknagee Cross Roads
+Knocknagilky Upper
+Knocknagily Lower
+Knocknagree
+Knocknaheeny
+Knocknahilan
+Knocknahoran
+Knocknalina
+Knocknalour Cross Roads
+Knocknalower
+Knocknaman
+Knocknamoghalaun
+Knocknamota
+Knocknamucky
+Knocknaseagh
+Knocknashee Common
+Knocknaveagh
+Knockoura
+Knockraha
+Knockraheen
+Knocksbarrett
+Knockshangan
+Knocksquire
+Knocktopher
+Knockvicar
+Knuttery
+Kylebrack
+Kylegarve
+Kylegrove
+Kylemore
+Kylemore Bridge
+Kylesa
+Laban
+Labbadish
+Lackabaun
+Lackamore
+Lackanatlieve
+Lackaroe
+Lackcrom
+Lacknahaghny
+Lady's Bridge
+Ladytown
+Lagganstown
+Laght Cross Roads
+Laghy
+Lahanagh
+Lahardaun
+Laheen
+Lahern
+Laherne
+Lakesheragh South
+Lakill
+Lakyle
+Lamanagh
+Lamberstown
+Lambstown
+Lanesborough
+Lanoge
+Larah
+Larehill Cross Roads
+Larganreagh
+Largy
+Largydonnell
+Larha
+Lateeve
+Lator's Cross Roads
+Latsey
+Lattacrom
+Lattin
+Latton
+Laught
+Laune Bridge
+Lauragh
+Lauragh Bridge
+Laurencetown
+Lavy Beg
+Lawcus
+Laytown
+Leabgarrow
+Leader's Bridge
+Leadmore West
+Leagh
+Leaght
+Leaha Bridge
+Leamnaguila
+Leana
+Leanamore
+Leap
+Leary's Cross Roads
+Leck
+Leckemy
+Legan
+Legland
+Lehardan
+Lehinch
+Leifear
+Leighlinbridge
+Leixlip
+Lemgare
+Lemonstown Cross Roads
+Lemybrien
+Lenamore
+Lergynasearhagh
+Lerrig
+Letter More
+Letterask
+Letterdunane
+Letterettrin
+Letterfrack
+Lettergull
+Letterkenny
+Letterkilley
+Letterlicky Bridge
+Lettermakenny
+Lettermullan
+Leyny
+Licky Bridge
+Light Town
+Lightford
+Lillybrook
+Limerick
+Linnamilla Bridge
+Lipstown
+Lisbaun East
+Lisbaun West
+Lisbealadea
+Lisblowick
+Lisboduff
+Lisbrogan
+Liscally
+Liscannor
+Liscarney
+Liscarroll
+Lisclamer
+Lisclogher Great
+Lisclovaun
+Liscoghil
+Lisconor
+Liscooly Bridge
+Liscosker
+Liscune
+Lisdoonvarna
+Lisgavneen
+Lisgillan
+Lisgorman
+Lisheenaclara
+Lisheenaguile
+Lisheenavalla
+Lisheenfurroor
+Lislackagh
+Lislevane
+Lismanny Bridge
+Lismorahaun
+Lismoran
+Lismore
+Lismuse
+Lisnaboy
+Lisnadarragh
+Lisnageer
+Lisnagore
+Lisnagreeve
+Lisnakill Cross
+Lisnalurg
+Lisnamavaun
+Lisnaponra
+Lisnascreena
+Lispapple Cross Roads
+Lisronagh
+Lissacroneen Cross Roads
+Lissagraffin
+Lissalough
+Lissanumera
+Lissard
+Lissatunny
+Lisselan
+Lisselton Cross Roads
+Lissergool
+Lissycasey
+Lissyconnor
+Lissycoyne
+Lissydaly
+Listack
+Listellan
+Listowel
+Listrolin
+Listry Bridge
+Little Bray
+Little Island Roads
+Littlemill
+Littlerath
+Littleton
+Lixnaw
+Loberduff Bridge
+Logatrina
+Lohercannan
+Lombard's Cross Roads
+Lomcloon
+Longfordpass North
+Longhill Bridge
+Longwood
+Loobnamuck
+Lordship
+Louggraigue House
+Lough Cloghvoley
+Lough Gowna
+Lough Nakey
+Lough Nasnadda
+Loughaclerybeg
+Loughanavally
+Loughanbran
+Loughane
+Loughane East
+Loughanes
+Loughanure
+Loughaunbeg
+Loughbeg
+Loughcapple Bridge
+Loughcurra
+Lougheraherk
+Loughfad Hill
+Loughglinn
+Loughlass
+Loughlinstown
+Loughpark
+Loughrea
+Loughshinny
+Loughtally
+Louisburgh
+Louth
+Lowertown
+Lucan
+Lucas Bridge
+Lugacaha
+Lugakeeran
+Lugdoon
+Lugmeeltan
+Lugnagun Great
+Lugnaskeagh
+Lugrevagh
+Lung
+Lurga
+Lurga Cross Roads
+Lurga Upper
+Lurgangreen
+Lurraga
+Lusk
+Luska
+Luskin's Bridge
+Lynnbury
+Lyon's Cross Roads
+Lyracrumpane
+Maam Cross
+Maas
+Mace Lower
+Macetown
+Mackans
+Mackey's Cross
+Macoyle Upper
+Macreddin East
+Macroom
+Maddenstown
+Maddockstown
+Maganey Bridge
+Maghanlawaun
+Magherabane
+Magherabeg
+Magheracloone
+Magheraghanrush
+Magheralackagh
+Magheranagay
+Magheranore
+Magherashaghry
+Magherintemple
+Magoney Bridge
+Magurk
+Mahon
+Mahonburgh Bridge
+Mainham
+Malahide
+Malin
+Malin Beg
+Mall Cross Roads
+Mallaranny
+Mallow
+Manor Grove
+Manorcunningham
+Manorhamilton
+Manorland
+Mantlehill
+Mardyke
+Marino
+Markhamstown
+Marlfield
+Martrybeg
+Maryfield
+Masiness
+Massbrook Lower
+Massbrook Upper
+Masshill
+Massy's Bridge
+Massytown
+Mastergeehy
+Maudemount Cross Roads
+Maugha
+Maulanimirish
+Maulawaddra
+Maum East
+Maum West
+Mauricemills
+Maydough
+Maynooth
+McGrath's Cross Roads
+McNally's Cross Roads
+Meananeary
+Meclaghans Cross Roads
+Meelick Bridge
+Meellran
+Meen Bridge
+Meenaward
+Meencorwick
+Meendarragh
+Meenkeeragh
+Meenkilly
+Meenlaragh
+Meenmore
+Meentullynagarn
+Meentullynagarn Bridge
+Meenybraddan
+Melbourne Bridge
+Mervyn
+Middlequarter
+Midfield
+Midleton
+Milemill
+Milford
+Milk Haven
+Millerhill
+Millerstown
+Millfield
+Millford
+Millicent Cross Roads
+Milltown Bridge
+Milmorane
+Miltown Malbay
+Minanes
+Minmore
+Minvaud Upper
+Mira
+Mitchells Town
+Moanabricka
+Moanflugh
+Moanmore
+Moatabower Bridge
+Mocurry Cross Roads
+Model Village
+Mogeely
+Mogh
+Mohill
+Molahiffe
+Monacaum Cross Roads
+Monacullee
+Monaghan
+Monale
+Monamore
+Monanveel
+Monareagh
+Monart
+Monaseed Demesne
+Monaster
+Monasterevin
+Monatore
+Monavarnoge
+Monee Cross Roads
+Moneenroe
+Moneensauran
+Money Big
+Money Bridge
+Moneygall
+Moneygold
+Moneyguid
+Moneyhaughly
+Moneynure
+Moneyteige North
+Monivea
+Montpelier
+Monument Cross Roads
+Moohane
+Mooncoin
+Moone
+Mooneystown
+Moor
+Moore
+Moore's Cross Roads
+Moorock
+Morerah
+Moroe
+Morpeth Bridge
+Morristown Lattin
+Mosney
+Motabower
+Mount Briscoe
+Mount Brown
+Mount Druid
+Mount Florence
+Mount Merrion
+Mount Neill
+Mount Saint Annagh
+Mount Slaney
+Mount Temple
+Mount Uniacke
+Mountain Lodge
+Mountbellew
+Mountbolus
+Mountcharles
+Mountcoal
+Mounthoward Cross Roads
+Mountkelly
+Mountlusk
+Mountmellick
+Mountnugent
+Mountrath
+Mountrivers
+Mountshannon
+Moveen East
+Moveen West
+Moville
+Moyadd Bridge
+Moyascragh
+Moycullen
+Moyfeagher
+Moygaddy
+Moygara
+Moygrehan Upper
+Moylagh
+Moyle
+Moyleroe Little
+Moymet
+Moymlough
+Moyna
+Moynasboy
+Moyne Cross Roads
+Moyross
+Moyrus
+Moyrush
+Muchwood
+Muchwood Cross Roads
+Muckduff Lower
+Muckemagh
+Muckinish
+Muckrush
+Muff
+Muingerroon
+Muingrevagh
+Mulchanstown
+Mulhuddart
+Mullabryan
+Mullafarry
+Mullagha
+Mullaghawny
+Mullaghnabreena
+Mullanalaghta
+Mullanashee Lugnadelle
+Mullans South
+Mullany's Cross
+Mullenaranky
+Mullenieran Bridge
+Mullennakill
+Mullinahone
+Mullinavat
+Mully
+Mulranny
+Mulroog
+Multyfarnham
+Mungret
+Munnagashel
+Munnia
+Murillyroe
+Murntown
+Murrays Cross
+Murreagh
+Murrisk
+Murroogh
+Musheen
+Mutton Bridge
+Mweevoo
+Mweewillin
+Myross
+Myrtlegrove
+Myshall
+Naas
+Nacrimina
+Nahana
+Narraghmore
+Nash Bridge
+Naul
+Navan
+Neale
+Nealstown
+Nenagh
+Nenagh Bridge
+Nethertown
+Nevinstown
+New Kildimo
+New Ross
+New Twopothouse Village
+Newbliss
+Newcastle Cross Roads
+Newcastle West
+Newchapel
+Newhaggard
+Newinn
+Newmarket Cross Roads
+Newmarket on Fergus
+Newrath Little
+Newton
+Newtown Cloghans
+Newtown Cross Roads
+Newtown Cunningham
+Newtown Great
+Newtown Sandes
+Newtown Trim
+Newtown Vevay
+Newtownbert
+Newtowncashel
+Newtownforbes
+Newtownfortescue
+Newtowngore
+Newtownlaw
+Newtownmountkennedy
+Newtownmoynagh
+Newtownshandrum
+Nicholls Cross Roads
+Nobber
+Nohavaldaly
+Nore Bridge
+Normanstown
+Northlands
+Nursetown
+O'Brien's Bridge
+O'Briensbridge
+Oaghley
+Oakfield
+Obelisks
+Odder
+Oghil Lower
+Oil Mill Bridge
+Oilgate
+Old Bride Bridge
+Old Bridge
+Old Connaught
+Old Courth
+Old Kilcullen
+Old Kildimo
+Old Mountain
+Old Ross
+Old Twopothouse Cross Roads
+Oldbawn
+Oldcastletown
+Oldchapel
+Oldgrange
+Oldtowndonore
+Omeath
+Ongar
+Oola
+Oram
+Oran
+Oranmore
+Ormond View
+Orristown Cross Roads
+Oughtagh
+Oulart
+Our Lady's Island
+Ourtnagapple
+Ovens
+Ovenstown
+Ownagarry Bridge
+Paddock
+Painestown
+Palatine
+Palatine Street
+Pallas Grean
+Pallasgreen
+Pallaskenry
+Pallishill
+Palmerstown
+Palmerstown Bridge
+Parkbaun
+Parkeel
+Parknashaw
+Parknasilla
+Parknatomogard
+Passage East
+Passage West
+Patrickstown
+Patrickswell
+Paulbeg
+Paulstown
+Peak
+Peake
+Peamount
+Pedlars Cross Roads
+Penane Bridge
+Pendy's Cross Roads
+Pensylvania
+Pepperstown
+Petersville
+Pettigoe
+Phaleesh
+Pheasanthill
+Phillistown
+Phoenixtown
+Pigotstown
+Piltown
+Piquet's Cross Roads
+Plattinstown
+Pluckanes
+Pluckstown
+Pointa
+Polduff
+Pollnabrone
+Pollnacroaghy
+Pollremon
+Pollrone
+Ponsonby Bridge
+Pope's Bridge
+Porchavodda
+Porridgetown
+Portagh
+Portaghard
+Portanab
+Portarlington
+Portlaoise
+Portlaw
+Portleen
+Portlester
+Portmagee
+Portmarnock
+Portnacrinnaght
+Portnagge
+Portnalong
+Portobello
+Portraine
+Portroe
+Portrushen Upper
+Portumna
+Porturlin
+Pouladuff
+Poulakerry
+Poulgorm Bridge
+Poulnalour
+Poulnamucky
+Powellsborough Cross Roads
+Power's Bridge
+Priesthaggard
+Priory
+Promore
+Prosperous
+Puckaun
+Punchestown
+Purthaheen
+Putiaghan
+Quarry Cross Roads
+Queensborough
+Quigginroe
+Quigley's Point
+Quignalegan
+Quin
+Quinlisk's Cross
+Rabaun
+Race End
+Racecourse Cross
+Raferagh
+Raharney
+Rahaval
+Raheely
+Raheenagh
+Raheenglass
+Raheenleagh
+Rahendrick
+Raheny
+Rahilla Glebe
+Rahincuill
+Rahugh
+Rakane
+Ralph Cross Roads
+Ramelton
+Rampark
+Ramsgrange
+Ranaghy
+Ranelagh
+Rann Na Feirste
+Raphoe
+Rapla Cross Roads
+Rareagh Upper
+Rashenny
+Rathaleek
+Rathangan
+Rathanny
+Rathard
+Rathbeg Bridge
+Rathbonny
+Rathbraghan
+Rathcabban
+Rathclarish
+Rathcoffey
+Rathcool
+Rathcoole
+Rathcoon
+Rathcor Upper
+Rathcormac
+Rathcormick
+Rathcoursey
+Rathcoyle
+Rathdoony More
+Rathdowney
+Rathdrum
+Rathduffbeg
+Rathea
+Rathedan Cross Roads
+Rathedmond
+Rathernan
+Rathescar Cross Roads
+Rathfarnham
+Rathgar
+Rathgarvan
+Rathglass Bridge
+Rathgorragh
+Rathguage
+Rathkeale
+Rathkeery
+Rathkenna
+Rathleek
+Rathlumber
+Rathlyon
+Rathmactiernan
+Rathmadder
+Rathmeague
+Rathmichael
+Rathmines
+Rathmolyon
+Rathmoylan
+Rathmullan
+Rathnagrew Lower
+Rathnalushhoge
+Rathnamagh
+Rathnarrow
+Rathneety
+Rathnew
+Rathoiercehill
+Rathosey
+Rathowen
+Rathredmond
+Rathroe Cross Roads
+Rathrower
+Rathruane
+Rathsallagh
+Rathtermon
+Rathtoe
+Rathtoole
+Rathvilla
+Rathvilly
+Rathwire
+Ratoath
+Ravensdale
+Ravenswood
+Readstown
+Reanascreena
+Reardnogy
+Rearyvalley
+Red Cross Roads
+Redchair Cross Roads
+Redcross
+Reddy's Cross Roads
+Redford
+Redforge Cross Roads
+Redmond's Bridge
+Reenard
+Reens
+Reens Bridge
+Reevanagh
+Reeves
+Regalnka Bridge
+Relaghbeg
+Releagh
+Releagh Bridge
+Renvyle
+Rerrin
+Rhode
+Rhode Bridge
+Rialto
+Rice Bridge
+Rinermackaderrig
+Ringaskiddy
+Ringstown Uplands
+Ringville
+Rinmore
+Rinnamona
+Rinnananny
+Rinshinna
+Rinvyle
+River Village
+Riverchapel
+Rivermeade
+Riverstick
+Riverview
+Robbersbush
+Robinrath
+Rochfortbridge
+Rock Island
+Rockbrook
+Rockchapel
+Rockcorry
+Rockenham
+Rockland
+Rockmills
+Rockstown
+Rockvale
+Rockvale Bridge
+Roddenagh
+Rodena Bridge
+Roevehagh
+Roo
+Rooghan
+Roohana
+Roosky Upper
+Rooves Beg
+Roristown
+Rosborough
+Roscommon
+Roscrea
+Rosdoagh
+Rosegreen
+Rosenallis
+Roskeeda
+Roskeen Bridge
+Rosmore
+Rosnakill
+Rosnakilly
+Ross Carbery
+Ross Cross Roads
+Rossacoosane
+Rossaguile
+Rossanrubble
+Rossarrell
+Rossaveel
+Rossbrin
+Rosscahill
+Rossenmore
+Rosses Point
+Rossestown Bridge
+Rossillybeg
+Rosslare
+Rossmore Bridge
+Rossmore Cross Roads
+Rossnagad
+Rossow
+Rostoohy
+Roundfort
+Roundstone
+Roundstone Village
+Roundwood
+Rourkes Town
+Routagh Bridge
+Royaloak
+Ruan
+Rubbal
+Rue
+Runalunn
+Runnameelta
+Rush Hill
+Rushbrooke
+Rusheens East
+Rusheens West
+Russellstown New
+Ryefield
+Ryehill
+Saggart
+Saint David's
+Saint Helens
+Saint Marnocks
+Saint Mullins
+Saleen
+Salia
+Saliahoona
+Sallagher
+Sallins
+Sallyford Cross Roads
+Sallyhernaun
+Sallymount
+Sallynoggin
+Sam's Cross Roads
+Sandfield
+Sandpits Cross Roads
+Sandy Cove
+Sandyford
+Saraghstown
+Sarnaght
+Sarsfieldstown
+Scallanstown
+Scalp
+Scardan
+Scarrough Bridge
+Scartaglin
+Scartlea
+Scartleigh
+Scarvy Bridge
+Schull
+Scilly
+Scogh
+Scotshouse
+Scotstown
+Scrabby
+Scragg
+Scrahanfadda
+Scrawtown
+Scregg
+Scregg East
+Scregg West
+Scurloge Cross Roads
+Seabank
+Sealaclare Bridge
+Seanachadh
+Sedboro
+Sedenrath
+Seedagh
+Seskinrea
+Seskinryan
+Sessuecommon
+Seven Cross Roads
+Seymourstown Black
+Seymourstown White
+Shallogan
+Shanacrane
+Shanagarry
+Shanaghmoyle
+Shanaglish
+Shanagolden
+Shanavoher
+Shanavoola
+Shanballymore
+Shanboe
+Shancarrick
+Shancroagh
+Shancurry
+Shandon District
+Shandrum
+Shane Valley
+Shanlothe
+Shannaghmore
+Shannera Lower
+Shannon
+Shannonbridge
+Shantonagh
+Shanvallybeg
+Shanwar
+Sharavogue
+Sheastown Cross Roads
+Sheeanmore
+Sheeans
+Sheena More
+Sheepstown
+Sheetrim
+Shelhan's Cross
+Shellbrook
+Shercock
+Sherlockstown
+Shesharoe
+Sheshia
+Sheskinny Cross
+Shillelagh
+Shinnagh
+Shinrone
+Shrone
+Shrone West
+Shrule
+Shuttles Wood
+Siddan
+Silverfield
+Silvermines
+Singland
+Sion Hill
+Sixmile Bridge
+Sixmilebridge
+Skaghard
+Skahanagh
+Skeahanagh
+Skeneen
+Skerries
+Skibbereen
+Slaghty
+Slane
+Slaugar
+Sleatygraigue
+Slievadrehid
+Slieve
+Slieveanulty
+Slievebane
+Slievebaun
+Slievenakilla
+Slievenamough
+Slievenamough Plain
+Slievereagh Lower
+Slievereagh Upper
+Slieverue
+Sligo
+Slinaunroe
+Sliss
+Sluggera Cross Roads
+Smerwick
+Smithborough
+Smithville
+Smuttanagh
+Smutternagh
+Snakeel
+Sneem
+Sniggeen
+Sockar
+Sonvolaun
+Soodry
+Soppog
+South Dublin
+Spa
+Spancelhill
+Spear Vale
+Speck
+Spectacle Bridge
+Spiddal
+Spinans Cross Roads
+Spink
+Spittaltown
+Spotfield
+Springhall
+Spruce Hill
+Spurree Cross Roads
+Spurtown
+Sracummer
+Sradrine
+Sraheen
+Srahnakilly
+Srahnamanragh
+Sralahan
+Sramore
+Sranadarragh
+Sravrannies
+Sroughan
+Sroughmore
+Sruhanagh
+St Johnston
+Stabannan
+Stacumny
+Stamullin
+Steeplestown
+Stephen's Green
+Stillorgan
+Stone Bridge
+Stoneenrath Cross Roads
+Stoneyford
+Stonybatter
+Stonyford
+Stradbally Bridge
+Stradone
+Straffan
+Stragelliff
+Straid
+Straide
+Straleel North
+Stralusky
+Stranabrooey
+Stranagalloon
+Stranagartan
+Stranagoppoge
+Stranahely
+Strand
+Strandhill
+Stranorlar
+Straruddan
+Stratford
+Stratford on Slaney
+Street
+Strokestown
+Stronghow's Bridge
+Subulter
+Summer Cove
+Suncroft
+Sunnaghconnor Mill
+Surgeview
+Sutton
+Swainstown
+Swanlinbar
+Swans Cross Roads
+Sweetwood
+Swillybrin
+Swinford
+Swinn Cross Roads
+Swords
+Syngefield
+Taghmon
+Taghnoose
+Taghsheenod
+Tagoat
+Tallaght
+Tallanstown
+Tallow
+Tamlat
+Tang
+Tankardrath
+Tannersrath
+Tanregee
+Tanrego Intake
+Tarbert
+Tarmonbarry
+Tattyboy
+Taughboy
+Taur
+Tavraun
+Tawnagh More
+Tawnaghaknaff
+Tawnaghbeg
+Tawnalion
+Tawnamartela
+Tawnanasool
+Tawnavoultry
+Tawnawoggaun
+Tawnycoolawee
+Tawnyhoosy
+Tawnyinah Lower
+Tawnyinah Middle
+Tawnykinaff
+Tawnymoyle
+Teeboy
+Teelin
+Teesan
+Templearum
+Templeathea West
+Templebodan
+Templederry
+Templeglantine
+Templehouse
+Templelyon Upper
+Templemore
+Templeogue
+Templepark
+Templetuohy
+Tenacre Cross Roads
+Tennislee Cross Roads
+Terenure
+Termon West
+Termonfeckin
+The Ballagh
+The Black Bush
+The Commons
+The Coombe
+The Counsellors Cross Roads
+The Crockan
+The Deeps
+The Fourteen Roads
+The Glen
+The Great Heath of Maryborough
+The Hollow
+The Hutters Cross Roads
+The Island
+The Rag
+The Rock
+The Swan
+The Three Bridges
+The Triangle
+Thomastown Cross Roads
+Thompsons Town
+Thornpack
+Thornton
+Three Bridges
+Three Wells
+Thurles
+Tianarath Cross Roads
+Tiershanaghan
+Tieveborne
+Tigroney East
+Tigroney West
+Tikincor
+Timahoe Cross Roads
+Timoleague
+Timolin
+Tinacarra
+Tinahask
+Tinahely
+Tincurragh
+Tinmuck
+Tinnacross Cross Roads
+Tinnaglogh
+Tinnahinch
+Tinnakilly Lower
+Tinnakilly Upper
+Tinnashinnagh
+Tinnock Upper
+Tinoranhill Cross Roads
+Tinryland
+Tinure
+Tipper
+Tipperary
+Tiraun
+Tirkeenan
+Tirmoghan Common
+Tirnaneill Cross Roads
+Toberanania
+Toberbride
+Tobercurry
+Toberdaly Bridge
+Toberdan
+Toberduff
+Toberelatan
+Toberkeen
+Toberlyan
+Toberscanavan
+Tobertelly
+Tobertoby
+Tomanierin Upper
+Tomboholla
+Tomfarney
+Tomnahealy Little
+Tomriland Cross Roads
+Tonabrocky
+Tonaforte
+Tonagh
+Tonevane Cross Roads
+Tongree
+Tonnagh
+Tonregee
+Tonyduff
+Toobracken
+Toomyvara
+Toon Bridge
+Toor Cross Roads
+Tooraneena
+Tooreendonnell
+Tooreens
+Tooreeny
+Toorfune
+Toormakeady
+Toornafulla
+Tooromin
+Toortane
+Toortisnamore
+Tourin
+Tower
+Townaghbrack
+Townlough Lower
+Trá Mhór
+Tracton
+Trafrask Bridge
+Tralee
+Tramore
+Tranagh
+Travara Bridge
+Trawbaun
+Trawboy
+Trawnanaskil
+Treanagh
+Treanbeg
+Treanmacmurtagh
+Tree Island
+Trench Bridge
+Trim
+Tromman
+Trubley
+Trusklieve
+Tuam
+Tuamgraney
+Tulla More
+Tullaghanbaun
+Tullaghanduff
+Tullaghanrock
+Tullaghaunnashammer
+Tullagher
+Tullaghna
+Tullaghnanoon
+Tullahennel North
+Tullaherin
+Tullamaine
+Tullanacrunat
+Tullanaglug
+Tullaroan
+Tullowmacjames
+Tully Commons
+Tullyallen
+Tullycanna
+Tullycorka
+Tullycreen Lower
+Tullycreen Upper
+Tullycross
+Tullyderrin
+Tullydush
+Tullyhugh
+Tullykane
+Tullylackan Beg
+Tullyleague
+Tullynamalra Cross Roads
+Tullynamoyle
+Tullyrap
+Tullysleva
+Tulsk
+Turlagharee
+Turloughmore
+Turner's Cross Roads
+Turnpike
+Twelveacre Cross Roads
+Twiss Bridge
+Twomileborris
+Twomilebridge
+Tyholland Bridge
+Tynagh
+Tyrrellspass
+Tyrrelstown
+Ullard Bridge
+Umberstown Great
+Umberstown Little
+Unionhall
+Upper Cloonsharragh
+Upper Glanmire Bridge
+Urlaur
+Urlingford
+Urrasaun
+Valleymount
+Ventry
+Villierstown
+Virginia
+Volvenstown
+Walkinstown
+Wallslough
+Walsheslough
+Walshisland
+Warner's Cross Roads
+Warrenmount
+Waterford
+Watergrasshill
+Welchtown
+Wellingtonbridge
+Westland
+Westport
+Westport Quay
+Wexford
+Whistlemount
+Whitebog
+Whitechapel
+Whitecommons
+Whiteford
+Whiteland Cross Roads
+Whites Town
+Wicklow
+Willsborough
+Windgap
+Wolfhill
+Wolfstown
+Wood Village
+Woodfield Bridge
+Woodfort
+Woodpole
+Wormhole
+Yellow Furze
+Yellowford Cross Roads
+Yokane

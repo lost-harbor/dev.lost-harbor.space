@@ -1,0 +1,311 @@
+Tavşan Adası	7
+Güvercin Adası	5
+Eşek Adası	4
+Küçük Ada	4
+Sıçan Adası	4
+Büyük Ada	3
+Fener Adası	3
+İncirli Adası	3
+Kara Ada	3
+Karga Adası	3
+Kargı Adası	3
+Küçükada	3
+Orak Adası	3
+Taş Adası	3
+Üçadalar	3
+Yassıada	3
+Yumurta Adası	3
+Yılan Adası	3
+Adacık	2
+Bayrak Adası	2
+Büyük Adası	2
+Büyükada	2
+Çatal Adası	2
+Çiçek Adası	2
+Çifte Adalar	2
+Çiftlik Adası	2
+Hayırsız Adası	2
+Heybeli Ada	2
+İncir Adası	2
+Karaada	2
+Koyun Adası	2
+Kızkulesi Adası	2
+Kızıl Adalar	2
+Kızılada	2
+Metelik Adası	2
+Orta Ada	2
+Pırasa Adası	2
+Sedef Adası	2
+Topan Adası	2
+Ufak Ada	2
+Uzun Ada	2
+Yılanlı Ada	2
+Yıldız Adası	2
+Zeytinli Ada	2
+Akburun Adası
+Akça Adası
+Akçaada
+Akçalı Adası
+Akdamar Adası
+Akkuş Adası
+Akoğlu Adası
+Aksaz Adası
+Alağün Adası
+Alev Ada
+Alibey Adası
+Anani Adası
+Anataş Adacık
+Arap Adaları
+Arap Adası
+Aslı Adacığı
+Aşırlı Adası
+Avdu Adaları
+Avşa Adası
+Aygır Adası
+Azaplar Kayaları
+Baba Adası
+Babadil Adası
+Balaban Adası
+Balık Adası
+Balıkçı Adası
+Bedir Adası
+Beşadalar
+Besmi Adası
+Boğaz Adası
+Boğazcık Adası
+Boğsak Adası
+Böğürtlen Adası
+Bölme Adası
+Boş Adası
+Bozburun Adaları
+Bozcaada
+Bozyazı Adası
+Burgaz Adası
+Büyükkiremit Adası
+Çakal Adası
+Can Adası
+Çarufa Adası
+Castle
+Çatal Ada
+Çatal Adalar
+Çatal Adaları
+Çavuş Adası
+Çelebi Adası
+Çiçek Adaları
+Çifteada
+Çiğdem Adaları
+Çobanada
+Çıfıtkalesi Adası
+Çılpacık Adası
+Çırakan Adası
+Dairi
+Dalaman Adası
+Dana Adası
+Değirmen Adası
+Değirmencik Adası
+Delikada
+Devecitaşı Ada
+Dil Adaları
+Diliktaş Adaları
+Dişlice Adası
+Doğanbey Adası
+Dolap Adası
+Domuz Adası
+Dümbelek Adaları
+Ekinlik Adası
+Eşek Adaları
+Fenerada
+Garip Adaları
+Garip Adası
+Gelibolu Adası
+Gemiler Adası
+Gerence Ada
+Giresun Adası
+Gökada
+Gökçe Adası
+Görecek Adası
+Göz Adası
+Güneş Adası
+Gürmenli Adası
+Güvercinli Adası
+Gymno
+Hacı Adaları
+Hacıâkif Adası
+Hacıhalil Adası
+Haliada
+Halilbey Adası
+Han Kocaoğlu Adaları
+Hasır Adası
+Haşır Adası
+Hayırsızada
+Hekim
+Heybeli Adası
+Hisarönü Adaları
+Hızırreis Adacık
+İçada
+İçeriçarpanak Adası
+İğdeli Ada
+İkikardeşler Adaları
+İkiz Adaları
+İkiz Kayalar
+İkizadalar
+İkizkardeşler Adası
+Imbros
+İmralı Adası
+Işık Adası
+Kaçak Adası
+Kadırga
+Kalaytaşı Adası
+Kalem Adası
+Kamerye Adası
+Kaplumbağa Adası
+Kara Adaları
+Kara Adası
+Karabağ Adası
+Karaca Adası
+Karacaören Adası
+Karaincir Adaları
+Karakol Adaları
+Karantina Adası
+Karayer Adaları
+Kargataşı Adası
+Katrancık Adası
+Kayainönü Adası
+Keçi Adası
+Kefken Adası
+Kekova Adası
+Kel Adası
+Kiseli Adası
+Kişneli Adası
+Koca Ada
+Körmen Adası
+Körtaş Adaları
+Kötürüm Adası
+Kovan Adası
+Kovanlı Adası
+Küçük Adaları
+Küçük Adası
+Küçük Eşek Adası
+Küçükkiremit Adası
+Küçükmaden Adası
+Küçüktavşan Adası
+Külbent Adası
+Kumru Adası
+Kurucu Adası
+Kuş Adası
+Kuyruk Adası
+Kuzu Adası
+Kınalı Ada
+Kız Adası
+Kızıl Ada
+Kızıl Adası
+Kızılağaç Adası
+Maden Adası
+Mamalı Adası
+Manastır Adası
+Marmara Adası
+Martı Adası
+Mersincik Adası
+Mola Adaları
+Mosko
+Mustafaçelebi Adası
+Mutlu Adası
+Mınıkada
+Nar Adası
+Nergis Adası
+Nergizi
+Oker Adacık
+Öksüz Adası
+Ömer
+Orata Adası
+Ortafener Adası
+Ovacık Adası
+Özlen Adası
+Palamo
+Palamut Adası
+Palamutbükü Adası
+Panayır Adası
+Paşalimanı Adası
+Peksimet Adası
+Pide Adası
+Pitta Adası
+Plati
+Platia
+Presa Adası
+Prinkipo
+Pınar Adası
+Pırnallı Adası
+Raks Adaları
+Rus Adası
+Şahur Adası
+Saint Kiriaki
+Salih Adası
+Sandal Adası
+Saplı Adası
+Saray Adası
+Sariot Adası
+Saros Adalar
+Sarı Ada
+Sarıada
+Sarıbelen Adası
+Sarıliman Adası
+Şemsiye Adası
+Sezgin Adası
+Siğtaş Adası
+Simhaç Adası
+Sivriada
+Soğan Adası
+Söğüt Adası
+Su Adası
+Suluada
+Suluca Adası
+Süngükaya Adası
+Şıldanlar Adaları
+Taşada
+Tasilhli
+Taşlı Adacık
+Taslı Adası
+Taşlıca Adası
+Tavşanbükü Adası
+Tavuk Adası
+Tchatallota
+Tek Adası
+Tektaş Adacık
+Telkenli Ada
+Tersane Adası
+Terzioğlu Adası
+Topak Adası
+Topanca Adası
+Toprakada
+Tüllüce Adası
+Tüysüzce Adası
+Tuz Ada
+Ufak Adası
+Uzunada
+Uzunadalar
+Uzunce Adası
+Yaka Adası
+Yalçılı Ada
+Yassı Ada
+Yassıca Adaları
+Yassıca Adası
+Yediadalar
+Yelken Adası
+Yelkenli Ada
+Yellice Adası
+Yelnız Adası
+Yer Adası
+Yeşil Ada
+Yeşil Adası
+Yeşilada
+Yolluca Adası
+Yuvarlak Adası
+Yılan Ada
+Yılancık Adası
+Yıldız Adaları
+Zafer Adası
+Zambak Adacık
+Zeytin Adası
+Zeytın Adası
+Ziraat Adası
+Zorlu Adası

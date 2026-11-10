@@ -1,0 +1,2006 @@
+Jaan	730
+Aleksander	569
+Jüri	518
+Karl	514
+Johannes	473
+Peeter	448
+August	420
+Rein	388
+Toomas	362
+Andres	361
+Eduard	351
+Ants	318
+Paul	283
+Juhan	279
+Heino	257
+Tõnu	250
+Mart	239
+Mihkel	235
+Hans	229
+Jaak	229
+Arnold	228
+Tiit	227
+Voldemar	227
+Enn	226
+Endel	221
+Lembit	220
+Ülo	215
+Elmar	212
+Vello	209
+Nikolai	197
+Ilmar	196
+Mati	196
+Oskar	190
+Viktor	186
+Priit	185
+Urmas	177
+Artur	176
+Rudolf	172
+Margus	169
+Indrek	162
+Kristjan	157
+Tõnis	157
+Kalju	153
+Vladimir	152
+Alfred	145
+Richard	143
+Arvo	138
+Uno	137
+Raivo	136
+Toivo	133
+Georg	130
+Madis	129
+Evald	125
+Jaanus	125
+Leo	125
+Tarmo	124
+Erich	122
+Gustav	121
+Ain	120
+Hugo	117
+Valter	114
+Ernst	111
+Otto	111
+Sergei	110
+Albert	108
+Andrus	108
+Harald	106
+Ivar	105
+Edgar	104
+Jakob	104
+Aleksandr	102
+Kalle	101
+Raul	101
+Olev	100
+Aivar	99
+Märt	99
+Meelis	99
+Kaarel	98
+Julius	97
+Boris	96
+Lauri	96
+Aleksei	94
+Anton	94
+Harry	94
+Heinrich	93
+Johan	93
+Aare	92
+Erik	90
+Kalev	89
+Harri	87
+Andrei	84
+Igor	84
+Peep	83
+Konstantin	82
+Aarne	78
+Friedrich	77
+Siim	77
+Sulev	77
+Herbert	76
+Henn	75
+Tanel	75
+Väino	75
+Kaido	74
+Hendrik	73
+Riho	73
+Marko	72
+Osvald	72
+Villem	72
+Aksel	71
+Enno	71
+Taavi	71
+Roman	70
+Ott	68
+Heiki	67
+Helmut	67
+Mihhail	66
+Sven	66
+Hillar	65
+Johann	64
+Ivo	63
+Alar	61
+Arvi	61
+Eugen	61
+Dmitri	60
+Mait	59
+Oleg	58
+Valeri	58
+Ago	57
+Arno	57
+Anatoli	56
+Kaljo	56
+Leonhard	56
+Adolf	54
+Allan	54
+Aadu	53
+Hannes	53
+Marek	53
+Ferdinand	52
+Gunnar	52
+Herman	52
+Joosep	52
+Mikk	52
+Avo	51
+Bernhard	51
+Jewgeni	51
+Sten	51
+Heldur	50
+Kaspar	49
+Roland	47
+Teet	47
+Theodor	47
+Eerik	46
+Sander	46
+Valdur	46
+Leonid	45
+Oliver	45
+Vahur	45
+Ervin	44
+Jevgeni	44
+Hermann	43
+Juri	42
+Markus	42
+Matti	42
+Udo	42
+Agu	41
+Alexander	41
+Aivo	40
+Alo	40
+Aavo	39
+Eero	39
+Feliks	39
+Eino	38
+Kaupo	38
+Villu	37
+Arne	36
+Erki	36
+Henno	36
+Ivan	36
+Maksim	36
+Olavi	36
+Pavel	36
+Raimond	36
+Valdo	36
+Einar	35
+Koit	35
+Rain	35
+Valentin	35
+Veiko	35
+Ado	34
+Arved	34
+Mark	34
+Rauno	34
+Silver	34
+Andreas	33
+Felix	33
+Henri	33
+Neeme	33
+Rasmus	33
+Anti	32
+Argo	32
+Guido	32
+Kristo	32
+Olaf	32
+Ralf	31
+Ahto	30
+Erkki	30
+Olav	30
+Bruno	29
+Joonas	29
+Reinhold	29
+Rene	29
+Gert	28
+Rait	28
+Vambola	28
+Ahti	27
+Jan	27
+Rainer	27
+Valdek	27
+Vjatšeslav	27
+Hanno	26
+Leopold	26
+Timo	26
+Andre	25
+Arthur	25
+Janek	25
+Raimo	25
+Risto	25
+Üllar	25
+Vassili	25
+Leho	24
+Tauno	24
+Vallo	24
+Viljar	24
+Boriss	23
+Georgi	23
+Imre	23
+Martti	23
+Tarvo	23
+Valdeko	23
+Edmund	22
+Emil	22
+Henrik	22
+Jürgen	22
+Paavo	22
+Raimund	22
+Uku	22
+Daniel	21
+Egon	21
+Gerhard	21
+Heikki	21
+Kevin	21
+Peet	21
+Peter	21
+Taivo	21
+Vladimír	21
+Ando	20
+Carl	20
+Kuno	20
+Margo	20
+Meinhard	20
+Wilhelm	20
+Helmuth	19
+Henry	19
+Janno	19
+Joel	19
+Ludvig	19
+Maido	19
+Veljo	19
+Vitali	19
+Daniil	18
+Vadim	18
+Aado	17
+Andri	17
+Gennadij	17
+Karel	17
+Kaur	17
+Alvar	16
+Grigori	16
+Marten	16
+Nikita	16
+Raido	16
+Rando	16
+René	16
+Urmo	16
+Verner	16
+Artjom	15
+Christian	15
+David	15
+Gennadi	15
+Janar	15
+Laur	15
+Mats	15
+Mattias	15
+Michael	15
+Samuel	15
+Aldo	14
+Arkadi	14
+Armin	14
+Heiti	14
+Hindrek	14
+Kirill	14
+Manivald	14
+Mario	14
+Max	14
+Mehis	14
+Priidu	14
+Raigo	14
+Raoul	14
+Alari	13
+Allar	13
+Ardo	13
+Elmo	13
+Hando	13
+Kristian	13
+Lennart	13
+Reimo	13
+Vasili	13
+Victor	13
+William	13
+Asko	12
+Ergo	12
+Gregor	12
+Heigo	12
+Ilja	12
+Ken	12
+Kustas	12
+Magnus	12
+Nigul	12
+Ragnar	12
+Robin	12
+Aigar	11
+Aimar	11
+Are	11
+Arseni	11
+Dimitri	11
+Edvin	11
+Franz	11
+Fred	11
+Hardi	11
+Hubert	11
+Illar	11
+Ingmar	11
+John	11
+Kalmer	11
+Konrad	11
+Kuldar	11
+Märten	11
+Stanislav	11
+Taavet	11
+Valdar	11
+Valev	11
+Adalbert	10
+Andi	10
+Anto	10
+Armand	10
+Denis	10
+Egert	10
+Erko	10
+Hain	10
+Heiko	10
+Heinar	10
+Kustav	10
+Thomas	10
+Uudo	10
+Walter	10
+Antti	9
+Arvid	9
+Deniss	9
+Eik	9
+Jaagup	9
+Juho	9
+Karmo	9
+Kert	9
+Leon	9
+Nils	9
+Ottomar	9
+Siegfried	9
+Tambet	9
+Vaino	9
+Virgo	9
+Vootele	9
+Aaro	8
+Erni	8
+Esko	8
+Illimar	8
+Karli	8
+Kristen	8
+Kristofer	8
+Kurt	8
+Leino	8
+Matis	8
+Matthias	8
+Meeme	8
+Pärtel	8
+Patrick	8
+Riivo	8
+Rivo	8
+Roomet	8
+Taimo	8
+Tarvi	8
+Teodor	8
+Uuno	8
+Vilhelm	8
+Vladislav	8
+Woldemar	8
+Yuri	8
+Alan	7
+Aleks	7
+Alex	7
+Andero	7
+Anders	7
+Benno	7
+Endrik	7
+Feodor	7
+German	7
+Hardo	7
+Holger	7
+Loit	7
+Lui	7
+Olle	7
+Renee	7
+Romet	7
+Ruslan	7
+Stefan	7
+Ülar	7
+Ulrich	7
+Veikko	7
+Willem	7
+Aleksis	6
+Ander	6
+Ats	6
+Augustin	6
+Benjamin	6
+Bert	6
+Edvard	6
+Eldor	6
+Eldur	6
+Ennu	6
+Innar	6
+James	6
+Joann	6
+Kait	6
+Kunnar	6
+Kuulo	6
+Manfred	6
+Marco	6
+Orest	6
+Ove	6
+Pjotr	6
+Reio	6
+Uko	6
+Viljo	6
+Villi	6
+Yevgeni	6
+Aaron	5
+Agur	5
+Ako	5
+Aldur	5
+Alfons	5
+Ardi	5
+Armas	5
+Axel	5
+Christoph	5
+Donald	5
+Eeri	5
+Elar	5
+Eno	5
+Evgeni	5
+Haljand	5
+Ilmo	5
+Ilo	5
+Ivari	5
+Janis	5
+Jarmo	5
+Jörgen	5
+Juss	5
+Kajar	5
+Kalevi	5
+Kalvi	5
+Karol	5
+Karp	5
+Kenneth	5
+Kulno	5
+Kusta	5
+Marcus	5
+Marius	5
+Matteus	5
+Norman	5
+Olari	5
+Orm	5
+Oscar	5
+Pärt	5
+Peedu	5
+Priidik	5
+Rannar	5
+Ranno	5
+Reigo	5
+Rolf	5
+Ronald	5
+Rünno	5
+Simon	5
+Talis	5
+Timur	5
+Tõnno	5
+Tristan	5
+Vaido	5
+Valdemar	5
+Valdu	5
+Valfried	5
+Venda	5
+Vidrik	5
+Volli	5
+Vsevolod	5
+Werner	5
+Wolfgang	5
+Aap	4
+Abel	4
+Adam	4
+Amandus	4
+Anatol	4
+Andris	4
+Andu	4
+Aron	4
+Art	4
+Christfried	4
+Christopher	4
+Dan	4
+Edward	4
+Elmu	4
+Erhard	4
+Esper	4
+Evert	4
+Fjodor	4
+Fritz	4
+Fyodor	4
+Gleb	4
+Gottlieb	4
+Hartvig	4
+Hasso	4
+Heido	4
+Heimar	4
+Helgi	4
+Hengo	4
+Hindrik	4
+Imant	4
+Ingvar	4
+Jaanis	4
+Jarek	4
+Juha	4
+Juhani	4
+Kaimar	4
+Kaimo	4
+Kari	4
+Kusti	4
+Leevi	4
+Lembitu	4
+Linnar	4
+Louis	4
+Maano	4
+Mairo	4
+Maks	4
+Markkus	4
+Mathias	4
+Mauri	4
+Maximilian	4
+Mirko	4
+Niilo	4
+Norbert	4
+Raimu	4
+Ranet	4
+Remo	4
+Ruuben	4
+Ruudi	4
+Ruut	4
+Semjon	4
+Stepan	4
+Taavo	4
+Taisto	4
+Tenno	4
+Terje	4
+Tõnn	4
+Trevor	4
+Urmet	4
+Ursel	4
+Vallot	4
+Vambo	4
+Venno	4
+Ville	4
+Yrjö	4
+Abram	3
+Aimur	3
+Ainar	3
+Alen	3
+Alexei	3
+Alexis	3
+Algo	3
+Andro	3
+Andry	3
+Annes	3
+Antoni	3
+Ao	3
+Arbo	3
+Arko	3
+Artem	3
+Arvet	3
+Atko	3
+Charles	3
+Danel	3
+Eedo	3
+Eiki	3
+Ekke	3
+Elias	3
+Enrico	3
+Eric	3
+Erlend	3
+Evar	3
+Filipp	3
+Frank	3
+Frits	3
+Gabriel	3
+Gavriil	3
+Gerd	3
+Gottfried	3
+Härmo	3
+Heinart	3
+Heini	3
+Heinu	3
+Heinz	3
+Helger	3
+Heljut	3
+Hellar	3
+Helmer	3
+Helmo	3
+Hiljar	3
+Hjalmar	3
+Huno	3
+Ingo	3
+Inno	3
+Jakov	3
+Jaroslav	3
+Jass	3
+Jefim	3
+Jegor	3
+Joakim	3
+Jonas	3
+Jorma	3
+Joseph	3
+Kaarli	3
+Kardo	3
+Kaul	3
+Kauri	3
+Keit	3
+Kermo	3
+Kõu	3
+Krister	3
+Kullo	3
+Laos	3
+Leemet	3
+Leonard	3
+Leonardo	3
+Leonti	3
+Lev	3
+Liivo	3
+Maario	3
+Maidu	3
+Malev	3
+Markko	3
+Matt	3
+Mattis	3
+Matvei	3
+Mauno	3
+Maxim	3
+Meelik	3
+Moissei	3
+Moritz	3
+Nathan	3
+Niels	3
+Ole	3
+Päärn	3
+Patrik	3
+Pearu	3
+Pelle	3
+Philip	3
+Raik	3
+Raiko	3
+Rainis	3
+Ramon	3
+Randar	3
+Raymond	3
+Reet	3
+Reginald	3
+Reijo	3
+Reino	3
+Riko	3
+Rodion	3
+Roger	3
+Romeo	3
+Romuald	3
+Rostislav	3
+Samuil	3
+Sebastian	3
+Sergius	3
+Simmu	3
+Simo	3
+Sixten	3
+Sulo	3
+Sven-Erik	3
+Tauri	3
+Teo	3
+Theo	3
+Timothy	3
+Tom	3
+Tomas	3
+Ülari	3
+Üllas	3
+Ulvar	3
+Ustav	3
+Uwe	3
+Valdis	3
+Valmar	3
+Värdi	3
+Vardo	3
+Veli	3
+Viido	3
+Villiam	3
+Vilmar	3
+Waldemar	3
+Aadi	2
+Aalo	2
+Aapo	2
+Aarend	2
+Adu	2
+Agris	2
+Albrecht	2
+Alur	2
+Alvin	2
+Anatole	2
+Anis	2
+Arho	2
+Ari	2
+Arkadius	2
+Arlet	2
+Arnu	2
+Arp	2
+Arsi	2
+Arti	2
+Arto	2
+Asso	2
+Atso	2
+Aulis	2
+Balduin	2
+Bernard	2
+Burchard	2
+Carlos	2
+Christjan	2
+Christofer	2
+Conrad	2
+Constantin	2
+Cornelius	2
+Daimar	2
+Danil	2
+Dave	2
+Dominik	2
+Eddy	2
+Edmar	2
+Edmond	2
+Eedi	2
+Eelar	2
+Eenok	2
+Eido	2
+Eimar	2
+Einari	2
+Einart	2
+Elbert	2
+Elmot	2
+Elmut	2
+Elo	2
+Elvis	2
+Elvo	2
+Emmanuel	2
+Enar	2
+Ene	2
+Enriko	2
+Erast	2
+Erkko	2
+Ermi	2
+Ermil	2
+Ermo	2
+Ervi	2
+Erwin	2
+Etienne	2
+Even	2
+Ewald	2
+Frants	2
+Freddy	2
+Friido	2
+Fromhold	2
+Garibaldi	2
+Gediminas	2
+Gero	2
+Gerrit	2
+Haldur	2
+Hardu	2
+Harjo	2
+Heik	2
+Heiner	2
+Heldor	2
+Hellmuth	2
+Helmar	2
+Herol	2
+Hilda	2
+Huko	2
+Iivo	2
+Iko	2
+Ildar	2
+Ilmari	2
+Ilya	2
+Immanuel	2
+Ingomar	2
+Isaak	2
+Isak	2
+Ivalo	2
+Ivor	2
+Jaano	2
+Jack	2
+Jako	2
+Jalmar	2
+Jānis	2
+Jannu	2
+Jarko	2
+Jarno	2
+Jasper	2
+Jesper	2
+Jim	2
+Jonatan	2
+Jonathan	2
+Jonne	2
+Josef	2
+Josep	2
+Jossif	2
+Jukk	2
+Juko	2
+Juku	2
+Jyri	2
+Kaalu	2
+Kadri	2
+Kahro	2
+Kai	2
+Kaljula	2
+Kalmar	2
+Karl-Erik	2
+Karla	2
+Karlo	2
+Kasper	2
+Keijo	2
+Kenno	2
+Kent	2
+Kersten	2
+Kersti	2
+Kiur	2
+Klen	2
+Kregor	2
+Küllo	2
+Kurmet	2
+Lasse	2
+Laurenti	2
+Leenart	2
+Lehar	2
+Leif	2
+Leiger	2
+Lembo	2
+Lemming	2
+Lemmit	2
+Len	2
+Levi	2
+Linda	2
+Loomet	2
+Maanus	2
+Maarek	2
+Maarius	2
+Magnar	2
+Maik	2
+Maldar	2
+Manivalde	2
+Marcel	2
+Markku	2
+Mihail	2
+Mikhail	2
+Mikko	2
+Miko	2
+Miroslav	2
+Natan	2
+Nestor	2
+Nicolai	2
+Nigulas	2
+Nikolaus	2
+Olimar	2
+Omar	2
+Ossia	2
+Otu	2
+Paavel	2
+Pent	2
+Philipp	2
+Pille	2
+Piret	2
+Ra	2
+Raal	2
+Raho	2
+Rahuleid	2
+Raine	2
+Raino	2
+Randel	2
+Reiu	2
+Remy	2
+Renaldo	2
+Renno	2
+Reno	2
+Revo	2
+Ringo	2
+Roald	2
+Robi	2
+Romil	2
+Romulus	2
+Ron	2
+Ruben	2
+Rubo	2
+Savva	2
+Sepo	2
+Sergi	2
+Sigismund	2
+Silvi	2
+Sören	2
+Sten-Erik	2
+Steven	2
+Sverre	2
+Svetlan	2
+Svjatoslav	2
+Taago	2
+Taaniel	2
+Taevo	2
+Taimar	2
+Tammo	2
+Tamur	2
+Tarmu	2
+Taso	2
+Teofil	2
+Thor	2
+Tiiu	2
+Timmo	2
+Timofei	2
+Timoteus	2
+Timotheus	2
+Toe	2
+Tõiv	2
+Tomi	2
+Tony	2
+Toom	2
+Tormi	2
+Tormis	2
+Triin	2
+Trivimi	2
+Tullio	2
+Vaiko	2
+Valde	2
+Valjo	2
+Valju	2
+Valle	2
+Valner	2
+Valvo	2
+Varmo	2
+Velle	2
+Verni	2
+Viive	2
+Viljam	2
+Villy	2
+Vladas	2
+Ylo	2
+Zinovi	2
+Aabi
+Aago
+Aarand
+Aario
+Aarni
+Aarno
+Aaru
+Aaso
+Aavi
+Abdul
+Abe
+Abi
+Abner
+Addold
+Adelbert
+Ademar
+Adi
+Adik
+Adonis
+Adrian
+Advig
+Ahmed
+Aik
+Aiko
+Aili
+Aimu
+Air
+Aire
+Airon
+Aivis
+Ajjar
+Akim
+Akivo
+Aksireelius
+Al
+Albin
+Albo
+Alden
+Aleksandra
+Aleksandrs
+Aleksi
+Alexandr
+Alexius
+Alf
+Alfei
+Alger
+Alges
+Algis
+Algur
+Alide
+Alik
+Aljo
+Allain
+Allen
+Allex
+Allo
+Almar
+Almer
+Alti
+Alver
+Alvo
+Amar
+Amid
+Amor
+Anar
+Anatolie
+Andras
+Andrej
+Andrew
+Andrey
+Andries
+Andrio
+Andy
+Annus
+Anri
+Ant
+Antero
+Anthony
+Antu
+Anvar
+Anzori
+Ara
+Arco
+Ardalion
+Arder
+Ardis
+Ardu
+Aret
+Argaadi
+Argos
+Arian
+Ariel
+Aristarch
+Aristarkh
+Arkaadi
+Arkadio
+Arlentin
+Arles
+Arli
+Arlis
+Armen
+Armi
+Armo
+Armult
+Arnas
+Arni
+Ärni
+Aro
+Arpad
+Árpád
+Arpo
+Artti
+Arttu
+Artu
+Arun
+Arvids
+Arvis
+Arvu
+Arwed
+Askold
+Askur
+Asmu
+Assar
+Asser
+Asto
+Atlan
+Auleid
+Aulin
+Aulo
+Aurelius
+Auris
+Ausleete
+Avdi
+Avdy
+Avelinius
+Avinash
+Bakhtiyor
+Balder
+Bartholomäus
+Ben
+Benedikt
+Bent
+Bentsian
+Ber
+Berend
+Berk
+Bernald
+Bero
+Bertil
+Bertram
+Birk
+Björn
+Bogdan
+Boleslaw
+Borislav
+Brait
+Brent
+Brett
+Bronislav
+Caesar
+Cardo
+Carel
+Carri
+Caspar
+Cerelius
+Cheslav
+Chris
+Christakis
+Christo
+Clemens
+Clement
+Clyde
+Connor
+Conradt
+Cummings
+Curt
+Cyrillus
+Dag
+Dago
+Dain
+Dajan
+Damasius
+Danek
+Daniele
+Dannar
+Davis
+Deivil
+Dener
+Derek
+Deyvid
+Dilan
+Dinibek
+Dionisi
+Dirk
+Dmitriy
+Dmitry
+Dominic
+Don
+Donat
+Donatas
+Dorian
+Dzintar
+Eberhard
+Ecil
+Edi
+Edik
+Edkar
+Edmunt
+Edur
+Edvards
+Edwin
+Eeli
+Eet
+Eevart
+Efraim
+Egbert
+Egil
+Egmont
+Egor
+Eha
+Eigar
+Eigo
+Eike
+Eiko
+Eiland
+Eimel
+Eini
+Einu
+Einvald
+Eivin
+Eivinas
+Elari
+Elary
+Eldar
+Elem
+Elgur
+Elhonen
+Eli
+Elisar
+Ella
+Elli
+Elmet
+Elon
+Elret
+Elver
+Emanuel
+Emer
+Endla
+Endri
+Engel
+Engelbert
+Engelhard
+Enhard
+Ennik
+Enri
+Enrik
+Enu
+Enver
+Erene
+Ergart
+Ergas
+Eri
+Erig
+Erika
+Erivan
+Erjo
+Erli
+Erling
+Erm
+Ermer
+Ermu
+Ernest
+Ernesto
+Ero
+Eron
+Errart
+Esa
+Esmo
+Espen
+Eston
+Eugeni
+Eugenius
+Eve
+Evhen
+Evstafy
+Fabian
+Faives
+Faivi
+Faustus
+Fedor
+Feliksas
+Felor
+Feofan
+Ferdi
+Filimon
+Filip
+Florian
+Foma
+Frederik
+Fredi
+Fredy
+Fridolf
+Friedebert
+Friedel
+Friedemann
+Frommhold
+Gaabriel
+Gaido
+Galina
+Garri
+Garry
+Gaston
+Gaute
+Geido
+Geir
+George
+Georges
+Gerdo
+Gerry
+Gevin
+Gholamreza
+Gilbert
+Girsh
+Glen
+Gori
+Gösta
+Gotthard
+Gotthilf
+Grant
+Gregori
+Grigore
+Gundemar
+Gundo
+Gunhard
+Gunnart
+Gunter
+Günther
+Gustaf
+Hagi
+Haim
+Hallar
+Hamlet
+Han
+Hanon
+Hans-Kristjan
+Hariton
+Harles
+Harli
+Härmel
+Harmo
+Härnald
+Harras
+Hart
+Hartius
+Hartmuth
+Harvi
+Heikko
+Heilo
+Heimo
+Hein
+Heinold
+Heitti
+Hektor
+Helar
+Helary
+Helend
+Helgar
+Helgur
+Helir
+Hellard
+Hellat
+Helmet
+Hendry
+Hennit
+Heno
+Henriette
+Hent
+Herald
+Herdis
+Hergi
+Hergo
+Herik
+Herk
+Herki
+Herkki
+Herko
+Herma
+Hiio
+Hill
+Hilmo
+Himm
+Hinno
+Hinrek
+Hirvo
+Horre
+Horret
+Hristo
+Hudo
+Hüllo
+Humbert
+Ib
+Idel
+Ignace
+Ignar
+Ignas
+Igo
+Ike
+Ilbo
+Ilder
+Ilian
+Illaria
+Illarion
+Illart
+Illis
+Ilmatar
+Ilor
+Imanta
+Imat
+Immar
+Immo
+Indro
+Ingemar
+Innari
+Innokenti
+Innokenty
+Ioan
+Iraida
+Irina
+Isadore
+Isai
+Isi
+Isidor
+Israel
+Izmail
+Izold
+Jaagu
+Jaak-Heinrich
+Jaakko
+Jaanek
+Jaap
+Jaarek
+Jacob
+Jacques
+Jairi
+Jake
+Jakko
+Jaks
+Jakub
+Jan-Erik
+Janari
+Jander
+Janika
+Jarilo
+Järvo
+Jassi
+Jāzeps
+Jean
+Jegard
+Jeguda
+Jekki
+Jens
+Joa
+Joan
+Joe
+Johanna
+Johanness
+Jon
+Joonatan
+Josten
+Jouko
+Juan
+Juda
+Juhannes
+Jullo
+Jürgo
+Jüris
+Jürmo
+Jürnas
+Jussi
+Justin
+Justinus
+Juulius
+Juura
+Juuro
+Juuso
+Kael
+Kaide
+Kaider
+Kaidor
+Kaidu
+Kaijo
+Kail
+Kailo
+Kaimu
+Kaino
+Kaire
+Kaius
+Kaivo
+Kajari
+Kaldi
+Kaldo
+Kaleph
+Kaljus
+Kallervo
+Kallio
+Kallistrat
+Kalvar
+Kalver
+Karen
+Karl Michael
+Karl-August
+Karl-Johan
+Karlos
+Karro
+Kasimir
+Katrin
+Kaunileid
+Kauno
+Kauro
+Kazbulat
+Kein
+Keio
+Keiso
+Keith
+Kenn
+Kenny
+Kenti
+Kerdo
+Kerr
+Kerri
+Keto
+Kevor
+Khagani
+Kilvar
+Kim
+Kimi
+Klaus
+Klavdi
+Kolla
+Kondrat
+Kopel
+Kore
+Kosma
+Kostel
+Kreidy
+Kris
+Krist
+Kristi
+Kristiina
+Kristof
+Kuido
+Kuldev
+Kullar
+Kullervo
+Külvar
+Kulvo
+Kunder
+Künno
+Künter
+Kurmo
+Kurti
+Kustaa
+Kusto
+Kuuno
+Kuzma
+Laas
+Laimons
+Lauris
+Laurits
+Lea
+Leander
+Leen
+Leev
+Lehari
+Leib
+Leili
+Leivi
+Leivo
+Lello
+Lembar
+Lemmik
+Lemmo
+Leonidas
+Lepo
+Leslie
+Levo
+Levroit
+Linnart
+Linold
+Livio
+Livius
+Loe
+Lorenz
+Lothar
+Ludwik
+Lukas
+Luukas
+Luulik
+Lylian
+Maarjo
+Made
+Madli
+Mahendra
+Maicel
+Mäido
+Maie
+Maikel
+Maikko
+Maiko
+Maire
+Maksimilian
+Malakai
+Maldon
+Maldus
+Mall
+Mallor
+Mallory
+Mango
+Manuel
+Marcelli
+Mardi
+Mare
+Mareks
+Maret
+Margaretha
+Margit
+Marian
+Marie
+Marino
+Marje
+Markos
+Marks
+Marku
+Marno
+Mart-Olav
+Martten
+Marvin
+Marvo
+Marx
+Mathei
+Matz
+Maur
+Maurus
+Maximillian
+Meego
+Meel
+Meemo
+Meier
+Meigo
+Merik
+Meris
+Merlis
+Michał
+Michel
+Mick
+Miika
+Miikael
+Mikael
+Miljard
+Miron
+Misha
+Mitrofan
+Modest
+Mõkola
+Moorits
+Morten
+Moses
+Moshe
+Murad
+Naatan
+Naftoli
+Naresh
+Narinder
+Nasari
+Neinar
+Nero
+Nevil
+Nigol
+Niiles
+Niklas
+Nil
+Noah
+Nony
+Oiva
+Oivo
+Ojar Rõuk
+Okke
+Oku
+Olar
+Oleh
+Oleksandr
+Olevi
+Olger
+Olgred
+Olimpi
+Oolav
+Oolu
+Oren
+Orhan
+Örjan
+Ormar
+Orme
+Ortvin
+Orvo
+Oskari
+Ossip
+Oswald
+Oti
+Ottniel
+Ottokar
+Ovid
+Owe
+Paap
+Päär
+Päären
+Pääru
+Pablo
+Pait
+Päivo
+Parbo
+Parfeni
+Parri
+Parvel
+Pavlin
+Pavlo
+Pavo
+Pear
+Pearn
+Pedro
+Peedo
+Pekka
+Pentti
+Petteri
+Philippe
+Pilvi
+Pimen
+Poigo
+Prido
+Priido
+Prits
+Prosper
+Radko
+Raer
+Rafael
+Rafail
+Raffi
+Rafig
+Rafik
+Ragner
+Ragnis
+Raidar
+Raimi
+Raimondo
+Rainar
+Raini
+Raio
+Raiot
+Rais
+Raiss
+Ralph
+Ramo
+Ramol
+Ramuel
+Ran
+Randin
+Räni
+Ranon
+Rao
+Raphael
+Rašid
+Rauli
+Raun
+Ravu
+Rednar
+Reedik
+Reen
+Rego
+Reid
+Reidar
+Reiko
+Reinar
+Reinu
+Reinut
+Reljo
+Rem
+Rembert
+Remek
+Remi
+Renek
+Renet
+Richie
+Rihard
+Rihhard
+Riido
+Riin
+Riju
+Rimo
+Rinald
+Rinaldo
+Rinat
+Rinel
+Riola
+Rivaldo
+Robert
+Robertas
+Roby
+Robyn
+Rocco
+Roco
+Roderich
+Roes
+Romek
+Romel
+Romer
+Romi
+Rommi
+Ronaldo
+Ronan
+Roode
+Roomelt
+Roomer
+Roul
+Rubin
+Ruho
+Rúnar
+Ründo
+Runo
+Ruppert
+Rurik
+Ruth
+Rutter
+Ruubert
+Ruve
+Ryurik
+Saadi
+Sahil
+Saimon
+Sakari
+Sakarias
+Salman
+Sam
+Sami
+Samo
+Sandor
+Sándor
+Sannu
+Sascha
+Sass
+Saul
+Saveli
+Savvati
+Selvadore
+Seppo
+Serafim
+Sergey
+Sergo
+Severi
+Shalva
+Shamil
+Shmuel
+Siegfrid
+Šifara
+Sigfrid
+Sigurd
+Sigvard
+Siimeon
+Siimo
+Siimon
+Siimu
+Siksten
+Silvar
+Silvia
+Simeon
+Simeoni
+Simmo
+Simson
+Simu
+Sirje
+Sken
+Soho
+Soufian
+Stanisław
+Stein
+Steiv
+Steve
+Stewart
+Stig
+Stiven
+Sture
+Suune
+Sviatoslav
+Svyatoslav
+Taijo
+Taimu
+Tair
+Tairo
+Taivu
+Tajo
+Talvo
+Tanar
+Taniel
+Tannil
+Tapani
+Taras
+Targo
+Tarrvi
+Tavi
+Tavo
+Teddy
+Teno
+Teolan
+Terko
+Theophil
+Thure
+Tihhon
+Tiido
+Tiidrek
+Tiidu
+Tim
+Timmu
+Tobias
+Tõivelemb
+Tõivo
+Tõivu
+Tomomi
+Toni
+Tonio
+Toots
+Traugott
+Troadi
+Tunne
+Tunnet
+Tuudor
+Tuudur
+Udu
+Uido
+Uino
+Uldo
+Ülev
+Ülevi
+Ulis
+Ülis
+Uljas
+Ullo
+Üllo
+Undel
+Undo
+Urbo
+Ürgo
+Urho
+Urjo
+Ürjo
+Ursus
+Urvo
+Ustus
+Uudus
+Uusi
+Uve
+Vaabo
+Vaado
+Vaapo
+Väinö
+Val
+Väldo
+Valdor
+Valentina
+Valerian
+Valery
+Valmen
+Valmer
+Valmo
+Valmor
+Valther
+Vano
+Vapper
+Värner
+Varno
+Varri
+Varro
+Vasil
+Vassil
+Vasso
+Veeliks
+Veena
+Veigo
+Veinart
+Velju
+Velmar
+Velvo
+Vergo
+Viacheslav
+Vidadi
+Viesturs
+Vigo
+Vikenti
+Vikki
+Vilen
+Vilho
+Vilju
+Villar
+Villio
+Villo
+Virkko
+Virve
+Vitaly
+Vitold
+Vivo
+Vlad
+Vladlen
+Vlasy
+Volker
+Volmer
+Volrad
+Votele
+Walenty
+Walfrid
+Warren
+Wilfried
+Willibald
+Winfried
+Wladimir
+Xerardo
+Yelisey
+Yri
+Zakaria
+Zhenya
+Zigmontas
+Zoran

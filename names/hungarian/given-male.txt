@@ -1,0 +1,1556 @@
+László	3323
+István	3272
+János	3076
+József	2967
+Ferenc	2210
+György	1879
+Sándor	1838
+Lajos	1616
+Gábor	1540
+Péter	1507
+Zoltán	1501
+Károly	1458
+Gyula	1345
+András	1319
+Béla	1309
+Imre	1264
+Pál	1102
+Tamás	1102
+Miklós	1079
+Tibor	934
+Mihály	891
+Antal	812
+Attila	728
+Jenő	686
+Géza	680
+Zsolt	501
+Balázs	494
+Endre	488
+Kálmán	483
+Csaba	469
+Árpád	447
+Ernő	401
+Ádám	390
+Dezső	379
+Dániel	357
+Márton	320
+Vilmos	312
+Gergely	301
+Róbert	295
+Zsigmond	280
+Ákos	253
+Dávid	240
+Iván	238
+Viktor	238
+Andor	233
+Bálint	224
+Olivér	218
+Mátyás	214
+Emil	212
+Ödön	208
+Bence	204
+Dénes	201
+Ignác	195
+Ottó	194
+Sámuel	194
+Nándor	193
+Elemér	192
+Gusztáv	192
+Albert	181
+Máté	181
+Aladár	176
+Ede	167
+Szabolcs	165
+Norbert	161
+Rezső	157
+Krisztián	154
+Frigyes	150
+Elek	147
+Rudolf	144
+Alajos	136
+Ervin	132
+Márk	129
+Tivadar	129
+Kristóf	126
+Richárd	121
+Henrik	120
+Levente	117
+Adolf	114
+Kornél	114
+Oszkár	113
+Johann	111
+Bertalan	108
+Győző	105
+Ágoston	97
+Gergő	97
+Joseph	93
+Mór	93
+Paul	93
+Roland	93
+Áron	91
+Franz	91
+Jakab	91
+Szilárd	91
+Gáspár	88
+Barnabás	87
+Lipót	84
+Alexander	81
+Marcell	72
+Josef	71
+Karl	71
+Vince	71
+Peter	70
+Miksa	68
+Benedek	67
+George	66
+Anton	65
+Simon	65
+Artúr	62
+Barna	62
+Hugó	61
+Lőrinc	61
+Aurél	59
+Michael	58
+Alfréd	53
+Boldizsár	51
+Julius	51
+Móric	51
+Samu	49
+Ármin	48
+Georg	47
+Patrik	47
+Stephan	47
+Botond	46
+Domokos	46
+Lóránt	46
+Farkas	44
+Ivan	44
+Ján	44
+Leó	44
+Daniel	42
+Ludwig	42
+Fülöp	40
+Erik	39
+Soma	39
+Thomas	39
+Zsombor	39
+Gedeon	38
+Jozef	38
+Milán	38
+John	37
+Andreas	36
+Bernát	36
+Egon	35
+Menyhért	35
+Friedrich	34
+Loránd	34
+Mózes	33
+Andrew	32
+Eugen	32
+Samuel	32
+Tihamér	32
+Arnold	31
+Gabriel	31
+Szilveszter	31
+Benjámin	30
+František	30
+Benő	29
+Ferdinánd	29
+Manó	29
+David	28
+Illés	28
+Kázmér	27
+Ágost	26
+Alex	26
+Charles	26
+Ambrus	25
+Flórián	25
+Leopold	25
+Stephen	25
+Eduard	24
+Félix	24
+Gustav	24
+Nikolaus	24
+Sebestyén	24
+André	23
+Csongor	23
+Heinrich	23
+Victor	23
+Adam	22
+Ferdinand	22
+Lukács	22
+Nicholas	22
+Zalán	22
+Arthur	21
+Dominik	21
+Bódog	20
+Domonkos	20
+Izidor	20
+Lóránd	20
+Moritz	20
+Wilhelm	20
+Alfred	19
+Juraj	19
+Ladislaus	19
+Lehel	19
+Otto	19
+Stefan	19
+Štefan	19
+Ábel	18
+Adorján	18
+Előd	18
+Ioan	18
+Lázár	18
+Nepomuk	18
+Ábrahám	17
+Adrián	17
+Gellért	17
+Konrád	16
+Milan	16
+Adalbert	15
+Bendegúz	15
+Edmund	15
+Francis	15
+Johannes	15
+Josip	15
+Kevin	15
+Oliver	15
+Richard	15
+Vendel	15
+Álmos	14
+August	14
+Carl	14
+Csanád	14
+Ernst	14
+Huba	14
+Nicolas	14
+Salamon	14
+Titusz	14
+Xavér	14
+Alfonz	13
+Armand	13
+Donát	13
+Georges	13
+Izsák	13
+Karol	13
+Keresztély	13
+Kolos	13
+Laszlo	13
+Louis	13
+Marcel	13
+Rafael	13
+Sigmund	13
+Tódor	13
+Valér	13
+Alois	12
+Emánuel	12
+Ernest	12
+Hermann	12
+Ignaz	12
+Kelemen	12
+Pongrác	12
+Sigismund	12
+Vazul	12
+Albin	11
+Étienne	11
+Hugo	11
+Hunor	11
+Ladislav	11
+Nikola	11
+Pavol	11
+Stjepan	11
+Szergej	11
+Vasile	11
+Arisztid	10
+Béni	10
+Frank	10
+Gabor	10
+Jakob	10
+Leo	10
+Leslie	10
+Max	10
+Michal	10
+Mikuláš	10
+Oskar	10
+Rajmund	10
+Vencel	10
+Alpár	9
+Arpad	9
+Benjamin	9
+Bulcsú	9
+Gerő	9
+Gerzson	9
+Giovanni	9
+Guido	9
+Hubert	9
+Jacob	9
+Jónás	9
+Konstantin	9
+Mária	9
+Márió	9
+Marko	9
+Márkó	9
+Örs	9
+Petar	9
+Philipp	9
+Zénó	9
+Alexandru	8
+Aurel	8
+Brúnó	8
+Eduárd	8
+Eugene	8
+Franjo	8
+Hans	8
+Ivo	8
+Jácint	8
+Jeromos	8
+Kamill	8
+Koloman	8
+Ladislas	8
+Mathias	8
+Maximilian	8
+Sandor	8
+Teofil	8
+Vidor	8
+Virgil	8
+William	8
+Zétény	8
+Antun	7
+Egyed	7
+Flóris	7
+François	7
+Gregor	7
+Guidó	7
+Herman	7
+Iosif	7
+Izsó	7
+Janos	7
+Jób	7
+Katalin	7
+Lénárd	7
+Ľudovít	7
+Matthias	7
+Mihail	7
+Moriz	7
+Nicolae	7
+Ottokár	7
+Szaniszló	7
+Theodor	7
+Valentin	7
+Zvi	7
+Alekszandr	6
+Andrés	6
+Anthony	6
+Antoine	6
+Augustin	6
+Bernard	6
+Bonifác	6
+Edvin	6
+Edward	6
+Etele	6
+Éva	6
+Franc	6
+Gheorghe	6
+Ince	6
+Joachim	6
+Joe	6
+Jorge	6
+Jusztin	6
+Ljudevit	6
+Maria	6
+Moshe	6
+Nicolaus	6
+Orbán	6
+Osvát	6
+Román	6
+Steve	6
+Steven	6
+Tádé	6
+Teodor	6
+Tóbiás	6
+Tom	6
+Tomáš	6
+Vincent	6
+Abraham	5
+Adolph	5
+Ágnes	5
+Alán	5
+Alexandre	5
+Andrei	5
+Andrej	5
+Armin	5
+Artur	5
+Asztrik	5
+Atanáz	5
+Bánk	5
+Carlos	5
+Chaim	5
+Christian	5
+Christoph	5
+Constantin	5
+Döme	5
+Emanuel	5
+Emery	5
+Emmerich	5
+Felix	5
+Filip	5
+Gerhard	5
+Geza	5
+Gottlieb	5
+Henry	5
+Ion	5
+Jan	5
+Jeremiás	5
+Jovan	5
+Judit	5
+Kajetán	5
+Koppány	5
+Lazar	5
+Leon	5
+Markus	5
+Michel	5
+Noel	5
+Pavel	5
+Philip	5
+Salomon	5
+Sebastian	5
+Stevan	5
+Tasziló	5
+Theodore	5
+Tomás	5
+Vid	5
+Walter	5
+Willy	5
+Antonio	4
+Anzelm	4
+Asher	4
+Benedict	4
+Benedikt	4
+Bertold	4
+Bruno	4
+Cirill	4
+Dömötör	4
+Edgár	4
+Eliezer	4
+Emeric	4
+Emerich	4
+Engelbert	4
+Eörs	4
+Erwin	4
+Eugène	4
+Fábián	4
+Fran	4
+Gábriel	4
+Gejza	4
+Gottfried	4
+Henri	4
+Imrich	4
+Istvan	4
+Jákó	4
+Jean	4
+Jules	4
+Julij	4
+Július	4
+Krisztofer	4
+Krizosztom	4
+Mario	4
+Máriusz	4
+Mark	4
+Melchior	4
+Michele	4
+Miguel	4
+Mirko	4
+Nikolasz	4
+Olekszandr	4
+Oscar	4
+Pavao	4
+Pedro	4
+Pierre	4
+Ralph	4
+Raoul	4
+Renátó	4
+Shmuel	4
+Solomon	4
+Ștefan	4
+Štěpán	4
+Valter	4
+Vladimir	4
+Vladimír	4
+Xaver	4
+Zakariás	4
+Zoltan	4
+Zoran	4
+Aba	3
+Ábris	3
+Aleksandar	3
+Alekszej	3
+Amadé	3
+Andras	3
+Ányos	3
+Apor	3
+Aristid	3
+Arzén	3
+Atilla	3
+Balthasar	3
+Balthazar	3
+Bela	3
+Benno	3
+Bereck	3
+Bogdán	3
+Boris	3
+Borisz	3
+Camillo	3
+Celesztin	3
+Cornelius	3
+Damian	3
+Denis	3
+Dimitrie	3
+Dov	3
+Dovid	3
+Dragutin	3
+Dusán	3
+Edmond	3
+Elias	3
+Emilián	3
+Eric	3
+Esteban	3
+Eszter	3
+Etienne	3
+Fidél	3
+Francesco	3
+Francisco	3
+Frederick	3
+Fritz	3
+Gavril	3
+Gilbert	3
+Giulio	3
+Gregory	3
+Györgyi	3
+Hirsch	3
+Iréneusz	3
+Jacques	3
+Jakub	3
+Joel	3
+Jonatán	3
+Jorgosz	3
+José	3
+Juan	3
+Jurij	3
+Kamilló	3
+Karel	3
+Kocsárd	3
+Leib	3
+Lénárt	3
+Les	3
+Ludwik	3
+Márta	3
+Matej	3
+Maurice	3
+Maximilián	3
+Medárd	3
+Mihai	3
+Mihajlo	3
+Nimród	3
+Orsolya	3
+Oszvald	3
+Ottmár	3
+Pablo	3
+Pali	3
+Petru	3
+Piroska	3
+Remig	3
+Rókus	3
+Roman	3
+Sandrin	3
+Siegfried	3
+Sixtus	3
+Slavko	3
+Tamas	3
+Teréz	3
+Titus	3
+Traugott	3
+Ulrich	3
+Viliam	3
+Vojtěch	3
+Werner	3
+Wolfgang	3
+Yehoshua	3
+Zoárd	3
+Ajtony	2
+Akiba	2
+Akos	2
+Aladar	2
+Albrecht	2
+Alen	2
+Alexisz	2
+Algernon	2
+Amand	2
+Amram	2
+Andréasz	2
+Andrija	2
+Angelo	2
+Anikó	2
+Antonín	2
+Ara	2
+Avhusztin	2
+Axel	2
+Ben	2
+Berthold	2
+Boleslav	2
+Bors	2
+Branko	2
+Buda	2
+Carolus	2
+Caspar	2
+Cecil	2
+Chris	2
+Christopher	2
+Ciprián	2
+Cirjék	2
+Conrad	2
+Csatár	2
+Cyprian	2
+Cyrill	2
+Dejan	2
+Dennis	2
+Detre	2
+Dezider	2
+Domán	2
+Dominic	2
+Dömjén	2
+Dózsa	2
+Dragomir	2
+Edit	2
+Eduardo	2
+Edvárd	2
+Efraim	2
+Eleazar	2
+Eligius	2
+Emőd	2
+Enikő	2
+Ernesto	2
+Ete	2
+Eusebius	2
+Euszták	2
+Ézsaiás	2
+Fedor	2
+Felicián	2
+Ferdo	2
+Fernando	2
+Fred	2
+Gabrijel	2
+Georgius	2
+Gerard	2
+Giorgio	2
+Giovanni Battista	2
+Gotthard	2
+Grigor	2
+Grigore	2
+Gustáv	2
+Gyárfás	2
+Harry	2
+Héder	2
+Hildebrand	2
+Hirsh	2
+Iacob	2
+Isidor	2
+Iuliu	2
+Ivor	2
+Ivša	2
+Jákob	2
+Janko	2
+Jehuda	2
+Jevgenyij	2
+Jimmy	2
+Jiří	2
+Joakim	2
+Joannes	2
+João	2
+Johnny	2
+Jonas	2
+Jožef	2
+Józef	2
+Józsa	2
+Juda	2
+Julian	2
+Julián	2
+Jusztinián	2
+Kalman	2
+Kamil	2
+Kemal	2
+Kende	2
+Konrad	2
+Kornel	2
+Kozma	2
+Krisztina	2
+Krsto	2
+Kuno	2
+Kurt	2
+Ladislau	2
+Lambert	2
+Laslo	2
+Lazlo	2
+Leander	2
+Levin	2
+Ljubomir	2
+Loránt	2
+Lorenz	2
+Luigi	2
+Luis	2
+Manfred	2
+Marijan	2
+Márkus	2
+Marton	2
+Mate	2
+Matei	2
+Mato	2
+Matthew	2
+Mauricio	2
+Maurus	2
+Maxim	2
+Menachem	2
+Menáchem Mendel	2
+Mike	2
+Miklos	2
+Miljan	2
+Milos	2
+Miloš	2
+Milovan	2
+Miron	2
+Miša	2
+Móse	2
+Moses	2
+Norman	2
+Octavian	2
+Olga	2
+Omar	2
+Ondrej	2
+Osvald	2
+Othmar	2
+Oto	2
+Ottokar	2
+Özséb	2
+Paolo	2
+Pelbárt	2
+Petra	2
+Pius	2
+Piusz	2
+Polikárp	2
+Radó	2
+Raul	2
+Raymond	2
+Regő	2
+René	2
+Riccardo	2
+Roger	2
+Rolland	2
+Ronald	2
+Ruben	2
+Rudolph	2
+Sebő	2
+Shimon	2
+Siegmund	2
+Sigismond	2
+Silvester	2
+Simion	2
+Slomó	2
+Stefano	2
+Stephanus	2
+Stojan	2
+Szaléz	2
+Szebasztián	2
+Szerafin	2
+Sztepan	2
+Tas	2
+Teodoro	2
+Timót	2
+Toma	2
+Trajan	2
+Tzvi Hirsch	2
+Ubul	2
+Ugrin	2
+Ulászló	2
+Uri	2
+Vajk	2
+Vasil	2
+Vilibald	2
+Vjekoslav	2
+Vojtech	2
+Willi	2
+Wolf	2
+Władysław	2
+Yaakov	2
+Yehudah	2
+Yosef	2
+Zádor	2
+Zdenko	2
+Zelig	2
+Zsuzsanna	2
+Đorđe	2
+Aaron
+Achilles
+Adalberto
+Adamus
+Adeodát
+Ádin
+Adolphe
+Adonisz
+Adrienn
+Aegidius
+Agamemnon
+Aharon
+Ajándék
+Ajándok
+Akiva
+Alan
+Albán
+Alberik
+Alejandro
+Aleksej
+Alessandro
+Alexa
+Aléxandrosz
+Alexej
+Alexis
+Alexius
+Alfons
+Ali
+Allen
+Alojz
+Aloys
+Amadeo
+Amadeus
+Amedeo
+Américo
+Amerigo
+Amin
+Aminullah
+Amir
+Amon
+Amos
+Amr
+Anasztáz
+Anatolij
+Andre
+Andrea
+Andréa
+Andy
+Äneas
+Anett
+Anita
+Anna
+Anshel
+Ante
+Antoni
+Antónia
+Antonie
+Antoninus
+Antonius
+Anwar
+Aranka
+Arián
+Aries
+Arno
+Aron
+Arsenije
+Artin
+Arvéd
+Atanasije
+Atanasiu
+Atanasz
+Augustín
+Augustinus
+Augusto
+Aurelius
+Austin
+Avdo
+Avgust
+Avraham
+Avram
+Avrohom
+Axente
+Bahgat
+Balassa
+Balduin
+Baldwin
+Bandi
+Baptist
+Baptiste
+Barabás
+Bartol
+Baruch
+Basilius
+Bátor
+Bazil
+Bedřich
+Bekény
+Benedictus
+Benedykt
+Benito
+Benjamín
+Benyamin
+Berechiah
+Berl
+Bernat
+Bernhard
+Bert
+Bezalel
+Bharat
+Bianka
+Blaž
+Bob
+Bogdan
+Bogoljub
+Bogyoszló
+Bohumil
+Bohuslav
+Borbála
+Božidar
+Branislav
+Bratoljub
+Bronco
+Brutus
+Buzád
+Callum
+Calman
+Camille
+Can
+Carlo
+Cătălin
+Cézár
+Chajim
+Charlie
+Chester
+Christiaan
+Chrysostom
+Claudius
+Claus
+Cole
+Colman
+Coloman
+Constant
+Coriolan
+Cornell
+Crispin
+Csák
+Csörsz
+Cyprián
+Cyrinus
+Czesław
+Cæsar
+Dagobert
+Dalibor
+Damascenus
+Damáz
+Damir
+Dan
+Daniil
+Danijil
+Danilo
+Darius
+Dárius
+Dáriusz
+Darrin
+Dave
+Davorin
+DeAndre
+Demetrius
+Demjén
+Ders
+Desiderio
+Desiderius
+Désiré
+Dimitrije
+Dimitru
+Dionisie
+Dionisio
+Dionýz
+Dmitrij
+Domenico
+Dömös
+Donald
+Dontay
+Dorian
+Dorottya
+Drág
+Dragan
+Drago
+Dumitru
+Dušan
+Écs
+Eden
+Edo
+Edömér
+Edwin
+Eftimie
+Eidus
+Electo
+Elena
+Eli
+Eliáš
+Elmar
+Emanoil
+Emerico
+Emerik
+Émile
+Emilio
+Emílio
+Emmanuel
+Emőke
+Enea
+Enoch
+Énok
+Enrico
+Enver
+Erich
+Ernye
+Ersan
+Erwein
+Erzsébet
+Esaias
+Etelka
+Ethan
+Eugén
+Eugenio
+Euzebiusz
+Eva
+Evangelist
+Ezekiel
+Fabian
+Fabiusz
+Fabrice
+Fanni
+Faustin
+Feriz
+Filippo
+Finta
+Flavius
+Flórent
+Florio
+Floris
+Fortunat
+Francisc
+Francisco José
+Franciscus
+Frankie
+Franziskus
+Frédéric
+Fulgencije
+Fulgentius
+Gab
+Gabi
+Gabriella
+Gaetano
+Galimyan
+Gary
+Gašpar
+Gaston
+Gaszton
+Gavin
+Gedő
+Gennagyij
+Georgije
+Georgios
+Gereben
+Gerhart
+Giacomo
+Giampaolo
+Giang
+Gijon
+Gitta
+Giuseppe
+Gizella
+Gladden
+Glycér
+Gobert
+Goran
+Gordon
+Greg
+Grgo
+Grigorij
+Gualbert
+Gudbrand
+Guillermo
+Günther
+Gustave
+Gustavo
+Guy
+Gy
+Gyöngyi
+Haim
+Halina
+Haralambie
+Harald
+Harjit
+Hassan
+Heinz
+Helman
+Helmut
+Henrich
+Herbert
+Herbord
+Herold
+Hiador
+Hieronymus
+Hilarius
+Hinko
+Hippolit
+Hippolyt
+Horácio
+Horst
+Hrísztosz
+Hümér
+Huy
+Ibolya
+Ida
+Ido
+Ignac
+Ignatz
+Ignazio
+Ignjat
+Igor
+Ilija
+Illarion
+Ilya
+Immanuel
+Immánuel
+Ingo
+Ioann
+Ionel
+Ioszif
+Ipoly
+Irén
+Ireneus
+Isaac
+Isaak
+Isbat
+Ismail
+Israel
+Issachar
+Iszidor
+Itamar
+Ivan Krstitelj
+Izrael
+Jack
+Jacobi
+Jacobo
+Jakov
+Jama
+James
+Jamie
+Jan Nepomuk
+Janusz
+Jaro
+Jaroslav
+Jaroszlav
+Jarrod
+Jaša
+Jean-Charles
+Jean-Pierre
+Jebrai
+Jecheskel
+Jenö
+Jermaine
+Jernej
+Jesajáhú
+Jin
+Jindřich
+Joahim
+Jodok
+John Charles
+Jórgosz
+Joseph August
+Josephus
+Joszip
+Jože
+Józsiás
+Júda
+Judah
+Jule
+Julia
+Julianna
+Julien
+Julijan
+Julio
+Jun
+Justus
+Jutocsa
+Kaan
+Kabos
+Kadosa
+Kajetan
+Kalán
+Kalvin
+Kamilo
+Kán
+Kanut
+Kanuth
+Karl-Egon
+Kartal
+Kaspar
+Kasszián
+Kata
+Kazimir
+Kean
+Keegan
+Kelen
+Kenicsiró
+Keve
+Kiki
+Kilián
+Kilit
+King
+Kirill
+Klemens
+Klementina
+Kond
+Konsztantínosz
+Kont
+Kosta
+Kósztasz
+Kötöny
+Kris
+Kristian
+Kristopher
+Krisztian
+Kruno
+Krzysztof
+Kund
+Kund Jenő
+Kuzman
+Ladislao
+Ladomér
+Lamoral
+Lampert
+Lancelot
+Laokratisz
+Lars
+Lasar
+Laurentius
+Lauro
+Lav
+Lawrence
+Lazăr
+Lazare
+Leandro
+Leonard
+Leonárd
+Leonhard
+Leonidász
+Leontin
+Lewis
+Liko
+Lipa
+Liviu
+Livius
+Líviusz
+Ljubinko
+Ljubo
+Lodovico
+Loïc
+Long
+Loon
+Lorenzo
+Lothar
+Lovre
+Lovrenc
+Lovro
+Lucien
+Luka
+Lukiján
+Lyubomir
+Maciej
+Magdolna
+Magor
+Mahir
+Majer
+Majid
+Maksimilijan
+Makszim
+Malchiel
+Manasseh
+Manu
+Marco
+Marcus
+Margaret
+Marian
+Marián
+Mariann
+Marie
+Marius
+Maté
+Mathieu
+Matija
+Matt
+Matteo
+Matúš
+Mauritius
+Mayer
+Mehmet
+Melinda
+Michał
+Mikael
+Mikcs
+Miki
+Milivoj
+Milorad
+Miloslav
+Miltiades
+Min-seok
+Minya
+Mircea
+Miroslav
+Miroszláv
+Misa
+Mishael
+Miska
+Mizse
+Modest
+Modestus
+Moise
+Momčilo
+Mordecai
+Morris
+Mozart
+Murad
+Naftali
+Nam
+Napoleon
+Natan
+Nathan
+Nathaniel
+Naum
+Nebil
+Nebojša
+Nechemia
+Nelu
+Nemanja
+Nenad
+Nguyện
+Nick
+Nicola
+Nicolás
+Níkandrosz
+Nikki
+Nikogosz
+Nikolaj
+Níkosz
+Noah
+Noé
+Noémi
+Nóra
+Novak
+Odiló
+Ognjen
+Oktáv
+Olivier
+Olívio
+Omár
+Onisifor
+Oreszt
+Osama
+Óscar
+Oton
+Paavo
+Pal
+Pàl
+Partenie
+Paulin
+Paulius
+Paulo
+Paulus
+Pavle
+Paweł
+Peregrin
+Pete
+Petrik
+Petro
+Pietro
+Pilip
+Pinchas
+Piotr
+Pipo
+Placid
+Pompei
+Pompejus
+Predrag
+Prosper
+Rabán
+Rade
+Radoslav
+Radovan
+Radu
+Rajka
+Rajmond
+Ralf
+Ramon
+Ramón
+Randolph
+Rashad
+Raymund
+Reginald
+Reinhard
+Réka
+Remo
+Renáta
+Renato
+Reparatus
+Ricky
+Rida
+Rikard
+Rita
+Roby
+Roch
+Rochus
+Roderik
+Rodrigo
+Rolf
+Roly
+Romedius
+Romualdas
+Romulus
+Romulusz
+Ronnie
+Rosco
+Roy
+Rózsa
+Ruggero
+Rumen
+Rupert
+Rusztem
+Sadoc
+Saif Al-Dean
+Salem
+Samir
+Samson
+Sander
+Sao-ang
+Sári
+Saul
+Sava
+Saxon
+Scott
+Sebastián
+Sebastianus
+Selig
+Sergio
+Shane
+Shaolin
+Shawnee
+Shea
+Shlomo Zalman
+Siegbert
+Silviu
+Simeon
+Šimon
+Šimun
+Sinai
+Sinan
+Slaven
+Srećko
+Stanley
+Sümegi
+Svetislav
+Svetozar
+Sylvester
+Szemjon
+Szende
+Szerhij
+Szevér
+Szidor
+Szigfrid
+Szilamér
+Szilvia
+Szilviusz
+Szimeon
+Szímon
+Szokrátisz
+Szörény
+Tadeáš
+Talan
+Tassilo
+Tatyjana
+Temüüjin
+Teobald
+Teri
+Theodosius
+Theohárisz
+Tiburtius
+Ticián
+Tigran
+Tim
+Timur
+Tino
+Tobiáš
+Töhötöm
+Tomaso
+Tomasz
+Tomek
+Tomislav
+Toni
+Tony
+Torda
+Toso
+Totti
+Tristan
+Tvrtko
+Urmas
+Uwe
+Václav
+Valdemár
+Valdó
+Valentín
+Valentine
+Valentyin
+Valerián
+Valerij
+Vasili
+Vaszil
+Vaszilij
+Vaszílisz
+Vata
+Veit
+Venceszlav
+Vida
+Viktória
+Viktoro
+Vilhelm
+Vili
+Vilim
+Vincențiu
+Vinko
+Viorel
+Virág
+Visarion
+Vital
+Vitalij
+Vitalis
+Vitális
+Vitéz
+Vitus
+Vjacseszlav
+Vojin
+Volodimir
+Waldemar
+Wenzeslaus
+Willibald
+Willie
+Woldemar
+Yana
+Yechiel
+Yehuda
+Yitzhak
+Yona
+Yossi
+Youri
+Yvan
+Zaharia
+Zala
+Žigmund
+Zikmund
+Zlata
+Zlatko
+Zsófia
+Zsuzsa
+Zvonimir
+Zvonko

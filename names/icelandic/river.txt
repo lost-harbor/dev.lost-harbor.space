@@ -1,0 +1,755 @@
+Þverá	30
+Fossá	16
+Laxá	16
+Selá	15
+Grjótá	11
+Sauðá	11
+Sandá	10
+Dalsá	9
+Svartá	9
+Hofsá	8
+Lambá	8
+Blautakvísl	6
+Fjarðará	6
+Garðá	6
+Gilsá	6
+Gljúfurá	6
+Hölkná	6
+Staðará	6
+Stórilækur	6
+Austurá	5
+Brunná	5
+Búðará	5
+Hólsá	5
+Kaldakvísl	5
+Krossá	5
+Tunguá	5
+Bakkaá	4
+Botnsá	4
+Hrafná	4
+Hvammsá	4
+Hvanná	4
+Jökulsá	4
+Kálfá	4
+Svíná	4
+Svínadalsá	4
+Víðidalsá	4
+Blanda	3
+Brúará	3
+Deildará	3
+Djúpá	3
+Eyvindará	3
+Glerá	3
+Heiðará	3
+Hrútá	3
+Húsá	3
+Illagil	3
+Jökulkvísl	3
+Kaldá	3
+Langadrag	3
+Miðkvísl	3
+Múlaá	3
+Núpsá	3
+Öxará	3
+Selgil	3
+Sellækur	3
+Stapaá	3
+Strangakvísl	3
+Teigará	3
+Valagil	3
+Valagilsá	3
+Víkurá	3
+Þorvaldsá	3
+Blákvísl	2
+Breiðdalsá	2
+Djúpadalsá	2
+Fáskrúð	2
+Fellakvísl	2
+Fellsá	2
+Fitjaá	2
+Fosskvísl	2
+Fremri-Lambá	2
+Giljá	2
+Gönguskarðsá	2
+Grafará	2
+Grimsá	2
+Grímsá	2
+Grímúlfsá	2
+Grjótskurður	2
+Hafursá	2
+Hamarsá	2
+Háöldukvísl	2
+Haugakvísl	2
+Háumýrakvísl	2
+Hellisá	2
+Hellulækur	2
+Heydalsá	2
+Hjaltadalsá	2
+Holá	2
+Hólmsá	2
+Hrauná	2
+Hundsá	2
+Hvalá	2
+Hvannadalsá	2
+Hvítá	2
+Innri-Sauðá	2
+Jökulá	2
+Jökulfall	2
+Kaldaklof	2
+Kelduá	2
+Klappará	2
+Klapparlækur	2
+Króká	2
+Kverká	2
+Lambafellskvísl	2
+Lambalækur	2
+Langadalsá	2
+Leirá	2
+Ljósá	2
+Merkjalækur	2
+Miðá	2
+Miðfjarðará	2
+Mjóadalsá	2
+Norðurá	2
+Öxnadalsá	2
+Reyðará	2
+Rjúkandi	2
+Skarðsá	2
+Svelgsá	2
+Tröllá	2
+Tungnaá	2
+Tungufljót	2
+Tungulækur	2
+Urriðaá	2
+Vatnakvísl	2
+Vatnsdalsá	2
+Vesturá	2
+Ytri-Sauðá	2
+Þórsá	2
+Þvergil	2
+Affall
+Afréttará
+Álar
+Álftakíll
+Álftakvísl
+Álftaskál
+Alifiskalækur
+Álka
+Andakílsá
+Aragunnulækur
+Arbrandsá
+Árkvíslar
+Arnarfellskvísl
+Ártúnsá
+Ásakvísl
+Ásendalækur
+Atlalækur
+Atlastaðaá
+Austarikælir
+Austurfljót
+Austurgil
+Austurkróksá
+Auðunnará
+Bakkahlaup
+Bakkakotsá
+Baldvinshverfi
+Ballará
+Barká
+Básagil
+Beilá
+Beljandi
+Bergá
+Bergkvísl
+Bergólfsstaðaá
+Bergvatnskvísl
+Berjadalsá
+Berufjarðará
+Bessastaðaá
+Biskupsbrekka
+Bjarglandsá
+Bjarnadalslækur
+Bjarnalækur
+Björnsá
+Bláfellsá
+Bláfjallakvísl
+Blandá
+Bleikálukvísl
+Blesá
+Blikdalsá
+Blöndukíll
+Blöndukvíslar
+Blýgslækur
+Bollar
+Bótarlækur
+Botná
+Botnadrag
+Botnalækur
+Branda
+Brandsgil
+Bratþálskvísl
+Breiðá
+Breiðavatnskvísl
+Breiðbalakvísl
+Brennikvísl
+Brennivínskvísl
+Bríkarkvísl
+Bríkarkvíslardrög
+Brimnesá
+Brynjudalsá
+Bugða
+Bæjará
+Bæjardalsá
+Bæjargróf
+Dagverðardalsá
+Dalá
+Dalaá
+Dalkotsá
+Dalkvísl
+Dauðsmannsgil
+Dauðsmannskvísl
+Deild
+Djúpagil
+Djúpagilsflói
+Djúpilækur
+Drangavíkurá
+Drangmelalækur
+Draugakvísl
+Dufansdalsá
+Dýralækir
+Efri-Þverkvísl
+Egilsá
+Einangursá
+Einbúasíki
+Eiríksfellsá
+Eldvatn
+Elliðaá
+Engilækur
+Engjadalsá
+Engjalækur
+Ennisá
+Eyfirðingakvísl
+Eyjafjarðará
+Eyjarfljót
+Eystri-Bugakvísl
+Eystri-Jökulsá
+Eystri-Koíá
+Eystri-Rangá
+Eyvafenskvísl
+Eyvindarfjarðará
+Eyvindarkvísl
+Fábeinsá
+Fagradalsá
+Fagurhólslækur
+Far
+Farvegur
+Fiskidalsá
+Fiskilækur
+Fiskivatn
+Fjallgarðsá
+Fjallsá
+Fjórðungakvísl
+Flekkudalsá
+Fljótaá
+Fljótsdalskvíslar
+Fljótsvegur
+Flóalækur
+Flókadalsá
+Flosagil
+Fnjóská
+Folakvísl
+Fossálar
+Fossgil
+Fosslækur
+Fossrófulækur
+Fremri Múlakvísl
+Fremri-Ásgarðsá
+Fremri-Hraunlækur
+Fremri-Hrísalækur
+Fremri-Hrútá
+Fremri-Loftsá
+Fremri-Rauðá
+Fremsta-Rjúkandi
+Friðmundará
+Fróðá
+Fuglabjargaá
+Fúlá
+Fúlakvísl
+Fýlingjakvísl
+Galtá
+Galtará
+Galtardalsá
+Gauksstaðaá
+Geírlandsá
+Geirsá
+Geitá
+Geitdalsá
+Geiþellnaá
+Geldingaá
+Geldingsá
+Gestreiðarstaðakvísl
+Gilá
+Gílsá
+Gilsbakkaá
+Glúmsstaðadalsá
+Grafarlandaá
+Grenlækur
+Grensdalsá
+Grjotá
+Grjótá-ytri
+Grjótakvísl
+Grófará
+Gróulækur
+Grundará
+Grýta
+Gufudalsá
+Gufuskálamóða
+Gæsagilsá
+Haffjarðará
+Hafnaá
+Hafragil
+Hafralónsá
+Háfslækur
+Hagá
+Hagaá
+Hagalækur
+Hálá
+Halldórsgil
+Halldórskvísl
+Hálsá
+Háreksstaðakvísl
+Haugsá
+Haukadalsá
+Hauksá
+Hávarðsdalsá
+Heimari-Lambá
+Heinabergsvötn
+Helgá
+Heljará
+Helliskvísl
+Helluá
+Hellukvísl
+Hemra
+Hengifossá
+Héraðsvötn
+Herjölfslækur
+Hestlækur
+Heyá
+Héðinsdalsá
+Hítará
+Hitulaugardrag
+Hjallaverskvísl
+Hjálmarsselslækur
+Hlíðará
+Hnefilsdalsá
+Hnefla
+Hneflumóðir
+Hnífá
+Hnjúkskvísl
+Hoffellsá
+Hólaá
+Hólkotsá
+Hólkotskvísl
+Hólmaá
+Hólmavatnsá
+Hólsselskíll
+Holtsá
+Hörgá
+Hörgsá
+Hörgshólsá
+Horná
+Hörtná
+Hörðudalsá
+Hrafnagil
+Hrafnkelsá
+Hrafundalsá
+Hraunkvísl
+Hraunkvíslar
+Hraunsá
+Hreysiskvísl
+Hrófá
+Hrútafjarðará
+Húkslækur
+Húsaá
+Húsárkvíslar
+Hvalsá
+Hvalskarðsá
+Hvammsdalsá
+Hvannavallakvísl
+Hvanneyrardalsá
+Hvanngil
+Hvannstaðakvísl
+Hvarfsdalsá
+Hvassá
+Hverfisfljót
+Hvirfilsdalsá
+Illagróf
+Illilækur
+Illugaverskvísl
+Innri Múlakvísl
+Innri-Ásgarðsá
+Innri-Heiðará
+Innri-Lambadalsá
+Innri-Thrándará
+Innri-Víná
+Isafjarðará
+Jóhannsgil
+Jóká
+Jökuldælingadrag
+Jökulgilskvísl
+Jökulsá á Dal
+Jökulsá á Fjöllum
+Jökulsá í Fljótsdal
+Jökulsá í Lóni
+Kaldaklofskvísl
+Kallá
+Kambagilsá
+Kambsá
+Kanagil
+Karlsá
+Katadalsá
+Kaðla
+Kerlingagíl
+Kerlingará
+Kerlingardalsá
+Kirkjuá
+Kisa
+Kistufjallalækur
+Kiðagilsdrög
+Kjálká
+Kjallaksstaðaá
+Kjalnatóakvísl
+Kjarrá
+Klakksversgil
+Klambraá
+Klaufaskurður
+Klifalækur
+Klifandi
+Klifshagavallakvísl
+Kluftá
+Klyfberadrag
+Koladalsá
+Kolbeinsá
+Kolbeinsdalsá
+Kolgrafagil
+Kolgrafardalsá
+Kolgríma
+Kollseyra
+Kolsá
+Korná
+Kornsá
+Korpúlfsstadhaá
+Kotá
+Kráká
+Kreppa
+Kringilsá
+Krókalækur
+Krubbnalækur
+Kúlukvísl
+Kúðafljót
+Kvíalækir
+Kvíslar
+Kytruá
+Lágadalsá
+Lagarfljót
+Lambadalsá
+Lambamannalækur
+Lambatungnaá
+Lambshagaá
+Landáll
+Landsá
+Landvatn
+Langá
+Langaáskvísl
+Langagil
+Langamúlakriki
+Langibakkalækur
+Langilækur
+Lará
+Laugakvísl
+Laugará
+Laxárdrög
+Leirdalsá
+Leirvogsá
+Leitisá
+Líká
+Lindaá
+Lindará
+Litla Þverá
+Litla-Grjótá
+Litla-Kverká
+Litla-Laxá
+Litlilækur
+Ljá
+Lón
+Lónakvísl
+Lónsá
+Loðnugil
+Lurká
+Lækir
+Læknisstaðaá
+Magagil
+Máná
+Markarfljót
+Mavavatn
+Melakvísl
+Melrakkadalsá
+Melsá
+Merkigil
+Merkjá
+Meyjará
+Mígandi
+Miklakvísl
+Miklilækur
+Miklumýralækur
+Mið-Bergvatnsá
+Miðdalsá
+Miðfellsgil
+Miðhlutará
+Miðjanesá
+Miðkvíslar
+Miðkvíslardrög
+Miðlandsá
+Miðmundaá
+Miðsandsá
+Miðvötn
+Mjaðmá
+Mjóavatnslækur
+Mjólká
+Mörá
+Mórillukvísl
+Mosakvísl
+Mosalækur
+Mosfellskvísl
+Múlakvísl
+Músaá
+Músará
+Mýrarkvísl
+Mælifellsá
+Námskvísl
+Naðurdalsá
+Nesá
+Neðri-Þverkvísl
+Nípá
+Nipurá
+Njarðvíkurá
+Nóngil
+Norðdalsá
+Norðfjarðará
+Norðlingafljót
+Norðlækur
+Norðurdalsá
+Núpá
+Núpsvötn
+Nýjadrag
+Nyrðri-Emstraá
+Oddnýjargil
+Ödhulbrúará
+Ögurá
+Ölduá
+Öldumóðukvísl
+Ormsá
+Örnólfsdalsá
+Öræfakvísl
+Ósá
+Ósdalsá
+Össurá
+Öxná
+Öxnadalsdrög
+Penná
+Pittá
+Pollalækur
+Rangá
+Rangalaá
+Rauðá
+Rauðabergsá
+Rauðilækur
+Refkelslækur
+Refsá
+Refsvina
+Reiðá
+Reykjadalsá
+Reykjafjarðarós
+Reykjakvísl
+Reykjará
+Rjóður
+Rjúpnabrekkukvísl
+Rugludalskvísl
+Sámsstaðaá
+Sandfellskvísl
+Sandgígjukvísl
+Sandgil
+Sandmúladalsá
+Sandvatn
+Saurbæjará
+Seldalsá
+Selfljót
+Seljá
+Seljaá
+Seljadalsá
+Sellandagróf
+Selmýri
+Selsá
+Selsundslækur
+Setbergsá
+Seyðisá
+Siglá
+Sigurðarfitjaráll
+Síká
+Skaftá
+Skálargil
+Skallá
+Skálm
+Skálmardalsá
+Skálpá
+Skeggjagil
+Skeiðará
+Skeljungsá
+Skillandsá
+Skiptá
+Skíðadalsá
+Skjaldbreiðarlækur
+Skjálfandafljót
+Skjóldalsá
+Skógá
+Skorá
+Skorravíkurá
+Skottá
+Skrauma
+Skuggafjallakvísl
+Skúlagil
+Skyndidalsá
+Slauka
+Smjörhólsá
+Sníkilsá
+Sniðbjargagil
+Snoppa
+Sog
+Sölvadalsá
+Sölvagil
+Stafá
+Stafdalsá
+Stangará
+Steiná
+Steinavötn
+Steinka
+Steinsgil
+Steinslækur
+Stekká
+Stjórn
+Stóra-Fura
+Stóra-Grjótá
+Stóra-Laxá
+Stóraá
+Stóradæld
+Stórakvísl
+Stórufláarlækur
+Stöðvará
+Strangilækur
+Straumfjarðará
+Strútsá
+Strútsgil
+Sultarranaá
+Súludalsá
+Sunna
+Sunnudalsá
+Suðarfljót
+Suðurá
+Suðurdalsá
+Svalbarðsá
+Svarfaðardalsá
+Svartakvísl
+Svartáskvísl
+Sveinsgil
+Svínafossá
+Svínalækur
+Syðradrag
+Syðri-Bótará
+Syðri-Emstraá
+Syðri-Króksá
+Syðri-Kvísl
+Syðri-Lambá
+Syðriófæra
+Sælingsdalsá
+Særingsdalskvísl
+Tálmi
+Tangalækur
+Tjarná
+Tjarnará
+Tjarnardrag
+Tóaá
+Tóará
+Torfakvísl
+Torfufellsá
+Trönuár
+Trússá
+Tungá
+Tungná
+Tungnalækur
+Tungufellsá
+Úlfá
+Ullarkvísl
+Unulækur
+Uppsalaá
+Útfall
+Valá
+Valshamarsá
+Vaská
+Vatnsá
+Vattardalsá
+Vaðkotsá
+Veitá
+Veitubakkalækur
+Veiðileysuá
+Vestaradrag
+Vestari-Koíá
+Vestasti-Kælir
+Vestasti-Lækur
+Vestdalsá
+Vestri-Bergvatnsá
+Vestri-Bugakvísl
+Vestri-Hvítá
+Vestri-Jökulsá
+Vesturdalslækur
+Vesturlækur
+Veturhúsaá
+Viðfjarðará
+Viðidalsá
+Víðidalsþverá
+Viðinesá
+Víðinesá
+Ytri-Heiðará
+Ytri-Hraunlækur
+Ytri-Hrútá
+Ytri-Hvíta
+Ytri-Kötluá
+Ytri-Lambadalsá
+Ytri-Rangá
+Ytri-Thrándará
+Ytri-Vatnsleysa
+Yxná
+Yzta-Rjúkandi
+Yztakvísl
+Þaralátursós
+Þegjandi
+Þjófagilsá
+Þjófakvísl
+Þjórsá
+Þjórsárkvíslar
+Þoerá
+Þófá
+Þórisá
+Þórisós
+Þorleifsá
+Þorleifslækur
+Þórólfsá
+Þorvaldsdalsá
+Þórðará
+Þrengsli
+Þríhyrningsá
+Þrilækir
+Þúfuverskvísl
+Þurrakvísl
+Þverárgil
+Þverárvatnakvísl
+Þverfellslækur
+Þverkvísl

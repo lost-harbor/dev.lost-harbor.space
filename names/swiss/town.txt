@@ -1,0 +1,4999 @@
+Zürich	74
+Dübendorf	57
+Meilen	35
+Feldmeilen	29
+Wülflingen	28
+Rüschlikon	27
+Weid	24
+Obermeilen	23
+Oetwil	23
+Birmensdorf	21
+Oberwinterthur	21
+Rüti	21
+Zumikon	21
+Seen	20
+Berg	19
+Greifensee	18
+Regensdorf	17
+Schlieren	17
+Adliswil	16
+Au	16
+Boden	16
+Egg	16
+Moos	15
+Uetikon	15
+Aesch	14
+Dietikon	14
+Kloten	14
+Neuhaus	14
+Büel	13
+Ried	13
+Sonnenberg	13
+Wolfhausen	13
+Buchs	12
+Embrach	12
+Hombrechtikon	12
+Otelfingen	12
+Sulz	12
+Bülach	11
+Burg	11
+Grund	11
+Hof	11
+Neuhus	11
+Oberdorf	11
+Schachen	11
+Schwändi	11
+Sellenbüren	11
+Urdorf	11
+Wald	11
+Wiler	11
+Brand	10
+Halden	10
+Kilchberg	10
+Männedorf	10
+Waldegg	10
+Zelg	10
+Dachsen	9
+Feld	9
+Geroldswil	9
+Hueb	9
+Kollbrunn	9
+Langnau	9
+Loch	9
+Niederglatt	9
+Niederweningen	9
+Richterswil	9
+Rickenbach	9
+Riet	9
+Säge	9
+Schwerzenbach	9
+Stadt Winterthur	9
+Wil	9
+Ziegelhütte	9
+Blatten	8
+Bubikon	8
+Ebmatingen	8
+Feldbach	8
+Glattbrugg	8
+Grüt	8
+Hegnau	8
+Oberwil	8
+Rütihof	8
+Schlatt	8
+Schwendi	8
+Töss	8
+Uhwiesen	8
+Uitikon	8
+Wädenswil	8
+Wiesendangen	8
+Affoltern	7
+Allenwinden	7
+Buch	7
+Bühl	7
+Eglisau	7
+Hinterberg	7
+Hofstetten	7
+Kreuzstrasse	7
+Küsnacht	7
+Marthalen	7
+Mönchaltorf	7
+Neuhof	7
+Niederwil	7
+Oberengstringen	7
+Obfelden	7
+Rain	7
+Schöfflisdorf	7
+Seuzach Dorf	7
+Uster	7
+Wettswil	7
+Wiesental	7
+Wilen	7
+Buck	6
+Ebnet	6
+Effretikon	6
+Erlen	6
+Hausen	6
+Höfli	6
+Horgen	6
+Hubel	6
+Letten	6
+Loo	6
+Matt	6
+Mattenbach	6
+Mettlen	6
+Neumatt	6
+Schönau	6
+Schwanden	6
+Sommerau	6
+Stalden	6
+Stein	6
+Steinmaur	6
+Tal	6
+Thalwil	6
+Thayngen	6
+Tobel	6
+Vogelsang	6
+Waldheim	6
+Wetzikon	6
+Widen	6
+Berghof	5
+Bern	5
+Breiten	5
+Bürglen	5
+Dänikon	5
+Erlenbach	5
+Freudenberg	5
+Gockhausen	5
+Halde	5
+Hard	5
+Haslen	5
+Hasli	5
+Hettlingen	5
+Horben	5
+Hüsli	5
+Langacker	5
+Lätten	5
+Lee	5
+Mittelberg	5
+Mühle	5
+Müli	5
+Neugut	5
+Nord	5
+Oberberg	5
+Oberegg	5
+Oberhof	5
+Oberried	5
+Oberrüti	5
+Ottikon	5
+Pfäffikon	5
+Rohr	5
+Ronco	5
+Rümlang	5
+Sack	5
+Schürli	5
+Schwand	5
+Seglingen	5
+Solothurn	5
+Stocken	5
+Strick	5
+Tann	5
+Wallisellen	5
+Zimikon	5
+Allmend	4
+Binz	4
+Bleiki	4
+Breite	4
+Buchen	4
+Buech	4
+Buechholz	4
+Dällikon	4
+Dörfli	4
+Eichhof	4
+Eichholz	4
+Engi	4
+Fahrweid	4
+Feldhof	4
+Fischbach	4
+Fontana	4
+Forst	4
+Geeren	4
+Geren	4
+Graben	4
+Hohenrain	4
+Homberg	4
+Hub	4
+Im Buck	4
+Kappel	4
+Les Granges	4
+Matten	4
+Maur	4
+Molino	4
+Neufeld	4
+Neuguet	4
+Oberfeld	4
+Oberglatt	4
+Oberhasli	4
+Oberhofen	4
+Obermatt	4
+Oberrieden	4
+Pianca	4
+Platten	4
+Rank	4
+Rietli	4
+Rifferswil	4
+Rosenberg	4
+Rossweid	4
+Schmitten	4
+Seefeld	4
+Sennhof	4
+Steig	4
+Steinen	4
+Stockere	4
+Sunnenberg	4
+Unterdorf	4
+Veltheim	4
+Volketswil	4
+Wangen	4
+Weidli	4
+Wyden	4
+Zil	4
+Aegerten	3
+Altikon	3
+Altstadt	3
+Bächli	3
+Beauregard	3
+Beinwil	3
+Bethlehem	3
+Bleiche	3
+Bodenacker	3
+Bol	3
+Breitfeld	3
+Brugg	3
+Büchel	3
+Buchholz	3
+Büren	3
+Burghof	3
+Cassina	3
+Chalchofen	3
+Chapf	3
+Chüeweid	3
+Cresta	3
+Dietlikon	3
+Dorf	3
+Eich	3
+Eichi	3
+Elgg	3
+Elsau-Räterschen	3
+Engelberg	3
+Ettenhausen	3
+Fälmis	3
+Feldmoos	3
+Felsengrund	3
+Forel	3
+Freihof	3
+Frohberg	3
+Furen	3
+Gadmen	3
+Gaggio	3
+Gerra	3
+Gibel	3
+Granges	3
+Grindel	3
+Gschwänd	3
+Gsteig	3
+Güetli	3
+Guggenbühl	3
+Hasenacher	3
+Hegi	3
+Heiligkreuz	3
+Hermikon	3
+Herti	3
+Hinteregg	3
+Hirschensprung	3
+Höchi	3
+Hofacher	3
+Hofen	3
+Holz	3
+Horn	3
+Hütten	3
+Hüttenberg	3
+Illnau	3
+Kaiserstuhl	3
+Kindhausen	3
+Kirchberg	3
+Lachen	3
+Langacher	3
+Laret	3
+Laubberg	3
+Le Moulin	3
+Leimbach	3
+Les Planches	3
+Letzi	3
+Lindenhof	3
+Lochmühle	3
+Marchstein	3
+Mauren	3
+Meienberg	3
+Monte	3
+Montet	3
+Monticello	3
+Mühlebach	3
+Müliberg	3
+Müsli	3
+Nänikon	3
+Nassenwil	3
+Neudorf	3
+Neuegg	3
+Neugrüt	3
+Neumühle	3
+Niederdorf	3
+Niederhasli	3
+Nussbaumen	3
+Oberholz	3
+Oberwyden	3
+Paradis	3
+Pünt	3
+Rieden	3
+Riederen	3
+Riedmatt	3
+Rikon	3
+Roncaccio	3
+Ronchetto	3
+Ruppen	3
+Rüteli	3
+Rütenen	3
+Sagen	3
+Salen	3
+Sandbüel	3
+Sankt Jakob	3
+Sankt Niklaus	3
+Schanz	3
+Scheuren	3
+Schwarzenbach	3
+Seehalde	3
+Seehof	3
+Selva	3
+Sihlbrugg	3
+Sonnenbühl	3
+Sonnental	3
+Sonnhalde	3
+Steinacker	3
+Steinbruch	3
+Steinweid	3
+Studen	3
+Summerau	3
+Tanne	3
+Töbeli	3
+Unterhaus	3
+Untermatten	3
+Unterwyden	3
+Villa	3
+Waldhaus	3
+Waldhof	3
+Walterswil	3
+Wasen	3
+Weiach	3
+Wetzwil	3
+Winkel	3
+Zell	3
+Äbnet	2
+Abtwil	2
+Acheri	2
+Acla	2
+Adlikon	2
+Aeugst	2
+Affeltrangen	2
+Ägerten	2
+Ahorn	2
+Al Sasso	2
+Allenberg	2
+Alpiglen	2
+Altdorf	2
+Altenburg	2
+Alterswil	2
+Althus	2
+Am Bach	2
+Andwil	2
+Arni	2
+Asp	2
+Aspen	2
+Aspi	2
+Auen	2
+Aumüli	2
+Ausserfeld	2
+Baar	2
+Bäch	2
+Bächelacher	2
+Bächi	2
+Bachtobel	2
+Bad	2
+Bahnhof	2
+Bangerten	2
+Bannholz	2
+Bebikon	2
+Bellerive	2
+Bellevue	2
+Benken	2
+Bergli	2
+Bergmatt	2
+Bertschikon	2
+Berzona	2
+Biel	2
+Billikon	2
+Birch	2
+Bleien	2
+Bode	2
+Bödeli	2
+Bodio	2
+Bodmen	2
+Boll	2
+Bolla	2
+Bösch	2
+Böschen	2
+Boschetto	2
+Bouleyres	2
+Brach	2
+Breitacher	2
+Breitacker	2
+Breitenmatt	2
+Bremgarten	2
+Brenden	2
+Brienz	2
+Brivio	2
+Brugglen	2
+Brügglen	2
+Brunegg	2
+Brunnadern	2
+Brunni	2
+Brütten	2
+Buechhof	2
+Buen	2
+Bürg	2
+Burgweid	2
+Busswil	2
+Bussy	2
+Bütschwil	2
+Ca Nova	2
+Camana	2
+Casaccia	2
+Caviano	2
+Centre	2
+Chailly	2
+Champagne	2
+Chandolin	2
+Chapelle	2
+Châtillon	2
+Cheseaux	2
+Chilchbüel	2
+Chloster	2
+Colombier	2
+Coppet	2
+Corcelles	2
+Corsier-sur-Vevey	2
+Corte	2
+Corte di Mezzo	2
+Corte Grande	2
+Costa	2
+Cottens	2
+Cressier	2
+Croce	2
+Cugy	2
+Dettighofen	2
+Dieterswil	2
+Diezikon	2
+Dompierre	2
+Dörflingen	2
+Dürrenbach	2
+Ebni	2
+Ecublens	2
+Egga	2
+Eggboden	2
+Eggrüti	2
+Ehrendingen	2
+Eichberg	2
+Eichmatt	2
+Eigenthal	2
+Engel	2
+Engelburg	2
+Entenmoos	2
+Ependes	2
+Eppenberg	2
+Erlenhof	2
+Eschenbach	2
+Eschlikon	2
+Ey	2
+Felsen	2
+Felsenau	2
+Felsenegg	2
+Ferch	2
+Fey	2
+Flue	2
+Flüelimatte	2
+Fluh	2
+Fontanella	2
+Forch	2
+Formighè	2
+Försterhaus	2
+Freidorf	2
+Freienstein	2
+Friedberg	2
+Friedheim	2
+Froda	2
+Frohe Aussicht	2
+Fuchsloch	2
+Furggels	2
+Furthof	2
+Galgenbuck	2
+Gemeindeweid	2
+Gerlisberg	2
+Ghei	2
+Gibisnüt	2
+Giebel	2
+Girenbad	2
+Girsberg	2
+Goldenberg	2
+Goldern	2
+Gossau	2
+Grand Clos	2
+Grenchen	2
+Gromo	2
+Grossacker	2
+Grosse Gîte	2
+Grossriet	2
+Grossweid	2
+Grosswis	2
+Gruben	2
+Grueben	2
+Gruebi	2
+Grundtal	2
+Gschwend	2
+Gstein	2
+Gunten	2
+Guntershausen	2
+Gutenswil	2
+Gütsch	2
+Haag	2
+Hagenbuch	2
+Hagenwil	2
+Hagnau	2
+Haldengut	2
+Halte	2
+Halten	2
+Hasel	2
+Hasle	2
+Haslibach	2
+Hasliberg	2
+Haueten	2
+Häusern	2
+Hauterive	2
+Heerenweg	2
+Hell	2
+Hergiswil	2
+Hermiswil	2
+Hertenstein	2
+Hinderwald	2
+Hinter-Albis	2
+Hinterbühl	2
+Hinterburg	2
+Hinterdorf	2
+Hinterhueb	2
+Hinterriedberg	2
+Hittnau	2
+Hochrüti	2
+Hochstrasse	2
+Hochwacht	2
+Holderbank	2
+Holzhäusern	2
+Holzhusen	2
+Hölzli	2
+Honegg	2
+Hore	2
+Horüti	2
+Hugen	2
+Humbel	2
+Hungerbühl	2
+Ibach	2
+Ifang	2
+Im Loo	2
+Industriestrasse	2
+Inwil	2
+Kaltbach	2
+Kapf	2
+Kappelen	2
+Käserstatt	2
+Kehlhof	2
+Kienberg	2
+Kirchdorf	2
+Kniebreche	2
+L'Abergement	2
+La Chaux	2
+La Combe	2
+La Coudre	2
+La Croix	2
+La Fontaine	2
+La Forclaz	2
+La Gisetta	2
+La Sagne	2
+La Tuilerie	2
+La Tuilière	2
+Laghetto	2
+Langendorf	2
+Langmatt	2
+Langwiesen	2
+Laufen	2
+Laupen	2
+Le Château	2
+Le Châtelard	2
+Le Pâquier	2
+Le Pont	2
+Leh	2
+Lehn	2
+Leihalden	2
+Lengnau	2
+Lerzen	2
+Les Etramaz	2
+Les Troncs	2
+Linde	2
+Linden	2
+Lindenmatt	2
+Lochguet	2
+Lochmüli	2
+Lohn	2
+Looren	2
+Loren	2
+Loreto	2
+Lully	2
+Luterbach	2
+Malans	2
+Maltbach	2
+Matte	2
+Mattenhof	2
+Meierhof	2
+Mesikon	2
+Mettli	2
+Mex	2
+Mézières	2
+Molinazzo	2
+Mollens	2
+Montborget	2
+Möösli	2
+Moosmatt	2
+Morgen	2
+Morglen	2
+Mösli	2
+Mühlau	2
+Mühlebühl	2
+Mühledorf	2
+Mülenen	2
+Münchwilen	2
+Mur	2
+Muraz	2
+Mürg	2
+Muri	2
+Nauen	2
+Naz	2
+Nennigkofen	2
+Neubrunn	2
+Neuburg	2
+Neuheim	2
+Neukirch	2
+Neuwies	2
+Neuwis	2
+Niederbach	2
+Niederbüren	2
+Noflen	2
+Noréaz	2
+Nübruch	2
+Ober Stafel	2
+Ober-Albis	2
+Oberbösch	2
+Oberei	2
+Oberriet	2
+Obertal	2
+Obertiefenbach	2
+Oberwald	2
+Oberwangen	2
+Obholz	2
+Oleyres	2
+Ollon	2
+Onnens	2
+Peney	2
+Pezza	2
+Pianascio	2
+Pianezzo	2
+Piano	2
+Piazzo	2
+Pizzet	2
+Platte	2
+Platz	2
+Pletsche	2
+Port	2
+Pra Novi	2
+Prato	2
+Radelfingen	2
+Rapperswil	2
+Rebacher	2
+Rebrain	2
+Reinach	2
+Rennweg	2
+Reute	2
+Rheinau	2
+Riedern	2
+Riedt	2
+Riethalde	2
+Rietmüli	2
+Rietwies	2
+Rietwis	2
+Rinderweid	2
+Rippertschwand	2
+Risi	2
+Ritti	2
+Roggwil	2
+Rohrbach	2
+Römerstrasse	2
+Römerswil	2
+Romont	2
+Ronchi	2
+Rossa	2
+Rossens	2
+Rossrüti	2
+Rotenbach	2
+Rotenstein	2
+Rovere	2
+Roveredo	2
+Rueyres	2
+Rümikon	2
+Runc	2
+Rutschberg	2
+S Carlo	2
+Sädel	2
+Saint-Sulpice	2
+San Carlo	2
+Sandrain	2
+Sankt Anna	2
+Sattel	2
+Saules	2
+Schaffhausen	2
+Schauenberg	2
+Scheidweg	2
+Schibler	2
+Schlatti	2
+Schleipfi	2
+Schleitheim	2
+Schlossbuck	2
+Schlössli	2
+Schönenboden	2
+Schönenbuch	2
+Schöni	2
+Schöntal	2
+Schoren	2
+Schüpfheim	2
+Schüren	2
+Schürmatt	2
+Schützenmatt	2
+Schwarzenberg	2
+Schwarzenegg	2
+Schwendibach	2
+Schwerzi	2
+Seeben	2
+Seeberg	2
+Seeblick	2
+Seedorf	2
+Seehalden	2
+Seeweid	2
+Somazzo	2
+Sonnenhalde	2
+Sonnenrain	2
+Speicher	2
+Spitz	2
+Staad	2
+Stadel	2
+Städeli	2
+Städtli	2
+Stafel	2
+Stäfeli	2
+Stampa	2
+Stampf	2
+Station	2
+Steg	2
+Stegacker	2
+Steinbach	2
+Steinegg	2
+Steinerberg	2
+Steinhaus	2
+Steinibach	2
+Sternen	2
+Stetten	2
+Stöck	2
+Stockacker	2
+Stollen	2
+Strada	2
+Sunnehalde	2
+Sunnehof	2
+Sunnmatt	2
+Talacker	2
+Tannen	2
+Tannenhof	2
+Tannwald	2
+Termine	2
+Thal	2
+Thalheim	2
+Thielle-Wavre	2
+Tobelmüli	2
+Trogen	2
+Tschingel	2
+Tüfi	2
+Uf der Matta	2
+Unterbach	2
+Unterberg	2
+Unterburg	2
+Untere Höfe	2
+Unterhürlisegg	2
+Unterrüti	2
+Unterschlatt	2
+Unterschwändi	2
+Untertiefenbach	2
+Ursprung	2
+Valbella	2
+Villars	2
+Villeneuve	2
+Villette	2
+Vira	2
+Vorder-Egg	2
+Vorderhasli	2
+Vorderwald	2
+Vorlängenbach	2
+Wahlen	2
+Walde	2
+Waldi	2
+Wallikon	2
+Wängi	2
+Wanne	2
+Wartensee	2
+Wasserwendi	2
+Wattenwil	2
+Weiningen	2
+Weissenstein	2
+Widacher	2
+Widenriet	2
+Wiesengrund	2
+Wiggen	2
+Wilchingen	2
+Windegg	2
+Winikon	2
+Wisental	2
+Wissenbach	2
+Wittenbach	2
+Wittwil	2
+Wohlen	2
+Wolfikon	2
+Zälg	2
+Zelgli	2
+Zimmerberg	2
+Zollhaus	2
+Zuzwil	2
+Aadorf
+Aadorferfeld
+Aahalden
+Aarain
+Aarau
+Aarberg
+Aarburg
+Aarüti
+Aarwangen
+Aatal
+Aazopf
+Aberen
+Abischthof
+Äbmete
+Achere
+Acquarossa
+Adelberg
+Adelboden
+Adetswil
+Adlemsried
+Adletshausen
+Adligenswil
+Adlihubel
+Aeberliswald
+Aecherli
+Aeckenmatt
+Aedermannsdorf
+Aegert
+Aegertenwis
+Aegetswil
+Aelggi Alp
+Aemet
+Aemperg
+Aeschacker
+Aeschi b Spiez
+Aeschiried
+Aespen
+Aespli
+Affoltern am Albis
+Agarn
+Agasul
+Agno
+Agra
+Aigle
+Aire-la-Ville
+Airolo
+Albarina
+Alberswil
+Albeuve
+Albinen
+Albishorn
+Albligen
+Alchenstorf
+Allaman
+Alle
+Allenwil
+Allerheiligenberg
+Allmen
+Allschwil
+Alp Mulix
+Alp Schmorras
+Alpe di Crastera
+Alpe di Naccio
+Alpe Ritóm
+Älpli
+Alpnach
+Alpthal
+Alt-Bachs
+Alt-Rheinau
+Altburg
+Alte Frauenfelderstrasse
+Alten
+Altendorf
+Altenrhein
+Alter Hirschen
+Alteranger
+Alterau
+Alterschwil
+Altes Sekundarschulhaus
+Althörnli
+Altighofen
+Altishofen
+Altlandenberg
+Altnau
+Altschwändi
+Altstätten
+Altweid
+Altwi
+Altwiesenstrasse
+Alvaneu
+Alvaschein
+Alznach
+am Katzensee
+Am Lus
+Am Rain
+Amden
+Amenloch
+Ämet
+Ammerzwil
+Amriswil
+Amslen
+Amsoldingen
+Amtacker
+An der Strass
+Andeer
+Andelfingen
+Andermatt
+Andhausen
+Andiast
+Angelrain
+Anières
+Ankenland
+Antei
+Anzonico
+Appenzell
+Appisberg
+Apples
+Aproz
+Aquilesco
+Arbaz
+Arboldswil
+Arbon
+Arch
+Arconciel
+Ardez
+Ardon
+Aretshalden
+Aris
+Arisdorf
+Aristau
+Arlesheim
+Armenhaus
+Arn
+Arogno
+Arosa
+Arth
+Arvigo
+Arzier
+Arzo
+Ascharina
+Äschauboden
+Aschbach
+Ascona
+Asp-Mettlen
+Aspli
+Assens
+Astano
+Asuel
+Attalens
+Attikon
+Attinghausen
+Attiswil
+Aubonne
+Auee
+Auf dem Bühl
+Auf der Büechlen
+Augst
+Äugstebruch
+Augwil
+Aumont
+Aurigeno
+Auslikon
+Ausserbinn
+Ausserbühl
+Äussere Rietwies
+Ausserferrera
+Aussergrat
+Ausserwellberg
+Ausserwiler
+Autigny
+Auvernier
+Auw
+Auwis
+Avegno
+Avenches
+Avry-sur-Matran
+Avully
+Axalp
+Ayent
+Ayer
+Azzano
+Baaregg
+Baareggstrasse
+Bächelsrüti
+Bachenbülach
+Bächenmoos
+Bachgaden
+Bachlen
+Bächlen
+Bachtobelstrasse
+Bad Ragaz
+Bad Weissenburg
+Bad Zurzach
+Baden
+Badstock
+Bagnes
+Baholz
+Bains da Guad
+Balchenstal
+Baldenwil
+Baldern
+Balen
+Balerna
+Balgach
+Ballaigues
+Ballens
+Ballmoos
+Ballwil
+Balm bei Guensberg
+Balm bei Messen
+Balmberg
+Balmwies
+Balsthal
+Baltenschwil
+Baltenswil
+Baltsberg
+Baltschieder
+Baltshausen
+Balzenbüel
+Banacher
+Banco
+Bänk
+Bänklen
+Bannwil
+Bäpur
+Bär
+Barbengo
+Barberêche
+Barberine
+Barca
+Barenberg
+Bärenbohl
+Bäretswil
+Bargen
+Bargen BE
+Bäriswil
+Bärschwil
+Barz
+Bas-Vully
+Basadingen
+Basel
+Basi
+Basse-Nendaz
+Bassecourt
+Bassersdorf
+Batänja
+Bätpur
+Battenhaus
+Bätterkinden
+Bauegg
+Bauen
+Bauertacher
+Baulmes
+Bauma
+Bäumler
+Baumschuel
+Bavois
+Beatenberg
+Beckenried
+Bedretto
+Beggingen
+Begnins
+Behmer
+Beichlen
+Beierschen
+Beizi
+Belalp
+Belfaux
+Bellelay
+Bellen
+Bellinzona
+Bellmund
+Bellwald
+Belmont-sur-Lausanne
+Belp
+Benglen
+Benklen
+Bercher
+Berg Madetswil
+Berg Waltenstein
+Bergermoos
+Bergheim
+Berghus
+Bergloch
+Bergstrasse
+Bergün
+Berikon
+Beringen
+Berken
+Berlens
+Berlikon
+Berlincourt
+Bernex
+Bernhardzell
+Berninahäuser
+Beromünster
+Besso
+Betschwanden
+Betten
+Bettingen
+Bettlach
+Bettswil
+Betzental
+Betzholz
+Beundenfeld
+Bevaix
+Bever
+Bévilard
+Bewangen
+Bex
+Bezibüel
+Beznau
+Biasca
+Biberist
+Bichler
+Bickigen
+Bidogno
+Biel-Mett
+Bière
+Bietenholz
+Biezwil
+Bigenthal
+Biglen
+Bignasco
+Billens
+Bilten
+Binningen
+Binzberg
+Binzhalden
+Binzholz
+Binziger
+Binzikon
+Bioggio
+Bioux Dessus
+Bipraz
+Birchi
+Birchwil
+Birmenstal
+Birmenstorf
+Bironico
+Birr
+Birrhard
+Birrwil
+Birsfelden
+Bisikon
+Biswind
+Bitsch
+Bitziberg
+Bivio
+Blächen
+Bläsihof
+Bläsimühle
+Blattenbach
+Blattflue
+Blätzwisen
+Blauen
+Blécherette
+Blees
+Bleichenberg
+Bliggenswil
+Blitterswil
+Blitzger
+Blitzingen
+Blonay
+Bluche
+Blumenberg
+Blumenstein
+Blumetshalde
+Blüomatt
+Bocken
+Bodacher
+Bodenacher
+Bodenmüli
+Boécourt
+Boffalora
+Bogen
+Bogenhaus
+Boggsmatten
+Bogis-Bossey
+Bogno
+Bohl
+Bôle
+Bollacher
+Bollenrüti
+Bollerrain
+Bölletal
+Bolligen
+Bollion
+Bolteracher
+Boltigen
+Bonacher
+Bonaduz
+Boncourt
+Böndler
+Bonfol
+Bönigen
+Boniswil
+Bönler
+Bonnefontaine
+Bonstetten
+Bonvillars
+Boppelsen
+Borei
+Borex
+Borgnone
+Bösarni
+Böscior
+Bosco Gurin
+Bösingen
+Bossikon
+Bossonnens
+Bottens
+Bottenwil
+Bottighofen
+Bottmingen
+Bouchet-Moillebeau
+Boudevilliers
+Boudry
+Bourg-Saint-Pierre
+Bowil
+Bözen
+Bramberg
+Brämenhalden
+Brämhof
+Brandlen
+Brandrain
+Bratsch
+Braunwald
+Breccio
+Breíl
+Breitenbach
+Breitenebnet
+Breitenerli
+Breitenlandenberg
+Breitenloo
+Breiti
+Breitlen
+Breitwang
+Brenggau
+Brenles
+Breno
+Brenzikofen
+Brestenegg
+Bretonnières
+Bretzwil
+Brienzwiler
+Brig
+Brione
+Brislach
+Brissago
+Brittnau
+Broc
+Broglio
+Brölberg
+Bronschhofen
+Brontallo
+Brot Dessus
+Brot-Dessous
+Brot-Plamboz
+Bruderholz
+Bruederberg
+Brüederhof
+Bruederhus
+Brügg
+Bruggacher
+Bruggäcker
+Brugge
+Brügglisacker
+Brüglen
+Brumad
+Brunau
+Brünggen
+Bruni
+Brunisberg
+Brünisried
+Brunnenacher
+Brunnenthal
+Brunnenwis
+Brünnli
+Bruppach
+Bruppacher
+Brüsch
+Brüschägerten
+Brüschweid
+Brusino Arsizio
+Brusio
+Brüsis
+Brüttelen
+Brütter
+Brüttisellen
+Bubendorf
+Bubenei
+Bubenwies
+Buchackern
+Buchberg
+Buchegg
+Buchenloo
+Buchgasse
+Buchhof
+Buchholterberg
+Buchillon
+Buchrain
+Buchstock
+Buchweid
+Bückler-Dörnler
+Buckten
+Buechenegg
+Buechlen
+Buechli
+Buechmes
+Büelen
+Büelhalden
+Büelhof
+Büelhüsli
+Büelm
+Büelreben
+Büetigen
+Bühler
+Bühlhof
+Buix
+Bulle
+Bullet
+Bumbach
+Bundi
+Bunt
+Bunzenhalden
+Buochs
+Bürchen
+Büren an der Aare
+Büren ob dem Bach
+Büren zum Hof
+Burenbühl
+Burgdorf
+Bürgelacker
+Burgfeld
+Burgistein
+Burgli
+Bürgli
+Burgmatt
+Bürgweidli
+Büron
+Bursinel
+Bursins
+Burstel
+Burtigny
+Busenharder
+Buseno
+Busio
+Bussenthal
+Büsserach
+Bussigny
+Bussy-sur-Moudon
+Büttenen
+Büttenhardt
+Buttes
+Buttisholz
+Buttwil
+Bützen
+Buus
+Cadempino
+Cadenazzo
+Cadro
+Cagiallo
+Cala
+Calpiogna
+Cama
+Camischolas
+Camorino
+Campaccio
+Campello
+Camperio
+Campestro
+Campfer
+Campo
+Campo Blenio
+Campocologno
+Campora
+Campsut
+Caneggio
+Canobbio
+Canton
+Cantonetto
+Capolago
+Car
+Carasso
+Carnée
+Carona
+Carouge
+Cartigny
+Casa delle Fontane
+Casenzano
+Casima
+Caslano
+Cassinello
+Castasegna
+Castel San Pietro
+Castels
+Castiel
+Cauco
+Caux
+Cavagnino
+Cavergno
+Cazis
+Celerina
+Céligny
+Centre-Ville
+Cerentino
+Cerneux-Godat
+Cerniat
+Cernier
+Certara
+Cevio
+Chabrey
+Chäfer
+Chailly-Rovéréaz
+Chalais
+Chalbisau
+Chalchegg
+Chalet Curial
+Chalet du Villars
+Cham
+Chamblon
+Chambrelien
+Chämmeten
+Chamoson
+Champéry
+Champoussin
+Champvent
+Chancy
+Chanels
+Chapelle-sur-Moudon
+Chardonne
+Charmey
+Charmoille
+Charrat
+Chäs u Brot
+Chasa Lemnius
+Chäsern
+Chäsrain
+Chastlatsch
+Château de Bonmont
+Château-d'Oex
+Châtel-Saint-Denis
+Chatzentobel
+Chaumont-de-Pury
+Chavannes
+Chavannes-des-Bois
+Chavannes-le-Chêne
+Chavannettes
+Chavornay
+Cheer
+Chefi
+Chelen
+Chelin
+Chellersacher
+Chemin
+Chêne-Bougeries
+Chêne-Bourg
+Chêne-Pâquier
+Chénens
+Chermignon-d'en Haut
+Chernex
+Cherschiben
+Chevenez
+Chevrens
+Chevroux
+Chexbres
+Cheyres
+Chez le Brigadier
+Chez le Christ
+Chez les Currat
+Chez Petit
+Chiasso
+Chiggiogna
+Chilacher
+Chilchli
+Chilchriet
+Chilisbäum
+Chilstig
+Chimenhof
+Chindismüli
+Chippis
+Chirchbüel
+Chironico
+Chis
+Chisbüel
+Chisti
+Chlei Egg
+Chlihölzli
+Chlital
+Chloosstrasse
+Chlus
+Chneuwis
+Chnolli
+Cholgrueb
+Cholwis
+Chopfholz
+Chöpfli
+Chotten
+Choulex
+Chriegmatten
+Chriesbach
+Chriesbaumweid
+Chrinnen
+Chronerain
+Chrummacker
+Chrummwis
+Chrützli
+Chrüzegg
+Chrüzstein
+Chüng
+Chur
+Churwalden
+Churzen-Teilen
+Chutzenmoos
+Cierfs
+Cierna Novalla-Dessus
+Ciernedon d'Amont
+Cimadera
+Ciossa Maddalena
+Cité-Centre
+Civasca
+Clarmont
+Claro
+Clèbes
+Clugin
+Coeuve
+Coinsins
+Col des Roches
+Colla
+Collombey
+Cologna
+Comano
+Combremont-le-Petit
+Comologno
+Compesières
+Conches
+Concise
+Confignon
+Conthey
+Contone
+Contra
+Corbeyrier
+Corcelettes
+Corcelles-le-Jorat
+Cordast
+Corgémont
+Corippo
+Cormanicc
+Corminboeuf
+Cornaux
+Cornol
+Corsier
+Cortaillod
+Cortébert
+Corticiasca
+Cortivallo
+Corzoneso
+Cossonay
+Courfaivre
+Courgenay
+Courgevaux
+Courlevon
+Courrendlin
+Courroux
+Court
+Courtedoux
+Courtelary
+Courtemaîche
+Courtételle
+Courtion
+Couvet
+Cozzera
+Cragno
+Crampa
+Crans-Montana
+Crassier
+Crebelley
+Crémines
+Cresciano
+Crêt d'Illens
+Crissier
+Croset du Buron
+Crotta
+Cuarny
+Cudrefin
+Cugnasco
+Cully
+Cunter
+Cureggia
+Curtoni
+Dabletton
+Dachlissen
+Dachsegg
+Dachsleren
+Dachslern
+Dägerlen
+Dagmersellen
+Daillens
+Dalin
+Dallenwil
+Dalpe
+Damphreux
+Damvant
+Dändlikon
+Dandrio
+Dangio-Torre
+Dardagny
+Därligen
+Daro
+Därstetten
+Dättlikon
+Dättwil
+Dätwil
+Davos
+Davos Wiesen
+Degen
+Degersheim
+Deitingen
+Delémont
+Delley
+Denens
+Densbüren
+Derendingen
+Desibach
+Dettenberg
+Dettenried
+Dickbuch
+Dickihof
+Dieboldsbachlinden
+Diegten
+Dielsdorf
+Diemtigen
+Diepoldsau
+Diesbach
+Diessbach
+Diesse
+Dietenhausen
+Dietlisberg
+Dietwil
+Dillhaus
+Dinhard
+Disentis
+Ditikerhof
+Dizy
+Domat
+Dombresson
+Domdidier
+Donatyre
+Dongio
+Donneloye
+Doppleschwand
+Dorénaz
+Dorf Aesch
+Dorf Hünikon
+Dorf Riet
+Dorfhalden
+Dorlaui
+Dorligen
+Dornach
+Dornhaus
+Dottikon
+Dreilinden
+Dreischübel
+Drisgler
+Dritte Altmatt
+Drône
+Dübelstein
+Düdingen
+Dunaspi
+Dunkelbach
+Dürenmoos
+Dürnten
+Dürrenäsch
+Dürrenroth
+Dürsenen
+Dürstelen
+Dütschenmühle
+Ebersberg
+Ebersecken
+Ebertswil
+Ebikon
+Ebnat-Kappel
+Echallens
+Echtlen
+Echtlenweg
+Ecuvillens
+Edikon
+Edlischwil
+Effingen
+Egelshofen
+Egerkingen
+Egetswil
+Eggbüel
+Eggenberg
+Eggerberg
+Eggersriet
+Egghof
+Eggholz
+Eggiwil
+Egglen
+Eggli
+Eggmattli
+Eggschwändi
+Eggsteig
+Egli
+Egliswil
+Egnach
+Ehrenhau
+Ehretstock
+Ehrikon
+Eichbüel
+Eichelackerstrasse
+Eicheracker
+Eichhöchi
+Eichmühle
+Eichmüli
+Eichwiesen
+Eichwis
+Eierhals
+Eigental
+Eigi
+Eiken
+Einsiedeln
+Eischoll
+Eisten
+Elba
+Elektrohof
+Ellenwis
+Ellikon
+Ellikon am Rhein
+Elm
+Elvezia
+Embd
+Emdwies
+Emmen
+Emmendingen
+Emmerig
+Emmetschloo
+Emmetten
+En Gillette
+Endingen
+Engelbirg
+Engelswilen
+Engelwisstrasse
+Engstligenalp
+Ennenda
+Ennerlenzen
+Ennetbürgen
+Enney
+Entenschiess
+Entlebuch
+Epalinges
+Eptingen
+Erholungshaus
+Eriswil
+Eriz
+Erlach
+Erlenbach im Simmental
+Erli
+Erlinsbach
+Ermatingen
+Ermisriet
+Ernen
+Erni
+Erniweg
+Erschmatt
+Erschwil
+Ersigen
+Erstfeld
+Erziehungsanstalt
+Eschenmosen
+Eschenz
+Eschi
+Eschikofen
+Eschikon
+Eschlen
+Escholzmatt
+Eschtürli
+Essertines-sur-Rolle
+Esslingen
+Esslinger
+Estavannens-Dessus
+Estavayer-le-Gibloux
+Estavayer-le-Lac
+Esterli
+Etstel
+Ettenbohl
+Ettingen
+Ettiswil
+Etzgen
+Etzikon
+Euggelberg
+Evilard
+Evionnaz
+Evolène
+Eysins
+Fabrikstrasse
+Fahr
+Fahrenhof
+Fahrni
+Fahy
+Faichrüti
+Faido
+Fajauna
+Fäldemer Trotte
+Faldum Alp
+Falera
+Fällanden
+Fallenboden
+Fallmen
+Faltigberg
+Fanas
+Fangen
+Fänn
+Fänser
+Faoug
+Farbüel
+Farden
+Farmhütte
+Farnern
+Farni
+Farvagny-le-Grand
+Farzel
+Fäsilalpu
+Fehraltorf
+Fehrenbach
+Fehrenwaltsberg
+Feissi
+Feisterbach
+Felderen
+Felderhof
+Feldi
+Feldis
+Feldstrasse
+Felsbach
+Felsberg
+Felsenhof
+Felsenkeller
+Fendringen
+Ferchacher
+Ferden
+Ferenbalm
+Fernegg
+Ferren
+Ferreyres
+Feschel
+Festig
+Feuerschwand
+Feuerthalen
+Feusisberg
+Feutersoey
+Feydey
+Fidaz
+Fideris
+Fiesch
+Fiez
+Filisur
+Fillistorf
+Filzbach
+Finhaut
+Finnu
+Finsterseehalden
+First
+Fischenrüti
+Fischenthal
+Fischerhüsli
+Fischingen
+Fislisbach
+Fistel
+Flaach
+Flamatt
+Flanthey
+Fläsch
+Flawil
+Flecken
+Flendruz
+Flerden
+Fleurier
+Fleuweidli
+Flims
+Flond
+Flos
+Fluehütte
+Flüelen
+Flühli
+Flums
+Flumserberg Bergheim
+Flurheim
+Flurlingen
+Fly
+Folenmoos
+Folenweid
+Fontainemelon
+Fontanezier
+Fontenais
+Forbüel
+Forenhof
+Forhalden
+Fornasella
+Forrenberg
+Forsthaus Sihlwald
+Fosen
+Fotgs
+Founex
+Fräkmünd
+Franzrüti
+Fräschels
+Frasco
+Fraubrunnen
+Fraubüechli
+Frauenfeld
+Frauenkappelen
+Frauwis
+Freibergen
+Freienbach
+Frenières
+Frenkendorf
+Freudwil
+Fribourg
+Frick
+Friedliweid
+Frieswil
+Friltschen
+Frinvillier
+Froberg
+Frohbühl
+Frohmatt
+Frohwies
+Froideville
+Fromoos
+Fröschgüllen
+Frunt
+Frutigen
+Ftan
+Fuchsbühl
+Fuchshof
+Fuchsrüti
+Fulau
+Fuldera
+Fulenbach
+Füllinsdorf
+Fully
+Fürenalp
+Furli
+Furmatt
+Furna
+Furrershus
+Fürstenau
+Furtmühle
+Fusio
+Fuyens
+Gächlingen
+Gachnang
+Gadenstätt
+Gafien
+Gähwil
+Gais
+Gaisbühl
+Galge
+Gallenkirch
+Gallusbach
+Galmiz
+Gals
+Gamlikon
+Gammen
+Gammetswil
+Gampel
+Gampelen
+Gams
+Gandria
+Gane
+Gänsbrunnen
+Ganterschwil
+Garstlig
+Garten
+Gartenacker
+Garwied
+Gass
+Gassaura
+Gatter
+Gattikon
+Gebenstorf
+Geerenstöck
+Geeristeg
+Gehrensteg
+Geissberg
+Geisser
+Geissmatt
+Geissstig
+Gelfingen
+Gelterkinden
+Geltwil
+Gempen
+Gempenach
+Genestrerio
+Geneva
+Gennersbrunn
+Genolier
+Gentenwies
+Ger
+Gerbi
+Gerensteg
+Geretswil
+Gerlafingen
+Gerlisalp
+Germil
+Gersau
+Gerster
+Gerstera
+Gersthalm
+Gerzensee
+Geschinen
+Gessenrüti
+Gettana
+Gettnau
+Geuensee
+Gfell
+Ghangetwies
+Gheiba
+Gheist
+Ghiera
+Ghirone
+Ghöch
+Ghogg
+Ghöngg
+Gibisnüd
+Gibswil
+Giesental
+Giessen
+Giffers
+Gilly
+Gimel
+Gingins
+Giornico
+Gipf-Oberfrick
+Girriet
+Girstelweid
+Giselstuden
+Gisenhard
+Gisihegi
+Giswil
+Giubiasco
+Giumaglio
+Givisiez
+Givrins
+Gland
+Glärnischstrasse
+Glarus
+Glaspass
+Glattenried
+Glattfelden
+Gletterens
+Glis
+Glovelier
+Gmeindrüti
+Gmeinenwisen
+Gnosca
+Goldach
+Goldau
+Goldbuck
+Goldingen
+Goldrain
+Gollion
+Gommiswald
+Gondiswil
+Gonten
+Gontenschwil
+Goppisberg
+Gordevio
+Gordola
+Gorduno
+Gorgier
+Göschenen
+Gossens
+Gossliwil
+Gosswil
+Götighofen
+Götschenhäusli
+Götschihof
+Gottefrey
+Gotthardli
+Gottlieben
+Gottschalkenberg
+Gottshalden
+Gottstatterhaus
+Goumoens-la-Ville
+Grabenacker
+Grabs
+Grabserberg
+Grächen
+Grafschaft
+Grafstal
+Graltshausen
+Grancy
+Grand Saint Bernard
+Grand-Savagnier
+Grandcour
+Grande Ecosalla
+Grandevent
+Grandfontaine
+Grandson
+Grandval
+Grandvillard
+Grange Grèche Dessous
+Gränichen
+Gräslikon
+Grattavache
+Grauswiggern
+Gravesano
+Greinsberg
+Grellingen
+Grenchenberg
+Grengiols
+Greppen
+Grihalde
+Grimentz
+Grimisuat
+Grindelmatten
+Grindelwald
+Grindlen
+Grischhei
+Groins dessus
+Grolley
+Grön
+Grône
+Grono
+Gros Essert
+Gros Truyo
+Grossacher
+Grossaffoltern
+Grosse Orgevalette
+Grossegg
+Grossenstein
+Grosses Preises
+Grossholz
+Grossmatt
+Grossrain
+Grosssee
+Grosswangen
+Grossweiher
+Grüenberg
+Grüenfeld
+Grüenmatt
+Grundbuck-Gässli
+Grüningen
+Grünwald
+Grüsch
+Grütrain
+Gruyères
+Gryon
+Gschättli
+Gschwendboden
+Gstaad
+Gstell
+Guarda
+Gubel
+Guetli
+Guévaux
+Gugen
+Güggel
+Gugger
+Guggisberg
+Guldenberg
+Guldenenstrasse
+Güllenacker
+Gümmenen
+Gumpelmad
+Gundeldingen
+Gundetswil
+Gündisau
+Gündlikon
+Guntalingen
+Güntisberg
+Guntmadingen
+Gunzgen
+Gunzwil
+Gurnigelbad
+Gurtnellen
+Gusch
+Gütighausen
+Guttannen
+Güttingen
+Gwandlen
+Gygermatte
+Habermark
+Habersaat
+Habkern
+Habsburg
+Hadlikerrain
+Hadlikon
+Häfelfingen
+Hafnerberg
+Hagenacher
+Hagenbuechen
+Hägendorf
+Hagenstal
+Haggenbergstrasse
+Häggenschwil
+Hägglingen
+Hagneck
+Hakab
+Halbinsel Au
+Haldenmattli
+Haldenstein
+Hallau
+Haller
+Hallwil
+Haltbergholz
+Haltenacher
+Hambühlknubel
+Hämikon
+Hämmigächer
+Hanfgarten
+Hanfländer
+Hängelen
+Hängerten
+Hänkirain
+Hännen
+Hanselen
+Hänsler
+Hardhof
+Harenberg-Guggeere-im Berg
+Harenwilen
+Hargarten
+Harlachen
+Hartmis
+Harüti
+Haselhalden
+Hasenburg
+Hasennest
+Hasenreute
+Hasenstrickrain
+Hasental
+Hasenwart
+Haslaub
+Haslenzopf
+Hasliberg-Reuti
+Haslihalde
+Hätzenwil
+Hätzingen
+Hauebüel
+Hauptikon
+Hausen am Albis
+Hauteville
+Häutligen
+Hedingen
+Heerenrainli
+Heferen
+Heggen
+Hegimoos
+Heiden
+Heidenegg
+Heidenried
+Heidertal
+Heidihof
+Heiget
+Heiletsegg
+Heiligbrunnen
+Heiligenschwendi
+Heimberg
+Heimenegg
+Heimenstein
+Heimgarten
+Heimiswil
+Heispel
+Heitenried
+Heitermatt
+Heiterswil
+Heitiwil
+Heitmannsegg
+Heligsbüel
+Hellberg
+Hellen
+Hellikon
+Hemberg
+Hemishofen
+Hemmental
+Hemmiken
+Henau
+Hendschiken
+Hengarten
+Henggart
+Herbetswil
+Herbrächt
+Herdern
+Hérémence
+Herferswil
+Herisau
+Hermance
+Hermatswil
+Hermen
+Hermenches
+Herrendingen
+Herrenwis
+Herrgass
+Herrliberg
+Herrlisberg
+Herschmettlen
+Hersiwil
+Herznach
+Herzogenbuchsee
+Herzogenmühle
+Herzwil
+Hessigkofen
+Hettenschwil
+Heuberg
+Heuel
+Heurain
+Heurüti
+Heusberg
+Hildisrieden
+Hilterfingen
+Hiltisberg
+Himendal
+Himmelried
+Hindelbank
+Hindere Fildrich
+Hinderholz
+Hinderschlatt
+Hinter de Birche
+Hinter Erli
+Hinter Glashütten
+Hinter Mugern
+Hinter Sennenberg
+Hinter Stadtberg
+Hinter-Aatal
+Hinter-Auli
+Hinter-Dienstbach
+Hinter-Egg
+Hinter-Fuchsrüti
+Hinter-Goldacher
+Hinter-Grüt
+Hinter-Klausen
+Hinter-Langmoos
+Hinter-Lüwis
+Hinter-Marchlen
+Hinter-Mistlibühl
+Hinter-Rüti
+Hinter-Schönau
+Hinter-Strahlegg
+Hinter-Tiefenbach
+Hinter-Triemen
+Hinteracker
+Hinterbleichi
+Hinterblenggen
+Hintere Buchenegg
+Hintere Egg
+Hintere Rietwies
+Hintere Rossweid
+Hintere Stollen
+Hintere Wannwis
+Hintereichen
+Hinterenzi
+Hinterer Pfannenstiel
+Hinterer Püntacher
+Hinteres Chloster
+Hinterfluh
+Hinterhomburg
+Hinterhorben
+Hinterhörnli
+Hinterkappelen
+Hinterlanzenmoos
+Hinternord
+Hinterrhein
+Hinterruberbaum
+Hintersage
+Hinterspichten
+Hintertobel
+Hinteruttenberg
+Hinterwis
+Hinwil
+Hinzenberg
+Hirschlen
+Hirschthal
+Hirsmühle
+Hirzel
+Hirzrain
+Hirzwangen
+Hischwil
+Hittenberg
+Hitzkirch
+Hochdorf
+Hochfelden
+Hochgass
+Höchstock
+Hochstrass
+Hochwald
+Höckler
+Hodleten
+Hofacker
+Hofhalden
+Hofschür
+Höggli
+Hohbühl
+Hohenbühl
+Hohenegg
+Höhle
+Hohlgass
+Hohlinde
+Hohrüti
+Hohtenn
+Holenstein
+Holgass
+Hölstein
+Holzacker
+Holzhostatt
+Holzschlag
+Holzweid
+Homburg
+Hömel
+Hondrich
+Horboden
+Höri
+Hörnen
+Hornmatt
+Hornussen
+Horriwil
+Horw
+Hospental
+Hostette
+Hostig
+Hottental
+Hotwiel
+Hotzler
+Houen
+Houpere
+Hubacher
+Hubacker
+Hübscheren
+Huebacher
+Huebhansen
+Hüebli
+Huebwis
+Hüfern
+Huggenberg
+Hügsam
+Hüllistein
+Humlikon
+Hund
+Hundsrüggen
+Hundwil
+Hünenberg
+Hunert
+Hungerbüel
+Hüniken
+Hüntwangen
+Hunzenschwil
+Hüpfere
+Hürn
+Husacher
+Husbüel
+Hüsel
+Huser
+Husertal
+Hüslen
+Hüslihof
+Hüsliweber
+Hüssenbüel
+Hüttenwiesenstrasse
+Hüttikerberg
+Hüttikon
+Hüttlingen
+Huttwil
+Hüttwilen
+Igis
+Ilanz
+Illgau
+Illighausen
+Illingen
+Im Aabe
+Im Anderbach
+Im Badweg
+Im Boden
+Im Büel
+Im Chopfholz
+Im Eichli
+Im Fischer
+Im Gässli
+Im Gibel
+Im Guet
+Im Hard
+im Hintergraben
+Im Jakobstal
+Im Juch
+Im Langhag
+Im Lätten
+Im mittleren Ämet
+Im Mittlesten Wandel
+Im Örli
+Im Riet
+Im Schindlerbühl
+Im Stab
+Im Stieg
+Im usseren Ämet
+Indemini
+Inden
+Industrie
+Ingenbohl
+Inhalte
+Inner-Langenriet
+Inner-Vollikon
+Innerferrera
+Innergritzenmoos
+Innerthal
+Ins
+Interlaken
+Intragna
+Iragna
+Irchelblick
+Irchelstrasse
+Isebuck
+Iselisbärg
+Iseltwald
+Isenberg
+Isenthal
+Iseo
+Iserables
+Isikon
+Ismatt
+Isone
+Itingen
+Ittenthal
+Ittigen
+Itzikon
+Jakobsbrunnen
+Jakobstal
+Jaquetta Dessous
+Jaun
+Jaunpass
+Jegenstorf
+Jeizinen
+Jenaz
+Jenins
+Jerisberghof
+Jeuss
+Jfang
+Johannestal
+Jolimont
+Jona
+Jonatal
+Jonen
+Jongny
+Jonschwil
+Josenhof
+Joux-Derrières-d'Avau
+Joux-du-Pâquier
+Juchen
+Juckeren
+Juf
+Jungholz
+Juriens
+Jussy
+Käfern
+Kaiseraugst
+Kaisten
+Kalchgraben
+Kalchstätten
+Kalchtern
+Kallnach
+Kaltbrunn
+Kaltenstein
+Kalthäusern
+Kämmaten
+Kammern
+Kämmoos
+Kandergrund
+Kandersteg
+Kappelerhöhe
+Kartause Ittingen
+Käshalden
+Kastelhof
+Kätsch
+Katzenholz
+Katzenrüti
+Kefikon
+Kehrsatz
+Kehrsiten
+Kellenmatt
+Kellerhöfli
+Kemleten
+Kemmeribodenbad
+Kempttal
+Kernburg
+Kernenried
+Kerns
+Kerzers
+Kesswil
+Kies
+Kiesen
+Killwangen
+Kinderheim Paradis
+Kippel
+Kirch-Dinhard
+Kirchlindach
+Kirchrain
+Kirchuster
+Kirchweg
+Kittenmühle
+Kleiment
+Kleinandelfingen
+Kleinbäretswil
+Kleindietwil
+Kleineggmatten
+Kleinhaus
+Kleinikon
+Kleinlützel
+Kleinschultenberg
+Klingenhof
+Klingenzell
+Klingnau
+Klosters Serneus
+Kluszelg
+Klybeck
+Knäus
+Knebel
+Knonau
+Knup
+Knutwil
+Kobelwald
+Koblenz
+Kohlboden
+Kohlerhüsli
+Kohlgrub
+Kohlhütten
+Kohltobel
+Kohlwies
+Kölliken
+Köniz
+Konolfingen
+Konolfingen Dorf
+Koppigen
+Krähstel
+Krattigen
+Krauchthal
+Kräzeren
+Kreuzbühl
+Kreuzlingen
+Kreuzplatz
+Kriechenwil
+Kriegersmühle
+Kriegstetten
+Kriens
+Kriesbühl
+Krillberg
+Krinau
+Krinnensberg
+Krummenau
+Küblis
+Küchliberg
+Kugelshofen
+Kühwald
+Külpen
+Kümmertshausen
+Künten
+Kunzentännlein
+Kurzenfluh
+Küssnacht
+Küttigen
+Küttigkofen
+Kyburg
+L'Egrètse Dessus
+L'Hépetauda Dessus
+L'Orient
+La Balmaz
+La Blanche
+La Blondine
+La Bourlianda
+La Braye
+La Brévine
+La Châtagne
+La Chaux-de-Fonds
+La Chaux-des-Breuleux
+La Cierne
+La Conversion
+La Côte-aux-Fées
+La Crettaz
+La Cuva
+La Gîte-à-Meyer
+La Grassa
+La Heutte
+La Large Journée
+La Louchyre
+La Motte
+La Muraz
+La Neuveville
+La Petite-Oubèca
+La Planche
+La Praz
+La Roche
+La Rochelle
+La Russille
+La Sarraz
+La Tanne
+La Tour-de-Peilz
+La Tour-de-Trême
+La Tsintre
+La Vaux
+La Vigne
+La Vraconnaz
+Laax
+Laconnex
+Ladholz
+Ladir
+Lain
+Lajoux
+Lalden
+Lamboing
+Lampenberg
+Lancy
+Land
+Landbühl
+Landetspiel
+Landgricht
+Landikon
+Landiswil
+Landolt
+Landquart
+Landsacker
+Landschlacht
+Langächer
+Langäri
+Langbreiten
+Langdorf
+Längeberg
+Langenbruck
+Langenmoos
+Langenriet
+Längenschachen
+Langenthal
+Längerenrüti
+Langfuhr
+Langfurri
+Langgraben
+Langjoch
+Langnau am Albis
+Langrain
+Langrickenbach
+Langrüti
+Langwies
+Läseten
+Lassen
+Lattenberg
+Lättenhof
+Lätzenachere
+Laubacker
+Läubberg
+Laubenfelsen
+Laubere
+Laubi
+Laubisrüti
+Laubisser
+Lauenen-Hofstetten-Ried
+Lauerz
+Lauf
+Läufelfingen
+Laufenbach
+Laufenburg
+Laufenriet
+Lauffohr
+Laupersdorf
+Lauperswil
+Laupetswil
+Laura
+Laus
+Lausanne
+Lausen
+Lauterbrunnen
+Laveree
+Lavertezzo
+Lavey
+Lavin
+Lavorgo
+Lax
+Le Bouveret
+Le Brassus
+Le Bry
+Le Cerneux-Péquignot
+Le Cernil
+Le Chêne
+Le Chenit
+Le Cottard Dessus
+Le Crêt-près-Semsales
+Le Grand-Saconnex
+Le Landeron
+Le Laquier
+Le Liençon
+Le Locle
+Le Mont-sur-Lausanne
+Le Moulinet
+Le Noirmont
+Le Peuchapatte
+Le Rosez
+Le Sentier
+Le Tivoli
+Le Tribulliet
+Le Vaud
+Le Vuarno
+Léchelles
+Leebern
+Leematt
+Leerüti
+Lehmgrube
+Leibstadt
+Leihalde
+Leisibüel
+Leisihalden
+Leissigen
+Lelin
+Lembro
+Lendikon
+Lenggenwil
+Lenk
+Lens
+Lenz
+Lenzburg
+Lenzen
+Lenzerheide
+Lerchenfeld
+Lerchenhof
+Les Acacias
+Les Avanchets
+Les Bayards
+Les Bioux
+Les Bois
+Les Brenets
+Les Breuleux
+Les Cartiers
+Les Chapalettes
+Les Chênes
+Les Clos
+Les Crottes
+Les Cufattes
+Les Esserts d'Amont
+Les Fossalets
+Les Geneveys-sur-Coffrane
+Les Genevez
+Les Gottes
+Les Gruyères
+Les Hauts-Geneveys
+Les Houelets
+Les Invuettes Dessus
+Les Mayens-de-Sion
+Les Paccottes
+Les Pâquis
+Les Pommerats
+Les Ponts-de-Martel
+Les Râpes Dessous
+Les Sairains
+Les Tailles
+Les Thioleyres
+Les Tuileries
+Les Vérines
+Les Vernes
+Les Verrières
+Lesirain
+Lessoc
+Lettenberg
+Lettenmoos
+Leuggelbach
+Leuk
+Leukerbad
+Leutobel
+Leutschenbach
+Leutwil
+Leuzigen
+Leysin
+Leytron
+Li Curt
+Lichtensteig
+Liddes
+Liebburg
+Liebenfels
+Liebensberg
+Liebistorf
+Lieburg
+Lieffrens
+Liegermatt
+Lieli
+Lienz
+Liesberg
+Liesberg Dorf
+Liestal
+Ligerz
+Lignières
+Ligornetto
+Limberg
+Lindau
+Lindenberg
+Lindenbüel
+Lindental
+Lindhof
+Lindist
+Linggenberg
+Linthal
+Lipperschwendi
+Lippoldswilen
+Lirenagel
+Lirenhof
+Lisighaus
+Littau
+Litzirüti
+Litzistorf
+Lleitstrasse
+Loasa
+Löberen
+Locarno
+Lochäcker
+Lochen
+Löchern
+Lochfeld
+Lochhof
+Lochrüti
+Lochwis
+Lodano
+Lodrino
+Löffler
+Lohalp
+Lohmühle
+Löhningen
+Lömmenschwil
+Lommis
+Longirod
+Loobuck
+Loon
+Lopagno
+Losone
+Lostallo
+Lostorf
+Lottigna
+Lotzwil
+Loye
+Lü
+Lucens
+Luchsingen
+Luckhausen
+Lüderenalp
+Ludetswil
+Ludi
+Ludiano
+Lueget
+Lüeholz
+Luera
+Lufingen
+Luft
+Lugano
+Luggenbüel
+Lully VD
+Lumbrein
+Lumino
+Lungern
+Lunnerfeld
+Lurtigen
+Lurweid
+Lussy
+Lustmühle
+Luthern
+Lutikon
+Lütisburg
+Lutry
+Lütschental
+Lüttenberg
+Lützelflüh
+Lützelsee
+Luven
+Luzein
+Luzern
+Lyss
+Lyssach
+Maas
+Madetswil
+Mädikon
+Madiswil
+Madlikon
+Magadino
+Magden
+Maggia
+Magglingen
+Maglio di Colla
+Mahren
+Maienbüel
+Maienfeld
+Maienrain
+Main de Fer
+Maisprach
+Maiwinkel
+Maladers
+Malix
+Malleray
+Malters
+Malvaglia
+Mammern
+Mandou
+Mannenmühle
+Mannenrain
+Männetsriet
+Männlichen
+Manzenhub
+Maracon
+Marin-Epagnier
+Marly
+Marmorera
+Martherenges
+Märwil
+Marzili
+Maschwanden
+Mase
+Masein
+Massagno
+Mastrils
+Mathon
+Matterboden
+Mattsand
+Mattschür
+Mattstetten
+Matzendorf
+Matzenried
+Matzingen
+Mauborget
+Mauensee
+Maurenmoos
+Mauvoisin
+Medeglia
+Medels im Rheinwald
+Medikon
+Meggen
+Meien
+Meierskappel
+Meinier
+Meinisberg
+Meiringen
+Meisberg
+Meisterschwanden
+Melano
+Melchnau
+Melchsee-Frutt
+Melchtal
+Melera
+Melide
+Mellingen
+Mels
+Mendrisio
+Mengestorf
+Menzengrüt
+Menziken
+Menzingen
+Menznau
+Merenschwand
+Mergoscia
+Meride
+Merishausen
+Merlischachen
+Mervelier
+Mesocco
+Messen
+Métairie de Diesse
+Mettmenhasli
+Mettmenriet
+Mettmenstetten
+Meyriez
+Meyrin
+Mézery
+Miécourt
+Miège
+Miglieglia
+Milken
+Minusio
+Miten
+Mitsal
+Mittel-Albis
+Mittel-Gamlikon
+Mittelalbis
+Mittelfarnere
+Mittelfluhacher
+Mittelgiebel
+Mittelhapbach
+Mittelried
+Mittelschneit
+Mittelsonderi
+Mittler-Egg
+Mittler-Rüti
+Mittler-Sädel
+Mittler-Schwanden
+Mittler-Weberrüti
+Mittler-Wolfbühl
+Mittlere Langwies
+Mittlere Rietwies
+Mittlerhueb
+Mockenwis
+Mogelsberg
+Moghegno
+Möhlin
+Mohnshaus
+Möhren
+Moille au Blanc
+Moille du Perey
+Molas
+Moleno
+Mollettes
+Mollis
+Mon
+Monnaz
+Mont-la-Ville
+Montagibert
+Montagne-de-Courtelary
+Montagnola
+Montagny
+Montana
+Montbovon
+Montbrillant
+Montcherand
+Monte Brè
+Monte Carasso
+Monte Ceneri
+Monte Cesura
+Monte Cristo
+Montézillon
+Montfaucon
+Montfavergier
+Mönthal
+Montheron
+Monthey
+Monti delle Sorti
+Monti di Lanés
+Montignez
+Montitt
+Montpreveyres
+Montreux
+Montricher
+Moorhau-Fürhoger
+Moorschwand
+Moosacher
+Moosäcker
+Moosbrunnen
+Moosegg
+Moosgaden
+Moosholz
+Morbio Inferiore
+Morbio Superiore
+Morcles
+Morcote
+Mörel
+Morens
+Morgensunn
+Morges
+Morgins
+Mörigen
+Morissen
+Möriswil
+Morlens
+Morrens
+Morschach
+Mörschwil
+Mosli
+Mosnang
+Mosogno
+Môtier
+Môtiers
+Mottli
+Moudon
+Moulin de la Palaz
+Moutier
+Movelier
+Mugena
+Muggio
+Muhen
+Mühlacher
+Mühlberg
+Mühleberg
+Mühlehalde
+Mühlehorn
+Mühlestalden
+Mühlethurnen
+Mühliwis
+Mulegns
+Mulflen
+Mülibächli
+Mulins
+Mülirain
+Mülireben
+Müliweid
+Müliwisen
+Müllheim
+Mülrüti
+Mumenthal
+Mümliswil
+Mummelgschwänd
+Mumpé Tujetsch
+Mumpf
+Münchenbuchsee
+Münchenstein
+Münchweid
+Mund
+Muniwis
+Münsingen
+Münsterlingen
+Muntschect Dafora
+Muntschect Davains
+Müntschemier
+Muolen
+Muotathal
+Muralto
+Murgenthal
+Muriaux
+Muricce
+Murifeld
+Murist
+Mürren
+Murs Blancs d'Amont
+Murten
+Müsegg
+Müssen
+Müstair
+Mutten
+Muttenz
+Mutzgraben
+Mützlenberg
+Mutzmalen
+Muzzano
+Näf
+Näfels
+Näfenhäuser
+Nägeli
+Nägelihus
+Nahren
+Nante
+Näsplen
+Nasswis
+Naters
+Nax
+Nebelwinkel-Erachfeld
+Nebetsaglen
+Nebikon
+Necker
+Neerach
+Neftenbach
+Negrentino
+Neirivue
+Némiaz
+Nendum
+Neschwil
+Nessenthal
+Netstal
+Neu-Bachs
+Neu-Brünggen
+Neu-Rheinau
+Neu-York
+Neuacher
+Neuacker
+Neubad
+Neubrunnen
+Neuchâtel
+Neuen
+Neuengaden
+Neuenhof
+Neuenkirch
+Neuenschwand
+Neufuhr
+Neugrund
+Neugütli
+Neuhaus bei Wändhüslen
+Neuhausen
+Neuhusrain
+Neui Hütte
+Neumühle-Kempttal
+Neunkirch
+Neuschwändi
+Neutal
+Neuthal
+Neuweid
+Neuwingert
+Neuwisen
+Neyruz-sur-Moudon
+Nidau
+Nideltobel
+Niderau
+Niderdürstelen
+Niderhus
+Nidermartel
+Niderrüti
+Nidertal
+Nidfurn
+Nieder-Höri
+Nieder-Orn
+Nieder-Schongau
+Niederbipp
+Niederbuchsiten
+Niederesslingen
+Niedergampel
+Niedergesteln
+Niedergösgen
+Niederhelfenschwil
+Niederhofen
+Niederholz
+Niederlenz
+Niederönz
+Niederrohrdorf
+Niedersaum
+Niederscherli
+Niederurnen
+Niederwald
+Niederwil AG
+Niggenberg
+Nods
+Noës
+Nohl
+Noiraigue
+Nonfoux
+Nööchsthorn
+Nottwil
+Novaggio
+Novalles
+Novazzano
+Nüegg
+Nufenen
+Nüholz
+Nunningen
+Nürensdorf
+Nussbäumen
+Nussberg
+Nussbergstrasse
+Nyon
+Ob dem Hof
+Ob der Müli
+Ober Alp
+Ober Halden
+Ober Haltberg
+Ober Hueb
+Ober Meiefall
+Ober Oerischwand
+Ober Rain
+Ober Rotschuo
+Ober Rüti
+Ober-Aathal
+Ober-Allenberg
+Ober-Augwil
+Ober-Balm
+Ober-Bernegg
+Ober-Bertschikon
+Ober-Buch
+Ober-Chrüzlen
+Ober-Edikon
+Ober-Emmetschloo
+Ober-Erlosen
+Ober-Fägswil
+Ober-Feld
+Ober-Frobüel
+Ober-Gisenrüti
+Ober-Himmeri
+Ober-Höri
+Ober-Hüttenacher
+Ober-Kempttal
+Ober-Langenhard
+Ober-Laupen
+Ober-Mettmenstetten
+Ober-Moos
+Ober-Morgen
+Ober-Neugut
+Ober-Oedischwänd
+Ober-Ohringen
+Ober-Orn
+Ober-Ottikon
+Ober-Raad
+Ober-Rengg
+Ober-Rick
+Ober-Rotenblatt
+Ober-Schirmensee
+Ober-Schluchtal
+Ober-Schürli
+Ober-Schwanden
+Ober-Spitzwies
+Ober-Sulzberg
+Ober-Teufen
+Ober-Wagenburg
+Ober-Wolfensberg
+Oberäbnit
+Oberalp
+Oberaurüti
+Oberbalm
+Oberbazenheid
+Oberberghof
+Oberbipp
+Oberbisig
+Oberbrunn
+Oberbuchsiten
+Oberbüel
+Oberbühl
+Oberburg
+Oberbütschel
+Oberchappelbode
+Oberdiessbach
+Oberdürnten
+Obere Alp
+Obere Birch
+Obere Bühlen
+Obere Hanegg
+Obere Hengerten
+Obere Hinterrüti
+Obere Höfe
+Obere Langfurri
+Obere Laubegg
+Obere Looren
+Obere Luegeten
+Obere Rutzen
+Obere Steigen
+Obere Tanne
+Oberembrach
+Oberems
+Oberentfelden
+Oberer Brand
+Oberes Dürenmoos
+Oberfuchsloch
+Obergfell
+Obergösgen
+Obergrabacher
+Obergreut
+Obergrüt
+Oberhabegg
+Oberhallau
+Oberhaltberg
+Oberhaselholz
+Oberhausen-Böschenwiesen
+Oberhauserriet
+Oberhelfenschwil
+Oberherten
+Oberhittnau
+Oberhofen bei Etzgen
+Oberhofstetten
+Oberi Chaseren
+Oberi Chelen
+Oberi Halte
+Oberi Hinterflue
+Oberiberg
+Oberkempten
+Oberkirch
+Oberknubelhütte
+Oberlunkhofen
+Obermoos
+Obermühle
+Oberolternen
+Oberönz
+Oberramsern
+Oberreinsberg
+Oberrickenbach
+Oberrohr
+Oberrohrdorf
+Oberror
+Oberrüttenen
+Obers Rellerli
+Obersaxen
+Obersaxen Friggahüs
+Oberschan
+Oberschaubigen
+Oberschlatt
+Oberschneit
+Oberschrot
+Oberschwändi
+Obersiggenthal
+Oberstammheim
+Oberstocken
+Obertribschwande
+Obertschappina
+Oberurnen
+Oberuzwil
+Oberwaldegg
+Oberweningen
+Oberwies
+Obstalden
+Obstgarten
+Ochlenberg
+Ochsenchneu
+Ocourt
+Oedenhof
+Oensingen
+Oerlingen
+Ofen
+Oftringen
+Ogens
+Oh
+Ohmstal
+Ohrenberg
+Ohrüti
+Olten
+Onex
+Opfikon
+Oppens
+Oppikon
+Orbe
+Orflen
+Origlio
+Ormalingen
+Ornberg
+Oron-la-Ville
+Orpund
+Orsières
+Orthalden
+Orvin
+Osco
+Osogna
+Ossingen
+Öte
+Otelfinger-Str
+Othmarsingen
+Ottenbach
+Ottenberg
+Ottenhausen
+Ottenhub
+Ottenleuenbad
+Oulens-sous-Echallens
+Owachs
+Pächterriet
+Pailly
+Palagnedra
+Palézieux
+Palmisacker
+Pampigny
+Pappelweg
+Paradies
+Pardè
+Parpan
+Paspels
+Passugg
+Paudex
+Paudo
+Payerne
+Peccia
+Peist
+Pelzhalten
+Peney-le-Jorat
+Pensier
+Penthalaz
+Perrefitte
+Perreux
+Perroy
+Pertise
+Péry
+Peseux
+Pestalozzi-Stiftung
+Petit Brunchenal
+Petite Ecosalla
+Petite Frasse
+Petits Craux
+Petits Fornis
+Petrolzo
+Peyres-Possens
+Pfaffenberg
+Pfaffenholz
+Pfaffenried
+Pfaffenwis
+Pfaffhausen
+Pfaffnau
+Pfeffikon
+Pfeffingen
+Pfei
+Pfruendweid
+Pfungen
+Pfyn
+Piano di Peccia
+Piatto
+Piazzogna
+Piazzora
+Pièce aux Reymond
+Pieterlen
+Pignieu
+Pilgerhof
+Pilgersteg
+Pimpisnino
+Pitasch
+Plaffeien
+Plainpalais
+Plan
+Plan-les-Ouates
+Plasselb
+Pleigne
+Pobbia
+Podestatsch Hus
+Ponte Brolla
+Ponthaux
+Ponto Valentino
+Pontresina
+Porano
+Porrentruy
+Porsel
+Portalban
+Portein
+Pöschen
+Poschiavo
+Poutes Paluds Dessus
+Pozzone
+Pra Jouli
+Pra Lé Avau
+Pra Linlia
+Praden
+Prampel
+Prangins
+Prarion
+Praroman
+Prato Carasso
+Pratteln
+Pravidondaz
+Praz
+Predoso
+Pregassona
+Pregny
+Presgè
+Presinge
+Préverenges
+Prez-vers-Siviriez
+Prilly
+Produit
+Propstberg
+Provence
+Prugiasco
+Puidoux
+Pully
+Pulvisei
+Punt Ota
+Pünten
+Püntenrain
+Puplinge
+Pura
+Pürt
+Quarten
+Raad
+Raat
+Rächenbühl
+Radhof
+Rafz
+Ragnatsch
+Rainbuck
+Raineten
+Ralli
+Rällikon
+Ramello
+Ramersberg
+Rämismühle
+Ramosch
+Ramsberg
+Ramsel
+Ramseli
+Ramsen
+Rancate
+Rances
+Ranch du Bois d'Archan
+Randa
+Randogne
+Ranghusen
+Rans
+Ranscea
+Raperswilen
+Rappenholz
+Raron
+Ratzenberg
+Räuchler
+Ravensbühl
+Reben
+Rebhölzli
+Rebschacker
+Rebstein
+Rebwies
+Rechberg
+Rechthalten
+Reckenwil
+Reconvilier
+Redlikon
+Rees
+Regensberg
+Rehbüel-Hegetsberg
+Rehetobel
+Reichenburg
+Reiden
+Reiferswil
+Reigoldswil
+Reipen
+Reisiswil
+Reitbach
+Reitenbach
+Reitnau
+Rekingen
+Rellsten
+Remaufens
+Renens
+Rengerswil
+Rennaz
+Reppischhof
+Resgia
+Resirain
+Reutigen
+Rhäzüns
+Rheineck
+Rheinfelden
+Rheinsberghof
+Rheinsfelden
+Rhyner
+Riau Graubon
+Riaz
+Richenthal
+Rickenbach bei Wil
+Rickenbach LU
+Riddes
+Riederalp
+Riedholz
+Riedhostet
+Riedikon
+Riedthof
+Riegenenlöchli
+Riehen
+Riein
+Riemenstalden
+Rietacher
+Rietgrabenhang
+Riethof
+Riethüsli
+Rietrain
+Rietrüti
+Rifacher
+Rigacher
+Riggisberg
+Righetto
+Rigi
+Rinderbrunnen
+Ringgenberg
+Ringoldingen
+Ringwil
+Riset
+Ristall
+Ristet
+Rittbrunnen
+Ritterhaus
+Rittweg
+Ritz
+Riva San Vitale
+Riviera
+Robank
+Robänkli
+Robasacco
+Roche
+Roches
+Rodels
+Rodersdorf
+Rodosex Dessus
+Rohräcker
+Rohrmoos
+Rolle
+Romainmôtier
+Romanel-sur-Lausanne
+Romanshorn
+Römerhof
+Romiti
+Romoos
+Ronco sopra Ascona
+Rondchâtel
+Rongellen
+Root
+Ropraz
+Rorbas
+Roren
+Rorschach
+Röschenz
+Rosenau
+Rosengarten
+Rosenhügel
+Rosental
+Rösli
+Rossau
+Rossemaison
+Rossenges
+Rossi
+Rossinière
+Rossmättli
+Rossura
+Roswies
+Roswisli
+Rotbach-Rossweid
+Rotblatt
+Rötel
+Rotenblatt
+Rotenbrunnen
+Rotenfluh
+Rotenmattli
+Rothaus
+Röthenbach Herzogenbuchsee
+Rothenbrunnen
+Rothenburg Station
+Rothenthurm
+Rotholz
+Rothrist
+Rothus
+Rotkreuz
+Rotmatt
+Rotwasser
+Rotzibuch
+Rougemont
+Rovio
+Rovray
+Rubigen
+Ruchriet
+Ruchwies
+Rüderswil
+Rüdlingen
+Rudnal
+Rudolfingen
+Rudolfstetten
+Rüdtligen
+Rue
+Rüebgarten
+Rüebisberg
+Rüedi
+Rüeggental
+Rüeggisberg
+Rüeggshausen
+Rüegsau
+Ruere
+Rüeterswil
+Rüetswil
+Rueun
+Ruis
+Rumendingen
+Rumisberg
+Rümligen
+Rumlikon
+Rumpis
+Rumstal
+Rundi
+Rundihalde
+Rünenberg
+Runggels
+Rünkhofen
+Rüplisried
+Rupperswil
+Rüschegg
+Ruschein
+Russikon
+Russin
+Rüssinger
+Rüstenschwil
+Ruswil
+Rüteren
+Rüthi
+Rüti bei Riggisberg
+Rütibühl
+Rütisberg
+Rütiwis
+Rutschwil
+Ruvigliana
+Ryfen
+Saanen
+Saanenmöser
+Saas im Prättigau
+Saas-Balen
+Saas-Fee
+Saas-Grund
+Sachseln
+Safenwil
+Sägel
+Sagenacher
+Säget
+Sägissen
+Sagliaz
+Saicourt
+Saignelégier
+Saillon
+Saint-Aubin-Sauges
+Saint-Blaise
+Saint-Brais
+Saint-Cergue
+Saint-Gingolph
+Saint-Imier
+Saint-Jean
+Saint-Joseph
+Saint-Léonard
+Saint-Livres
+Saint-Luc
+Saint-Maurice
+Saint-Prex
+Saint-Ursanne
+Sainte-Croix
+Salacher
+Saland
+Sälen
+Sâles
+Säleten
+Salgesch
+Salhof
+Salins
+Salmsach
+Salux
+Salvan
+Samedan
+Samnaun
+Samstagern
+San Gottardo
+San Nazzaro
+San Vittore
+Sand
+Sandacher
+Sandächer
+Sandegg
+Sandgrueb
+Sänggelen
+Sanitas
+Sankt Antoni
+Sankt Antönien
+Sankt Fiden
+Sankt Gallen
+Sankt Gallenkappel
+Sankt Margrethen
+Sankt Meinrad
+Sankt Peter
+Sankt Peterzell
+Sankt Stephan
+Sant'Antonio
+Santa Margherita
+Sargans
+Sarmenstorf
+Sarn
+Sarnen
+Sarreyer
+Sassel
+Satigny
+Saubraz
+Saulcy
+Savièse
+Savigny
+Savognin
+Savosa
+Saxeten
+Saxon
+Saxonne
+Scaiano
+Scanfs
+Schachenweid
+Schafisheim
+Schaftelen
+Schalchen
+Schalkhusen
+Schalmenbuck
+Schangnau
+Schänis
+Scharans
+Schärenacker
+Schärler
+Schärligbad
+Schattdorf
+Schauben
+Schaubhus
+Schaubigen
+Schaugen
+Scheid
+Scheidbach
+Scheier
+Scheller
+Schelten
+Schenkon
+Scheunberg
+Schiers
+Schifflände
+Schiffli
+Schigg
+Schiltli
+Schindellegi
+Schindlet
+Schintenächer
+Schinzbrünneli
+Schinznach Bad
+Schinznach Dorf
+Schirmensee
+Schischen
+Schlatter
+Schlattihof
+Schleetalbach
+Schleinikon
+Schleufenberg
+Schleuis
+Schlieri
+Schlitten
+Schloss Elgg
+Schloss Teufen
+Schloss Watt
+Schlossacher
+Schlossberg
+Schlossbreiti
+Schlossrued
+Schluppidura
+Schmalzgrueb
+Schmärschür
+Schmerikon
+Schmidigen-Mühleweg
+Schmidrüti
+Schmittenbach
+Schmitteneich
+Schnasberg
+Schneit
+Schneitberg
+Schniderbuck
+Schnottwil
+Schöftland
+Schollenberg
+Schömlet
+Schonau
+Schöneck
+Schönegg
+Schönenbaumgarten
+Schönenberg
+Schönengrund
+Schönenhof
+Schönenwerd
+Schöngut
+Schönholzerswilen
+Schönmoos
+Schönrain
+Schöpli
+Schottikon
+Schötz
+Schrickmatten
+Schruffeneggweid
+Schübelbach
+Schüelis
+Schüenweid
+Schufelberg
+Schulhaus Altlandenberg
+Schulhaus Erlosen
+Schulhaus Limberg
+Schulhaus Tägerst
+Schulhaus Unterbach
+Schüpfen
+Schuppis
+Schür
+Schüracher
+Schüracher Waltenstein
+Schürhof
+Schürliacher
+Schurtannen
+Schürweid
+Schürwies
+Schützenhof
+Schützerhuus
+Schüürli
+Schwaderloch
+Schwandelbach
+Schwanden im Emmental
+Schwander Unterwengen
+Schwändli
+Schwarz
+Schwarzengrund
+Schwarzenmatt
+Schwarzmatt
+Schwarzweid
+Schweikhof
+Schweizerhalle
+Schwellbrunn
+Schwizerland
+Schwobshof
+Schwösterrain
+Schwyz
+Scirona
+Sciss di Dentro
+Scudellate
+Scuol
+Sécheron
+Sédeilles
+Seeb
+Seeberig
+Seebli LWS
+Seeburg
+Seegrabe
+Seegräben
+Seehubel
+Seeli
+Seelisberg
+Seelmatten
+Seemerrüti
+Seengen
+Seerüti
+Seewadel
+Seewis
+Seewis im Prätigau
+Seftigen
+Segel
+Segorida
+Seiler
+Selma
+Selti
+Seltisberg
+Selzach
+Sembrancher
+Sementina
+Sempach
+Semsales
+Senarclens
+Sengi
+Sennhof-Oberhub
+Sennhus
+Sennschür
+Sennwald
+Sennweid
+Sent
+Seon
+Servion
+Sessa
+Seuzach
+Sevelen
+Sibleten
+Siebnen
+Siecheweid
+Sierre
+Sigiloch
+Sigirino
+Siglistorf
+Sigmatt
+Signau
+Sigriswil
+Sihlau
+Sihlboden
+Sihlhalde
+Sihlmatt
+Sihlwald
+Silberberg
+Silenen
+Silisegg
+Silmatt
+Sils im Domleschg
+Sils-Segl Maria
+Silvaplana
+Simismoos
+Sinneringen
+Sins
+Sirnach
+Siselen
+Sisikon
+Sissach
+Sisseln
+Sitten
+Sitzberg
+Sitzbühl
+Siviriez
+Soazza
+Sobrio
+Soglio
+Sogn Gagl
+Solgen
+Somarcello
+Someo
+Sommeri
+Somprai
+Sonderi
+Sonnau
+Sonnenblick
+Sonnenhof
+Sonogno
+Sonterswil
+Sonvico
+Sool
+Soral
+Sorengo
+Sorens
+Sornetan
+Sottens
+Soubey
+Sousberg
+Soussillon
+Soveillame
+Soyhières
+Spältrüti
+Spannrain
+Sparrenberg
+Speck
+Speckhof
+Speckli
+Spiano
+Spicherböde
+Spiegelberg
+Spiez
+Spilhalden
+Spinirolo
+Spins
+Spiringen
+Spitzacher
+Spitzacker
+Spitzenmatte
+Spitzenrain
+Spitzrain
+Splügen
+Sporrweggli
+Spreitenbach
+Sprümüli
+St Michael
+St Moritz
+St Wolfgang
+St-Jean-Aire
+St-Légier-La Chiésaz
+Stabio
+Stachelberg Bad
+Stachen
+Stäfa
+Staffelbach
+Stägli
+Staldenried
+Staldern
+Stallikon
+Stampfental
+Stampfi
+Stämpfi
+Stangen
+Stans
+Stansstad
+Starlera
+Station Glattfelden
+Station Uetliberg
+Station Urdorf
+Stationsquartier
+Staufen
+Stechelberg
+Steckborn
+Steckenberg
+Steffisburg
+Stegen
+Steigbühl
+Steighof
+Steigweg
+Stein am Rhein
+Steinberg
+Steinbüel
+Steinchramen
+Steindrüsen
+Steineloh
+Steingass
+Steinhausen
+Steinland
+Steinshof
+Stettbach
+Stettfurt
+Stettlen
+Stiefelacher
+Stiegenhof
+Stierenmatt
+Stierva
+Stifelacher
+Stifelwis
+Stigweid
+Stilli
+Stinchè
+Stockenmatt
+Stöckere
+Stockweid
+Stoffels
+Stoss
+Stötzli
+Strassacher
+Strassacker
+Strasshus
+Strengelbach
+Strickel
+Strickler
+Striempel
+Strubikon
+Stubenloo
+Stubenwis
+Stucki-Böndler
+Stuelen
+Stürzikon
+Subigerberg
+Subingen
+Suchy
+Süesstannen
+Sufers
+Suhner
+Suhr
+Sülch
+Sulgen
+Sulwald
+Sulzbach
+Sumiswald
+Sunft
+Sünikon
+Sunnau
+Sunnebad
+Surava
+Surbwiesen
+Surcuolm
+Surebaum
+Süri
+Surrein
+Sursee
+Süssplätz
+Süsswinkel
+Suvretta
+Tablat
+Tableten
+Tafers
+Tafleten
+Tagelswangen
+Tägermoos
+Tägernau
+Tägerst
+Tägerstrank
+Tägerwilen
+Täglischür
+Talacher-Haufland
+Talegg
+Talmühle
+Talweg
+Tamaretto
+Tämbrig
+Tamins
+Tammel
+Tanay
+Tannacher
+Tannägerten
+Tannenboden
+Tannenrain
+Tannertobel
+Tannhof
+Tännler
+Tanzplatz
+Tarain
+Tarasp
+Tartar
+Täsch
+Täuffelen
+Tavannes
+Taverne
+Tecknau
+Tegerfelden
+Tempel
+Tempelhof
+Tenero
+Tenna
+Tennenberg
+Tenniken
+Termen
+Tesserete
+Teufen
+Teufenbach
+Teufenthal
+Teuffenthal
+Tgant Pensa
+Thalmühle
+Theilingen
+Therwil
+Thierachern
+Thierrens
+Thônex
+Thülboden
+Thun
+Thundorf
+Thuracher
+Thusis
+Tiefencastel
+Tiefenmühle
+Tiefenstein
+Tiefmoos
+Tigignas
+Tiradelza
+Tisenwaltsberg
+Titterten
+Tobelmühle
+Toffen
+Toggwil
+Tolhusen
+Tonacher
+Törbel
+Torlen
+Torre
+Tössallmänt
+Tössegg
+Tössriederen
+Totenweg
+Trachselwald
+Tramelan
+Tränkibach
+Trans
+Trasadingen
+Travers
+Trecio
+Trélex
+Treulaz
+Trey
+Treyvaux
+Trichtenhausen
+Triemen
+Triengen
+Trient
+Trimbach
+Trimmis
+Trimstein
+Trimuelen
+Trinenmoos
+Trivelli
+Trockenloo
+Troinex
+Troistorrents
+Tromsberg
+Trottacher
+Trub
+Truben
+Trübenbach
+Trubschachen
+Trügli
+Trüllikon
+Trun
+Truttikon
+Trychelegg
+Tschiertschen
+Tschungel
+Tübach
+Tüelen
+Tueweid
+Tüfenau
+Tüfenbach
+Tüfleten
+Tüfwis
+Tuggen
+Tumiger
+Tumlen
+Turbenthal
+Turgi
+Türlen
+Türliacker
+Turtmann
+Tussagn Davains
+Tützenberg
+Twann
+Udligenswil
+Ueberstorf
+Uelikon
+Uerchen
+Uerikon
+Uerkheim
+Uerschen
+Uerzlikon
+Uessikon
+Uetendorf
+Uettligen
+Uetzikon
+Uf Dorf
+Uf Rüti
+Ufem Berg
+Uffikon
+Ufhusen
+Uggine
+Ulmerhof
+Ulrichen
+Undalen
+Under-Frobüel
+Undere Buufal
+Unders Blaachi
+Unders Homad
+Unders Reinischfeld
+Undervelier
+Unter Agglistal
+Unter Halden
+Unter Haltberg
+Unter Moos
+Unter Obersuld
+Unter Oerischwand
+Unter Reppischtal
+Unter Stafel
+Unter-Aathal
+Unter-Albis
+Unter-Balm
+Unter-Buch
+Unter-Chalchtaren
+Unter-Chrüzlen
+Unter-Eich
+Unter-Erlosen
+Unter-Fägswil
+Unter-Feld
+Unter-Gisenrüti
+Unter-Himmeri
+Unter-Langenhard
+Unter-Mettmenstetten
+Unter-Mittelberg
+Unter-Moos
+Unter-Oedischwänd
+Unter-Ohringen
+Unter-Ottikon
+Unter-Rennweg
+Unter-Rick
+Unter-Schirmensee
+Unter-Schwanden
+Unter-Spitzwies
+Unter-Sulzberg
+Unter-Teufen
+Unter-Wagenburg
+Unter-Wechsel
+Unter-Wolfbühl
+Unteraffoltern
+Unterägeri
+Unteraltweg
+Unteräugste
+Unteraurüti
+Unterbäch
+Unterbargelen
+Unterberghof
+Unterbösch
+Unterbrach
+Unterchesslerhüsli
+Untere Allmend
+Untere Bruechegg
+Untere Hanegg
+Untere Laubegg
+Untere Looren
+Untere Luegeten
+Untere Tanne
+Untere Tuntelen
+Unterem Stock
+Unterengstringen
+Unterer Brand
+Unterer Steinshof
+Unterer Widenbach
+Untererrüti
+Untergerbe
+Untergiger
+Untergreut
+Untergris
+Unterhausen
+Unterherberig
+Unterherten
+Unterhueb
+Unterhus
+Unteri Siten
+Unteriberg
+Unteriwi
+Unterkappel
+Unterkneubühl
+Unterkulm
+Unterloh
+Unterlöwenhaus
+Unterlunkhofen
+Untermatt
+Untermoos
+Unterneuhus
+Unterried
+Unterrothenblatt
+Untersängi
+Unterschächen
+Unterschneit
+Unterschweig
+Unterseen
+Untersiggenthal
+Unterstammheim
+Untersteckengrat
+Unterterzen
+Untervaz
+Unterwalden
+Unterwasser
+Unterwerk
+Unterzeug
+Uors
+Urnäsch
+Ursenbach
+Urtenen
+Usser-Langenriet
+Usser-Vollikon
+Usserbreiten
+Usserdorf
+Usserfeld
+Uttigen
+Uttwil
+Utzenstorf
+Utzigen
+Uvrier
+Uznach
+Uzwil
+Valangin
+Valarsäge
+Valatschalp
+Valendas
+Valla
+Vallorbe
+Valmorain
+Vals Platz
+Valzeina
+Vandœuvres
+Varen
+Varvalanna du Milieu
+Vättis
+Vattiz
+Vauffelin
+Vaulion
+Vaulruz
+Vaumarcus
+Vechigen
+Vellano
+Vellerat
+Vendlincourt
+Verbier
+Verchiez
+Verdabbio
+Vergeletto
+Vermes
+Vernamiège
+Vernayaz
+Vernéaz
+Vernec
+Vernier
+Versam
+Verscio
+Versoix
+Vétroz
+Vevey
+Vex
+Veyrier
+Veysonnaz
+Veytaux
+Vezia
+Vezzano
+Vico Morcote
+Vicosoprano
+Vicques
+Viganello
+Vignogn
+Vilars
+Villa RA
+Villarimboud
+Villars-Burquin
+Villars-le-Grand
+Villars-sous-Mont
+Villars-sur-Glâne
+Villars-sur-Ollon
+Villarsel-le-Gibloux
+Villarvolard
+Villarzel
+Villaz-Saint-Pierre
+Villeret
+Villigen
+Villmergen
+Villnachern
+Vinzel
+Vionnaz
+Visp
+Visperterminen
+Vissoie
+Vitznau
+Vögeli
+Vogelweid
+Volken
+Vollèges
+Vollenweid
+Vordemwald
+Vorder Bächenmoos
+Vorder Bänikon
+Vorder Diegisbalm
+Vorder Erli
+Vorder Längimoos
+Vorder Mugern
+Vorder Pfannenstiel
+Vorder Sennenberg
+Vorder-Aegetswil
+Vorder-Altenberg
+Vorder-Auli
+Vorder-Bernegg
+Vorder-Dienstbach
+Vorder-Goldacher
+Vorder-Grüt
+Vorder-Guldenen
+Vorder-Klausen
+Vorder-Langmoos
+Vorder-Lüwis
+Vorder-Marchlen
+Vorder-Pilgersteg
+Vorder-Risleten
+Vorder-Rüteli
+Vorder-Rüti
+Vorder-Stieg
+Vorder-Strahlegg
+Vorder-Tiefenbach
+Vorderbrunnen
+Vordere Au
+Vordere Buchenegg
+Vordere Wannwis
+Vorderegg
+Vorderer Püntacher
+Vorderer-Radrain
+Vorderes Maurenmoos
+Vorderexe
+Vorderfuchsloch
+Vorderfultigen
+Vordergrund
+Vorderi Chaseren
+Vorderi Höchi
+Vorderi Siten
+Vorderleist
+Vorderthal
+Vordertobel
+Vorderuttenberg
+Vorfrutt
+Vouvry
+Vrin
+Vuadens
+Vuarmarens
+Vuarrens
+Vufflens-le-Château
+Vuippens
+Vuiteboeuf
+Vullierens
+Waberg
+Wachseldorn
+Wagenbach
+Wagenbreche
+Wagenburg
+Wagenhausen
+Wagenstoss
+Waggital
+Waid
+Waidhof
+Walchwil
+Waldau
+Waldberg
+Waldenburg
+Wäldi
+Waldkirch
+Waldried
+Waldstatt
+Walenberg
+Walenstadt
+Walkringen
+Wallenbuch
+Wallenried
+Waltalingen
+Waltensburg
+Waltenschwil
+Waltenstein
+Walzenhausen
+Wampflen
+Wändel
+Wändhüslen
+Wangen an der Aare
+Wangenbühl
+Wangi
+Wannenwis
+Wappenswil
+Wartguet
+Warth
+Warzhalden
+Wassberg
+Wassen
+Wasserauen
+Wässeri
+Wasterkingen
+Wattenwilerhof
+Wattwil
+Wauwil
+Weberhaus
+Weesen
+Wegenstetten
+Weggis
+Weidhof
+Weidler
+Weidrain
+Weienschür
+Weier
+Weierhof
+Weiherbach
+Weinfelden
+Weingarten
+Weissental
+Weisslingen
+Wellenau
+Wellenberg
+Welschenrohr
+Welsikon
+Wendelbuck
+Wengi
+Wenzikon
+Werdhof
+Werkhof
+Werkplatz Sihlwald
+Wermatswil
+Wernetshausen
+Werrikon
+Werthenstein
+Wesenmatt
+Wespersbühl
+Wettingen
+Wiberg
+Wichtrach
+Widenbach
+Widenbad
+Widenhüsli
+Widenrain
+Widenreiti
+Widenswil
+Widmen
+Widnau
+Widum
+Wiedlisbach
+Wies
+Wiesacher Ort
+Wieseneralp
+Wiesenhof
+Wieshof
+Wiesli
+Wigarten
+Wigoltingen
+Wihalden
+Wikon
+Wila
+Wildberg
+Wildensbuch
+Wildenwis
+Wilderswil
+Wildhaus
+Wildsberg
+Wilenhof
+Wileroltigen
+Wilhof
+Wili
+Wiliberg
+Wille
+Willenhof
+Willerzell
+Willikon
+Willisau
+Willisdorf
+Wimmis
+Windeggli
+Windisch
+Windlach
+Winkeln
+Winterberg
+Winterhalden
+Winterschwil
+Wintersingen
+Winterthur
+Wirzweli
+Wirzwil
+Wis
+Wisacher Weid
+Wiserholz
+Wisge
+Witterswil
+Wittnau
+Witzberg
+Wohnschule
+Wolfacker
+Wolfen
+Wolfenhof
+Wolfenriet
+Wolfenschiessen
+Wolfenzädel
+Wölfern
+Wolfertswil
+Wolfgalgen
+Wolfgang
+Wolfisbüel
+Wölflinswil
+Wölflishalden
+Wolfsacker
+Wolfsbrunnen
+Wolfwil
+Wolhusen
+Wollerau
+Worb
+Worben
+Worbig
+Worrenberg
+Wüeri
+Wührenbach
+Wuppenau
+Würenlingen
+Würenlos
+Wurstbrunnen
+Würz
+Wylihof
+Wynau
+Wynigen
+Wyssachen
+Wyssbach
+Yens
+Yverdon-les-Bains
+Yvonand
+Yvorne
+Zaniken
+Zapfen
+Zäziwil
+Zeglingen
+Zehntenfrei
+Zeihen
+Zeisenberg
+Zeneggen
+Zentralschulhaus
+Zermatt
+Zernez
+Ziegelbrücke
+Ziegeleistrasse
+Ziegelhof
+Ziegelhus
+Ziegelhütten
+Zielenbach
+Zihl
+Zimlisberg
+Zimmerwald
+Zizers
+Zofingen
+Zollhus
+Zollikerberg
+Zollikofen
+Zollikon
+Zollingerhüser
+Zopf
+Zuchwil
+Zuckenriet
+Zug
+Zullwil
+Zumholz
+Zünikon
+Zunzgen
+Zuoz
+Zur Lingg
+Zur Post
+Zur Weid
+Züriweg
+Zuzgen
+Zweidlen-Dorf
+Zweidlen-Station
+Zweierhof
+Zweisimmen
+Zwieselberg
+Zwillikermoos
+Zwillikon
+Zwingen
+Zwischbergen
+Zwislen

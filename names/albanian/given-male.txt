@@ -1,0 +1,956 @@
+Ali	26
+Agim	25
+Fatmir	24
+Alfred	21
+Arben	21
+Alban	18
+Albert	18
+Sokol	18
+Adrian	17
+Edmond	17
+Skënder	17
+Artan	16
+Dhimiter	16
+Altin	15
+Ervin	15
+Ahmet	14
+Andrea	14
+Fatos	14
+Gezim	14
+Rexhep	14
+Anton	12
+Erjon	12
+Gjon	12
+Sulejman	12
+Vasil	12
+Arjan	11
+Bujar	11
+Daniel	11
+Hasan	11
+Julian	11
+Jurgen	11
+Kujtim	11
+Mario	11
+Mehmet	11
+Mustafa	11
+Petrit	11
+Qemal	11
+Sotir	11
+Spiro	11
+Ylli	11
+Andi	10
+Armando	10
+Artur	10
+Elvis	10
+Florian	10
+Gjergj	10
+Ilir	10
+Klodian	10
+Luan	10
+Petro	10
+Agron	9
+Albi	9
+Aldo	9
+Ardian	9
+Ardit	9
+Arlind	9
+Avni	9
+Bajram	9
+Bruno	9
+Elton	9
+Erald	9
+Ermal	9
+Haxhi	9
+Ismail	9
+Isuf	9
+Nexhat	9
+Ymer	9
+Adem	8
+Besnik	8
+Denis	8
+Enver	8
+Kostandin	8
+Mark	8
+Mihal	8
+Muhamet	8
+Pirro	8
+Qazim	8
+Roland	8
+Xhemal	8
+Arbër	7
+Bashkim	7
+Bekim	7
+Blendi	7
+Eduard	7
+Ferdinand	7
+Genti	7
+Ibrahim	7
+Jani	7
+Kristi	7
+Pandeli	7
+Pjetër	7
+Riza	7
+Shefqet	7
+Thoma	7
+Viktor	7
+Abdullah	6
+Aleksander	6
+Alush	6
+Besim	6
+Dorian	6
+Ernest	6
+Genc	6
+Ismet	6
+Kreshnik	6
+Mehdi	6
+Saimir	6
+Shkëlzen	6
+Shpëtim	6
+Shyqyri	6
+Simon	6
+Teodor	6
+Amir	5
+Azem	5
+Bedri	5
+Bernard	5
+Blerim	5
+Dashnor	5
+Donald	5
+Drilon	5
+Dritan	5
+Endri	5
+Enea	5
+Fabio	5
+Gazmend	5
+Gentian	5
+Halimi	5
+Hysni	5
+Ilirjan	5
+Kadri	5
+Kastriot	5
+Koço	5
+Kole	5
+Mikel	5
+Muharrem	5
+Musa	5
+Naim	5
+Ndoc	5
+Ndue	5
+Petraq	5
+Ramiz	5
+Redi	5
+Rifat	5
+Spartak	5
+Stavri	5
+Stefan	5
+Taulant	5
+Zamir	5
+Zef	5
+Abaz	4
+Abdyl	4
+Adriatik	4
+Afrim	4
+Albano	4
+Alessio	4
+Anastas	4
+Anesti	4
+Armand	4
+Arsen	4
+Bardhyl	4
+Besmir	4
+Bledi	4
+Dashamir	4
+David	4
+Edvin	4
+Emiljano	4
+Ergys	4
+Erion	4
+Ermir	4
+Fatjon	4
+Flavio	4
+Frederik	4
+Gent	4
+Hajredin	4
+Haki	4
+Klevis	4
+Kristaq	4
+Kristian	4
+Lefter	4
+Llazar	4
+Marko	4
+Mërgim	4
+Niko	4
+Përparim	4
+Rigels	4
+Safet	4
+Salih	4
+Samir	4
+Stavro	4
+Tonin	4
+Vasillaq	4
+Xhelal	4
+Xhevat	4
+Abdi	3
+Abedin	3
+Admir	3
+Adnan	3
+Ajet	3
+Andri	3
+Aristotel	3
+Arsim	3
+Aziz	3
+Behar	3
+Damian	3
+Dervish	3
+Edi	3
+Eduart	3
+Ekrem	3
+Elis	3
+Emiliano	3
+Emin	3
+Endrit	3
+Eni	3
+Enkel	3
+Eraldo	3
+Fadil	3
+Flamur	3
+Foto	3
+Franc	3
+Fuad	3
+Fuat	3
+Hajdar	3
+Halil	3
+Hektor	3
+Hysen	3
+Ilia	3
+Irfan	3
+Islam	3
+Izet	3
+Jetmir	3
+Josif	3
+Klajdi	3
+Kosta	3
+Kushtrim	3
+Lazër	3
+Leon	3
+Leonard	3
+Llambi	3
+Luigj	3
+Maksim	3
+Marenglen	3
+Marvin	3
+Mateo	3
+Milto	3
+Nasi	3
+Neki	3
+Neritan	3
+Nexhip	3
+Nikolla	3
+Oltion	3
+Paolo	3
+Perikli	3
+Prenk	3
+Renato	3
+Rrok	3
+Rudi	3
+Salvador	3
+Sherif	3
+Shkelqim	3
+Sotiraq	3
+Thomas	3
+Toni	3
+Vangelis	3
+Vangjel	3
+Vangjush	3
+Veli	3
+Vilson	3
+Visar	3
+Xhafer	3
+Xhezair	3
+Zeqir	3
+Abdurrahman	2
+Ahmed	2
+Ajdin	2
+Aleko	2
+Aleks	2
+Alexander	2
+Alis	2
+Alket	2
+Alvaro	2
+Angelo	2
+Antonio	2
+Aqif	2
+Arbën	2
+Arber	2
+Argjend	2
+Arian	2
+Aristidh	2
+Armir	2
+Aron	2
+Asim	2
+Astrit	2
+Aurel	2
+Beqir	2
+Bernardin	2
+Besart	2
+Betim	2
+Bledar	2
+Brian	2
+Daut	2
+Dedë	2
+Demir	2
+Ditmar	2
+Eder	2
+Edison	2
+Edon	2
+Elidon	2
+Elio	2
+Eljon	2
+Emanuel	2
+Endi	2
+Enis	2
+Enkeleid	2
+Enkelejd	2
+Eno	2
+Enri	2
+Erkand	2
+Erlind	2
+Eros	2
+Ersid	2
+Faruk	2
+Faslli	2
+Faton	2
+Ferdinant	2
+Ferhat	2
+Ferid	2
+Ferit	2
+Festim	2
+Filip	2
+Fiqiri	2
+Florent	2
+Francesco	2
+Franko	2
+Frano	2
+Gary	2
+Gazment	2
+George	2
+Gerti	2
+Giacomo	2
+Giannis	2
+Gilbert	2
+Gjovalin	2
+Hamdi	2
+Harallamb	2
+Helidon	2
+Henri	2
+Igli	2
+Ilo	2
+Jakup	2
+Jákup	2
+Jason	2
+Johan	2
+John	2
+Jorgo	2
+Karl	2
+Kevin	2
+Klaudio	2
+Klaus	2
+Kledi	2
+Klement	2
+Kolec	2
+Kozma	2
+Krenar	2
+Kristo	2
+Kurt	2
+Labinot	2
+Ledian	2
+Ledion	2
+Leka	2
+Leo	2
+Leonardo	2
+Leutrim	2
+Liridon	2
+Lorik	2
+Luis	2
+Mahir	2
+Mahmud	2
+Manuel	2
+Marin	2
+Mateus	2
+Mensur	2
+Migen	2
+Mike	2
+Murat	2
+Ndre	2
+Ndriçim	2
+Nik	2
+Nuri	2
+Oliver	2
+Omer	2
+Orges	2
+Osman	2
+Paskal	2
+Paulin	2
+Paulo	2
+Pavli	2
+Pertef	2
+Qamil	2
+Rakip	2
+Refik	2
+Rei	2
+Renaldo	2
+Reshat	2
+Resul	2
+Rezart	2
+Richard	2
+Ridvan	2
+Roald	2
+Romeo	2
+Ron	2
+Ronald	2
+Rudolf	2
+Sabri	2
+Sadik	2
+Sami	2
+Samuel	2
+Sandër	2
+Selami	2
+Senad	2
+Shkëlqim	2
+Shpend	2
+Silvio	2
+Skender	2
+Tedi	2
+Tefik	2
+Thimi	2
+Valentino	2
+Valon	2
+Vasilis	2
+Vedat	2
+Vehbi	2
+Veton	2
+Virgjil	2
+Vlash	2
+Xhemil	2
+Xhuliano	2
+Zihni	2
+Zyhdi	2
+Aaron
+Abdulla
+Abdurrahim
+Adi
+Adil
+Adnor
+Adolf
+Adonis
+Ador
+Adri
+Agathangelos
+Agon
+Agustin
+Ajten
+Alajdin
+Alberto
+Aldor
+Alex
+Alfons
+Aliriza
+Alketa
+Alpin
+Amik
+Amos
+Anastasios
+Andamion
+Andon
+Andreas
+Andrija
+Androkli
+Anduel
+Anis
+Anri
+Ansi
+Anthimos
+Anthony
+Antoni
+Antonino
+Anxhelo
+Aranit
+Arbnor
+Arda
+Ardi
+Argent
+Arges
+Ariel
+Arif
+Aris
+Arlindo
+Arman
+Armend
+Arnaut
+Artion
+Arturo
+Arvin
+Ataol
+Athanas
+Augustin
+Aulent
+Auron
+Avdyl
+Avenir
+Azis
+Baba
+Bahri
+Bajazid
+Balil
+Bamir
+Bardh
+Bardhec
+Bardhi
+Bardhok
+Basri
+Bastri
+Bejkush
+Bejtullah
+Bekir
+Ben
+Bep
+Berat
+Bernardo
+Besar
+Besfort
+Besian
+Bilal
+Bilbil
+Binak
+Birçe
+Bledion
+Bleri
+Blerton
+Boris
+Brendon
+Bukurosh
+Burim
+Çatin
+Çerçiz
+Clirim
+Çlirim
+Costantino
+Dallas
+Dardan
+Dario
+Dasho
+Dean
+Debatik
+Delo
+Demetrio
+Demetrios
+Deni
+Destan
+Devi
+Devis
+Dhori
+Dilaver
+Dimitri
+Dion
+Ditmir
+Dod
+Domenico
+Donaldo
+Donat
+Dorjan
+Drago
+Drini
+Dritëro
+Driton
+Dukagjin
+Edgar
+Edip
+Edlir
+Edmir
+Eduin
+Edvard
+Edward
+Edwin
+Eglantin
+Egli
+Egzon
+Elham
+Elhan
+Elidion
+Elidon Dulaj
+Elion
+Elison
+Eljan
+Elmi
+Eltjon
+Elvin
+Emil
+Ened
+Enerit
+Enes
+Engjëll
+Enio
+Enriko
+Enzo
+Epameinondas
+Erando
+Ercan
+Ergis
+Eric
+Erik
+Erin
+Erkan
+Erlis
+Ernal
+Ernesto
+Erni
+Ertan
+Esad
+Esat
+Esteban
+Estref
+Etjen
+Etrit
+Eugen
+Eugent
+Eugert
+Euglent
+Evangelos
+Ezio
+Fabian
+Fabjan
+Fatbardh
+Fatih
+Feçor
+Federico
+Fehmi
+Feim
+Fejzi
+Fejzo
+Ferat
+Ferdi
+Ferdin
+Feriz
+Fernando
+Feta
+Fetah
+Fiqri
+Floran
+Flori
+Florjon
+Françesk
+Franci
+Frang
+Frank
+Frédéric
+Fredis
+Friedrich
+Gabriel
+Gabriele
+Gajur
+Galib
+Gavril
+Gentjan
+Georg
+Gerald
+Gerd
+Gerhard
+Gert
+Gilman
+Gino
+Giorgio
+Giovanni
+Giulio
+Gjelbrim
+Gjergji
+Gjeto
+Glen
+Granit
+Greg
+Gregory
+Grigorios
+Gudar
+Guido
+Gulielm
+Guljelm
+Guri
+Hadi
+Hajro
+Harilla
+Hashim
+Havzi
+Heinrich
+Hekuran
+Henrik
+Herion
+Hevzi
+Hidajet
+Hil
+Hilë
+Hiqmet
+Hito
+Idajet
+Ilias
+Ilirian
+Iljaz
+Ilmi
+Ilya
+Imran
+Indrit
+Irhan
+Isa
+Isi
+Isidor
+Ismaïl
+İsmail
+Ivan
+Ivo
+Izmir
+Jahja
+Jakov
+James
+Jan
+Janko
+Jasin
+Jasmin
+Jimmy
+Joan
+Joani
+Joannes
+Joe
+Joel
+Jon
+Jonuz
+Jord
+Jozef
+Jup
+Jurgis
+Jusuf
+Juxhin
+Karol
+Kasem
+Kiço
+Klein
+Koçi
+Komi
+Konstandin
+Kostika
+Kristal
+Kristijan
+Ksenofont
+Kudret
+Laver
+Lazar
+Lazzaro
+Leandro
+Ledi
+Lejdi
+Lekë
+Léonard
+Leonel
+Leonidha
+Leonit
+Leontiev
+Lin
+Lion
+Llukë
+Loni
+Loran
+Lorenc
+Luca
+Lucjan
+Luiz
+Lush
+Lutfi
+Maks
+Malik
+Manol
+Marash
+Marius
+Marlen
+Marlin
+Masar
+Mati
+Matias
+Matvei
+Maurice
+Mauro
+Mehmed
+Mendi
+Mentor
+Mero
+Mic
+Midhat
+Mihallaq
+Mijat
+Milaim
+Milo
+Milosh
+Milot
+Minella
+Miran
+Mirash
+Mirlind
+Mirsad
+Moisi
+Muhamed
+Muhammad
+Muzafer
+Myrteza
+Myrto
+Nafiz
+Namik
+Nasip
+Nasser
+Naun
+Nazareno
+Nazif
+Nazim
+Ndok
+Nebil
+Necip
+Nelson
+Nesip
+Nevil
+Nevzat
+Nezim
+Nezir
+Niazi
+Nicolò
+Nikola
+Nikolin
+Nikollaq
+Nikollë
+Nino
+Njazi
+Notis
+Nuredin
+Odise
+Okan
+Olen
+Olsi
+Omar
+Ömer
+Orgest
+Orion
+Orlando
+Pali
+Panagiotis
+Panajot
+Pano
+Papa
+Patrik
+Pavllo
+Peço
+Perlat
+Peter
+Philip
+Pietro
+Preston
+Priamo
+Primo
+Prokop
+Qerim
+Rafael
+Ragip
+Ragıp
+Rahim
+Rajmond
+Ramadan
+Ramazan
+Ramën
+Rashaun
+Rasim
+Rauf
+Real
+Recep
+Redon
+Regi
+Reinaldo
+Rejdi
+Rey
+Rikard
+Risto
+Rita
+Romario
+Roy
+Ruben
+Rustem
+Sabah
+Saim
+Sajmir
+Sali
+Salvator
+Sammy
+Sander
+Sazan
+Sebastian
+Sejfi
+Selaudin
+Selim
+Sergio
+Servet
+Serxho
+Shaban
+Shahin
+Shane
+Shaqir
+Shefit
+Shefki
+Sheri
+Shezai
+Shqiprim
+Shtjefën
+Silvester
+Siri
+Sócrates
+Spyridon
+Stilian
+Stiliano
+Stiven
+Sulo
+Syrja
+Tafil
+Taip
+Ted
+Teki
+Terenzio
+Teufik
+Thanas
+Theodhor
+Theodhori
+Theodoros
+Timo
+Tish
+Tom
+Tony
+Uran
+Valdo
+Valdrin
+Valentin
+Valery
+Valter
+Vasfi
+Vasif
+Vath
+Veniamin
+Vildan
+Vili
+Vincenc
+Vissarion
+Vladimír
+Vlashent
+Wilhelm
+Xhaferr
+Xhahid
+Xhavid
+Xhavit
+Xhelilaj
+Yanko
+Ylber
+Yll
+Ylljet
+Zafir
+Zenel
+Zhani
+Zija

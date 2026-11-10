@@ -1,0 +1,4997 @@
+La Roche	80
+Le Breuil	68
+Villeneuve	61
+Les Granges	55
+La Chapelle	54
+Le Plessis	53
+Les Bordes	49
+Bellevue	47
+La Gare	44
+Le Villard	44
+Le Mas	43
+Les Loges	41
+La Forêt	40
+Le Mont	39
+Le Mesnil	38
+Beaumont	37
+Saint-Jean	37
+La Croix	36
+La Rivière	35
+Bel-Air	34
+Saint-Pierre	34
+La Garde	32
+La Motte	32
+Saint-Michel	32
+Beaulieu	31
+La Brosse	31
+Le Theil	31
+Saint-Julien	31
+Saint-Laurent	31
+Beauregard	29
+La Madeleine	29
+La Vallée	29
+Le Coudray	28
+Saint-Germain	28
+Vaux	28
+Le Buisson	27
+Le Monteil	27
+Les Forges	27
+La Tuilerie	26
+Le Pont	26
+Le Port	26
+Les Combes	26
+Saint-Antoine	26
+La Combe	25
+La Villeneuve	25
+Le Pin	25
+Beauvais	24
+La Chaussée	24
+La Lande	24
+Les Brosses	24
+Les Bruyères	24
+La Boissière	23
+La Touche	23
+Saint-Georges	23
+Saint-Hilaire	23
+La Bruyère	22
+La Forge	22
+La Plaine	22
+La Valette	22
+Le Boulay	22
+Le Château	22
+Le Plan	22
+Saint-Léger	22
+Saint-Maurice	22
+Saint-Sauveur	22
+Varennes	22
+La Rue	21
+Launay	21
+Le Bouchet	21
+Le Bourg	21
+Le Temple	21
+Le Tertre	21
+Les Landes	21
+Villiers	21
+Fontaine	20
+L'Hôpital	20
+Laval	20
+Le Marais	20
+Le Vieux Bourg	20
+Les Roches	20
+Les Sablons	20
+Neuville	20
+Saint-Aubin	20
+La Folie	19
+La Grange	19
+La Poterie	19
+Saint-Christophe	19
+Sainte-Marguerite	19
+Courcelles	18
+La Borde	18
+La Garenne	18
+La Montagne	18
+La Villette	18
+Lavaud	18
+Les Moulins	18
+Mons	18
+Saint-Étienne	18
+Saint-Paul	18
+Saint-Vincent	18
+La Barre	17
+La Borie	17
+La Faye	17
+Le Grand Village	17
+Le Puy	17
+Montigny	17
+Saint-André	17
+Saint-Clément	17
+Sainte-Anne	17
+Chaumont	16
+La Besse	16
+La Brousse	16
+La Cour	16
+La Place	16
+La Ville	16
+Le Chambon	16
+Le Cros	16
+Le Hamel	16
+Le Moulin	16
+Saint-Barthélemy	16
+Saint-Rémy	16
+Sainte-Colombe	16
+Sainte-Croix	16
+Serres	16
+La Bastide	15
+La Chaise	15
+La Chaume	15
+La Cité	15
+La Côte	15
+La Fontaine	15
+Le Colombier	15
+Le Parc	15
+Saint-Nicolas	15
+Saint-Roch	15
+Saint-Sulpice	15
+Saint-Symphorien	15
+Chanteloup	14
+Ferrières	14
+La Bergerie	14
+La Bretonnière	14
+La Perrière	14
+La Vergne	14
+La Verrerie	14
+Le Châtelard	14
+Le Chêne	14
+Le Vernet	14
+Le Villaret	14
+Les Chaumes	14
+Les Quatre Vents	14
+Les Rivières	14
+Les Touches	14
+Mont	14
+Roche	14
+Saint-Clair	14
+Saint-Gilles	14
+Saint-Jacques	14
+Saint-Léonard	14
+Saint-Marcel	14
+Saint-Médard	14
+Sainte-Catherine	14
+Sainte-Marie	14
+Villars	14
+Beauvoir	13
+Belmont	13
+Chambon	13
+Champagne	13
+La Bussière	13
+La Chassagne	13
+La Rochette	13
+La Tour	13
+La Villatte	13
+Le Tremblay	13
+Le Verdier	13
+Le Verger	13
+Les Vallées	13
+Saint-Hippolyte	13
+Saint-Just	13
+Saint-Loup	13
+Saint-Marc	13
+Sainte-Radegonde	13
+Verrières	13
+Aubigny	12
+Bourgneuf	12
+Fleury	12
+Fontenay	12
+L'Abbaye	12
+La Salle	12
+La Trinité	12
+Laborie	12
+Lagarde	12
+Lamothe	12
+Le Clos	12
+Le Cluzeau	12
+Le Moulin Neuf	12
+Les Haies	12
+Les Salles	12
+Les Vignes	12
+Marigny	12
+Saint-Avit	12
+Saint-Joseph	12
+Villers	12
+Artigues	11
+Boissay	11
+Boussac	11
+Bussières	11
+Chantemerle	11
+Châtenay	11
+Châtillon	11
+Colombier	11
+Hauteville	11
+La Croix Rouge	11
+La Ferrière	11
+La Tuilière	11
+La Valade	11
+Le Faux	11
+Le Lac	11
+Le Rocher	11
+Le Val	11
+Les Coteaux	11
+Les Essarts	11
+Saint-Blaise	11
+Saint-Denis	11
+Saint-Romain	11
+Villard	11
+Bagneux	10
+Chevannes	10
+Clermont	10
+Espinasse	10
+Francheville	10
+Glatigny	10
+L'Herm	10
+La Butte	10
+La Couture	10
+La Maladrerie	10
+La Mare	10
+La Mothe	10
+La Noue	10
+La Serre	10
+La Vialle	10
+Langlade	10
+Le Briou	10
+Le Châtelet	10
+Le Faubourg	10
+Le Fraysse	10
+Le Puech	10
+Le Village	10
+Le Vivier	10
+Les Chapelles	10
+Les Fontaines	10
+Les Maisons	10
+Les Monts	10
+Les Places	10
+Les Planches	10
+Les Sables	10
+Locmaria	10
+Longueville	10
+Lyon	10
+Marolles	10
+Plaisance	10
+Prades	10
+Rochefort	10
+Saint-Caprais	10
+Saint-Félix	10
+Saint-Gervais	10
+Sainte-Eulalie	10
+Salles	10
+Villaine	10
+Beaurepaire	9
+Bellegarde	9
+Belleville	9
+Bonneval	9
+Bray	9
+Bretagne	9
+Brion	9
+Caumont	9
+Champeaux	9
+Châteauneuf	9
+Chavagnac	9
+Chavannes	9
+Chevigny	9
+Combret	9
+Faverolles	9
+Forges	9
+Gourdon	9
+L'Église	9
+L'Épine	9
+L'Isle	9
+La Borderie	9
+La Chaux	9
+La Croix Blanche	9
+La Farge	9
+La Varenne	9
+Le Bois	9
+Le Bourgneuf	9
+Le Grand Chemin	9
+Le Ménil	9
+Le Mollard	9
+Le Pavillon	9
+Le Plateau	9
+Le Prieuré	9
+Les Baraques	9
+Les Chaises	9
+Les Champs	9
+Les Prés	9
+Marcilly	9
+Maurepas	9
+Mazerolles	9
+Mézières	9
+Monplaisir	9
+Montfort	9
+Murat	9
+Pierrefitte	9
+Poggio	9
+Pommier	9
+Saint-Éloi	9
+Saint-Lazare	9
+Saint-Louis	9
+Saint-Quentin	9
+Saint-Victor	9
+Sainte-Barbe	9
+Sainte-Gemme	9
+Savignac	9
+Serre	9
+Varenne	9
+Vauzelle	9
+Anglars	8
+Apremont	8
+Beausoleil	8
+Bord	8
+Bussy	8
+Champs	8
+Chanteloube	8
+Chassagne	8
+Chazelles	8
+Faye	8
+Fontenille	8
+Freycenet	8
+Gournay	8
+Grand Champ	8
+Grignon	8
+Kerhuel	8
+Kermorvan	8
+L'Épinay	8
+La Coudre	8
+La Croisette	8
+La Grande Rue	8
+La Maison Neuve	8
+La Pierre	8
+La Rosière	8
+Labrousse	8
+Lasserre	8
+Lavergne	8
+Le Breil	8
+Le Chesnay	8
+Le Collet	8
+Le Cormier	8
+Le Crouzet	8
+Le Fau	8
+Le Fresne	8
+Le Mons	8
+Le Paradis	8
+Le Peu	8
+Le Poirier	8
+Le Pouget	8
+Le Poux	8
+Le Vert	8
+Les Chênes	8
+Les Cours	8
+Les Farges	8
+Les Gouttes	8
+Les Guérins	8
+Les Plaines	8
+Les Rues	8
+Lochrist	8
+Magny	8
+Marnay	8
+Montignac	8
+Montreuil	8
+Notre-Dame	8
+Nozières	8
+Pierrefiche	8
+Pommiers	8
+Pouilly	8
+Rouffiac	8
+Saint-Agnan	8
+Saint-Aignan	8
+Saint-Cyprien	8
+Saint-Didier	8
+Saint-Fiacre	8
+Saint-Pardoux	8
+Sainte-Foy	8
+Sainte-Hélène	8
+Savigny	8
+Vareilles	8
+Beauchêne	7
+Beaufort	7
+Beauséjour	7
+Besse	7
+Boisset	7
+Bonneville	7
+Boyer	7
+Brie	7
+Bussière	7
+Campagne	7
+Champagnac	7
+Charmoy	7
+Chaume	7
+Condat	7
+Cros	7
+Cussac	7
+Farges	7
+Fontenelle	7
+Fougères	7
+Fourneaux	7
+Givry	7
+Granges	7
+L'Age	7
+L'Angle	7
+L'Étang	7
+La Bâtie	7
+La Brande	7
+La Brugère	7
+La Corbière	7
+La Fage	7
+La Fosse	7
+La Haye	7
+La Justice	7
+La Loge	7
+La Métairie	7
+La Neuville	7
+La Noë	7
+La Ribière	7
+La Route	7
+La Vacherie	7
+Lachaud	7
+Lagrange	7
+Le Bos	7
+Le Bourget	7
+Le Bousquet	7
+Le Bruel	7
+Le Causse	7
+Le Cosquer	7
+Le Fraisse	7
+Le Gros Chêne	7
+Le Magny	7
+Le Maine	7
+Le Maupas	7
+Le Moustoir	7
+Le Noyer	7
+Le Pinet	7
+Le Puits	7
+Les Barres	7
+Les Blaches	7
+Les Buissons	7
+Les Fougères	7
+Les Fourneaux	7
+Les Maisons Rouges	7
+Les Mottes	7
+Les Pins	7
+Les Poteries	7
+Les Quatre Chemins	7
+Lignières	7
+Longchamp	7
+Loupiac	7
+Malicorne	7
+Montagnac	7
+Montagny	7
+Montaut	7
+Montégut	7
+Naves	7
+Noyers	7
+Orival	7
+Passy	7
+Pinet	7
+Plagne	7
+Pons	7
+Préaux	7
+Prunet	7
+Saint-Amans	7
+Saint-Benoît	7
+Saint-Brice	7
+Saint-Léon	7
+Saint-Maur	7
+Saint-Ouen	7
+Saint-Sébastien	7
+Saint-Simon	7
+Secteur	7
+Segonzac	7
+Valette	7
+Vieux Bourg	7
+Vilaine	7
+Villette	7
+Asnières	6
+Bailly	6
+Bard	6
+Beau Soleil	6
+Beaune	6
+Bellefontaine	6
+Bonnefond	6
+Bonnefont	6
+Bonneuil	6
+Brousse	6
+Cernay	6
+Chabannes	6
+Champigny	6
+Chappes	6
+Châtelard	6
+Châtre	6
+Chavanne	6
+Chazeaux	6
+Comps	6
+Conteville	6
+Corcelles	6
+Coulon	6
+Cours	6
+Dampierre	6
+Favières	6
+Folleville	6
+Grandchamp	6
+Hauterive	6
+Jonquières	6
+Joux	6
+Juillac	6
+Jussy	6
+Keravel	6
+Kermenguy	6
+L'Étoile	6
+L'Ormeau	6
+La Boulaie	6
+La Bourdinière	6
+La Celle	6
+La Châtaigneraie	6
+La Coste	6
+La Croix Verte	6
+La Grave	6
+La Gravelle	6
+La Haie	6
+La Houssaye	6
+La Londe	6
+La Plagne	6
+La Pouge	6
+La Ronde	6
+La Sablonnière	6
+La Sauvetat	6
+La Villedieu	6
+Lacoste	6
+Laleu	6
+Lavalette	6
+Le Bez	6
+Le But	6
+Le Carrefour	6
+Le Châtenet	6
+Le Couderc	6
+Le Goulet	6
+Le Gua	6
+Le Luc	6
+Le Mazet	6
+Le Molard	6
+Le Monceau	6
+Le Moulin À Vent	6
+Le Mousseau	6
+Le Péage	6
+Le Perrier	6
+Le Plaix	6
+Le Point du Jour	6
+Le Poteau	6
+Le Pradal	6
+Le Saussay	6
+Le Serre	6
+Les Blancs	6
+Les Cabanes	6
+Les Caves	6
+Les Cités	6
+Les Communes	6
+Les Essards	6
+Les Faures	6
+Les Fosses	6
+Les Maisons Neuves	6
+Les Mares	6
+Les Plans	6
+Les Tuileries	6
+Les Varennes	6
+Les Vaux	6
+Lignerolles	6
+Lissac	6
+Mauriac	6
+Montgaillard	6
+Montredon	6
+Moulins	6
+Ormoy	6
+Périgny	6
+Peyrat	6
+Pierrepont	6
+Pouzols	6
+Revel	6
+Richebourg	6
+Rignac	6
+Rigny	6
+Rivière	6
+Rosay	6
+Rougemont	6
+Rouville	6
+Sailly	6
+Saint-Bernard	6
+Saint-Bonnet	6
+Saint-Eutrope	6
+Saint-Hubert	6
+Saint-Nazaire	6
+Saint-Priest	6
+Saint-Samson	6
+Sainte-Cécile	6
+Sainte-Geneviève	6
+Sauveterre	6
+Sauvigny	6
+Sauzet	6
+Teillet	6
+Ternant	6
+Vallières	6
+Verneuil	6
+Vicq	6
+Villedieu	6
+Viviers	6
+Andilly	5
+Argentières	5
+Aumont	5
+Auriac	5
+Baigneaux	5
+Baugy	5
+Beaucaire	5
+Beauval	5
+Beauvilliers	5
+Bessé	5
+Béthencourt	5
+Billy	5
+Blanchard	5
+Boncourt	5
+Bouilly	5
+Bouville	5
+Brétigny	5
+Breuil	5
+Buisson	5
+Bully	5
+Bussac	5
+Canteloup	5
+Castillon	5
+Caux	5
+Celles	5
+Chagny	5
+Chalais	5
+Changy	5
+Charmes	5
+Chassy	5
+Châteauvieux	5
+Châtres	5
+Chevry	5
+Collonges	5
+Colombiers	5
+Combes	5
+Coudray	5
+Coulonges	5
+Couture	5
+Coutures	5
+Crozet	5
+Dommartin	5
+Entraigues	5
+Faubourg Saint-Jacques	5
+Fay	5
+Ferrière	5
+Fontannes	5
+Fresnes	5
+Fréville	5
+Gondreville	5
+Grèzes	5
+Haucourt	5
+Jouy	5
+Kerdavid	5
+Kergoat	5
+Kergoff	5
+Kergonan	5
+L'Ermitage	5
+L'Orme	5
+La Belle Étoile	5
+La Bernardière	5
+La Boule	5
+La Bucaille	5
+La Capelle	5
+La Charrière	5
+La Chaud	5
+La Chaumette	5
+La Chesnaie	5
+La Contie	5
+La Foye	5
+La Garrigue	5
+La Grande Vallée	5
+La Grenouillère	5
+La Grève	5
+La Guérinière	5
+La Haute Rue	5
+La Houssoye	5
+La Jarrige	5
+La Jonchère	5
+La Magdeleine	5
+La Malmaison	5
+La Marche	5
+La Mure	5
+La Patrie	5
+La Planche	5
+La Poitevinière	5
+La Pommeraie	5
+La Pommeraye	5
+La Porte	5
+La Poste	5
+La Prée	5
+La Ribeyre	5
+La Rochelle	5
+La Ronce	5
+La Rousselière	5
+La Rouvière	5
+La Salvetat	5
+La Souche	5
+Labarthe	5
+Lalande	5
+Lannes	5
+Le Bosquet	5
+Le Bost	5
+Le Chalard	5
+Le Châtelier	5
+Le Châtellier	5
+Le Cheix	5
+Le Coin	5
+Le Coteau	5
+Le Crozet	5
+Le Désert	5
+Le Dognon	5
+Le Fay	5
+Le Fayet	5
+Le Four	5
+Le Fourneau	5
+Le Gué	5
+Le Hameau	5
+Le Magnoux	5
+Le Manoir	5
+Le Mayne	5
+Le Mazel	5
+Le Mée	5
+Le Montel	5
+Le Passage	5
+Le Pavé	5
+Le Petit Paris	5
+Le Peuch	5
+Le Peux	5
+Le Rieu	5
+Le Rieux	5
+Le Souchet	5
+Le Tartre	5
+Le Teil	5
+Le Tilleul	5
+Le Tot	5
+Le Verney	5
+Les Angles	5
+Les Arnauds	5
+Les Barthes	5
+Les Brandes	5
+Les Châtelets	5
+Les Forêts	5
+Les Gâtines	5
+Les Marais	5
+Les Masures	5
+Les Morins	5
+Les Mousseaux	5
+Les Ormeaux	5
+Les Ormes	5
+Les Sagnes	5
+Lespinasse	5
+Leugny	5
+Louvigny	5
+Luc	5
+Maillé	5
+Maison Rouge	5
+Maisoncelle	5
+Maizières	5
+Maltaverne	5
+Marchais	5
+Marcy	5
+Maupertuis	5
+Mazères	5
+Mazières	5
+Mérignac	5
+Millac	5
+Mirande	5
+Miribel	5
+Montaigu	5
+Montaigut	5
+Montauriol	5
+Montfaucon	5
+Morville	5
+Mouret	5
+Neuvialle	5
+Neuvillette	5
+Noailles	5
+Ormes	5
+Orval	5
+Orville	5
+Paulhac	5
+Penhouët	5
+Perros	5
+Plaine	5
+Poisson	5
+Poligny	5
+Presle	5
+Reugny	5
+Rieux	5
+Rives	5
+Romain	5
+Roussillon	5
+Rouvray	5
+Rouvres	5
+Saint-Adrien	5
+Saint-Angel	5
+Saint-Claude	5
+Saint-Cyr	5
+Saint-Estève	5
+Saint-Firmin	5
+Saint-François	5
+Saint-Genest	5
+Saint-Germain-des-Prés	5
+Saint-Grégoire	5
+Saint-Guillaume	5
+Saint-Marcellin	5
+Saint-Mard	5
+Saint-Philibert	5
+Saint-Pons	5
+Saint-Privat	5
+Saint-Projet	5
+Saint-Sernin	5
+Saint-Sigismond	5
+Saint-Siméon	5
+Saint-Sornin	5
+Saint-Vivien	5
+Sainte-Christine	5
+Sainte-Suzanne	5
+Servières	5
+Thil	5
+Tilly	5
+Torcy	5
+Urville	5
+Ussel	5
+Vassy	5
+Vernet	5
+Vernon	5
+Vert Bois	5
+Vigny	5
+Villaret	5
+Villefranche	5
+Vincelles	5
+Vitrac	5
+Aigremont	4
+Aigues-Vives	4
+Anglard	4
+Antignac	4
+Apcher	4
+Arc	4
+Arfeuille	4
+Argentine	4
+Athée	4
+Aubiac	4
+Aulnay	4
+Avrainville	4
+Azé	4
+Ballon	4
+Bannes	4
+Baron	4
+Barry	4
+Barville	4
+Bay	4
+Beaupuy	4
+Belle Vue	4
+Belvezet	4
+Béon	4
+Bernes	4
+Berneuil	4
+Berville	4
+Besses	4
+Beyssac	4
+Biard	4
+Birac	4
+Blanzac	4
+Boisse	4
+Boissières	4
+Bonnet	4
+Bonnevaux	4
+Bonvillard	4
+Bouchet	4
+Bouillac	4
+Bouis	4
+Bourg	4
+Bournazel	4
+Bouy	4
+Brassac	4
+Braux	4
+Brécy	4
+Bretteville	4
+Breuilly	4
+Cahuzac	4
+Callac	4
+Capelle	4
+Cessac	4
+Chappe	4
+Charmois	4
+Charnay	4
+Charny	4
+Charron	4
+Chassigny	4
+Château	4
+Châtelus	4
+Châtenois	4
+Chauffour	4
+Chaumeix	4
+Chaux	4
+Chavigny	4
+Chazeau	4
+Chazelet	4
+Chenay	4
+Chennevières	4
+Chevillon	4
+Chezelles	4
+Chilly	4
+Cité de La Plaine	4
+Clavière	4
+Clavières	4
+Collanges	4
+Combres	4
+Concise	4
+Costa	4
+Coupigny	4
+Courtioux	4
+Couzon	4
+Crevant	4
+Croce	4
+Croisilles	4
+Cussy	4
+Dignac	4
+Dompierre	4
+Dury	4
+Enval	4
+Épagny	4
+Épinay	4
+Étréchy	4
+Falguières	4
+Fargues	4
+Faveyrolles	4
+Fayet	4
+Fayolle	4
+Félines	4
+Flagy	4
+Fleurac	4
+Floirac	4
+Fons	4
+Fontbonne	4
+Fontenailles	4
+Fougerolles	4
+Fourques	4
+Fresnay	4
+Fumechon	4
+Gaillard	4
+Gaujac	4
+Gauville	4
+Genouilly	4
+Gensac	4
+Gigny	4
+Gioux	4
+Gland	4
+Goupillières	4
+Goux	4
+Grammont	4
+Grand Village	4
+Grange	4
+Grazac	4
+Grigny	4
+Gruchy	4
+Guilly	4
+Kerguélen	4
+Kerivin	4
+Kermeur	4
+Kernévez	4
+Kerroc'H	4
+Kertanguy	4
+Kervao	4
+Kerven	4
+L'Aunay	4
+L'Hermet	4
+L'Onglée	4
+L'Usage	4
+La Baraque	4
+La Barrière	4
+La Baume	4
+La Blache	4
+La Bonde	4
+La Bosse	4
+La Bottière	4
+La Boulaye	4
+La Bourdonnière	4
+La Bourgonnière	4
+La Bruère	4
+La Chabanne	4
+La Chaîne	4
+La Chauvière	4
+La Chênaie	4
+La Claie	4
+La Colle	4
+La Colline	4
+La Crouzille	4
+La Davière	4
+La Fabrique	4
+La Ferté	4
+La Fontenelle	4
+La Foux	4
+La Grand-Croix	4
+La Grande Haie	4
+La Grande Maison	4
+La Hutte	4
+La Jarrie	4
+La Maison Blanche	4
+La Mardelle	4
+La Ménardière	4
+La Minière	4
+La Moinerie	4
+La Mouline	4
+La Plesse	4
+La Porcherie	4
+La Prade	4
+La Prugne	4
+La Robinière	4
+La Rode	4
+La Roque	4
+La Roquette	4
+La Sagne	4
+La Thuile	4
+La Tricherie	4
+La Vallade	4
+La Vialette	4
+La Vieille Église	4
+La Violette	4
+Labastide	4
+Lacaze	4
+Lachapelle	4
+Lachaux	4
+Lacombe	4
+Ladignac	4
+Lafage	4
+Lafarge	4
+Lage	4
+Langon	4
+Lansac	4
+Lanveur	4
+Lapeyre	4
+Larroque	4
+Lartigue	4
+Lasbordes	4
+Latour	4
+Laurière	4
+Lavau	4
+Le Bignon	4
+Le Bocage	4
+Le Bourg Neuf	4
+Le Brignon	4
+Le Brouillard	4
+Le Buis	4
+Le Buquet	4
+Le Calvaire	4
+Le Canet	4
+Le Chassaing	4
+Le Chemin	4
+Le Cheval Blanc	4
+Le Clapier	4
+Le Clou	4
+Le Col	4
+Le Coudert	4
+Le Crêt	4
+Le Cruet	4
+Le Favril	4
+Le Fayel	4
+Le Forest	4
+Le Four à Chaux	4
+Le Frêne	4
+Le Grand Bois	4
+Le Gravier	4
+Le Hamelet	4
+Le Logis Neuf	4
+Le Maroc	4
+Le Meix	4
+Le Muret	4
+Le Nant	4
+Le Nouveau Monde	4
+Le Pas	4
+Le Pic	4
+Le Pontet	4
+Le Rest	4
+Le Resto	4
+Le Rivage	4
+Le Rivet	4
+Le Roux	4
+Le Sap	4
+Le Sart	4
+Le Soleil	4
+Le Tremble	4
+Le Treuil	4
+Le Tronchet	4
+Le Vau	4
+Le Vernay	4
+Le Vernois	4
+Le Viala	4
+Le Vialard	4
+Le Vignaud	4
+Les Ages	4
+Les Alleux	4
+Les Andrieux	4
+Les Authieux	4
+Les Barrières	4
+Les Bergeries	4
+Les Bertrands	4
+Les Bouchauds	4
+Les Brousses	4
+Les Brunets	4
+Les Carrières	4
+Les Chabannes	4
+Les Chavonnes	4
+Les Chézeaux	4
+Les Choseaux	4
+Les Clots	4
+Les Cloux	4
+Les Croix	4
+Les Escures	4
+Les Fayes	4
+Les Fourches	4
+Les Fourniers	4
+Les Gaillards	4
+Les Gardes	4
+Les Garniers	4
+Les Genêts	4
+Les Grandes Terres	4
+Les Graves	4
+Les Graviers	4
+Les Halles	4
+Les Hayes	4
+Les Huttes	4
+Les Îles	4
+Les Jardins	4
+Les Landelles	4
+Les Lombards	4
+Les Marnières	4
+Les Mazes	4
+Les Mées	4
+Les Métairies	4
+Les Meuniers	4
+Les Minières	4
+Les Monceaux	4
+Les Moulières	4
+Les Noyers	4
+Les Perrières	4
+Les Pichons	4
+Les Pierres	4
+Les Plains	4
+Les Poiriers	4
+Les Pradeaux	4
+Les Quatre Moulins	4
+Les Quatre Routes	4
+Les Réaux	4
+Les Rieux	4
+Les Roses	4
+Les Sapins	4
+Les Sauvages	4
+Les Usages	4
+Lescure	4
+Lestrade	4
+Ligné	4
+Lombard	4
+Lucy	4
+Lugan	4
+Lussac	4
+Maison Blanche	4
+Maison Neuve	4
+Maisoncelles	4
+Maisons	4
+Malataverne	4
+Marcillac	4
+Mareuil	4
+Marignac	4
+Marlioz	4
+Maumont	4
+Maure	4
+Maury	4
+Merlet	4
+Merville	4
+Milly	4
+Mirambeau	4
+Moissac	4
+Monfaucon	4
+Monségur	4
+Montagne	4
+Montchal	4
+Monteil	4
+Monteils	4
+Montels	4
+Montmain	4
+Montot	4
+Montpeyroux	4
+Montréal	4
+Mornay	4
+Mortagne	4
+Moulin Neuf	4
+Moussy	4
+Nanteuil	4
+Nantilly	4
+Néron	4
+Normanville	4
+Palus	4
+Parfondeval	4
+Parigny	4
+Paris e Arrondissement	4
+Parisot	4
+Pauliac	4
+Penhoat	4
+Perrigny	4
+Plassac	4
+Pont	4
+Pradines	4
+Presles	4
+Puyravault	4
+Quartier	4
+Quillien	4
+Quinsac	4
+Recouvrance	4
+Reilhac	4
+Ribeauville	4
+Richemont	4
+Rioux	4
+Rivières	4
+Rognon	4
+Roquefort	4
+Roques	4
+Rosières	4
+Rouffignac	4
+Roure	4
+Rousset	4
+Rozay	4
+Saint-Alban	4
+Saint-Amand	4
+Saint-Arnoult	4
+Saint-Brès	4
+Saint-Cernin	4
+Saint-Chéron	4
+Saint-Colomban	4
+Saint-Côme	4
+Saint-Crépin	4
+Saint-Cybard	4
+Saint-Éloy	4
+Saint-Eugène	4
+Saint-Front	4
+Saint-Germier	4
+Saint-Hilaire-du-Bois	4
+Saint-James	4
+Saint-Lambert	4
+Saint-Mathieu	4
+Saint-Mesmin	4
+Saint-Ours	4
+Saint-Palais	4
+Saint-Pierre-le-Vieux	4
+Saint-Prix	4
+Saint-Robert	4
+Saint-Savin	4
+Saint-Sylvestre	4
+Saint-Thibault	4
+Saint-Thomas	4
+Saint-Vallier	4
+Saint-Véran	4
+Saint-Yves	4
+Sainte-Agnès	4
+Sainte-Brigitte	4
+Salettes	4
+Salignac	4
+Saligny	4
+Sauvage	4
+Secqueville	4
+Selles	4
+Senneville	4
+Sérignac	4
+Sérigny	4
+Sermaise	4
+Soulages	4
+Sully	4
+Surville	4
+Tayac	4
+Termes	4
+Thiers	4
+Thoiry	4
+Thomas	4
+Toury	4
+Trémont	4
+Usseau	4
+Vacheresse	4
+Valence	4
+Vars	4
+Verdun	4
+Vernay	4
+Verrière	4
+Vialard	4
+Vignale	4
+Vignolles	4
+Ville Neuve	4
+Villemonteix	4
+Villereau	4
+Villers-le-Sec	4
+Villevaleix	4
+Villevieille	4
+Villiers-le-Sec	4
+Vincent	4
+Vinzelles	4
+Viry	4
+Abancourt	3
+Achères	3
+Agnac	3
+Aigueperse	3
+Albigny	3
+Allemant	3
+Allonnes	3
+Amance	3
+Antigny	3
+Antilly	3
+Ardon	3
+Arfeuilles	3
+Argenton	3
+Arnac	3
+Arques	3
+Arry	3
+Ars	3
+Artige	3
+Artix	3
+Aubeterre	3
+Aubignac	3
+Aubignat	3
+Aubin	3
+Auge	3
+Augère	3
+Augères	3
+Aulon	3
+Aunay	3
+Auterive	3
+Auteuil	3
+Auvers	3
+Auxon	3
+Auxy	3
+Avricourt	3
+Avrigny	3
+Avrilly	3
+Bages	3
+Bagnols	3
+Bailleul	3
+Bannay	3
+Barbery	3
+Barbières	3
+Barges	3
+Barjac	3
+Bars	3
+Baudreville	3
+Baye	3
+Beaumesnil	3
+Beaussac	3
+Beauvoisin	3
+Becquigny	3
+Belcastel	3
+Bellet	3
+Belloy	3
+Belval	3
+Bernac	3
+Bernay	3
+Bernier	3
+Bernon	3
+Bert	3
+Bessay	3
+Beynac	3
+Bierville	3
+Bièvres	3
+Biron	3
+Bitry	3
+Bizy	3
+Blandy	3
+Blanzat	3
+Bligny	3
+Bloux	3
+Bois-le-Roi	3
+Bonnat	3
+Bonnay	3
+Bonnes	3
+Boos	3
+Bordas	3
+Bordes	3
+Borgo	3
+Borne	3
+Bouesse	3
+Bouillon	3
+Bouix	3
+Bourdeau	3
+Bourdelas	3
+Bourgerel	3
+Bourgogne	3
+Bourneville	3
+Bout d'Amont	3
+Brain	3
+Brassy	3
+Brécourt	3
+Brens	3
+Bressolles	3
+Brignac	3
+Bron	3
+Brou	3
+Bruyères	3
+Buc	3
+Buffières	3
+Bures	3
+Busserolles	3
+Buxerolles	3
+Buxeuil	3
+Buzon	3
+Buzy	3
+By	3
+Cabanes	3
+Cabannes	3
+Calais	3
+Calmont	3
+Cambes	3
+Canchy	3
+Cantaloube	3
+Cantepie	3
+Carnac	3
+Casanova	3
+Casevecchie	3
+Cassagnes	3
+Castanet	3
+Castang	3
+Castex	3
+Castres	3
+Catteville	3
+Cavagnac	3
+Cayrac	3
+Cazals	3
+Cazaux	3
+Cénac	3
+Cérilly	3
+Cernon	3
+Ceyrat	3
+Chaban	3
+Chabanas	3
+Chabanne	3
+Chabonne	3
+Chaleix	3
+Chalus	3
+Chambord	3
+Chambre	3
+Chamont	3
+Champ	3
+Champagney	3
+Champagny	3
+Champoux	3
+Champsiaux	3
+Chandon	3
+Changé	3
+Chantereine	3
+Chantoiseau	3
+Chapeau	3
+Charentenay	3
+Charly	3
+Charmont	3
+Chassagnes	3
+Chassignol	3
+Chastre	3
+Chatain	3
+Châtelet	3
+Châtenet	3
+Chaudon	3
+Chaufour	3
+Chaumeil	3
+Chaussy	3
+Chauvet	3
+Chavy	3
+Chazeuil	3
+Cherves	3
+Cherville	3
+Chevilly	3
+Chevrières	3
+Cheyrac	3
+Cheyssac	3
+Choisel	3
+Cité Bellevue	3
+Cité des Cheminots	3
+Cité des Chênes	3
+Civeyrac	3
+Clans	3
+Clarac	3
+Claret	3
+Cléry	3
+Collonge	3
+Combas	3
+Combe	3
+Combray	3
+Combre	3
+Condamine	3
+Condé	3
+Constant	3
+Corbon	3
+Corcelle	3
+Cordon	3
+Corlay	3
+Cormeray	3
+Cornet	3
+Cors	3
+Coudert	3
+Coulombs	3
+Coupiac	3
+Courchamp	3
+Courchevel	3
+Courcy	3
+Courgeon	3
+Coursac	3
+Courtenay	3
+Coux	3
+Craon	3
+Crasville	3
+Crépy	3
+Crespin	3
+Croze	3
+Cruzille	3
+Curmont	3
+Cuverville	3
+Cuy	3
+Dancourt	3
+Dannemarie	3
+Dijon	3
+Donzy	3
+Durfort	3
+Élincourt	3
+Épieds	3
+Esparron	3
+Esplas	3
+Esse	3
+Estaing	3
+Estrées	3
+Étables	3
+Fabas	3
+Famechon	3
+Fargeas	3
+Faubourg Saint-Pierre	3
+Faux	3
+Favars	3
+Flavigny	3
+Flée	3
+Fleix	3
+Flers	3
+Fleurance	3
+Fleurat	3
+Foix	3
+Fontaines	3
+Fontanes	3
+Fontanès	3
+Fontcouverte	3
+Fontenoy	3
+Fontette	3
+Fontvieille	3
+Forest	3
+Forge	3
+Fosse	3
+Fouchères	3
+Fougeré	3
+Four	3
+Fourchaud	3
+Fourches	3
+Fragny	3
+Fraisse	3
+Fraissinet	3
+Franqueville	3
+Frénois	3
+Frontenac	3
+Gabriac	3
+Gargas	3
+Geay	3
+Genouillac	3
+Ger	3
+Gerland	3
+Germagny	3
+Germigny	3
+Germonville	3
+Gignac	3
+Giraumont	3
+Gorges	3
+Gourdan	3
+Gouy	3
+Grandmont	3
+Grandsaigne	3
+Grandval	3
+Grandvilliers	3
+Guerville	3
+Guillerville	3
+Hardy	3
+Harville	3
+Haute Perche	3
+Haute Ville	3
+Hautefeuille	3
+Hébécourt	3
+Henriville	3
+Heurtevent	3
+Huez	3
+Igny	3
+Ingrandes	3
+Issac	3
+Janville	3
+Juillé	3
+Juvigny	3
+Keraudren	3
+Kerdrein	3
+Kergoz	3
+Kerjean	3
+Kerlan	3
+Kerlann	3
+Kernonen	3
+Kersaint	3
+Kervéguen	3
+Kerviniou	3
+L'Aiguille	3
+L'Aiguillon	3
+L'Air	3
+L'Aireau	3
+L'Alleu	3
+L'Ardoise	3
+L'Aubépin	3
+L'Aumône	3
+L'Aumônerie	3
+L'Enclos	3
+L'Enfer	3
+L'Épinette	3
+L'Érable	3
+L'Estrade	3
+L'Hôpiteau	3
+L'Hospitalet	3
+L'Hôtellerie	3
+L'Île	3
+L'Oiselière	3
+L'Ubac	3
+La Bachellerie	3
+La Balme	3
+La Barberie	3
+La Barbinière	3
+La Barthe	3
+La Beaume	3
+la Bégude	3
+La Bègüe	3
+La Bellière	3
+La Besseyre	3
+La Bessière	3
+La Bigotière	3
+La Boirie	3
+La Boudinière	3
+La Boulais	3
+La Bourgade	3
+La Bouverie	3
+La Brégère	3
+La Breure	3
+La Broche	3
+La Brossardière	3
+La Brunie	3
+La Cabane	3
+La Caillaudière	3
+La Calade	3
+La Californie	3
+La Calmette	3
+La Carrière	3
+La Carte	3
+La Cavée	3
+La Chabossière	3
+La Chalp	3
+La Champagne	3
+La Chapelle-Blanche	3
+La Charmette	3
+La Chauvellière	3
+La Chaze	3
+La Chevalerie	3
+La Clusaz	3
+La Coche	3
+La Comté	3
+La Condamine	3
+La Contamine	3
+La Corniche	3
+La Couarde	3
+La Coudraye	3
+La Courbe	3
+La Courcelle	3
+La Courtine	3
+La Creuse	3
+La Croix de Fer	3
+La Devèze	3
+La Durandière	3
+La Durantie	3
+La Fagette	3
+La Faurie	3
+La Fayolle	3
+La Feuillade	3
+La Flèche	3
+La Flotte	3
+La Folatière	3
+La Folletière	3
+La Fonderie	3
+La Font	3
+La Force	3
+La Fouillouse	3
+La Fourche	3
+La Fournerie	3
+La Frasse	3
+La Frette	3
+La Fuie	3
+La Gardelle	3
+La Gâtine	3
+La Gaudière	3
+La Gautrais	3
+La Giraudière	3
+La Goutte	3
+La Grande Charrière	3
+La Gravière	3
+La Grée	3
+La Grelière	3
+La Haute Ville	3
+La Hautière	3
+La Jarousse	3
+La Jasse	3
+La Lauze	3
+La Léchère	3
+La Leu	3
+La Louverie	3
+La Louvière	3
+La Madone	3
+La Madrague	3
+La Magdelaine	3
+La Maison Rouge	3
+La Martre	3
+La Mercerie	3
+La Moignerie	3
+La Monnerie	3
+La Morinière	3
+La Mouche	3
+La Mouthe	3
+La Pallud	3
+La Palud	3
+La Pêcherie	3
+La Peignerie	3
+La Pépinière	3
+La Petite Lande	3
+La Peyrade	3
+La Peyre	3
+La Peyrière	3
+La Plane	3
+La Pointe	3
+La Poujade	3
+La Pouyade	3
+La Poyat	3
+La Pradelle	3
+La Provenchère	3
+La Rebière	3
+La Remise	3
+La Renardière	3
+La Renaudie	3
+La Renaudière	3
+La Riffaudière	3
+La Rive	3
+La Romiguière	3
+La Ronze	3
+La Roseraie	3
+La Rougerie	3
+La Rouquette	3
+La Roussille	3
+La Rua	3
+La Rue Neuve	3
+La Sablière	3
+La Saudrais	3
+La Sauvagère	3
+La Selle	3
+La Source	3
+La Tâche	3
+La Thibaudière	3
+La Tournerie	3
+La Touvière	3
+La Traverse	3
+La Treille	3
+La Tremblaye	3
+La Trémouille	3
+La Tronche	3
+La Valotte	3
+La Vavre	3
+La Vayssière	3
+La Velle	3
+La Vernède	3
+La Verrie	3
+La Verrière	3
+La Vieille Ville	3
+La Vigne	3
+La Villaine	3
+La Vitarelle	3
+Labatut	3
+Laborde	3
+Lacalm	3
+Lacapelle	3
+Lacave	3
+Lachaise	3
+Lacoux	3
+Lafarre	3
+Lagarrigue	3
+Lamarque	3
+Lambert	3
+Lamure	3
+Lançon	3
+Langle	3
+Lanmeur	3
+Lapeyrouse	3
+Laplaud	3
+Larnac	3
+Laroque	3
+Larret	3
+Lassy	3
+Lastours	3
+Lavaur	3
+Lavaure	3
+Laveissière	3
+Lavernhe	3
+Lavignac	3
+Lazenay	3
+Le Bac	3
+Le Bas	3
+Le Bas Bourg	3
+Le Beau Soleil	3
+Le Becquet	3
+Le Bessay	3
+Le Besset	3
+Le Biot	3
+Le Bois Saint-Denis	3
+Le Bosc	3
+Le Bot	3
+Le Bouchage	3
+Le Boucheron	3
+Le Bouyssou	3
+Le Bray	3
+Le Bréau	3
+Le Brouillat	3
+Le Buc	3
+Le Camp	3
+Le Carreau	3
+Le Carroir	3
+Le Cellier	3
+Le Chaillou	3
+Le Charme	3
+Le Chassang	3
+Le Chassin	3
+Le Chatain	3
+Le Chatenet	3
+Le Cher	3
+Le Cheyrou	3
+Le Chier	3
+Le Claux	3
+Le Cornet	3
+Le Creux	3
+Le Devois	3
+Le Dreff	3
+Le Fief	3
+Le Fossat	3
+Le Grais	3
+Le Grand Breuil	3
+Le Grand Clos	3
+Le Grand Moulin	3
+Le Ham	3
+Le Haut Chemin	3
+Le Haut Chêne	3
+Le Jardin	3
+Le Jonquet	3
+Le Liard	3
+Le Mazeau	3
+Le Miroir	3
+Le Monestier	3
+Le Moutier	3
+Le Net	3
+Le Pâtis	3
+Le Perron	3
+Le Peyrat	3
+Le Pinier	3
+Le Pit	3
+Le Planay	3
+Le Plessix	3
+Le Plouy	3
+Le Pontreau	3
+Le Pouzat	3
+Le Prat	3
+Le Pré	3
+Le Pressoir	3
+Le Puch	3
+Le Puiset	3
+Le Quinquis	3
+Le Repaire	3
+Le Ris	3
+Le Rivier	3
+Le Saillant	3
+Le Ségala	3
+Le Sud	3
+Le Theix	3
+Le Théron	3
+Le Tillet	3
+Le Treil	3
+Le Trève	3
+Le Tronquay	3
+Le Truel	3
+Le Vignal	3
+Les Acacias	3
+Les Aires	3
+Les Arbousiers	3
+Les Bains	3
+Les Barbiers	3
+Les Barreaux	3
+Les Bastides	3
+Les Bayles	3
+Les Bernards	3
+Les Bessons	3
+Les Blanchards	3
+Les Blanches	3
+Les Bois	3
+Les Borels	3
+Les Bories	3
+Les Bouchets	3
+Les Bouillons	3
+Les Bouleaux	3
+Les Bourses	3
+Les Bouygues	3
+Les Bréguières	3
+Les Brûlés	3
+Les Capucins	3
+Les Chalets	3
+Les Châtaigniers	3
+Les Chaussades	3
+Les Chavannes	3
+Les Chazeaux	3
+Les Chiers	3
+Les Clos	3
+Les Clous	3
+Les Combettes	3
+Les Cornets	3
+Les Costes	3
+Les Courtils	3
+Les Épinais	3
+Les Étangs	3
+Les Farguettes	3
+Les Faux	3
+Les Fonds	3
+Les Fouilloux	3
+Les Friches	3
+Les Gauguins	3
+Les Gautiers	3
+Les Girauds	3
+Les Grandes Bruyères	3
+Les Grandes Vallées	3
+Les Grands Bois	3
+Les Grands Champs	3
+Les Grèzes	3
+Les Hameaux	3
+Les Hogues	3
+Les Huguets	3
+Les Joncs	3
+Les Lacs	3
+Les Laurents	3
+Les Maillets	3
+Les Maisonnettes	3
+Les Marches	3
+Les Mardelles	3
+Les Martres	3
+Les Martys	3
+Les Mazeaux	3
+Les Mazières	3
+Les Mines	3
+Les Minimes	3
+Les Molières	3
+Les Moreaux	3
+Les Mûriers	3
+Les Noës	3
+Les Pâtureaux	3
+Les Perriers	3
+Les Planes	3
+Les Plantes	3
+Les Pras	3
+Les Préaux	3
+Les Provinces	3
+Les Richardières	3
+Les Richards	3
+Les Robins	3
+Les Rochers	3
+Les Roseaux	3
+Les Rosiers	3
+Les Rossignols	3
+Les Rousseaux	3
+Les Rousses	3
+Les Ruelles	3
+Les Salines	3
+Les Souches	3
+Les Souchons	3
+Les Ternes	3
+Les Terres Blanches	3
+Les Tessonnières	3
+Les Traverses	3
+Les Ventes	3
+Les Verchères	3
+Les Vergnes	3
+Les Vialles	3
+Les Vigneaux	3
+Les Vignettes	3
+Les Villards	3
+Les Villettes	3
+Leuré	3
+Leycuras	3
+Lignat	3
+Ligny	3
+Limeuil	3
+Limon	3
+Livron	3
+Long	3
+Longchamps	3
+Longueval	3
+Lorette	3
+Loubéjac	3
+Lucey	3
+Lugny	3
+Lunel	3
+Lussan	3
+Lux	3
+Macé	3
+Magné	3
+Maillet	3
+Mainville	3
+Maisonneuve	3
+Maisons Blanches	3
+Malakoff	3
+Malassis	3
+Mallet	3
+Maltot	3
+Malville	3
+Marcé	3
+Marcenat	3
+Marlieu	3
+Marly	3
+Marmagne	3
+Massac	3
+Massy	3
+Maubec	3
+Maulny	3
+Maurens	3
+Mauvezin	3
+Mauzac	3
+Mayet	3
+Mazan	3
+Mazel	3
+Melay	3
+Melleray	3
+Mercy	3
+Mercœur	3
+Méré	3
+Merle	3
+Millery	3
+Mirabel	3
+Mirbel	3
+Miremont	3
+Moimont	3
+Molières	3
+Monceaux	3
+Mondétour	3
+Mondeville	3
+Mondon	3
+Monestier	3
+Mont-Benoît	3
+Mont-Saint-Jean	3
+Montagut	3
+Montastruc	3
+Montbrison	3
+Montbrun	3
+Montceaux	3
+Montchamp	3
+Montclar	3
+Montclard	3
+Montcornet	3
+Montesquieu	3
+Montferrand	3
+Montignat	3
+Montjay	3
+Montlaur	3
+Montmirail	3
+Montpezat	3
+Montrond	3
+Morcourt	3
+Morel	3
+Morvilliers	3
+Mouchedune	3
+Mougon	3
+Moulines	3
+Moussey	3
+Moutiers	3
+Moyenneville	3
+Murato	3
+Murs	3
+Mussy	3
+Nadaillac	3
+Neudorf	3
+Neufmesnil	3
+Neuilly	3
+Neuvy	3
+Noailhac	3
+Nogent	3
+Nouveau Monde	3
+Nozay	3
+Nuits	3
+Oberdorf	3
+Ognes	3
+Oisy	3
+Ollières	3
+Olmet	3
+Oradour	3
+Orcières	3
+Orgemont	3
+Orgères	3
+Origny	3
+Ortale	3
+Orvilliers	3
+Ouches	3
+Ouville	3
+Ouzilly	3
+Pailhès	3
+Palisse	3
+Pannes	3
+Paroy	3
+Parsac	3
+Pau	3
+Paulhiac	3
+Paulin	3
+Penlan	3
+Péré	3
+Pérols	3
+Perrier	3
+Pers	3
+Perthes	3
+Peyraud	3
+Peyre	3
+Peyrelevade	3
+Peyrolles	3
+Pierreville	3
+Pizay	3
+Plagnes	3
+Plainville	3
+Planchat	3
+Plomb	3
+Pommereux	3
+Pompierre	3
+Pont de Pierre	3
+Pouillac	3
+Pouillé	3
+Pouilloux	3
+Poujols	3
+Pouligny	3
+Poux	3
+Pouy	3
+Pouzioux	3
+Pouzol	3
+Pradelle	3
+Pradelles	3
+Préchac	3
+Précy	3
+Prémont	3
+Présilly	3
+Prévinquières	3
+Priez	3
+Pringy	3
+Provenchère	3
+Prunières	3
+Pruniers	3
+Puiseaux	3
+Pujols	3
+Quilly	3
+Quincey	3
+Quinquis	3
+Quistinit	3
+Ragon	3
+Rayssac	3
+Recologne	3
+Recoules	3
+Renneville	3
+Resson	3
+Réveillon	3
+Rivarennes	3
+Rix	3
+Rochetaillée	3
+Rocheville	3
+Rocles	3
+Rocquigny	3
+Rognac	3
+Rohan	3
+Romagne	3
+Romainville	3
+Romanèche	3
+Romenay	3
+Romery	3
+Romont	3
+Roquepine	3
+Roquetaillade	3
+Rosier	3
+Rosière	3
+Rosnay	3
+Rossignol	3
+Rouet	3
+Rougeac	3
+Rouillac	3
+Rouillon	3
+Rouilly	3
+Roumégoux	3
+Rousson	3
+Roussy	3
+Rouvroy	3
+Royer	3
+Rue Neuve	3
+Rully	3
+Saignes	3
+Saint-Ambroise	3
+Saint-Andéol	3
+Saint-Armel	3
+Saint-Augustin	3
+Saint-Barnabé	3
+Saint-Calais	3
+Saint-Cassien	3
+Saint-Charles	3
+Saint-Christol	3
+Saint-Cirice	3
+Saint-Cirq	3
+Saint-Crespin	3
+Saint-Dizier	3
+Saint-Estèphe	3
+Saint-Ferréol	3
+Saint-Florent	3
+Saint-Georges-du-Bois	3
+Saint-Géry	3
+Saint-Guénolé	3
+Saint-Henri	3
+Saint-Hervé	3
+Saint-Honoré	3
+Saint-Jaume	3
+Saint-Jean-le-Vieux	3
+Saint-Juéry	3
+Saint-Justin	3
+Saint-Lubin	3
+Saint-Mamet	3
+Saint-Marceau	3
+Saint-Maudez	3
+Saint-Maximin	3
+Saint-Méen	3
+Saint-Mitre	3
+Saint-Nizier	3
+Saint-Omer	3
+Saint-Pancrace	3
+Saint-Pantaléon	3
+Saint-Patrice	3
+Saint-Père	3
+Saint-Pierre-d'Entremont	3
+Saint-Pierre-du-Mont	3
+Saint-Pierremont	3
+Saint-Raphaël	3
+Saint-Rome	3
+Saint-Sixte	3
+Saint-Sylvain	3
+Saint-Urcisse	3
+Saint-Vérand	3
+Sainte-Marthe	3
+Sainte-Sabine	3
+Sancourt	3
+Sancy	3
+Santenay	3
+Sarry	3
+Saulx	3
+Saussay	3
+Sauvagnac	3
+Serrières	3
+Servon	3
+Seux	3
+Sèvres	3
+Siran	3
+Solignac	3
+Sonnac	3
+Soulangy	3
+Souvigné	3
+Subligny	3
+Tailly	3
+Talhouët	3
+Tauriac	3
+Taussac	3
+Teilhet	3
+Ternay	3
+Theuville	3
+Thorigny	3
+Thory	3
+Thou	3
+Torfou	3
+Toulon	3
+Tournemire	3
+Tours	3
+Trémoulet	3
+Trignac	3
+Tronchoy	3
+Vabre	3
+Vabres	3
+Vailly	3
+Valeille	3
+Valleroy	3
+Vallière	3
+Varize	3
+Vaudoncourt	3
+Vaudreville	3
+Vauvert	3
+Vauzelles	3
+Vérines	3
+Verne	3
+Vernouillet	3
+Vernoy	3
+Vers	3
+Vert	3
+Verville	3
+Veyrières	3
+Vic	3
+Vieilleville	3
+Vieux	3
+Vieux-Bourg	3
+Villarceaux	3
+Villards	3
+Villatte	3
+Ville	3
+Ville Haute	3
+Villebon	3
+Villecerf	3
+Villechien	3
+Villecourt	3
+Villelongue	3
+Villemagne	3
+Villemartin	3
+Villeroy	3
+Virlet	3
+Virolle	3
+Vitray	3
+Vitré	3
+Vitrolles	3
+Vix	3
+Volnay	3
+Vouvray	3
+Vrigny	3
+Wailly	3
+A Testa	2
+Abbeville	2
+Aboncourt	2
+Abzac	2
+Acqueville	2
+Adon	2
+Agel	2
+Agnatello	2
+Agnières	2
+Aigneville	2
+Aine	2
+Ainvelle	2
+Airoux	2
+Aix	2
+Aizier	2
+Ajoux	2
+Alaincourt	2
+Albas	2
+Albiac	2
+Albignac	2
+Alix	2
+Allainville	2
+Allemans	2
+Alleyrat	2
+Alliat	2
+Allichamps	2
+Allier	2
+Allonne	2
+Allons	2
+Allonville	2
+Ally	2
+Alos	2
+Ambleville	2
+Ambon	2
+Amfreville	2
+Amfreville-les-Champs	2
+Amigny	2
+Amilly	2
+Anais	2
+Ancerville	2
+Anché	2
+Andabre	2
+Andeville	2
+Angerville	2
+Anglade	2
+Angles	2
+Angliers	2
+Angoville	2
+Angy	2
+Annay	2
+Anthon	2
+Antoigné	2
+Antony	2
+Antras	2
+Aragon	2
+Arandon	2
+Arçay	2
+Arceau	2
+Arcey	2
+Arches	2
+Arcon	2
+Arçon	2
+Arconville	2
+Ardenay	2
+Argentière	2
+Argeville	2
+Argouges	2
+Arguel	2
+Arles	2
+Armancourt	2
+Arnac-Pompadour	2
+Arnaud	2
+Arnouville	2
+Arpheuilles	2
+Arraggio	2
+Arville	2
+Arzon	2
+Aslonnes	2
+Asnois	2
+Aspach	2
+Aspremont	2
+Asques	2
+Assas	2
+Assay	2
+Assigny	2
+Athie	2
+Athies	2
+Athis	2
+Attigny	2
+Attilly	2
+Aube	2
+Aubepierre	2
+Auberville	2
+Aubespeyre	2
+Aubiat	2
+Aubigné	2
+Aubonne	2
+Auboué	2
+Aubusson	2
+Aucamville	2
+Audes	2
+Auffay	2
+Aufferville	2
+Augerolles	2
+Augeville	2
+Augy	2
+Aujac	2
+Aulnat	2
+Aunac	2
+Aureilhan	2
+Aurel	2
+Aurensan	2
+Auribeau	2
+Aurignac	2
+Aurin	2
+Auriol	2
+Auriolles	2
+Autheuil	2
+Authie	2
+Authon	2
+Autreville	2
+Autrey	2
+Autry	2
+Auvilliers	2
+Auzat	2
+Auzon	2
+Avallon	2
+Avançon	2
+Avaux	2
+Avèze	2
+Avillers	2
+Avoine	2
+Avon	2
+Avonnex	2
+Avranches	2
+Avrillé	2
+Azieux	2
+Azy	2
+Bagneaux	2
+Baignes	2
+Bais	2
+Balan	2
+Balâtre	2
+Ballay	2
+Balsac	2
+Banize	2
+Bans	2
+Banson	2
+Bapaume	2
+Bar	2
+Barbas	2
+Barby	2
+Bardenac	2
+Bareilles	2
+Barly	2
+Barrême	2
+Barret	2
+Barriac	2
+Barrou	2
+Barsac	2
+Bart	2
+Barthe	2
+Bassac	2
+Bassens	2
+Bassevelle	2
+Batilly	2
+Baubigny	2
+Baudemont	2
+Baudrecourt	2
+Bayonne	2
+Bazancourt	2
+Bazet	2
+Beaubiat	2
+Beaucamp	2
+Beaucé	2
+Beauchamp	2
+Beauchamps	2
+Beaufou	2
+Beaufour	2
+Beaujeu	2
+Beaumais	2
+Beaumetz	2
+Beaumont-Pied-de-Boeuf	2
+Beaunay	2
+Beaurieux	2
+Beauronne	2
+Beaussais	2
+Beaussart	2
+Beauvallon	2
+Beauville	2
+Beauvois	2
+Bédeille	2
+Bègues	2
+Beissat	2
+Belaygue	2
+Bélesta	2
+Belfort	2
+Belleau	2
+Bellecombe	2
+Bellefond	2
+Bellengreville	2
+Bellevaux	2
+Belley	2
+Bellon	2
+Belmontet	2
+Belpech	2
+Belvèze	2
+Bénac	2
+Bénouville	2
+Berlancourt	2
+Bernières	2
+Bertheauville	2
+Bertignolles	2
+Bertin	2
+Beslon	2
+Bessolle	2
+Bétaille	2
+Betting	2
+Betton	2
+Betz	2
+Beugnon	2
+Beurey	2
+Beuville	2
+Beuvillers	2
+Bey	2
+Beynat	2
+Beynes	2
+Bias	2
+Bielle	2
+Bienville	2
+Bierne	2
+Bignac	2
+Bignon	2
+Bigny	2
+Bihorel	2
+Bilhac	2
+Binas	2
+Bio	2
+Biollet	2
+Biot	2
+Biran	2
+Biville	2
+Bize	2
+Blacy	2
+Blaisy	2
+Blanc	2
+Blanot	2
+Blanquefort	2
+Blauzac	2
+Blécourt	2
+Bleury	2
+Bléville	2
+Blond	2
+Boigny	2
+Bois-d'Arcy	2
+Boisemont	2
+Boisgasson	2
+Boismont	2
+Boissets	2
+Boisseuge	2
+Boisseuil	2
+Boissey	2
+Boitron	2
+Bolleville	2
+Bommiers	2
+Bompas	2
+Bonas	2
+Bondy	2
+Bonnac	2
+Bonne Fontaine	2
+Bonnières	2
+Bono	2
+Bonson	2
+Bonvillers	2
+Bordeaux	2
+Bordères	2
+Boresse	2
+Bornor	2
+Borny	2
+Bors	2
+Borville	2
+Bost	2
+Bostens	2
+Bouafles	2
+Boucé	2
+Boucher	2
+Bouchier	2
+Bouconville	2
+Bougy	2
+Bouin	2
+Boulancourt	2
+Bouliac	2
+Bouloc	2
+Boulogne	2
+Boulon	2
+Bouquelon	2
+Bourbourg	2
+Bourdon	2
+Bourgon	2
+Bourguignon	2
+Bourniquel	2
+Bournonville	2
+Bours	2
+Boussais	2
+Boussay	2
+Bousse	2
+Bout du Pont	2
+Boutavent	2
+Boutigny	2
+Bouvron	2
+Bouxwiller	2
+Bouyon	2
+Bouzonville	2
+Brach	2
+Brainville	2
+Branges	2
+Branne	2
+Brantigny	2
+Bras	2
+Brax	2
+Bréau	2
+Brech	2
+Brèches	2
+Brée	2
+Breil	2
+Brémoncourt	2
+Brenac	2
+Brenas	2
+Brenat	2
+Bréquigny	2
+Bretel	2
+Breteuil	2
+Brette	2
+Breuillet	2
+Breux	2
+Brévillers	2
+Briançon	2
+Briaucourt	2
+Brière	2
+Brieux	2
+Brillac	2
+Brinay	2
+Brissac	2
+Brives	2
+Brizay	2
+Brizon	2
+Brocas	2
+Brochon	2
+Brognon	2
+Brossay	2
+Brouillac	2
+Broyes	2
+Bruailles	2
+Brunet	2
+Brux	2
+Buchy	2
+Bueil	2
+Bugeat	2
+Bugny	2
+Buhl	2
+Buis	2
+Burcy	2
+Bure	2
+Bussy-la-Pesle	2
+Bussy-le-Repos	2
+Buthiers	2
+Butteaux	2
+Buzancy	2
+Buzay	2
+Cabanac	2
+Cabanès	2
+Cabrières	2
+Cachan	2
+Cachy	2
+Cadenet	2
+Cadix	2
+Cagny	2
+Caillac	2
+Caix	2
+Calan	2
+Calès	2
+Callian	2
+Calmon	2
+Calviac	2
+Cambon	2
+Camon	2
+Camou	2
+Campagnac	2
+Campeaux	2
+Campigny	2
+Camy	2
+Canals	2
+Canapville	2
+Candas	2
+Candé	2
+Canet	2
+Canteleu	2
+Carlucet	2
+Caro	2
+Carouge	2
+Carrère	2
+Carville	2
+Casabianca	2
+Cassagne	2
+Cassagnoles	2
+Castagnède	2
+Castandet	2
+Castans	2
+Castel	2
+Castellane	2
+Catigny	2
+Catus	2
+Caubous	2
+Caudry	2
+Caurel	2
+Cazalis	2
+Cazeneuve	2
+Cazilhac	2
+Cazillac	2
+Ceaux	2
+Cellettes	2
+Celon	2
+Cercy	2
+Cerdon	2
+Céron	2
+Cerqueux	2
+Cerseuil	2
+Cervenon	2
+Cervières	2
+Cerzat	2
+Cescau	2
+Cessey	2
+Cesson	2
+Ceyssat	2
+Cézac	2
+Cezay	2
+Chabrières	2
+Chadenac	2
+Chagnon	2
+Chaillac	2
+Chailland	2
+Chailles	2
+Chaintré	2
+Chalandray	2
+Chalaux	2
+Chalivoy	2
+Challes	2
+Chambeau	2
+Chambeyrac	2
+Chamblay	2
+Chambois	2
+Chamboulive	2
+Chambry	2
+Chambœuf	2
+Chamery	2
+Chamilly	2
+Champagnat	2
+Champagné	2
+Champeix	2
+Champfleury	2
+Champien	2
+Champignolles	2
+Champlin	2
+Champlon	2
+Champniers	2
+Champoulet	2
+Champton	2
+Champvallon	2
+Champvans	2
+Champvert	2
+Chancelade	2
+Chânes	2
+Channay	2
+Chanoy	2
+Chantecoq	2
+Chantelouve	2
+Chantôme	2
+Chanu	2
+Chaon	2
+Chapelaine	2
+Chapelet	2
+Chapou	2
+Chard	2
+Chardes	2
+Charel	2
+Charency	2
+Charleval	2
+Charmoille	2
+Charras	2
+Charrière	2
+Charroux	2
+Chassagnolles	2
+Chassagny	2
+Chassat	2
+Chasse	2
+Chasseigne	2
+Chasselay	2
+Chassignolles	2
+Chastel	2
+Château-Chinon	2
+Château-Garnier	2
+Châteaubourg	2
+Châteaudouble	2
+Châteaufort	2
+Châteaugay	2
+Châteaurenaud	2
+Châteauroux	2
+Châtellenot	2
+Châtelneuf	2
+Châtenoy	2
+Chaton	2
+Châtonnay	2
+Chaud	2
+Chaudefontaine	2
+Chaudemaison	2
+Chaudenay	2
+Chaudeyrac	2
+Chaudun	2
+Chaugey	2
+Chaumois	2
+Chaumot	2
+Chaumoux	2
+Chaunac	2
+Chauvigné	2
+Chauvigny	2
+Chavagne	2
+Chavagneux	2
+Chavanat	2
+Chavenay	2
+Chaville	2
+Chavillieu	2
+Chelles	2
+Chémery	2
+Chemilly	2
+Chemin	2
+Chenereilles	2
+Chenevelles	2
+Chenicourt	2
+Chenillé	2
+Chérancé	2
+Cherré	2
+Chéry	2
+Chessy	2
+Chevalier	2
+Cheveroux	2
+Chevillard	2
+Chèvremont	2
+Chevrette	2
+Chèvreville	2
+Chevrier	2
+Chevru	2
+Chezeau	2
+Chiddes	2
+Chignat	2
+Chirac	2
+Chitry	2
+Chivres	2
+Chomeil	2
+Cilly	2
+Cintray	2
+Cipières	2
+Cirey	2
+Cissey	2
+Cité de l'Air	2
+Cité de La Mine	2
+Cité du Moulin	2
+Civray	2
+Civry	2
+Cize	2
+Clairac	2
+Claix	2
+Clamecy	2
+Clareuil	2
+Cléguer	2
+Clémensat	2
+Clessé	2
+Cléville	2
+Clion	2
+Cloué	2
+Cocherel	2
+Cochet	2
+Coëtlogon	2
+Cognac	2
+Cogné	2
+Cognet	2
+Cogny	2
+Cohignac	2
+Coincy	2
+Coise	2
+Coligny	2
+Collongues	2
+Cologne	2
+Combet	2
+Combles	2
+Commeaux	2
+Commelle	2
+Compans	2
+Concoules	2
+Condeau	2
+Condes	2
+Confort	2
+Confrançon	2
+Congy	2
+Connac	2
+Conte	2
+Contes	2
+Contres	2
+Corbelin	2
+Corberon	2
+Corbie	2
+Corbier	2
+Corbières	2
+Cordesse	2
+Cormeilles	2
+Cormoz	2
+Cornac	2
+Cornillé	2
+Cornillon	2
+Corps	2
+Corroy	2
+Côte Chaude	2
+Coublanc	2
+Coucy	2
+Couffoulens	2
+Couffy	2
+Cougny	2
+Coulanges	2
+Coulombiers	2
+Coulommiers	2
+Coulonces	2
+Courbeton	2
+Courbouzon	2
+Courchamps	2
+Courdemanche	2
+Couret	2
+Courmont	2
+Courtacon	2
+Courtefontaine	2
+Courteilles	2
+Courtemanche	2
+Courtieux	2
+Courtoin	2
+Courtomer	2
+Courtry	2
+Coussan	2
+Coussat	2
+Couvains	2
+Couy	2
+Couziers	2
+Craissac	2
+Crans	2
+Cras	2
+Cravant	2
+Crayssac	2
+Créancey	2
+Cressac	2
+Crèvecœur	2
+Creysse	2
+Crissey	2
+Croisy	2
+Croix	2
+Crossac	2
+Cru	2
+Cublas	2
+Cugny	2
+Cuisy	2
+Cully	2
+Cumont	2
+Cuq	2
+Curel	2
+Cusy	2
+Cutry	2
+Cuves	2
+Cuzieu	2
+Dainville	2
+Dame-Marie	2
+Damery	2
+Damigny	2
+Dancé	2
+Daubos	2
+Désertines	2
+Deville	2
+Dimancheville	2
+Dinan	2
+Diou	2
+Dolmayrac	2
+Domazan	2
+Domfront	2
+Domont	2
+Don	2
+Donjeux	2
+Donzac	2
+Douchy	2
+Doudeauville	2
+Douillet	2
+Dourbias	2
+Doux	2
+Dracy	2
+Dreslincourt	2
+Dreuilhe	2
+Drocourt	2
+Droisy	2
+Dugny	2
+Durand	2
+Duranville	2
+Durban	2
+Duret	2
+Échevannes	2
+Écoivres	2
+Écuelle	2
+Écuelles	2
+Écurat	2
+Écurie	2
+Éguilly	2
+Émalleville	2
+Émanville	2
+Empeaux	2
+Ennery	2
+Entremont	2
+Épagne	2
+Épannes	2
+Épernay	2
+Épierre	2
+Épinoy	2
+Épluques	2
+Érin	2
+Escamps	2
+Escazeaux	2
+Escoubès	2
+Espagnac	2
+Espinat	2
+Essert	2
+Estables	2
+Estal	2
+Estivareilles	2
+Estivaux	2
+Étable	2
+Étampes	2
+Étaules	2
+Éterpigny	2
+Étival	2
+Étrechet	2
+Étrépilly	2
+Étrez	2
+Eulmont	2
+Euvy	2
+Évry	2
+Ézerville	2
+Fage	2
+Fages	2
+Falaise	2
+Faramans	2
+Farge	2
+Faubourg de Béthune	2
+Faubourg de Cambrai	2
+Faubourg de France	2
+Faubourg Saint-Nicolas	2
+Faugères	2
+Fauguerolles	2
+Fauroux	2
+Fauville	2
+Faux-en-Périgord	2
+Favalello	2
+Faymont	2
+Fays	2
+Féez	2
+Feigères	2
+Feings	2
+Feix	2
+Féniers	2
+Fenioux	2
+Fenouillet	2
+Férolles	2
+Ferran	2
+Ferrand	2
+Ferrussac	2
+Fessy	2
+Festigny	2
+Fétigny	2
+Feucherolles	2
+Feuguerolles	2
+Figuerolles	2
+Filain	2
+Fins	2
+Flacey	2
+Flagey	2
+Flainville	2
+Flamanville	2
+Flaviac	2
+Fléchin	2
+Fleuré	2
+Fleuriel	2
+Flevieu	2
+Fléville	2
+Flonville	2
+Florac	2
+Florensac	2
+Florentin	2
+Foissac	2
+Foljuif	2
+Folligny	2
+Fongrave	2
+Fontaine-Notre-Dame	2
+Fontalba	2
+Fontenilles	2
+Fonteny	2
+Fos	2
+Fossé	2
+Fossoy	2
+Fouchécourt	2
+Foucherans	2
+Fougère	2
+Fougeu	2
+Fouillouse	2
+Fouilloy	2
+Fournier	2
+Fournols	2
+Fours	2
+Francières	2
+Franconville	2
+Frasnay	2
+Frayssinhes	2
+Frécourt	2
+Fréjus	2
+Freneuse	2
+Fressanges	2
+Fresse	2
+Frétoy	2
+Frévent	2
+Freyssenet	2
+Fricourt	2
+Froidefontaine	2
+Froideville	2
+Froissy	2
+Fromentières	2
+Frons	2
+Fronsac	2
+Frontenat	2
+Frontenex	2
+Fruges	2
+Fussy	2
+Fyé	2
+Gabillou	2
+Gageac-et-Rouillac	2
+Gaillac	2
+Gaillon	2
+Gajac	2
+Gajan	2
+Gambetta	2
+Gardefort	2
+Gardères	2
+Gare	2
+Garrigues	2
+Gaudissart	2
+Gaugeac	2
+Genay	2
+Générac	2
+Genêts	2
+Gennes	2
+Génos	2
+Genouillé	2
+Gérard	2
+Gerbécourt	2
+Germaine	2
+Germeville	2
+Germigney	2
+Gerville	2
+Gigors	2
+Gilley	2
+Gimeaux	2
+Ginouillac	2
+Girolles	2
+Gironville	2
+Giroux	2
+Glay	2
+Glénat	2
+Goix	2
+Gommecourt	2
+Gommerville	2
+Goncourt	2
+Gonneville	2
+Gorre	2
+Gouberville	2
+Goudet	2
+Goulien	2
+Gouraincourt	2
+Gours	2
+Gourville	2
+Goussainville	2
+Gouts	2
+Gouttières	2
+Gouvix	2
+Gouze	2
+Goven	2
+Grainville	2
+Gramond	2
+Gramont	2
+Grand Pré	2
+Grand-Camp	2
+Grand-Champ	2
+Grandcourt	2
+Grande Rue	2
+Grandfontaine	2
+Granéjouls	2
+Granouillet	2
+Granoux	2
+Gras	2
+Grattery	2
+Graves	2
+Grazay	2
+Grenay	2
+Grenelle	2
+Greux	2
+Grignols	2
+Griselles	2
+Grisolles	2
+Gron	2
+Grosbois	2
+Grozon	2
+Guérande	2
+Guérigny	2
+Gueudreville	2
+Gueutteville	2
+Guichards	2
+Guignes	2
+Guillac	2
+Guillon	2
+Guillonville	2
+Guillot	2
+Guise	2
+Guizancourt	2
+Habloville	2
+Hacqueville	2
+Haleine	2
+Halloy	2
+Hamel	2
+Hamelet	2
+Hancourt	2
+Haraucourt	2
+Hargicourt	2
+Hargnies	2
+Harmonville	2
+Harricourt	2
+Hautefort	2
+Hauville	2
+Haux	2
+Héauville	2
+Hécourt	2
+Herbigny	2
+Héricourt	2
+Hérisson	2
+Herly	2
+Hermeray	2
+Herqueville	2
+Héry	2
+Heudicourt	2
+Heuqueville	2
+Hombourg	2
+Homps	2
+Honville	2
+Houssay	2
+Houtteville	2
+Igé	2
+Igney	2
+Ingouville	2
+Intres	2
+Island	2
+Isola	2
+Jailly	2
+Janvry	2
+Jarnac	2
+Javrezac	2
+Jayat	2
+Jayet	2
+Jean Blanc	2
+Job	2
+Jossigny	2
+Joubert	2
+Joué	2
+Jourdane	2
+Jourgnac	2
+Journiac	2
+Joursac	2
+Joyeux	2
+Juilles	2
+Juilly	2
+Jumeaux	2
+Jumel	2
+Jumelles	2
+Juniat	2
+Jury	2
+Jussac	2
+Kerangoff	2
+Keranna	2
+Kerbiquet	2
+Kerbost	2
+Kerdalaës	2
+Kerderff	2
+Kerdoret	2
+Kergreis	2
+Kergrist	2
+Kerguz	2
+Keriolet	2
+Kérity	2
+Kerléo	2
+Kerliou	2
+Kermarc	2
+Kermaria	2
+Kermarquer	2
+Kermouster	2
+Kernein	2
+Kernevez	2
+Kerno	2
+Kerradennec	2
+Kervezennec	2
+Kervian	2
+Kervic	2
+L'Allier	2
+L'Angelerie	2
+L'Argentière	2
+L'Artoire	2
+L'Aubépine	2
+L'Aubriais	2
+L'Aubrière	2
+L'Estival	2
+L'Être	2
+L'Habit	2
+L'Hâte	2
+L'Hôpital-sous-Rochefort	2
+L'Houmeau	2
+L'Huis	2
+L'Isle-Jourdain	2
+L'Olme	2
+L'Union	2
+La Balmette	2
+La Barde	2
+La Basse Boulogne	2
+La Bâte	2
+La Bazoge	2
+La Bazoque	2
+La Bédinière	2
+La Belle Croix	2
+La Belletière	2
+La Berche	2
+La Berlière	2
+La Bessette	2
+La Betoule	2
+La Bissonnière	2
+La Bitarelle	2
+La Blanche Maison	2
+La Blaquière	2
+La Blotière	2
+La Blottière	2
+La Boisse	2
+La Bonneville	2
+La Bouillie	2
+La Bourgeade	2
+La Bouteille	2
+La Bouygue	2
+La Brardière	2
+La Bretenière	2
+La Briqueterie	2
+La Buge	2
+La Cambe	2
+La Capelette	2
+La Cave	2
+La Cellette	2
+La Cerisaie	2
+La Chambaudière	2
+La Chambre	2
+La Chanal	2
+La Chapelle-Bâton	2
+La Chapelle-Gauthier	2
+La Chapelle-Neuve	2
+La Chapelle-Saint-Ouen	2
+La Chapelle-Saint-Sauveur	2
+La Chapelotte	2
+La Charmée	2
+La Châtre	2
+La Chesnaye	2
+La Chèvrerie	2
+La Chevrolière	2
+La Cigogne	2
+La Citadelle	2
+La Clarté	2
+La Cluse	2
+La Colombe	2
+La Colonne	2
+La Combelle	2
+La Commanderie	2
+La Commune	2
+La Corde	2
+La Corderie	2
+La Couronne	2
+La Coutardière	2
+La Coutellerie	2
+La Crau	2
+La Crèche	2
+La Cressonnière	2
+La Croisille	2
+La Croix de Pierre	2
+La Croux	2
+La Daunière	2
+La Davidière	2
+La Digue	2
+La Fallée	2
+La Fauconnerie	2
+La Faverie	2
+La Fay	2
+La Fermeté	2
+La Ferrière-au-Doyen	2
+La Feuillée	2
+La Feuillie	2
+La Feuillouse	2
+La Flachère	2
+La Flamengrie	2
+La Flocellière	2
+La Gaillarde	2
+La Garnerie	2
+La Genette	2
+La Gilardie	2
+La Gitonnière	2
+La Goulafrière	2
+La Goulotte	2
+La Goupillière	2
+La Goutelle	2
+La Grâce de Dieu	2
+La Grande Côte	2
+La Grande Ferrière	2
+La Grande Gorce	2
+La Grande Motte	2
+La Grande Roche	2
+La Grandville	2
+La Grange du Bois	2
+La Gratade	2
+La Gratte	2
+La Graverie	2
+La Gravette	2
+La Grèze	2
+La Guerrière	2
+La Guierche	2
+La Guitardière	2
+La Halle	2
+La Haute Épine	2
+La Hauteville	2
+La Heunière	2
+La Houblonnière	2
+La Houssière	2
+La Jonquière	2
+La Jugie	2
+La Laigne	2
+La Lanterne	2
+La Lardière	2
+La Ligne	2
+La Limouzinière	2
+La Loubière	2
+La Magne	2
+La Mancellière	2
+La Martyre	2
+La Masse	2
+La Mazère	2
+La Meule	2
+La Michelière	2
+La Môle	2
+La Mornais	2
+La Muette	2
+La Mulatière	2
+La Muraz	2
+La Nouaille	2
+La Nouette	2
+La Pagésie	2
+La Palisse	2
+La Panouse	2
+La Paroisse	2
+La Pellerine	2
+La Pépie	2
+La Perche	2
+La Perrine	2
+La Petite France	2
+La Petite Rivière	2
+La Peyratte	2
+La Peyrouse	2
+La Peyzie	2
+La Pichardais	2
+La Picotière	2
+La Pinière	2
+La Plage	2
+La Planque	2
+La Pomarède	2
+La Pomme	2
+La Pras	2
+La Presle	2
+La Proutière	2
+La Provotaie	2
+La Prunerie	2
+La Quinte	2
+La Ragné	2
+La Raye	2
+La Rebeyrolle	2
+La Ribeyrette	2
+La Richardière	2
+La Rigaudière	2
+La Rivière Haute	2
+La Robertie	2
+La Roche-Blanche	2
+La Roche-Canillac	2
+La Romagne	2
+La Rongère	2
+La Rose	2
+La Roserie	2
+La Rouaudière	2
+La Rouchouse	2
+La Roulais	2
+La Roulière	2
+La Roussellerie	2
+La Roussière	2
+La Royère	2
+La Rue Feuillée	2
+La Rue-Saint-Pierre	2
+La Salesse	2
+La Salvagie	2
+La Sarrée	2
+La Saulce	2
+La Saussaye	2
+La Sauveté	2
+La Séguinie	2
+La Selve	2
+La Souque	2
+La Taille	2
+La Terrière	2
+La Terrisse	2
+La Tête Noire	2
+La Thibauderie	2
+La Tourette	2
+La Tremblais	2
+La Trimouille	2
+La Trivalle	2
+La Troche	2
+La Vaivre	2
+La Valentine	2
+La Védrenne	2
+La Verdière	2
+La Vernelle	2
+La Verpillière	2
+La Veyssière	2
+La Victoire	2
+La Vidalie	2
+La Vie	2
+La Ville en Bois	2
+La Voivre	2
+Laas	2
+Labarde	2
+Labarrère	2
+Labaurie	2
+Labourse	2
+Labro	2
+Labrosse	2
+Labruyère	2
+Lacanau	2
+Lacarrière	2
+Lacassagne	2
+Lacaussade	2
+Lachamp	2
+Lachau	2
+Ladoux	2
+Lafon	2
+Lagorce	2
+Lahitte	2
+Laillé	2
+Laire	2
+Lajoux	2
+Lalanne	2
+Laleuf	2
+Lalleu	2
+Lalœuf	2
+Lamberville	2
+Lambres	2
+Lancé	2
+Lancey	2
+Lande	2
+Landremont	2
+Landreville	2
+Landricourt	2
+Laneuville	2
+Langeron	2
+Langlet	2
+Langy	2
+Laninon	2
+Lanne	2
+Lannon	2
+Lannoy	2
+Lans	2
+Lantenay	2
+Lanuéjols	2
+Laprade	2
+Laprat	2
+Laps	2
+Larbre	2
+Larchamp	2
+Larche	2
+Larmor	2
+Larré	2
+Larreule	2
+Laruns	2
+Lascaux	2
+Lasse	2
+Lasson	2
+Lastelle	2
+Lastic	2
+Latterie	2
+Laubarède	2
+Launoy	2
+Lauret	2
+Lavagnac	2
+Lavardin	2
+Lavausseau	2
+Lavernat	2
+Laviéville	2
+Lavilledieu	2
+Lavoux	2
+Le Bambois	2
+Le Bey	2
+Le Blanc	2
+Le Bochet	2
+Le Bonhomme	2
+Le Bordage	2
+Le Born	2
+Le Bouchaud	2
+Le Bouillon	2
+Le Bouissou	2
+Le Boulois	2
+Le Bouquet	2
+Le Bourguet	2
+Le Bouscat	2
+Le Bout du Pont	2
+Le Bran	2
+Le Bréat	2
+Le Breuillat	2
+Le Broc	2
+Le Caire	2
+Le Cannet	2
+Le Casset	2
+Le Castellet	2
+Le Catelet	2
+Le Catillon	2
+Le Cerisier	2
+Le Champ de Foire	2
+Le Chastang	2
+Le Château Gaillard	2
+Le Châtel	2
+Le Chay	2
+Le Chemin Vert	2
+Le Chesne	2
+Le Chillou	2
+Le Chiroux	2
+Le Clair	2
+Le Clandy	2
+Le Corbier	2
+Le Couret	2
+Le Courtioux	2
+Le Créac'H	2
+Le Crest	2
+Le Crocq	2
+Le Croisty	2
+Le Cuzoul	2
+Le Détroit	2
+Le Faget	2
+Le Faouët	2
+Le Fieu	2
+Le Fougeray	2
+Le Fouilloux	2
+Le Fournet	2
+Le Gay	2
+Le Gibet	2
+Le Grand Buisson	2
+Le Grand Mesnil	2
+Le Grand Parc	2
+Le Grand Quartier	2
+Le Grand Villard	2
+Le Gros Bois	2
+Le Guéret	2
+Le Hallier	2
+Le Hameau Hue	2
+Le Haut Bourg	2
+Le Havre	2
+Le Hazay	2
+Le Hutrel	2
+Le Jarry	2
+Le Lauzet	2
+Le Lavoir	2
+Le Loch	2
+Le Mage	2
+Le Mesnil-Simon	2
+Le Monastère	2
+Le Montat	2
+Le Montet	2
+Le Moulin du Pont	2
+Le Moustier	2
+Le Neufbourg	2
+Le Nouhaut	2
+Le Pain	2
+Le Palais	2
+Le Pasquier	2
+Le Pérou	2
+Le Perrey	2
+Le Pertuiset	2
+Le Pigeonnier	2
+Le Plot	2
+Le Ply	2
+Le Polygone	2
+Le Pommier	2
+Le Ponchel	2
+Le Pont de Pierre	2
+Le Pontil	2
+Le Port Neuf	2
+Le Pouyalet	2
+Le Pouyau	2
+Le Poyet	2
+Le Prébois	2
+Le Quartier	2
+Le Quesne	2
+Le Quesnel	2
+Le Quesnoy	2
+Le Ranch	2
+Le Regard	2
+Le Rey	2
+Le Riez	2
+Le Rosier	2
+Le Rossignol	2
+Le Roudour	2
+Le Roulier	2
+Le Roussel	2
+Le Rousset	2
+Le Ruet	2
+Le Sappey	2
+Le Sarret	2
+Le Soulié	2
+Le Teillais	2
+Le Thil	2
+Le Thor	2
+Le Thuit	2
+Le Touvet	2
+Le Trait	2
+Le Transloy	2
+Le Tronc	2
+Le Tronçay	2
+Le Trou aux Chats	2
+Le Vermont	2
+Le Vernoy	2
+Le Vésinet	2
+Le Vieux-Bourg	2
+Le Vigneau	2
+Le Villars	2
+Le Villeret	2
+Léchelle	2
+Lée	2
+Lemps	2
+Lent	2
+Lépaud	2
+Lépinas	2
+Lépine	2
+Léry	2
+Les Accates	2
+Les Acres	2
+Les Alleuds	2
+Les Alliés	2
+Les Allues	2
+Les Alouettes	2
+Les Aspres	2
+Les Aubins	2
+Les Auriols	2
+Les Auvergnats	2
+Les Avenières	2
+Les Ayes	2
+Les Bardins	2
+Les Batailles	2
+Les Bayons	2
+Les Beaux	2
+Les Blins	2
+Les Bournets	2
+Les Buges	2
+Les Buis	2
+Les Cabannes	2
+Les Caillols	2
+Les Cailloux	2
+Les Camps	2
+Les Cantes	2
+Les Chalps	2
+Les Chandeliers	2
+Les Charles	2
+Les Charreaux	2
+Les Chaussées	2
+Les Chauvins	2
+Les Chaux	2
+Les Chères	2
+Les Chevaliers	2
+Les Chevreaux	2
+Les Claux	2
+Les Coins	2
+Les Combeaux	2
+Les Combles	2
+Les Coqs	2
+Les Côtes	2
+Les Courillons	2
+Les Defaix	2
+Les Durands	2
+Les Écures	2
+Les Égaux	2
+Les Fargues	2
+Les Ferrières	2
+Les Fontenelles	2
+Les Fonts	2
+Les Forests	2
+Les Frasses	2
+Les Frauds	2
+Les Fromenteaux	2
+Les Galands	2
+Les Gobets	2
+Les Grangettes	2
+Les Grès	2
+Les Grésillons	2
+Les Grèves	2
+Les Groseillers	2
+Les Hautiers	2
+Les Hauts Vents	2
+Les Henry	2
+Les Hilairets	2
+Les Houches	2
+Les Issards	2
+Les Jars	2
+Les Jaux	2
+Les Lagiers	2
+Les Lilas	2
+Les Linières	2
+Les Luquets	2
+Les Merles	2
+Les Moines	2
+Les Monteix	2
+Les Montils	2
+Les Mouilles	2
+Les Noues	2
+Les Olives	2
+Les Ollières	2
+Les Olmes	2
+Les Ouches	2
+Les Peyrouses	2
+Les Pilles	2
+Les Plantiers	2
+Les Plats	2
+Les Prots	2
+Les Rairies	2
+Les Renardières	2
+Les Riaux	2
+Les Rippes	2
+Les Rivailles	2
+Les Rives	2
+Les Rivoires	2
+Les Rochettes	2
+Les Romains	2
+Les Rouelles	2
+Les Roux	2
+Les Ruches	2
+Les Sablières	2
+Les Saignes	2
+Les Salces	2
+Les Salelles	2
+Les Saulières	2
+Les Sept Chemins	2
+Les Taules	2
+Les Terres Noires	2
+Les Tertres	2
+Les Thébauts	2
+Les Thermes	2
+Les Touchards	2
+Les Tuilières	2
+Les Vallettes	2
+Les Vannes	2
+Les Vernelles	2
+Les Verneys	2
+Leschaux	2
+Lescoat	2
+Lésigny	2
+Lestival	2
+Létraz	2
+Leval	2
+Levens	2
+Levet	2
+Lévigny	2
+Levoncourt	2
+Ley	2
+Leygonie	2
+Leyssac	2
+Lez	2
+Lezé	2
+Lherm	2
+Lias	2
+Lierville	2
+Lieucamp	2
+Lieusaint	2
+Liez	2
+Ligron	2
+Ligueux	2
+Limeux	2
+Limoux	2
+Linards	2
+Liniers	2
+Lioux	2
+Lisle	2
+Lison	2
+Livet	2
+Livry	2
+Lizy	2
+Lochères	2
+Locmalo	2
+Locoal	2
+Loctudy	2
+Locunel	2
+Loguivy-Plougras	2
+Loiré	2
+Loisy	2
+Loivre	2
+Lomener	2
+Longechaux	2
+Longefont	2
+Longèves	2
+Longeville	2
+Longnes	2
+Longvillers	2
+Longvilliers	2
+Lons	2
+Loperhet	2
+Lornac	2
+Loubaresse	2
+Loubens	2
+Loubressac	2
+Louesme	2
+Louvières	2
+Louvigné	2
+Lozzi	2
+Lubersac	2
+Luc-en-Diois	2
+Lucé	2
+Luceau	2
+Lucenay	2
+Luchat	2
+Luchet	2
+Luchy	2
+Luçon	2
+Lugagnac	2
+Lumio	2
+Lure	2
+Lussagnet	2
+Lussais	2
+Lussat	2
+Lussay	2
+Luynes	2
+Luzay	2
+Lys	2
+Macey	2
+Machal	2
+Machault	2
+Machy	2
+Maconcourt	2
+Magenta	2
+Magneux	2
+Magneville	2
+Magrin	2
+Mainvilliers	2
+Mairé	2
+Maison-Neuve	2
+Maizeray	2
+Malaise	2
+Malans	2
+Malbosc	2
+Malbuisson	2
+Maleville	2
+Maligny	2
+Malleret	2
+Malleval	2
+Malmy	2
+Malpas	2
+Mametz	2
+Manaly	2
+Manas	2
+Mancy	2
+Mandres	2
+Mane	2
+Manin	2
+Manthes	2
+Many	2
+Marans	2
+Marçay	2
+Marchastel	2
+Marcigny	2
+Marcillat	2
+Marcouville	2
+Marcoux	2
+Marcq	2
+Mareilles	2
+Marennes	2
+Margny	2
+Margon	2
+Margot	2
+Marigné	2
+Marin	2
+Marle	2
+Marliac	2
+Marmont	2
+Marnhac	2
+Marolles-en-Brie	2
+Marquay	2
+Marquèze	2
+Marray	2
+Marre	2
+Martainville	2
+Marteau	2
+Martel	2
+Martres	2
+Mary	2
+Mascaras	2
+Massingy	2
+Matha	2
+Mathieu	2
+Mathonville	2
+Maubourg	2
+Maucourt	2
+Maumusson	2
+Mauny	2
+Maupas	2
+Mauperthuis	2
+Mauran	2
+Maurice	2
+Mauron	2
+Mauroux	2
+Mauves	2
+Maux	2
+Maymac	2
+Mayres	2
+Mazeyrolles	2
+Mazou	2
+Meaux	2
+Meigné	2
+Meigneux	2
+Meilhan	2
+Mélisey	2
+Mellac	2
+Melleville	2
+Ménil	2
+Menneville	2
+Ménoire	2
+Mercey	2
+Méréville	2
+Méricourt	2
+Mérignat	2
+Mérigot	2
+Merlande	2
+Mérobert	2
+Merval	2
+Meslay	2
+Mesmont	2
+Messac	2
+Messanges	2
+Messemé	2
+Messy	2
+Meudon	2
+Meylan	2
+Meymac	2
+Mialet	2
+Miéry	2
+Migné	2
+Migny	2
+Milhars	2
+Millières	2
+Mingot	2
+Mirabeau	2
+Miraval	2
+Mirebeau	2
+Mirepoix	2
+Misery	2
+Mohon	2
+Moiry	2
+Moisy	2
+Molain	2
+Molay	2
+Molles	2
+Moncaup	2
+Monclar	2
+Moncontour	2
+Mondebat	2
+Mondreville	2
+Monneville	2
+Monnières	2
+Monpezat	2
+Monsac	2
+Montabert	2
+Montadet	2
+Montagnat	2
+Montagnieu	2
+Montagudet	2
+Montaigut-le-Blanc	2
+Montainville	2
+Montalieu	2
+Montamat	2
+Montamisé	2
+Montardit	2
+Montargis	2
+Montarlot	2
+Montauban	2
+Montaubert	2
+Montaud	2
+Montazeau	2
+Montbel	2
+Montbernier	2
+Montblanc	2
+Montboissier	2
+Montbray	2
+Montcabrier	2
+Montcel	2
+Montchanin	2
+Montchaud	2
+Montchauvet	2
+Montclus	2
+Montdidier	2
+Monte	2
+Monteaux	2
+Montely	2
+Montereau	2
+Montescot	2
+Montesson	2
+Montfa	2
+Montferrat	2
+Montgirod	2
+Montgon	2
+Montgros	2
+Montguillon	2
+Monthelon	2
+Montières	2
+Montigné	2
+Montilly	2
+Montirat	2
+Montjardin	2
+Montjean	2
+Montjoi	2
+Montjoux	2
+Montlandon	2
+Montliard	2
+Montlouis	2
+Montmartin	2
+Montmaur	2
+Montmélian	2
+Montmirat	2
+Montmorency	2
+Montmorin	2
+Montolivet	2
+Montoulieu	2
+Montparnasse	2
+Montrevel	2
+Montrosier	2
+Montrouge	2
+Montroy	2
+Monts	2
+Montsalvy	2
+Morand	2
+Morangis	2
+Moras	2
+Morat	2
+Morée	2
+Morey	2
+Morillon	2
+Mormant	2
+Mornas	2
+Morteau	2
+Mortefontaine	2
+Mortegoutte	2
+Mortemart	2
+Mortemer	2
+Mortiers	2
+Morval	2
+Mosnac	2
+Mosson	2
+Motteux	2
+Mougny	2
+Mouillac	2
+Moulin	2
+Moulin-Neuf	2
+Moulineaux	2
+Moulinet	2
+Moulis	2
+Moulon	2
+Mours	2
+Moussac	2
+Mousseaux	2
+Mousson	2
+Moûtiers	2
+Moux	2
+Mouzay	2
+Mouzens	2
+Mouzon	2
+Muel	2
+Mugron	2
+Munster	2
+Murel	2
+Mutigny	2
+Naconne	2
+Nalliers	2
+Nances	2
+Nangis	2
+Nant	2
+Nanton	2
+Narbonne	2
+Narcy	2
+Nauroy	2
+Naussac	2
+Nay	2
+Nazareth	2
+Nérac	2
+Néronde	2
+Ners	2
+Neuillac	2
+Neuillé	2
+Neuvic	2
+Nicey	2
+Nizas	2
+Noaillan	2
+Noé	2
+Nohant	2
+Nointel	2
+Noirlieu	2
+Noirval	2
+Nolay	2
+Nonville	2
+Norroy	2
+Nougayrol	2
+Nouzilly	2
+Novel	2
+Noyant	2
+Nully	2
+Offoy	2
+Ogliastro	2
+Oigny	2
+Olivet	2
+Ollainville	2
+Olmi	2
+Olmo	2
+Ondres	2
+Onville	2
+Orange	2
+Orbec	2
+Orgeval	2
+Orio	2
+Orliac	2
+Orlu	2
+Orly	2
+Ornex	2
+Ornon	2
+Ors	2
+Orsans	2
+Orsay	2
+Orsonville	2
+Osmoy	2
+Ostheim	2
+Outrebois	2
+Ozon	2
+Pacé	2
+Paillat	2
+Paillier	2
+Palleau	2
+Pampelonne	2
+Panazol	2
+Parata	2
+Parilly	2
+Parlan	2
+Parly	2
+Parnac	2
+Parnay	2
+Pascialella	2
+Passais	2
+Pasteur	2
+Pastricciola	2
+Paulhac-en-Margeride	2
+Payré	2
+Payzac	2
+Pech	2
+Pellegrue	2
+Penfrat	2
+Penguily	2
+Penhoët	2
+Penvern	2
+Percy	2
+Perdreauville	2
+Perelli	2
+Péret	2
+Pérignac	2
+Pérol	2
+Péronne	2
+Perpezat	2
+Perret	2
+Perreux	2
+Perrières	2
+Pertus	2
+Petit Paris	2
+Petiville	2
+Pey	2
+Peyralade	2
+Peyrieu	2
+Peyrouse	2
+Piana	2
+Piazze	2
+Picpus	2
+Pierre Fiche	2
+Pierrecourt	2
+Pierrerue	2
+Pierres	2
+Pietralba	2
+Pietricaggio	2
+Pigeyres	2
+Pigy	2
+Pin	2
+Pinay	2
+Pinson	2
+Pisany	2
+Pisseloup	2
+Plaigne	2
+Planay	2
+Planches	2
+Planèzes	2
+Pleine-Selve	2
+Pleuville	2
+Plouhinec	2
+Poilley	2
+Poiseux	2
+Poix	2
+Polignac	2
+Pompiac	2
+Pompignac	2
+Pompignan	2
+Poncet	2
+Pont-l'Évêque	2
+Pontigny	2
+Porcher	2
+Port	2
+Port Neuf	2
+Portes	2
+Portet	2
+Pouancé	2
+Pougny	2
+Pouillon	2
+Pouldu	2
+Pourcharesses	2
+Pouzeau	2
+Prailles	2
+Pralong	2
+Praslay	2
+Prat	2
+Pratz	2
+Prayssac	2
+Prenay	2
+Pressignac	2
+Pressigny	2
+Prévenchères	2
+Prey	2
+Prinçay	2
+Prissé	2
+Prouville	2
+Prunay	2
+Pruno	2
+Puget	2
+Puiseux	2
+Puisieux	2
+Puxe	2
+Puy Blanc	2
+Puymoreau	2
+Puyraveau	2
+Puzieux	2
+Pys	2
+Quelneuc	2
+Querciolo	2
+Queyrières	2
+Quézac	2
+Quincerot	2
+Quincy	2
+Quissac	2
+Rahon	2
+Ramecourt	2
+Rampon	2
+Rançon	2
+Rancourt	2
+Randan	2
+Ransart	2
+Ranville	2
+Raville	2
+Reclinghem	2
+Récourt	2
+Reculay	2
+Regny	2
+Reignac	2
+Reignat	2
+Reigny	2
+Réjaumont	2
+Remaucourt	2
+Remicourt	2
+Remigny	2
+Rémilly	2
+Remoncourt	2
+Renac	2
+René	2
+Renève	2
+Renouval	2
+Rétaud	2
+Reuilly	2
+Réville	2
+Revin	2
+Reynier	2
+Rhodes	2
+Rhodon	2
+Rians	2
+Ribeaucourt	2
+Ribes	2
+Ricarville	2
+Ricaud	2
+Richeville	2
+Ricquebourg	2
+Rieussec	2
+Rillé	2
+Rimont	2
+Riols	2
+Riousse	2
+Ris	2
+Risoul	2
+Rivery	2
+Roanne	2
+Robion	2
+Rochebrune	2
+Rochegude	2
+Roches	2
+Rocquemont	2
+Rocquencourt	2
+Rodde	2
+Rodon	2
+Rogny	2
+Roinville	2
+Romagny	2
+Roman	2
+Romans	2
+Romefort	2
+Romigny	2
+Romilly	2
+Ronchères	2
+Roncourt	2
+Rongères	2
+Ronquerolles	2
+Roppenheim	2
+Roquebrune	2
+Roquemaure	2
+Rosenwiller	2
+Rosey	2
+Rosoy	2
+Rothois	2
+Roubion	2
+Rouelles	2
+Roumagnac	2
+Rourebel	2
+Rousseau	2
+Rousseville	2
+Roussines	2
+Routot	2
+Rouves	2
+Rouze	2
+Roye	2
+Royères	2
+Royon	2
+Rudeau-Ladosse	2
+Rue	2
+Ruère	2
+Ruffec	2
+Ruffiac	2
+Rumigny	2
+Rumilly	2
+Rumont	2
+Rœux	2
+Sabatier	2
+Sablonnières	2
+Sablons	2
+Sacey	2
+Sacy	2
+Sagy	2
+Saillac	2
+Saillans	2
+Saillant	2
+Sains	2
+Saint-Ambroix	2
+Saint-André-des-Eaux	2
+Saint-Antonin	2
+Saint-Apollinaire	2
+Saint-Appolinard	2
+Saint-Arroman	2
+Saint-Astier	2
+Saint-Auban	2
+Saint-Aubert	2
+Saint-Aubin-des-Bois	2
+Saint-Aubin-sur-Mer	2
+Saint-Aulaye	2
+Saint-Avit-de-Soulège	2
+Saint-Bard	2
+Saint-Basile	2
+Saint-Bauzile	2
+Saint-Beauzire	2
+Saint-Bresson	2
+Saint-Caradec	2
+Saint-Césaire	2
+Saint-Chamant	2
+Saint-Chartres	2
+Saint-Chavit	2
+Saint-Christaud	2
+Saint-Cirgues	2
+Saint-Constant	2
+Saint-Coutant	2
+Saint-Créac	2
+Saint-Cricq	2
+Saint-Denis-de-Jouhet	2
+Saint-Donat	2
+Saint-Efflam	2
+Saint-Erblon	2
+Saint-Étienne-du-Bois	2
+Saint-Eusèbe	2
+Saint-Exupéry	2
+Saint-Ferjeux	2
+Saint-Florentin	2
+Saint-Flour	2
+Saint-Fraimbault	2
+Saint-Gal	2
+Saint-Geniès	2
+Saint-Genis	2
+Saint-Georges-sur-Loire	2
+Saint-Géraud	2
+Saint-Germain-des-Bois	2
+Saint-Germain-Laval	2
+Saint-Germain-le-Gaillard	2
+Saint-Gorgon	2
+Saint-Gratien	2
+Saint-Igest	2
+Saint-Isidore	2
+Saint-Jean-aux-Bois	2
+Saint-Jean-des-Vignes	2
+Saint-Jean-le-Blanc	2
+Saint-Jeannet	2
+Saint-Jérôme	2
+Saint-Julien-Maumont	2
+Saint-Lary	2
+Saint-Laurent-des-Bois	2
+Saint-Laurent-des-Combes	2
+Saint-Léger-aux-Bois	2
+Saint-Lizier	2
+Saint-Lucien	2
+Saint-Maclou	2
+Saint-Maixant	2
+Saint-Mamert	2
+Saint-Mandé	2
+Saint-Marcouf	2
+Saint-Melaine	2
+Saint-Nabor	2
+Saint-Nicolas-des-Bois	2
+Saint-Nicolas-la-Chapelle	2
+Saint-Pabu	2
+Saint-Paër	2
+Saint-Pancrasse	2
+Saint-Pardoux-le-Neuf	2
+Saint-Paterne	2
+Saint-Paul-le-Jeune	2
+Saint-Pellerin	2
+Saint-Perdoux	2
+Saint-Philippe	2
+Saint-Piat	2
+Saint-Pierre-de-Nogaret	2
+Saint-Pierre-des-Ifs	2
+Saint-Pont	2
+Saint-Porchaire	2
+Saint-Privé	2
+Saint-Remimont	2
+Saint-Remy	2
+Saint-Riquier	2
+Saint-Roman	2
+Saint-Sardos	2
+Saint-Sauvant	2
+Saint-Servais	2
+Saint-Sever	2
+Saint-Sulpice-des-Landes	2
+Saint-Sulpice-les-Champs	2
+Saint-Thibaut	2
+Saint-Thuriau	2
+Saint-Thurien	2
+Saint-Tugdual	2
+Saint-Urbain	2
+Saint-Usage	2
+Saint-Valérien	2
+Saint-Vincent-de-Paul	2
+Saint-Vincent-des-Prés	2
+Saint-Vrain	2
+Sainte-Agathe	2
+Sainte-Anastasie	2
+Sainte-Austreberthe	2
+Sainte-Blandine	2
+Sainte-Élisabeth	2
+Sainte-Florence	2
+Sainte-Geneviève-des-Bois	2
+Sainte-Gertrude	2
+Sainte-Livrade	2
+Sainte-Luce	2
+Sainte-Marie-de-Gosse	2
+Sainte-Marie-du-Bois	2
+Sainte-Marie-du-Mont	2
+Sainte-Reine	2
+Sainte-Terre	2
+Salagnac	2
+Salan	2
+Salgues	2
+Salins	2
+Salomon	2
+Salon	2
+Sampolo	2
+Sand	2
+Sanglier	2
+Santeuil	2
+Santilly	2
+Sapois	2
+Sarcenas	2
+Sarcey	2
+Sarniguet	2
+Sarran	2
+Sarrazac	2
+Sarrette	2
+Sarzay	2
+Saugy	2
+Saules	2
+Saulnières	2
+Saulxures	2
+Saumane	2
+Saussey	2
+Saussines	2
+Sauvages	2
+Sauvagny	2
+Sauviac	2
+Sauviat	2
+Sauville	2
+Saux	2
+Savas	2
+Savennes	2
+Savigneux	2
+Sceaux	2
+Ségalas	2
+Sem	2
+Semblançay	2
+Semilly	2
+Semoutiers-Montsaon	2
+Senantes	2
+Sendets	2
+Senlis	2
+Sennevières	2
+Senoueix	2
+Sens	2
+Septfonds	2
+Seraincourt	2
+Serans	2
+Sère	2
+Serez	2
+Sergy	2
+Sérigné	2
+Sermaize	2
+Sermet	2
+Serqueux	2
+Serrières-de-Briord	2
+Sers	2
+Servas	2
+Serviès	2
+Servigney	2
+Servins	2
+Sery	2
+Seuil	2
+Seuilly	2
+Seyssel	2
+Sigogne	2
+Sigoyer	2
+Silhac	2
+Sion	2
+Sireuil	2
+Sirieix	2
+Sisteron	2
+Sivry	2
+Soignolles	2
+Solesmes	2
+Soliers	2
+Songy	2
+Sonnay	2
+Sonville	2
+Sorbets	2
+Sorbey	2
+Sorbiers	2
+Sorges	2
+Sornay	2
+Sotteville	2
+Soubrebost	2
+Soucy	2
+Soudan	2
+Soues	2
+Sougé	2
+Soulage	2
+Soulan	2
+Soulignac	2
+Sourdeval	2
+Sourdon	2
+Souyri	2
+Soyécourt	2
+Spoy	2
+Squiffiec	2
+Steinbach	2
+Sugère	2
+Sugères	2
+Sugny	2
+Surin	2
+Surjoux	2
+Surmont	2
+Sury	2
+Susville	2
+Suzanne	2
+Tagliu Rossu	2
+Taillebourg	2
+Taillefer	2
+Taillepied	2
+Taizé	2
+Tajan	2
+Talcy	2
+Talon	2
+Tannay	2
+Taponas	2
+Tarsac	2
+Tarzy	2
+Taverne	2
+Tayrac	2
+Teillé	2
+Theix	2
+Thénac	2
+Thenay	2
+Thézac	2
+Thèze	2
+Thieux	2
+Thièvres	2
+Thionville	2
+Thizay	2
+Thorey	2
+Thorigné	2
+Thors	2
+Thury	2
+Thuy	2
+Ti Gwenn	2
+Tillé	2
+Tissey	2
+Tocqueville	2
+Tonnac	2
+Tonneville	2
+Torcy-le-Grand	2
+Torcy-le-Petit	2
+Torpes	2
+Torre	2
+Tôtes	2
+Touffreville	2
+Touques	2
+Tournay	2
+Tourneville	2
+Tournon	2
+Tourteron	2
+Touzac	2
+Trécon	2
+Tréflez	2
+Trégastel	2
+Treignac	2
+Treigny	2
+Tremblay	2
+Trémeur	2
+Tréméven	2
+Trémorel	2
+Trémouilles	2
+Trémoulines	2
+Tréveneuc	2
+Trèves	2
+Trévien	2
+Trieux	2
+Trigance	2
+Trizay	2
+Troche	2
+Trompette	2
+Tronville	2
+Trossy	2
+Troubat	2
+Trouillas	2
+Troyes	2
+Trugny	2
+Tully	2
+Turgon	2
+Urval	2
+Ussac	2
+Uzer	2
+Vachères	2
+Vacquières	2
+Vadans	2
+Vadencourt	2
+Vaivre	2
+Valay	2
+Valcourt	2
+Valeins	2
+Valeix	2
+Vallet	2
+Valmont	2
+Valojoulx	2
+Valprionde	2
+Vandières	2
+Vannes	2
+Vantoux	2
+Varzay	2
+Vassieux	2
+Vassonville	2
+Vauchamps	2
+Vauciennes	2
+Vaucluse	2
+Vaudricourt	2
+Vaudry	2
+Vaulx	2
+Vaunac	2
+Vaure	2
+Vaures	2
+Vauville	2
+Vauvillers	2
+Vayres	2
+Védrines	2
+Veigy	2
+Velennes	2
+Velles	2
+Vendes	2
+Vendeuil	2
+Vendôme	2
+Venise	2
+Venon	2
+Vens	2
+Vensac	2
+Venterol	2
+Verdon	2
+Véret	2
+Verfeil	2
+Vergné	2
+Vergnes	2
+Vérigny	2
+Vernaison	2
+Vernusse	2
+Véron	2
+Verrine	2
+Versigny	2
+Versonnex	2
+Vert Village	2
+Vertus	2
+Vervant	2
+Vesly	2
+Vesvres	2
+Vesvrotte	2
+Veyrac	2
+Veyrines	2
+Vézac	2
+Vèze	2
+Vezins	2
+Vibrac	2
+Vidal	2
+Vieille Ville	2
+Vieillevigne	2
+Viella	2
+Vienne	2
+Vierville	2
+Vieux-Maisons	2
+Vieux-Moulin	2
+Viévy	2
+Vignes	2
+Vigneulles	2
+Vignols	2
+Vignory	2
+Village d'en Haut	2
+Villalier	2
+Ville Morvan	2
+Ville Perdue	2
+Ville Vieille	2
+Villefargeau	2
+Villefort	2
+Villefranque	2
+Villegats	2
+Villejaleix	2
+Villejésus	2
+Villejoubert	2
+Villemain	2
+Villemer	2
+Villemoyenne	2
+Villenouvelle	2
+Villeperdue	2
+Villepinte	2
+Villeporcher	2
+Villepot	2
+Villerest	2
+Villeret	2
+Villeron	2
+Villers-Bocage	2
+Villesauveix	2
+Villesèque	2
+Villevêque	2
+Villiers-le-Bois	2
+Villiers-sur-Marne	2
+Villon	2
+Villotte	2
+Villy	2
+Vimont	2
+Vinay	2
+Vineuil	2
+Vion	2
+Vira	2
+Viré	2
+Virey	2
+Virollet	2
+Visy	2
+Viville	2
+Vizzavona	2
+Voigny	2
+Voisines	2
+Volvent	2
+Vors	2
+Vougy	2
+Vouillé	2
+Vraincourt	2
+Wamin	2
+Warcq	2
+Warlus	2
+Willer	2
+Winkel	2
+Xousse	2
+Yerville	2
+Yvrac	2
+Zoteux	2
+Œuilly	2

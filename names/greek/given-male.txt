@@ -1,0 +1,899 @@
+Giorgos	933
+Dimitris	719
+Georgios	577
+Nikos	478
+Giannis	440
+Konstantinos	408
+Ioannis	366
+Vasilis	326
+Andreas	310
+Panagiotis	307
+Kostas	302
+Nikólaos	298
+Christos	285
+Demetrios	275
+Vassilios	202
+Athanasios	192
+Antonis	190
+Antonios	131
+Michalis	129
+Spiros	125
+Theodoros	118
+Petros	112
+Ilias	98
+Stefanos	91
+Demetrio	89
+Apostolos	87
+Charalampos	82
+Pavlos	78
+Michael	77
+Anastasios	75
+Stavros	74
+Evangelos	69
+Angelos	68
+Spyridon	68
+George	66
+Stelios	66
+Alexis	59
+Sotiris	52
+Thanos	51
+Tasos	50
+Thanasis	49
+Takis	48
+Vangelis	48
+Panos	44
+Manolis	40
+Marios	40
+Emmanouil	37
+Epameinondas	36
+Lefteris	36
+Foma	35
+Kyriakos	35
+Emmanuel	33
+John	32
+Aristidis	31
+Aris	30
+Filippos	30
+Georges	30
+Grigoris	30
+Savvas	29
+Stylianos	29
+Thomas	29
+Periklis	26
+Gerasimos	25
+Loukas	25
+Stathis	25
+Fotis	24
+Pantelis	24
+Makis	23
+Nikolas	23
+Peter	23
+Iosif	22
+Dimitrios	20
+Charilaos	19
+Alekos	18
+Aryiris	18
+Christoforos	18
+Grigorios	18
+Haris	18
+Kostis	18
+Manos	18
+Panagis	18
+Adamantios	17
+Ioánnis	17
+Panayotis	17
+Aristotelis	16
+Chrysanthos	16
+Elias	16
+Nikolaos	16
+Odysseas	16
+Sakis	16
+Sotirios	16
+Stamatis	16
+Christophoros	15
+Diamantis	15
+Iakovos	15
+Lambros	15
+Markos	15
+Thodoris	15
+Dimosthenis	14
+Leon	14
+Mikhail	14
+Triantaphyllos	14
+Efstathios	13
+Eleftherios	13
+Lakis	13
+Miltiades	13
+Miltos	13
+Nicholas	13
+Themis	13
+Theoharis	13
+Vasileios	13
+Alexander	12
+Bampis	12
+Christodoulos	12
+Dimitri	12
+Efthimis	12
+Tilemachos	12
+Akis	11
+Alex	11
+Jean	11
+Orestis	11
+Stávros	11
+Yannis	11
+Anestis	10
+Giorgis	10
+Spyros	10
+Basileios	9
+David	9
+Fivos	9
+Mimis	9
+Minos	9
+Nasos	9
+Nicolas	9
+Polychronis	9
+Prodromos	9
+Sokratis	9
+Stamatios	9
+Thimios	9
+Agamemnon	8
+Aimilios	8
+Constantin	8
+Dionisios	8
+Efthymios	8
+Iraklis	8
+Jacques	8
+Lykourgos	8
+Michel	8
+Notis	8
+Renos	8
+Themistoklis	8
+Tolis	8
+Xenofon	8
+Alkis	7
+Aryirios	7
+Asteris	7
+Chris	7
+Chrysostomos	7
+Georg	7
+Harry	7
+Kimon	7
+Menelaos	7
+Michail	7
+Napoleon	7
+Nick	7
+Nikitas	7
+Ntinos	7
+Paul	7
+Theo	7
+Theodore	7
+Timoleon	7
+Alexandre	6
+Angelo	6
+Antonio	6
+Aristides	6
+Charalambos	6
+Chrístos	6
+Daniel	6
+Dimos	6
+Efstratios	6
+Efthimios	6
+Evgenios	6
+Fragiskos	6
+Johannes	6
+Lazaros	6
+Leandros	6
+Manousos	6
+Margaritis	6
+Minas	6
+Omiros	6
+Othon	6
+Phaedon	6
+Solon	6
+Theofilos	6
+Thodoros	6
+Titos	6
+Viktor	6
+Achille	5
+Adam	5
+Amvrosios	5
+Andréas	5
+Anthimos	5
+Avraam	5
+Blaise	5
+Charis	5
+Evripides	5
+Fanis	5
+Georgis	5
+Iason	5
+Iasonas	5
+Igor	5
+Isidoros	5
+Kleon	5
+Kosmas	5
+Louis	5
+Mitsos	5
+Nestor	5
+Nikephoros	5
+Simos	5
+Stratos	5
+Theofanis	5
+Trifon	5
+Viktōr	5
+Viron	5
+William	5
+Yiannis	5
+Zacharias	5
+Adrian	4
+Andrea	4
+Apostolis	4
+Basil	4
+Christian	4
+Constantine	4
+Errikos	4
+Gabriel	4
+Gavriel	4
+Giorgio	4
+Hermann	4
+Iannis	4
+Ion	4
+Iordanis	4
+Irineos	4
+Jim	4
+Josef	4
+Joseph	4
+Karolos	4
+Kleomenis	4
+Kyrillos	4
+Linos	4
+Nikiforos	4
+Pierre	4
+Sarantis	4
+Simon	4
+Sophocles	4
+Stephen	4
+Tassos	4
+Thalis	4
+Théodore	4
+Theodosios	4
+Thrasyvoulos	4
+Vaios	4
+Vasily	4
+Vasos	4
+Victor	4
+Achilleas	3
+Adonis	3
+Adrianos	3
+Agathangelos	3
+Akylas	3
+Alberto	3
+Anastasis	3
+André	3
+Antoine	3
+Anton	3
+Athanassios	3
+Billy	3
+Byron	3
+Christopher	3
+Chronis	3
+Demetres	3
+Dennis	3
+Dimitar	3
+Dušan	3
+Fotios	3
+Georgy	3
+Germanus	3
+Gregorios	3
+Harris	3
+Hercules	3
+Isaak	3
+Ivan	3
+James	3
+Jerzy	3
+Jules	3
+Karl	3
+Ksenophon	3
+Leonidas	3
+Manuel	3
+Mario	3
+Matthaios	3
+Myron	3
+Nico	3
+Panteleimon	3
+Paschalis	3
+Pericles	3
+Platon	3
+Polivios	3
+Rafael	3
+Spiridonas	3
+Steve	3
+Theofrastos	3
+Theoklitos	3
+Thrasivoulos	3
+Timotheos	3
+Tomas	3
+Vladimir	3
+Vrasidas	3
+Xenophon	3
+Yitzhak	3
+Afanasy	2
+Aggelis	2
+Albert	2
+Alec	2
+Aleksandr	2
+Aleksi	2
+Alexi	2
+Alexios	2
+Alkinoos	2
+Alkiviades	2
+Andrej	2
+Andrew	2
+Angeliki	2
+Anthony	2
+Aristeides	2
+Aristide	2
+Arsenio	2
+Athos	2
+Ayis	2
+Carl	2
+Chaim	2
+Chariton	2
+Constantino	2
+Constantinos	2
+Costantino	2
+Costas	2
+Dan	2
+Demis	2
+Denis	2
+Despina	2
+Dimitros	2
+Dmitry	2
+Dragan	2
+Eduard	2
+Ektoras	2
+Elia	2
+Emilios	2
+Epiphanios	2
+Étienne	2
+Evan	2
+Felopimin	2
+Filios	2
+Francesco	2
+Freddy	2
+Frederick	2
+Georgia	2
+Geórgios	2
+Giovanni	2
+Gregory	2
+Hector	2
+Hektor	2
+Hristo	2
+Ian	2
+Ierokles	2
+Ieronimos	2
+Jack	2
+Jannis	2
+Jason	2
+Joachim	2
+Johann	2
+Jorge	2
+José	2
+Kallinikos	2
+Kenny	2
+Kevin	2
+Kimonas	2
+Konstantin	2
+Kornilios	2
+Leo	2
+Leonardo	2
+Leonid	2
+Lorenzo	2
+Luc	2
+Ludwig	2
+Maksim	2
+Marcel	2
+Marcus	2
+Marinos	2
+Mark	2
+Maurice	2
+Max	2
+Maximos	2
+Mihalis	2
+Mike	2
+Mikis	2
+Milan	2
+Miltiadis	2
+Miroslav	2
+Moisis	2
+Neoklis	2
+Niko	2
+Nikolay	2
+Nontas	2
+Pantoleon	2
+Pedro	2
+Phontas	2
+Richard	2
+Roberto	2
+Sebastian	2
+Sergey	2
+Simeon	2
+Socrates	2
+Sotos	2
+Théo	2
+Theodor	2
+Thrasos	2
+Tony	2
+Totis	2
+Tryfon	2
+Vasil	2
+Víctor	2
+Yannos	2
+Yevgeny	2
+Yiangos	2
+Đorđe	2
+Abdul
+Achilles
+Acindino
+Adel
+Adolf
+Agathon
+Agenor
+Aggelos
+Agostino
+Agron
+Ahmet
+Akira
+Alan
+Albi
+Alcetas
+Aleko
+Aleksandar
+Aleksej
+Aleksey
+Alexandris
+Alexandru
+Alfa
+Ali
+Alun
+Amedeo
+Amet
+Anárgyros
+Anastas
+Anastasio
+Andi
+Andre
+Andrei
+Andrey
+Andronikos
+Andrzej
+Anestos
+Ange
+Angel
+Angely
+Anna
+Annivas
+Antaios
+Anthim
+Antiochos
+Antoin
+Antrea
+Ara
+Archelaus
+Archie
+Argyris
+Aristarchus
+Aristos
+Aristoteles
+Aristotle
+Aristoxenos
+Armen
+Arsen
+Arshavir
+Artem
+Arto
+Artyom
+Asher
+Asimakis
+Aslan
+Atanas
+Athanase
+Augusto
+Aurelius
+Ávgoustos
+Avraham
+Barnabas
+Bartholomew
+Bartolomeo
+Basile
+Basilio
+Basilis
+Ben
+Benizelos
+Benjamin
+Bill
+Bledar
+Bob
+Boban
+Bonifatius
+Branislav
+Bruno
+Burhan
+César
+Çetin
+Charles
+Christakis
+Claude
+Clemente
+Cornelius
+Cornélius
+Cory
+Cosmas
+Costa
+Craig
+Cyparissos
+Cyriaque
+Damian
+Damon
+Dani
+Dániel
+Daniil
+Danis
+Dante
+Dario
+Däuren
+Dávid
+Demetre
+Demetri
+Demetris
+Denys
+Dinko
+Dino
+Dinos
+Diomidis
+Dionisis
+Doménikos
+Donaldo
+Donato
+Done
+Doniert
+Doukas
+Dumitru
+Edward
+Eftychios
+Eleni
+Élie
+Elijah
+Eliyahu
+Emanuel
+Ephraim
+Eric
+Erik
+Ermis
+Ernest
+Ernst
+Ersi
+Esteban
+Eugene
+Eugène
+Eupolemos
+Euripide
+Eustache
+Evaggelos
+Evangelinos
+Evangelo
+Ezekiel
+Fabio
+Fatjon
+Febo
+Fedros
+Ferdinand
+Filiz
+Filon
+Florus
+Fokion
+Francis
+Frank
+Franko
+Frederic
+Fredis
+Frixos
+Fyodor
+Gaios
+Gareth
+Gaspar
+Gennadios
+Gennady
+Georg Ernst
+George-Julius
+Georgi
+Giagtzis
+Gianni
+Gilbert
+Giōrgos
+Giuseppe
+Grant
+Gregg
+Gregorius
+Gus
+Gust
+György
+Hagen
+Hamilcar
+Haridemos
+Harilaos
+Heinrich
+Helias
+Henry
+Herbert
+Hermogenes
+Homer
+Hugo
+Hüseyin
+Hussein
+Ían
+Ibrahim
+Ignatius
+Ignaz
+Ilie
+Ioakim
+Ioan
+Ioanna
+Ionas
+Isaac
+Isacco
+Isaias
+Jacko
+Jacob
+Jake
+Jany
+Jeffrey
+Jelle
+Jeremiah
+Jeremias
+Jérôme
+Jersey
+Jimmy
+Joannis
+Joel
+Johan
+Johnny
+Jon
+Jonas
+Jordi
+Jorgo
+Jorgos
+Jorgosz
+Jourdan
+Jovan
+Juan
+Juan Ramón
+Karim
+Kenan
+Khariton
+Kiriakos
+Kirill
+Klaudjo
+Klearchos
+Konstantínos
+Kōnstantinos
+Konstantios
+Kopi
+Kosta
+Kristian
+Kristijan
+Kriton
+Ksenis
+Ksenophontas
+Kyriacos
+Kyros
+Laerte
+Laertis
+Laokratis
+Laonikos
+Lazăr
+Lazarus
+Lazzaro
+Leander
+Lee
+Lény
+Léon
+Leonida
+Léonidas
+Llazar
+Loris
+Loukis
+Lucas
+Luciano
+Lukas
+Maik
+Makarios
+Marc
+Marcos
+Marius
+Marko
+Markos Antonios
+Marwan
+Massimiliano
+Mateusz
+Mathias
+Matt
+Matthäus
+Matthias
+Mavroudes
+Maxime
+Maximilian
+Meir
+Michaël
+Michele
+Miguel
+Mikael
+Mikelis
+Mikhaïl
+Miloš
+Mirko
+Mirto
+Misail
+Missas
+Mitar
+Mitrydates
+Mordecai
+Moris
+Muammer
+Mustafa
+Nakēs
+Nastoulis
+Nazareth
+Nectarios
+Neritan
+Nickolas
+Nicky
+Nicodemus
+Nicola
+Nicolò
+Nikita
+Nikoghos
+Nikola
+Nikolaus
+Nikolla
+Nino
+Noah
+Ohannes
+Okan
+Oluf
+Oreste
+Orhan
+Otto
+Oumvertos
+Pandely
+Pando
+Pano
+Paolo
+Paris
+Pat
+Patrikios
+Patroclos
+Paulos
+Peppo
+Percy
+Péricles
+Périclès
+Perikles
+Pete
+Petro
+Phakorn
+Philaretos
+Philip
+Philipp
+Philippe
+Phillip
+Pietro
+Ploutarchos
+Policarpo
+Predrag
+Pyrrhos
+Quincy
+Radoslav
+Radu
+Rafail
+Rallis
+Raoul
+Ratibor
+Rhoikos
+Rika
+Risto
+Roman
+Romanus
+Ross
+Sadık
+Saki
+Salvator
+Sargis
+Saša
+Saúl
+Savva
+Serafim
+Serge
+Sergios
+Sevastianos
+Shane
+Sina
+Slobodan
+Socrate
+Sokrates
+Solomon
+Sophia
+Spiridon
+Spiridon-Adonis
+Srđan
+Stamos
+Stan
+Stavri
+Stefan
+Stefano
+Stella
+Stepan
+Stephan
+Stéphane
+Stevan
+Steven
+Strati
+Symeon
+Szókratész
+Tamás
+Tatiana
+Telis
+Teófilo
+Terence
+Terry
+Thanasoulas
+Themistocles
+Theodosis
+Théophile
+Theophylactos
+Tigran
+Tiit
+Timoléon
+Timos
+Todor
+Tomasz
+Tonis
+Triantafilos
+Trifonas
+Tristan
+Tyler
+Ugo
+Valentino
+Valerius
+Valery
+Vangos
+Vano
+Vardis
+Vasile
+Vasilios
+Vassili
+Vasyl
+Vedat
+Veniamin
+Vilhelm
+Walter
+Wiktor
+Wilhelm
+Xaver
+Yanaki
+Yehuda
+Yevhen
+Yiorgos
+Yiotis
+Yorgo
+Yossi
+Yury
+Yussef
+Yves
+Zaccaria
+Zachary
+Zak
+Zaphos
+Zeca
+Zenon
+Zvi
+Zygmunt

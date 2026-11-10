@@ -1,0 +1,5000 @@
+Babići	12
+Dubrava	12
+Selište	12
+Kovačevići	11
+Novo Selo	11
+Jukići	10
+Perići	10
+Kneževići	9
+Marići	9
+Polje	9
+Popovići	9
+Staro Selo	9
+Vučkovići	9
+Lončari	8
+Sveti Ivan	8
+Vukovići	8
+Bašići	7
+Dukići	7
+Gorica	7
+Gornje Selo	7
+Gradina	7
+Knežević	7
+Lukići	7
+Marasi	7
+Matići	7
+Pavičići	7
+Radići	7
+Šarići	7
+Soline	7
+Uzelci	7
+Brdo	6
+Brđani	6
+Bukovac	6
+Cvitkovići	6
+Drage	6
+Gradac	6
+Jurkovići	6
+Klarići	6
+Luka	6
+Mandići	6
+Novaki	6
+Pavići	6
+Petrovići	6
+Radovići	6
+Šušnjari	6
+Blato	5
+Bogovići	5
+Brajkovići	5
+Cindrići	5
+Diklići	5
+Duboka	5
+Jelavići	5
+Jerkovići	5
+Katići	5
+Klanac	5
+Kruševo	5
+Lipovac	5
+Lovrići	5
+Lug	5
+Majstorovići	5
+Marasovići	5
+Markovići	5
+Matkovići	5
+Ovčara	5
+Pejnovići	5
+Podgora	5
+Podgorje	5
+Poljak	5
+Poljana	5
+Poljica	5
+Poljice	5
+Rakići	5
+Rosulje	5
+Rudine	5
+Rukavine	5
+Škorići	5
+Stanići	5
+Sveti Petar	5
+Tuk	5
+Vlaka	5
+Vranići	5
+Vrpolje	5
+Vučjak	5
+Vukelići	5
+Zelići	5
+Bajići	4
+Baraći	4
+Blaževići	4
+Borojevići	4
+Bošnjaci	4
+Brčići	4
+Brezik	4
+Delići	4
+Devčići	4
+Devići	4
+Divići	4
+Dolac	4
+Doljani	4
+Dolovi	4
+Donje Selo	4
+Donji Kraj	4
+Došeni	4
+Draga	4
+Drenovac	4
+Glavica	4
+Glavice	4
+Goljak	4
+Gornji Kraj	4
+Hećimovići	4
+Hinići	4
+Ivančevići	4
+Jurići	4
+Kamenica	4
+Kaniža	4
+Kesići	4
+Knezovići	4
+Korita	4
+Kosa	4
+Kraj	4
+Krnete	4
+Kula	4
+Lučica	4
+Marinci	4
+Markovac	4
+Matijevići	4
+Miljkovići	4
+Mirkovići	4
+Momčilovići	4
+Nikšići	4
+Novakovići	4
+Obradovići	4
+Ostojići	4
+Otok	4
+Perkovići	4
+Potkraj	4
+Radulovići	4
+Rajkovići	4
+Rastovac	4
+Ravnice	4
+Rudeži	4
+Seline	4
+Selnica	4
+Strmec	4
+Sveti Križ	4
+Tadići	4
+Tokići	4
+Tolići	4
+Tomići	4
+Topolje	4
+Trnovac	4
+Vodice	4
+Vukmirovići	4
+Vuletići	4
+Zagorje	4
+Živaljići	4
+Ðurići	4
+Arbanasi	3
+Bande	3
+Bani	3
+Banja	3
+Banjani	3
+Banovci	3
+Barići	3
+Basara	3
+Borkovići	3
+Borovci	3
+Božići	3
+Bradarići	3
+Bralići	3
+Brezje	3
+Brezovac	3
+Brezovljani	3
+Bulati	3
+Buljani	3
+Butkovići	3
+Bužim	3
+Čatrnja	3
+Celine	3
+Cerje	3
+Cernik	3
+Čitluk	3
+Čovići	3
+Crnogorci	3
+Ćurkovići	3
+Dmitrovići	3
+Doci	3
+Dol	3
+Dragaši	3
+Dragovići	3
+Draženovići	3
+Dražica	3
+Dropulići	3
+Drvenik	3
+Dubravica	3
+Dujmovići	3
+Glavaši	3
+Gornja Dubrava	3
+Grabovac	3
+Gračac	3
+Graovci	3
+Grbići	3
+Gregurovec	3
+Grgići	3
+Grljušići	3
+Gudelji	3
+Jakići	3
+Jakšići	3
+Jasenovac	3
+Jelići	3
+Jezero	3
+Joševica	3
+Jurlina	3
+Kamensko	3
+Klačina	3
+Kozjača	3
+Kraljev Vrh	3
+Krč	3
+Krivaja	3
+Krš	3
+Kunić	3
+Kurtovići	3
+Lanišće	3
+Lisac	3
+Lisina	3
+Ljubač	3
+Ljubičići	3
+Majići	3
+Mala Gorica	3
+Maljkovići	3
+Malo Selo	3
+Manojlovići	3
+Marinovići	3
+Medići	3
+Mihaljevići	3
+Mijići	3
+Milanovac	3
+Milanovići	3
+Milasi	3
+Milići	3
+Miljuši	3
+Milna	3
+Mračaj	3
+Mrgan	3
+Mrkonjići	3
+Murgići	3
+Nenadići	3
+Njivice	3
+Nova Sela	3
+Nova Vas	3
+Novak	3
+Novkovići	3
+Novo Brdo	3
+Novo Naselje	3
+Okrug Gornji	3
+Opatija	3
+Orehovica	3
+Orlovac	3
+Pavić	3
+Pavlovac	3
+Pećina	3
+Perišići	3
+Petričevići	3
+Pivci	3
+Plešivica	3
+Ploče	3
+Podastrana	3
+Podgradina	3
+Podgrađe	3
+Podrug	3
+Popovača	3
+Potok	3
+Prkos	3
+Prnjavor	3
+Pržići	3
+Radakovići	3
+Ravlići	3
+Razbojište	3
+Rudelići	3
+Rupe	3
+Ružići	3
+Sablići	3
+Sabljaki	3
+Samardžije	3
+Selo	3
+Senj	3
+Slatina	3
+Smokvica	3
+Stambolije	3
+Starigrad	3
+Sučići	3
+Surle	3
+Sveti Ante	3
+Sveti Marko	3
+Sveti Rok	3
+Svilari	3
+Tojagići	3
+Tomaševići	3
+Trolokve	3
+Trstenik	3
+Turići	3
+Ugljane	3
+Varoš	3
+Veljun	3
+Vojvodići	3
+Vrbani	3
+Vrbica	3
+Vrh	3
+Zabreže	3
+Žakule	3
+Zalužje	3
+Zaton	3
+Zavođe	3
+Završje	3
+Agbabe	2
+Akrap	2
+Alan	2
+Alavanja	2
+Aleksići	2
+Alerići	2
+Antonci	2
+Antunovac	2
+Apatija	2
+Arapovac	2
+Bačva	2
+Baketići	2
+Bakići	2
+Bakovac	2
+Balići	2
+Bandići	2
+Banići	2
+Banj	2
+Bara	2
+Barbiri	2
+Bare	2
+Baredine	2
+Basarići	2
+Batarelo	2
+Batina	2
+Batović	2
+Belaj	2
+Belavići	2
+Benčići	2
+Bičine	2
+Bijanko	2
+Bijelići	2
+Bijelo Brdo	2
+Bili Brig	2
+Bilice	2
+Bilići	2
+Birovača	2
+Bjelići	2
+Bjelobabe	2
+Blanuše	2
+Boban	2
+Bogatić	2
+Bogatnik	2
+Bogdanovići	2
+Bojana	2
+Bokšić	2
+Borak	2
+Borik	2
+Borje	2
+Borovići	2
+Borovik	2
+Božić	2
+Brajdići	2
+Bravići	2
+Breg	2
+Brest	2
+Breza	2
+Brežani	2
+Brezine	2
+Brezovec	2
+Brezovica	2
+Bribir	2
+Brijeg	2
+Brkljači	2
+Brnobići	2
+Brodarica	2
+Bruvno	2
+Bučani	2
+Bučje	2
+Budak	2
+Budići	2
+Budimir	2
+Budžak	2
+Buići	2
+Buk	2
+Bukarica	2
+Bukevje	2
+Buković	2
+Bulovići	2
+Bunica	2
+Burići	2
+Buzeta	2
+Buzin	2
+Čalići	2
+Carevići	2
+Čelani	2
+Ćelije	2
+Čelina	2
+Čemernica	2
+Centar	2
+Cere	2
+Cerovica	2
+Cicvare	2
+Ciglenica	2
+Ciglenik	2
+Čorići	2
+Ćosići	2
+Črečan	2
+Crna Gora	2
+Crnac	2
+Crni Kal	2
+Crni Lug	2
+Crno	2
+Čubelići	2
+Ćubići	2
+Čukovec	2
+Čvrljevo	2
+Dabar	2
+Dančanje	2
+Dane	2
+Debelo Brdo	2
+Dejanovići	2
+Dekovići	2
+Delovi	2
+Dereza	2
+Desnice	2
+Divoselo	2
+Dobra Voda	2
+Dobranje	2
+Dobrić	2
+Dobroselo	2
+Dolci	2
+Dolina	2
+Domazeti	2
+Donja Dubrava	2
+Donja Velika	2
+Donja Višnjica	2
+Donje Taborište	2
+Donji Kraljevec	2
+Donji Lipovac	2
+Donji Varoš	2
+Drače	2
+Dračevica	2
+Dragići	2
+Drenje	2
+Drenovci	2
+Dronjci	2
+Dropci	2
+Družijanići	2
+Družilovec	2
+Duba	2
+Dubovec	2
+Dubravci	2
+Dubrave	2
+Dugopolje	2
+Duliba	2
+Dumići	2
+Durići	2
+Dvori	2
+Dvorišće	2
+Erdelj	2
+Ervenik	2
+Ferenci	2
+Filipovići	2
+Francikovac	2
+Frkašić	2
+Funtana	2
+Gabrići	2
+Gagići	2
+Gaj	2
+Gajići	2
+Galići	2
+Galovac	2
+Galovići	2
+Gljevske Staje	2
+Gložđe	2
+Glušci	2
+Goli Vrh	2
+Golo Brdo	2
+Golubić	2
+Golubići	2
+Goranec	2
+Gorice	2
+Gornja Mala	2
+Gornja Pačetina	2
+Gornja Podgora	2
+Gornja Sočanica	2
+Gornja Velika	2
+Gornja Višnjica	2
+Gornjaki	2
+Gornjani	2
+Gornje Taborište	2
+Gornji Kraljevec	2
+Gornji Lipovac	2
+Gospić	2
+Grab	2
+Grabarje	2
+Grabovci	2
+Grabovica	2
+Gradine	2
+Gradinje	2
+Gradišće	2
+Grbavac	2
+Grbavci	2
+Grčići	2
+Greda	2
+Gređani	2
+Grgetići	2
+Grubići	2
+Grubišići	2
+Gunjače	2
+Gvozdići	2
+Horvati	2
+Hrastovac	2
+Hrgovići	2
+Hrkalovići	2
+Hruševec	2
+Hrvatini	2
+Hum	2
+Ilići	2
+Ilovik	2
+Istočna Plina	2
+Ivaniševići	2
+Ivankovići	2
+Jabuka	2
+Jabukovac	2
+Jadrići	2
+Jagnjići	2
+Jakovljevići	2
+Jakšić	2
+Jasenak	2
+Jasenovica	2
+Jatare	2
+Javorje	2
+Javorovići	2
+Jelov Klanac	2
+Jelovac	2
+Jesenice	2
+Jezera	2
+Jezerce	2
+Jolići	2
+Josipdol	2
+Jovac	2
+Jovanići	2
+Jurčevići	2
+Jurišići	2
+Jurjević	2
+Juzbašići	2
+Kajgana	2
+Kalac	2
+Kalanji	2
+Kalinić	2
+Kamešnica	2
+Kampor	2
+Kapela	2
+Kapelica	2
+Kapovići	2
+Karići	2
+Karoglani	2
+Kaštel	2
+Kasumovići	2
+Kestenovac	2
+Klisa	2
+Ključ	2
+Knez	2
+Kobiljak	2
+Kolaci	2
+Komin	2
+Kompolje	2
+Končari	2
+Konjsko	2
+Koprivna	2
+Koraći	2
+Korenica	2
+Koritna	2
+Kostanje	2
+Kostanjevac	2
+Kotezi	2
+Kovačevac	2
+Kovačević	2
+Kovači	2
+Kozarac	2
+Kozica	2
+Kozina	2
+Kranjci	2
+Krasica	2
+Kravljak	2
+Krčevine	2
+Kričke	2
+Krivodol	2
+Križ	2
+Križanče	2
+Krolo	2
+Krst	2
+Kručica	2
+Krušćica	2
+Kruškovac	2
+Krušljevec	2
+Kućišta	2
+Kupinovac	2
+Kurilji	2
+Kut	2
+Kutanja	2
+Kutleše	2
+Labin	2
+Lacići	2
+Ladišići	2
+Ladislav	2
+Lake	2
+Lakić	2
+Lalići	2
+Lasići	2
+Lazići	2
+Lazine	2
+Lađevac	2
+Ledenik	2
+Ledina	2
+Ležaja	2
+Ličine	2
+Liovići	2
+Lipa	2
+Lipnica	2
+Lipovača	2
+Ljiljci	2
+Ljubotić	2
+Lokve	2
+Lokvica	2
+Lolići	2
+Lopci	2
+Lovča	2
+Lovinac	2
+Loznica	2
+Ložnice	2
+Lukavec	2
+Lupoglav	2
+Mačkovac	2
+Macure	2
+Majar	2
+Majstrović	2
+Makovac	2
+Mala Gora	2
+Mala Učka	2
+Mali Bukovec	2
+Mali Kraj	2
+Mali Obljaj	2
+Mali Rastovac	2
+Mandić	2
+Marčetići	2
+Maretići	2
+Marinići	2
+Marušići	2
+Mateši	2
+Matešići	2
+Mazin	2
+Medakovići	2
+Medvidovići	2
+Međedi	2
+Međeđak	2
+Mihaljevci	2
+Mihatovići	2
+Mihovljan	2
+Mikulići	2
+Milaši	2
+Miletići	2
+Miljanovići	2
+Milkovići	2
+Miočic	2
+Miočić	2
+Mirići	2
+Miščevići	2
+Miškovići	2
+Mlini	2
+Mlinište	2
+Modruš	2
+Molvice	2
+Momići	2
+Mostanje	2
+Mrgani	2
+Mršići	2
+Mrzljaki	2
+Mrzlo Polje	2
+Mudnići	2
+Murvica	2
+Nekić	2
+Nikolići	2
+Niševići	2
+Nogale	2
+Nova	2
+Nova Kapela	2
+Nova Lipa	2
+Novakovec	2
+Novigrad	2
+Novoselci	2
+Novoselija	2
+Oborovo	2
+Obrovci	2
+Očura	2
+Okruglica	2
+Opačići	2
+Opatovac	2
+Orbanići	2
+Orehovec	2
+Oreškovići	2
+Orovac	2
+Osojnik	2
+Ostrovica	2
+Ostrvica	2
+Ožići	2
+Paka	2
+Papići	2
+Parčić	2
+Parlovi	2
+Paunovac	2
+Pavlovići	2
+Pece	2
+Pekići	2
+Penići	2
+Perci	2
+Pervani	2
+Petranović	2
+Petruševec	2
+Pinezići	2
+Pirovište	2
+Pištet	2
+Plećaši	2
+Pleići	2
+Ploča	2
+Pobrđani	2
+Podkosa	2
+Podosoje	2
+Podstene	2
+Podunavci	2
+Polača	2
+Polići	2
+Poljanak	2
+Poljane	2
+Poljani	2
+Ponikve	2
+Ponorac	2
+Popovci	2
+Porat	2
+Poreč	2
+Postrana	2
+Potočani	2
+Požar	2
+Pranići	2
+Prekopa	2
+Prelasi	2
+Prepuštovec	2
+Preseka	2
+Presika	2
+Prevlaka	2
+Prgomelje	2
+Prgomet	2
+Prhati	2
+Price	2
+Pridvorje	2
+Prigorje	2
+Primorci	2
+Privlaka	2
+Prljevo	2
+Progon	2
+Prolići	2
+Prović	2
+Prpići	2
+Puljizi	2
+Punde	2
+Pupavci	2
+Pustara	2
+Radalji	2
+Radani	2
+Radanovići	2
+Radeka	2
+Radić	2
+Radonić	2
+Radoševići	2
+Radošić	2
+Radusini	2
+Rajčevići	2
+Rajići	2
+Rajki	2
+Rakovec	2
+Ramić	2
+Ramljane	2
+Ratkovići	2
+Rebići	2
+Reljinovac	2
+Remetinec	2
+Repaš	2
+Ribarići	2
+Ribnik	2
+Ribnjak	2
+Ričice	2
+Rim	2
+Rit	2
+Rogići	2
+Rogulje	2
+Roguljići	2
+Romci	2
+Rončevići	2
+Rožići	2
+Rudići	2
+Rudopolje	2
+Rujevac	2
+Rukavac	2
+Rupa	2
+Rupčići	2
+Ruševac	2
+Šabići	2
+Saborsko	2
+Šakići	2
+Samci	2
+Sankovići	2
+Savići	2
+Šćulci	2
+Selca	2
+Selce	2
+Selina	2
+Selišta	2
+Šenkovec	2
+Seoce	2
+Seoci	2
+Sertići	2
+Sesvete	2
+Sibenik	2
+Sikovo	2
+Šimići	2
+Šimunići	2
+Sinovčići	2
+Šipići	2
+Šipovac	2
+Skadar	2
+Skenderi	2
+Skenderovci	2
+Skendžići	2
+Slavići	2
+Slivno	2
+Slunj Novo Selo	2
+Smišljak	2
+Smolčići	2
+Smolići	2
+Smrdelje	2
+Smrečje	2
+Sočanica	2
+Sokoli	2
+Sokolovac	2
+Sovilji	2
+Srednje Selo	2
+Srednji Lipovac	2
+Sršići	2
+Stankovci	2
+Stara Kapela	2
+Stara Kršlja	2
+Starčevići	2
+Stari Grad	2
+Staro Brdo	2
+Štefanec	2
+Stepići	2
+Stojići	2
+Stranići	2
+Strmica	2
+Struga	2
+Stubalj	2
+Studena	2
+Studenci	2
+Subotići	2
+Suha Punta	2
+Šumet	2
+Šušanj	2
+Sutina	2
+Sveta Helena	2
+Sveta Jelena	2
+Sveta Marija	2
+Sveti Anton	2
+Sveti Bartol	2
+Sveti Mihovil	2
+Sveti Vid	2
+Sveti Ðurađ	2
+Svib	2
+Svinica	2
+Tavani	2
+Terzići	2
+Tešija	2
+Tice	2
+Tisovac	2
+Točak	2
+Tončići	2
+Topličica	2
+Topola	2
+Topolik	2
+Topolovica	2
+Travice	2
+Trbovići	2
+Trema	2
+Trnava	2
+Trnova	2
+Trnovi	2
+Trnovica	2
+Trnovo	2
+Trojeglava	2
+Trokut	2
+Trsteno	2
+Turan	2
+Turkalji	2
+Ubovići	2
+Udbinja	2
+Ugarkovići	2
+Uzelac	2
+Vagan	2
+Vaganac	2
+Valentići	2
+Valica	2
+Validžići	2
+Vardići	2
+Varoš Simići	2
+Varvodići	2
+Vedrine	2
+Vedro Polje	2
+Vekići	2
+Velika Mlaka	2
+Veliki Bukovec	2
+Veliko Brdo	2
+Veliko Polje	2
+Veliko Vukovje	2
+Velim	2
+Velji Vrh	2
+Vicani	2
+Vičići	2
+Vid	2
+Vidići	2
+Vidonje	2
+Višnjevac	2
+Višnjica	2
+Visoka	2
+Vladovići	2
+Vlake	2
+Vlašići	2
+Vodenjak	2
+Vojkovići	2
+Vojnovići	2
+Volarice	2
+Voloder	2
+Vrana	2
+Vrankovići	2
+Vrapče	2
+Vrata	2
+Vratečko	2
+Vrbnik	2
+Vrdoljaci	2
+Vrkljani	2
+Vrulje	2
+Vučak	2
+Vučetići	2
+Vučinići	2
+Vučipolje	2
+Vujčići	2
+Vuka	2
+Vukići	2
+Vukojevci	2
+Vukojevići	2
+Vukšić	2
+Vulići	2
+Žabljak	2
+Žabnik	2
+Zabrđe	2
+Zaglav	2
+Zagrad	2
+Zamlača	2
+Zamladinec	2
+Žankovci	2
+Zapoljak	2
+Zapolje	2
+Zaraće	2
+Zaton Doli	2
+Zavala	2
+Zavrh	2
+Zbjeg	2
+Zdihovo	2
+Žegar	2
+Zelovo	2
+Živaja	2
+Živkovići	2
+Zorići	2
+Zrilić	2
+Zuberi	2
+Županje	2
+Župići	2
+Žuta Lokva	2
+Žužići	2
+Ðipalo	2
+Ðomine	2
+Ada
+Adamovec
+Adžamovci
+Alaginci
+Aleksandrovac Požeški
+Aleksinica
+Alilovci
+Aljmaš
+Andraševec
+Andrijaševci
+Andrijevac
+Andrilovec
+Antenal
+Antin
+Antolovec
+Anžići
+Apatovec
+Apševci
+Arbanija
+Aržano
+Ašikovci
+Auguštanovec
+Babina Greda
+Babina Rijeka
+Babinac
+Babinac Ivanski
+Babinec
+Babino Polje
+Babotok
+Bačevac
+Baćin
+Baćin-Dol
+Baćina
+Badanj
+Baderna
+Badličan
+Badljevina
+Badžula
+Bajagić
+Bajčići
+Bakar
+Bakarac
+Bakić
+Bakovac Kosinjski
+Bakovčica
+Bale
+Balinci
+Banfi
+Baničevac
+Baničevec Rakovečki
+Banje Selo
+Banjevci
+Banjol
+Banjole
+Banjsko Selo
+Bankovci
+Bankovci Požeški
+Banova Jaruga
+Banovo
+Banščica
+Banska Selnica
+Banski Kovačevac
+Bapča
+Bapska
+Baranjsko Petrovo Selo
+Barban
+Barbarići Kravarski
+Barbat
+Barbići
+Barić Draga
+Barilović
+Barotul
+Bartići
+Bartolići
+Bartolovci
+Bartolovec
+Barušići
+Bašanija
+Bašarinka
+Baška
+Baška Voda
+Baškoti
+Bast
+Bater
+Batinjani Podborski
+Batinska
+Batlug
+Batnoga
+Batomalj
+Batrina
+Bazgalji
+Bađinec
+Bebrina
+Bečić
+Bedekovčina
+Bedenec
+Bedenica
+Bedenik
+Beder
+Bednja
+Bednjica
+Begluci
+Begovići
+Beketinci
+Bektež
+Bela
+Belajska Vinica
+Belajske Poljice
+Belčići
+Belec
+Beletinec
+Beli
+Beli Manastir
+Belica
+Belišće
+Beljevina
+Belo Selo
+Beloslavec
+Belovar
+Belovar Zlatarski
+Beničanci
+Benkovac
+Benkovac Okučanski
+Benkovačko Selo
+Benkovec
+Benkovec Petrovski
+Benkovo
+Berak
+Beram
+Beravci
+Berek
+Beretinec
+Bertelovci
+Bertoši
+Bešlinec
+Bestovje
+Bestrma
+Beter
+Betina
+Bezovina
+Bibali
+Bibići
+Bibinje
+Bičići
+Bicko Selo
+Bijela Gorica
+Bijela Loza
+Bijele Zemlje
+Bijeli Vir
+Bikovec
+Bila Vlaka
+Bilaj
+Bilišane
+Bilje
+Biljevec
+Biočić
+Biograd na Moru
+Biorine
+Biovičino Selo
+Bisag
+Bisko
+Biškupci
+Biškupec Zelinski
+Biskupija
+Bistrica
+Bistrinci
+Bizovac
+Bjelina
+Bjeliševac
+Bjelopolje
+Bjelovar
+Blace
+Blacko
+Blagorodovac
+Blaguša
+Blaškovec
+Blaškovići
+Blatnica
+Blato na Cetini
+Blatuša
+Blaževdol
+Blaževića Dol
+Blinja
+Blinjski Kut
+Blizna Donja
+Blizna Gornja
+Bobota
+Bobovac
+Bobovec Rozganski
+Bobovica
+Bobovje
+Bočadir
+Bočaki
+Bocanjevci
+Bočkinci
+Bočkovec
+Bodegraj
+Bodovaljci
+Bogačevo
+Bogačevo Riječko
+Bogdanovci
+Bogdanovec
+Bogomolje
+Bogovolja
+Bojnikovec
+Bok Palanječki
+Bokane
+Bokordići
+Bokšić Lug
+Bol
+Bolč
+Bolfan
+Boljenovići
+Boljevići
+Boljun
+Boljunsko Polje
+Bolman
+Bonaci
+Boraja
+Borenec
+Boričevci
+Borkovec
+Borova
+Borova Kosa
+Borovac
+Borovljani
+Borovo
+Borut
+Bosanka
+Boševci
+Bosiljevo Česmansko
+Bosna
+Botinac
+Botinovec
+Botovo
+Bović
+Božava
+Božjakovina
+Bračevci
+Bračević
+Brajakovo Brdo
+Branimirovac
+Branjin Vrh
+Branjina
+Brašina
+Braslovje
+Bratina
+Bratiškovici
+Brbinj
+Brčevec
+Brčino
+Brckovljani
+Brdce
+Brdo Cirkvensko
+Brdo Jesenjsko
+Brdovec
+Brebrovac
+Brečevići
+Bregana
+Bregana Pisarovinska
+Breganica
+Bregi
+Bregi Kostelski
+Bregi Radobojski
+Bregi Zabočki Donji
+Bregovljana
+Brekinska
+Brela
+Brešca
+Bresnica Požeška
+Brest Pokupski
+Brestača
+Breštanovci
+Brestovac
+Brestovac Daruvarski
+Brestovec
+Brezakovec
+Brežane Lekeničke
+Brezani
+Brezari
+Brezarić
+Brezik Našički
+Brezje Dravsko
+Brezje Dubravsko
+Brezje Miholečko
+Breznica
+Breznica Našička
+Breznica Ðakovačka
+Breznički Hum
+Breznik Plešivički
+Brezno-gora
+Brezova
+Brezova Glava
+Brezova Gora
+Brezovec Zelinski
+Brezovica Petrovska
+Brgod
+Brgulje
+Bričanci
+Brig
+Brihovo
+Briješće
+Brijest
+Brijesta
+Brinjani
+Brinje
+Briševo
+Brist
+Brištane
+Bristivica
+Brkač
+Brkiševina
+Brlekovo
+Brlenić
+Brlog
+Brlog Ozaljski
+Brnaze
+Brnelići
+Brnjica
+Broce
+Bročice
+Brod Moravice
+Brod na Kupi
+Brodarovec
+Brodić
+Brodski Stupnik
+Brodski Varoš
+Brodski Zdenci
+Brovinje
+Brođanci
+Bršadin
+Brseč
+Brsečine
+Brštanovo
+Brtonigla
+Brušane
+Brusje
+Bruška
+Brzac
+Brđani Cesta
+Brđani Kosa
+Bubani
+Bubnjarački Brod
+Bubnjarci
+Bučje Gorjansko
+Budačka Rijeka
+Budakovac
+Budančevica
+Budanica
+Budaševo
+Budenec
+Budimci
+Budinščak
+Budinšćina
+Budislavec
+Budrovac
+Budrovac Lukački
+Budrovci
+Buje
+Buk Vlaka
+Bukovački Antunovac
+Bukovčak
+Bukovec
+Bukovec Zelinski
+Bukovica
+Bukovica Utinjska
+Bukovje Bistransko
+Bukovje Križevačko
+Bukovlje
+Bukovsko
+Bukvik-Blatni Lug
+Bulić
+Bulinac
+Bunić
+Bunjak
+Bunjani
+Buroli
+Bušetina
+Buševec
+Bušin
+Busnovi
+Butkovec
+Butoniga
+Buzadovac
+Buzdohanj
+Buzet
+Bužinija
+Bzenica
+Čabar
+Čabdin
+Cabraji
+Čabrunići
+Cabuna
+Čačinci
+Čačvina
+Cage
+Caginec
+Čaglin
+Čajkovci
+Čajkovica
+Čakovci
+Čakovec
+Čalinec
+Čamagajevci
+Čambarelići
+Cancini
+Čanjevo
+Čaporice
+Čara
+Carevdar
+Carevo Polje
+Cargovec
+Čavle
+Čavoglave
+Cavtat
+Čazma
+Čađavica
+Čađavički Lug
+Čeglje
+Čehovec
+Čelikovići
+Čeline
+Celine Goričke
+Celine Samoborske
+Čelopeci
+Čemernica Lonjska
+Čeminac
+Čepelovac
+Čepić
+Cepidlak
+Čepin
+Čepljani
+Ćeralije
+Ceremošnjak
+Cerić
+Cerina
+Cerje Jesenjsko
+Cerje Nebojse
+Cerje Pokupsko
+Cerje Tužno
+Cerje Vrbovečko
+Cerna
+Cerovac Barilovički
+Cerovac Jakšićki
+Cerovac Vukmanicki
+Cerovački Galovići
+Cerovljani
+Cerovlje
+Cerovnik
+Cerovski Vrh
+Červar-Cervera
+Červar-Porat
+Cesarica
+Ćešljakovci
+Cestica
+Čestijanec
+Četekovac
+Cetina
+Cetingrad
+Cetinovec
+Četvrtkovac
+Čibača
+Čičkovina
+Ciglena
+Ciglenica Zagorska
+Čigoč
+Cigrovec
+Čilipi
+Cirkovljan
+Cirkvena
+Čisla
+Čista Mlaka
+Cista Provo
+Cista Velika
+Čižići
+Čokadinci
+Cokuni
+Čovac
+Cremušnica
+Cres
+Črešnjevec
+Črešnjevo
+Čret
+Cret Bizovački
+Čret Posavski
+Cret Viljevski
+Crevarska Strana
+Crikvenica
+Crivac
+Crklada
+Crkovec
+Crkvari
+Crkveni Bok
+Crkveni Pribić
+Crljenik
+Crna Draga
+Črnčevec
+Črnec Biškupečki
+Črnec Dugoselski
+Črnec Rugvički
+Crni Lazi
+Crni Potok
+Črnile
+Črnilovec
+Črnkovci
+Črnkovec
+Crveni Vrh
+Cubinec
+Cugovec
+Cukrići
+Čunski
+Čurilovec
+Curkovec
+Ćurlovac
+Ćusi
+Cvetkovec
+Cvetković
+Cvetlin
+Cvitović
+Dabrina
+Dajla
+Dalj
+Danilo
+Danilo Biranj
+Dapci
+Daranovci
+Darda
+Daruvar
+Daruvarski Vinogradi
+Daskatica
+Dautan
+Davor
+Deanovec
+Debeljak
+Debeljuhi
+Debelo Brdo I
+Dedin
+Dedina
+Dekanovec
+Deklešanec
+Delkovec
+Delnice
+Demerje
+Derežani
+Deringaj
+Dervišaga
+Desinić
+Desinić Gora
+Desmerice
+Desne
+Desni Degoj
+Desni Dubrovčak
+Desni Štefanki
+Desno Sredičko
+Desno Trebarjevo
+Desno Željezno
+Desprim
+Detkovac
+Dežanovac
+Deževci
+Dicmo Ercegovci
+Dicmo Kraj
+Dicmo Osoje
+Dicmo Prisoje
+Dicmo Sušci
+Dijaneš
+Dijankovec
+Dinjevac
+Dinjiška
+Dioš
+Dišnik
+Divoš
+Divoševci
+Divšići
+Divulje
+Djedina Rijeka
+Djuba
+Dnopolje
+Dobrec
+Dobrenići
+Dobri Zdenci
+Dobrinče
+Dobrinj
+Dobrodol
+Dobropoljana
+Dobrovac
+Dobrović
+Dograde
+Dol Klanječki
+Dolec Podokićki
+Doli
+Dolića Draga
+Doliće
+Doljan
+Doljanci
+Doljanovci
+Dolnjaki
+Domagović
+Domahovo
+Domaji
+Domanjkuš
+Domašinec
+Domaslovec
+Domijanići
+Domitrovec
+Domovec
+Donja Bačuga
+Donja Banda
+Donja Batina
+Donja Batina-dio
+Donja Bebrina
+Donja Bistra
+Donja Brckovčina
+Donja Brusovača
+Donja Budičina
+Donja Čemernica
+Donja Dobra
+Donja Drenova
+Donja Glogovnica
+Donja Gračenica
+Donja Greda
+Donja Jagodnja
+Donja Jelenska
+Donja Konjšćina
+Donja Kovačica
+Donja Kupčina
+Donja Lomnica
+Donja Mlinoga
+Donja Motičina
+Donja Obreška
+Donja Obrijež
+Donja Pačetina
+Donja Petrička
+Donja Pištana
+Donja Plemenšćina
+Donja Podgora
+Donja Poljana
+Donja Purgarija
+Donja Pušća
+Donja Rašenica
+Donja Reka
+Donja Rijeka
+Donja Selnica
+Donja Šemnica
+Donja Stubica
+Donja Stupnica
+Donja Šušnjara
+Donja Topličica
+Donja Velešnja
+Donja Vlahinička
+Donja Voća
+Donja Vrba
+Donja Zdenčina
+Donja Zelina
+Donje Bazje
+Donje Biljane
+Donje Brezno
+Donje Bukovlje
+Donje Dubrave
+Donje Dvorišće
+Donje Gredice
+Donje Jesenje
+Donje Komarevo
+Donje Ladanje
+Donje Makojišće
+Donje Mekušje
+Donje Mrzlo Polje
+Donje Novo Selo
+Donje Obuljeno
+Donje Ogorje
+Donje Orešje
+Donje Pazarište
+Donje Podotočje
+Donje Polje
+Donje Postinje
+Donje Predrijevo
+Donje Prekrižje
+Donje Prilišće
+Donje Psarjevo
+Donje Rašćane
+Donje Raštane
+Donje Selište
+Donje Selo na Šolti
+Donje Sitno
+Donje Stative
+Donje Vino
+Donje Vinovo
+Donje Vratno
+Donje Vratno-dio
+Donje Zagorje
+Donje Zdelice
+Donji Andrijevci
+Donji Babin Potok
+Donji Bitelić
+Donji Brgat
+Donji Budački
+Donji Bukovac Žakanjski
+Donji Čaglić
+Donji Čehi
+Donji Cerovac
+Donji Cerovljani
+Donji Crnogovci
+Donji Daruvar
+Donji Desinec
+Donji Dolac
+Donji Draganec
+Donji Dragonožec
+Donji Emovci
+Donji Fodrovec
+Donji Gučani
+Donji Hrašćan
+Donji Hrastovac
+Donji Hruševec
+Donji Humac
+Donji Karin
+Donji Kašić
+Donji Kneginec
+Donji Koncovčak
+Donji Kosinj
+Donji Kućan
+Donji Kukuruzari
+Donji Laduč
+Donji Lapac
+Donji Lipovčani
+Donji Macelj
+Donji Marinkovac
+Donji Maslarec
+Donji Meljani
+Donji Mihaljevec
+Donji Miholjac
+Donji Miklouš
+Donji Mosti
+Donji Muć
+Donji Prnjarovec
+Donji Proložac
+Donji Pustakovec
+Donji Seget
+Donji Sjeničak
+Donji Škrnik
+Donji Slatinik
+Donji Sređani
+Donji Stupnik
+Donji Tkalec
+Donji Trpuci
+Donji Velemerić
+Donji Vidovec
+Donji Viduševac
+Donji Vinjani
+Donji Vukojevac
+Donji Vukšinac
+Donji Zagon
+Donji Zbilj
+Donji Zebanec
+Donji Zvečaj
+Dopsin
+Dračevac
+Dračevac Ninski
+Draga Bašćanska
+Draga Požeška
+Draga Svetojanska
+Dragalić
+Draganići
+Draganje-Selo
+Draganovac
+Dragošička
+Dragoslavec
+Dragoslavec Breg
+Dragoslavec Selo
+Dragotin
+Dragotina
+Dragovanščak
+Dragovci
+Draguć
+Draguzeti
+Dramalj
+Draše
+Draškovec
+Drašković
+Drašnice
+Draž
+Draževitići
+Dražice
+Drenčec
+Drenje Brdovečko
+Drenje Šćitarjevsko
+Drenov Bok
+Drenova
+Drenovec
+Drežnica
+Drežnik
+Drežnik Brezovički
+Drežnik Grad
+Drežnik Podokićki
+Drinovci
+Drivenik
+Drljača
+Drljanovac
+Drnek
+Drniš
+Drnje
+Dropčevec
+Dropkovec
+Drškovci
+Drum
+Druškovec
+Druškovec Gora
+Druškovec Humski
+Družbinec
+Držimurec
+Duba Konavoska
+Duba Stonska
+Dubočac
+Duboševica
+Dubovac Okučanski
+Dubovec Bisaški
+Dubovica
+Dubovik
+Dubranec
+Dubrava Pušćanska
+Dubrava Samoborska
+Dubrava Zabočka
+Dubravec
+Dubravice
+Dubravka
+Dubrovčan
+Dubrovčani
+Dubrovnik
+Duće
+Duga Gora
+Duga Međa
+Duga Resa
+Duga Rijeka
+Duge Njive
+Dugi Dol
+Dugi Rat
+Dugnjevec
+Dugo Selo
+Dugo Selo Lukačko
+Dugobabe
+Duhovi
+Dujmić Selo
+Dukovec
+Dulepska
+Dumače
+Dumovec
+Dunave Krajnje
+Dunjkovec
+Durlinci
+Dusina
+Dužica
+Duzluk
+Dvor
+Dvoranci
+Dvorišće Rakovečko
+Dvorjanci
+Dvornica
+Eminovci
+Erdovec
+Erdut
+Ernestinovo
+Falašćak
+Falinić Breg
+Farkaševac
+Farkaševec Samoborski
+Fažana
+Ferdinandovac
+Ferežani
+Feričanci
+Ferketinec
+Ferovac
+Festinec
+Filipana
+Filipići
+Filipovac
+Finčevec
+Finida
+Fiorini
+Flengi
+Fodrovec Riječki
+Forkuševci
+Fotez Breg
+Frata
+Frkanovec
+Frketić Selo
+Frkljevci
+Frkuljevec Mihovljanski
+Fuka
+Fuškulin
+Fužine
+Gabajeva Greda
+Gaber
+Gabonjin
+Gaboš
+Gabrili
+Gabrilovac
+Gaćelezi
+Gačice
+Gaćište
+Gaj Vrbovečki
+Gajac
+Gajana
+Gajec
+Gajić
+Gajine
+Gala
+Galgovo
+Galižana
+Galovec
+Galovec Začretski
+Galović-Selo
+Gamboci
+Garbina
+Garčin
+Gardinovec
+Gardun
+Garešnica
+Garešnički Brestovac
+Garica
+Garjak
+Gašinci
+Gat
+Gata
+Gdinj
+Gečkovec
+Gedići
+Gejkovac
+Generalski Stol
+Gerovo
+Gerovski Kraj
+Giletinci
+Gizdavac
+Gladovec Kravarski
+Gladovec Pokupski
+Glavani
+Glavina Donja
+Glavina Gornja
+Glavnica Donja
+Glavničica
+Glina
+Glinska Poljana
+Gljev
+Globočec
+Globočec Ludbreški
+Glogovac
+Glogovec Zagorski
+Glogovica
+Godinjak
+Gojanec
+Gojlo
+Gola
+Golaš
+Goli Breg
+Golinci
+Goljak Klanječki
+Golobrdci
+Gologorica
+Gologorički Dol
+Golovik
+Golubinjak
+Golubovac Divuški
+Gomirje
+Gondolići
+Gonji Popovac
+Gora
+Gora Košnička
+Gora Veternička
+Gorači
+Gorica Jamnička
+Gorica Svetojanska
+Gorica Valpovačka
+Goričan
+Goričanec
+Goričanovec
+Goričica
+Goričko
+Gorinci
+Goriš
+Gorjakovo
+Gorjani
+Gorjani Sutinski
+Gornja Batina
+Gornja Bebrina
+Gornja Bistra
+Gornja Brckovčina
+Gornja Brela
+Gornja Bučica
+Gornja Čemernica
+Gornja Drenova
+Gornja Garešnica
+Gornja Glavnica
+Gornja Glina
+Gornja Glogovnica
+Gornja Gračenica
+Gornja Greda
+Gornja Jagodnja
+Gornja Jelenska
+Gornja Konjšćina
+Gornja Kovačica
+Gornja Kupčina
+Gornja Letina
+Gornja Lomnica
+Gornja Nugla
+Gornja Obreška
+Gornja Obrijež
+Gornja Petrička
+Gornja Plemenšćina
+Gornja Podstrana
+Gornja Poljana
+Gornja Purgarija
+Gornja Pušća
+Gornja Rašenica
+Gornja Reka
+Gornja Rijeka
+Gornja Selnica
+Gornja Šemnica
+Gornja Šiljkovača
+Gornja Stubica
+Gornja Topličica
+Gornja Trebinja
+Gornja Velešnja
+Gornja Vlahinička
+Gornja Voća
+Gornja Vrba
+Gornja Zdenčina
+Gornje Bazje
+Gornje Biljane
+Gornje Brezno
+Gornje Bukovlje
+Gornje Ceranje
+Gornje Dubrave
+Gornje Dvorišće
+Gornje Jesenje
+Gornje Komarevo
+Gornje Ladanje
+Gornje Makojišće
+Gornje Mokrice
+Gornje Mrzlo Polje
+Gornje Obuljeno
+Gornje Ogorje
+Gornje Orešje
+Gornje Planjane
+Gornje Plavnice
+Gornje Podotočje
+Gornje Pokupje
+Gornje Postinje
+Gornje Predrijevo
+Gornje Psarjevo
+Gornje Raštane
+Gornje Rovišće
+Gornje Selište
+Gornje Sitno
+Gornje Sredice
+Gornje Stative
+Gornje Utore
+Gornje Vratno
+Gornje Vrhovine
+Gornje Zagorje
+Gornje Zdelice
+Gornji Andrijevci
+Gornji Babin Potok
+Gornji Bitelić
+Gornji Bogičevci
+Gornji Brgat
+Gornji Čehi
+Gornji Čemehovec
+Gornji Cerovac
+Gornji Cerovljani
+Gornji Crnogovci
+Gornji Daruvar
+Gornji Desinec
+Gornji Dolac
+Gornji Draganec
+Gornji Dragičevci
+Gornji Dragonožec
+Gornji Emovci
+Gornji Fodrovec
+Gornji Furjan
+Gornji Hrašćan
+Gornji Hrastovac
+Gornji Hruševec
+Gornji Humac
+Gornji Jalšovec
+Gornji Karin
+Gornji Kneginec
+Gornji Koncovčak
+Gornji Kosinj
+Gornji Križ
+Gornji Kuršanec
+Gornji Laduč
+Gornji Lipovčani
+Gornji Marinkovac
+Gornji Mihaljevec
+Gornji Miholjac
+Gornji Miklouš
+Gornji Mitrovac
+Gornji Muć
+Gornji Poličnik
+Gornji Prnjarovec
+Gornji Proložac
+Gornji Prozor
+Gornji Seget
+Gornji Sjeničak
+Gornji Slatinik
+Gornji Sređani
+Gornji Stupnik
+Gornji Tkalec
+Gornji Tomaš
+Gornji Trpuci
+Gornji Uljanik
+Gornji Vaganac
+Gornji Varoš
+Gornji Velemerić
+Gornji Vidusevac
+Gornji Vinjani
+Gornji Vinkovec
+Gornji Vukojevac
+Gornji Vukšinac
+Gornji Žagari
+Gornji Zebanec
+Gornji Zvečaj
+Goršćaki
+Gorušenjak
+Gostenje
+Gostinjac
+Gostović
+Gotalovec
+Gotalovo
+Goveđari
+Goveđe Polje
+Grabarje Brodsko
+Grabarska
+Grabe
+Graberec
+Graberje
+Graberje Ivanićko
+Grabić
+Grabik
+Graboštani
+Grabovac Banski
+Grabovac Krnjački
+Grabovnica
+Grabrić
+Grabrk
+Grabrov Potok
+Grabrovnica
+Grabrovnik
+Gračec
+Gračina
+Gračišće
+Gradac Našički
+Gradec
+Gradići
+Gradiščak
+Gradište
+Gradište Bekteško
+Gradna
+Gradusa Posavska
+Grana
+Grančari
+Grandići
+Granice
+Granje
+Grbe
+Grdak
+Grdanjci
+Grdenci
+Grdoselo
+Grdun
+Grebaštica
+Greda Breška
+Greda Maruševečka
+Greda Peskovečka
+Greda Sunjska
+Gredenec
+Gregurić Breg
+Grešćevina
+Grginac
+Grgurevići
+Grgurica
+Grimalda
+Grižane
+Grižići
+Grkaveščak
+Grkine
+Grletinec
+Grljevac
+Grmušani
+Grobnik
+Grohote
+Gromača
+Gromačnik
+Gronji Macelj
+Grožnjan
+Gršćaki
+Grtovec
+Grubine
+Grubišno Polje
+Gruda
+Gržini
+Gubaševo
+Guci Draganički
+Gudci
+Gudovac
+Gundinci
+Gunja
+Gunjavci
+Gusakovec
+Gušće
+Guščerovec
+Gustelnica
+Gustirna
+Habjanovac
+Habjanovci
+Haganj
+Hajdine
+Hampovica
+Harkanovci
+Harmica
+Havidić Selo
+Heki
+Helena
+Hemuševec
+Hercegovac
+Herešin
+Hižakovec
+Hižanovec
+Hlapa
+Hlapičina
+Hlebine
+Hlevnica
+Hodilje
+Hodošan
+Homer
+Horvatsko
+Hotnja
+Hrašća
+Hrašće Turopoljsko
+Hrašćica
+Hrašćina
+Hrastelnica
+Hrastin
+Hrastina
+Hrastina Samoborska
+Hrastje
+Hrastje Plešivičko
+Hrastovec Toplički
+Hrastovica
+Hrastovljan
+Hrastovsko
+Hrboki
+Hrebine
+Hrebinec
+Hreljići
+Hreljin
+Hreljin Ogulinski
+Hrib
+Hrkanovci Ðakovački
+Hrnjanec
+Hrnjevac
+Hromec
+Hršak Breg
+Hršćevani
+Hrsovo
+Hrtić
+Hrušćica
+Hruševec Kupljenski
+Hruševec Pušćanski
+Hruškovec
+Hrvace
+Hrvatska Dubica
+Hrvatska Kostajnica
+Hrvatski Leskovac
+Hrvatsko Polje
+Hrvatsko Selo
+Hrženica
+Hrženik
+Hudi Bitek
+Hudovljani
+Hudovo
+Hum Bistrički
+Hum Košnički
+Hum na Sutli
+Hum Stubički
+Hum Zabočki
+Humljani
+Husain
+Husinec
+Husje
+Hutin
+Hvar
+Ičevo
+Ičići
+Igrane
+Igrišće
+Ika
+Ilača
+Ilok
+Ilova
+Imbrijovec
+Imbrijovec Jalžabetski
+Imotski
+Imsovac
+Irinovac
+Islam Grčki
+Islam Latinski
+Ist
+Ivan Dolac
+Ivan-Dol
+Ivanbegovina
+Ivančani
+Ivančići
+Ivanec
+Ivanec Bistranski
+Ivanec Vojakovački
+Ivanečka Željeznica
+Ivanečki Vrhovec
+Ivanečko Naselje
+Ivanić Desinićki
+Ivanić-Grad
+Ivanja Reka
+Ivankovo
+Ivanovac
+Ivanovci
+Ivanovci Gorjanski
+Ivanovci Đakovački
+Ivanovec
+Ivanovo
+Ivanovo Polje
+Ivanovo Selo
+Ivanska
+Ivoševci
+Izimje
+Jablan
+Jablanac
+Jablanovec
+Jadranovo
+Jadreški
+Jadrtovac
+Jadruhi
+Jagnjedovec
+Jagnjić Dol
+Jagodnjak
+Jagodno
+Jaguplije
+Jakačići
+Jakačina Mala
+Jakišnica
+Jakomići
+Jakopovac Kapelski
+Jakopovec
+Jakovici
+Jakovlje
+Jakšinec
+Jakuševec Zabočki
+Jales Breznički
+Jalkovec
+Jalševec Nartski
+Jalševec Svibovečki
+Jalšje
+Jalšovec
+Jalžabet
+Jamarica
+Jamnica Pisarovinska
+Jamno
+Janja Gora
+Janja Lipa
+Janjina
+Jankomir
+Jankovo Selište
+Japaga
+Jarčani
+Jarče Polje
+Jarek Bisaški
+Jarek Habekov
+Jarki
+Jarmina
+Jaruge
+Jasenaš
+Jasensko
+Jaškovo
+Jastrebarsko
+Javornik
+Javorovac
+Jazavica
+Jazbina Cvetlinska
+Jazvenik
+Jazvine
+Jeduševac
+Jelenjak
+Jelenje
+Jelenščak
+Jelisavac
+Jelovec
+Jelovec Voćanski
+Jelsa
+Jerovec
+Jertovec
+Jesenovec
+Ježdovec
+Jezerane
+Jezerišće
+Jezero Klanječko
+Jezero Posavsko
+Ježević
+Ježevik
+Ježevo
+Ježovec
+Johovac
+Jošavica
+Josipovac
+Josipovac Punitovački
+Josipovo
+Jugovo Polje
+Juradi
+Jurandvor
+Juranšćina
+Jurazini
+Jurčevec
+Jurdani
+Jurga
+Juricani
+Jurjevac Punitovački
+Jurjevčani
+Jurjevec
+Jurketinec
+Jurkovo Selo
+Jurovčak
+Jurovec
+Jurovo
+Jurovski Brod
+Juršići
+Jušići
+Kabal
+Kablar
+Kačkovec
+Kadanovci
+Kadina Glavica
+Kadumi
+Kakma
+Kaldanija
+Kaldir
+Kali
+Kalinje
+Kalinovac
+Kalinovača
+Kalinovica
+Kalnik
+Kamanje
+Kamen
+Kamena Gorica
+Kamenac
+Kamenica Skradnička
+Kamenički Vrhovec
+Kameničko Podgorje
+Kamenmost
+Kanfanar
+Kanica
+Kaniška Iva
+Kaočine
+Kapela Dvor
+Kapela Kalnička
+Kapela Podravska
+Kapela Ravenska
+Kapelec
+Kapelna
+Kapelščak
+Kapelski Vrh
+Kapinci
+Kaprije
+Kaptol
+Karadžićevo
+Karakašica
+Karalić
+Karanac
+Karane
+Karasi
+Karigador
+Karivaroš
+Karlobag
+Karlovac
+Karlovec Ludbreški
+Karojba
+Karšete
+Kašćerga
+Kašić
+Kašina
+Kašinska Sopnica
+Kašljavac
+Kastav
+Kaštel Gomilica
+Kaštel Kambelovac
+Kaštel Lukšić
+Kaštel Novi
+Kaštel Štafilić
+Kaštel Stari
+Kaštel Sućurac
+Kaštel Žegarski
+Kaštelanec
+Kaštelir
+Katinac
+Katinovac
+Katoličke Čaire
+Katoličko Selišće
+Katuni
+Kavran
+Kebel
+Kelemen
+Keleminovec
+Kenđelovec
+Kerestinec
+Kešinci
+Kijevo
+Kindrovo
+Kinjačka
+Kip
+Kistanje
+Kitišanci
+Kladare
+Kladje
+Kladnice
+Kladnik
+Klakar
+Klake
+Klana
+Klanjec
+Klek
+Klenice
+Klenovec Humski
+Klenovica
+Klenovnik
+Kletište
+Klimen
+Klimni
+Klimno
+Klinča Sela
+Klis
+Kliševo
+Kljake
+Kljenak
+Ključ Brdovečki
+Ključar
+Ključić Brdo
+Klobučak
+Klokočevac
+Klokočevac Ilovski
+Klokočevci
+Klokočevec Samoborski
+Klokočevik
+Klokovec
+Kloštar Ivanić
+Kloštar Podravski
+Kloštar Vojakovački
+Klupci
+Klupci Začretski
+Kmeti
+Knapić
+Knez Gorica
+Kneževac
+Kneževi Vinogradi
+Knežević Kosa
+Kneževo
+Knežica
+Knezovec
+Knezovljani
+Knin
+Kninsko Polje
+Kobasičari
+Kobilić
+Kobiljača
+Kohanjac
+Kokinac
+Kokorići
+Kolan
+Kolarec
+Kolarevo Selo
+Kolarić
+Kolarovec
+Koledinec
+Koločep
+Komaji
+Komarna
+Komarnica
+Komarnica Ludbreška
+Komarovci
+Komesarac
+Komiža
+Komletinci
+Komogovina
+Komolac
+Komor Začretski
+Komorica
+Kompator
+Komuševci
+Komušina
+Konak
+Končanica
+Kondrić
+Konjevrate
+Konjšćica
+Konjšćina
+Konjsko Brdo
+Konšćani
+Kopačevo
+Kopčevec
+Koprivnica
+Koprivnica Zagorska
+Koprivnički Bregi
+Koprivnički Ivanec
+Koprivno
+Koprno
+Koranski Brijeg
+Korčula
+Korduševci
+Koreničani
+Korenjak
+Koretinec
+Korija
+Koritinja
+Korlat
+Kornić
+Koromačno
+Korođ
+Korušce
+Kosa Janjačka
+Kosi
+Košinožići
+Koška
+Koškovec
+Košljun
+Košnica
+Kosore
+Kosovac
+Kosovečko
+Kostanjevec Podvrški
+Kostanjevec Riječki
+Kostanjica
+Kostel
+Kostelsko
+Kostrena
+Košutarica
+Košute
+Kotari
+Kotarice
+Kotlenice
+Kotlina
+Kotoriba
+Kovačevac Križevački
+Kovačić
+Kovačica Slovinska
+Kozalj Vrh
+Kozarevac
+Kozarevac Račanski
+Kozarice
+Kozice
+Kožino
+Kozinščak
+Kozjak Začretski
+Kozji Vrh
+Kozlikovo
+Kozljak
+Kračevec
+Kraj Drage
+Kraj Gornji Dubravički
+Krajačići
+Krajska Ves
+Kraljeva Velika
+Kraljevac Križevački
+Kraljevčani
+Kraljevec Kupinečki
+Kraljevec na Sutli
+Kraljevec Šemnički
+Kraljevica
+Kraljice
+Krančići
+Kranjčići
+Krapan
+Krapanj
+Krapina
+Krapina Selo
+Krapinica
+Krapinske Toplice
+Krapje
+Kras
+Krašić
+Krasno Polje
+Kratečko
+Kravarsko
+Krčenik Moslavački
+Krčevina
+Krculi
+Krečaves
+Kremenići
+Kreševo
+Kreštelovac
+Kringa
+Krišci
+Krištanovec
+Krivaj
+Krivaj Sunjski
+Krivaja Požeška
+Križ Hrastovički
+Križ Kamenica
+Križanec
+Križanici
+Križevčec
+Križevci
+Križić
+Križine
+Križišće
+Križnica
+Križovec
+Križovljan
+Križovljan Radovečki
+Križpolje
+Krk
+Krkač
+Krkanec
+Krković
+Krmed
+Krneša
+Krnica
+Krničari
+Krnjak
+Krnjeuve
+Kršan
+Kršanci
+Krščenovec
+Kršinci
+Krstatice
+Krunčići
+Krunoslavje
+Krupa
+Krupače
+Kruševica
+Krušljevo Selo
+Krušvar
+Krušvari
+Krvavac
+Krvavac II
+Krvavica
+Kućan Gornji
+Kućan Ludbreški
+Kućan Marof
+Kućanci
+Kućanci Ðakovački
+Kuče
+Kućeli-gornji
+Kućevice
+Kučiće
+Kučilovina
+Kučine
+Kučište
+Kujići
+Kujnik
+Kukci
+Kukljica
+Kukuljani
+Kukuljanovo
+Kukunjevac
+Kukurini
+Kula Atlagić
+Kula Norinska
+Kuljani
+Kumrovec
+Kuna Pelješka
+Kunišinci
+Kunj
+Kunovci
+Kunovec
+Kunovec Breg
+Kunđevac
+Kupari
+Kupeč Dol
+Kupina
+Kupinec
+Kupjak
+Kupljenovo
+Kupljensko
+Kuršanec
+Kuševac
+Kusijevec
+Kusonje
+Kuštani
+Kustići
+Kuterevo
+Kuti Trnjanski
+Kutina
+Kutinska Slatina
+Kutjevo
+Kutnjak
+Kutovi
+Kuzmica
+Kuzminec
+Kuzminec-Veternički
+Kvarte
+Labinci
+Ladimirevci
+Ladina
+Ladinec
+Ladislavec
+Ladrovići
+Ladvenjak
+Laginji
+Laktec
+Lakušije
+Lančić
+Lapat
+Lapovci
+Lapšina
+Lasinja
+Laslovo
+Lasovac
+Lastine
+Lastovo
+Latin
+Laz Bistrički
+Laz Stubički
+Lazarići
+Laze
+Lazi Krapinski
+Lazina Čička
+Lađanska
+Lađevci
+Lećevica
+Ledenice
+Ledine Klanječke
+Ledinec
+Ledinec Gornji
+Legrad
+Lekenik
+Lekneno
+Lemeš
+Lemeš Križevački
+Lenišće
+Lepa Ves
+Lepajci
+Lepavina
+Lepenica
+Lepoglava
+Lepoglavec
+Leprovica
+Lepuri
+Lesišćina
+Leskovac Barilovički
+Leskovec
+Leskovec Toplički
+Leštakovec
+Letičani
+Letinac
+Letovanić
+Letovčan Tomaševečki
+Levanjska Varoš
+Levinovac
+Levkušje
+Liberpolis
+Lič
+Lička Jesenica
+Lički Novi
+Lički Osik
+Lički Ribnik
+Ličko Cerje
+Ličko Lešće
+Ličko Novo Selo
+Ličko Petrovo Selo
+Liganj
+Lijeva Luka
+Lijevi Degoj
+Lijevi Dubravčak
+Lijevi Štefanki
+Lijevo Sredičko
+Lijevo Trebarjevo
+Lila
+Linardići
+Lindar
+Lipice
+Lipik
+Liplje
+Lipnica Zagorska
+Lipovac Majur
+Lipovec
+Lipovec Lonjski
+Lipovljani
+Lipovlje
+Lipovnik
+Lipovo Brdo
+Lipovo Polje
+Lišane Ostrovičke
+Lišane Tinjske
+Lisičići
+Liska
+Lišnica
+Livade
+Livana
+Ližnjan
+Ljubelj
+Ljubelj Kalnički
+Ljubešćica
+Ljubina
+Ljubitovica
+Ljubošina
+Ljudevit Selo
+Ljupina
+Ljuta
+Lobor
+Loborika
+Lokošin Dol
+Lokva Rogoznica
+Lokvičič
+Lončarica
+Londžica
+Lonja
+Lonjica
+Lopača
+Lopar
+Lopatinec
+Lopud
+Lovas
+Lovište
+Lovorje
+Lovorno
+Lovran
+Lovreć
+Lovreća Sela
+Lovrečan
+Lovrečan Podbelski
+Lovrečica
+Lovrečka Velika
+Lovrentovec
+Lovrin
+Lozan
+Lozica
+Ložišće
+Lozovac
+Lubarska
+Lubena
+Luč
+Lučane
+Lučelnica
+Lučelnica Tomaševečka
+Lučice
+Lučko
+Ludbreg
+Ludbreški Ivanac
+Ludvinci
+Lug Gradinski
+Lug Orehovički
+Lug Poznanovečki
+Lug Samoborski
+Lug Subotički
+Lug Zabočki
+Lugarski Breg
+Luka Ludbreška
+Luka Pokupska
+Luka Vrbovečka
+Lukač
+Lukač Požeški
+Lukar
+Lukarišće
+Lukavac
+Lukavec Klanječki
+Lukavec Posavski
+Lukavec Sutlanski
+Luke Poljanske
+Lukeži
+Lukinić Brdo
+Lukoran
+Lukovčak
+Lukovdol
+Lukovo Lovrečko
+Lukovo Šugarje
+Lumbarda
+Lumbardenik
+Lun
+Lunjkovec
+Lupinjak
+Luščani
+Lužan
+Lužan Biškupečki
+Lužani
+Lužani Zagorski
+Mače
+Macinec
+Mački
+Mačkovec
+Madaraševec
+Madžarevo
+Madžari
+Magadenovac
+Magić Mala
+Maglenča
+Mahično
+Mahovo
+Maja
+Majerje
+Majkovec
+Majkovi
+Majške Međe
+Majske Poljane
+Majur
+Majur Farkaševački
+Majurec
+Makarska
+Makloševac
+Makoše
+Makov Hrib
+Makovci
+Mala Brajinska
+Mala Buna
+Mala Čista
+Mala Črešnjevica
+Mala Erpenja
+Mala Hrastilnica
+Mala Jazbina
+Mala Kopanica
+Mala Ludina
+Mala Mlaka
+Mala Mlinska
+Mala Mučna
+Mala Ostrna
+Mala Pačetina
+Mala Pisanica
+Mala Rakovica
+Mala Subotica
+Mala Trapinska
+Male Mune
+Maletić
+Mali Bastaji
+Mali Brezovec
+Mali Brgud
+Mali Dol
+Mali Drvenik
+Mali Erjavec
+Mali Golji
+Mali Gorenec
+Mali Grabičani
+Mali Gradac
+Mali Iž
+Mali Komor
+Mali Lipovec
+Mali Lošinj
+Mali Lug
+Mali Mihaljevec
+Mali Mlun
+Mali Otok
+Mali Pašijan
+Mali Poganac
+Mali Potočec
+Mali Ston
+Mali Tabor
+Mali Vareški
+Mali Vrh Kamanjski
+Mali Vuković
+Mali Zdenci
+Malino
+Malinovac
+Malinska
+Maljevac
+Maljkovo
+Malo Gradišće
+Malo Korenovo
+Malo Polje
+Malo Trojstvo
+Malo Vukovje
+Malunje
+Mandalenčići
+Mandaljena
+Mandičevac
+Mandre
+Manja Vas
+Manjadvorci
+Maovice
+Marčan
+Marčana
+Marčani
+Marceljani
+Marčelji
+Marčenegla
+Mareda
+Marenić
+Maretić
+Margečan
+Marija Bistrica
+Marija Gorica
+Marija Magdalena
+Marija na Krasu
+Marin Dvor
+Marina
+Marinbrod
+Marinje Zemlje
+Marino Selo
+Marinovec
+Marinovec Zelinski
+Marjančaci
+Marjanci
+Markoci
+Markovac Dubravski
+Markovac Križevački
+Markovac Našički
+Markovac Trojstveni
+Marković Selo
+Markovo
+Markovo Polje
+Markušbrijeg
+Markuševec Turopoljski
+Markušica
+Marof
+Maruševec
+Maružini
+Mašić
+Maslenica
+Maslenjača
+Maslinica
+Mastrinka
+Matenci
+Materada
+Mateše
+Matohanci
+Matulji
+Maturovec
+Mavrinci
+Mece
+Mečenčani
+Medari
+Medinci
+Medovdolac
+Medsave
+Medulin
+Medveja
+Medvidovića Draga
+Medviđa
+Meljan
+Melnica
+Merenje
+Merhatovec
+Metajna
+Metković
+Metohija
+Međa
+Međurača
+Međurić
+Mičetinac
+Mičevec
+Mičijevac
+Migalovci
+Mihalić Selo
+Mihalj
+Mihaljekov Jarek
+Mihanići
+Mihanovićev Dol
+Mihelići
+Miholec
+Miholjački Poreč
+Miholjanec
+Miholjsko
+Mihotići
+Miklavec
+Mikleuš
+Mikleuška
+Mikloševcy
+Mikovec
+Milan-Lug
+Milaševci
+Milčetići
+Milekovo Selo
+Miličani
+Miljana
+Miljanovac
+Miljevci
+Milohnići
+Milotski Breg
+Milovčići
+Mimice
+Miranje
+Mirce
+Mirkopolje
+Mirkovac
+Mirkovci
+Mirkovec
+Mirkovec Breznički
+Mirlović Zagora
+Mirlović-Polje
+Mišinci
+Mišinka
+Mladenići
+Mlaka Rakovečka
+Mlakovac
+Močići
+Močile
+Modrovec
+Modrušani
+Mogorić
+Mohovo
+Mokošica
+Mokrice
+Mokrice Miholečke
+Mokro Polje
+Molat
+Molunat
+Molve
+Molve Grede
+Momjan
+Montižana
+Montovani
+Moravče
+Moravice
+Mošćenica
+Mošćenice
+Mošćenička Draga
+Moseć
+Moslavačka Slatina
+Most
+Most-Raša
+Moštanica
+Mostari
+Motovun
+Movrač
+Možđenec
+Mracelj
+Mračin
+Mraclin
+Mravince
+Mravinjac
+Mrčevo
+Mrežničke Poljice
+Mrežnički Brig
+Mrežnički Novaki
+Mrežnički Varoš
+Mrkopalj
+Mrljane
+Mrzović
+Mučići
+Mugeba
+Mundanije
+Munjava Modruška
+Muntić
+Muntrilj
+Muraj
+Muričevec
+Murine
+Mursko Središće
+Murter
+Murvica Gornja
+Mušalež
+Mušaluk
+Musić
+Muškovci
+Mustafina Klada
+Musulini
+Musulinski Potok
+Mužilovčica
+Mužini
+Nadin
+Nadvoda
+Najevi
+Naklice
+Nard
+Nart Savski
+Narta
+Naselje Stjepana Radića
+Našice
+Našičko Novo Selo
+Natkrižovljan
+Naudovac
+Nebljusi
+Nebojan
+Nebojse
+Nečujam
+Nedelišće
+Nedeljanec
+Nedeščina
+Negoslavci
+Negovec
+Nemetin
+Neorić
+Nerezine
+Nerežišće
+Nespeš
+Neteka
+Nevest
+Nevinac
+Neviđane
+Nijemci
+Nikšić
+Nin
+Ninski Stanovi
+Nisko
+Niza
+Normanci
+Noršić-Selo
+Noskovci
+Nova Bukovica
+Nova Diklenica
+Nova Drenčina
+Nova Gradiška
+Nova Jošava
+Nova Krivaja
+Nova Kršlja
+Nova Ljeskovica
+Nova Mokošica
+Nova Ploščica
+Nova Rača
+Nova Šarovka
+Nova Subocka
+Nova Ves
+Novačka
+Novaki Bistranski
+Novaki Bizovački
+Novaki Maruševečki
+Novaki Motovunski
+Novaki Oborovski
+Novaki Pazinski
+Novaki Ravenski
+Novaki Šćitarjevski
+Novalja
+Novi Antunovac
+Novi Bezdan
+Novi Bolman
+Novi Bošnjani
+Novi Čeminac
+Novi Djurdjic
+Novi Dvori Klanječki
+Novi Farkašić
+Novi Glog
+Novi Golubovec
+Novi Grad
+Novi Gradac
+Novi Jankovci
+Novi Majur
+Novi Marof
+Novi Mihaljevci
+Novi Mikanovci
+Novi Pavljani
+Novi Perkovci
+Novi Senkovac
+Novi Skučani
+Novi Štitnjak
+Novi Varoš
+Novi Vinodolski
+Novi Zagreb
+Novigrad na Dobri
+Novigrad Podravski
+Novo Brdo Mrežničko
+Novo Čiče
+Novo Mjesto
+Novo Petrovo Polje
+Novo Pračno
+Novo Selište
+Novo Selo Glinsko
+Novo Selo Lasinjsko
+Novo Selo na Dravi
+Novo Selo Okićko
+Novo Selo Palanječko
+Novo Selo Podravsko
+Novo Selo Požeško
+Novo Selo Rok
+Novo Topolje
+Novo Virje
+Novoselci Jakšićki
+Novoselec
+Novoseljani
+Novoselo
+Novoselo Bilajsko
+Novska
+Nunić
+Nurkovac
+Nuštar
+Obedišće
+Obedišće Ježevsko
+Obrankovec
+Obrež Kalnički
+Obrež Vivodinski
+Obrež Zelinski
+Obrezina
+Obrovac
+Obrovac Sinjski
+Obrovnica
+Oćestovo
+Odra
+Odra Sisačka
+Odranski Obrež
+Ogulin
+Ogulinec
+Okešinec
+Oklaj
+Okoli
+Okrug Donji
+Okrugli Vrh
+Okrugljača
+Okučani
+Okuje
+Okunščak
+Olib
+Omamno
+Omanovac
+Omiš
+Omišalj
+Opanci
+Opasanjek
+Opatinec
+Općevac
+Oplaznik
+Oporovec
+Opric
+Oprisavci
+Oprtalj
+Opuzen
+Orah
+Orahovica
+Oraovac
+Orašac
+Oratje
+Ordanja
+Orebić
+Orehovec Radobojski
+Orešac
+Orešje
+Orešje Humsko
+Orič
+Orihi
+Oriovac
+Oriovčić
+Orle
+Orlec
+Orlić
+Orljakovo
+Orljavac
+Orlovac Zdenački
+Orolik
+Oroslavje
+Orubica
+Osečka
+Osekovo
+Osijek
+Osijek Vojakovački
+Oskorušno
+Oslići
+Ošlje
+Osobjava
+Osoje
+Oštarije
+Oštarski Stanovi
+Oštri Vrh
+Oštri Zid
+Oštrice
+Oštrobradić
+Ostrošinci
+Ostrovo
+Otavice
+Oteš
+Otkopi
+Otočac
+Otočka
+Otok Nartski
+Otok Oštarijski
+Otok Svibovski
+Otok Virje
+Oton
+Otrić-Seoci
+Otrovanec
+Otruševec
+Ovrlje
+Ozalj
+Pačetin
+Pag
+Pagubice
+Pajkovići
+Paklenica
+Pakoštane
+Pakovo Selo
+Pakrac
+Pakrani
+Palača
+Palančani
+Palanjek
+Palešnik
+Palinovec
+Palit
+Palje Brdo
+Paljevina
+Paljevine
+Paljuv
+Palovec
+Pamići
+Panjani
+Papinec
+Paradiž
+Parag
+Parg
+Paruževec
+Paruževina
+Pasadur
+Pasanska Gorica
+Pašin Potok
+Pasjak
+Pašman
+Patkovac
+Paukovec
+Paulin Dvor
+Paulovac
+Paušinci
+Pavicini
+Pavkovići
+Pavličani
+Pavlin Kloštar
+Pavlovčani
+Pavlovci Požeški
+Pavlovec Gradečki
+Pavlovec Pregradski
+Pavlovec Ravenski
+Pavlovec Vrbovecki
+Pavlovec-Zabočki
+Pavučnjak
+Paz
+Pazin
+Pažurovec
+Pađene
+Pčelić
+Pećurkovo Brdo
+Peklenica
+Peničići
+Pepelana
+Peračko Blato
+Perković
+Permani
+Perna
+Peroj
+Peršaves
+Perušić
+Perušić Benkovački
+Perušić Donji
+Peruški
+Peščenica
+Pešćenica Vinička
+Peščenik
+Peščeno
+Pesek
+Peskovec
+Petehi
+Peteranec
+Petina
+Petkov Breg
+Petkovec Toplički
+Petlovac
+Petrača
+Petrakovo Brdo
+Petravec
+Petrcane
+Petrijanec
+Petrijevci
+Petrinja
+Petrinjci
+Petrova Gora
+Petrova Slatina
+Petrovcy
+Petrovec
+Petrovija
+Petrovina
+Petrovina Turopoljska
+Petrovsko
+Pićan
+Pijavičino
+Pila
+Piljenice
+Pirakovec Vrbovečki
+Piramatovci
+Pirovac
+Pisak
+Pisarovina
+Pišćanovec
+Piškorevci
+Piškorovec
+Pitomača
+Pitve
+Pjescana uvala
+Pješčanica
+Planina Donja
+Planina Gornja
+Plano
+Plaški
+Plastovo
+Plat
+Plavić
+Plavno
+Plavšinac
+Plemenšćina
+Pleš
+Plešce
+Pleškovec
+Plesmo
+Pleternica
+Plitvica Voćanska
+Plitvička Jezera
+Pločice
+Plomin
+Plomin Luka
+Ploštine
+Plovanija
+Pluska
+Pobjenik
+Pobrežje
+Pobri
+Podaca
+Podbablje Gornje
+Podbrest
+Podbrežje
+Podbrezovica
+Podbrđe
+Podcrkavlje
+Podčudnič
+Podevčevo
+Podgaj Petrovski
+Podgajci Podravski
+Podgajci Posavski
+Podgajec
+Podglavica
+Podgora Krapinska
+Podgorač
+Podgorci
+Podgorje Požeško
+Podgradje
+Podgraj
+Podgrađe Podokićko
+Podhum
+Podjales
+Podkilavac
+Podkonje
+Podlapača
+Podlug
+Podlužan
+Podolec
+Podolje
+Podorljak
+Podoštra
+Podprolog
+Podravlje
+Podravska Moslavina
+Podravske Sesvete
+Podrinje
+Podrujnica
+Podrute
+Podrvanj
+Podstrana
+Podstrana-Grbavac
+Podstrana-Miljevac
+Podstrana-Mutogras
+Podstrana-Sita
+Podstrana-Strožanac Gornji
+Podstrana-Žminjača
+Podstražje
+Podturen
+Podum
+Podumci
+Podvinje
+Podvorec
+Podvornica
+Podvožić
+Podvrh
+Podvrško
+Pofuki
+Pogančec
+Poganovci
+Pojatno
+Pokasin
+Pokrovnik
+Pokupsko
+Polače
+Police
+Police-Pirišće
+Poličnik
+Poljana Biškupečka
+Poljana Čička
+Poljana Križevačka
+Poljana Lekenička
+Poljana Sutlanska
+Poljana Vrbovečka
+Poljanci
+Poljanec
+Poljanica Bistranska
+Poljanica Bistrička
+Poljanska
+Poljanski Lug
+Polje Čepić
+Polje Krapinsko
+Polje Ozaljsko
+Poljica Kozička
+Poljica-Brig
+Pologi
+Poloje
+Polonje
+Pomena
+Pomer
+Ponikvari
+Ponor
+Popovac
+Popovec
+Popovec Kalnički
+Popović
+Popović Brdo
+Poredje
+Posavski Bregi
+Posedarje
+Postira
+Postranje
+Potnjani
+Potočani Požeški
+Potočec
+Potok Kalnički
+Potok Tounjski
+Potomje
+Potpićan
+Potravlje
+Povelić
+Povile
+Povlja
+Povljana
+Požarkovec
+Požega
+Požeška Koprivnica
+Poznanovec
+Pozorac
+Pračana
+Prapatnica
+Prapatnice
+Praporčan
+Praputnjak
+Praščevac
+Pravutina
+Pražnice
+Prebukovje
+Prečec
+Prečno
+Predavac
+Predavec
+Predavec Križevački
+Pregrada
+Prekno
+Preko
+Prekobrdo
+Prekopakra
+Prekvršje
+Prelog
+Preloščica
+Premantura
+Premuda
+Prerovec
+Presečno
+Presečno Visočko
+Preseka Oborovska
+Preseka Petrovska
+Preslatinci
+Prespa
+Pretetinec
+Pretkovec
+Pretoki
+Previž
+Prevršac
+Prezid
+Prhoč
+Prhovec
+Pribanjci
+Pribić
+Pribiševci
+Pribislavec
+Pribude
+Pričac
+Pridraga
+Prigorec
+Prigorje Brdovečko
+Prijevor
+Prikraj
+Prikraj Križevački
+Priles
+Prilesje
+Prilipje
+Primorski Dolac
+Primošten
+Primošten Burnji
+Priselci
+Prišlin
+Pristava
+Pristava Krapinska
+Pristeg
+Prkovci
+Prnjarovac
+Prnjavor Slavonski
+Prodani
+Prodin Dol
+Prodol
+Prokike
+Prokuvljani
+Promajna
+Prosenik
+Prosenik Gubaševski
+Prosenik Začretski
+Prosinec
+Prozor
+Prozorje
+Prud
+Prudnice
+Prugovac
+Prugovo
+Prvan Selo
+Prvča
+Prvić Luka
+Prvić Šepurine
+Pučišća
+Puhovo
+Puklica
+Pula
+Pulgarija Čepić
+Punat
+Punikve
+Punitovci
+Puntera
+Pupelica
+Pupnat
+Purga Bednjanska
+Puričani
+Pušća
+Pušćine
+Puska
+Puškarići
+Pustakovec
+Pustike
+Pustodol
+Pustodol Orehovički
+Pustodol Začretski
+Putičanje
+Putini
+Putkovec
+Putniković
+Rab
+Rabac
+Račički Brijeg
+Račinovci
+Račišće
+Radakovo
+Radeljevo Selo
+Radešić
+Radetići
+Radikovci
+Radini
+Radmani
+Radnovac
+Radoboj
+Radočaji
+Radoišće
+Radonja
+Radosavci
+Radoši kod Žbandaja
+Radošinovac
+Radovan
+Radovanci
+Radovanje
+Radovčići
+Radovec
+Radovec Polje
+Radovin
+Radučić
+Radulec
+Radunić
+Rajevo Selo
+Rajić
+Rajić Gudovački
+Rajsavci
+Rakalj
+Rakitje
+Rakitnica
+Rakitovec
+Rakitovica
+Rakotule
+Rakov Potok
+Rakovec Tomaševečki
+Rakovica
+Ramanovci
+Ramljani
+Rapavel
+Raponji
+Raša
+Rašćani
+Rasinja
+Raslina
+Rasopasno
+Raštević
+Rastoki
+Rastovača
+Rastušje
+Ratkovac
+Ratkovec Zlatarski
+Ratkovica
+Ratulje
+Rava
+Ravan
+Ravča
+Ravna Gora
+Ravneš
+Ravni
+Ravnice Desinićke
+Ravninsko
+Ravno Brezje
+Ravno Rašće
+Ražanac
+Ražanj
+Razdrto Tuheljsko
+Razljev
+Razvor
+Razvođe
+Rebrovići
+Rečica
+Rečica Kriška
+Reka
+Repinec
+Repišće
+Repno
+Repovec
+Repušnica
+Rešetari
+Resnik Požeški
+Reštovo
+Retkovci
+Režanci
+Rezovac
+Rezovačke Krčevine
+Ribari
+Ribić Breg
+Ribnica
+Ribnjačka
+Rijeka
+Rijeka Voćanska
+Rinkovec
+Ripenda Kras
+Ripenda Verbanci
+Risika
+Risvica
+Robadje
+Roč
+Rocko Polje
+Rogač
+Rogočana
+Rogotin
+Rogovac
+Rogovići
+Rogoža
+Rogoznica
+Rojci
+Rokovci
+Rošini
+Roškići
+Rovanjska
+Rovinj
+Rovinjsko Selo
+Rovišće
+Rovno
+Rožat
+Roždanik
+Roženica
+Rozga
+Rtina
+Rubeši
+Ruča
+Ruda
+Rudani
+Rudanovac
+Rude
+Rudina
+Rugvica
+Rumin
+Runović
+Rupalj
+Rušani
+Ruščica
+Ruševo
+Ruškovac
+Rusnica
+Ružić
+Sabljak Selo
+Šag
+Šagovina-Cernička
+Šagudovec
+Šajini
+Salajci
+Salakovci
+Sali
+Salinovec
+Salnik
+Salopek Selo
+Salopek-Selo
+Šalovec
+Samarica
+Samatovci
+Samobor
+Samoborec
+Samoborski Otok
+Šandorovec
+Šandrovac
+Santalezi
+Sapci
+Šapjane
+Saplunara
+Sapna
+Šaptinovci
+Šarengrad
+Šarića Struga
+Sarići
+Saršoni
+Šartovac
+Sarvaš
+Šaš
+Šaša
+Šaševo
+Sasi
+Šašinovec
+Sasovac
+Satnica
+Satnica Ðakovačka
+Šatornja
+Satrić
+Savršćak
+Savska Cesta
+Savska Ves
+Savudrija
+Šćapovec
+Šćepanje
+Šćitarjevo
+Šćulac
+Šećerana
+Sedlarica
+Sedramić
+Seget
+Seget Vranjica
+Šegotići
+Seketin
+Šeketino Brdo
+Sekirišće
+Sela
+Sela Bosiljevska
+Sela Ravenska
+Sela Žakanjska
+Selanec
+Selci Križovljanski
+Selci Ðakovački
+Selišće Kostajničko
+Seljanec
+Selna
+Selnica Miholečka
+Selnica Podravska
+Selnica Psarjevačka
+Selnica Šćitarjevska
+Selnik
+Selnik Maruševečki
+Selno
+Šelovec
+Selsko Brdo
+Semeljci
+Semić
+Šemovci
+Šemovec
+Šemovec Breški
+Senjska Draga
+Seoca
+Seona
+Šeovci
+Šeovica
+Šestak Brdo
+Šestanovac
+Sesvete Ludbreške
+Setuš
+Severin
+Severin na Kupi
+Severovci
+Sevid
+Sevid na moru
+Šibenik
+Šibice
+Sibinj
+Šibovac
+Siča
+Sičane
+Siče
+Sičice
+Sigetac Novski
+Sigetec
+Sigetec Ludbreški
+Šijanec
+Sikirevci
+Silaš
+Silba
+Šiljakovina
+Šilo
+Šimljana
+Šimljanica
+Šimunčevec
+Šimunci
+Šimuni
+Sinac
+Sinj
+Šinkovica Bednjanska
+Šinkovica Šaška
+Sinožići
+Šipanska Luka
+Šipki
+Šiptari
+Sirač
+Širinec
+Širitovci
+Široka Kula
+Široka Rijeka
+Široke
+Široko Polje
+Sirova Katalena
+Sisak
+Šišan
+Sišćani
+Šišinec
+Šiškovci
+Šišljavić
+Sitno
+Sitno Donje
+Šivati
+Siverić
+Sivica
+Sjeničak Lasinjski
+Škabrnje
+Skakavac
+Škaljevica
+Škalnica
+Škarićevo
+Škarnik
+Skrad
+Skradin
+Skradinsko Polje
+Skradnik
+Skrbčići
+Škriljevec
+Škrinjari
+Škrip
+Škrljevo
+Škropeti
+Škuljari
+Skupica
+Slabinja
+Sladojevački Lug
+Sladojevci
+Slakovci
+Slakovec
+Slana
+Slani Dol
+Slani Potok
+Slanje
+Slano
+Slapno
+Slatina Pokupska
+Slatina Ravenska
+Slatina Svedruška
+Slatine
+Slatinik Drenjski
+Slavagora
+Slavetić
+Slavonske Bare
+Slavonski Brod
+Slavonski Kobaš
+Slavonski Šamac
+Slavsko Polje
+Sleme
+Slemenice
+Slime
+Slivarsko
+Slivnica
+Slivonja Jarek
+Šljivoševci
+Slobodna Vlast
+Slobodnica
+Slokovec
+Slovinci
+Slunj
+Slunj Podmelnica
+Slunjska Selnica
+Slunjski Moravci
+Smerovišće
+Smilčić
+Smiljan
+Smiljansko Polje
+Smoković
+Smoljanac
+Smoljanci
+Smolonje
+Šmrika
+Smrtić
+Snašići
+Soblinec
+Sobočani
+Soboli
+Sobra
+Šodolovci
+Sokolovac Daruvarski
+Solin
+Soljani
+Sonković
+Sop
+Sop Bukevski
+Sopje
+Sopot
+Šopot
+Šopron
+Šorići
+Sošice
+Sošići
+Sotin
+Sovari
+Sovinjak
+Sovski Dol
+Španat
+Sparagovići
+Špičkovina
+Špiranec
+Špišić-Bukovica
+Split
+Splitska
+Sračinec
+Srb
+Srebreno
+Srebrnjak
+Sredanci
+Srednje Mosti
+Srednje Selo na Šolti
+Srednji Dubovec
+Sreser
+Srijane
+Srijedska
+Srijem
+Srijemske Laze
+Srima
+Srinjine
+Sroki
+Štaglinec
+Stajnica
+Štakorovec
+Stančić
+Stančići
+Stancija Vodopija
+Stanetinec
+Stanica Roč
+Stanković
+Stankovo
+Stara Baška
+Stara Brezovica
+Stara Drenčina
+Stara Gradiška
+Stara Jošava
+Stara Lipa
+Stara Marča
+Stara Novalja
+Stara Plošćica
+Stara Rača
+Stara Subocka
+Stara Sušica
+Stara Vas
+Stara Ves Petrovska
+Starčevljani
+Stare Plavnice
+Stari Bošnjani
+Stari Brod
+Stari Farkašić
+Stari Glog
+Stari Golubovec
+Stari Grabovac
+Stari Gradac
+Stari Jankovci
+Stari Laminac
+Stari Laz
+Stari Mikanovci
+Stari Pavljani
+Stari Perkovci
+Stari Skucani
+Stari Slatnik
+Stari Vas
+Starin
+Starine
+Starjak
+Staro Čiče
+Staro Petrovo Polje
+Staro Petrovo Selo
+Staro Pračno
+Staro Selo Topusko
+Staro Štefanje
+Staro Topolje
+Starogradački Marof
+Staševica
+Staza
+Stažnjevci
+Štedrica
+Štefanje
+Šterna
+Stifanići
+Štikada
+Stilja
+Stinica
+Stipanovci
+Stipernica
+Štitar
+Stivašnica
+Štivica
+Stobreč
+Štokovci
+Stomorska
+Ston
+Strahinje
+Strahoninec
+Strašnik
+Stravča
+Straža
+Stražanac
+Stražeman
+Stražica
+Strelec
+Strelečko
+Strezoj
+Štrigova
+Strizivojna
+Štrmac
+Strmac Pribićki
+Strmec Bukevski
+Strmec Humski
+Strmec Podravski
+Strmec Remetinečki
+Strmec Stubički
+Strmec Sutlanski
+Strmen
+Strmendolac
+Strošinci
+Strožanac-Donji
+Štrped
+Štrucljevo
+Struga Banska
+Struga Nartska
+Štrukovec
+Stružani
+Stružec
+Stružec Posavski
+Stubička Slatina
+Stubičke Toplice
+Stuparje
+Stupnički Kuti
+Stupnički Obrež
+Stupno
+Stupovača
+Subotica Podravska
+Sućuraj
+Sudovčina
+Sudovec
+Sudurad
+Suha Katalena
+Suha Mlaka
+Suhač
+Suhaja
+Suhodol Zelinski
+Suhopolje
+Suhovare
+Sukošan
+Šulinec
+Sulkovci
+Šumanovci
+Šumarina
+Sumartin
+Šumber
+Šumećani
+Šumeće
+Šumetlica Cernička
+Sunger
+Sunja
+Supetar
+Supetarska Draga
+Šuplja Lipa
+Suša
+Susak
+Sušci
+Sušine
+Šušnjevci
+Šušnjevica
+Sušobreg Bistrički
+Sušobreg-dio
+Sustjepan
+Sutivan
+Sutivanac
+Sutomišćica
+Suza
+Sužan
+Švajcarnica
+Švaljkovec
+Svedruža
+Sveta Ana
+Sveta Katarina
+Sveta Nedelja
+Sveta Nedjelja
+Sveti Bartul
+Sveti Djuradj
+Sveti Donat
+Sveti Filip i Jakov
+Sveti Ilija
+Sveti Ivan Žabno
+Sveti Ivan Zelina
+Sveti Jakov
+Sveti Juraj
+Sveti Juraj u Trnju
+Sveti Križ Začretje
+Sveti Lovreč
+Sveti Matej
+Sveti Petar Čvrstec
+Sveti Petar Ludbreški
+Sveti Petar Mrežnički
+Sveti Petar na Moru
+Sveti Petar Orehovec
+Sveti Petar u Šumi
+Sveti Urban
+Sveti Vid Dobrinjski
+Sveti Vid-Miholjice
+Sveti Ðurđ
+Svetičko Hrašće
+Svetoblažje
+Svetojurski Vrh
+Svetonedeljski Breg
+Svetvinčenat
+Svibje
+Svibovec
+Svibovec Podravski
+Švica
+Svilaj
+Svilna
+Svinca
+Svinišće
+Svinjarevci
+Svirče
+Taborište
+Tadini
+Tanac
+Tar
+Tatar Varoš
+Tedrovec
+Tekići
+Temovec
+Tenja
+Tepljuh
+Terezino Polje
+Tiborjanci
+Tijarica
+Timarci
+Tinj
+Tinjan
+Tisanić Jarek
+Tišina Erdedska
+Tišina Kaptolska
+Tisno
+Tkalci
+Tkalec
+Tkon
+Tociljevac
+Tomaš
+Tomašanci
+Tomaševec
+Tomaševec Bisački
+Tomaševec Biškupečki
+Tomašica
+Tomašići
+Tomašnica
+Tomica
+Tominovac
+Tomišići
+Tomislavovac
+Tompojevci
+Topid
+Toplice
+Topoline
+Topolo
+Topolovac
+Topolovac Vrbovečki
+Topolovec Pisarovinski
+Topusko
+Toranj
+Toranj Požeški
+Torčec
+Tordinci
+Torjanci
+Totovec
+Tounj
+Tovarnik
+Trapari
+Trbounje
+Trebovec
+Trenkovo
+Treštanovci
+Trg
+Trgovi
+Trgovišće
+Tribalj
+Triban
+Tribanj
+Tribulje
+Tribunj
+Trilj
+Trn
+Trnakovac
+Trnbusi
+Trnjani
+Trnovac Požeški
+Trnovec
+Trnovec Bartolovečki
+Trnovec Desinićki
+Trnovitički Popovac
+Trogir
+Trošmarija
+Trpanj
+Trpinja
+Tršće
+Trški Vrh
+Trstenik Nartski
+Trstenik Pušćanski
+Trviž
+Tržić
+Tučenik
+Tučepi
+Tugare
+Tugonica
+Tuhelj
+Tuheljske Toplice
+Tuhovec
+Tuliševica
+Tupkovec
+Tupljak
+Turanj
+Turanovac
+Turčin
+Turčišće
+Turjaci
+Turkovići Ogulinski
+Turkovšćina
+Turnašica
+Turnić
+Turnišće
+Turnišće Desinićko
+Turopolje
+Tušilović
+Tuškani
+Tužno
+Tvrđavica
+Ubli
+Udbina
+Udovičići
+Ugljan
+Uglješ
+Ugrinići
+Uljanik
+Umag
+Umčani
+Umetić
+Umljanović
+Unčani
+Unešić
+Unije
+Uskoci
+Uskoplje
+Uštica
+Utiskani
+Uzdolje
+Vabriga
+Vaćani
+Vadalj
+Vadediji
+Vadina
+Vadreš
+Vagovina
+Valbandon
+Valenovac
+Valentinovo
+Valkarin
+Valpovo
+Valtura
+Valun
+Vantačići
+Varaždin
+Varaždin Breg
+Varaždinske Toplice
+Vardarac
+Vardica
+Varivode
+Varoš Lovrečka
+Vaška
+Većeslavec
+Vela Luka
+Vela Traba
+Vele Mune
+Veleniki
+Veleševec
+Veleškovec
+Veli Brgud
+Veli Dol
+Veli Golji
+Veli Iž
+Veli Ježenj
+Veli Lošinj
+Veli Mlun
+Veli Rat
+Velić
+Velika
+Velika Barna
+Velika Bršljanica
+Velika Buna
+Velika Čista
+Velika Črešnjevica
+Velika Erpenja
+Velika Gora
+Velika Gorica
+Velika Horvatska
+Velika Hrastilnica
+Velika Jamnička
+Velika Jazbina
+Velika Kopanica
+Velika Kosnica
+Velika Ludina
+Velika Mlinska
+Velika Mučna
+Velika Ostrna
+Velika Petrovagorska
+Velika Pisanica
+Velika Rakovica
+Velika Trnava
+Velika Trnovitica
+Velika Ves
+Velika Vranovina
+Velike Sesvete
+Veliki Banovac
+Veliki Bastaji
+Veliki Botinovac
+Veliki Brezovec
+Veliki Broćanac
+Veliki Čukur
+Veliki Drvenik
+Veliki Grabičani
+Veliki Gradac
+Veliki Grđevac
+Veliki Komor
+Veliki Lipovec
+Veliki Lovrečan
+Veliki Otok
+Veliki Pašijan
+Veliki Poganac
+Veliki Potočec
+Veliki Prolog
+Veliki Rastovac
+Veliki Raven
+Veliki Šušnjar
+Veliki Zdenci
+Veliko Korenovo
+Veliko Selce
+Veliko Svinjičko
+Veliko Trgovišće
+Veliko Trojstvo
+Velimirovac
+Velinci
+Veliškovci
+Veljaki
+Velušić
+Venac Mrežnički
+Venje
+Veprinac
+Vera
+Verunić
+Vesela
+Veternica
+Veternička Velika
+Vetovo
+Vezac
+Vezišće
+Viča Sela
+Vidovac
+Vidovci
+Vidovec
+Vidovec Krapinski
+Vidovec Petrovski
+Vidrenjak
+Viganj
+Vilanci
+Vilanija
+Viletinec
+Vilić Selo
+Viljevo
+Vina
+Vinalić
+Vinarec
+Vinež
+Vinica
+Vinica Breg
+Vinično
+Vinipotok
+Vinišće
+Vinjerac
+Vinkovac
+Vinkovački Banovci
+Vinkovci
+Vinkuran
+Vinogradci
+Vinogradi Ludbreški
+Vinovac
+Vinski Vrh
+Vintijan
+Vir
+Virje
+Virje Križovljansko
+Virovitica
+Vis
+Viškovci
+Viskovci-Požeški
+Viskovići
+Viškovo
+Višnjan-Visignano
+Višnjevec
+Visočane
+Visočani
+Visoka Greda
+Visoko
+Vitaljina
+Vitešinec
+Vitunj
+Vivodina
+Vižanovec
+Vižinada
+Vižovlje
+Vladislavci
+Vlaistav
+Vlaškovec
+Vlatkovac
+Voćarica
+Voćin
+Vodnjan
+Vodostaj
+Vodovođa
+Vojakovac
+Vojišnica
+Vojnić
+Vojnić Sinjski
+Vojnić-Breg
+Vojnovac
+Vojnovec Kalnički
+Vojnovec Loborski
+Vojsak
+Vojvodinec
+Volavje
+Vozilići
+Vođinci
+Vrabač
+Vraneševci
+Vranja
+Vranjic
+Vrankovec
+Vranojelje
+Vranov Dol
+Vranovača
+Vranovci
+Vratišinec
+Vratnik
+Vratnik Samoborski
+Vratno Otok
+Vrbanj
+Vrbanja
+Vrbanovec
+Vrbica Trojstvena
+Vrbišnica
+Vrbje
+Vrbno
+Vrboska
+Vrbova
+Vrbovac Podborski
+Vrbovec
+Vrbovec Samoborski
+Vrbovljani
+Vrbovo
+Vrbovo Posavsko
+Vrbovsko
+Vrećari
+Vrelo Koreničko
+Vrgada
+Vrginmost
+Vrgorac
+Vrh Letovanićki
+Vrh Visočki
+Vrhi Pregradski
+Vrhi Vinagorski
+Vrhovac
+Vrhovac Sokolovački
+Vrhovački Sopot
+Vrhovčak
+Vrhovci
+Vrhovec Rakovečki
+Vrhovina
+Vrhovine
+Vrhovljan
+Vrisnik
+Vrlika
+Vrsar
+Vrsi
+Vrsine
+Vrškovac
+Vrsno
+Vrtlinovec
+Vrtlinska
+Vrtnjakovec
+Vrvari
+Vržnaveri
+Vučani
+Vučetinec
+Vučevci
+Vučilčevo
+Vučjak Feričanački
+Vuglovec
+Vugrišinec
+Vugrovec
+Vugrovec Gornji
+Vujići Vojakovački
+Vukanci
+Vukanovec
+Vukmanić
+Vukoder
+Vukojevica
+Vukomerić
+Vukosavljevica
+Vukova Gorica
+Vukovar
+Vukovec
+Vukovije
+Vukovina
+Vukovje Zelinsko
+Vukovo Selo
+Vukovoj
+Vukšin Šipak
+Vukšinec Riječki
+Vularija
+Vulisinec
+Vurnovec
+Vurot
+Žabica
+Zablatje
+Zablatje Posavsko
+Žabnica
+Žabno
+Zabok
+Zaboric
+Zabrežani
+Zadar
+Zadobarje
+Zadravec
+Zadrkovec
+Zadubravlje
+Zadvarje
+Zadvorsko
+Zagora
+Zagorska Sela
+Zagradci
+Zagraj
+Zagrađe
+Zagreb
+Žagrović
+Zagvozd
+Zaistovec
+Zajačko Selo
+Zajci
+Zajezda
+Žakanje
+Zaklepica
+Zaklopatica
+Zakorenje
+Zakučac
+Zalug
+Zaluka Lipnička
+Zaluki
+Zalužnica
+Zamasline
+Zambratija
+Zamlaka
+Zamršje
+Zaostrog
+Zaprešić
+Zarečje
+Zarilac
+Žarovnica
+Zasadbreg
+Zastenice
+Zastolje
+Zastražišće
+Zatoglav
+Zaton Mali
+Zaton Obrovački
+Zaveščak
+Zavojane
+Zavrelje
+Završje Belečko
+Završje Loborsko
+Završje Netretićko
+Završje Podbelsko
+Završje Požeško
+Žažina
+Žbandaj
+Zbelava
+Zbjegovača
+Ždala
+Zdenac
+Zdenčac
+Zdenčec
+Zdenci
+Zdenci Brdovečki
+Ždralovi
+Ždrelac
+Ždrilo
+Zebanec Selo
+Zečevo Rogozničko
+Žedno
+Žejane
+Žejinci
+Zelčin
+Zelendvor
+Zelengrad
+Železna Gora
+Zelina Breška
+Zelinska Gora
+Želiski
+Željeznica
+Zemunik Donji
+Zemunik Gornji
+Žerava
+Žerjavinec
+Zetkan
+Žeževica
+Zgališće
+Žgaljići
+Žgombići
+Žibrinovec
+Zidarići
+Židovinjak
+Žigrovec
+Žirčica
+Žirje
+Žiškovec
+Žitarka
+Žitnić
+Žitomir
+Živike
+Živković Kosa
+Živogošće
+Zlarin
+Zlatar
+Zlatar bistrica
+Žlebec Gorički
+Žlebec Pušćanski
+Žlebina
+Zleć
+Zlobin
+Zlogonje
+Zmajevac
+Žman
+Zmijavci
+Žminj
+Zokov Gaj
+Zoljan
+Zoretići
+Zorkovac
+Zorkovac na Kupi
+Zrenj
+Zrinj Lukački
+Zrinšćina
+Zrinska
+Zrinski Topolovac
+Žrnovnica
+Žrnovo
+Zubovići
+Žubrica
+Žukovec
+Žuljana
+Žunci
+Županec
+Županići
+Županja
+Župić
+Žutnica
+Zvečaj
+Zvečanje
+Zvekovac
+Zvekovica
+Zverinac
+Zvijerci
+Zvjerinac
+Zvoneća
+Zvonik
+Zvonimirovac
+Zvonimirovo
+Ðelekovec
+Ðeletovci
+Ðevrske
+Ðulovac
+Ðurinići
+Ðurinovec
+Ðurmanec
+Ðurđanci
+Ðurđekovec
+Ðurđenovac
+Ðurđic
+Ðurđić
+Đakovo
+Đurđevac

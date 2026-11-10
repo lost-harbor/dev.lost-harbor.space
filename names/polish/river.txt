@@ -1,0 +1,952 @@
+Czarna	16
+Biała	8
+Struga	7
+Białka	5
+Czarna Woda	5
+Bystrzyca	4
+Czarna Struga	4
+Kamienica	4
+Kamionka	4
+Pisia	4
+Brynica	3
+Czernica	3
+Czerwonka	3
+Kamienna	3
+Moszczenica	3
+Młynówka	3
+Nida	3
+Pisa	3
+Rakówka	3
+Ruda	3
+Rudka	3
+Solinka	3
+Stobnica	3
+Wierzyca	3
+Biebrza	2
+Borownica	2
+Breń	2
+Brzeźnica	2
+Bukowa	2
+Cicha Woda	2
+Czerwona	2
+Dobrzyca	2
+Dzierzgoń	2
+Elszka	2
+Gać	2
+Hoczewka	2
+Jabłonka	2
+Jamnica	2
+Jawornik	2
+Kiełbaska	2
+Koszarawa	2
+Kurówka	2
+Kwisa	2
+Leśna	2
+Lipnica	2
+Liwna	2
+Lubianka	2
+Mątawa	2
+Mień	2
+Mienia	2
+Mleczna	2
+Morawka	2
+Moszczanka	2
+Myśla	2
+Obra	2
+Obrzyca	2
+Ochla	2
+Oleśnica	2
+Olszanka	2
+Orla	2
+Ołobok	2
+Piaśnica	2
+Piszczanka	2
+Piwonia	2
+Piława	2
+Pokrzywnica	2
+Polska Woda	2
+Reknica	2
+Rokitnica	2
+Rudnia	2
+Rurzyca	2
+Rzeczyca	2
+Samica	2
+Sanna	2
+Smolnik	2
+Stradomka	2
+Studzienica	2
+Sucha	2
+Słupia	2
+Teleszyna	2
+Turka	2
+Wda	2
+Wilga	2
+Zdynia	2
+Zielona	2
+Łacha	2
+Łęg	2
+Babulówka
+Bacha
+Bączycha
+Barycz
+Baryczka
+Bauda
+Bawół
+Będkowka
+Bednarka
+Bełcza
+Bełdówka
+Bełnianka
+Bialka
+Biała Lądecka
+Biała Oksza
+Biała Przemsza
+Biała Wisełka
+Biała Woda
+Biały
+Biały Dunajec
+Biela
+Bielawka
+Bielica
+Bielina
+Bierawka
+Biez
+Blizna
+Bludzia
+Bobr
+Bobrcyca
+Bobrza
+Bogacica
+Bogdanka
+Bogdanówka
+Bolszewka
+Borowina
+Borucza
+Bosak
+Boży Stok
+Branew
+Brda
+Bren Stary
+Brennica
+Brodnia
+Brok
+Bronka
+Brusienka
+Brzezina
+Brzozówka
+Brzuśnia
+Buczynka
+Budkowiczanka
+Budzisz
+Budzówka
+Bukowina
+Bukowinka
+Bukówka
+Buszcza
+Bystra
+Bystryca
+Bystrzyca Dusznicka
+Bystrzyca Mała
+Bytomka
+Bytowa
+Bzura
+Błonia
+Błotnia
+Błotnica
+Cedron
+Centary
+Centuria
+Cetynia
+Chechło
+Chełst
+Chociel
+Chocina
+Chodel
+Chodelka
+Chojnatka
+Chotowski Połok
+Chotum
+Chrząstawka
+Chrząstowa
+Chwiszczej
+Cielnica
+Ciemięga
+Ciemna
+Cienia
+Cienka
+Cybina
+Cyna
+Czaplinianka
+Czarna Nida
+Czarna Oksza
+Czarna Orawa
+Czarna Przemsza
+Czarna Taraska
+Czarna Widawa
+Czarna Wisełka
+Czarna Łada
+Czarny
+Czarny Dunajec
+Czartosowa
+Czerna Mała
+Czerna Wielka
+Czernawa
+Czerniawka
+Czerniejówka
+Czerska Struga
+Czerwień
+Czyżówka
+Dąb
+Dąbroczna
+Dabrowka
+Dąbrówka
+Dajna
+Dęba
+Dębnica
+Dębosznica
+Debrzyca
+Debrzynka
+Dobra
+Dobrzynka
+Dojca
+Drama
+Drawa
+Drwęca
+Drwęca Warmińska
+Drwina
+Drwina Długa
+Drzewiczka
+Dulcza
+Dulowka
+Duńczyca
+Dwernik
+Dybła
+Dymnica
+Działdówka
+Dzienkałówka
+Dzierzbia
+Dzierżęcinka
+Dłubnia
+Długa
+Elblag
+Elma
+Ełk
+Falkówka
+Flinta
+Fryba
+Gardęga
+Garka
+Garlica
+Gawroniec
+Gdola
+Giełczew
+Giszka
+Gizela
+Gnida
+Gniła Barycz
+Gniła Obra
+Gnojnik
+Golębica
+Gonsawka
+Gorajec
+Gorzyczanka
+Gościcina
+Gostynia
+Gostyńka
+Gowienica
+Gołdapa
+Gołec
+Grabar
+Grabia
+Grabowa
+Graniczna
+Graniczna Woda
+Gróbka
+Grodkowska Struga
+Gryzynka
+Guber
+Gulczanka
+Gunica
+Gwda
+Gzówka
+Głomia
+Główna
+Głuchy
+Huczwa
+Hulski
+Ilanka
+Ina
+Iławka
+Iłownica
+Iłżanka
+Jabłonica
+Jadkowa
+Jagielna
+Jamne
+Jamninka
+Janka
+Jarka
+Jaroche
+Jasień
+Jasienica
+Jasiołka
+Jaskrzanka
+Jaszcze
+Jaworznik
+Jałówka
+Jedlica
+Jegrznia
+Jezierzyca
+Jeziorka
+Jeziorna
+Jeżówka
+Jordan
+Jutrzenka
+Kacanka
+Kacza
+Kaczawa
+Kaflewa
+Kamianka
+Kamień
+Kamieniczka
+Kamienny Bród
+Kania
+Karasiówka
+Kasina
+Kałuża
+Kcyninka
+Khalich
+Kicz
+Kirsna
+Kisewska Struga
+Kisielina
+Klukówka
+Kobylanka
+Kocinka
+Konopka
+Końska
+Kopanica
+Kopla
+Koprzywianka
+Kopytkówka
+Korabiewka
+Korytka
+Korytnica
+Korzeń
+Korzenica
+Kosarzewka
+Kośnik
+Kosowiec
+Kosówka
+Kostrzyń
+Kotylnica
+Kozi Bród
+Kołodziejka
+Kraska
+Krasna
+Krasowa
+Krempna
+Krępa
+Krępianka
+Krępiel
+Krutynia
+Krynica
+Kryniczki
+Krynka
+Krzczonówka
+Krzemianka
+Krzemionka
+Krzeszówka
+Krzna
+Krzna Północna
+Krzna Południowa
+Krztynia
+Krzyworzeka
+Krzywula
+Kucelinka
+Kukawka
+Kulawa
+Kumiałka
+Kuńica
+Kuroch
+Kurzyca
+Kurzynka
+Kwilinka
+Kłodawa
+Kłodawka
+Kłodnica
+Kłoniecznica
+Kłopotnica
+Laźna Struga
+Lebiedzianka
+Leniwa
+Lepietnica
+Lepitucha
+Lesk
+Leśnica
+Libawa
+Linawa
+Liska
+Liswarta
+Liwa
+Liwiec
+Liza
+Lomnica
+Loza
+Lubatówka
+Lubcza
+Lubieniec
+Lubieńka
+Lubieska
+Lubliniec
+Lubniewka
+Lubówka
+Lubrzanka
+Lubsza
+Luchówka
+Luciąża
+Lukawica
+Lutryna
+Lutynia
+Lyubachevka
+Madiniczek
+Mahomot
+Malina
+Mamonovka
+Mamłyk
+Marózka
+Marwica
+Maskawa
+Masłówka
+Mała Ina
+Mała Panew
+Mała Ślęza
+Mała Wełna
+Małkin
+Małoszówka
+Mały Brok
+Małynka
+Małyszyniec
+Meczna
+Merześnica
+Meszna
+Mesznik
+Mętna
+Miazga
+Miała
+Miedzanka
+Mielnica
+Mierzawa
+Mietzel
+Minina
+Mitręga
+Miłotka
+Mleczka
+Modrzejowica
+Mogielanka
+Mogilnica
+Molnica
+Morawa
+Morawki
+Moskorzynka
+Mostówka
+Moszcza
+Moszczeniczka
+Moszczona
+Motława
+Mozgawa
+Mołstowa
+Mołtawa
+Mroga
+Mrowa
+Mrowla
+Mrożyca
+Mszanka
+Muchawka
+Muszynka
+Muława
+Myia
+Myja
+Myslina
+Młaha
+Mławka
+Młynkowska
+Młynowka
+Młyńska Struga
+Młyńska Woda
+Naruszewka
+Narutówka
+Nasielna
+Ner
+Nereśl
+Netecza
+Netta
+Nidzica
+Niechwaszcz
+Nieciecz
+Niecieczna
+Nieczajka
+Niedźwiada
+Niedźwiedzica
+Niemica
+Niepryszka
+Niesob
+Niestępówka
+Noteć
+Nowa Motława
+Nowa Młynówka
+Nurczyk
+Nurzec
+Nysa Kłodzka
+Nysa Szalona
+Ochnia
+Ochotnica
+Oder
+Okalica
+Okrzejka
+Okrzesza
+Oldza
+Olechówka
+Olesnica
+Oleszna
+Olza
+Omaza
+Omet
+Omulew
+Opatówka
+Opawica
+Orawka
+Orlanka
+Oronka
+Orpiszewski Rów
+Orz
+Orzyc
+Orłowka
+Osa
+Osownica
+Osteroga
+Ostra
+Ostrosz
+Osusznica
+Osława
+Oława
+Pacynka
+Paklica
+Pancza
+Pankówka
+Papiernia
+Parnica
+Parsęta
+Pastewnik
+Pasłęka
+Pechy
+Pecznik
+Perebel
+Petrůvka
+Pełchówka
+Pełcznica
+Pełta
+Piaseczna
+Piasecznica
+Pielnica
+Pierzchnia
+Piesienica
+Pilcia
+Pilica
+Pilnica
+Pilsia
+Pisarzówka
+Piskara
+Piszczak
+Plewka
+Pliszka
+Pniewka
+Pniewniczanka
+Pobórze
+Podlipie
+Podstawie
+Pogona
+Pogorzelica
+Pokrzywianka
+Pokrzywna
+Polnica
+Pomianka
+Poprad
+Por
+Poręba
+Postolińska Struga
+Postomia
+Powa
+Powo
+Pradnica
+Prądnik
+Prądzona
+Pratnik
+Pręczawa
+Promnik
+Prosna
+Prószkowski
+Prudka
+Prudnik
+Prusina
+Prut
+Przemsza
+Przerwa
+Przewodówka
+Przykopa
+Przylepnica
+Przyrwa
+Przyłęg
+Przyłubien
+Psarski
+Pszczynka
+Puńcówka
+Pyszna
+Pysznica
+Pytlocha
+Pławnica
+Płociczna
+Płodownica
+Płonia
+Płonka
+Płoska
+Płutnica
+Płytnica
+Raba
+Raciażnica
+Rada
+Radawka
+Radew
+Radnia
+Radomka
+Radunia
+Rakowa
+Rakutówka
+Rata
+Ratwica
+Rawa
+Rawka
+Rdząca
+Reda
+Rega
+Regaliczka
+Rgilówka
+Roczynka
+Rokitka
+Ropa
+Rospuda
+Rów Mortimerowski
+Rów Orpiszewski
+Rów Polny
+Rów Polski
+Rów Szarkowski
+Róż
+Różanica
+Rożaniecki
+Rozoga
+Roztoka
+Roztoki
+Rudawa
+Rudawka
+Rudna
+Rudnik
+Rudno
+Ruska
+Rutkownica
+Ruż
+Ruziec
+Rybi
+Rydnia
+Ryjak
+Rynia
+Rypienica
+Ryszka
+Rządza
+Rzeplin
+Rzoska
+Rzuchów
+Sajna
+Sama
+Samionka
+San
+Sanica
+Sanka
+Sanoczek
+Santoczna
+Sąpólna
+Sarenka
+Sawa
+Sawica
+Sała
+Ścieklec
+Ścinawa
+Scruga
+Sękówka
+Sępolna
+Shklo
+Siary
+Sidra
+Siennica
+Sierpienica
+Sietniczanka
+Silnica
+Sitnica
+Skawa
+Skawica
+Skawinka
+Skierniewka
+Skora
+Skotawa
+Skroda
+Skrwa Lewa
+Skrwa Prawa
+Ślęza
+Ślina
+Ślizień
+Smarkata
+Śmiardówka
+Śmieszka
+Smolinka
+Smolna
+Smortawa
+Snida
+Sobińska Struga
+Sokołda
+Sokołówka
+Sona
+Sopot
+Sosna
+Soła
+Sołokija
+Sołotwa
+Srawa
+Srebrna
+Stara Struga
+Stara Warta
+Stary
+Stary Wisłok
+Starycz
+Staświnka
+Stawna
+Stawnica
+Stążka
+Stebnik
+Stěnava
+Stepnica
+Stobrawa
+Stoja
+Stok
+Stoła
+Stradunia
+Strawa
+Strężenica
+Strudnica
+Struga Ołoboczek
+Struga Węglewska
+Struga Łupieża
+Strumień
+Stryszawka
+Strzegomka
+Strzelica
+Strzelniczka
+Strzeżenica
+Stuchowsko Struga
+Studczek
+Studnica
+Stuga
+Stupianka
+Stupnica
+Sucha Woda
+Sumina
+Supraśl
+Swędrnia
+Świder
+Swidnica
+Świdnica
+Swierzyna
+Święta
+Swina
+Świniec
+Świniobródka
+Świnka
+Świslina
+Sylec
+Symsarna
+Szabasówka
+Szczeberka
+Szczyra
+Szkotówka
+Szkwa
+Szotkówka
+Szpęgawa
+Szprotawa
+Szreniawa
+Sztola
+Szum
+Szusia
+Szwenzek
+Szyszła
+Szywra
+Słomianka
+Słomka
+Słopnica
+Słudwia
+Słujuca
+Tanew
+Tarczynka
+Tarlaka
+Toczna
+Tonczyna
+Topornica
+Troja
+Trybówka
+Trzebensz
+Trzebiczka
+Trzebioncha
+Trzebośnica
+Trześniówka
+Tuchełka
+Tuczna
+Tuczyn
+Turna
+Turnica
+Turośl
+Turośnianka
+Turówka
+Tuszymka
+Tymianka
+Tynica
+Tyrawski
+Tyśmienica
+Tywa
+Tłoczewka
+Udal
+Ugoszcz
+Uherka
+Ukleja
+Ulatówka
+Uniejówka
+Uniesć
+Upust
+Urzędówka
+Uszew
+Uszwica
+Uśzwica
+Utrata
+Variazhanka
+Vistula
+Vyar
+Wąglanka
+Wańkówka
+Wapienica
+Warkocz
+Warta
+Wąska
+Wałpusz
+Wałsza
+Węgierka
+Węgiermuca
+Wel
+Wetlina
+Wełna
+Wełnianka
+Wiązownica
+Widawa
+Widawka
+Wiejski
+Wielopólka
+Wieprz
+Wieprza
+Wieprzówka
+Wiercica
+Wierzbiak
+Wierzbica
+Wietcisa
+Wilanówka
+Wilcza
+Wilkojadka
+Wilsznia
+Wincenta
+Wirowa
+Wisłok
+Wisłoka
+Witna
+Witówka
+Wkra
+Wojsławka
+Wolborka
+Wolica
+Wołczenica
+Wołosaty
+Wrześnica
+Wrzosówka
+Wschodnia
+Wyczawa
+Wymokra
+Wyrwa
+Wys
+Wysoka
+Wyżnica
+Włodawka
+Włodzica
+Żabnica
+Zabłoczanka
+Zacisowka
+Zagórska Struga
+Zagórski
+Zagożdżonka
+Zamiło
+Żarnica
+Zbrzyca
+Zbuczynka
+Żebrówka
+Żeglina
+Zelwianka
+Zgórski
+Zgtowiączka
+Ziebna
+Zielawa
+Zimna Woda
+Zimnica
+Żółkiewka
+Zubrzyca
+Żupawka
+Żurawianka
+Żurawka
+Zwierzynka
+Zwlecza
+Zwoleńka
+Zworzec
+Zydowski
+Żylca
+Zyzoga
+Złomiejka
+Złota
+Złotnica
+Złoty
+Łabuńka
+Łada
+Łagowica
+Łażnica
+Łeba
+Łękawka
+Łętowienka
+Łętownia
+Łobżonka
+Łódka
+Łojewek
+Łoknica
+Łomnica
+Łomżyczka
+Łosiniecki
+Łososina
+Łosośna
+Łówcza
+Łubinka
+Łukawiec
+Łupawa
+Łupia
+Łutownia
+Łużyca
+Łydynia
+Łyna

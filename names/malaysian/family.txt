@@ -1,0 +1,785 @@
+Chen	76
+Tan	62
+Huang	53
+Lee	44
+Lin	44
+Li	43
+Wong	39
+Ng	36
+Zhang	35
+Lim	34
+Yang	26
+Liu	24
+Ong	22
+Wang	21
+Yap	19
+Wu	18
+Yeoh	18
+Liang	17
+Chan	16
+Chong	15
+Wan	15
+Tsai	13
+Goh	12
+Lai	12
+Leong	12
+Ahmad	11
+Khoo	11
+Xie	11
+Zheng	11
+Cheah	10
+Ismail	10
+Teh	10
+Ye	10
+Abdul	9
+Choong	9
+Fernandez	9
+Liew	9
+Yong	9
+Adam	8
+Ibrahim	8
+Low	8
+Sidek	8
+Teo	8
+Xu	8
+Zeng	8
+Zhong	8
+Baharom	7
+Chee	7
+Guo	7
+He	7
+Hu	7
+Liao	7
+Nik	7
+Omar	7
+Othman	7
+Syed	7
+Woon	7
+Abdullah	6
+Chang	6
+Chew	6
+Chia	6
+Chin	6
+Chua	6
+Hashim	6
+Ho	6
+Koh	6
+Kok	6
+Ooi	6
+Qiu	6
+Shen	6
+Zhuang	6
+Aziz	5
+Brooke	5
+Cao	5
+Law	5
+Luo	5
+Mohamed	5
+Pang	5
+Rahman	5
+Singh	5
+Tai	5
+Teoh	5
+Wei	5
+Yan	5
+Zhou	5
+Ali	4
+Ang	4
+Azman	4
+Cheng	4
+Cheong	4
+Dai	4
+Evans	4
+Feng	4
+Foo	4
+Guan	4
+Hassan	4
+Hong	4
+Latif	4
+Loh	4
+Mahmood	4
+Mohd	4
+Raja	4
+Razak	4
+Stephens	4
+Tee	4
+Wee	4
+Yao	4
+Zainuddin	4
+Zhu	4
+Adnan	3
+Aiman	3
+Alias	3
+Anwar	3
+Ayub	3
+Azizan	3
+Bakar	3
+Choo	3
+Chow	3
+Daud	3
+Fang	3
+Fong	3
+Foster	3
+Gan	3
+Gu	3
+Heah	3
+Hudson	3
+Hussein	3
+Jais	3
+Jantan	3
+Jiang	3
+Karupathevan	3
+Ke	3
+Khaw	3
+Lau	3
+Loke	3
+Loo	3
+Lu	3
+Ma	3
+Mansor	3
+Merican	3
+Mohamad	3
+Nordin	3
+Oon	3
+Phua	3
+Samuel	3
+Saperi	3
+Saw	3
+Shah	3
+Siew	3
+Sinclair	3
+Soo	3
+Soong	3
+Tiong	3
+Yeo	3
+Yu	3
+Zainal	3
+Abidin	2
+Anthony	2
+Arnold	2
+Arumugam	2
+Au	2
+Barker	2
+Boon	2
+Ch'ng	2
+Cheam	2
+Chuah	2
+David	2
+Davies	2
+Deng	2
+Du	2
+Edwin	2
+Elias	2
+Eng	2
+Fu	2
+Gill	2
+Hamid	2
+Hamzah	2
+Hanafi	2
+Hock	2
+Hoh	2
+Hoo	2
+Im	2
+James	2
+Jolly	2
+Joseph	2
+Khalid	2
+Khor	2
+Koay	2
+Kong	2
+Koo	2
+Krishnan	2
+Kuok	2
+Latiff	2
+Ling	2
+Lo	2
+Mamat	2
+Manan	2
+Mazlan	2
+Moey	2
+Moo	2
+Muneer	2
+Musa	2
+Mustapa	2
+Nazri	2
+Ni	2
+Noor	2
+Paul	2
+Peng	2
+Phillips	2
+Poh	2
+Radhakrishnan	2
+Raj	2
+Ramli	2
+Riza	2
+Rose	2
+Roslan	2
+Ross	2
+Saari	2
+Salim	2
+Salleh	2
+Samad	2
+Sanderson	2
+Sani	2
+Shamsuddin	2
+Sharif	2
+Sim	2
+Smith	2
+Soh	2
+Subramaniam	2
+Sulaiman	2
+Tengku	2
+Ting	2
+Tino	2
+Toh	2
+Underwood	2
+Veeran	2
+Velu	2
+Vincent	2
+Wahab	2
+Wahid	2
+Wen	2
+Weng	2
+Xiao	2
+Yee	2
+Yew	2
+You	2
+Yusoff	2
+Zain	2
+Zakaria	2
+Zhao	2
+Zou	2
+Zulkiffli	2
+Zulkifli	2
+Abang
+Abba
+Abdul Rahman
+Abdul-Majid
+Abu
+Adrian
+Agus
+Ai
+Akbar
+Akmal
+Allan
+Allen
+Alphonso
+Amani
+Amin
+An
+Ananthan
+Andi
+Andre
+Andrew
+Ann
+Anon
+Anscelly
+Anuar
+Arasaradnam
+Arif
+Ariff
+Arrocha
+Arutchelvan
+Attas
+Ayob
+Ayu
+Azhar
+Azhari
+Azka
+Azrihanif
+Azriyn
+Baba
+Babar
+Badawi
+Baharum
+Bahran
+Bailey
+Bakhtiar
+Bakhtir
+Balakrishnan
+Bancroft
+Barrett
+Bartholomew
+Basar
+Basrah
+Baum
+Beale
+Beard
+Beaumont
+Bohan
+Boksay
+Bong
+Boopathy
+Boutmy
+Brandão
+Brassard
+Brian
+Buis
+Burhanuddin
+Carey
+Carr
+Caunter
+Cen
+Chambers
+Chandran
+Che
+Chiang
+Chieng
+Chik
+Ching
+Cho
+Chock
+Chok
+Chooi
+Chor
+Choy
+Chung
+Clapham
+Clarkson
+Comber
+Cools
+Corbet
+Cornwall
+Corrie
+Crossley
+Cruz
+Daeng
+Dahari
+Daly
+Damit
+Danielle
+Danish
+Dass
+Dauqan
+Dawood
+De Cruz
+Dennis
+Dent
+Desa
+Devadass
+Dewi
+Ding
+Ditta
+Dong
+Dryburgh
+Duncan
+Dzulkeple
+Envall
+Eoon
+Ewe
+Fahmi
+Faiz
+Fan
+Farida
+Faris
+Fazal
+Fernandes
+Fidelis
+Figueiredo
+Filmer
+Flint
+Fonseka
+Fook
+Francis
+Frank
+Fung
+Gamage
+Gandru
+Gani
+Garcés
+Garip
+Gebeshuber
+Gent
+Ghani
+Ghazali
+Gilbert
+Gilmour
+Ginn
+Go
+Goldberg
+Gong
+Goodman
+Goonting
+Gray
+Green
+Grimaldi
+Gulzar
+Gunalan
+Hadri
+Hakeem
+Hakim
+Hammam
+Hanif
+Haniff
+Hanum
+Haron
+Hart
+Hastings
+Haw
+Haziq
+Heg
+Helmi
+Henderson
+Henkel
+Henry
+Herrera
+Hickling
+Hii
+Hill
+Hoan
+Hoffman
+Hogan
+Hoi
+Hon
+Hoon
+Hopkins
+Husain
+Hussain
+Hutson
+Idris
+Ignatius
+Ilyas
+Ing
+Iqbal
+Irazabal
+Irman
+Isaac
+Isak
+Ishak
+Isme
+Jaafar
+Jalil
+Jamal
+Jamaludin
+Jane
+Jeffrey
+Ji
+Jia
+Joel
+Johari
+Johnson
+Jones
+Joy
+Kahar
+Kai
+Kalyanasundaram
+Kamal
+Kamar
+Kamil-Yusof
+Kang
+Karim
+Kassim
+Katan
+Kaur
+Keith
+Keong
+Khairul
+Khaleed
+Khalib
+Khanna
+Khayrābādī
+Khir
+Kirton
+Kobra
+Kōi
+Konno
+Koon
+Kopański
+Krishnamal
+Kuak
+Kuan
+Kuek
+Kumar
+Kunalan
+Kurahara
+Kurup
+Kwan
+Kwok
+Kwong
+Kyle
+Lafe
+Lafortune
+Laga
+Laine
+Lam
+Lamin
+Lan
+Lawrence
+Lean
+Leggett
+Leow
+Lep
+Lew
+Ley
+Lian
+Liàn
+Linggian
+Little
+Lok
+Loong
+Lovett
+Lozac'h
+Lü
+Lwi
+Maas
+Machuca
+Madden
+Mahenthiralingam
+Maisondieu
+Majid
+Mak
+Malek
+Malik
+Malthe
+Man
+Manaf
+Manickam
+Manoharan
+Marbeck
+Marimaran
+Martha
+Mas
+Mawan
+Mayer
+Maziri
+McDowell
+Medhurst
+Meyer
+Misbun
+Mo
+Moe
+Mohsin
+Moktar
+Mooi
+Moore
+Moorthy
+Morales
+Moris
+Moss
+Mounsey
+Moura
+Moy
+Mudukasan
+Muhammad
+Muis
+Muralitharan
+Mustaffa
+Mustapha
+Nagao
+Nair
+Nash
+Nathen
+Nell
+Newell
+Newton
+Nga
+Ngan
+Nicoll
+Nield
+Niu
+Noah
+Nodin
+Noorlan
+Nor
+Norman
+Norrodin
+Nurizwan
+Nurshuhaini
+Oey
+Oh
+Orow
+Osman
+Osmera
+Ou
+Ow
+Pajon
+Palikat
+Panchacharam
+Parafita
+Peck
+Pei
+Pek
+Penman
+Percival
+Pereira
+Peter
+Petrus
+Philips
+Píng
+Piruz
+Polgar
+Ponnambalam
+Ponniah
+Poon
+Prakash
+Pratten
+Pua
+Puah
+Putra
+Qin
+Quay
+Què
+Quek
+Rafik
+Rahmat
+Rajah
+Rajamani
+Rajendran
+Rajesh
+Rajeswari
+Raju
+Rakhavan
+Ram
+Ramachandran
+Ramiah
+Rashid
+Rasindran
+Raymond
+Razali
+Razif
+Reed
+Richardson
+Robert
+Robson
+Rodrigues
+Roelcke
+Rompog
+Rosli
+Rozain
+Rú
+Rumsani
+Rusli
+Ruth
+Saad
+Sabor
+Sabri
+Sabry
+Saeed
+Saha
+Sahari
+Said
+Sain
+Sakura
+Saman
+Sameon
+Sandin
+Sang
+Saniru
+Santiago
+Santos
+Sathianathan
+Schaghen
+Schubert
+Scully
+Seatter
+Sebastian
+See
+Sekhar
+Selvaduray
+Selvaraj
+Seng
+Seow
+Sew Hoy
+Shafie
+Shahriman
+Shahrudin
+Shalini
+Shankar
+Shawal
+Sheikh
+Shelford
+Shelley
+Sheme
+Shepherdson
+Sheppard
+Shi
+Shia
+Sholeh
+Sidhu
+Simmons
+Singha
+Siow
+Sivakumar
+Sivalingam
+Skinner
+Sondoro
+Soon
+Spooner
+Steel
+Steven
+Stürmer
+Su
+Sufian
+Sullivan
+Swee
+Sweeney
+Syakir
+Syamsudin
+Syazrin
+Taha
+Tahir
+Talbot
+Tam
+Tang
+Taresoh
+Tarn
+Tay
+Tazari
+Tehrani
+Tew
+Tey
+Tham
+Thein
+Thin
+Thomas
+Thomson
+Thong
+Tikaram
+Tilbrook
+Tim
+Toft
+Tong
+Tor
+Tsang
+Tsen
+Tu
+Tuck
+Tunku
+Tyler
+Vethamani
+Victor
+Wadud
+Waheed
+Warren
+Watts
+Waty
+Wells
+Wensley
+Wilson
+Wood
+Xavier
+Xin
+Xú
+Ya'acob
+Yaakob
+Yahaya
+Yapp
+Yat
+Yeap
+Yin
+Ying Ying
+Yip
+Yoon
+Yoong
+Young
+Yuen
+Zahari
+Zaim
+Zaman
+Zhuo
+Ziegler
+Zikri
+Zin
+Zonneveld
+Zubairi
+Zulaikha

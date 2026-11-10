@@ -1,0 +1,3593 @@
+Giuseppe	4169
+Francesco	3411
+Giovanni	3111
+Antonio	2813
+Mario	2534
+Luigi	2461
+Andrea	2407
+Paolo	2407
+Marco	2402
+Carlo	2202
+Alessandro	2119
+Roberto	1858
+Stefano	1537
+Alberto	1526
+Luca	1431
+Giorgio	1403
+Franco	1358
+Pietro	1274
+Massimo	1219
+Angelo	1182
+Enrico	1172
+Michele	1149
+Vincenzo	1122
+Lorenzo	1009
+Bruno	1000
+Matteo	970
+Riccardo	945
+Sergio	939
+Claudio	910
+Fabio	910
+Salvatore	904
+Guido	890
+Domenico	855
+Nicola	835
+Federico	834
+Davide	813
+Maurizio	802
+Vittorio	763
+Aldo	759
+Daniele	725
+Luciano	715
+Giulio	694
+Giacomo	678
+Mauro	664
+Filippo	642
+Renato	638
+Simone	618
+Piero	614
+Umberto	577
+Alfredo	558
+Cesare	540
+Fabrizio	538
+Giancarlo	521
+Gianni	520
+Marcello	501
+Gabriele	499
+Raffaele	498
+Enzo	489
+Gaetano	466
+Emilio	435
+Gianluca	434
+Leonardo	432
+Gino	431
+Tommaso	427
+Ugo	423
+Edoardo	412
+Emanuele	408
+Pasquale	396
+Gianfranco	394
+Dario	393
+Eugenio	381
+Ettore	342
+Silvio	328
+Massimiliano	317
+Maria	312
+Antonino	303
+Renzo	301
+Alessio	298
+Ernesto	298
+Diego	295
+Walter	295
+Armando	293
+Sandro	293
+Mattia	291
+Giuliano	282
+Attilio	278
+Valerio	273
+Adriano	272
+Ferdinando	272
+Corrado	265
+Augusto	262
+Vito	252
+Dino	243
+Alfonso	238
+Elio	231
+Guglielmo	228
+Lucio	224
+Felice	223
+Arturo	222
+Italo	216
+Agostino	215
+Giovanni Battista	206
+Fausto	203
+Christian	199
+Ezio	199
+Jacopo	198
+Nino	198
+Amedeo	196
+Danilo	190
+Ivan	188
+Fernando	184
+Gennaro	181
+Carmelo	180
+Pierluigi	180
+Sebastiano	178
+Silvano	178
+Dante	174
+Flavio	174
+Achille	171
+Rodolfo	171
+Romano	168
+Rocco	163
+Carmine	161
+Nicolò	160
+Rosario	160
+Fulvio	159
+Gian	156
+Arnaldo	154
+Donato	154
+David	152
+Mirko	150
+Cristiano	149
+Ferruccio	149
+Manuel	149
+Tullio	146
+Adolfo	144
+Livio	144
+Lino	142
+Marino	141
+Pier	140
+Camillo	138
+Alex	131
+Ruggero	131
+Saverio	131
+Ignazio	130
+Ennio	129
+Oreste	129
+Benedetto	126
+Niccolò	124
+Giampiero	123
+Giampaolo	120
+Aurelio	119
+Daniel	119
+Mariano	119
+Ciro	118
+Cosimo	115
+Cristian	115
+Egidio	114
+Valentino	113
+Remo	112
+Samuele	112
+Oscar	111
+Pino	108
+Emiliano	107
+Ludovico	99
+Manlio	99
+Tiziano	99
+Antonello	98
+Michael	98
+Thomas	98
+Ermanno	97
+Ottavio	95
+Bernardo	93
+Girolamo	93
+Gustavo	93
+Pio	92
+Rino	92
+Rinaldo	91
+Virgilio	91
+Arrigo	90
+Gerardo	90
+Michelangelo	89
+Nello	89
+Natale	88
+Giordano	86
+Ivo	86
+Gastone	85
+Costantino	84
+Gilberto	84
+Graziano	84
+Loris	84
+Leo	83
+Gianluigi	81
+Max	81
+Raffaello	81
+Elia	80
+Osvaldo	80
+Biagio	78
+Ivano	78
+Orazio	77
+Raimondo	77
+Damiano	76
+Tito	74
+Gioacchino	73
+Lamberto	73
+Bartolomeo	72
+Alfio	70
+Leone	70
+Ambrogio	67
+Battista	67
+Pierpaolo	67
+Ubaldo	67
+Ercole	66
+Romolo	66
+Beniamino	65
+Benito	65
+Giacinto	65
+Gianmarco	65
+Orlando	65
+Peter	63
+Primo	62
+Joseph	61
+Gaspare	60
+Erminio	59
+Gianpaolo	59
+Piergiorgio	59
+Leopoldo	58
+Pier Luigi	58
+Romeo	56
+Albino	55
+Mirco	55
+Sante	55
+Severino	55
+Clemente	54
+Duilio	54
+Rolando	54
+William	53
+Patrizio	52
+Nunzio	51
+Annibale	50
+Ottorino	50
+Fortunato	49
+Furio	49
+Gualtiero	49
+Otello	49
+Calogero	48
+Denis	48
+Patrick	48
+Fiorenzo	47
+Libero	47
+Oliviero	47
+Serafino	47
+Tony	47
+Aleksej	46
+Franz	46
+Santo	46
+Alexander	45
+Aristide	45
+Eduardo	45
+Karl	45
+Germano	44
+Virginio	44
+Anton	43
+Gabriel	43
+Giambattista	43
+Igor	43
+John	43
+José	43
+Kevin	43
+Luis	43
+Anthony	42
+Beppe	42
+Gregorio	42
+Alvaro	41
+Edgardo	41
+Edmondo	41
+Eraldo	41
+Gigi	41
+Lodovico	41
+Omar	41
+Bernardino	40
+Leandro	40
+Toni	40
+Lanfranco	39
+Moreno	39
+Nicholas	39
+Paul	39
+Pierangelo	39
+Vinicio	39
+Goffredo	38
+Lionello	38
+Pier Paolo	38
+Valter	38
+Vasco	38
+Simon	37
+Emidio	36
+Gian Paolo	36
+Glauco	36
+Juan	36
+Nico	36
+Teodoro	36
+Enea	35
+Frank	35
+Tonino	35
+Hans	34
+Jean	34
+Mimmo	34
+Ilario	33
+Mino	33
+Nicolas	33
+Raoul	33
+Amerigo	32
+Anselmo	32
+Ermenegildo	32
+Eros	32
+Francesco Saverio	32
+Josef	32
+Nazzareno	32
+Vanni	32
+Andreas	31
+Celestino	31
+Duccio	31
+Salvo	31
+Secondo	31
+Tarcisio	31
+Boris	30
+Giovan Battista	30
+Joe	30
+Pierfrancesco	30
+Vladimiro	30
+Aniello	29
+Arcangelo	29
+Elvio	29
+Giandomenico	29
+Pompeo	29
+Rossano	29
+Tomaso	29
+Adalberto	28
+Francisco	28
+Paride	28
+Sauro	28
+Amilcare	27
+Angiolo	27
+Cristoforo	27
+Gian Carlo	27
+Pablo	27
+Victor	27
+Francesco Paolo	26
+Iacopo	26
+Marzio	26
+Onofrio	26
+Stelio	26
+Adelmo	25
+Gianpiero	25
+Igino	25
+Lelio	25
+Samuel	25
+Santi	25
+Siro	25
+Spartaco	25
+Athos	24
+Fabiano	24
+Guerrino	24
+Manuele	24
+Pierino	24
+Raul	24
+Silvestro	24
+Ulisse	24
+Vincent	24
+Vladimir	24
+Carlos	23
+Demetrio	23
+Manfredi	23
+Vittore	23
+Amos	22
+Gian Luigi	22
+Giusto	22
+Pippo	22
+Ricardo	22
+Albert	21
+Alcide	21
+Amleto	21
+Concetto	21
+Egisto	21
+Gherardo	21
+Gianmaria	21
+Giosuè	21
+Louis	21
+Plinio	21
+Tino	21
+Alan	20
+Alejandro	20
+Basilio	20
+Florian	20
+Gian Piero	20
+Gianmario	20
+Remigio	20
+Settimio	20
+Sirio	20
+Valeriano	20
+Vittorino	20
+Adelio	19
+Alvise	19
+Benvenuto	19
+Bonaventura	19
+Costanzo	19
+Emanuel	19
+Erik	19
+Gian Luca	19
+James	19
+Pellegrino	19
+Placido	19
+Quirino	19
+Roland	19
+Uberto	19
+Albano	18
+Carlo Alberto	18
+Erasmo	18
+Fedele	18
+Gian Franco	18
+Ippolito	18
+Lauro	18
+Manfredo	18
+Maurilio	18
+Nereo	18
+Rafael	18
+Raphael	18
+Ruben	18
+Savino	18
+Vitaliano	18
+Christopher	17
+Cornelio	17
+Dimitri	17
+Emmanuele	17
+Francesco Maria	17
+Gaudenzio	17
+Lucas	17
+Napoleone	17
+Natalino	17
+Nicolás	17
+Olindo	17
+Omero	17
+Ranieri	17
+Santino	17
+Teresio	17
+Willy	17
+Ascanio	16
+Eliseo	16
+Giampietro	16
+Giangiacomo	16
+Giannino	16
+Hubert	16
+Leonida	16
+Nevio	16
+Oliver	16
+Orfeo	16
+Ottaviano	16
+Paolino	16
+Quinto	16
+Rudy	16
+Sabino	16
+Ulderico	16
+Alfred	15
+Anacleto	15
+Andrés	15
+Antoine	15
+Archimede	15
+Cataldo	15
+Charles	15
+Christoph	15
+Costante	15
+Eddy	15
+Filiberto	15
+German	15
+Iginio	15
+Innocenzo	15
+Jonathan	15
+Klaus	15
+Mark	15
+Norberto	15
+Pacifico	15
+Pedro	15
+Pierre	15
+Prospero	15
+Raniero	15
+Stefan	15
+Tiberio	15
+Yuri	15
+Zeno	15
+André	14
+Benigno	14
+Faustino	14
+Flaminio	14
+Gavino	14
+Gian Maria	14
+Gian Pietro	14
+Jack	14
+Johnny	14
+Kurt	14
+Lello	14
+Leonello	14
+Luigino	14
+Marcelo	14
+Michel	14
+Valdo	14
+Wladimiro	14
+Adam	13
+Alberico	13
+Armin	13
+Bartolo	13
+Benjamin	13
+Dionisio	13
+Fabian	13
+Galeazzo	13
+Gerolamo	13
+Gioele	13
+Hannes	13
+Herbert	13
+Hugo	13
+Josip	13
+Juri	13
+Lukas	13
+Manolo	13
+Marc	13
+Marcantonio	13
+Marcus	13
+Nedo	13
+Norbert	13
+Oronzo	13
+Ovidio	13
+Peppino	13
+Philipp	13
+Pier Giorgio	13
+Rodrigo	13
+Santiago	13
+Stanislao	13
+Urbano	13
+Vieri	13
+Adelchi	12
+Arduino	12
+Arnold	12
+Brando	12
+Decio	12
+Eligio	12
+Emmanuel	12
+Erich	12
+Ermes	12
+Feliciano	12
+Felix	12
+Folco	12
+Fosco	12
+Franc	12
+Galliano	12
+Generoso	12
+Georg	12
+George	12
+Gianantonio	12
+Giovanni Maria	12
+Guerino	12
+Ildebrando	12
+Isidoro	12
+Johannes	12
+Jorge	12
+Julian	12
+Lando	12
+Manrico	12
+Miguel	12
+Modesto	12
+Narciso	12
+Nazareno	12
+Peppe	12
+Piergiuseppe	12
+Richard	12
+Rudi	12
+Ruggiero	12
+Sebastian	12
+Venanzio	12
+Werner	12
+Aaron	11
+Adamo	11
+Alceo	11
+Antonio Maria	11
+Baldassare	11
+Cleto	11
+Delio	11
+Dennis	11
+Dionigi	11
+Donatello	11
+Doriano	11
+Efisio	11
+Evaristo	11
+Floriano	11
+Francis	11
+Gianpietro	11
+Gildo	11
+Gionata	11
+Giovanbattista	11
+Giuseppe Maria	11
+Giustino	11
+Ilio	11
+Jan	11
+Jože	11
+Lido	11
+Markus	11
+Matthias	11
+Milan	11
+Neri	11
+Philip	11
+Romualdo	11
+Siegfried	11
+Terenzio	11
+Vitale	11
+Wolfgang	11
+Adone	10
+Alighiero	10
+Arduin	10
+Baccio	10
+Berardo	10
+Bortolo	10
+Brunello	10
+Bruto	10
+Carlo Maria	10
+Celso	10
+Cipriano	10
+Eric	10
+François	10
+Gerhard	10
+Gianbattista	10
+Günther	10
+Jerry	10
+Jimmy	10
+Johann	10
+Julio	10
+Karel	10
+Leon	10
+Lidio	10
+Manfred	10
+Marko	10
+Mike	10
+Milo	10
+Nanni	10
+Nilo	10
+Odoardo	10
+Pascal	10
+Pasqualino	10
+Paulo	10
+Pier Francesco	10
+Pierantonio	10
+Pierfranco	10
+Rudolf	10
+Sabatino	10
+Scipione	10
+Sigfrido	10
+Sisto	10
+Tobias	10
+Ugolino	10
+Werther	10
+Abramo	9
+Aimone	9
+Albin	9
+Aroldo	9
+Brian	9
+Brunetto	9
+Candido	9
+Casimiro	9
+Cesarino	9
+Ciriaco	9
+Devis	9
+Edo	9
+Efrem	9
+Ernest	9
+Errico	9
+Euro	9
+Geremia	9
+Gian Battista	9
+Gian Marco	9
+Giannetto	9
+Harald	9
+Helmut	9
+Laurent	9
+Leonard	9
+Liborio	9
+Maximiliano	9
+Nick	9
+Otto	9
+Pantaleo	9
+Pavel	9
+Pericle	9
+Piercarlo	9
+Pietro Paolo	9
+Ramiro	9
+Rubens	9
+Silverio	9
+Stanislav	9
+Tobia	9
+Torquato	9
+Xavier	9
+Abele	8
+Alain	8
+Aleardo	8
+Alfeo	8
+Andrej	8
+Aureliano	8
+Axel	8
+Baldassarre	8
+Bernard	8
+Bryan	8
+Corradino	8
+Desiderio	8
+Dominik	8
+Dušan	8
+Emil	8
+Emo	8
+Enrique	8
+Erio	8
+Ernst	8
+Eugene	8
+Eusebio	8
+Federigo	8
+Ferdinand	8
+Gian Giacomo	8
+Gianvito	8
+Giotto	8
+Giovannino	8
+Gonzalo	8
+Javier	8
+Lapo	8
+Letterio	8
+Ludwig	8
+Luigi Maria	8
+Matías	8
+Matt	8
+Melchiorre	8
+Miro	8
+Mohamed	8
+Nerio	8
+Nicodemo	8
+Oddone	8
+Onorato	8
+Oriano	8
+Oswald	8
+Palmiro	8
+Raúl	8
+Sebastián	8
+Settimo	8
+Tancredi	8
+Teo	8
+Tom	8
+Tommy	8
+Turi	8
+Vittoriano	8
+Ado	7
+Al	7
+Alfiero	7
+Alojz	7
+Amato	7
+Andrew	7
+Andy	7
+Angel	7
+Antoni	7
+Ariel	7
+Arnoldo	7
+Bob	7
+Bonifacio	7
+Brenno	7
+Catello	7
+Celeste	7
+César	7
+Cirillo	7
+Colombo	7
+Cosmo	7
+Dan	7
+Danny	7
+Decimo	7
+Douglas	7
+Eduard	7
+Elios	7
+Ermete	7
+Gianandrea	7
+Gianfilippo	7
+Gottfried	7
+Gualberto	7
+Henry	7
+Hermann	7
+Isacco	7
+Isaia	7
+Ivanoe	7
+Joachim	7
+Jonas	7
+Joshua	7
+Juan Carlos	7
+Kristian	7
+Liberato	7
+Marcjusz	7
+Marjan	7
+Mathias	7
+Maximilian	7
+Menotti	7
+Nadir	7
+Nando	7
+Nelson	7
+Nuccio	7
+Orio	7
+Paco	7
+Reginaldo	7
+René	7
+Roger	7
+Roman	7
+Saro	7
+Sepp	7
+Sesto	7
+Stanko	7
+Steve	7
+Tomas	7
+Tranquillo	7
+Tristano	7
+Vicente	7
+Vico	7
+Vigilio	7
+Vittorio Emanuele	7
+Zaccaria	7
+Adolf	6
+Adrian	6
+Agustín	6
+Aleandro	6
+Alexandre	6
+Amadeo	6
+Amelio	6
+Americo	6
+Antenore	6
+Arthur	6
+Baldo	6
+Bernhard	6
+Brandon	6
+Cherubino	6
+Chicco	6
+Cino	6
+Delfo	6
+Denny	6
+Domingo	6
+Drago	6
+Edward	6
+Elmar	6
+Enio	6
+Eolo	6
+Ersilio	6
+Facundo	6
+Fiorello	6
+Florindo	6
+Frederico	6
+Gesualdo	6
+Giammarco	6
+Gian Mario	6
+Gianguido	6
+Giannantonio	6
+Giovambattista	6
+Guelfo	6
+Heinrich	6
+Heinz	6
+Henri	6
+Hernán	6
+Icilio	6
+Innocente	6
+Ireneo	6
+Jacob	6
+Jason	6
+Justin	6
+Lazzaro	6
+Liam	6
+Marcel	6
+Marcellino	6
+Matias	6
+Maxim	6
+Morris	6
+Mosè	6
+Nikolaj	6
+Norman	6
+Oberdan	6
+Oleg	6
+Óscar	6
+Oskar	6
+Paolo Maria	6
+Pier Giuseppe	6
+Pier Maria	6
+Pilade	6
+Quintino	6
+Ray	6
+Reinhard	6
+Ryan	6
+Sean	6
+Serge	6
+Sigismondo	6
+Theo	6
+Ulrico	6
+Viktor	6
+Accursio	5
+Agide	5
+Aimé	5
+Alceste	5
+Aleksander	5
+Alexis	5
+Andrei	5
+Ángel	5
+Angelino	5
+Antioco	5
+Araldo	5
+Artur	5
+Auro	5
+Bachisio	5
+Bassano	5
+Berardino	5
+Berto	5
+Bino	5
+Bogdan	5
+Branko	5
+Caio	5
+Charlie	5
+Ciccio	5
+Contardo	5
+Crescenzo	5
+Curzio	5
+Danio	5
+Didier	5
+Dieter	5
+Dominic	5
+Eddie	5
+Edi	5
+Édouard	5
+Egon	5
+Eliodoro	5
+Epifanio	5
+Esteban	5
+Eustachio	5
+Flaviano	5
+Florio	5
+Frankie	5
+Frédéric	5
+Frederick	5
+Frediano	5
+Fredrik	5
+Friedrich	5
+Gabriello	5
+Gary	5
+Geo	5
+Gervasio	5
+Gian Antonio	5
+Gianfelice	5
+Gianfrancesco	5
+Gil	5
+Giocondo	5
+Giovan	5
+Giulio Cesare	5
+Horacio	5
+Ildo	5
+Jacques	5
+Jeff	5
+João	5
+Joel	5
+Joey	5
+Jožef	5
+Juan Manuel	5
+Karim	5
+Ladislao	5
+Latino	5
+Leonetto	5
+Licinio	5
+Lojze	5
+Loreto	5
+Marco Antonio	5
+Marij	5
+Marziano	5
+Maurice	5
+Milko	5
+Moris	5
+Muzio	5
+Nicolao	5
+Nicolino	5
+Nicolo	5
+Noel	5
+Novello	5
+Odo	5
+Olinto	5
+Pascual	5
+Patricio	5
+Pepi	5
+Phil	5
+Pieraldo	5
+Riziero	5
+Roby	5
+Sabato	5
+Sacha	5
+Salvador	5
+Sébastien	5
+Severo	5
+Silvino	5
+Stelvio	5
+Stephan	5
+Stephen	5
+Stojan	5
+Taddeo	5
+Teodorico	5
+Teofilo	5
+Timothy	5
+Velio	5
+Veniero	5
+Wilfried	5
+Wolfango	5
+Zefferino	5
+Adalgiso	4
+Adelino	4
+Adrián	4
+Afro	4
+Agatino	4
+Agenore	4
+Ahmed	4
+Aladino	4
+Alarico	4
+Alberigo	4
+Alois	4
+Alviero	4
+Amir	4
+Angelico	4
+Aniceto	4
+Antym	4
+Arialdo	4
+Armido	4
+Aronne	4
+Atanasio	4
+Aulo	4
+Averardo	4
+Blasco	4
+Borut	4
+Brizio	4
+Calcedonio	4
+Canio	4
+Carl	4
+Cesco	4
+Cesidio	4
+Constantino	4
+Coriolano	4
+Dado	4
+Damian	4
+Dandolo	4
+Delfino	4
+Derek	4
+Divo	4
+Domiziano	4
+Dorino	4
+Edilio	4
+Edmund	4
+Edvard	4
+Eldo	4
+Elias	4
+Elpidio	4
+Emerico	4
+Enoch	4
+Ermelindo	4
+Ernani	4
+Evandro	4
+Evelino	4
+Ezechiele	4
+Ezequiel	4
+Fabio Massimo	4
+Fabricio	4
+Felipe	4
+Ferrante	4
+Filadelfio	4
+Filip	4
+Filippo Maria	4
+Firmus	4
+Foscolo	4
+Franko	4
+Fulco	4
+Gabrio	4
+Galileo	4
+Garibaldo	4
+Genesio	4
+Gennarino	4
+Georges	4
+Gerlando	4
+Gero	4
+Giacomino	4
+Giaime	4
+Gian Domenico	4
+Gian Giuseppe	4
+Gian Matteo	4
+Gianangelo	4
+Gianmatteo	4
+Giano	4
+Gianrico	4
+Giglio	4
+Gio	4
+Giò	4
+Giona	4
+Gottardo	4
+Gregor	4
+Gregory	4
+Guillaume	4
+Guillermo	4
+Guy	4
+Haim	4
+Hanspeter	4
+Ignacio	4
+Ilo	4
+Isaac	4
+Ivone	4
+Jader	4
+Janko	4
+Jo	4
+Joan	4
+Jordan	4
+Junior	4
+Jurij	4
+Konrad	4
+Lele	4
+Lillo	4
+Lio	4
+Lorenz	4
+Loriano	4
+Luchino	4
+Luiz	4
+Luke	4
+Maffeo	4
+Maicol	4
+Matheus	4
+Matthew	4
+Mauricio	4
+Maxime	4
+Medard	4
+Memo	4
+Metello	4
+Miran	4
+Nardo	4
+Nazario	4
+Nicolangelo	4
+Niko	4
+Nikola	4
+Nullo	4
+Nunziante	4
+Octavio	4
+Olimpio	4
+Onorio	4
+Philippe	4
+Pier Angelo	4
+Pier Giovanni	4
+Pierandrea	4
+Piermario	4
+Pompilio	4
+Potito	4
+Priamo	4
+Publio	4
+Puccio	4
+Rado	4
+Ralph	4
+Ramon	4
+Ricciotti	4
+Ronny	4
+Rosolino	4
+Ross	4
+Roy	4
+Rubino	4
+Rutilio	4
+Sabin	4
+Salvino	4
+Sam	4
+Sansoni	4
+Saúl	4
+Serse	4
+Silla	4
+Simeone	4
+Stefano Maria	4
+Tano	4
+Tarquinio	4
+Tazio	4
+Totò	4
+Ulrich	4
+Valentin	4
+Vezio	4
+Viljem	4
+Vince	4
+Yari	4
+Abbondio	3
+Abdon	3
+Agesilao	3
+Alberto Maria	3
+Aldino	3
+Ale	3
+Aleksandr	3
+Ali	3
+Aljoša	3
+Allan	3
+Almerigo	3
+Almo	3
+Aloisio	3
+Alpinolo	3
+Anastasio	3
+Anchise	3
+Angelo Maria	3
+Anteo	3
+Antimo	3
+Antony	3
+Aquilino	3
+Ario	3
+Ariodante	3
+Aris	3
+Arno	3
+Astorre	3
+Attila	3
+Aventino	3
+Azeglio	3
+Azio	3
+Balilla	3
+Beda	3
+Belisario	3
+Ben	3
+Benno	3
+Beppo	3
+Bertrand	3
+Betto	3
+Bianco	3
+Bindo	3
+Blas	3
+Bojan	3
+Bryce	3
+Calisto	3
+Carlo Francesco	3
+Carluccio	3
+Catullo	3
+Checco	3
+Chino	3
+Ciril	3
+Clelio	3
+Clodoveo	3
+Comunardo	3
+Consalvo	3
+Corso	3
+Cosma	3
+Crescenzio	3
+Crisanto	3
+Cristofano	3
+Dalmazio	3
+Diodato	3
+Dominique	3
+Dylan	3
+Eduino	3
+Edwin	3
+Edy	3
+Ego	3
+Eleuterio	3
+Elmo	3
+Elvezio	3
+Eno	3
+Enzio	3
+Erberto	3
+Eriberto	3
+Ernestino	3
+Erwin	3
+Esterino	3
+Eugène	3
+Evangelista	3
+Ewazjusz	3
+Fabián	3
+Félix	3
+Ferrero	3
+Fidia	3
+Filibert	3
+Fioravante	3
+Fiorentino	3
+Flávio	3
+Francesco Luigi	3
+Franjo	3
+Fred	3
+Frederic	3
+Fredi	3
+Fritz	3
+Fulgenzio	3
+Gábor	3
+Gallo	3
+Gaspero	3
+Gelsomino	3
+Germán	3
+Geronimo	3
+Giacobbe	3
+Giammario	3
+Gian Francesco	3
+Gian Michele	3
+Gian Vittorio	3
+Gianclaudio	3
+Gianemilio	3
+Gianlorenzo	3
+Giannicola	3
+Giberto	3
+Gillo	3
+Gioachino	3
+Giobbe	3
+Giommaria	3
+Giovacchino	3
+Giovanni Antonio	3
+Giulia	3
+Gonario	3
+Goran	3
+Guilherme	3
+Gunnar	3
+Gustav	3
+Hamza	3
+Hansjörg	3
+Harry	3
+Hector	3
+Helmuth	3
+Herman	3
+Hervé	3
+Ian	3
+Ico	3
+Ildefonso	3
+Ilvo	3
+Imerio	3
+Ismaele	3
+Italico	3
+Iván	3
+Jakob	3
+Jari	3
+Jean-Claude	3
+Jean-Marc	3
+Jeffrey	3
+Joaquín	3
+Jon	3
+Josh	3
+Jožko	3
+Juan Ignacio	3
+Juan Pablo	3
+Jules	3
+Karlo	3
+Kenneth	3
+Kristiano	3
+Labindo	3
+Lajos	3
+Laurence	3
+Leonildo	3
+Leonzio	3
+Leopold	3
+Leto	3
+Licio	3
+Lisandro	3
+Lois	3
+Loreno	3
+Louis-Marie	3
+Lucillo	3
+Maikol	3
+Mansueto	3
+Marcos	3
+Margherita	3
+Marian	3
+Marijan	3
+Mário	3
+Marius	3
+Mateo	3
+Meinhard	3
+Michail	3
+Michèle	3
+Mikael	3
+Milziade	3
+Mimì	3
+Miroslav	3
+Modestino	3
+Morgan	3
+Nestore	3
+Oberto	3
+Oddo	3
+Olivier	3
+Ortensio	3
+Othmar	3
+Pancrazio	3
+Panfilo	3
+Pasquino	3
+Patrice	3
+Peris	3
+Petar	3
+Pete	3
+Pier Carlo	3
+Pierdavide	3
+Pierdomenico	3
+Piergiovanni	3
+Pietrangelo	3
+Pius	3
+Quirico	3
+Raf	3
+Reinhold	3
+Ridolfo	3
+Robin	3
+Rocky	3
+Salvator	3
+Saulo	3
+Sereno	3
+Sergej	3
+Silvan	3
+Simonluca	3
+Sossio	3
+Steno	3
+Steven	3
+Sven	3
+Telesforo	3
+Temistocle	3
+Teobaldo	3
+Teodosio	3
+Tim	3
+Timoteo	3
+Tindaro	3
+Tolmino	3
+Tomás	3
+Tomasso	3
+Tonio	3
+Uber	3
+Uccio	3
+Valdemaro	3
+Vanja	3
+Varo	3
+Venturino	3
+Víctor	3
+Vitantonio	3
+Viviano	3
+Vladislav	3
+Walther	3
+Willi	3
+Zeffiro	3
+Abdoulaye	2
+Abraham	2
+Adeodato	2
+Adler	2
+Adolphe	2
+Adrien	2
+Adrijan	2
+Agustin	2
+Aiace	2
+Aimo	2
+Alano	2
+Alcibiade	2
+Aldobrando	2
+Aleksij	2
+Aleš	2
+Alessandra	2
+Alexandru	2
+Alfieri	2
+Alfons	2
+Allegro	2
+Almerico	2
+Almiro	2
+Álvaro	2
+Alvio	2
+Alziro	2
+Amalio	2
+Amar	2
+Amine	2
+Ampelio	2
+Anas	2
+Anatolij	2
+Andreino	2
+Andrzej	2
+Ange	2
+Angiolino	2
+Ante	2
+Antero	2
+Antonangelo	2
+Antônio	2
+Aramis	2
+Ardito	2
+Argeo	2
+Ariberto	2
+Aristodemo	2
+Armeno	2
+Arminio	2
+Arnolfo	2
+Aron	2
+Arpad	2
+Arsenio	2
+Astolfo	2
+Astro	2
+Astutillo	2
+August	2
+Ausonio	2
+Aziz	2
+Balbino	2
+Balthazar	2
+Baptist	2
+Barry	2
+Bartolino	2
+Bartolommeo	2
+Bassiano	2
+Basso	2
+Bautista	2
+Béla	2
+Benedikt	2
+Benny	2
+Beppino	2
+Bibi	2
+Bigio	2
+Billy	2
+Bixio	2
+Bobo	2
+Bogomil	2
+Bonaldo	2
+Bonifazio	2
+Brad	2
+Bradley	2
+Brayan	2
+Brett	2
+Bruce	2
+Cafiero	2
+Candeloro	2
+Carillo	2
+Carletto	2
+Carlo Emanuele	2
+Carlo Giuseppe	2
+Cassio	2
+Cayetano	2
+Celio	2
+Cesar	2
+Christophe	2
+Cinzio	2
+Claus	2
+Colin	2
+Conrad	2
+Crispino	2
+Cristina	2
+Croce	2
+Custode	2
+Dagoberto	2
+Damián	2
+Damir	2
+Dani	2
+Danièle	2
+Danielle	2
+Danijel	2
+Darius	2
+Darwin	2
+Dejan	2
+Deo	2
+Desmond	2
+Devid	2
+Diamante	2
+Dido	2
+Dietmar	2
+Diogene	2
+Dionigio	2
+Dodo	2
+Domenicantonio	2
+Don	2
+Donald	2
+Donatella	2
+Dora	2
+Dore	2
+Doro	2
+Dustin	2
+Easton	2
+Eddi	2
+Eder	2
+Edgar	2
+Edgard	2
+Edilberto	2
+Edin	2
+Egilberto	2
+Eliano	2
+Elis	2
+Elisa	2
+Ellis	2
+Elvidio	2
+Elvino	2
+Elvis	2
+Emerson	2
+Emílio	2
+Empedocle	2
+Enrica	2
+Enver	2
+Epaminonda	2
+Ercolano	2
+Éric	2
+Eriprando	2
+Ervin	2
+Espedito	2
+Ethan	2
+Euclide	2
+Eutimio	2
+Evans	2
+Everardo	2
+Fábio	2
+Fabius	2
+Fabrice	2
+Febo	2
+Ferenc	2
+Fernand	2
+Ferrando	2
+Fidel	2
+Fidenzio	2
+Filadelfo	2
+Filipe	2
+Fiorino	2
+Firmino	2
+Florestano	2
+Floris	2
+Francantonio	2
+France	2
+Francescantonio	2
+Francescomaria	2
+Franchino	2
+František	2
+Freddy	2
+Gaddo	2
+Gaston	2
+Gastón	2
+Gelasio	2
+Gelindo	2
+Geminello	2
+Geminiano	2
+Genaro	2
+Geno	2
+Gentile	2
+Geppino	2
+Getulio	2
+Ghigo	2
+Ghino	2
+Giammaria	2
+Gian Angelo	2
+Gian Biagio	2
+Gian Claudio	2
+Gian Gastone	2
+Gian Guido	2
+Gian Lorenzo	2
+Gian Primo	2
+Gian Vincenzo	2
+Giandonato	2
+Gianfausto	2
+Gianmauro	2
+Gianroberto	2
+Gilio	2
+Gilles	2
+Ginetto	2
+Gioiello	2
+Giombattista	2
+Giorgetto	2
+Giorgio Vittorio	2
+Giovan Francesco	2
+Giovannangelo	2
+Giovanni Carlo	2
+Giovanni Crisostomo	2
+Giovanni Francesco	2
+Giovanni Paolo	2
+Giovanni Pietro	2
+Giunio	2
+Giuseppe Eugenio	2
+Giussepe	2
+Giustiniano	2
+Gleb	2
+Gloriano	2
+Goliardo	2
+Gondrano	2
+Grégory	2
+Guccio	2
+Guerriero	2
+Guidalberto	2
+Guiscardo	2
+Gunther	2
+Héctor	2
+Henrique	2
+Hilarij	2
+Hilario	2
+Horace	2
+Howard	2
+Humbert	2
+Icro	2
+Idalgo	2
+Ideo	2
+Ignaz	2
+Illuminato	2
+Indro	2
+Iosif	2
+Ippazio	2
+Iuri	2
+Ivaldo	2
+Ivanhoe	2
+Ivos	2
+Iwan	2
+Jago	2
+Jake	2
+Jamil	2
+Janez	2
+János	2
+Jarno	2
+Jean-Baptiste	2
+Jean-Louis	2
+Jeremiah	2
+Jeremy	2
+Jerome	2
+Jérôme	2
+Jerzy	2
+Jim	2
+Jiří	2
+João Pedro	2
+Jochen	2
+Jonatan	2
+Jörg	2
+Juan Bautista	2
+Julián	2
+Julien	2
+Julius	2
+Jürgen	2
+Kamil	2
+Kenny	2
+Khalid	2
+Kim	2
+Klaudiusz	2
+Krzysztof	2
+Laerte	2
+Larry	2
+Laszlo	2
+Lavinio	2
+Leano	2
+Learco	2
+Leoluca	2
+Liberat	2
+Liliano	2
+Loredana	2
+Loredano	2
+Loretto	2
+Lou	2
+Luís	2
+Luis Felipe	2
+Luisito	2
+Macedonio	2
+Maceo	2
+Maggiorino	2
+Maino	2
+Mariangelo	2
+Marvin	2
+Matjaž	2
+Maurits	2
+Maximo	2
+Mazzino	2
+Melo	2
+Meroni	2
+Micheal	2
+Michela	2
+Miloš	2
+Monte	2
+Mordecai	2
+Moses	2
+Murilo	2
+Nardino	2
+Nathan	2
+Nemesio	2
+Nerino	2
+Neron	2
+Nestor	2
+Néstor	2
+Nicandro	2
+Niccolo	2
+Nicky	2
+Nicolae	2
+Nik	2
+Niki	2
+Nikita	2
+Nils	2
+Ninni	2
+Noé	2
+Noël	2
+Normanno	2
+Odoacre	2
+Odone	2
+Olaf	2
+Oleksandr	2
+Olmo	2
+Onelio	2
+Orso	2
+Otmar	2
+Ottone	2
+Pace	2
+Pál	2
+Patric	2
+Pavle	2
+Persio	2
+Petru	2
+Phillip	2
+Pico	2
+Pier Alberto	2
+Pier Cesare	2
+Pier Damiano	2
+Pier Federico	2
+Pier Giacomo	2
+Pier Lorenzo	2
+Pier Luca	2
+Pier Marco	2
+Piercesare	2
+Piergiulio	2
+Pierluca	2
+Piermaria	2
+Piernicola	2
+Pietro Antonio	2
+Pinuccio	2
+Pirro	2
+Primiano	2
+Prisco	2
+Quintilio	2
+Rachid	2
+Radames	2
+Raffael	2
+Raimund	2
+Raymond	2
+Red	2
+Redi	2
+Renata	2
+Rene	2
+Reno	2
+Ricky	2
+Rik	2
+Rita	2
+Rito	2
+Riva	2
+Roldano	2
+Rolf	2
+Romi	2
+Ronald	2
+Rosa	2
+Ruffo	2
+Rufino	2
+Russell	2
+Saliou	2
+Sallustio	2
+Samantha	2
+Sami	2
+Sammy	2
+Sandi	2
+Sansone	2
+Sasha	2
+Saul	2
+Scevola	2
+Secondino	2
+Sem	2
+Serigne	2
+Severin	2
+Shi	2
+Silvester	2
+Silvestre	2
+Silvo	2
+Socrate	2
+Souleymane	2
+Spiridione	2
+Spiro	2
+Stane	2
+Štefan	2
+Stéphane	2
+Stephano	2
+Stevan	2
+Svetko	2
+Tammaro	2
+Telemaco	2
+Teodor	2
+Teresa	2
+Terzo	2
+Teseo	2
+Theodor	2
+Thiago	2
+Tiago	2
+Titta	2
+Tore	2
+Torello	2
+Travis	2
+Trento	2
+Tullo	2
+Uli	2
+Uliano	2
+Umbro	2
+Umile	2
+Valentina	2
+Venerando	2
+Venerio	2
+Ventura	2
+Veriano	2
+Villiam	2
+Vinícius	2
+Vinko	2
+Vittor	2
+Volfango	2
+Wainer	2
+Wando	2
+Warner	2
+Wilhelm	2
+Williams	2
+Wilson	2
+Xabier	2
+Zeffirino	2
+Zoran	2
+Zorko	2
+Abbás
+Abbondanzio
+Abd al-Qadir
+Abd al-Rahman
+Abd al-Wahid
+Abdel
+Abdellah
+Abel
+Abelardo
+Abner
+Abou
+Aboubakar
+Acaste
+Achraf
+Acruto
+Adalbert
+Adalino
+Addo
+Ade
+Adelelmo
+Adelfo
+Ademaro
+Adile
+Adinolfo
+Admeto
+Adnane
+Adon
+Ador
+Adorno
+Adrasto
+Aegidius
+Afrodisio
+Agapito
+Agazio
+Aggelo
+Aggeo
+Agilulfo
+Agim
+Aglae
+Aglauco
+Agnello
+Agnoldomenico
+Agnolo
+Ago
+Agrippino
+Aguinaldo
+Ahmad
+Aidan
+Aidano
+Aivo
+Ajmone
+Ala
+Alassane
+Alban
+Albertino
+Alberto Mario
+Albio
+Albis
+Albrecht
+Alcides
+Aldemaro
+Aldobrandino
+Alec
+Alejo
+Aleks
+Aleksandar
+Aleksi
+Alen
+Aleramo
+Alfredo Giovanni
+Algernon
+Alieto
+Aligi
+Alik
+Alin
+Aliprando
+Aljs
+Almir
+Aloisius
+Alojzij
+Alonso
+Aloysius
+Alston
+Alteo
+Altero
+Aluigi
+Àlvar
+Alvin
+Amabile
+Amadio
+Amador
+Amadou
+Amael
+Amanzio
+Amarildo
+Ambroise
+Amico
+Aminta
+Amintore
+Amor
+Ampeliusz
+Amulio
+Anastas
+Anatolii
+Ander
+Anders
+Anderson
+Ando
+András
+Andres
+Andrés José
+Andrey
+Andrija
+Andrius
+Andry
+Anello
+Anes
+Angela
+Angelandrea
+Ângelo
+Angeloantonio
+Angelomichele
+Angerio
+Aniano
+Anil
+Anna
+Annunziata
+Annunzio
+Ansaldo
+Ansano
+Ansovino
+Antal
+Anthoni
+Antigono
+Anton Maria
+Antonaldo
+Antonfrancesco
+Antongiulio
+Antonia
+Antonie
+Antonio Andrea
+Antonio María
+Antoniotto
+Antun
+Apeles
+Aran
+Arcadio
+Arciso
+Ardengo
+Ardit
+Ariano
+Aribo
+Arie
+Ariedo
+Ariosto
+Aristeo
+Arkád
+Arlo
+Armand
+Armandino
+Armen
+Armindo
+Armiro
+Armodio
+Arnaud
+Arnolds
+Árpád
+Art
+Artem
+Artidoro
+Arvedo
+Asante
+Asher
+Aslan
+Aspreno
+Assunto
+Astore
+Atanasii
+Atilio
+Atos
+Atto
+Augustin
+Augustine
+Augustinus
+Augustus
+Aurel
+Aurél
+Ausilio
+Avelino
+Avgust
+Avguštin
+Avraham
+Avrelij
+Awudu
+Ayman
+Aymen
+Aymo
+Ayoub
+Ayrton
+Azaria
+Azzo
+Babacar
+Bahman
+Baldovino
+Balestra
+Baptiste
+Barbaro
+Barbato
+Barna
+Barnaba
+Barnaby
+Barsanofio
+Bart
+Bartholomew
+Beatrice
+Bella
+Bellarmino
+Benedek
+Benedictus
+Benni
+Benone
+Bent
+Bepi
+Bernabò
+Bernardi
+Bernardo Maria
+Bernd
+Bernolfo
+Berti
+Bertoldo
+Biaggio
+Biagino
+Bienvenu
+Bijan
+Bilal
+Biondo
+Biram
+Björn
+Blu
+Bobby
+Bogumil
+Bonaccorso
+Bonagiunta
+Bonaiuto
+Bonaparte
+Bono
+Bonuccio
+Božo
+Bramante
+Brenton
+Briseide
+Brunella
+Brunero
+Bull
+Bunna
+Cabrino
+Caesar
+Cal
+Caleb
+Calixte
+Camil
+Camilo
+Cándido
+Canzio
+Cardenio
+Carel
+Carino
+Carla
+Carlangelo
+Carles
+Carlo Agostino
+Carlo Alessandro
+Carlo Angelo
+Carlo Augusto
+Carlo Fedele
+Carlo Federico
+Carlo Felice
+Carlo Lorenzo
+Carloalberto
+Carlton
+Carmen
+Carmo
+Carter
+Casey
+Cassiano
+Casto
+Catalin
+Cătălin
+Cateno
+Ceccardo
+Cecco
+Cece
+Cecil
+Cecilia
+Cedric
+Cédric
+Cesario
+Cesário
+Cezary
+Chad
+Chadir
+Chadwick
+Charles-Pascal
+Charley
+Charly
+Cheikh
+Chérif
+Chiaffredo
+Chico
+Chike
+Chituru
+Chola
+Christiano
+Christof
+Chuck
+Cirano
+Cirilo
+Clarence
+Clario
+Clark
+Clauco
+Claud
+Claude
+Claudia
+Claudiu
+Claver
+Clay
+Clayton
+Clem
+Clemens
+Clement
+Clementino
+Cleofe
+Clotario
+Clotide
+Clotilde
+Clyde
+Cobi
+Colombino
+compositore
+Con
+Concino
+Consolata
+Constant
+Constantin
+Constantine
+Constanzo
+Corey
+Cosme
+Cosmeri
+Costa
+Craig
+Cris
+Cristino
+Cristóbal
+Cristofer
+Crivellari
+Crocifisso
+Cuno
+Curio
+Currado
+Curtis
+Cvetko
+D'Arco
+Daciano
+Dag
+Dame
+Danco
+Dane
+Dano
+Dany
+Dardano
+Darien
+Darío
+Darko
+Darley
+Dave
+Davi
+Dávid
+David Maria
+Davidson
+Davis
+Dāvis
+Daycol
+Dean
+Debora
+Dedalo
+Defendente
+Del
+Della
+Delmas
+Demetri
+Demián
+Demiro
+Demis
+Demore
+Demos
+Demostene
+Dénes
+Deni
+Denilson
+Denys
+Deodato
+Derik
+Derrick
+Desiderius
+Destiny
+Diacinto
+Dick
+Didaco
+Diego Elio
+Dietelmo
+Dilan
+Dilvo
+Dimitrij
+Dinu
+Diomede
+Dioscoride
+direttore d'orchestra
+Disma
+Dom
+Domenica
+Domenick
+Domenico Antonio
+Donatino
+Donatus
+Donnino
+Donte
+Dorando
+Dovid
+Dragan
+Dragomir
+Draško
+Duke
+Dumas
+Ebe
+Eberardo
+Eberhard
+Ed
+Eddo
+Edelweiss
+Eden
+Éder
+Ederson
+Edie
+Edio
+Edmo
+Edmond
+Edoardo Luigi
+Edouard
+Edwyn
+Efidio
+Egeo
+Egiziano
+Egizio
+Egle
+Egmont
+Egone
+Eide
+Eike
+Einar
+Eitel
+Ektoras
+Elbano
+Eleazaro
+Elek
+Elémire
+Elena
+Eletto
+Eli
+Elian
+Elide
+Elidio
+Eliseu
+Elisha
+Elismo
+Éloi
+Eloy
+Eluggero
+Elveno
+Elvi
+Elviro
+Emerenzio
+Emiddio
+Emin
+Emmerich
+Endre
+Enelio
+Engelbert
+Enmanuele
+Enock
+Enos
+Enotrio
+Enrico Nicola
+Enricomaria
+Enzo Maria
+Enzopio
+Ephraim
+Epicarmo
+Eraclio
+Erald
+Erardo
+Erasmus
+Ercoliano
+Erdis
+Erhard
+Erick
+Erico
+Eridano
+Eridio
+Erion
+Ermacora
+Ermal
+Ermano
+Ermis
+Ermogene
+Ernie
+Erno
+Erri
+Erseo
+Eseosa
+Esperio
+Esuperanzio
+Etelredo
+Étienne
+Etna
+Eucardio
+Eudoro
+Eufrasio
+Eugen
+Euprepio
+Eurialo
+Eustratios
+Evaldo
+Evasio
+Evelyn
+Evert
+Everton
+Evgenij
+Ewald
+Eytan
+Ezelino
+Ezra
+Fabrício
+Fadilou
+Falco
+Falcone
+Faliero
+Famiano
+Fantino
+Farpi
+Fede
+Fëdor
+Felicio
+Felicissimo
+Felisberto
+Fèlix
+Fellipe
+Ferdi
+Fermo
+Fernaldo
+Ferzan
+Fethon
+Fidele
+Filandro
+Filippomaria
+Filomeno
+Filoteusz
+Florent
+Floride
+Florido
+Floro
+Forese
+Forese-Carlo
+Foresto
+Fostine
+Fran
+Francesca
+Francesco Antonio
+Francesco Giuseppe
+Francesco Zaverio
+Franci
+Francisco de Asís
+Franciscus
+Franck
+Franek
+Franz Xaver
+Franzo
+Frederik
+Fredo
+Fredolino
+Fredy
+Freider
+Fulviomario
+Fumiaki
+Fuzzy
+Gabor
+Gabriel Alejandro
+Gabriella
+Gabrijel
+Gad
+Gaétan
+Gaio
+Gaius
+Galdino
+Galeno
+Gallieno
+Galvano
+Gandolfo
+Garaldo
+Gardino
+Garibaldi
+Gario
+Gaspar
+Gasparo
+Gavril
+Gee
+Gehard
+Gellio
+Gello
+Gelson
+Gemello
+Gene
+Gennar
+Genny
+Genti
+Georg Ernst
+Georgi
+Geppi
+Gerard
+Gerardino
+Gerd
+Geri
+Gerino
+Germinal
+Gerónimo
+Gershom
+Gert
+Gery
+Gesù
+Gesuino
+Géza
+Ghali
+Gheorghe
+Giacchino
+Giairo
+Giampio
+Gian Alberto
+Gian Attilio
+Gian Berto
+Gian Bruno
+Gian Camillo
+Gian Cesare
+Gian Crisostomo
+Gian Cristoforo
+Gian Enrico
+Gian Enzo
+Gian Eugenio
+Gian Galeazzo
+Gian Gualberto
+Gian Italo
+Gian Ludovico
+Gian Marcello
+Gian Savino
+Gian Tommaso
+Gian-Luca
+Gianadelio
+Gianaurelio
+Gianbiagio
+Giancristiano
+Gianfredo
+Giangavino
+Giangiorgio
+Gianlodovico
+Gianmichele
+Gianna
+Giannalberto
+Giannandrea
+Gianniantonio
+Giannina
+Giannīs
+Gianpio
+Giansiro
+Gianstefano
+Gianteresio
+Giantito
+Gianuario
+Gianumberto
+Gianvincenzo
+Gianvittorio
+Giap
+Gilbert
+Giliberto
+Gill
+Gilson
+Ginepro
+Ginesio
+Gints
+Gioia
+Gion
+Giorgio Domenico
+Giosafatte
+Giosi
+Giovan Giuseppe
+Giovandomenico
+Giovani
+Giovanni Angelo
+Giovanni Domenico
+Giovanni Federico
+Giovannimaria
+Giovenale
+Gioxe
+Gipo
+Girard
+Gisberto
+Gisleno
+Giuditto
+Giulian
+Giulietto
+Giulio Maria
+Giuliomaria
+Giuseppe Gaetano
+Giuseppino
+Giusi
+Giwi
+Gizio
+Glicerio
+Gogliardo
+Gorazd
+Gordan
+Gordiano
+Gotthard
+Gottlieb
+Grammenos
+Grant
+Grazia
+Grazio
+Grazioso
+Greg
+Grzegorz
+Guarino
+Guarniero
+Guido Alberto
+Guidoccio
+Guillermo José
+Guiseppe
+Gunda
+Guri
+Gusmano
+Gustave
+Gustavo Adrián
+Gvido
+Gyula
+Habakkuk
+Hadrijan
+Hagen
+Haider
+Hajime
+Hanns
+Hans-Friedrich
+Harold
+Haroun
+Hartmuth
+Haruhiko
+Haryo
+Hasan
+Hassan
+Hassane
+Hedy
+Heiner
+Heinold
+Helga
+Hendrik
+Héverton
+Hicham
+Hildebrand
+Hippolyt
+Honoré
+Horst
+Hortense
+Hrand
+Hrant
+Hristo
+Hryhoriy
+Hugues
+Humberto
+Hussein
+Hykel
+Iader
+Ibrahim
+Ibrahima
+Idalberto
+Ido
+Igles
+Igli
+Ignace
+Ignacij
+Iker
+Ila
+Ilaria
+Ilde
+Ilfo
+Ilia
+Ilvano
+Ilya
+Inaco
+Ingemar
+Inigo
+Iñigo
+Inos
+Inoslav
+Inti
+Ioan
+Ioannes
+Ion
+Iorio
+Iride
+Irio
+Iris
+Irish
+Irnerio
+Iro
+Ismael
+Ismaïl
+Ismet
+Isnardo
+Issa
+István
+Italiano
+Iulian
+Iunio
+Izidor
+Iztok
+Jacintho
+Jacinto
+Jackie
+Jacobus
+Jacomo
+Jak
+Jaka
+Jakov
+Jakub
+Jalel
+Jalen
+Jamal
+Jamar
+Jamel
+Jami
+Jannes
+Jannik
+Janus
+Jarosław
+Jaurès
+Jay
+Jayson
+Jean-Jacques
+Jean-Luc
+Jean-Philippe
+Jean-Pierre
+Jean-Sélim
+Jelko
+Jenny
+Jenő
+Jeriel
+Jernej
+Jesus
+Jesús
+Jgor
+Joanne
+Joao
+Joaquim
+Jody
+Joël
+Johan
+John Alfred
+John Robert
+Jolando
+Jone
+Jonis
+Jonny
+Jordi
+Jordy
+Jorit
+Jorrit
+Josafat
+Jose
+José Julián
+José Luiz
+Josep
+Joseph-Marie
+Joska
+Josto
+Josué
+Jovan
+Joy
+Joyce
+Jozef
+Józef
+Juan Ángel
+Juarez
+Julià
+Júlio
+July
+Junio
+Jurgen
+Jury
+Just
+Justo
+Jusuf
+Kaddour
+Kādir
+Kaine
+Kajetan
+Kancjusz
+Karl Franz
+Karol
+Kasey
+Kaspar
+Kassian
+Kean
+Keanu
+Keaton
+Kei
+Kelvin
+Ken
+Kenjirō
+Kennedy
+Keriann
+Keyvan
+Khabane
+Kimi
+Kingsley
+Kirk
+Klaudio
+Kledi
+Kosta
+Kōstas
+Kouassi
+Kris
+Kuno
+Kyle
+Ladislas
+Lado
+Lallo
+Lambert
+Lamberti
+Lamine
+Landolfo
+Landolino
+Lao
+Larentu
+Lars
+László
+Lattanzio
+Laurens
+Laurentino
+Laurenzo
+Laureto
+Lawrence
+Lazar
+Leardo
+Lee
+Lenin
+Lento
+Lenz
+Léo
+Léon
+Léonardo
+Leoncarlo
+Leōnídas
+Leonino
+Leonio
+Lepido
+Leslie
+Leucio
+Levi
+Lewis
+Liano
+Liassine
+Liberio
+Libertario
+Liberto
+Libio
+Licurgo
+Lieto
+Lilio
+Lin
+Lindo
+Linton
+Lion
+Lionel
+Lirio
+Lisania
+Lisi
+Lisimaco
+Lissander
+Lisseno
+Litterio
+Livij
+Liviu
+Llewelyn
+Lobo
+Lohengrin
+Loise
+Lombardo
+Longino
+Lord
+Lotario
+Louie
+Lovanio
+Lovrenc
+Lucantonio
+Lucian
+Lucien
+Lucifero
+Lucilio
+Lúcio
+Lucos
+Ludvik
+Ludvík
+Luigigiovanni
+Luis Bernardo
+Luis Fernando
+Luis Miguel
+Luiz Felipe
+Lussorio
+Ma
+Maffio
+Maide
+Maikel
+Maiko
+Maks
+Malcolm
+Malik
+Mame
+Mameli
+Manara
+Maner
+Manlio Leo
+Mannes
+Manno
+Manoa
+Manoel
+Manrigo
+Manuel José
+Marc'Antonio
+Marcabruno
+Marcelinho
+Marcelino
+Marcell
+Márcio
+Marcjalis
+Marco Aurelio
+Marcos Vinícius
+María
+Maria Carla
+Maria Lucia
+Marianello
+Mariaraj
+Mariarosaria
+Marina
+Marinella
+Mario Antonio
+Marouane
+Marte
+Marten
+Marwin
+Massimiano
+Massimilian
+Matej
+Materno
+Mateus
+Mateusz
+Mathew
+Mathieu
+Mathis
+Mathurin
+Matija
+Matilde
+Matthew James
+Matthijs
+Mattias
+Mátyás
+Maura
+Maurício
+Mauritius
+Maxcel
+Mayk
+Mazzingo
+Mbacke
+Mehdi
+Mel
+Melchiade
+Memmo
+Menachem
+Menico
+Menna
+Mentore
+Meo
+Mercedes
+Merio
+Methodius
+Mevlüt
+Micael
+Michaël
+Michael Andrew
+Michaīl
+Michal
+Michał
+Michele Antonio
+Michelguglielmo
+Michelino
+Michelle
+Mico
+Mihai
+Mihail
+Mihály
+Mikelangelo
+Mikheil
+Miklós
+Miko
+Mikołaj
+Milad
+Milena
+Miller
+Millo
+Milone
+Milos
+Miloud
+Milovan
+Milvio
+Mirando
+Mirio
+Mirjo
+Mirto
+Mirza
+Mischa
+Miska
+Mitchell
+Mitya
+Mohammad
+Moise
+Moisè
+Monir
+Monty
+Moraldo
+Morando
+Moroello
+Mostafa
+Muhammad
+Murtuza
+Mustafa
+Mustapha
+Nabil
+Nader
+Nadio
+Nahum
+Nane
+Nani
+Nantas
+Napoleon
+Narcisse
+Nassim
+Nat
+Nata
+Natalio
+Nato
+Nedeljko
+Nedžad
+Neil
+Nekagenet
+Nelo
+Nélson
+Nero
+Nevruz
+Niceta
+Nicolai
+Nicolaj
+Nicolaus
+Niels
+Nigel
+Nik'oloz
+Nikki
+Nikolai
+Nikolaus
+Niksha
+Ninì
+Nitto
+Noè
+Nofri
+Nolasco
+Nolfo
+Nori
+Noris
+Normando
+O'Brien
+Octavian
+Oddino
+Odorico
+Ofure
+Olao
+Olivio
+Olívio
+Olof
+Omobono
+Ondřej
+Onesto
+Oney
+Onio
+Opilio
+Orestes
+Orfea
+Origene
+Orseolo
+Orsino
+Orsomaria
+Osama
+Osiride
+Oslavio
+Osman
+Osmany
+Ossama
+Ossip
+Osvald
+Otakar
+Otis
+Ottiero
+Oumar
+Ousmane
+Pagano
+Pagolo
+Paki
+Palmiero
+Pandolfo
+Panos
+Pantaleone
+Paola
+Paolo Alberto
+Paolo Antonio
+Paologiovanni
+Papa
+Paquito
+Pario
+Paris
+Parisio
+Parsifal
+Pasqua
+Pasqual
+Pasqualantonio
+Pasqualmorica
+Passionillo
+Pastrengo
+Patrio
+Paulino
+Paulus
+Pavao
+Pelagio
+Peleo
+Pelio
+Pepe
+Peppi
+Peppo
+Përparim
+Perpetuo
+Perseo
+Petr
+Petrus
+Pier Armando
+Pier Cristoforo
+Pier Daniele
+Pier Franco
+Pier Giordano
+Pier Giusto
+Pier Massimo
+Pier Mattia
+Pier Miranda
+Pier Nicola
+Pier Vincenzo
+Pier Virgilio
+Pieralberto
+Pieralfonso
+Pierangiolo
+Pierantonino
+Pierbattista
+Pierbiagio
+Pierbruno
+Piercamillo
+Pierdamiano
+Pierdaniele
+Pierfausto
+Pierfelice
+Pierfilippo
+Piergiacomo
+Pierlorenzo
+Pierlucio
+Piermarco
+Piermarino
+Pierre-Alain
+Pierroberto
+Piersandro
+Piersanti
+Piervaleriano
+Pietro Carlo
+Pietro Francesco
+Pietro Maria
+Piotr
+Pippa
+Pirmin
+Placid
+Plutarco
+Polidor
+Poliuto
+Pontus
+Porzio
+Prassitele
+Predrag
+Primaldo
+Primino
+Prokul
+Provino
+Quadrio
+Quarto
+Rabia
+Radovan
+Radu
+Rafał
+Raffaela
+Raffaella
+Raffaelle
+Rafik
+Rahman
+Raimundo
+Rainaldo
+Rainer
+Rainero
+Rajko
+Raju
+Raman
+Rambaldo
+Ramën
+Ramzi
+Randolfo
+Randy
+Ranuccio
+Rareș
+Rashid
+Raynald
+Raynaldo
+Rayyan
+Răzvan
+Rebecca
+Redento
+Reginald
+Rei
+Renaldo
+Renatus
+Renaud
+Rey
+Reza
+Rezio
+Ricciardo
+Rico
+Rihard
+Riki
+Rikki
+Riko
+Rilind
+Rinat
+Rineo
+Riyad
+Ro
+Roan
+Rob
+Robby
+Roberta
+Robi
+Robinio
+Robustiano
+Roderick
+Rodion
+Rodja
+Rodobaldo
+Romaldo
+Román
+Romildo
+Rómulo
+Romy
+Ronaldo
+Ronnie
+Rosaldo
+Rosalino
+Rosino
+Rosmundo
+Rossella
+Ruaridh
+Rudj
+Rufillo
+Rufo
+Ruperto
+Ruslan
+Rustam
+Ruud
+Saad
+Sagi
+Said
+Saidy
+Saifur Rahman
+Sal
+Salah
+Salesio
+Salomone
+Salvato
+Salvatore Maria
+Salvatorino
+Salverino
+Salvio
+Samir
+Samo
+Sampietro
+Samson
+Sandrino
+Sani
+Santolo
+Santorre
+Sanzio
+Sardus
+Sascha
+Satiro
+Sauveur
+Saveriano
+Savio
+Savo
+Sayf
+Scipio
+Scott
+Seba
+Secundus
+Sedrick
+Sefora
+Selim
+Selvino
+Selwyn
+Sennen
+Septimus
+Sergi
+Sérgio
+Sergiu
+Servando
+Servilio
+Sestilio
+Sestino
+Seth
+Seydou
+Sforza
+Sforza-Galeazzo
+Shadi
+Shamil
+Sharo
+Shaul
+Shaun
+Sheffield
+Shlomo
+Siegmar
+Sigmar
+Silio
+Silver
+Silvij
+Silvio Maria
+Silvius
+Simeón
+Simmaco
+Simonpietro
+Sincero
+Sineo
+Sinibaldo
+Sivigliano
+Sixto
+Skyler
+Slavko
+Soave
+Solange
+Sole
+Solon
+Sonny
+Sorin
+Sosio
+Sostegno
+Sotìr
+Soufiane
+Specioso
+Sperandio
+Sperello
+Spirito
+Springfield
+Spyros
+Srečko
+Staffan
+Stanis
+Stanislas
+Stanislaus
+Stefanio
+Steffen
+Stellio
+Svevo
+Sydney
+Sylvain
+Szymon
+Tacito
+Tadei
+Tahar
+Taiyo
+Tamás
+Tami
+Tank
+Tarek
+Tariq
+Taurino
+Taylor
+Tebaldo
+Tebe
+Ted
+Teddy
+Telesio
+Tem
+Teofano
+Tercjusz
+Terisio
+Theodōros
+Thierry
+Tiborc
+Tiburzio
+Timoty
+Tin
+Tintino
+Tito Livio
+Titomanlio
+Todd
+Tolomeo
+Tomàs
+Tomasz
+Tomislav
+Toney
+Tonny
+Torcuato
+Toto
+Trevor
+Trieste
+Trifone
+Troiano
+Tuccio
+Tulio
+Turno
+Tyler
+Tyrone
+Ubaldesco
+Udo
+Ughetto
+Ugoberto
+Uguccione
+Ulderigo
+Ultimo
+Umesh
+Undelio
+Uno
+Urban
+Uros
+Vadim
+Valentín
+Valerian
+Valmore
+Valon
+Vando
+Vanes
+Vannino
+Vannuccio
+Varese
+Varis
+Vasilij
+Vasino
+Vassili
+Vauro
+Veit
+Vekoslav
+Velasco
+Velasio
+Venantino
+Venanzo
+Venceslao
+Vendelin
+Veraldo
+Verenin
+Verio
+Verissimo
+Vermondo
+Verna
+Vero
+Vespasiano
+Vettor
+Viacheslav
+Viaggia
+Vic
+Victorino
+Vid
+Vido
+Vigil
+Vigor
+Vilberto
+Vili
+Villi
+Villy
+Vilmo
+Vilmore
+Vincențiu
+Vincenzino
+Vinci
+Vindice
+Vinigi
+Vinnie
+Vinny
+Vinzenz
+Vio
+Violante
+Virgil
+Virginiangelo
+Viscardo
+Vitalianus
+Vitalij
+Vitangelo
+Vitilio
+Vitoantonio
+Vitor
+Vítor
+Vittorangelo
+Vivaldo
+Vivante
+Vivi
+Vjačeslav
+Vladan
+Vojtěch
+Volodymyr
+Volrico
+Volturno
+Waldemar
+Waldemaro
+Walter Maria
+Wander
+Ward
+Washington
+Wellington
+Wesley
+Wijnand
+Wilfredo
+Wilko
+Wilky
+Willer
+Willhelm
+Willie
+Winni
+Wisnu
+Witold
+Wladimir
+Wolmer
+Władysław
+Xenio
+Yaakov
+Yago
+Yakir
+Yanick
+Yaniss
+Yann
+Yannick
+Yaroslav
+Yassin
+Yassine
+Yazan
+Yemaneberhan
+Yetwart
+Yo-ram
+Yoan
+Yohanes
+Yoram
+Yordan
+Yorick
+Yosafat
+Yosyf
+Youssef
+Yukio
+Yvan
+Yves
+Yvon
+Zach
+Zachary
+Zack
+Zane
+Žarko
+Zelindo
+Zelmo
+Zenone
+Zino
+Živko
+Zsolt
+Zvonimir
+Zvonko

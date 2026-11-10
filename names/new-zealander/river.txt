@@ -1,0 +1,5000 @@
+Stony	71
+Boundary	66
+Waipapa	66
+Deep	64
+Mangaone	60
+Coal	56
+Camp	54
+Waterfall	48
+Mangapapa	46
+Gorge	43
+Wairoa	43
+Mangawhero	37
+Totara	35
+Waiau	34
+Rocky	32
+Station	29
+Waihi	29
+Wairere	28
+Dry	27
+Cascade	26
+Saddle	25
+Waione	25
+Whanganui	24
+Big	23
+Mangaroa	23
+Waikato	23
+Wainui	23
+Blackwater	22
+Mill	22
+Rough	21
+Waitapu	21
+Kiwi	20
+Makino	20
+Awaroa	19
+Duck	19
+Limestone	19
+Wairau	19
+Whangaehu	19
+Makara	18
+Mangakino	18
+Silver	18
+Bush	17
+Hut	17
+Mangakara	17
+Manganui	17
+Maori	17
+Muddy	17
+Serpentine	17
+Waipa	17
+Waitangi	17
+Rangitikei	16
+Weka	16
+Blue	15
+Campbell	15
+Clutha	15
+Makahikatoa	15
+Mataura	15
+Boulder	14
+Bull	14
+Falls	14
+Fraser	14
+Granite	14
+Home	14
+Kaituna	14
+Mangakotukutuku	14
+Mangamaire	14
+Mangatete	14
+Mokau	14
+Murray	14
+No	14
+Ribbonwood	14
+Waitaha	14
+Black	13
+Brown	13
+Bullock	13
+Ellis	13
+Karaka	13
+Okahu	13
+Oreti	13
+Shepherds	13
+Waihou	13
+Waikaka	13
+Waima	13
+Waimakariri	13
+Waituna	13
+Devils	12
+Granity	12
+Hurunui	12
+Kakanui	12
+Kakapo	12
+Kowhai	12
+Lagoon	12
+Lee	12
+Mangamate	12
+Mangamingi	12
+Mangatiti	12
+Ohau	12
+Pomahaka	12
+Ruamahanga	12
+Shag	12
+Six Mile	12
+Te Maire	12
+Tutaekuri	12
+Waihora	12
+Waiiti	12
+Waimata	12
+Waipuna	12
+Waitotara	12
+Waiwhero	12
+Arawhata	11
+Awakino	11
+Blue Duck	11
+Bluff	11
+Clarence	11
+Clarke	11
+Duncan	11
+Five Mile	11
+Fox	11
+Graham	11
+Hope	11
+Mangaehu	11
+Mangamutu	11
+Mangatoetoe	11
+Mangatutu	11
+Mararoa	11
+Matawhero	11
+Pass	11
+Rakaia	11
+Rangitaiki	11
+Ross	11
+Slip	11
+Tukituki	11
+Waiharakeke	11
+Waihopai	11
+Waimea	11
+Waingaro	11
+White	11
+Awatere	10
+Castle	10
+Cave	10
+Collins	10
+Cow	10
+Dart	10
+Eyre	10
+Flat	10
+Jack	10
+Jones	10
+Makaretu	10
+Mangaharakeke	10
+Mangatu	10
+Mata	10
+Ngaruroro	10
+Oroua	10
+Otara	10
+Quartz	10
+Sandstone	10
+Selwyn	10
+Slaty	10
+Staircase	10
+Stanley	10
+Swampy	10
+Taheke	10
+Tauranga	10
+Waiharuru	10
+Waingongoro	10
+Washpool	10
+Whataroa	10
+Whirinaki	10
+Acheron	9
+Anderson	9
+Aparima	9
+Back	9
+Buller	9
+Cameron	9
+Clear	9
+Esk	9
+Goat	9
+Jacks	9
+Jacksons	9
+Jordan	9
+Junction	9
+Makirikiri	9
+Manawatu	9
+Mangaiti	9
+Mangangarara	9
+Mangapiko	9
+Mangapouri	9
+Mangarara	9
+Manuka	9
+Maruia	9
+Middle	9
+Mistake	9
+Moa	9
+Mohaka	9
+Ohura	9
+Paparoa	9
+Parapara	9
+Pleasant	9
+Pukerimu	9
+Red	9
+Roaring Meg	9
+Robinson	9
+Saltwater	9
+Sandy	9
+Sawyers	9
+Stewart	9
+Taylor	9
+Waikawa	9
+Waikoukou	9
+Waipara	9
+Waipawa	9
+Wairua	9
+Waiteti	9
+Adams	8
+Ahuriri	8
+Black Birch	8
+Blind	8
+Bushy	8
+Campbells	8
+Cattle	8
+Chasm	8
+Diamond	8
+Diggers	8
+Donald	8
+Evans	8
+Firewood	8
+Gold	8
+Grey	8
+Hangaroa	8
+Jackson	8
+Kirikiri	8
+Kotukutuku	8
+Long	8
+Mackenzie	8
+Mangaio	8
+Mangakahia	8
+Mangamahoe	8
+Mangamauku	8
+Mangarangiora	8
+Mangatawa	8
+Nine Mile	8
+North	8
+Opihi	8
+Palmer	8
+Patea	8
+Pigeon	8
+Rata	8
+Raupo	8
+Sheepwash	8
+Snowy	8
+Spring	8
+Stoney	8
+Styx	8
+Taramakau	8
+Thompson	8
+Tiraumea	8
+Turakina	8
+Two Mile	8
+Waihirere	8
+Waihuka	8
+Waikare	8
+Waikari	8
+Waipahihi	8
+Waipoua	8
+Whakatane	8
+Whareroa	8
+Wheao	8
+Whisky	8
+Woolshed	8
+Arthur	7
+Awanui	7
+Basin	7
+Billy	7
+Birch	7
+Boyd	7
+Broken	7
+Browns	7
+Bruce	7
+Burke	7
+Butchers	7
+Cedar	7
+Chimney	7
+Cook	7
+Coopers	7
+Dead Horse	7
+Dunstan	7
+Fork	7
+Fuchsia	7
+Gentle Annie	7
+Gordon	7
+Hautapu	7
+Homestead	7
+Hutt	7
+Irishman	7
+Kea	7
+Lewis	7
+Makahu	7
+Makakahi	7
+Makomako	7
+Mangahao	7
+Mangahoanga	7
+Mangahuia	7
+Mangaotuku	7
+Mangatarata	7
+Mapara	7
+McKenzie	7
+Moawhango	7
+Mosquito	7
+Motu	7
+New	7
+Okura	7
+Opawa	7
+Orakei	7
+Orari	7
+Otaki	7
+Pakihi	7
+Pinnacle	7
+Ponui	7
+Puniu	7
+Rangitata	7
+Ruakituri	7
+Scott	7
+Shingly	7
+Shotover	7
+Spey	7
+Stockyard	7
+Tauraroa	7
+Tauwhare	7
+Taylors	7
+Te Hue	7
+Te Karaka	7
+Te Mata	7
+Te Roto	7
+Thomas	7
+Toms	7
+Tui	7
+Waiari	7
+Waiariki	7
+Waikakariki	7
+Waikanae	7
+Waimarino	7
+Waimate	7
+Waipaoa	7
+Waipari	7
+Waipunga	7
+Waiwera	7
+Watson	7
+Whenuakura	7
+Wilson	7
+Young	7
+Ahaura	6
+Akitio	6
+Avon	6
+Baker	6
+Battery	6
+Burn	6
+Camerons	6
+Cat	6
+Craigieburn	6
+Deadman	6
+Dee	6
+Dobson	6
+Doctor	6
+Dog	6
+Dome Burn	6
+Doubtful	6
+Doughboy	6
+Douglas	6
+Edwards	6
+Elbow	6
+Enchanted	6
+Forest	6
+Glencoe	6
+Glenroy	6
+Haast	6
+Harris	6
+Heao	6
+Henry	6
+Hokitika	6
+Hukanui	6
+Inangahua	6
+Jollie	6
+Kaihiku	6
+Kaka	6
+Kakahu	6
+Kauru	6
+Kiwitea	6
+Landslip	6
+Little	6
+Makahakaha	6
+Makarewa	6
+Makatote	6
+Makokomiko	6
+Makoura	6
+Makuri	6
+Mangahowhi	6
+Mangakirikiri	6
+Mangamahaki	6
+Mangaorongo	6
+Mangareia	6
+Mangarewa	6
+Mangatawai	6
+Mangatoa	6
+Mangatoro	6
+Manor Burn	6
+Manuherikia	6
+Mary Burn	6
+Mason	6
+McKay	6
+Mossy	6
+Nelson	6
+Newton	6
+Nina	6
+Oamaru	6
+Okuku	6
+Omaru	6
+Omihi	6
+Ongaonga	6
+Ongarue	6
+Oraka	6
+Pareora	6
+Pelorus	6
+Percy	6
+Peter	6
+Piako	6
+Plateau	6
+Poerua	6
+Pohangina	6
+Pokopoko	6
+Porewa	6
+Potters	6
+Prices	6
+Puketotara	6
+Ramarama	6
+Rough and Tumble	6
+Saxton	6
+Shepherds Hut	6
+Slate	6
+Snow	6
+South Ashburton	6
+Speargrass	6
+Stillwater	6
+Swamp	6
+Taipo	6
+Takapau	6
+Tarawera	6
+Taruarau	6
+Tauweru	6
+Te Hoe	6
+Ten Mile	6
+Thomson	6
+Timaru	6
+Tirohanga	6
+Turnbull	6
+Tutu	6
+Ugly	6
+Upokonui	6
+Valley	6
+Waiaruhe	6
+Waiaua	6
+Waihua	6
+Waikakahi	6
+Waikiekie	6
+Waikoau	6
+Waikohu	6
+Waikokopu	6
+Waikopiro	6
+Waikoura	6
+Waingawa	6
+Waionepu	6
+Waiotu	6
+Waipori	6
+Wairaki	6
+Wairepo	6
+Waitakaruru	6
+Waitara	6
+Waitoa	6
+Waitohi	6
+Waiwherowhero	6
+Wanganui	6
+Waterfalls	6
+Wilberforce	6
+Alexander	5
+Allen	5
+Alma	5
+Andrews	5
+Ararimu	5
+Avoca	5
+Awamoko	5
+Barneys	5
+Boyle	5
+Bridge	5
+Broad	5
+Canyon	5
+Caples	5
+Clark	5
+Clearwater	5
+Cold	5
+Dam	5
+Dark	5
+Deception	5
+Dillon	5
+Eden	5
+Eel	5
+Eight Mile	5
+Emily	5
+First	5
+Flaxy	5
+Fletcher	5
+Ford	5
+Four Mile	5
+Frank	5
+Freds	5
+Garry	5
+George	5
+German	5
+Gibson	5
+Gibsons	5
+Gorgy	5
+Grant	5
+Grassy	5
+Greenstone	5
+Griffiths	5
+Hakataramea	5
+Harper	5
+Hawkins	5
+Hikurangi	5
+Hook	5
+Ironstone	5
+Johnson	5
+Kaipo	5
+Kaitawa	5
+Kaitieke	5
+Kaitoke	5
+Kakahi	5
+Karetu	5
+Kawakawa	5
+Kerikeri	5
+Konini	5
+Landsborough	5
+Lawrence	5
+Lindis	5
+Long Burn	5
+Long Valley	5
+Macfarlane	5
+Macpherson	5
+Maire	5
+Makarora	5
+Makawakawa	5
+Makohine	5
+Makokomuka	5
+Makotuku	5
+Mangaaruhe	5
+Mangakaretu	5
+Mangaohoi	5
+Mangaokewa	5
+Mangaongaonga	5
+Mangaonuku	5
+Mangaoraka	5
+Mangapikopiko	5
+Mangapuaka	5
+Mangarata	5
+Mangatahi	5
+Mangatangi	5
+Mangatea	5
+Mangatoi	5
+Mangawhio	5
+Maraetotara	5
+Maramataha	5
+Matakitaki	5
+Mathias	5
+Mauku	5
+Maungaroa	5
+May	5
+McKellar	5
+Mikonui	5
+Mimiha	5
+Misery	5
+Moakurarua	5
+Moonlight	5
+Muriwai	5
+Nevis	5
+Ngutuwera	5
+North Ashburton	5
+Okuru	5
+Omanawa	5
+Open	5
+Otahu	5
+Otamatea	5
+Paharakeke	5
+Paiaka	5
+Park	5
+Peters	5
+Pig	5
+Pikopiko	5
+Piraunui	5
+Pool Burn	5
+Porangahau	5
+Poroporo	5
+Pukekohe	5
+Pungapunga	5
+Rainbow	5
+Rainy	5
+Reef	5
+Rees	5
+Ripia	5
+Robert	5
+Ruby	5
+Sam	5
+Scrubby	5
+Shaw	5
+Shingle	5
+Sisters	5
+Stag	5
+Surprise	5
+Sutton	5
+Tangahoe	5
+Tangarakau	5
+Taonui	5
+Te Arai	5
+Te Kahika	5
+Te Kopua	5
+Te Wharau	5
+Tengawai	5
+Three Mile	5
+Travers	5
+Trent	5
+Turitea	5
+Tutaenui	5
+Upukerora	5
+Waiawa	5
+Waihaha	5
+Waihau	5
+Waikaia	5
+Waikaraka	5
+Waikawau	5
+Waikerikeri	5
+Waikino	5
+Waikoko	5
+Waikoropupu	5
+Waikuku	5
+Waikura	5
+Waimana	5
+Waimiha	5
+Waioeka	5
+Waiohine	5
+Waiongana	5
+Wairongomai	5
+Waitahanui	5
+Waitahuna	5
+Waitaia	5
+Waitangitaona	5
+Waitawa	5
+Waitetuna	5
+Waiti	5
+Wash	5
+Washpen	5
+Whale	5
+Whare	5
+Wharekiri	5
+Whitestone	5
+William	5
+Winding	5
+Wye	5
+Ahuroa	4
+Albert Burn	4
+Alpha	4
+Arahura	4
+Argyle Burn	4
+Arnold	4
+Arrow	4
+Arthurs	4
+Ashburton	4
+Awaawaroa	4
+Awaiti	4
+Beta	4
+Black Rock	4
+Blake	4
+Blue Rock	4
+Bog Burn	4
+Bowyers	4
+Broom	4
+Burnett	4
+Caledonian	4
+Canary	4
+Captain	4
+Caroline	4
+Caves	4
+Cemetery	4
+Chapmans	4
+Chrome	4
+Clarkes	4
+Clay	4
+Clyde	4
+Connors	4
+Conway	4
+Cowan	4
+Crooked	4
+Crow	4
+Davis	4
+Dick	4
+Dip	4
+Dismal	4
+Doctors	4
+Dome	4
+Dorothy	4
+Dove	4
+Driving	4
+Duffers	4
+Edward	4
+Fall	4
+Fan	4
+Ferguson	4
+Fish	4
+Flowers	4
+Foley	4
+Fowler	4
+Franklin	4
+Glaisnock	4
+Glen	4
+Glenrae	4
+Grebe	4
+Hall	4
+Halls	4
+Hamilton Burn	4
+Hanmer	4
+Hapenui	4
+Happy Valley	4
+Haupiri	4
+Hauwai	4
+Havelock	4
+Heathcote	4
+Hedgehope	4
+Hikuwai	4
+Hodge	4
+Hooker	4
+Hopes	4
+Hopkins	4
+Hororata	4
+Horrible	4
+Hot Spring	4
+House	4
+Howe	4
+Huatokitoki	4
+Huia	4
+Hunter	4
+Hutiwai	4
+Inaha	4
+Jimmys	4
+Joes	4
+Joseph	4
+Kaihu	4
+Kaikoura	4
+Kaitane	4
+Kakaho	4
+Karamea	4
+Karangarua	4
+Karapiro	4
+Kawaka	4
+Kawarau	4
+Kawhaka	4
+Kawhatau	4
+Kelly	4
+Kereru	4
+Kereu	4
+Kiekie	4
+Kiwi Burn	4
+Kopuapounamu	4
+Korakonui	4
+Koranga	4
+Kowai	4
+Kuratau	4
+Kuri	4
+Kuriwao	4
+Lauder	4
+Leader	4
+Leatham	4
+Leslie	4
+Lilburne	4
+Lily	4
+Luggate	4
+Maclennan	4
+Mahanga	4
+Maitland	4
+Makakaho	4
+Makarika	4
+Makaroro	4
+Mangaatua	4
+Mangahewa	4
+Mangahoata	4
+Mangakahikatea	4
+Mangakopikopiko	4
+Mangakura	4
+Mangakuri	4
+Mangaohae	4
+Mangapae	4
+Mangapiu	4
+Mangapohue	4
+Mangapoike	4
+Mangapu	4
+Mangaputa	4
+Mangarewarewa	4
+Mangatahae	4
+Mangatapu	4
+Mangataramea	4
+Mangatera	4
+Mangati	4
+Mangatoatoa	4
+Mangatotara	4
+Mangatukituki	4
+Mangawai	4
+Mangawara	4
+Mangawhara	4
+Mangawharariki	4
+Mangorewa	4
+Matau	4
+Matiri	4
+McKays	4
+McLeod	4
+Miller	4
+Mimi	4
+Mitchell	4
+Mokauiti	4
+Mole	4
+Morgan	4
+Morley	4
+Moss Burn	4
+Motupiko	4
+Muir	4
+Murphy	4
+Nenthorn	4
+Ngaawapurua	4
+Ngatahuna	4
+Ngongotaha	4
+Nightingale	4
+North Opuha	4
+North Waihao	4
+Okiore	4
+Okupata	4
+Old Hut	4
+Omahaki	4
+Omahine	4
+Omaka	4
+Omarama	4
+Omata	4
+Omoho	4
+Omutu	4
+Opakau	4
+Oparau	4
+Opouteke	4
+Orauea	4
+Otahi	4
+Otaio	4
+Otangaroa	4
+Otapiri	4
+Otaua	4
+Otekaieke	4
+Otira	4
+Otunui	4
+Owaka	4
+Owen	4
+Paddys	4
+Pahaoa	4
+Pahau	4
+Pahekeheke	4
+Pakowhai	4
+Pakuratahi	4
+Papanui	4
+Paranui	4
+Pararaki	4
+Pass Burn	4
+Peel	4
+Phantom	4
+Piakau	4
+Pine	4
+Poley	4
+Poporangi	4
+Porter	4
+Post Office	4
+Potts	4
+Princess Burn	4
+Puerua	4
+Puhipuhi	4
+Pukehinau	4
+Punaruku	4
+Pungarehu	4
+Purakaunui	4
+Pyramid	4
+Rangiriri	4
+Rapid	4
+Red Jacks	4
+Redcliff	4
+Reid	4
+Retaruke	4
+Retreat	4
+Richmond	4
+Roaring	4
+Roaring Lion	4
+Rob Roy	4
+Robson	4
+Rocks	4
+Ruakaka	4
+Ruataniwha	4
+Ruatiti	4
+Ruato	4
+Ryan	4
+Ryans	4
+Sawmill	4
+Seaforth	4
+Seven Mile	4
+Shale	4
+Siberia	4
+Sinclair	4
+Slab Hut	4
+Slovens	4
+Smith	4
+Smyth	4
+South	4
+Stace	4
+Steep	4
+Sunday	4
+Surveyors	4
+Sutherland	4
+Swift	4
+Tahakopa	4
+Tahuna	4
+Taiharuru	4
+Tairua	4
+Taita	4
+Tamaki	4
+Tangowahine	4
+Taringamotu	4
+Tauherenikau	4
+Tauranga Taupo	4
+Taurangakautuku	4
+Taurekaitai	4
+Te Awaiti	4
+Te Hihi	4
+Te Kauri	4
+Te Kawa	4
+Te Kowhai	4
+Te Pahi	4
+Te Pohue	4
+Te Puia	4
+Te Reinga	4
+Te Waiti	4
+Tekapo	4
+Thistle	4
+Thomsons	4
+Three o'Clock	4
+Timber	4
+Timms	4
+Tin Hut	4
+Tinline	4
+Tinui	4
+Toaroha	4
+Tokomaru	4
+Top	4
+Totaranui	4
+Tramway	4
+Trig	4
+Trinity	4
+Trotters	4
+Turanganui	4
+Twin	4
+Twizel	4
+Upper Grey	4
+Urenui	4
+Wai-iti	4
+Waianiwaniwa	4
+Waiareka	4
+Waiarohia	4
+Waiatoto	4
+Waiheke	4
+Waihihi	4
+Waihohonu	4
+Waikamaka	4
+Waikaretu	4
+Waikirikiri	4
+Waikoromiko	4
+Waimahana	4
+Waimahe	4
+Waimatai	4
+Waimatuku	4
+Waingakia	4
+Waingarara	4
+Wainuiomata	4
+Wainuioru	4
+Waiomou	4
+Waiotahi	4
+Waiparera	4
+Waipatiki	4
+Waipatukahu	4
+Waipuku	4
+Wairahi	4
+Waireporepo	4
+Wairiri	4
+Waitaki	4
+Waitio	4
+Waitomo	4
+Waiwhatawhata	4
+Walker	4
+Wandle	4
+Ward	4
+Washdyke	4
+Webb	4
+Wether Burn	4
+Whakapapa	4
+Whakateterekia	4
+Whangamoa	4
+Wharau	4
+Whareama	4
+Wharekopae	4
+Wharepapa	4
+Whitcombe	4
+Whitikau	4
+Wilkinson	4
+Windley	4
+Winton	4
+Ada	3
+Adamson	3
+Ahimanawa	3
+Ahirau	3
+Alfred	3
+Anaura	3
+Anini	3
+Ant	3
+Aongatete	3
+Aorangi	3
+Apiti	3
+Archies	3
+Armstrongs	3
+Aropaoanui	3
+Atahaua	3
+Atiwhakatu	3
+Avalanche	3
+Awahou	3
+Awarua	3
+Bakers	3
+Balloon	3
+Banks	3
+Barrier	3
+Baxter	3
+Beans Burn	3
+Beaumont	3
+Beef	3
+Beehive	3
+Bell	3
+Bennett	3
+Bob	3
+Boggy	3
+Bonar	3
+Bosun	3
+Bray	3
+Brewery	3
+Burnt	3
+Buster	3
+Cam	3
+Canoe	3
+Cap Burn	3
+Cass	3
+Cataract	3
+Catherine	3
+Catlins	3
+Cavendish	3
+Cavern	3
+Centre	3
+Centre Burn	3
+Chamberlain	3
+Chatto	3
+Chilly	3
+Chimera	3
+Chinamans	3
+Clinton	3
+Cloudy	3
+Cockabulla	3
+Coffee	3
+Cole	3
+Cooper	3
+Copper	3
+Coppermine	3
+Countess	3
+Craig Burn	3
+Cromel	3
+Crook Burn	3
+Crystal	3
+Cunningham	3
+Cust	3
+Dairy	3
+Dale	3
+Dalgety	3
+Deadwood	3
+Dean	3
+Dean Burn	3
+Deepdale	3
+Delta	3
+Denis	3
+Dingle Burn	3
+Dinner	3
+Diorite	3
+Dipton	3
+Docherty	3
+Dog Kennel	3
+Dovedale	3
+Downie	3
+Duffer	3
+Dunlop	3
+Dunsdale	3
+Dutch	3
+Earnscleugh or Fraser	3
+Ecology	3
+Eglinton	3
+Elizabeth	3
+Elliott	3
+Emerald	3
+Evangeline	3
+Ewe Burn	3
+Farm	3
+Farmer	3
+First Waterfall	3
+Fitzgerald	3
+Flagstaff	3
+Flax	3
+Flaxmill	3
+Fleming	3
+Flood Burn	3
+Flora	3
+Florence	3
+Foggy	3
+Fortification	3
+Fossil	3
+Frances	3
+Francis	3
+Fred Burn	3
+Freeman Burn	3
+Frenchmans	3
+Frosty	3
+Galway	3
+Gamma	3
+Garnock Burn	3
+Garvie Burn	3
+Ghost	3
+Gibbs	3
+Gills	3
+Gimmer Burn	3
+Glengarry	3
+Glentui	3
+Godley	3
+Gosling	3
+Goulter	3
+Gow Burn	3
+Grahams	3
+Grave	3
+Gray	3
+Grays	3
+Guide	3
+Gunn	3
+Hae Hae Te Moana	3
+Halswell	3
+Hamilton	3
+Harding	3
+Harley	3
+Harry	3
+Harvey	3
+Hatters	3
+Haumakariri	3
+Haupouri	3
+Hauraki	3
+Hauroko Burn	3
+Hawai	3
+Hawera	3
+Hayden	3
+Heriot Burn	3
+Hermit	3
+Hewson	3
+Hibernia	3
+Hidden	3
+Hinatua	3
+Hindley	3
+Hinds	3
+Hinemaiaia	3
+Hog Burn	3
+Holland	3
+Honeymoon	3
+Hopeless	3
+Horahora	3
+Horomanga	3
+Huehue	3
+Huioteko	3
+Hukihuki	3
+Humphries	3
+Hunt	3
+Hut Burn	3
+Ihuraua	3
+Irishmans	3
+Irwell	3
+Isis	3
+Jamieson	3
+Jenkins	3
+Jerry	3
+John	3
+Johnston	3
+Jubilee	3
+Jumping	3
+Kahahakuri	3
+Kahakaha	3
+Kahika	3
+Kahouri	3
+Kahunui	3
+Kahutara	3
+Kaikanui	3
+Kaikokopu	3
+Kaipara	3
+Kaiuma	3
+Kaiwaka	3
+Kaiwara	3
+Kaiwera	3
+Kakariki	3
+Kanihi	3
+Kaniwhaniwha	3
+Karakatuwhero	3
+Kauaeranga	3
+Kauri	3
+Kawaunui	3
+Kellys	3
+Kenny	3
+Kikowhero	3
+Kiripaka	3
+Koau	3
+Koere	3
+Kohika	3
+Kokakonui	3
+Kokatahi	3
+Kopuaranga	3
+Kopurererua	3
+Koputaroa	3
+Koromiko	3
+Kuranui	3
+Kye Burn	3
+Left Wairoa	3
+Leithen Burn	3
+Leven	3
+Ligar	3
+Lilian	3
+Lindsay	3
+Linton	3
+Little Awakino	3
+Little Lottery	3
+Little Opawa	3
+Lizard	3
+Lochy	3
+Long Gully	3
+Long Spur	3
+Longridge	3
+Lost	3
+Lovells	3
+Low Burn	3
+Lucy	3
+Lyell	3
+Macdonalds	3
+Macgregor	3
+Mackay	3
+Maggie	3
+Mahakirua	3
+Maher	3
+Mahitahi	3
+Mahoe	3
+Maimai	3
+Makahika	3
+Maketu	3
+Makiekie	3
+Mako	3
+Makomiko	3
+Makotukutuku	3
+Manaia	3
+Mandamus	3
+Mangaetoroa	3
+Mangahau	3
+Mangahouhounui	3
+Mangahoui	3
+Mangakahika	3
+Mangakakaho	3
+Mangakokako	3
+Mangamahu	3
+Mangamako	3
+Mangamarahia	3
+Mangamoeahu	3
+Mangamuka	3
+Manganuiowae	3
+Mangaoho	3
+Mangaonui	3
+Mangaoparo	3
+Mangaore	3
+Mangaotaki	3
+Mangaotama	3
+Mangaotane	3
+Mangapai	3
+Mangapoua	3
+Mangapukatea	3
+Mangapurua	3
+Mangara	3
+Mangaramarama	3
+Mangarautawhiri	3
+Mangarere	3
+Mangarouhi	3
+Mangarua	3
+Mangatainoka	3
+Mangatakoto	3
+Mangateitei	3
+Mangatepopo	3
+Mangatewai	3
+Mangatoetoenui	3
+Mangatoto	3
+Mangaturuturu	3
+Mangawheki	3
+Mangawherawhera	3
+Mangawhitikau	3
+Mangawiri	3
+Mangoihe	3
+Manson	3
+Mapiu	3
+Maraekakaho	3
+Marama	3
+Marokopa	3
+Maropea	3
+Matagouri	3
+Matahorua	3
+Matahuru	3
+Matai	3
+Matakana	3
+Matakuhia	3
+Matarua	3
+Matawai	3
+Matirangi	3
+Matukituki	3
+Maxwell	3
+McArthur	3
+McMillan	3
+McRae	3
+Medway	3
+Merry	3
+Michael	3
+Mick	3
+Mihianga	3
+Mikimiki	3
+Mills	3
+Minaret Burn	3
+Mine	3
+Mineral	3
+Mitimiti	3
+Moeraki	3
+Moffat	3
+Mokaihaha	3
+Mokoreta	3
+Momutu	3
+Monro	3
+Moraine	3
+Morrison	3
+Motuhouhi	3
+Motukaika	3
+Motumate	3
+Motunau	3
+Moumahaki	3
+Moutere	3
+Mulligan	3
+Mullocky	3
+Murdoch	3
+Nardoo	3
+Neds	3
+Ngahape	3
+Ngahuinga	3
+Ngakawau	3
+Ngakiriparauri	3
+Ngakoaohia	3
+Ngamahanga	3
+Ngamoko	3
+Ngarara	3
+Ngaroto	3
+Ngarua	3
+Ngatiawa	3
+Ngunguru	3
+Nicholls	3
+Nigger	3
+Nikau	3
+Nokomai	3
+Nuggety	3
+Nuhaka	3
+Nukuhou	3
+O'Malley	3
+Oakura	3
+Oaro	3
+Oeo	3
+Ohane	3
+Ohara	3
+Ohinemuri	3
+Oho	3
+Ohuka	3
+Okahukura	3
+Okapua	3
+Okarika	3
+Okauaka	3
+Okawa	3
+Okokako	3
+Omahu	3
+Omaunu	3
+Omeo	3
+Omoeroa	3
+Onaero	3
+Onamalutu	3
+One Mile	3
+Onepu	3
+Onetai	3
+Opango	3
+Opio	3
+Opitonui	3
+Opouri	3
+Opuatia	3
+Opuha	3
+Opuhi	3
+Orauta	3
+Ore	3
+Orongorongo	3
+Orr	3
+Oruaiti	3
+Oruru	3
+Otaika	3
+Otakeho	3
+Otamaroa	3
+Otamatapaio	3
+Otamauri	3
+Otangimoana	3
+Otarere	3
+Otawhao	3
+Otawhiti	3
+Ote Makura	3
+Otematata	3
+Oterei	3
+Otiake	3
+Otonga	3
+Otukehu	3
+Otupoto	3
+Oturere	3
+Oturu	3
+Otututu	3
+Ouri	3
+Owahanga	3
+Owhakatoro	3
+Owhiro	3
+Pa	3
+Paddy	3
+Pahi	3
+Pakarae	3
+Pakiri	3
+Pancake	3
+Pangarara	3
+Papaka	3
+Para	3
+Paradise	3
+Parahaki	3
+Parakau	3
+Parakeet	3
+Parekura	3
+Pareranui	3
+Paringa	3
+Parker	3
+Parsons	3
+Paske	3
+Patiki	3
+Patriarch	3
+Paturau	3
+Pell	3
+Picnic	3
+Pioneer	3
+Pipiwai	3
+Pipson	3
+Piripiri	3
+Plover	3
+Pohue	3
+Pohuenui	3
+Point Burn	3
+Pokeka	3
+Pollock	3
+Polnoon Burn	3
+Pongakawa	3
+Potato	3
+Pourakino	3
+Pourangaki	3
+Powerhouse	3
+Price	3
+Prince	3
+Pringles	3
+Prospect	3
+Pudding	3
+Puhata	3
+Puhi Puhi	3
+Pukaki	3
+Pukatea	3
+Pukeatua	3
+Puketutu	3
+Pukewhau	3
+Punakitere	3
+Punanui	3
+Purimu	3
+Quinns	3
+Racecourse	3
+Ram	3
+Random	3
+Rangitopuni	3
+Rankle Burn	3
+Rapanui	3
+Raparapahoe	3
+Raparapawai	3
+Rata Burn	3
+Rataroa	3
+Raukokore	3
+Ravine	3
+Red Rock	3
+Reeves	3
+Reids	3
+Rere	3
+Rerewhakaaitu	3
+Reynolds	3
+Robertson	3
+Rocky Point	3
+Roding	3
+Round	3
+Royal	3
+Ruakokoputuna	3
+Rubicon	3
+Ryton	3
+Sailor	3
+Sandfly	3
+Sawdon	3
+Sawpit	3
+Sawyer	3
+Scrub Burn	3
+Second Waterfall	3
+Severn	3
+Sharpridge	3
+Shiel Burn	3
+Slippery	3
+Smiths	3
+South Pareora	3
+South Waihao	3
+Specimen	3
+Spray	3
+Spylaw Burn	3
+Stafford	3
+Starvation	3
+Station Burn	3
+Station or Sheriff	3
+Steeple Burn	3
+Stewarts	3
+Stinking	3
+Stratford	3
+Sunbeam	3
+Sunny	3
+Sutherlands	3
+Sweeps	3
+Table	3
+Taffy	3
+Taharua	3
+Takahe	3
+Talla Burn	3
+Tapuae	3
+Tapuaeharuru	3
+Taraire	3
+Taranaki	3
+Tarewarewa	3
+Tarn	3
+Tatare	3
+Tauanui	3
+Tauhei	3
+Taumata	3
+Taumatapoupou	3
+Taupo	3
+Tauroa	3
+Tautuku	3
+Te Ana	3
+Te Kahikatea	3
+Te Kaka	3
+Te Karo	3
+Te Kotuku	3
+Te Puhi	3
+Te Puni	3
+Te Rapa	3
+Te Rere	3
+Te Rimu	3
+Te Toi	3
+Te Wairere	3
+Temple	3
+Tent	3
+Teviot	3
+Tidal	3
+Tipperary	3
+Titiroa	3
+Toko	3
+Tommys	3
+Tomogalak	3
+Tongaporutu	3
+Tongariro	3
+Topehahae	3
+Torepatutahi	3
+Tornado	3
+Transit	3
+Tuamarina	3
+Tuapeka	3
+Tucks	3
+Tunanui	3
+Tunatahi	3
+Tupapakurua	3
+Turanga	3
+Tutaetoko	3
+Tweed	3
+Tyndall	3
+Upokorau	3
+Victoria	3
+Vine	3
+Waianiwa	3
+Waiapu	3
+Waiare	3
+Waiarikiki	3
+Waiarua	3
+Waiatua	3
+Waiehu	3
+Waihekau	3
+Waiho	3
+Waihoa	3
+Waihoihoi	3
+Waihuna	3
+Waikakaho	3
+Waikara	3
+Waikaukau	3
+Waikewai	3
+Waikiri	3
+Waikoikoi	3
+Waikopikopiko	3
+Waimahoe	3
+Waimahora	3
+Waimamaku	3
+Waimanga	3
+Waimangaroa	3
+Waimangu	3
+Waimaunu	3
+Waimeha	3
+Waimutu	3
+Waingaromia	3
+Waingata	3
+Wainuiomapu	3
+Waioho	3
+Waiokumurau	3
+Waioraka	3
+Waiorongomai	3
+Waiotaka	3
+Waiotane	3
+Waiotapu	3
+Waipare	3
+Waipati	3
+Waipaua	3
+Waipohatu	3
+Waipuehu	3
+Wairakau	3
+Wairamarama	3
+Wairaurahiri	3
+Wairehu	3
+Waireia	3
+Waireka	3
+Wairio	3
+Waita	3
+Waitahora	3
+Waitahu	3
+Waitakahi	3
+Waitakere	3
+Waitakere or Nile	3
+Waitawheta	3
+Waiteika	3
+Waiteitei	3
+Waitete	3
+Waitetoko	3
+Waitewhena	3
+Waitoi	3
+Waitoki	3
+Waituhi	3
+Waitui	3
+Waitutaki	3
+Waitutu	3
+Waiwawa	3
+Waiwiri	3
+Wakamarina	3
+Wakanui	3
+Wallaby	3
+Wangaloa	3
+Watsons	3
+Weiti	3
+Wells	3
+Welshmans	3
+Weraweraonga	3
+Whakanekeneke	3
+Whakapapanui	3
+Whakapirau	3
+Whakapohai	3
+Whakarapa	3
+Whangaparaoa	3
+Wharawhara	3
+Wharekahika	3
+Wharekawa	3
+Whareponga	3
+Wharepu	3
+Whatiwhati	3
+Whiskey	3
+Whistler	3
+White Pine	3
+Whitianga	3
+Wilkin	3
+Wills	3
+Windon Burn	3
+Winter	3
+Woodhen	3
+Woodside	3
+Yeo	3
+Access	2
+Aciphylla	2
+Adam	2
+Adieu	2
+Ahimate	2
+Ahuriri East	2
+Ailsa	2
+Ajax	2
+Akatarewa	2
+Akatea	2
+Akatore	2
+Akeake	2
+Alexandra	2
+Alf	2
+Alice Burn	2
+Alton Burn	2
+Amia	2
+Amisfield Burn	2
+Amphitheatre	2
+Ananui	2
+Aniwaniwa	2
+Annetts	2
+Aorere	2
+Appletree	2
+Aramahoe	2
+Ararawa	2
+Arawata	2
+Arcade	2
+Arerotepa	2
+Armchair	2
+Aroaro	2
+Ashley	2
+Ashton Burn	2
+Atkinson	2
+Aurora	2
+Austral	2
+Avon Burn	2
+Awahohonu	2
+Awai	2
+Awakari	2
+Awamate	2
+Awanui Channel	2
+Awarau or Larry	2
+Aylmers	2
+Bacon	2
+Baldy	2
+Balfour	2
+Ballarat	2
+Barlow	2
+Barn	2
+Barron	2
+Barton	2
+Bartrum	2
+Basin Burn	2
+Bateman	2
+Bath	2
+Batty	2
+Begley	2
+Bellbird	2
+Belle Burn	2
+Ben More	2
+Benger Burn	2
+Bernard	2
+Bickerstaffe	2
+Big Bush	2
+Big Deep	2
+Billy Burn	2
+Bird	2
+Bishop	2
+Bishop Burn	2
+Black George	2
+Black Jack	2
+Black Jacks	2
+Black Valley	2
+Blackball	2
+Blackburn	2
+Blackcleugh Burn	2
+Blacksand	2
+Blacksmith Torrent	2
+Blaikies	2
+Blainslie	2
+Blairich	2
+Blondin	2
+Blow	2
+Blowhard	2
+Blue Bottle	2
+Bluestone	2
+Blunder	2
+Boar	2
+Boatmans	2
+Bolton	2
+Booths	2
+Border	2
+Borland Burn	2
+Borland Burn Middle	2
+Borland Burn North	2
+Bouldery	2
+Bovis	2
+Bowen	2
+Bowlers	2
+Boyds	2
+Bradshaw	2
+Brasseys	2
+Brassknocker	2
+Break	2
+Breast	2
+Brian Boru	2
+Bridge or McLean	2
+Broadleaf	2
+Brooklyn	2
+Brothers	2
+Browning	2
+Bryce Burn	2
+Buckler Burn	2
+Budge	2
+Bullion	2
+Bullock Head	2
+Bullrush	2
+Bungtown	2
+Burgan	2
+Burns	2
+Burnt Scrub	2
+Burr	2
+Burton	2
+Burtons	2
+Butler	2
+Butlers	2
+Butterfly	2
+Bywash	2
+Cabin	2
+Cache	2
+Cadigan	2
+Cadman	2
+Callaghans	2
+Callery	2
+Camping	2
+Canadian	2
+Candlelight	2
+Cannington	2
+Cape	2
+Card	2
+Cardrona	2
+Cariboo	2
+Carl	2
+Carmel Burn	2
+Caroline Burn	2
+Caron	2
+Carrick	2
+Carrington	2
+Carters	2
+Carton	2
+Casey	2
+Cashmere	2
+Casolis	2
+Castaly	2
+Castlepoint	2
+Castor	2
+Catchpool	2
+Chaffey	2
+Chandler	2
+Change	2
+Charcoal	2
+Charlton	2
+Charming	2
+Chatter	2
+Chatterton	2
+Chinaman	2
+Chlorite	2
+Christies	2
+Christmas	2
+Cleft	2
+Cliff	2
+Cliff Burn	2
+Climie	2
+Clive	2
+Cluden	2
+Cochran	2
+Cockeye	2
+Coeus	2
+Coldwater	2
+Coleridge	2
+Colin	2
+College	2
+Collie	2
+Commissioners	2
+Company	2
+Conroys	2
+Copland	2
+Corbies	2
+Corner	2
+Cotters	2
+Coulter	2
+Counting	2
+Cowhide	2
+Cozette Burn	2
+Craigie Burn	2
+Craigs	2
+Crawford	2
+Crayfish	2
+Crimea	2
+Criterion	2
+Cronin	2
+Crookston Burn	2
+Crosbie	2
+Cross	2
+Cuckoo	2
+Cullen	2
+Culpan	2
+Cupola	2
+D'Urville	2
+Dans	2
+Davies	2
+Davy	2
+Dawn	2
+Dawson Burn	2
+Dead Mans	2
+Deepdell	2
+Deighton	2
+Delamain	2
+Devil	2
+Digger	2
+Dilston	2
+Dirty Mary	2
+Discovery	2
+Dixon	2
+Doddemeade	2
+Dodger	2
+Dog Box	2
+Donkey	2
+Doon	2
+Dore	2
+Double	2
+Dougal	2
+Downpour Torrent	2
+Drakes	2
+Dredge Burn	2
+Dry Rock	2
+Dubious	2
+Dublin	2
+Dudley	2
+Dull Burn	2
+Dun	2
+Dunbar	2
+Duncans	2
+Dundas	2
+Dunns	2
+Dunphy	2
+Dunsandel	2
+Durwards	2
+Earnslaw Burn	2
+East Diadem	2
+East Ewe Burn	2
+East Waikaka	2
+Eastern Hohonu	2
+Easy	2
+Edison	2
+Edwin Burn	2
+Eglinton West	2
+Elcho	2
+Electric	2
+Elephant	2
+Ensor	2
+Eric	2
+Ernest	2
+Estuary Burn	2
+Eta	2
+Etal	2
+Ethel	2
+Ettrick Burn	2
+Eves Valley	2
+Excelsior	2
+Exe	2
+Fabians	2
+Fairhall	2
+Falla Burn	2
+Falstone	2
+Fantail	2
+Fast Burn	2
+Fergusons	2
+Fern	2
+Fez	2
+Fidget	2
+Fifteen Mile	2
+Fingals	2
+Finger	2
+Finlayson	2
+Fishermans	2
+Fishtail	2
+Flaxbourne	2
+Flicker	2
+Flock	2
+Floodgate	2
+Foleys	2
+Fontaine	2
+Forest Burn	2
+Forgotten	2
+Foster	2
+Fourteen Mile	2
+Foxs	2
+Francis Burn	2
+Frasers	2
+Frazer	2
+Freshwater	2
+Frieda	2
+Friends	2
+Friston	2
+Fuller	2
+Fury Torrent	2
+Galena	2
+Gap	2
+Gardner Burn	2
+Gate	2
+Gates	2
+Gentleman Smith	2
+Georges	2
+Gerald	2
+Gibraltar Burn	2
+Gifford	2
+Giles	2
+Glacier Burn	2
+Glade Burn	2
+Gladstone	2
+Glen Bouie	2
+Glendore	2
+Glenfalloch	2
+Glenledi	2
+Glenomaru	2
+Glenshee	2
+Gloster	2
+Gooseberry	2
+Gordons	2
+Gore	2
+Gorge Burn	2
+Gorgon	2
+Gowan	2
+Gows	2
+Grace Burn	2
+Grampian	2
+Grandview	2
+Grantham	2
+Greek	2
+Green	2
+Green Burn	2
+Green Valley	2
+Grindstone	2
+Grove Burn	2
+Gulch	2
+Gully	2
+Gunner	2
+Habukinini	2
+Hacket	2
+Haha	2
+Hakaru	2
+Halfway	2
+Halo	2
+Hambone	2
+Haparapara	2
+Hape	2
+Hapokapoka	2
+Happy	2
+Hapuku	2
+Hapurua	2
+Harataunga	2
+Harman	2
+Hart	2
+Hatpin	2
+Hauhauponamu	2
+Haumi	2
+Hauoira	2
+Haupapa	2
+Haupatua	2
+Hautawa	2
+Hautuia	2
+Hauturu	2
+Hawdon	2
+Hawea	2
+Hawks Burn	2
+Hay	2
+Hayes	2
+Hayter	2
+Healey	2
+Healeys	2
+Heaphy	2
+Hectors	2
+Heeney	2
+Heimama	2
+Hen Burn	2
+Henderson Burn	2
+Herbert	2
+Herehere	2
+Herekawe	2
+Heringa	2
+Heron	2
+Herring	2
+Heruheru	2
+High Burn	2
+Highlay	2
+Hihi	2
+Hillersden	2
+Hilton	2
+Hindley Burn	2
+Hinds South	2
+Hingapo	2
+Hodder	2
+Hog Swamp	2
+Hollyford	2
+Honui	2
+Hopuruahine	2
+Horomea	2
+Horomia	2
+Horopito	2
+Horseshoe	2
+Hossack	2
+Hoteo	2
+Huaero	2
+Huahua	2
+Huangarua	2
+Huanui	2
+Huaroa	2
+Huatoki	2
+Hudson	2
+Hughes	2
+Huiarau	2
+Huihuitaha	2
+Hukitawa	2
+Humbug	2
+Hunter West	2
+Hunters	2
+Hunts	2
+Hupati	2
+Huriwai	2
+Hurukau	2
+Hutchinson	2
+Huxley North	2
+Idaburn	2
+Ihungia	2
+Ikawetea	2
+Inangatahi	2
+Inumia	2
+Invincible	2
+Irene	2
+Iris	2
+Iris Burn	2
+Irongate	2
+Isobel	2
+Italian	2
+Italians	2
+Jacobs	2
+Jam	2
+Jap	2
+Jecklin	2
+Jennings	2
+Jerusalem	2
+Jervois	2
+Jim	2
+Jimmy	2
+Joe	2
+Johnstone	2
+Johnstons	2
+Jollies	2
+Jostling Water	2
+Joyces	2
+Jumbo	2
+Kaawa	2
+Kaeaea	2
+Kahikatea	2
+Kaianu	2
+Kaiapoi	2
+Kaiata	2
+Kaikino	2
+Kaikomako	2
+Kaikorai	2
+Kaikou	2
+Kaikowhiti	2
+Kaimaro	2
+Kaipaitangata	2
+Kaipatiki	2
+Kaiporoporo	2
+Kairawaru	2
+Kaitangata	2
+Kaitara	2
+Kaitaringa	2
+Kaitatara	2
+Kaiti	2
+Kaiwera West	2
+Kaiwha	2
+Kaiwhakauka	2
+Kaiwharawhara	2
+Kaiwhata	2
+Kaiwhio	2
+Kakapirau	2
+Kakapotahi	2
+Kakatahi	2
+Kakuki	2
+Kangaroo	2
+Kaniere	2
+Kapitea	2
+Kapowai	2
+Kapuawhio	2
+Kapukapu	2
+Kapunatiki	2
+Karapiti	2
+Karaponga	2
+Kararoa	2
+Karekare	2
+Karewarewa	2
+Karukaru	2
+Katherine	2
+Kathleen	2
+Katie	2
+Katikara	2
+Kauaekeke	2
+Kauhauroa	2
+Kaukapakapa	2
+Kaumingi	2
+Kauritutahi	2
+Kawau	2
+Kawautahi	2
+Kay	2
+Kennedy	2
+Kennet	2
+Kerekere	2
+Kerrs	2
+Kiakia	2
+Kihikihi	2
+Kikiwa	2
+Kill Devil	2
+King	2
+Kinzett	2
+Kiore	2
+Kirikopuni	2
+Kiritehere	2
+Kiriwhakapapa	2
+Kirk	2
+Kirkliston	2
+Kitchener	2
+Kiwhara	2
+Knight	2
+Koaro	2
+Kohaihai	2
+Kohe	2
+Kohi	2
+Kohiwai	2
+Kohumaru	2
+Kohuru	2
+Kokako	2
+Kokakoriki	2
+Kokoamu	2
+Kokomiko	2
+Kokopu	2
+Kokopunui	2
+Komakorau	2
+Komutumutu	2
+Kopaki	2
+Kopakorahi	2
+Kopeka	2
+Koporongo	2
+Kopua	2
+Kopuaroa	2
+Kopuku	2
+Kopuni	2
+Korokoro	2
+Kotare	2
+Kotikoti	2
+Kotipu	2
+Kotiti	2
+Kotorenui	2
+Koukoupo	2
+Kourarau	2
+Kourawhero	2
+Kowai North	2
+Kuamahanga	2
+Kuhatahi	2
+Kumeu	2
+Kurow	2
+Kururau	2
+Kuwhatahi	2
+L II	2
+Lammerlaw	2
+Landing	2
+Landon	2
+Langdon	2
+Large Burn	2
+Larnach	2
+Larne	2
+Leaping Burn	2
+Left Moonlight	2
+Lignite	2
+Lill Burn	2
+Lillburn	2
+Linn Burn	2
+Little Boulder	2
+Little Cascade	2
+Little Deep	2
+Little Deepdale	2
+Little Devil	2
+Little Granity	2
+Little Kowai	2
+Little Kye Burn	2
+Little Linton	2
+Little Omarama	2
+Little Pomahaka	2
+Little Totara	2
+Little Wanganui	2
+Liverpool	2
+Lochaber	2
+Lochar Burn	2
+Lockharts	2
+Lodore	2
+London	2
+Lone	2
+Lonesome	2
+Longbeach	2
+Longslip	2
+Loop	2
+Lora	2
+Lottery	2
+Low	2
+Lowburn	2
+Lug	2
+Lugar Burn	2
+Lumaluma	2
+Lyndon	2
+Lynn	2
+Lyvia	2
+Macaulay	2
+MacKays	2
+Mackintosh	2
+Madman	2
+Madmans	2
+Maeneene	2
+Maerewhenua	2
+Maero	2
+Magnesite	2
+Mahakirau	2
+Maharakeke	2
+Mahinapua	2
+Maikaikatoa	2
+Makahaka	2
+Makairo	2
+Makaraka	2
+Makareao	2
+Makareturetu	2
+Makerikeri	2
+Makikihi	2
+Makiokio	2
+Makokako	2
+Makokomiko East	2
+Makukupara	2
+Maling	2
+Manakaiaua	2
+Manawaangiangi	2
+Mangaawakino	2
+Mangaehuehu	2
+Mangaeteroa	2
+Mangahahuru	2
+Mangahauini	2
+Mangahaupapa	2
+Mangaheia	2
+Mangahia	2
+Mangahina	2
+Mangahopai	2
+Mangakaeo	2
+Mangakahakaha	2
+Mangakahikatoa	2
+Mangakahu	2
+Mangakakahi	2
+Mangakawhia	2
+Mangakiokio	2
+Mangakokeke	2
+Mangakotaha	2
+Mangakotuku	2
+Mangakowhai	2
+Mangakowhitiwhiti	2
+Mangakowiriwiri	2
+Mangamahe	2
+Mangamaia	2
+Mangamaio	2
+Mangamaipi	2
+Mangamawhitiwhiti	2
+Manganaeia	2
+Manganui o te Ao	2
+Manganuiawea	2
+Manganuiohou	2
+Manganuiotahu	2
+Mangaohane	2
+Mangaohutu	2
+Mangaokura	2
+Mangaomeko	2
+Mangaonaia	2
+Mangaonga	2
+Mangaonua	2
+Mangaora	2
+Mangaorakei	2
+Mangaorapa	2
+Mangaowata	2
+Mangapaka	2
+Mangapakeha	2
+Mangapehi	2
+Mangapiopio	2
+Mangapukakakahu	2
+Mangapuketea	2
+Mangarakai	2
+Mangarakau	2
+Mangarama	2
+Mangarapa	2
+Mangarau	2
+Mangaraukokore	2
+Mangaraupiu	2
+Mangare	2
+Mangatakawa	2
+Mangatana	2
+Mangataraire	2
+Mangataunoka	2
+Mangataura	2
+Mangatawhiri	2
+Mangatetipua	2
+Mangatewaiiti	2
+Mangatewainui	2
+Mangateweka	2
+Mangatini	2
+Mangatipua	2
+Mangatoitoi	2
+Mangatoromiro	2
+Mangatukutuku	2
+Mangatutara	2
+Mangatutunui	2
+Mangauika	2
+Mangaururoa	2
+Mangawarawara	2
+Mangawhai	2
+Mangawhea	2
+Mangawhengu	2
+Mangere	2
+Mangles	2
+Mangoira	2
+Mangoiwa	2
+Manuka or Ranger	2
+Manukau	2
+Manutahi	2
+Mapauriki	2
+Maraehara	2
+Maraemanuka	2
+Maraetai	2
+Maraeweka	2
+Marahau	2
+Marchant	2
+Margaret Burn	2
+Marinui	2
+Marion	2
+Maritana	2
+Maroera	2
+Marris	2
+Martyr	2
+Marumaru	2
+Mary	2
+Massack	2
+Masson	2
+Matahanea	2
+Mataikona	2
+Matainui	2
+Matakatau	2
+Matakitaki East	2
+Matakotea	2
+Matanehunehu	2
+Matarawa	2
+Matariki	2
+Mataroa	2
+Matawera	2
+Mates	2
+Matira	2
+Matukituki West	2
+Mauri	2
+Maurikura	2
+Mawheraiti or Little Grey	2
+McCarthy	2
+McCormick	2
+McCormicks	2
+McDonalds	2
+McIntosh	2
+McKerrow	2
+McKinlays	2
+McLaren	2
+McLean	2
+McLennan	2
+McMahon	2
+McMurray	2
+McPherson	2
+McTavish	2
+Mead	2
+Medina	2
+Merton	2
+Mica	2
+Mica Burn	2
+Micks	2
+Mid Burn	2
+Midnight Torrent	2
+Mihirau	2
+Mile	2
+Millers	2
+Millson	2
+Mimihau	2
+Mimihau North	2
+Mimihau South	2
+Miner	2
+Minnow	2
+Mint	2
+Minzion Burn	2
+Mirfin	2
+Miro	2
+Moat	2
+Moawhango West	2
+Moawhango-iti	2
+Moeawatea	2
+Moengawahine	2
+Moerangi	2
+Moetahanga	2
+Mohakatino	2
+Moke	2
+Mokihinui	2
+Mokorau	2
+Mokoro	2
+Mokoroa	2
+Mokuku	2
+Molesworth	2
+Monowai	2
+Montgomerie	2
+Moore	2
+Moose	2
+Morinui	2
+Morris	2
+Morse	2
+Moss	2
+Mossburn	2
+Motatapu	2
+Motuhinahina	2
+Motumuka	2
+Motuwaireka	2
+Moutoti	2
+Mueller	2
+Mukamuka	2
+Mullet	2
+Mullins	2
+Mungo	2
+Munro	2
+Murchison	2
+Murdock	2
+Murphys	2
+Mutton	2
+Mutuera	2
+Muzzle	2
+Mystery Burn	2
+Nancy	2
+Neale Burn	2
+Ned	2
+Needles	2
+Nell	2
+Nerger	2
+Neutral	2
+Nevis Burn	2
+Ngaere	2
+Ngakauau	2
+Ngakonui	2
+Ngakoroa	2
+Ngamatea	2
+Ngamuwahine	2
+Ngapuke	2
+Ngapunarua	2
+Ngaruawahine	2
+Ngatamawahine	2
+Ngatapa	2
+Ngatau	2
+Ngatoroiti	2
+Ngaturi	2
+Ngautorotoro	2
+Ngawaka	2
+Ngawha	2
+Ngutuwhero	2
+Niagara	2
+Nicholas	2
+Nicholson	2
+Niger	2
+Nihotetea	2
+Nobles	2
+Noisy	2
+Nolans	2
+North East Gorge	2
+North Head	2
+North Kakanui	2
+North Maerewhenua	2
+North Teviot	2
+North Twin	2
+North Wangapeka	2
+Nugget	2
+Nurse	2
+O'Connor	2
+O'Rourkes	2
+Obelisk	2
+Oeuteheuheu	2
+Ogles	2
+Ohakiri	2
+Ohanga	2
+Ohaoko	2
+Ohapi	2
+Ohariu	2
+Ohaua	2
+Ohautira	2
+Ohie	2
+Ohikanui	2
+Ohineangaanga	2
+Ohinekaua	2
+Ohinemaka	2
+Ohinepango	2
+Ohinetamatea	2
+Ohinetutaekiora	2
+Ohio	2
+Ohuanui	2
+Ohuha	2
+Ohui	2
+Ohutu	2
+Oira	2
+Okahutahi	2
+Okaia	2
+Okaka	2
+Okana	2
+Okarari	2
+Okarito	2
+Okauawa	2
+Okaweu	2
+Okehu	2
+Okete	2
+Okirau	2
+Okoeke	2
+Okohau	2
+Okohua	2
+Okokaheke	2
+Okoropunga	2
+Okui	2
+Okutua	2
+Old Man	2
+Oldham	2
+Omaha	2
+Omao	2
+Omapu	2
+Omarae	2
+Omarukokere	2
+Omnibus	2
+Omoehu	2
+Onaia	2
+Onekaka	2
+Onekura	2
+Oneura	2
+Ongarahu	2
+Ongaruhe	2
+Ongionui or Twelve Mile	2
+Opara	2
+Oparara	2
+Opatu	2
+Opau	2
+Opetea	2
+Opoho	2
+Opoi	2
+Oponae	2
+Opou	2
+Opouawe	2
+Opoutama	2
+Opuhou	2
+Opuiaki	2
+Opunake	2
+Orakonui	2
+Oraora	2
+Orauhora	2
+Oraukura	2
+Orautoha	2
+Orchard	2
+Orere	2
+Orewa	2
+Orikaka or Mackley	2
+Orini	2
+Orongatea	2
+Orowaiti	2
+Orua	2
+Oruakeretaki	2
+Oruawharo	2
+Orutua	2
+Orwell	2
+Oswald	2
+Otaenga	2
+Otaha	2
+Otairi	2
+Otakarara	2
+Otakeao	2
+Otaketake	2
+Otaku	2
+Otama	2
+Otamaariki	2
+Otamaraho	2
+Otamarahu	2
+Otamateanui	2
+Otamawairua	2
+Otamita	2
+Otaneuri	2
+Otauira	2
+Otautau	2
+Otawheta	2
+Oteramika	2
+Otere	2
+Otiria	2
+Otohi	2
+Otoki	2
+Otokia	2
+Otoko	2
+Otokoro	2
+Otope	2
+Otto	2
+Otuiti	2
+Otumangu	2
+Otupua	2
+Otutakahiao	2
+Otutira	2
+Otuturu	2
+Oue	2
+Ourawera	2
+Ouse	2
+Owairaka	2
+Oware	2
+Oweka	2
+Owera	2
+Owhakarotu	2
+Owhero	2
+Owhironui	2
+Oyster	2
+Pack Horse	2
+Packers	2
+Paerata	2
+Paetahi	2
+Paetataramoa	2
+Paewaru	2
+Page	2
+Painkiller	2
+Paiwata	2
+Pakahikatoa	2
+Pakeretu	2
+Pakihikura	2
+Pakinui	2
+Pakoka	2
+Pakuri	2
+Pangopangonui	2
+Panirau	2
+Paopaohaonui	2
+Papa	2
+Papakanui	2
+Papakauri	2
+Papakura	2
+Papamanuka	2
+Paparata	2
+Paparauponga	2
+Papatiki	2
+Papatupu	2
+Paraha	2
+Paraheka	2
+Parangiora	2
+Parariki	2
+Parau	2
+Parawai	2
+Parawhenuamea	2
+Paremoremo	2
+Pari	2
+Parimu	2
+Paritikona	2
+Park Burn	2
+Parkvale	2
+Parson	2
+Parsons Rock	2
+Pataka	2
+Patangata	2
+Paton	2
+Pattersons	2
+Patunga	2
+Patutahi	2
+Pauatahanui	2
+Payne	2
+Pearson	2
+Pegleg	2
+Pehu	2
+Pekanui	2
+Pekapeka	2
+Pembroke	2
+Penetaiti	2
+Penetanui	2
+Penk	2
+Penticotico	2
+Pepe	2
+Percival	2
+Perry	2
+Perth	2
+Pete	2
+Petipeti	2
+Pettrill	2
+Piakoiti	2
+Piakonui	2
+Pig Burn	2
+Pig Hunting	2
+Pigroot	2
+Piha	2
+Pikau	2
+Pike	2
+Pikes	2
+Pikiatua	2
+Pikiwahine	2
+Pikowai	2
+Pinchgut	2
+Pine Valley	2
+Piopio	2
+Piopiotea	2
+Pipi	2
+Piraruhe	2
+Pirere	2
+Pitone	2
+Pitt	2
+Plumbago	2
+Poarangi	2
+Pohatanui	2
+Pohatu	2
+Pokairoa	2
+Pokaitu	2
+Pokaka	2
+Pokororo	2
+Pond Burn	2
+Pongaroa	2
+Ponuiahine	2
+Poorman Valley	2
+Popo	2
+Pororari	2
+Porotaiana	2
+Pouaru	2
+Poukawa	2
+Poulter	2
+Pouri	2
+Pouruiri	2
+Poutaki	2
+Poverty	2
+Pretty Bridge	2
+Princess	2
+Princhester West	2
+Pringle	2
+Prospector	2
+Puapua	2
+Puaroa	2
+Puhinui	2
+Puhoi	2
+Puhokio	2
+Pukahu	2
+Pukahunui	2
+Pukaka	2
+Pukareao	2
+Pukearuhe	2
+Pukeko	2
+Pukematai	2
+Pukeonake	2
+Pukerua	2
+Puketi	2
+Pukewhau Channel	2
+Pukorokoro	2
+Pukupuku	2
+Punakaiki	2
+Puneketoro	2
+Punga	2
+Puniwhakau	2
+Puputaha	2
+Purakauiti	2
+Puraroto	2
+Purcell	2
+Puruhaua	2
+Purukohukohu	2
+Purupuruwhaka	2
+Pussy	2
+Putaka	2
+Putikituna	2
+Puwawa	2
+Pyke	2
+Quail Burn	2
+Quail Valley	2
+Quoich	2
+Raekohua	2
+Rahu	2
+Rahui	2
+Rai	2
+Rakaupuhipuhi	2
+Rakeahua	2
+Rakurawera	2
+Ram Valley	2
+Rangatira	2
+Ranger	2
+Rangihika	2
+Rangikohua	2
+Rangiora	2
+Rangitatau	2
+Rangitawa	2
+Rangitira	2
+Rangitukia	2
+Rangiwhaia	2
+Raparahi	2
+Rappahannock	2
+Rarawaru	2
+Raroa	2
+Raumate	2
+Rautahi	2
+Rautini	2
+Rawa	2
+Rawea	2
+Red Swamp	2
+Redman	2
+Redstone	2
+Renata	2
+Repulse	2
+Reservoir	2
+Rhodes	2
+Ribble	2
+Richardson	2
+Right Motueka	2
+Right Wairoa	2
+Rimuroa	2
+Rimutaka	2
+Riripo	2
+Riuohauraki	2
+Rock Burn	2
+Rockwood	2
+Rocky Valley	2
+Roe Burn	2
+Rogerson	2
+Ronga	2
+Rough Burn	2
+Rowallan Burn West	2
+Ruahoata	2
+Ruapirau	2
+Ruatahuna	2
+Ruatahunga	2
+Ruatawiri	2
+Ruera	2
+Rugged	2
+Ruggedy	2
+Rukuwai	2
+Rumbling Burn	2
+Ruruanga	2
+Rurutahi	2
+Russell	2
+Russet Burn	2
+Ruth	2
+Rutherford	2
+Sabine	2
+Sailors	2
+Saint Bernard	2
+Saint Marys	2
+Saint Patrick	2
+Salmon	2
+Sams	2
+Sandhill	2
+Sandys	2
+Saxon	2
+Scamper	2
+Scargill	2
+School	2
+Scone	2
+Scotchman	2
+Scotchmans	2
+Scotts	2
+Scotty	2
+Scottys	2
+Scour	2
+Seal	2
+Sealers No	2
+Seaward	2
+Sebastopol	2
+Second	2
+Selwyn North	2
+Separation	2
+Seventeen Mile	2
+Seymour	2
+Shady	2
+Shallow	2
+Shamrock	2
+Shannon	2
+Sheepskin	2
+Shepherd	2
+Sherry	2
+Shin	2
+Simpson	2
+Simpsons	2
+Skeet	2
+Skeleton	2
+Sluice	2
+Sluice Box	2
+Smite	2
+Smithy	2
+Snag Burn	2
+Snowball	2
+Snowy Gorge	2
+Soldiers	2
+Solitude	2
+South Kakanui	2
+South Maerewhenua	2
+South Mitre	2
+South Opuha	2
+South Temple	2
+South Teviot	2
+South Twin	2
+Sow Burn	2
+Spencer	2
+Splinter	2
+Springvale	2
+Spur	2
+Squabble	2
+Stable	2
+Stanton	2
+Starborough	2
+Steele	2
+Steven Burn	2
+Stevenson	2
+Stokes	2
+Stone	2
+Stone Hut	2
+Stonestead	2
+Stormwater	2
+Stot Burn	2
+Stour West	2
+Stout	2
+Straight	2
+Strauchon	2
+Stringer	2
+Stuart	2
+Sugar Loaf	2
+Sulky	2
+Sullivan	2
+Summit	2
+Sundown	2
+Surrey	2
+Swale	2
+Swan	2
+Sweetwater	2
+Swift Water	2
+Swin Burn	2
+Swinburn	2
+Sylvester	2
+Sylvia	2
+Tadmor	2
+Tahaenui	2
+Tahekeroa	2
+Tahoranui	2
+Tahunamaere	2
+Tahurangi	2
+Taiawa	2
+Taieri	2
+Taihiki	2
+Taihu	2
+Taikatu	2
+Taikirau	2
+Tailings	2
+Tainui	2
+Taipa	2
+Taipouri	2
+Taipuha	2
+Takahiapo	2
+Takaka	2
+Takitu	2
+Takou	2
+Tamakomako	2
+Tame	2
+Tangaruhe	2
+Tangatupura	2
+Tangiaro	2
+Tangitu	2
+Tapapa	2
+Taparahaia	2
+Tapirau	2
+Tapu	2
+Tapuaengoto	2
+Tapuaeroa	2
+Tapuaetahi	2
+Tapuata	2
+Tara	2
+Tarakihi	2
+Tarakihinui	2
+Taramoukou	2
+Tarariki	2
+Taringapupu	2
+Taroa	2
+Tarras	2
+Taruheru	2
+Tasman	2
+Tass	2
+Tauhua	2
+Taukare	2
+Taumutu	2
+Taupiri	2
+Tauranganui	2
+Tautane	2
+Tautarakapua	2
+Tautau	2
+Taverners	2
+Tawa	2
+Tawai	2
+Tawaroa	2
+Tawataia	2
+Tawhana	2
+Tay	2
+Te Akau	2
+Te Arero	2
+Te Aroha	2
+Te Aunui	2
+Te Awaawa	2
+Te Awangarara	2
+Te Awapuka	2
+Te Ekaou	2
+Te Hiwera	2
+Te Horo	2
+Te Kao	2
+Te Kapa	2
+Te Kura	2
+Te Kuta	2
+Te Mania	2
+Te Mapu	2
+Te Mara	2
+Te Matai	2
+Te Matau	2
+Te Matia	2
+Te Moto Moto	2
+Te Naihi	2
+Te Ngako	2
+Te Ngaru	2
+Te Onepu	2
+Te Pahu	2
+Te Pato	2
+Te Piripiri	2
+Te Pito	2
+Te Puka	2
+Te Puna	2
+Te Puru	2
+Te Rahotaiepa	2
+Te Rereoterangi	2
+Te Rore	2
+Te Ruakokopu	2
+Te Tawa	2
+Te Tiringa	2
+Te Toke	2
+Te Totara	2
+Te Uri	2
+Te Waiiti	2
+Te Waiotukapiti	2
+Te Wairoa	2
+Te Weramata	2
+Te Whaki	2
+Te Wharau or Stony	2
+Teal	2
+Ted	2
+Telford Burn	2
+th Valley	2
+The	2
+The Growler	2
+The Old Man	2
+The Windbag	2
+Theta	2
+Third Waterfall	2
+Thirsty	2
+Thompsons	2
+Thorpe	2
+Thurso	2
+Tiel	2
+Tima Burn	2
+Timahanga	2
+Tipapa	2
+Titipua	2
+Titirangi	2
+Titoki	2
+Toatoa	2
+Tobin	2
+Toetoe	2
+Toitoi	2
+Tokanui	2
+Tokeawa	2
+Tokenui	2
+Tokiahuru	2
+Tokiaminga	2
+Tokitoki	2
+Tokomairiro East	2
+Tokomairiro West	2
+Tommy	2
+Tone	2
+Tongou	2
+Tongue Spur	2
+Top Valley	2
+Toreparu	2
+Torere	2
+Toretorea	2
+Toropuihi	2
+Torrent	2
+Totangi	2
+Tower	2
+Townsend	2
+Townshend	2
+Towy	2
+Trench Burn	2
+Triangle	2
+Trout	2
+Troyte	2
+Trudge	2
+Tuesday	2
+Tuikonga	2
+Tuke	2
+Tukipo	2
+Tummel Burn	2
+Tumutu	2
+Tunakino	2
+Tunakore	2
+Tunapapa	2
+Tunapoto	2
+Turere	2
+Turihaua	2
+Turimawiwi	2
+Turmoil Torrent	2
+Turner	2
+Turnipy	2
+Tussock	2
+Tutaeuaua	2
+Tutoko	2
+Twelve Mile	2
+Twins	2
+Ultima	2
+Umarearea	2
+Umukuri	2
+Umurua	2
+Unknown	2
+Upokongaruru	2
+Upokororo	2
+Upper Okahu	2
+Upper Stony	2
+Upper Waikato	2
+Upton	2
+Uretara	2
+Urquhart	2
+Urukokomuka	2
+Uruti	2
+Utakura	2
+Utawai	2
+Utuhina	2
+Uwhiroa	2
+Vee	2
+Venture	2
+Verter Burn	2
+Vickers	2
+View	2
+Vincent	2
+Von	2
+Waerenga	2
+Waharau	2
+Wahianoa	2
+Wai-waiata	2
+Waianakarua Middle	2
+Waianakarua North	2
+Waiata	2
+Waiatara	2
+Waiatiu	2
+Waiaute	2
+Waicolo	2
+Waihakari	2
+Waihakeke	2
+Waihao	2
+Waihapa	2
+Waihinehine	2
+Waihingaia	2
+Waihoanga	2
+Waihoki	2
+Waihoro	2
+Waikaha	2
+Waikahikatea	2
+Waikaia East	2
+Waikaia West	2
+Waikamihi	2
+Waikanapiti	2
+Waikaramu	2
+Waikarehu	2
+Waikaretaheke	2
+Waikaura	2
+Waikeri	2
+Waikeria	2
+Waikiore	2
+Waikiti	2
+Waikiwi	2
+Waikoau North	2
+Waikoha	2
+Waikokomiko	2
+Waikonini	2
+Waikorea	2
+Waikotikoti	2
+Waikowhai	2
+Waikowhewhe	2
+Waikukupa	2
+Waikumete	2
+Waimahaka	2
+Waimahanga	2
+Waimai	2
+Waimangarara	2
+Waimapu	2
+Waimatau	2
+Waimauku	2
+Waimimi	2
+Waimonga	2
+Waimotu	2
+Waimumu	2
+Waimurupuha	2
+Waingake	2
+Waingawha	2
+Wainikau	2
+Waioakura	2
+Waiokotore	2
+Waiokura	2
+Waiomio	2
+Waiomoko	2
+Waionehu	2
+Waionenui	2
+Waiongaonga	2
+Waiorohi	2
+Waioronuku	2
+Waiotama	2
+Waiotauru	2
+Waiotehue	2
+Waiotia	2
+Waiotira	2
+Waiotukupuna	2
+Waiouru	2
+Waipaheke	2
+Waipahi	2
+Waipakihi	2
+Waipapa North	2
+Waipapakauri	2
+Waipara Middle	2
+Waiparariki	2
+Waipareira	2
+Waiparuparu	2
+Waipatukaka	2
+Waipehi	2
+Waipipi	2
+Waipiro	2
+Waipiropiro	2
+Waipouwerawera	2
+Waipu	2
+Waipuakakaho	2
+Waipungapunga	2
+Waipupu	2
+Waipurapura	2
+Waipurupuru	2
+Wairakatoke	2
+Wairangiora	2
+Wairata	2
+Wairenga	2
+Wairuru	2
+Waitaanga	2
+Waitahaia	2
+Waitaiki	2
+Waitangata	2
+Waitangiroto	2
+Waitangirua	2
+Waitapaua	2
+Waitaria	2
+Waitatapia	2
+Waitawhero	2
+Waitawhiti	2
+Waitekuri	2
+Waitepeka	2
+Waitepuke	2
+Waitetoki	2
+Waitiki	2
+Waitoetoe	2
+Waitohu	2
+Waitoka	2
+Waitomotomo	2
+Waitotoki	2
+Waitotoroa	2
+Waiuku	2
+Waiwarawara	2
+Waiwhakaiho	2
+Waiwhiu	2
+Wakamoekau	2
+Wakapuaka	2
+Wakawaihine	2
+Walkers	2
+Wallace	2
+Walter	2
+Wangaehu	2
+Wangapeka	2
+Waokaramu	2
+Wapiti	2
+Warahoe	2
+Wards	2
+Warren	2
+Warwick	2
+Washbourne	2
+Waterloo Burn	2
+Welcome	2
+Wellshot	2
+Wendon	2
+Werakohuru	2
+Weratupua	2
+Werekino	2
+West	2
+West Ewe Burn	2
+West Matiri	2
+West Waitewaewae	2
+Weydon Burn	2
+Whakaironga	2
+Whakaki	2
+Whakamarino	2
+Whakapai	2
+Whakapapaiti	2
+Whakapara	2
+Whakapipi	2
+Whakapuni	2
+Whakarua	2
+Whakaruatapu	2
+Whakatahine	2
+Whakataki	2
+Whakau	2
+Whakauru	2
+Whakoau	2
+Whangaimoana	2
+Whangamaire	2
+Whangamarino	2
+Whangamata	2
+Whangapoa	2
+Whangawehi	2
+Wharariki	2
+Whareana	2
+Whareato	2
+Whareau	2
+Wharekaunga	2
+Wharerimu	2
+Wharetotara	2
+Wharewera	2
+Wharf	2
+Wharikiraupo	2
+Whatatuna	2
+Whatipu	2
+Whau	2
+Whauwhau	2
+Whawanui	2
+Wheeler	2
+Whekeiro	2
+Whenuakite	2
+White Rock	2
+Whitecoomb	2
+Whitehorn	2
+Whites	2
+Whitewater	2
+Whitneys	2
+Whitnow	2
+Wild Dog	2
+Wild Goat	2
+Wild Natives	2
+Wilkin South	2
+Willberg	2
+Williams	2
+Williamson	2
+Wimbledon	2
+Windy	2
+Winterton	2
+Wither	2
+Wix	2
+Wood	2
+Woodcock	2
+Woolley	2
+Worsley	2
+Wyatt	2
+Yankee	2
+Yard	2
+Yarra	2
+York	2
+Youngs	2
+Zora	2
+Acheson
+Adit
+Ahukuramu
+Akatarawa West
+Akura
+Alabaster
+Alexanders
+Allen Left
+Alpine
+Amphlett
+Anaotehuruhuru
+Anaweka
+Andrew
+Andrew Burn
+Angakakahi
+Anna
+Anslow
+Anstey
+Anticline
+Antony
+Aokaparangi
+Apias
+Aponga Strream
+Apotu
+Araiwhenua
+Arakitahi
+Aranui
+Arapaoa
+Araparera
+Arapoto
+Ararata
+Aratapu
+Archer
+Arcles
+Argument
+Argyle
+Ariki Tuhoe
+Armour
+Armstrong
+Army
+Arnott Water
+Arnst
+Atuatumoe
+Aulds
+Aurere
+Awakaponga
+Awangarara
+Awapiripiri
+Awatapu
+Awatotara
+Awe Burn
+Awhea
+Ayr
+Backstair
+Baigent
+Baigent Valley
+Balguerie
+Balloon Loop
+Barbours
+Barnard
+Barney
+Bartley
+Baton
+Becks
+Bee Burn
+Belfield
+Benson
+Bernard Burn
+Berry
+Bettne
+Biddy
+Big Cascade
+Big Muddy
+Big Paddock
+Big Rock
+Big Spur
+Big Wainihinihi
+Billy King
+Billy McCoy
+Birchy Flat
+Birdlings
+Bismark
+Black Angel
+Black Waiaua
+Blackberry Camp
+Blackleugh Burn
+Blacks
+Blind Spur
+Blowfly
+Blue Bell
+Blue Grey
+Blythe
+Boakes
+Boiler
+Boko
+Bond
+Bonnie Jean
+Borneo
+Botany
+Boulder Burn
+Bradley
+Bradshaws
+Brassey
+Breakdown
+Brennans
+Bridal Veil
+Brough
+Brown Grey
+Brunton
+Buchanan
+Buckland
+Buckton
+Buddles
+Bullock Hide
+Bullocks Head
+Bullocks Hide
+Bullrock
+Bund
+Burt
+Butler South
+Buttress
+Buxton
+Cadwallo
+Calf
+Cambridge
+Camp Oven
+Campsaddle
+Candys
+Cannibal
+Canton
+Cantys
+Cardinal
+Carew
+Careys
+Carmichaels
+Carrol
+Carson
+Carsons
+Cedric
+Chain
+Chaney
+Cheeseman
+Chinky
+Chop
+Christian
+Church
+Cirque
+Claybank
+Clunes
+Cobb
+Coes Gully Right
+Coffins
+Coles
+Colour Burn
+Condemned
+Contact
+Content
+Cooleys
+Coquet
+Cordys
+Corkill
+Coronet or Eight Mile
+Coxs
+Cozen
+Craddock
+Cranky
+Crate
+Cron
+Cub
+Culvert
+Cumberland
+Cundy
+Curious
+Currans
+Curry
+Cutter
+Dalziel
+Dandy
+Dandys
+Danger
+Darkest Africa
+Deadmans
+Dearden
+Deep-Down
+Delaney
+Den
+Denas
+Deny
+Detour Rivulet
+Devils Punchbowl
+Dingo
+Director
+Dohertys
+Don
+Donkin
+Donnelly
+Dons Fan
+Dorcy
+Dorset
+Doubtless
+Dougall
+Downey
+Dozy
+Drain
+Drowning
+Drummonds
+Drury
+Dubbo
+Duffy
+Dukes
+Dunston
+Duskes
+Dwarf
+Dyers
+Dyfryn
+Earnscleugh
+East Elm Tree
+East Manuherikia
+East Matiri
+East Waikaia
+East Waitewaewae
+Eclipse
+Edward Burn
+Eglinton East
+Eighty-eight Valley
+Elaine
+Elm Tree
+Elworthy
+Empson
+Enaki
+Epidore Cataract
+Epps
+Epsilon
+Erin
+Evan Roberts
+Even Flow
+Eweburn
+Ewelme
+Fagin
+Fairdown
+Fairy Falls
+False Pass Burn
+Farguhar
+Farguharson
+Farquharson
+Fern Gully
+Ferris
+Fiasco
+Field
+Findlay
+Fire
+First Burn
+Fizzle
+Flag
+Flanagan
+Flodden
+Florence North
+Foible
+Fooks
+Forbes
+Foregone
+Forsythe
+Forty Acre
+Foughey
+Fourth
+Frear
+Frolic
+Fugel
+Furze
+Gabble
+Gala Burn
+Galadriel
+Garden Bush
+Garven
+Gaunt
+Gay
+George Barr
+Gilbert
+Gilchrist
+Gillespies
+Glen Craig
+Glen Rae
+Glenae
+Glenn
+Glenrock
+Gliding
+Glitter Burn
+Glynn Wye
+Goat Burn
+Goat Valley
+Gold Burn East
+Golden Lead
+Goldmine
+Gollans
+Golspie Burn
+Government Clear
+Great Junction
+Greeks
+Green Gate
+Grehan
+Greig
+Greta
+Groom
+Groper
+Gumdigger
+Gun Camp
+Gunboat
+Gus
+Haerengaroa
+Haggart
+Haisty
+Hakanui
+Hakaria Left
+Halcyon
+Hand Setting
+Handcock
+Handyside
+Hanging
+Hangmans
+Haowhenua
+Hapuhinini
+Haro
+Harolds
+Haruru
+Hauarahi
+Haungakakahu
+Hawks Burn South
+Hawks Crag
+Heenans
+Heikaretu
+Hemphills
+Hemsley
+Hercules
+Herepuru
+Hero
+Herrick
+Heslop
+Hester Pinney
+Hidden Burn
+Hidden Rivulet
+Hikauae
+Hikuai
+Hikutamomimomi
+Hinds North
+Hitoki
+Hodgson
+Hogs Back
+Hohoweka
+Holmes
+Hoods
+Hopeful
+Horne
+Horomango
+Horse
+Hospital
+Hostel
+Hou Hou
+Houhouponamu
+Hound Burn
+Houpatero
+Howards
+Howell
+Huhutahi
+Huikomako
+Hukihiki
+Hunahuna
+Hurimoana
+Huripari
+Huruhurumaku
+Hurumangu
+Husband
+Huxley South
+Icicle
+Ihukopiti
+Incense
+Irthing
+Isas
+Iwiroa
+Iwitaua
+Jaffray
+Jail
+Jeanie Burn
+Jess
+Jinks
+Josephson
+Jumble
+Kaeo
+Kahao
+Kaheke
+Kahiki
+Kahoe
+Kahoka
+Kahueomanu
+Kahuhuru
+Kaiarara
+Kaiauai
+Kaikatoa
+Kaikihikihi
+Kaimango
+Kaimokopuna
+Kaingapipi
+Kaingata
+Kaipaore
+Kaipaua
+Kaira
+Kairaki
+Kairangi
+Kairara
+Kairimu
+Kaitimoko
+Kaiwakawe
+Kakaramata
+Kakatarahae
+Kanakanaia
+Kanekane
+Kanikau
+Kapara
+Kaparanui
+Kapuni
+Karamarama
+Karara
+Karihoto
+Kariri
+Karukaruhui
+Kateniha
+Katetoke
+Katikako
+Katora
+Kauaenui
+Kauanga Channel
+Kauetewhakapeke
+Kaukaumoutiti
+Kaumatua
+Kaupi
+Kaurekakanui
+Kaurimu
+Kauwaewaka
+Kawatahuri
+Kawau-iti
+Kawaurukuroa
+Keenans
+Kennaway
+Kent
+Keyes
+Kikaparau
+Kilby
+Kimberley
+Kink
+Kintail
+Kiri
+Kirikiriroa
+Kirikore
+Kiriohineki
+Kirioke
+Kiriraukawa
+Kirita
+Kirklands
+Kirwans
+Kittos
+Kohangaaweka
+Kohikohinui
+Kohiroa
+Kohuamuri
+Kohuratahi
+Kokako o te marama
+Kokakotaia
+Kokakowhaia
+Kokomoka
+Kokopo
+Kokopuiti
+Kokopumatara
+Kokowai
+Komiti
+Kopi
+Kopuawhara
+Kopupu
+Kopuriki
+Kopuwaiu
+Koreronui
+Korokio
+Korokiriroa
+Koromatua
+Korora
+Korotangi
+Kotanemoeroa
+Kouratahi
+Kourawaikapu
+Kowaro
+Kowhare
+Kowhiro
+Kuku
+Kukuta
+Kurarawa
+Kuratawhiti
+Kuriwai
+Kutarere
+Lacebark
+Ladbrook
+Lambie
+Langridge
+Last
+Lawsons
+League
+Leamington
+Left Sherry
+Left-hand Alfred
+Leishmans
+Leo
+Lima
+Limburn
+Limonite
+Little Akatarawa
+Little Bremners
+Little Hohonu
+Little Huia
+Little Kaiwhata
+Little Kokomoko
+Little Omaru
+Little Onahau
+Little Pokororo
+Little Siberia
+Little Stony
+Lodestone
+Longuet
+Lookup
+Lord
+Lucas
+Lumberbox
+Lyall Burn
+Macnamaras
+Madeline
+Magic Water
+Mahoehoe
+Mahoui
+Mahurangi
+Maiden
+Maikuku
+Makahi
+Makahika Left
+Makahika Right
+Makaranui
+Makari
+Makiore
+Makokomiko West
+Makopua
+Makowhai
+Malcolms
+Mallinsons
+Malone
+Manahautoa
+Manakino
+Manaoha
+Manawahiwi
+Manawairihia
+Manawatū Loop
+Manawatuhatuha
+Manga o Ahiroa
+Mangaangawahine
+Mangaatiko
+Mangaeha
+Mangaeniuohou
+Mangaharakekeiti
+Mangahatoto
+Mangahaueo
+Mangahererangi
+Mangahohere
+Mangahoihere
+Mangahoropiti
+Mangahouanga
+Mangahukahuka
+Mangaikakorea
+Mangaiwi
+Mangakarengorengo
+Mangakoiti
+Mangakokopu
+Mangakopara
+Mangakowhiriwhiri
+Mangakurukuru
+Mangamamaku
+Mangamaori
+Mangamauka
+Mangamaunu
+Mangamemiha
+Mangangu
+Manganuitepa
+Manganuku
+Mangaoatua
+Mangaopeka
+Mangaoranga
+Mangaorangi
+Mangaoronga
+Mangaotara
+Mangaotawake
+Mangaowera
+Mangaparuparu
+Mangapohio
+Mangapoi
+Mangapora
+Mangapureo
+Mangapuru
+Mangarakeke
+Mangaroau
+Mangarohe
+Mangarotiti
+Mangaruaki
+Mangataika
+Mangataikehu
+Mangatara
+Mangataratara
+Mangatata
+Mangatawhiti
+Mangatengehu
+Mangatokerau
+Mangatoketoke
+Mangatokiiti
+Mangatui
+Mangatukura
+Mangatuna
+Mangawheroiti
+Mangemange
+Mangos
+Manoao
+Mantell
+Manu
+Manukaroa
+Maramahopu
+Maramarua
+Marcus
+Margaret
+Marian
+Maringana
+Markhams
+Maroheno
+Maru Pakoko
+Marumaruaitu
+Marys
+Massich
+Mataia
+Mataiaponga
+Matakawau
+Mataki
+Matakororo
+Matamata
+Matanganui
+Matangia
+Mataora
+Matatoki
+Matemate
+Mathews
+Matikara
+Matt
+Maukuroa
+Maungahaumia
+Maungahuka
+Maungakotukutuku
+Maungatukurangi
+Maungatungaroa
+Maungawhio
+McChesney
+McConnochies
+McDermotts
+McEntee
+McGuires
+McHardy
+McKinney
+McLays
+McPhee
+McQuilkans
+McQuillan
+McWhirter
+Median
+Mick O'Day
+Middy
+Mill Arm
+Millington
+Milner Ice
+Minarapa
+Minehans
+Miniapakara
+Miranda
+Mirza
+Mishap
+Modic
+Mohitonui
+Mohoanui
+Moirs
+Mokoiwi
+Mokomokomo
+Molar
+Monckburn
+Moneroa
+Mongana
+Monro Mistake
+Monros
+Monts
+Morearea
+Mororimu
+Mortimer
+Motatapu North
+Motoa
+Motupaua
+Motutangi
+Moukoro
+Mowbray
+Muhunoa
+Muriel
+Murrays
+Musgrave
+Nant
+Narrow Neck
+Narrows
+Nathan
+Naumai
+Neiman
+Nellies
+Nemona
+Newman
+Newtons
+Ngahere
+Ngaiotonga
+Ngaire
+Ngakarapu
+Ngakaroro
+Ngakotana
+Ngamahangatiwaiwaka
+Ngapeke
+Ngapohoi
+Ngararanui
+Ngaroma
+Ngatuhoa
+Ngatupaku
+Ngaue
+Ngawakaakauae
+Ngawakapatiki
+Ngutu
+Ngutunui
+Ngutuoha
+Nightfall
+Nihotupu
+Nikauponuponu
+Nitz
+Nobbler
+Norris
+North Kowai
+North Mangatewai
+North Mathias
+North Mitre
+North Otakaramu
+North Waipara
+North West
+Northburn
+Norths
+Norton
+Oakley
+Oapa
+Oararo
+Oariki
+Ohae
+Ohaupara
+Ohewa
+Ohiawhakainga
+Ohietapu
+Ohika-nui
+Ohiku
+Ohinekoao
+Ohinenaenae
+Ohiramoko
+Ohiritoa
+Ohoni
+Ohore
+Ohuraiti
+Oinu
+Oio
+Okaihau
+Okama
+Okariroa
+Okatarau
+Okau
+Okauai
+Okaura
+Okorango
+Okoroire
+Okorotere
+Okuhu
+Okuku Downs
+Okuku South
+Okuraata
+Okuranui
+Okurukuru
+Olive
+Olivine
+Omahiti
+Omaki
+Omako
+Omaruhaua
+Omatira
+Omaukora
+Omori
+Onahau
+One Speck
+Onetohunga
+Ongange
+Onukutauira
+Ooheno
+Opake
+Opal Pool
+Opareiti
+Oparera
+Opitomoko
+Opokorau
+Opouiti
+Opunua
+Opura
+Opuraho
+Opurana
+Orangiwaewae
+Orapa
+Orepuki
+Organ
+Orira
+Orlando
+Oroko
+Orongomai
+Orrin
+Oruahea
+Oruapuraho
+Oruapuroto
+Oruarangi
+Oruaroa
+Oruatua
+Oruawhiro
+Orupe
+Osborne
+Otai
+Otaiharuru
+Otakoi
+Otamamariri
+Otamatai
+Otamati
+Otanerua
+Otangaue
+Otanguru
+Otauru
+Otautu
+Otawhau
+Otehake East
+Otekura
+Otemakawau
+Otipua North
+Otomaroto
+Otomiro
+Otoro
+Ototoka
+Ototoro
+Otuareiawa
+Otuataka
+Otuatakahi
+Otuhangatoi
+Otukopiri
+Otukua
+Otukura
+Otumou
+Otutaewa
+Otuwhenua
+Otuwheti
+Oukori
+Oumukura
+Ounuora
+Ounutae
+Ourauwhare
+Owaraia
+Owetea
+Owhaia
+Owhakaora
+Owhakatu
+Owhetu
+Ox-tail
+Oxford
+Oykel
+Paekihauraki
+Paengaroa
+Paetawa
+Pahangahanga
+Paherumanihi
+Pahu
+Pahuhu
+Paiakarahi
+Paihere
+Paiherewao
+Paika
+Paikakariki
+Paitu
+Pakanae
+Pakaowatea
+Pakerata
+Pakirikiri
+Pakonga
+Pakonui
+Panemanga
+Panhandle
+Paora
+Papararo
+Paparinga
+Papatane
+Papatapu
+Pape
+Papepeti
+Parahinahina
+Parakahikatea
+Parakanoi
+Parakokoai
+Paramurua
+Pararataio
+Paritutu
+Parnell
+Paruho
+Patanui
+Pateretere
+Patience
+Patten
+Pawsons
+Pay Office
+Pea Soup
+Peacock
+Peat
+Pekahinemata
+Pensini
+Perihi
+Piawa
+Pikiawatea or Blue Duck
+Pikiwi
+Piparika
+Pirau
+Piroa
+Pita
+Plank
+Pleasant Valley
+Plunkett
+Poet
+Pohatuhatununui
+Pohokura
+Pohomihi
+Pohueroro
+Pohutukawa
+Pokaikai
+Pokapoka
+Pokapu
+Pommel
+Pony
+Poplar
+Porika
+Pot Luck
+Potahi
+Potters No
+Potungutungu
+Pouaea
+Pouarua
+Pouawa
+Poupou
+Pourau
+Pouri East
+Pourihia
+Pouto
+Poututu
+Powers
+Pratt
+Pretty
+Princes
+Puanene
+Pug
+Pukaiaia
+Pukekonui
+Pukemanuka
+Pukengaio
+Puketoro
+Punahaere
+Pungaere
+Pungatiki
+Puninga
+Puny
+Pupuia
+Purangirangi
+Putaiti
+Putangi
+Putauhinu
+Puwera
+Racehorse
+Rackstraw
+Raepere
+Rahiteiwi
+Railway Gully
+Rakautihiau
+Raleigh
+Rangitata South Channel
+Rapawhio
+Rapurapu
+Raratuna
+Rarawa
+Rarohenga
+Rata Paddock
+Ratanui
+Ratty
+Rauhori
+Raumanga
+Rauporoa
+Raving Torrent
+Red Beech
+Redington
+Redmond
+Reedy
+Reidys
+Reikorangi
+Remington
+Reremapere
+Reretiti
+Retford
+Rheumatic
+Ribbon
+Right Charwell
+Right Hand Karamea
+Right Johnson
+Right Route Burn
+Right-hand Lochy
+Rika
+Rileys
+Rimanaua
+Rip and Tear
+Riversdale
+Riwaka
+Roaring Billy
+Robyne
+Rochfort
+Rock Point
+Rokeby
+Rokomaiwhaea
+Rome
+Romp Rill
+Romping Water
+Rooney
+Rope
+Rorokuri
+Rorowaiwai
+Rotokakahi
+Rotokoma
+Rotomoho
+Rotowhenua
+Ruahuia
+Ruakinui
+Ruapahau
+Ruapuke
+Ruaturo
+Rubicon Torrent
+Rugged Burn
+Rule
+Rumbling Torrent
+Rushy
+Sabot
+Saint Helena
+Saint Winifred
+Salmonds
+Sandel
+Sapling
+Sawney
+Scandret
+Sclanders
+Scott Burn
+Scotties
+Scramble
+Scrambling
+Seagull
+Searle
+Selby
+Serac
+Sexton
+Seymour or Herring
+Shanty
+Sharks Bay
+Shenandoah South
+Silt
+Simois
+Sinton
+Sir Charles
+Sixty Pound
+Skeat
+Skull
+Slip Panel
+Sludge
+Smart
+Smythe
+Smyths
+Snag
+Snake
+Snowgrass
+Snows
+Solitude Torrent
+Solution
+Soper
+South Elcho
+South Okuku
+South Swin
+South Von
+Sow Burn Main
+Sowburn
+Spargo
+Speciman
+Speedys
+Spence Burn
+Spillers
+Spirit Burn
+Sproules
+Spurtelton
+St Arnaud
+Staggs
+Stags Horn
+Staveley
+Stevens
+Stevens Burn
+Steyning
+Stoat
+Stoeger
+Stone or Stony Burn
+Storeys
+Storm Burn
+Strachan
+Striplands
+Strone
+Struggle
+Sudden Valley
+Supply
+Suspicion
+Sweetheart
+Swindle
+Switchback
+Symmetry
+T L Creek
+Tahone
+Tahunaatara
+Tahunatorea
+Tahuokaretu
+Tahupo
+Taikata
+Taikawakawa
+Taiporutu
+Taiwatawa
+Takahia
+Takahoa
+Takapu
+Takatearea
+Takeke
+Takirau
+Takitaki
+Talus
+Tamatipama
+Tangent
+Tangitarau
+Tangiteoi
+Taokere
+Taotaoroa
+Tapuaenui
+Tapuwaeroa
+Taraketiti
+Taramitimiti
+Tararoa
+Tarawaere
+Target
+Tarndale Severn
+Tarotowhatanga
+Tatahoa
+Tatarariki
+Tate
+Tatua
+Tauhoa
+Taumataria
+Taumatawahine
+Taunamau
+Tauperikaka
+Taurangaiti
+Taurapu
+Tautapawa
+Tautawhiorau
+Tauterei
+Tauwharewera
+Tauwhia
+Tawhia
+Tawhitiwhiti
+Te Ahitaitai
+Te Ahuru
+Te Akakohia
+Te Aramoa
+Te Aratea
+Te Awa
+Te Awa Puka
+Te Awakauae
+Te Awaoteaouhi
+Te Hakono
+Te Huia
+Te Kahuna
+Te Kakea
+Te Kaki
+Te Karamu
+Te Kiwi
+Te Koau
+Te Maari
+Te Mahau
+Te Mimiorakopa
+Te Paraunu
+Te Patiti
+Te Peke
+Te Pini
+Te Pona
+Te Pora
+Te Poro
+Te Poutu
+Te Pueto
+Te Punaotehouhi
+Te Raketukura
+Te Rapaotiawha
+Te Raramahara
+Te Rerekokako
+Te Rerenga
+Te Rerepahake
+Te Rotoouenuku
+Te Ruauka
+Te Tahi
+Te Takai
+Te Teheokarukohe
+Te Umukuri
+Te Waiongatahuna
+Te Waiorapopo
+Te Waiotupuritia
+Te Wairori
+Te Waitangata
+Te Waitemaunga
+Te Waituhi
+Te Wawawahi
+Te Weranga
+Te Whaiti
+Te Whakaironga
+Te Whata Manawanui
+Tekahika
+Tepure
+Tern
+Tertiary
+Tetehakehake
+Tetley
+The Fireman
+Therma
+Thirteen Mile
+Thor
+Tiatia
+Tieke
+Tihema
+Tihi
+Tikoputa
+Tikotiko
+Tikotu
+Tim Burn Left
+Tin Kettle
+Tingling
+Tinkers
+Tinkers Gully
+Tipakuri
+Tiratahi
+Tirihanga
+Tirikahu
+Titau
+Todea
+Toi Toi
+Tokirimaiti
+Tokomairiro
+Tokoreketahi
+Tomahawk
+Tombstone
+Tommys Flat
+Tomotomo
+Tony
+Tore
+Torehape
+Toromiro
+Toropeke
+Tregear
+Trick
+Trilby
+Trilobite
+Truscotts
+Tuapiro
+Tuapu
+Tub
+Tube
+Tucker
+Tuhoatea
+Tukioteao
+Tukitewa
+Tukitukipapa
+Tukutupere
+Tumatakuru
+Tumbledown
+Tumbling Torrent
+Tunaahinekokopu
+Tunawaea
+Tunawaharoa
+Tupapaoa
+Tureporepo
+Turiakina
+Turleys
+Tutaekuri Waimate
+Tutaematai
+Tutaetokatoka
+Tutaki
+Tutuwai
+Tuwhare
+Twelve Mile or Ox Burn
+Two Legged
+Uanui
+Uenuku
+Umukawa
+Union South
+Unuhia
+Upokotakawai
+Upper Mangamate
+Ureroa
+Urumatai
+Uruwaea
+Vane
+Vesta
+Vosper
+W W
+Waero
+Waewaeru
+Wahaoteika
+Wahawerawera
+Wahine
+Wahitapu
+Wahiwaka
+Waiahero
+Waiaiputaka
+Waiakaha
+Waiakaki
+Waiarara
+Waiarumu
+Waiauti
+Waiewe
+Waihapi
+Waiharakeke East
+Waiharakeke West
+Waihekura
+Waiherere
+Waiheuheu
+Waihinakia
+Waihirore
+Waihunga
+Waiinumia
+Waikaikai
+Waikapakapa
+Waikaramarama
+Waikare Taheke
+Waikawa East
+Waikawa West
+Waikeke
+Waikekino
+Waikerei
+Waikerere
+Waikikino
+Waikohe
+Waikuta
+Waikutu
+Waimahaua
+Waimairi
+Waimakomako
+Waimakuku
+Waimanoni
+Waimaruru
+Waimatao
+Waimeharua
+Waimokaikai
+Waingaroa
+Waingatepua Channel
+Wainuitewhara
+Waiohinekaha
+Waiohipa
+Waiohua
+Waioira
+Waiopehu
+Waiopu
+Waiotahu
+Waiotehoanga
+Waiotetakana
+Waiowaka
+Waipaepaeiti
+Waipahi East
+Waipai
+Waipakaru
+Waipapaiti
+Waipapakara
+Waipara South
+Waiparaheke
+Waiparahoaka
+Waipia
+Waipohatuhatu
+Waipokara
+Waipokau
+Waipuahu
+Wairangi
+Wairarapa
+Waireparepa
+Wairewarewa
+Wairore
+Wairoroma
+Wairorouaro
+Waitanoni
+Waitapi
+Waitati
+Waitato
+Waitaukakari
+Waitawake
+Waitehouhi
+Waitekauri
+Waitetahi
+Waitioka
+Waitoitoi
+Waitoke
+Waitoura
+Waiwhakangau
+Waiwhakaurunga
+Waiwhau
+Wakapuni
+Walsh
+Warren Burn
+Watchmaker
+Water of Leith
+Watkin
+Watts
+Webber Falls
+Wekatahi
+Welch
+Werowero
+West Charwell
+West Coopers
+West Mathias
+West Quartz
+Wetherburn
+Whahakaua
+Whainukota
+Whakaea
+Whakairo
+Whakakapua
+Whakangaire
+Whakaoma
+Whakapune
+Whakaraua
+Whakarora
+Whakarotorua
+Whakarukia
+Whakatai
+Whalebone
+Whalers
+Whanaukino
+Whangairehe
+Whangaiterenga
+Whangaiti
+Whangamomona
+Whangarahi
+Whangatete
+Whareatea
+Wharekirauponga
+Wharemate
+Wharepukea
+Wharetiki
+Wharewai
+Wharfedale
+Whatapaka
+Whatatutu
+Whatiwhatiatiraurakau
+Whatta
+Whawharu
+Whelan
+Whenuariki
+Whenuatere
+Whiorau
+Whirligig Torrent
+Whirling Water
+Whitiwhakatara
+Whitiwhiti
+Whittens
+Wigmore
+Wildsheep
+Wilmot
+Wind Pudding
+Windrow
+Windsor
+Windward
+Woodrow Burn
+Woody
+Wratts
+Wyllie
+Wynne Burn
+Yashmak
+Yelverton
+Yeomans
+Young North
+Young South
+Zeilian

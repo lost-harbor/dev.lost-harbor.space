@@ -1,0 +1,5000 @@
+Dries	36
+Molenhoek	24
+Heikant	20
+Hoeksken	20
+Heide	19
+Berg	16
+Hoogstraat	14
+Kruisstraat	14
+Laar	13
+Oosthoek	13
+Bosstraat	12
+Broek	11
+Den Hoek	11
+Boskant	10
+Boterhoek	10
+Bruyère	10
+Marais	10
+Neuville	10
+Bos	9
+Heiken	9
+Hoek	9
+La Bruyère	9
+Mont	9
+Veldhoek	9
+Beekstraat	8
+Driehoek	8
+Molenstraat	8
+Stuivenberg	8
+Turkijen	8
+Biest	7
+Broekstraat	7
+Donk	7
+Froidmont	7
+Galgenberg	7
+Grote Heide	7
+Hemelrijk	7
+Kruisweg	7
+Les Baraques	7
+Moleneinde	7
+Quesnoy	7
+Steenberg	7
+Boshoek	6
+Doorn	6
+Groenstraat	6
+Heihoek	6
+Hulst	6
+Keiberg	6
+Kerkstraat	6
+Langestraat	6
+Les Bruyères	6
+Linde	6
+Molenberg	6
+Nachtegaal	6
+Paradis	6
+Quatre Vents	6
+Vijfhuizen	6
+Vogelzang	6
+Zevekote	6
+Boekhout	5
+Bredestraat	5
+Broekkant	5
+Chaumont	5
+De Donk	5
+Den Berg	5
+Drie Koningen	5
+Fays	5
+Fontenelle	5
+Ganzendries	5
+Grand Marais	5
+Heieinde	5
+Kasteelhoek	5
+Les Trieux	5
+Lindenhoek	5
+Lo	5
+Meer	5
+Meerstraat	5
+Molenheide	5
+Rot	5
+Sainte-Anne	5
+Schoot	5
+Sluis	5
+Terlinden	5
+Trieux	5
+Veldeken	5
+Veldstraat	5
+Voort	5
+Zand	5
+Achterheide	4
+Achterhoek	4
+Beaumont	4
+Beauregard	4
+Beek	4
+Beekkant	4
+Belle Vue	4
+Bergen	4
+Bergstraat	4
+Bloemendaal	4
+Boekt	4
+Briel	4
+Bruyères	4
+Den Heuvel	4
+Eekhout	4
+Elst	4
+Gestel	4
+Heuvel	4
+Hoeven	4
+Hoge	4
+Hubermont	4
+Klein Gent	4
+Knok	4
+Knokke	4
+Kortekeer	4
+Kruis	4
+Kruishoek	4
+L'Ermitage	4
+La Baraque	4
+La Croisette	4
+La Folie	4
+La Maladrie	4
+La Rochette	4
+Le Sart	4
+Leihoek	4
+Les Forges	4
+Locht	4
+Longchamps	4
+Motte	4
+Moulin	4
+Oneux	4
+Oppem	4
+Opstal	4
+Overbroek	4
+Rivage	4
+Rooigem	4
+Sartiau	4
+Stokt	4
+Terhagen	4
+Trou du Bois	4
+Vaux	4
+Veeweide	4
+Vijfwegen	4
+Voorde	4
+Werihet	4
+Westhoek	4
+Wolvenhoek	4
+Zuidhoek	4
+Aalst	3
+Andrimont	3
+Assenois	3
+Berchem	3
+Beveren	3
+Blauwenhoek	3
+Bon Air	3
+Bossen	3
+Brand	3
+Bril	3
+Broekzijde	3
+Brouck	3
+Bruul	3
+Celles	3
+Charneux	3
+Chêne	3
+Clermont	3
+Commune	3
+Cornet	3
+Coron	3
+Coucou	3
+Crèvecoeur	3
+Culot	3
+Daal	3
+De Bist	3
+De Hel	3
+De Kat	3
+Den Daal	3
+Dijk	3
+Doren	3
+Duivelshoek	3
+Ede	3
+Eikhoek	3
+En Haut	3
+Famenne	3
+Faubourg	3
+Faubourg de Mons	3
+Fayt	3
+Forest	3
+Foy	3
+Fraiture	3
+Gentstraat	3
+Glabbeek	3
+Goor	3
+Halle	3
+Halleux	3
+Ham	3
+Hamme	3
+Hannekenshoek	3
+Heisbroek	3
+Het Zand	3
+Heze	3
+Hoeve	3
+Houtaing	3
+Houtem	3
+Kaleshoek	3
+Kalishoek	3
+Kapelhoek	3
+Kapellen	3
+Klein Frankrijk	3
+Kouter	3
+Krekelberg	3
+L'Épine	3
+La Boverie	3
+La Chaussée	3
+La Croix	3
+La Hutte	3
+La Motte	3
+La Neuville	3
+La Sarte	3
+La Saute	3
+Lavaux	3
+Le Chêne	3
+Le Culot	3
+Le Fays	3
+Le Marais	3
+Les Communes	3
+Les Croisettes	3
+Les Géronsarts	3
+Les Grands Prés	3
+Les Monts	3
+Les Trixhes	3
+Leuze	3
+Meerskant	3
+Meir	3
+Meldert	3
+Meren	3
+Meuleken	3
+Meulewijk	3
+Molenkouter	3
+Molenveld	3
+Mon Plaisir	3
+Monceau	3
+Muizenhol	3
+Nazareth	3
+Nederstraat	3
+Neerstraat	3
+Neffe	3
+Nieuwdorp	3
+Nieuwenhove	3
+Nieuwland	3
+Nieuwpoort	3
+Noordhoek	3
+Notelaar	3
+Ophoven	3
+Oude Baan	3
+Petite Hollande	3
+Poel	3
+Point du Jour	3
+Porcheresse	3
+Rechtstraat	3
+Rode	3
+Rooie	3
+Ruisbroek	3
+Saint-Lambert	3
+Saint-Pierre	3
+Saint-Remy	3
+Schoonaarde	3
+Schriek	3
+Sint-Anna	3
+Sint-Joris	3
+Steenbrugge	3
+Steenweg	3
+Ster	3
+Sterhoek	3
+Stoquoi	3
+Strateneinde	3
+t Hoeksken	3
+Ten Ede	3
+Triest	3
+Trieu	3
+Valk	3
+Veld	3
+Veldhoven	3
+Veldkant	3
+Verlaine	3
+Vijfwege	3
+Vossenhol	3
+Waterkant	3
+Weert	3
+Willekensberg	3
+Zandstraat	3
+Zavelberg	3
+Aart	2
+Abele	2
+Al Bèyoûle	2
+Alvaux	2
+Amblève	2
+Andoumont	2
+Appelhoek	2
+Arbre	2
+Asse	2
+Attenhoven	2
+Aulnois	2
+Autreppe	2
+Aux Grosses Pierres	2
+Baal	2
+Baalheide	2
+Bauche	2
+Beaurieux	2
+Beekhoek	2
+Beer	2
+Béguinage	2
+Beke	2
+Bel Air	2
+Belair	2
+Belle Fontaine	2
+Bellefontaine	2
+Bellevaux	2
+Bellevue	2
+Beloeil	2
+Belven	2
+Bende	2
+Béolette	2
+Berendries	2
+Berg op Zoom	2
+Bergom	2
+Bergwijk	2
+Beringen	2
+Berken	2
+Bernimont	2
+Bernum	2
+Bethléem	2
+Beurs	2
+Bever	2
+Bevingen	2
+Biron	2
+Bist	2
+Blaasberg	2
+Blauwe Sluis	2
+Blekte	2
+Boekendries	2
+Boekhoute	2
+Boembeke	2
+Bois	2
+Bolsée	2
+Bomal	2
+Bonnerue	2
+Bontestraat	2
+Borgerhout	2
+Borgt	2
+Boseind	2
+Boseinde	2
+Bosheide	2
+Boshoven	2
+Bossière	2
+Bossuit	2
+Bost	2
+Bosveld	2
+Bouchaille	2
+Bourdon	2
+Bourgogne	2
+Bovenhoek	2
+Braambeierhoek	2
+Bracht	2
+Brandhoek	2
+Brandstraat	2
+Bras	2
+Broekem	2
+Broeken	2
+Bruggewijk	2
+Brugsken	2
+Buda	2
+Buisson	2
+Buret	2
+Burg	2
+Burkel	2
+Bussegem	2
+Buzet	2
+Castillon	2
+Cerfontaine	2
+Champ du Bois	2
+Champagne	2
+Champion	2
+Chantraine	2
+Chapelle	2
+Chaussée	2
+Cheneux	2
+Chenois	2
+Chession	2
+Cocriamont	2
+Consy	2
+Corbeau	2
+Corbion	2
+Cortil	2
+Culot du Bois	2
+De Broeken	2
+De Haan	2
+De Hees	2
+De Heide	2
+De Hoeven	2
+De Hulst	2
+De Kluis	2
+De Maat	2
+De Meren	2
+De Riet	2
+De Vijvers	2
+Den Dries	2
+Den Hoorn	2
+Den Hout	2
+Den Hul	2
+Deurne	2
+Dieu le Garde	2
+Doornhoek	2
+Doorntje	2
+Dorent	2
+Dormaal	2
+Drie Linden	2
+Drijhoek	2
+Dronkaard	2
+Dumberg	2
+Durmen	2
+Eekhoutdries	2
+Eenhoorn	2
+Egypten	2
+Eigen	2
+Eiland	2
+Einde	2
+Eindeken	2
+Evergem	2
+Faubourg de Bruxelles	2
+Fawes	2
+Fécher	2
+Fechereux	2
+Ferrières	2
+Fonteintje	2
+Fontenoy	2
+Forêt	2
+Fraineux	2
+Francesse	2
+Gaver	2
+Gay	2
+Geite	2
+Genenbos	2
+Gennevaux	2
+Gerhagen	2
+Gerheide	2
+Geuzenhoek	2
+Gives	2
+Givry	2
+Gochenée	2
+Gooreind	2
+Gooreinde	2
+Grand Rejet	2
+Grand Trieu	2
+Grands Sarts	2
+Grauwensteen	2
+Groenendijk	2
+Groenenhoek	2
+Gros Chêne	2
+Gros-Fays	2
+Grosse Haie	2
+Groteheide	2
+Gucht	2
+Haag	2
+Haantje	2
+Haies	2
+Hal	2
+Hameau	2
+Hampteau	2
+Haren	2
+Hasselt	2
+Haut Doux	2
+Haut Hameau	2
+Haut Rejet	2
+Haute Bise	2
+Haute Rue	2
+Havelange	2
+Hazewind	2
+Heerle	2
+Hegge	2
+Heiblok	2
+Heidekant	2
+Heiveld	2
+Heizijde	2
+Hemptinne	2
+Herbois	2
+Herchies	2
+Herent	2
+Het Heiken	2
+Het Laar	2
+Het Sas	2
+Het Ven	2
+Heusden	2
+Hoef	2
+Hoeke	2
+Hoekstraat	2
+Hoenrik	2
+Hofstade	2
+Hoge Heide	2
+Hogen	2
+Hogenweg	2
+Holbeek	2
+Holland	2
+Hollebeek	2
+Holven	2
+Hondseinde	2
+Hoogeinde	2
+Hooidonk	2
+Houte	2
+Houtenkruis	2
+Houwaart	2
+Hoves	2
+Hulzen	2
+Humbeek	2
+Hünningen	2
+Huttegem	2
+Isschot	2
+Itterbeek	2
+Jabbeke	2
+Jamagne	2
+Jeneffe	2
+Juzaine	2
+Kalenberg	2
+Kalkhoven	2
+Kalve	2
+Kapelleveld	2
+Kaphoek	2
+Karmhoek	2
+Kaster	2
+Kauwenberg	2
+Keizerhoek	2
+Kemphoek	2
+Kerrebroek	2
+Kezelberg	2
+Klei	2
+Kleie	2
+Kleinenberg	2
+Kleinendries	2
+Kleistraat	2
+Klijthoek	2
+Koekelberg	2
+Koekhoven	2
+Koestaart	2
+Kolenberg	2
+Koornbloem	2
+Kortenbos	2
+Kortewilde	2
+Kraaiberg	2
+Krabbenhoek	2
+Kromveld	2
+Kruisberg	2
+Kruisken	2
+Kwadebrug	2
+Kwadestraat	2
+L'Alouette	2
+L'Aulnois	2
+L'Enfer	2
+La Bouverie	2
+La Carrière	2
+La Cavée	2
+La Chapelle	2
+La Fosse	2
+La Garenne	2
+La Gottale	2
+La Haie	2
+La Loge	2
+La Louvière	2
+La Planche	2
+La Tombe	2
+La Vallée	2
+La Vaux	2
+La Warte	2
+Laloux	2
+Lambermont	2
+Lampernisse	2
+Langemunte	2
+Langenhoek	2
+Langveld	2
+Latour	2
+Le Berceau	2
+Le Chapitre	2
+Le Coucou	2
+Le Faubourg	2
+Le Pachis	2
+Le Paradis	2
+Le Renard	2
+Lede	2
+Ledeberg	2
+Leemput	2
+Leemputten	2
+Leenstraat	2
+Leikant	2
+Lembeke	2
+Les Alloux	2
+Les Auges	2
+Les Burettes	2
+Les Comognes	2
+Les Culots	2
+Les Haies	2
+Les Haiettes	2
+Les Marais	2
+Les Quartiers	2
+Les Queues	2
+Les Roches	2
+Les Sarts	2
+Liberchies	2
+Lichtervelde	2
+Liebroek	2
+Liefkenshoek	2
+Ligny	2
+Lillo	2
+Limont	2
+Lindeken	2
+Linden	2
+Lindestraat	2
+Linkebeek	2
+Lint	2
+Linthout	2
+Liroux	2
+List	2
+Loddershoek	2
+Lokeren	2
+Loneux	2
+Longpré	2
+Longueville	2
+Looi	2
+Lorette	2
+Loyers	2
+Maisoncelle	2
+Maladrie	2
+Malaise	2
+Malplaquet	2
+Manage	2
+Mariakerke	2
+Marolle	2
+Marquette	2
+Marteau	2
+Masy	2
+Maubray	2
+Meerbeke	2
+Ménage	2
+Menil	2
+Ménil	2
+Mere	2
+Meulenberg	2
+Millegem	2
+Moerbeke	2
+Moerheide	2
+Moerhoek	2
+Moerstraat	2
+Molen	2
+Molenheiken	2
+Molenwijk	2
+Mon Idée	2
+Mons	2
+Mont Rouge	2
+Montenaken	2
+Montplaisir	2
+Monts	2
+Moorsel	2
+Mormont	2
+Morville	2
+Mosselbank	2
+Mossiat	2
+Mouligneau	2
+Mozet	2
+Muggenberg	2
+Muizen	2
+Nederboelare	2
+Neerhoven	2
+Neerpoorten	2
+Nerenhoek	2
+Neufchâteau	2
+Neufmoulin	2
+Niemandshoek	2
+Nieuwege	2
+Nieuwerkerken	2
+Nieuwstraat	2
+Noordstraat	2
+Noville	2
+Ondank	2
+Onder den Berg	2
+Oostdorp	2
+Oostergem	2
+Oostkerke	2
+Oostveld	2
+Ossogne	2
+Oster	2
+Ottershoek	2
+Oudendijk	2
+Oudenmolen	2
+Outre l'Eau	2
+Over de Beek	2
+Over de Vaart	2
+Overbeke	2
+Overheide	2
+Paddenhoek	2
+Papestraat	2
+Papignies	2
+Paradijs	2
+Pataterhoek	2
+Pelikaan	2
+Peperstraat	2
+Pereboom	2
+Péronnes	2
+Petit Bois	2
+Petit Bruxelles	2
+Petit Lannoy	2
+Petit Sart	2
+Petits Sarts	2
+Philippeville	2
+Pierreux	2
+Plainevaux	2
+Planche	2
+Planken	2
+Plas	2
+Plein	2
+Poeleinde	2
+Poteau	2
+Presseux	2
+Prindaal	2
+Profond Rieu	2
+Pullaar	2
+Putte	2
+Puttenberg	2
+Quatre Chemins	2
+Quevaucamps	2
+Quièvremont	2
+Rabosée	2
+Ramskapelle	2
+Rancimont	2
+Rattenberg	2
+Recogne	2
+Recq	2
+Regenboog	2
+Reke	2
+Rekkem	2
+Reppe	2
+Rest	2
+Riet	2
+Rijken	2
+Rijkenhoek	2
+Rivière	2
+Ro	2
+Roeselare	2
+Rollé	2
+Romerée	2
+Romont	2
+Ronce	2
+Rooi	2
+Rooien	2
+Roosbeek	2
+Roquette	2
+Rotem	2
+Roumont	2
+Rouveroy	2
+Rouvroy	2
+Rozen	2
+Rozenhoek	2
+Ruy	2
+Ruyff	2
+Sablon	2
+Saint-Antoine	2
+Saint-Denis	2
+Saint-Germain	2
+Saint-Gilles	2
+Saint-Joseph	2
+Saint-Léger	2
+Sainte-Barbe	2
+Sainte-Marie	2
+Salzinnes	2
+Sart	2
+Sauvenière	2
+Scaubecq	2
+Schans	2
+Scheewege	2
+Scherpenberg	2
+Schildeken	2
+Schoor	2
+Schrans	2
+Scry	2
+Sint-Hubertus	2
+Sint-Jan	2
+Sint-Job	2
+Sint-Martensberg	2
+Sint-Pieters-Kapelle	2
+Sivry	2
+Slijkhoek	2
+Slijpstraat	2
+Sluizen	2
+Snephoek	2
+Spinnekens	2
+Sprimont	2
+Stadt	2
+Stampershoek	2
+Steenbergen	2
+Steenstraat	2
+Steentjen	2
+Stéhoux	2
+Steinbach	2
+Stene	2
+Stockem	2
+Stockis	2
+Stokstraat	2
+Strooiendorp	2
+Sur le Thier	2
+Sur les Sarts	2
+t Hoge	2
+Tenberg	2
+Tenbroek	2
+Terbeek	2
+Terdonk	2
+Tereken	2
+Terhand	2
+Terheiden	2
+Terlo	2
+Ternat	2
+Thirimont	2
+Thy	2
+Tielt	2
+Tolhuis	2
+Tombois	2
+Tongerlo	2
+Tournay	2
+Trimpont	2
+Tuquet	2
+Turkijenhoek	2
+Uilenberg	2
+Uilenhoek	2
+Varenberg	2
+Varent	2
+Vaudignies	2
+Veedijk	2
+Velaine	2
+Velde	2
+Veldekens	2
+Velm	2
+Vert Coucou	2
+Vierstraat	2
+Vierweegse	2
+Vijfhoek	2
+Villeroux	2
+Vinkenhoek	2
+Vogelenzang	2
+Vossekot	2
+Vossel	2
+Wagnée	2
+Walem	2
+Walenhoek	2
+Wambeek	2
+Warande	2
+Warichaix	2
+Wasmes	2
+Wasseiges	2
+Welden	2
+Weststraat	2
+Weverstraat	2
+Wezel	2
+Wihéries	2
+Wijnendale	2
+Wilderen	2
+Wildert	2
+Winkel	2
+Witgoor	2
+Zandberg	2
+Zande	2
+Zandvliet	2
+Zandvoorde	2
+Zavel	2
+Zillebeke	2
+Zittaart	2
+Zwaan	2
+Zwaantje	2
+Zwartegat	2
+À Clapette
+Aaigem
+Aalbeke
+Aalter
+Aalterbrug
+Aan de Vrenen
+Aan den Steenoven
+Aard
+Aarschot
+Aarsele
+Aartrijke
+Aartselaar
+Abée
+Abeelbroekstraat
+Abolens
+Achel
+Achêne
+Achet
+Achterbist
+Acosse
+Acoz
+Adegem
+Adinkerke
+Afnay
+Afsnee
+Agimont
+Aineffe
+Aische-en-Refail
+Aiseau
+Aisemont
+Aisne
+Aix-sur-Cloix
+Aldenhof
+Aldringen
+Alfelaar
+Alken
+Alle
+Alleur
+Almache
+Alsemberg
+Alveringem
+Am Kreuz
+Amay
+Amberloup
+Ambly
+Ambresin
+Amonines
+Amougies
+Ampsin
+Amry
+Andenne
+Anderenbroek
+Anderlecht
+Anderlues
+Andricourt
+Angleur
+Angre
+Angreau
+Anhée
+Anlier
+Anloy
+Annevoie-Rouillon
+Ans
+Anseremme
+Anseroeul
+Ansuelle
+Anthée
+Antheit
+Anthisnes
+Antiémont
+Antoing
+Antwerp
+Anvaing
+Anzegem
+Appels
+Appelterre-Eichem
+Appelveld
+Arbre Saint-Pierre
+Arbrefontaine
+Arc-Ainières
+Archennes
+Ardooie
+Arendonk
+Argenteau
+Arimont
+Arlon
+Armoede
+Arnelle
+Arquennes
+Arsimont
+Arville
+As
+Ascstraat
+Ashoop
+Aspelare
+Asper
+Asquillies
+Asse ter Heide
+Assebroek
+Asselkouter
+Assels
+Assenede
+Assent
+Assesse
+Astene
+Ath
+Athis
+Athus
+Atrin
+Attenrode
+Attert
+Attre
+Au Beulet
+Au Chabet
+Au dessus des Bois
+Au Pape
+Au Rolay
+Au Trou Sauvage
+Aubange
+Aubechies
+Aubel
+Aublain
+Auby
+Auderghem
+Audregnies
+Auf der Wolsch
+Aurheide
+Autelbas
+Autre-Église
+Auvelais
+Aux Alloises
+Aux Communes
+Aux Houx
+Ave-et-Auffe
+Avekapelle
+Avelgem
+Avennes
+Averbode
+Averbodeheide
+Avernas-le-Bauduin
+Aveschoot
+Avin
+Avoortsbrug
+Awagne
+Awans
+Awenne
+Awirs
+Aye
+Ayeneux
+Aywaille
+Azy
+Baaigem
+Baardegem
+Baarle-Hertog
+Baasrode
+Babbelaar
+Babelom
+Bachte-Maria-Leerne
+Baegnée
+Baelen
+Bagimont
+Baileux
+Bailièvre
+Baillamont
+Bailleul
+Bailli
+Baillonville
+Baisieux
+Baisy-Thy
+Bajenrieux
+Bakergem
+Balâtre
+Balegem
+Balen
+Baltenshoek
+Bambrugge
+Bande
+Baneu
+Banterlez
+Baraque de Fraiture
+Barbençon
+Barbinfosse
+Barcène
+Barchon
+Barenberg
+Barisoeul
+Barnich
+Baronville
+Barry
+Barse
+Barvaux
+Barvaux-Condroz
+Barzin
+Bas Préau
+Bas-Oha
+Bas-Warneton
+BasCoron
+Basècles
+Basse Fauquez
+Basse Gage
+Basse Lasne
+Basse Rue
+Basse-Bodeux
+Bassenge
+Bassevelde
+Bassije
+Bassilly
+Bastogne
+Batsheers
+Battel
+Battice
+Baudelo
+Baudemont
+Baudeset
+Baudour
+Baudoux
+Baudrihaye
+Bauffe
+Baugnies
+Baulers
+Bautenshoek
+Bauwenskouter
+Bavegem
+Baverijk
+Bavikhove
+Bazel
+Beau Plateau
+Beaufays
+Beauraing
+Beausaint
+Beauvechain
+Beauwelz
+Béclers
+Beerendonk
+Beerlegem
+Beernem
+Beerse
+Beersel
+Beerst
+Beert
+Beervelde
+Beerzel
+Beez
+Beffe
+Begaarden Berg
+Begijnendijk
+Behême
+Beho
+Beigem
+Beignée
+Bekegem
+Bekenhol
+Bekkerzeel
+Bekkevoort
+Belgrade
+Bellaire
+Belle Eau
+Belle Tête
+Bellecourt
+Bellegem
+Bellegrade
+Bellem
+Belleva
+Bellevaux-Ligneuville
+Bellingen
+Belloi
+Belsele
+Bemel
+Ben-Ahin
+Beneck
+Benedenheide
+Bensberg
+Berbroek
+Berchem-Sainte-Agathe
+Bercheux
+Bergerven
+Bergheide
+Bergilers
+Beringen Mijnen
+Bérisménil
+Berlaar
+Berlare
+Berlingen
+Berlotte
+Berloz
+Berneau
+Bernissart
+Bernistap
+Bersillies-l'Abbaye
+Bertem
+Berteneinde
+Berthaumont
+Bertinchamps
+Bertogne
+Bertrée
+Bertrix
+Berzée
+Beselare
+Betekom
+Bethomée
+Bettincourt
+Beurt
+Beuzet
+Bevel
+Bévercé
+Beverdonkse Heide
+Bevere
+Beveren-Leie
+Beverlo
+Beverst
+Beyne-Heusay
+Biegter Weerd
+Bienne-lez-Happart
+Bienonsart
+Bierbeek
+Biercée
+Bierges
+Bierghes
+Bierset
+Bierwart
+Biesme
+Biesme-sous-Thuin
+Biesmerée
+Biesthoek
+Bietrin Creux
+Bièvre
+Biez
+Biezendries
+Bihain
+Bijstirstraat
+Bijvoorde
+Bikschote
+Bilstain
+Bilzen
+Binche
+Binderveld
+Bingelberg Flog
+Binkom
+Bioul
+Biourge
+Birel
+Birk
+Birken
+Birkhahns Kopf
+Bisschophoek
+Bissegem
+Bisweg
+Bizencourt
+Bizory
+Blaasveld
+Blaimont
+Blairon
+Blakkeveld
+Blandain
+Blanden
+Blankenberge
+Blaregnies
+Blaton
+Blaugies
+Blauwberg
+Blauwput
+Blégny
+Bléharies
+Blehen
+Bleid
+Blekkom
+Bleret
+Bleu Rieu
+Blicquy
+Blier
+Blindef
+Bloempot
+Blokt
+Bocholt
+Bocht
+Bodaimont
+Bodange
+Boechout
+Boekenberg
+Boekmolen
+Boelehoel
+Boëlhe
+Boerenhol
+Boesberg
+Boezinge
+Bogaarden
+Bohan
+Bohissaux
+Boignée
+Boirs
+Bois d'Enghien
+Bois d'Horrues
+Bois de Chin
+Bois de Goesnes
+Bois de Villers
+Bois-d'Haine
+Bois-de-Lessines
+Bois-de-Villers
+Bois-et-Borsu
+Bojaban
+Boksheide
+Bokstraat
+Bolignies
+Bolinne
+Bolland
+Bombaye
+Bommelhoek
+Bommels
+Bommershoven
+Bon Conseil
+Bon-Secours
+Bonance
+Boncelles
+Boneffe
+Bonheiden
+Boninne
+Bonlez
+Bonnert
+Bonneville
+Bonsin
+Booien
+Booienhoven
+Booischot
+Booitshoeke
+Boom
+Boomlaar
+Boonhoek
+Boorsem
+Boortmeerbeek
+Borchtlombeek
+Borglever
+Borgloon
+Borgoumont
+Borlez
+Borlo
+Borlon
+Bormenville
+Bornem
+Bornival
+Borsbeek
+Borsbeke
+Borzée
+Bosmolens
+Bosson
+Bossut-Gottechain
+Boterdaal
+Boterlaar
+Bothey
+Botselaar
+Bottelare
+Bouffioulx
+Bouge
+Bougnies
+Bougnimont
+Bouillenne
+Bouillon
+Bouleng
+Bourang
+Bourjeusel
+Bourleau
+Bourlers
+Bourseigne-Neuve
+Bourseigne-Vieille
+Boussemont
+Boussoit
+Boussu
+Boussu-en-Fagne
+Boussu-lez-Walcourt
+Bousval
+Boutersem
+Bouton Rouge
+Boutonville
+Bouvignes-sur-Meuse
+Bouvignies
+Bouwel
+Bouy
+Bovekerke
+Bovenistier
+Bovenwezet
+Bovesse
+Bovigny
+Bra
+Brach Kopf
+Bracquegnies
+Braffe
+Braibant
+Braidise
+Braine-l'Alleud
+Braine-le-Château
+Braine-le-Comte
+Braives
+Brakel
+Branchon
+Brandemanstraat
+Braques
+Brasel
+Brasmenil
+Brasschaat
+Bray
+Brecht
+Brede Rijt
+Bredene
+Bredensteger
+Bree
+Breedbroek
+Breedveld
+Breendonk
+Breestraten
+Breissem
+Breitfeld
+Bremstraat
+Bressoux
+Bretheide
+Breuvanne
+Briansart
+Brielen
+Brigaude
+Briqueterie
+Briscol
+Broechem
+Broekom
+Broeseind
+Bronromme
+Brooiseinde
+Brugelette
+Brugge
+Bruinenbaard
+Bruinleegte
+Brukom
+Brûly
+Brûly-de-Pesche
+Brunehault
+Brussegem
+Brussels
+Brustem
+Bruyelle
+Bruyère à la Croix
+Bruyère des Berlus
+Bruyère Polvée
+Brye
+Buchelbusch
+Budingen
+Bue
+Bufat
+Buggenhout
+Buissenal
+Buisseret
+Buissonville
+Buitenland
+Buitenste Einde
+Buizingen
+Buken
+Bukenberg
+Bullange
+Bulskamp
+Bulsom
+Bunsbeek
+Burcht
+Burdinne
+Bure
+Burgerhout
+Burgmolen
+Burst
+Bury
+Busseboom
+Busselkens
+Bussemeersen
+Butgenbach
+Buvange
+Buvingen
+Buvrinnes
+Buzenol
+Buzin
+Cabij
+Calhuyère
+Callenelle
+Calonne
+Cambron-Casteau
+Cambron-Saint-Vincent
+Canger
+Canteleux
+Carlsbourg
+Carnières
+Casteau
+Cauderlo
+Cawette
+Celli
+Cerexhe-Heuseux
+Céroux-Mousty
+Cetturu
+Chabreliez
+Chaineux
+Chairière
+Chalet
+Champ des Lièvres
+Champia
+Champiomont
+Champlon
+Champs Saint-Remy
+Chanly
+Chant d'Oiseaux
+Chantemelle
+Chaos
+Chapelle Sainte-Anne
+Chapelle-à-Oie
+Chapelle-à-Wattines
+Chapelle-lez-Herlaimont
+Chapon-Seraing
+Charleroi
+Chassepierre
+Chastre-Villeroux-Blanmont
+Chastrès
+Château Renaud
+Châtelet
+Châtelineau
+Châtillon
+Chaudfontaine
+Chaumont-Gistoux
+Chaurnaille
+Chaussée-Notre-Dame-Louvignies
+Chênée
+Chênet
+Cheneumont
+Cheniat
+Chensée
+Cherain
+Cheratte
+Chercq
+Chevenia
+Chevetogne
+Chevron
+Chièvres
+Chimay
+Chiny
+Chiversoux
+Chokier
+Cielle
+Ciergnon
+Ciney
+Ciplet
+Ciply
+Clabecq
+Clachoire
+Clairefontaine
+Claminforge
+Claquedent
+Clarisse
+Clavier
+Clermont-sous-Huy
+Clochimont
+Cognelée
+Coin du Haut
+Colfontaine
+Colmst
+Colrin
+Comblain-au-Pont
+Comblain-Fairon
+Comines
+Commanster
+Commont
+Conneux
+Contranhez
+Coq d'Agache
+Coquiane
+Corbais
+Cordes
+Corenne
+Cornelle
+Cornesse
+Cornimont
+Coron de Blaugies
+Corroy-le-Château
+Corroy-le-Grand
+Corsal
+Corswarem
+Cortenbroek
+Cortil-Noirmont
+Cortil-Wodon
+Côte Champion
+Couillet
+Cour
+Cour-sur-Heure
+Courcelles
+Courrière
+Cours d'Eau
+Court-Saint-Étienne
+Couthuin
+Coutisse
+Couture-Saint-Germain
+Couvin
+Cowa
+Craasbeek
+Crahiat
+Cras-Avernas
+Crawhez
+Crehen
+Crisnée
+Croisissart
+Croix Berck
+Croix de Pierre
+Croix-lez-Rouveroy
+Crombach
+Croquy
+Crupet
+Cuesmes
+Cugnon
+Cul du Q'vau
+Cul-des-Sarts
+Culot des Trippes
+Cuquegnies
+Custinne
+D'Hogelinden
+Daalgrimbie
+Daalheide
+Daasdonk
+Dadizele
+Dadizelehoek
+Dailly
+Daknam
+Dal
+Dalhem
+Damme
+Dampicourt
+Dampremy
+Damsheide
+Dansaert
+Darion
+Dasselt
+Daumont
+Daussois
+Daussoulx
+Dave
+Daverdisse
+Davilia
+De Bank
+De Barreel
+De Beer
+De Brabander
+De Brand
+De Dale
+De Hagendoren
+De Hoesten
+De Hoeve
+De Klampen
+De Klijte
+De Klinge
+De Knip
+De Lint
+De Meiboom
+De Moeren
+De Nachtegaal
+De Panne
+De Pinte
+De Plein
+De Pleine
+De Roten
+De Schommen
+De Valen
+De Voort
+De Wallen
+De Wateringen
+Debboutshoek
+Deerlijk
+Deftinge
+Deidenberg
+Deiffelt
+Deinze
+Delbart
+Delpré
+Delval
+Den Brand
+Den Doorn
+Den Duivel
+Den Engelsen Hoek
+Den Hauw
+Den Hooie
+Den Koekoek
+Den Meer
+Den Molenberg
+Den Teut
+Denderbelle
+Denderhoutem
+Denderleeuw
+Dendermonde
+Denderwindeke
+Denée
+Dennewinkel
+Dentergem
+Dergneau
+Derrière Champmont
+Derrière le Chêne
+Desnié
+Dessel
+Desselgem
+Destelberg
+Destelbergen
+Desteldonk
+Deurle
+Deux-Acren
+Dhuy
+Diedonken
+Diegem
+Diepenbeek
+Diepenbroek
+Diepert
+Diest
+Diets-Heur
+Dieu de Pitié
+Dikkebus
+Dikkele
+Dikkelvenne
+Diksmuide
+Dilbeek
+Dilsen
+Dinant
+Dion
+Dion-le-Mont
+Dion-le-Val
+Dison
+Dochamps
+Dode Manhoek
+Doel
+Dohan
+Doiceau
+Doische
+Dolembreux
+Dolhain
+Donceel
+Donderslagse Heide
+Dongelberg
+Donstiennes
+Doornlaar
+Dorinne
+Dornerheide
+Dorperbroek
+Dorsel
+Dottignies
+Dour
+Dourbes
+Draaibank
+Dranouter
+Dréhance
+Dreihütten
+Drengel
+Drie Eiken
+Drie Schouwen
+Driegoten
+Driekoningen
+Drielinden
+Driesch
+Driesele
+Drieslinter
+Driestenbroek
+Drieweg
+Drinkeling
+Drogenboom
+Drogenbos
+Drogenbroodhoek
+Drogentap
+Drongen
+Drubant
+Druimeren
+Dubbeek
+Dudzele
+Duffel
+Duikeldam
+Duinberg
+Duisburg
+Duras
+Durbuy
+Dürler
+Durnal
+Dworp
+Eben-Emael
+Ebly
+Écaussinnes-d'Enghien
+Écaussinnes-Lalaing
+Echerennes
+Eclaye
+Edegem
+Edelare
+Eekhoek
+Eeklo
+Eekstraat
+Eernegem
+Eerselingen
+Eerstestraat
+Eetsvelde
+Egem
+Egemkapel
+Eggewaartskapelle
+Éghezée
+Ehein
+Eienbroek
+Eigenbilzen
+Eikant
+Eikelbos
+Eikevliet
+Eiksken
+Eiliboshoek
+Eindhout
+Eine
+Eisden
+Eke
+Ekeren
+Ekestraat
+Ekkelberg
+Eksaarde
+Eksel
+Ekstergoor
+El Hena
+Elbeek
+Elen
+Elene
+Elewijt
+Eliksem
+Elingen
+Ellemelle
+Ellezelles
+Ellignies-Sainte-Anne
+Ellikom
+Elmotte
+Élouges
+Elsegem
+Elsemheide
+Elsenborn
+Elshout
+Elvaux
+Elverdinge
+Elversele
+Embeke
+Emblem
+Embourg
+Emelgem
+Emeville
+Émines
+Emptinnal
+Emptinne
+En Sterre
+Ename
+Ene
+Engel
+Engelmanshoven
+Enghien
+Engis
+Engreux
+Enhet
+Énines
+Ensival
+Envoz
+Épinette
+Épinois
+Eppegem
+Éprave
+Erbaut
+Erbisoeul
+Ere
+Erembodegem
+Érezée
+Erlinchamps
+Ermeton-sur-Biert
+Ernage
+Erneuville
+Ernonheid
+Erondegem
+Erpe
+Erpent
+Erpion
+Erps-Kwerps
+Erquelinnes
+Erquennes
+Ertvelde
+Erwetegem
+Es
+Escanaffles
+Esen
+Esneux
+Esplechin
+Esquelmes
+Esquinterie
+Essen
+Essene
+Esser
+Estaimbourg
+Estaimpuis
+Estinnes-au-Mont
+Estinnes-au-Val
+Estrée
+Établissements de Chassart
+Étalle
+Éthe
+Etikhove
+Ettelgem
+Etterbeek
+Eugies
+Eupen
+Évegnée-Tignée
+Evelette
+Everbeek
+Everberg
+Evere
+Everveld
+Evregnies
+Evrehailles
+Eynatten
+Ezemaal
+Fagnolle
+Fagnoul
+Faimes
+Falaën
+Falisolle
+Falize
+Fallais
+Falmagne
+Falmignoul
+Familleureux
+Fantignie
+Farciennes
+Farnières
+Fauchisse
+Fauchy
+Faulx-Les Tombes
+Fauroeulx
+Fauvenal
+Fauvillers
+Faux
+Favauge
+Fayat
+Faymonville
+Fays-les-Veneurs
+Faysgeai
+Fayt-le-Franc
+Fayt-lez-Manage
+Felenne
+Feluy
+Feneur
+Feschaux
+Fétinne
+Fexhe-le-Haut-Clocher
+Fexhe-Slins
+Filot
+Finnevaux
+Fize-Fontaine
+Flamierge
+Flavion
+Flawinne
+Flémalle
+Flémalle-Grande
+Flémalle-Haute
+Flénu
+Fléron
+Fleurus
+Flobecq
+Flône
+Florée
+Floreffe
+Florennes
+Florenville
+Florêt
+Floriffoux
+Flostoy
+Foaranoi
+Focant
+Fodai
+Folx-les-Caves
+Fond de Bataille
+Fond de Bende
+Fond de Malonne
+Fond de Morva
+Fond de Nazieux Fa
+Fond de Scrupiat
+Fond Donnaux
+Fonds de Lavois
+Fonds Gaillards
+Fontaine-l'Évêque
+Fontaine-Valmont
+Fontein
+Fonteni
+Fontenoille
+Fontery
+Fooz
+Forchies-la-Marche
+Forge-Philippe
+Forges
+Forrières
+Fort la Haine
+Fort Leroy
+Forville
+Fosse
+Fosses-la-Ville
+Fosset
+Fostaille
+Fouleng
+Foulerie
+Fourbechies
+Fourneau Philippe
+Fourquepire
+Foxemaat
+Foy-Notre-Dame
+Frainou
+Fraipont
+Fraire
+Frameries
+Framont
+Franbisier
+Franc-Waret
+Franchimont
+Francorchamps
+Frandeux
+Franière
+Frankenbos
+Frankrijkstraat
+Frasnes
+Frasnes-lez-Buissenal
+Frasnes-lez-Gosselies
+Frassem
+Frêne
+Frenoit
+Frera
+Freux
+Freyr
+Frinbuis
+Froid Lieu
+Froidbermont
+Froidchapelle
+Froidfontaine
+Froidheid
+Froidmanteau
+Fronville
+Froyennes
+Fruithout
+Fumal
+Furfooz
+Furnaux
+Gaasbeek
+Gages
+Galgeheide
+Galgestraat
+Gallaix
+Galmaarden
+Gangelberg
+Ganshoren
+Ganzenhoek
+Gapenberg
+Garceau
+Garde-Dieu
+Gasthuis Heide
+Gasthuishoeven
+Gaurain-Ramecroix
+Gavere
+Gaverland
+Gazelle
+Gedinne
+Geel
+Geelberg
+Geer
+Geest-Gérompont-Petit-Rosière
+Geetbets
+Geetsvondel
+Gelategem
+Gelbressée
+Gelinden
+Gelivaux
+Gellik
+Gelrode
+Geluveld
+Geluwe
+Gembes
+Gembloux
+Gemechenne
+Gemeldorp
+Gemenemeers
+Gemmenich
+Genappe
+Geneiken
+Genestier
+Genk
+Genly
+Genoelselderen
+Gent
+Gentbrugge
+Gentinnes
+Genval
+Geraardsbergen
+Gerardsbroich
+Gerdingen
+Gérimont
+Gerin
+Germe au Champ
+Germeer
+Gérompont
+Géronstère
+Gérouville
+Gerpinnes
+Gestru
+Gesves
+Geuzenbos
+Gevaarts
+Gewaai
+Ghislenghien
+Ghlin
+Ghoy
+Gibecq
+Gierle
+Gijverinkhove
+Gijzegem
+Gijzelbrechtegem
+Gijzenzele
+Gilly
+Gimnée
+Gindron
+Gingelom
+Ginhoven
+Ginintreau
+Gistel
+Gits
+Glabais
+Glacenée
+Glain
+Glatigny
+Glaumont
+Gleixhe
+Glimes
+Glons
+Godaroquet
+Godarville
+Godinne
+Godschalk
+Godsheide
+Godveerdegem
+Goé
+Goeferdinge
+Goegnies-Chaussée
+Goesnes
+Goetsenhoven
+Gohissart
+Golzinne
+Gomery
+Gompel
+Gomzé
+Gomzé-Andoumont
+Gondregnies
+Gonoy
+Gonrieux
+Gontrode
+Gooik
+Goorbeek
+Goorheide
+Goot
+Gors-Opleeuw
+Gorsem
+Gospinal
+Gosselies
+Gotem
+Goteringen
+Gottem
+Gottignies
+Goudberg
+Goudinière
+Gougnies
+Gourdinne
+Goutroux
+Gouvy
+Gouy-lez-Piéton
+Gozée
+Grâce-Berleur
+Gracht
+Graide
+Grammene
+Grand Bois
+Grand Coo
+Grand Corty
+Grand Heid
+Grand Houdron
+Grand Mont
+Grand Trixhe
+Grand'Peine
+Grand-Axhe
+Grand-Hallet
+Grand-Halleux
+Grand-Leez
+Grand-Manil
+Grand-Rechain
+Grand-Reng
+Grand-Rosière-Hottomont
+Grande Bruyère
+Grande Eneille
+Grande Fonderie
+Grande Hoursinne
+Grandglise
+Grandhan
+Grandmenil
+Grandmetz
+Grandrieu
+Grandville
+Grandvoir
+Grany
+Grapfontaine
+Grasheide
+Graskamp
+Graty
+Graux
+Grazen
+Gremberg
+Grembergen
+Grez-Doiceau
+Grietjensgalge
+Grimbergen
+Grimminge
+Grimonty
+Grivegnée
+Grobbendonk
+Groene Delle
+Groot Goor
+Groot-Bijgaarden
+Groot-Gelmen
+Groot-Loon
+Gros Tienne
+Grosage
+Grosse Jenesse
+Grote Kievit
+Grote Marijve
+Grote-Brogel
+Grote-Spouwen
+Grotenberge
+Gruitrode
+Grune
+Grüne Höhe
+Grupont
+Guchte
+Guddegem
+Guignies
+Guigoven
+Guirsch
+Gullegem
+Gutschoven
+Haacht
+Haaghoek
+Haaltert
+Haandekot
+Haantjesberg
+Haasdonk
+Haaselbeekstraat
+Haasrode
+Haaszakhoek
+Habay
+Habay-la-Neuve
+Habay-la-Vieille
+Habergy
+Hacboister
+Haccourt
+Hache
+Hachy
+Hacquegnies
+Hadschot
+Haelen
+Haie du Pouhon
+Haie Mayet
+Haillemont
+Haillot
+Haine-Saint-Paul
+Haine-Saint-Pierre
+Hainin
+Hakendover
+Halanzy
+Halconreux
+Halen
+Halensbroek
+Halinsart
+Hallaar
+Halle-Booienhoven
+Hallebast
+Halma
+Halmaal
+Haltinne
+Ham-sur-Heure
+Ham-sur-Heure-Nalinnes
+Ham-sur-Sambre
+Hameau du Patard
+Hameau du Quesnes
+Hamipré
+Hamme-Mille
+Hamoir
+Hamois
+Hamont
+Hamoul
+Han-sur-Lesse
+Handzame
+Haneffe
+Hanieveau
+Hannêche
+Hannonsart
+Hannut
+Hanret
+Hansbeke
+Hanssevelde
+Hantes-Wihéries
+Hanzinelle
+Hanzinne
+Harchies
+Harduemont
+Harelbeke
+Hargimont
+Harinsart
+Harivaux
+Harmignies
+Harnoncourt
+Harre
+Harsin
+Hartenge
+Harveng
+Harzé
+Hasselbroek
+Hasselhoek
+Hastière
+Hastière-Lavaux
+Hastière-par-delà
+Haterbeek
+Hatrival
+Haulchin
+Hauset
+Haut Beaumal
+Haut Bois
+Haut Marais
+Haut Ransbeek
+Haut-Fays
+Haut-Ittre
+Haut-le-Wastia
+Haute Bruyère
+Haute Flône
+Haute Heuval
+Haute Masville
+Haute Sarte
+Hauterue
+Hautrage
+Havay
+Havinnes
+Havissart
+Havré
+Hazelbeek
+Hazenhout
+Hazewindeken
+Hebbe
+Hechtel
+Hechtel-Eksel
+Hédrée
+Heed
+Heek
+Heer
+Heers
+Hees
+Heesakker
+Heesten
+Heestert
+Heesveld
+Heffen
+Heibergen
+Heibloem
+Heid de Spa
+Heide Waasmunster
+Heiderveld
+Heihuizen
+Heikens
+Heikruis
+Heilig Geest Hoek
+Heindonk
+Heinsch
+Heinstert
+Heirweg
+Heisel
+Heisselt
+Heissiehoek
+Heist
+Heist-op-den-Berg
+Heiste
+Hekelgem
+Heks
+Helchteren
+Heldergem
+Helen-Bos
+Helkijn
+Hellebecq
+Hellebrug
+Helschot
+Hemelseschoot
+Hemelveerdegem
+Hemiksem
+Hemmen
+Hendeken
+Hendrieken
+Henis
+Hennuyères
+Henri-Chapelle
+Henripont
+Hensies
+Heppen
+Heppenbach
+Heppignies
+Herbeumont
+Herbuchenne
+Herderen
+Herdersem
+Herdershoek
+Herentals
+Herenthout
+Herfelingen
+Hergenrath
+Hergersberg
+Hérinnes
+Heris
+Herk-de-Stad
+Herleuvaux
+Herlinval
+Hermalle-sous-Argenteau
+Hermalle-sous-Huy
+Hermée
+Hermeton-sur-Meuse
+Herne
+Héron
+Héropont
+Herquegies
+Herseaux
+Herselt
+Herstal
+Herstappe
+Hertain
+Herten
+Hertsberge
+Herve
+Herzele
+Herzogenhügel
+Hestreux
+Het Blak
+Het Fort
+Het Haantjen
+Het Spreet
+Het Varenbroek
+Het Venne
+Het Viswater
+Het Zwin
+Heuem
+Heukelom
+Heule
+Heulendonk
+Heure
+Heure-le-Romain
+Heurne
+Heusy
+Heuvelland
+Heuven
+Hever
+Heverlee
+Hévillers
+Heyd
+Hezemeerheide
+Hill
+Hillegem
+Hingene
+Hingeon
+Hinter dem Ewemt
+Hives
+Hoboken
+Hodeige
+Hodister
+Hody
+Hoefijzer
+Hoegaarden
+Hoeilaart
+Hoekven
+Hoelbeek
+Hoeleden
+Hoepertingen
+Hoeselt
+Hoetsel
+Hoevenen
+Hoever Heide
+Hoevereinde
+Hoeverheide
+Hofland
+Hoge Bist
+Hoge Lenen
+Hoge Seine
+Hoge Zwaanhaard
+Hogeberg
+Hogendries
+Hogeneind
+Hogne
+Hognoul
+Hollain
+Hollange
+Hollebeke
+Hollogne-aux-Pierres
+Hollogne-sur-Geer
+Holsbeek
+Hombeek
+Hombourg
+Hompré
+Homzée
+Hondelange
+Hondzocht
+Honien Platz
+Honnay
+Honsfeld
+Honvelez
+Hoog Kouter
+Hoog Landeken
+Hoogboeregem
+Hoogbutsel
+Hoogkamerstraat
+Hoogkwartier
+Hooglede
+Hoogstade
+Hoogstraten
+Hoogstrop
+Hooie
+Hooirt
+Horendonk
+Horing
+Horion-Hozémont
+Hornu
+Horpmaal
+Horrues
+Hotte
+Hotton
+Houdemont
+Houdeng-Aimeries
+Houdeng-Goegnies
+Houdremont
+Houdt
+Houffalize
+Houlette
+Hour
+Housse
+Houtain-l'Évêque
+Houtain-le-Val
+Houtain-Saint-Siméon
+Houtave
+Houthalen
+Houthem
+Houthulst
+Houtmolen
+Houtvenne
+Houx
+Houyemont
+Houyet
+Hove
+Hoverseinde
+Howardries
+Hubinne
+Huccorgne
+Huilaart Molen
+Huise
+Huiskens
+Huissignies
+Huizingen
+Hukkelberg
+Huldenberg
+Hulleken
+Hullendries
+Hulsbroek
+Hulsen
+Hulshout
+Hulsonniaux
+Hulste
+Humain
+Hundelgem
+Huppaye
+Hurdumont
+Hurlugeai
+Hussevelde
+Hutsepot
+Huy
+Hyon
+Ichtegem
+Iddergem
+Idegem
+Ieper
+Ill
+Immerseel
+Impde
+Impe
+Incourt
+Ingelmunster
+Ingooigem
+Insebois
+Insepré
+Ipenrooy
+Irchonwelz
+Isières
+Isle le Pré
+Isnes
+Itegem
+Ittre
+Ivoz-Ramet
+Ixelles
+Izegem
+Izel
+Izenberge
+Izier
+Jagerij
+Jalhay
+Jallet
+Jambes
+Jamiolle
+Jamioulx
+Jamoigne
+Jandrain
+Jandrain-Jandrenouille
+Jandrenouille
+Jauche
+Jauche la Marne
+Jauchelette
+Jausselette
+Javingue
+Jehay
+Jehonville
+Jemappes
+Jemelle
+Jemeppe-sur-Meuse
+Jemeppe-sur-Sambre
+Jemerée
+Jesseren
+Jette
+Jeuk
+Jodoigne
+Jodoigne-Souveraine
+Jollain-Merlin
+Jonckeu
+Joncquois
+Joncret
+Joustenbuchen
+Julémont
+Jumet
+Jupille-sur-Meuse
+Juprelle
+Jurbise
+Juseret
+Juslenville
+Kaaien
+Kaaskerke
+Kabuis
+Kachtem
+Kaggevinne
+Kain
+Kalfort
+Kalken
+Kallo
+Kalmthout
+Kalmthoutse Hoek
+Kampenhout
+Kamperstraat
+Kamvenhoek
+Kanegem
+Kannaardsheide
+Kanne
+Kantekrooi
+Kapelle-op-den-Bos
+Kapelplaats
+Kaprijke
+Kasteelheide
+Kasterlee
+Katteknok
+Kattenberg
+Kattewegel
+Kaulille
+Kazerne Dossin
+Keelstraat
+Keer
+Keerbergen
+Keerken
+Keerselaar
+Keiem
+Kelle
+Kemexhe
+Kemmeken
+Kemmel
+Kempenseheide
+Kemzeke
+Kerkdries
+Kerkeveld
+Kerkhove
+Kerkom
+Kerkom-bij-Sint-Truiden
+Kerksken
+Kermt
+Kerniel
+Kersbeek-Miskom
+Kessel
+Kessel-Lo
+Kesselt
+Kessenich
+Kester
+Kettenis
+Keumiée
+Keurebeek
+Keustrijk
+Kieldrecht
+Kievermont
+Kievit
+Kijs
+Kinrooi
+Kipdorp
+Klaie
+Klapstraat
+Kleemputten
+Klein Gestel
+Klein Gooreind
+Klein Harelbeke
+Klein Holland
+Klein Hoogveld
+Klein Jeuk
+Klein Looi
+Klein Overlaar
+Klein Sinaai
+Klein Zillebeke
+Klein-Gelmen
+Kleine Heide
+Kleine Hut
+Kleine Meil
+Kleine Vond
+Kleine-Brogel
+Kleine-Spouwen
+Kleinen Haak
+Kleinendijk
+Kleinijssel
+Kleitgat
+Klemheide
+Klemskerke
+Klerken
+Klinkewal
+Klissenhoek
+Klitsberg
+Kluize
+Kluizen
+Knesselare
+Knokke-Heist
+Knolle Hoek
+Kobbegem
+Koeiken
+Koekelare
+Koersel
+Koksijde
+Kokuit
+Kolegem
+Kolliemolenhoek
+Kolmont
+Kolveren
+Komer
+Komerenhoek
+Koningshooikt
+Koninksem
+Kontich
+Kontredam
+Kooigem
+Koolhof
+Koolkerke
+Koolskamp
+Koolstraat
+Koppenberg
+Korbeek-Dijle
+Korbeek-Lo
+Kordaal
+Korteinen
+Kortemark
+Kortenaken
+Kortenberg
+Kortenhoek
+Kortepijp
+Kortessem
+Kortewelvaart
+Kortijs
+Kortrijk
+Kortrijk-Dutsel
+Kottem
+Koudekot
+Kozen
+Kraaigem
+Kraainem
+Krabbos
+Kriekhoek
+Kriephoek
+Krombeke
+Kromme Ham
+Kromphoutdries
+Kronegem
+Kronenhoek
+Kroon
+Kruibeke
+Kruisabeel
+Kruiseke
+Kruisen
+Kruishoutem
+Kruiske
+Kuilen
+Kukelberg
+Kumtich
+Kunsel
+Kuringen
+Kuttekoven
+Kuurne
+Kwaadhoek
+Kwaadmechelen
+Kwaalijkzeg
+Kwade Putten
+Kwade Wegen
+Kwakenbeek
+Kwaremont
+Kwatrecht
+L'Abbaye
+L'Air
+L'Air d'Oiseaux
+L'Écluse
+L'Escaillère
+L'Hamais
+La Bacotterie
+La Baive
+La Bigaude
+La Botte
+La Bouhaye
+La Bourgogne
+La Bouvrée
+La Bretagne
+La Briqueterie
+La Brouck
+La Calamine
+La Carne
+La Chatqueue
+La Concession
+La Cort
+La Fange Louis
+La Ferrière
+La Forge
+La Fortelle
+La Girgaine
+La Glanerie
+La Gleize
+La Gotte
+La Haute Cour
+La Hazelle
+La Hestre
+La Horne
+La Hulpe
+La Mohy
+La Mouline
+La Neuve Forge
+La Pairelle
+La Pellette
+La Penne
+La Perche Rompue
+La Plaine
+La Reid
+La Reinette
+La Robinette
+La Roche-en-Ardenne
+La Rosière
+La Sablonnière
+La Salte
+La Sibérie
+La Soïsse
+La Spèche
+La Ville
+La Waide
+La Xhavée
+Laaffelt
+Laak
+Laarne
+Labia
+Labuissière
+Lacuisine
+Laforêt
+Lahamaide
+Laherie
+Laid Burgniaux
+Laid Loiseau
+Laid Prangeleux
+Lamain
+Lamay
+Lambusart
+Lamine
+Lamont
+Lamontzée
+Lamorteau
+Lanaken
+Lanaye
+Lanceaumont
+Landat
+Landegem
+Landelies
+Landen
+Landenne
+Landsheertje
+Landskouter
+Laneffe
+Langdorp
+Lange Heide
+Langeboeken
+Langedonk
+Langemark
+Langemunt
+Langemunten
+Langenlochung
+Langerbrugge
+Langevelde
+Lanklaar
+Lanquesaint
+Lantin
+Lantremange
+Lanzerath
+Laplaigne
+Lapscheure
+Larebeek
+Larendries
+Lasne-Chapelle-Saint-Lambert
+Lathuy
+Latinne
+Launoy
+Lauw
+Lauwe
+Lava
+Lavacherie
+Lavaux-Sainte-Anne
+Lavoir
+Le Bâtiment
+Le Bocage
+Le Casan
+Le Cossart
+Le Crinquet
+Le Douaire
+Le Doyen
+Le Grand Mininpré
+Le Grand Trieu
+Le Gué des Bagniaux
+Le Hochet
+Le Hultai
+Le Joncquois
+Le Manil
+Le Many
+Le Maqua
+Le Mesnil
+Le Noir Étang
+Le Pequet
+Le Piquet
+Le Prieuré
+Le Roeulx
+Le Roo
+Le Roux
+Le Sarty
+Le Tombois
+Le Touquet
+Le Traigneaux
+Le Transoy
+Lebbeke
+Ledegem
+Leefdaal
+Leeg Kouter
+Leemhoutheide
+Leerbeek
+Leernes
+Leers-et-Fosteau
+Leers-Nord
+Leest
+Leeuwergem
+Leeuwerksheide
+Leffinge
+Léglise
+Legnai Thière
+Leignon
+Leisele
+Leke
+Lembeek
+Lemberge
+Lemmeken
+Lendelede
+Lenne
+Lens
+Lens-Saint-Remy
+Lens-Saint-Servais
+Lens-sur-Geer
+Lentse Heide
+Leopoldsburg
+Lepe
+Les Albronnes
+Les Aloux
+Les Aunais
+Les Avins
+Les Ballons
+Les Bas Courtils
+Les Baty
+Les Bonniers
+Les Buissons
+Les Bulles
+Les Chaufours
+Les Chenisses
+Les Cinq Cents Bonniers
+Les Cinq Étoiles
+Les Clusères
+Les Coriottes
+Les Crenées
+Les Culées
+Les Espèches
+Les Flamandes
+Les Fourches Deminche
+Les Golettes
+Les Gonhis
+Les Gottes
+Les Haies de Frasnes
+Les Hayons
+Les Heids
+Les Manettes
+Les Piétresses
+Les Potalles
+Les Quatre Bras
+Les Quatre Chemins
+Les Rochettes
+Les Rogneuses Terres
+Les Trous
+Les Waibes
+Les Waleffes
+Lescheret
+Lesdain
+Lessines
+Lessive
+Lesterny
+Lesve
+Lettelingen
+Lettenburg
+Letterhoutem
+Leugenberg
+Leugnies
+Leumont
+Leupegem
+Leut
+Leuven
+Leval
+Leval-Chaudeville
+Leval-Trahegnies
+Lhoneux
+Libin
+Libramont
+Lichtaart
+Lichtelaar
+Liedekerke
+Lieferinge
+Liège
+Liéneux
+Lier
+Lierneux
+Liernu
+Liers
+Liezele
+Ligne
+Lignely
+Ligney
+Liherain
+Lijsdonk
+Lil
+Lille
+Lillo Kruisweg
+Lillois-Witterzée
+Limal
+Limbourg
+Limelette
+Limerlé
+Limet
+Limsonry
+Lincent
+Linchet
+Lindel
+Linkhout
+Linsmeau
+Linter
+Lippelo
+Lisbonne
+Lisogne
+Lisp
+Lissewege
+Lives-sur-Meuse
+Lixhe
+Lize
+Lobbes
+Lobe
+Lobroek
+Lochristi
+Lochtenberg
+Lodelinsart
+Loeiend
+Loenhout
+Loever
+Lohiépré
+Lohirville
+Loker
+Loksbergen
+Lombardsijde
+Lombise
+Lommel
+Lommersweiler
+Lompret
+Lomprez
+Lomré
+Loncin
+Londerzeel
+Longlier
+Longvilly
+Lontzen
+Lonzée
+Loonbeek
+Loppem
+Lorcé
+Lorroir
+Losheimergraben
+Lot
+Lotenhulle
+Louette-Saint-Denis
+Louette-Saint-Pierre
+Louise Marie
+Loupoigne
+Louvain-la-Neuve
+Louveigné
+Louwel
+Lovendegem
+Lovenjoel
+Lovereux
+Loverijk
+Loverval
+Lubbeek
+Luchtbal
+Luiaardshoek
+Luikhoek
+Luingne
+Luissen
+Luizenbos
+Lummen
+Lustin
+Lutlommel
+Luttelmeeuwen
+Luttre
+Luxeroth
+Luxibout
+Luzerne
+Lyrée
+Maagdeveld
+Maaihoek
+Maandaghoek
+Maarke-Kerkem
+Maarle
+Maarlo
+Maasboon
+Maaseik
+Maasmechelen
+Mabompré
+Machelen
+Machelen-aan-de-Leie
+Mackenbach
+Macon
+Macquenoise
+Maffe
+Maffle
+Magenies
+Magerstraat
+Magnée
+Mahoux
+Maibelle
+Maillen
+Mainvault
+Maisières
+Maison
+Maison du Bois
+Maissin
+Maitereau
+Maizeret
+Mal
+Malahaise
+Malchamps
+Maldegem
+Malderen
+Malekote
+Malempré
+Malèves-Sainte-Marie-Wastines
+Malmédy
+Malonne
+Malpas
+Malplaqués
+Malsem
+Malvoisin
+Manderfeld
+Manestraat
+Manhay
+Mannekensvere
+Marais de Crothière
+Maransart
+Marbais
+Marbaix
+Marbehan
+Marche-en-Famenne
+Marche-les-Dames
+Marche-lez-Écaussinnes
+Marchienne-au-Pont
+Marchin
+Marchipont
+Marchovelette
+Marcinelle
+Marcourt
+Maredret
+Maredsous
+Marenne
+Marenwez
+Marexhe
+Maria Aalter
+Mariakerke-Bad
+Marialoopkouter
+Mariekerke
+Mariembourg
+Marilles
+Marins
+Mark
+Marke
+Markebeek
+Markegem
+Marloyau
+Marneffe
+Marquain
+Martelange
+Martenslinde
+Martouzin-Neuville
+Masbourg
+Masnuy-Saint-Jean
+Masnuy-Saint-Pierre
+Massemen
+Massenhoven
+Massul
+Matagne
+Matagne-la-Grande
+Matagne-la-Petite
+Mater
+Maugras
+Maulde
+Maurage
+Mazée
+Mazenzele
+Mazy
+Méan
+Mechelen
+Mechelen-aan-de-Maas
+Mechelen-Bovelingen
+Medendorf
+Meeffe
+Meensel-Kiezegem
+Meerbeek
+Meerdonk
+Meerhoek
+Meerhout
+Meerlaar
+Meerle
+Meerlenest
+Meersel
+Meersstraat
+Meeswijk
+Meetkerke
+Meeuwen
+Mehaigne
+Mehogne
+Meigem
+Meigemheide
+Meilegem
+Meise
+Meix-devant-Virton
+Meix-le-Tige
+Melaye
+Melbeek
+Melden
+Melen
+Mélin
+Melkwezer
+Melle
+Mellehoekske
+Mellery
+Melles
+Mellet
+Mellier
+Melreux
+Melsbroek
+Melsele
+Melselehoek
+Melsen
+Membach
+Membre
+Membruggen
+Mendonk
+Menen
+Merbes-le-Château
+Merbes-Sainte-Marie
+Merchtem
+Merdorp
+Merelbeke
+Merendree
+Merkem
+Merksem
+Merksplas
+Merlemont
+Merny
+Mertenne
+Meslin-l'Évêque
+Mesnil
+Mesnil-Église
+Mesnil-Saint-Blaise
+Mespelaar
+Mespelare
+Messancy
+Messelbroek
+Messines
+Mesvin
+Mettekoven
+Mettet
+Metzert
+Meulebeke
+Meulenhoek
+Meulentje
+Meux
+Mévergnies
+Meyerode
+Mianoye
+Michelbeke
+Michem
+Micheroux
+Middelburg
+Middelkerke
+Middelwijk
+Miécret
+Mielen-boven-Aalst
+Mière
+Mignault
+Mijerij
+Millen
+Milmort
+Minderhout
+Mirwart
+Mista
+Modave
+Moelingen
+Moen
+Moerberg
+Moere
+Moereinde
+Moerkerke
+Moerzeke
+Moha
+Mohiville
+Moignelée
+Moircy
+Mol
+Mol ter Nete
+Molem
+Molenbaix
+Molenbeek-Saint-Jean
+Molenbeek-Wersbeek
+Molenbeersel
+Molendijk
+Molenstede
+Molenstedebroek
+Molinfaing
+Mollem
+Mollent
+Molsbergen
+Momalle
+Momignies
+Mon Étable
+Mon-le-Soie
+Monceau-en-Ardenne
+Monceau-Imbrechies
+Monceau-sur-Sambre
+Monin
+Monnikerede
+Monoblok
+Monplaisir
+Mons-lez-Liège
+Monstreux
+Mont à Lumay
+Mont de Houx
+Mont de Mousny
+Mont Derrieux
+Mont la Chapelle
+Mont Noir
+Mont-Gauthier
+Mont-Saint-André
+Mont-Saint-Aubert
+Mont-Saint-Guibert
+Mont-Sainte-Aldegonde
+Mont-Sainte-Geneviève
+Mont-sur-Marchienne
+Montbliart
+Montegnée
+Montignies-lez-Lens
+Montignies-Saint-Christophe
+Montignies-sur-Roc
+Montignies-sur-Sambre
+Montigny-le-Tilleul
+Montleban
+Montquintin
+Montroeul-au-Bois
+Montroeul-sur-Haine
+Montzen
+Moor
+Moorsele
+Moorslede
+Moortsele
+Mopertingen
+Moregem
+Moresnet
+Morhet
+Morialmé
+Morkhoven
+Morlanwelz-Mariemont
+Mornimont
+Morsaint
+Mortehan
+Mortier
+Mortroux
+Mortsel
+Moskou
+Moulbaix
+Moulignat
+Moulin à Vent
+Moulin Manteau
+Mourcourt
+Mouscron
+Moustier
+Moustier-sur-Sambre
+Mousty
+Mouzaive
+Moxhe
+Muikem
+Muilebeek
+Muilshoek
+Muizel
+Mullem
+Munkzwalm
+Muno
+Munsterbilzen
+Munte
+Muntstraat
+Musselienstraat
+Musson
+Mussy-la-Ville
+My
+Naast
+Nachtegaalshoek
+Nadrin
+Nafraiture
+Nalamont
+Nalinnes
+Namêche
+Namur
+Nandrin
+Naninne
+Naomé
+Nassogne
+Natoye
+Nauw
+Néchin
+Neckel
+Neder-Over-Heembeek
+Nederhasselt
+Nederheembeek
+Nederokkerzeel
+Nederzwalm-Hermelgem
+Nederzwijnaarde
+Neerbuizingen
+Neereken
+Neerglabbeek
+Neerharen
+Neerhespen
+Neerheylissem
+Neerhoek
+Neerijse
+Neerland
+Neerlanden
+Neerlinter
+Neeroeteren
+Neerpelt
+Neerrepen
+Neerstalle
+Neerven
+Neerwinden
+Nefsée
+Negenmanneke
+Neigem
+Neijen
+Neissem
+Néon
+Nerem
+Nerm
+Nessestraat
+Nessonvaux
+Nethen
+Nettinne
+Neu Hattlich
+Neu-Moresnet
+Neubrück
+Neucoyé
+Neucy
+Neudorf
+Neuf Sart
+Neufmaison
+Neufvilles
+Neuringen
+Neus
+Neuve Haie
+Neuville-en-Condroz
+Nevele
+Niel
+Niel-bij-As
+Niel-bij-Sint-Truiden
+Nieuweheide
+Nieuwenrode
+Nieuwestede
+Nieuwhoeve
+Nieuwkapelle
+Nieuwkerke
+Nieuwkerken-Waas
+Nieuwmoerseheide
+Nieuwmunster
+Nieuwrode
+Nijlen
+Nijveloot
+Nil Abbesse
+Nimy
+Ninove
+Ninster
+Nismes
+Nisramont
+Niva
+Nivelles
+Niverlée
+Nives
+Nobipré
+Noblehaie
+Nobressart
+Nodebais
+Nodrenge
+Noduwez
+Noirchain
+Noirchamps
+Noire Voie
+Noirefontaine
+Noiseux
+Nokere
+Nollevaux
+Nomerange
+Noorderwijk
+Noordschote
+Noordschotebroek
+Nophove
+Nossegem
+Nothomb
+Notre Dame
+Notre-Dame au Bois
+Nouvelles
+Noville-les-Bois
+Noville-sur-Méhaigne
+Nowes
+Nukerke
+Obaix
+Oberst-Crombach
+Obigies
+Obourg
+Ochamps
+Ocquier
+Odeigne
+Odeur
+Oe
+Oedelem
+Oekene
+Oelegem
+Oeselgem
+Oetingen
+Oeudeghien
+Oevel
+Offagne
+Offaing
+Offignies
+Ognée
+Ogy
+Ohain
+Ohey
+Oignies-en-Thiérache
+Oisquercq
+Oizy
+Okegem
+Okselaar
+Olen
+Oleye
+Oliehoek
+Ollignies
+Olloy-sur-Viroin
+Olmen
+Olmenhoek
+Olne
+Olsene
+Omal
+Ombret
+Omezée
+On
+Once
+Ondenval
+Onderdale
+Onegem
+Onhaye
+Onkerzele
+Onnezies
+Onoz
+Onze-Lieve-Vrouw-Lombeek
+Onze-Lieve-Vrouw-Waver
+Ooievaarmolen
+Ooigem
+Ooike
+Oom
+Oorbeek
+Oordegem
+Oorderen
+Oostakker
+Oostduinkerke
+Oosteeklo
+Oosterzele
+Oostham
+Oosthuisheuvel
+Oostkamp
+Oostmalle
+Oostnieuwkerke
+Oostrem
+Oostrozebeke
+Oostvleteren
+Oostwinkel
+Oostzijde
+Op den Beek
+Opbeek
+Opbrakel
+Opdorp
+Opglabbeek
+Opgrimbie
+Ophain-Bois-Seigneur-Isaac
+Ophasselt
+Opheers
+Opheylissem
+Opitter
+Oplinter
+Opoeteren
+Opont
+Opprebais
+Oppum
+Oppuurs
+Opvelp
+Opwijk
+Orbais
+Orchimont
+Orcq
+Ordingen
+Oret
+Oreye
+Orgeo
+Ormeignies
+Orp-le-Grand
+Orroir
+Orsmaal-Gussenhoven
+Ortheuville
+Ortho
+Osseghem
+Ossel
+Ossen Goor
+Ostend
+Ostiches
+Otaimont
+Otegem
+Oteppe
+Othée
+Otrange
+Ottenburg
+Ottergem
+Ottignies
+Oud Waterschei
+Oud-Heverlee
+Oud-Turnhout
+Oude Barreel
+Oude Hei
+Oude Kruisschans
+Oude Steenhoven
+Oudegem
+Oudekapelle
+Ouden Doel
+Oudenaarde
+Oudenaken
+Oudenburg
+Oudenhove
+Oudenstok
+Oudoumont
+Ouffet
+Oufny
+Ougrée
+Oupeye
+Outer
+Outgaarden
+Outrelouxhe
+Outrijve
+Ouwegem
+Over den Demer
+Overberg
+Overboelare
+Overdorp
+Overhespen
+Overijse
+Overmere
+Overnellen
+Overoth
+Overpelt
+Overrepen
+Overstraat
+Overwijs
+Overwinden
+Paal
+Pachtgoed
+Pachy
+Paifve
+Pailhe
+Paliseul
+Pallemaat
+Pallenbour
+Pamel
+Pandoerenhoek
+Pannensterz
+Papegem
+Papenbrugge
+Papendaal
+Papevijvers
+Parette
+Parijs
+Parike
+Park
+Passendale
+Patignies
+Patrouille
+Pattoterij
+Pâturages
+Paulatem
+Pauwstraat
+Pavé
+Pavé d'Ath
+Pecq
+Peer
+Peerdeken
+Peissant
+Pellaines
+Pellenberg
+Penant
+Pennepoel
+Pepingen
+Pepinster
+Perenboom
+Périmont
+Perk
+Perre
+Pertendonk
+Péruwelz
+Pervijze
+Perwez
+Pesche
+Pessoux
+Petegem
+Petegem-aan-de-Leie
+Petegem-aan-de-Schelde
+Petegemstraat
+Petigny
+Petit Aaz
+Petit Baisieux
+Petit Faan
+Petit Fois
+Petit Hainin
+Petit Halleux
+Petit Han
+Petit Howardries
+Petit Leez
+Petit-Fays
+Petit-Hallet
+Petit-Halleux
+Petit-Lanaye
+Petit-Pont
+Petit-Rechain
+Petit-Roeulx-lez-Braine
+Petit-Roeulx-lez-Nivelles
+Petit-Thier
+Petite Rosière
+Petite Thiérache
+Petite-Chapelle
+Peutie
+Picardien
+Pichelotte
+Piersoulx
+Pietakker
+Pietelbeek
+Piéton
+Piétrain
+Piétrebais
+Piétremeau
+Pifosse
+Pinchart
+Pipaix
+Piringen
+Pironchamps
+Pisselotte
+Pittem
+Plancenoit
+Plijn
+Ploegsteert
+Plombières
+Plutsingen
+Poederlee
+Poeke
+Poelkapelle
+Poermolen
+Poesele
+Poignaart
+Poirier
+Polingsgat
+Pollare
+Polleur
+Pollinkhove
+Pomfort
+Pommeroeul
+Poncia
+Pondrôme
+Pont du Diable
+Pont Saint-Vaast
+Pont Troué
+Pont-à-Celles
+Pont-de-Loup
+Pontillas
+Pontslag
+Poperinge
+Poppel
+Popuelles
+Porfays
+Postel
+Posthoorn
+Posthoornhoek
+Potaardberg
+Potaardewijk
+Potegem
+Poterijbroek
+Potijzer
+Pottebezemhoek
+Pottelberg
+Pottes
+Poucet
+Poulk
+Poulseur
+Poupehan
+Pourrain
+Pourri
+Pousset
+Prayon
+Pré Colot
+Pré de l'Oie
+Préaix
+Predikherenberg
+Prés du Taureau
+Presgaux
+Presles
+Prijstraat
+Prinsbemden
+Privot
+Profondeville
+Profondval
+Prop
+Proven
+Pry
+Puienbrug
+Pulderbos
+Pulle
+Purnode
+Pussemange
+Puttestraat
+Puurs
+Puvinage
+Quaregnon
+Quartes
+Quartiers
+Quenast
+Queneau
+Quenestine
+Queneulle
+Queue-du-Bois
+Quévy-le-Grand
+Quévy-le-Petit
+Quiévrain
+Rachecourt
+Racour
+Raeren
+Ragnies
+Rahier
+Ramegnies
+Ramegnies-Chin
+Ramelot
+Ramillies
+Ramillies-Offus
+Ramsdonk
+Ramsel
+Rance
+Randicamp
+Ransart
+Ransberg
+Ranst
+Ransy
+Raspaille
+Rattekot
+Rattepoelmeers
+Rattevalle
+Ravels
+Raversijde
+Rebaix
+Rebecq
+Rebecq-Rognon
+Rechrival
+Recht
+Rechtestraat
+Redu
+Reet
+Regenwortel
+Reharmont
+Rei
+Reigerie
+Reiserenvroente
+Rekem
+Relegem
+Relst
+Remagne
+Remersdaal
+Remicourt
+Remon Quesnoy
+Rena Fontaine
+Renachenet
+Renardmont
+Rendeux
+Rendeux Bas
+Reninge
+Reningelst
+Renipont
+Renlies
+Renoupré
+Reppel
+Résimont
+Ressaix
+Ressegem
+Resteigne
+Retie
+Retinne
+Reuland
+Reumont
+Reutenbeek
+Rèves
+Revioux
+Rhisnes
+Rhône
+Ribeke
+Richelette
+Richelle
+Riemst
+Rienne
+Rieudotte
+Rièzes
+Rijger
+Rijkel
+Rijkestraat
+Rijkevorsel
+Rijkhoven
+Rijmenam
+Rijnrode
+Rijvers
+Riksingen
+Rillaar
+Rilroheide
+Rimière
+Ripstraat
+Rixensart
+Rixhalle
+Riz d'Hez
+Robechies
+Robelmont
+Robermont
+Robertville
+Robiercy
+Roborst
+Rochefort
+Rochehaut
+Rocherath
+Roclenge-sur-Geer
+Rocourt
+Rodeberg
+Roel
+Roeleinde
+Roesbrugge-Haringe
+Roest
+Rofessart
+Rognée
+Roier Broek
+Roisin
+Rokegem
+Rokershoek
+Roksem
+Rollegem
+Rollegem-Kapelle
+Roloux
+Roly
+Romedenne
+Romershoven
+Rompcamp
+Romsée
+Rond Buisson
+Ronet
+Rongy
+Ronquières
+Ronsdonk
+Ronse
+Ronsele
+Root
+Rosée
+Roselies
+Rosières
+Rosinbois
+Roskamstraat
+Rosmeer
+Rosoux-Crenwick
+Rossignol
+Rotheux-Rimière
+Rotselaar
+Roubrouck
+Roucourt
+Rouette
+Rouge Minière
+Rouges Fosses
+Rousdamme
+Rouvreux
+Roux
+Roux-Miroir
+Roy
+Royaume
+Rozebeke
+Ruddershove
+Ruddervoorde
+Rue Haute
+Ruette
+Ruien
+Ruisbeek
+Ruiselede
+Ruitersdries
+Rukkelingen-Loon
+Rulles
+Rumbeke
+Rumes
+Rumillies
+Rummen
+Rumsdorp
+Rumst
+Runkelen
+Rupelmonde
+Russeignies
+Russelbeken
+Ruthier
+Rutten
+Rys de Mosbeux
+s Herenelderen
+s-Gravenvoeren
+s-Gravenwezel
+Saffraanberg
+Saftingen
+Saint-Amand
+Saint-André
+Saint-Aubin
+Saint-Georges-sur-Meuse
+Saint-Gérard
+Saint-Géry
+Saint-Ghislain
+Saint-Hubert
+Saint-Jean-Geest
+Saint-Josse-ten-Noode
+Saint-Léonard
+Saint-Marc
+Saint-Mard
+Saint-Maur
+Saint-Médard
+Saint-Nicolas
+Saint-Remy-Geest
+Saint-Sauveur
+Saint-Servais
+Saint-Séverin-en Condroz
+Saint-Symphorien
+Saint-Vaast
+Saint-Vincent
+Saint-Vith
+Saint-Vitu
+Saint-Yvon
+Sainte-Brigitte
+Sainte-Cécile
+Sainte-Gertrude
+Sainte-Marie-sur-Semois
+Sainte-Ode
+Sainte-Walburge
+Saintes
+Saive
+Salchette
+Salinus
+Salles
+Salvacourt
+Samart
+Samrée
+Sars Longchamps
+Sars-la-Bruyère
+Sars-la-Buissière
+Sart-Bernard
+Sart-Custinne
+Sart-Dames-Avelines
+Sart-en-Fagne
+Sart-Eustache
+Sart-lez-Spa
+Sart-Saint-Laurent
+Sas-Slijkens
+Sassenhout
+Sassor
+Saule Pendu
+Saut Picquet
+Sautin
+Sautour
+Sauvegarde
+Savatte
+Scarbotte
+Schaafstraat
+Schaaperve
+Schaapschoorbrug
+Schaar
+Schaarbeek
+Schaatsbergen
+Schaerbeek
+Schaffen
+Schaliënhuis
+Schalkhoven
+Schaltin
+Scheidhoek
+Schelderode
+Scheldewindeke
+Schelle
+Schellebelle
+Schendelbeke
+Schepdaal
+Schepenijsel
+Scheps
+Schermershoek
+Scherminkelmolen
+Scherpenheuvel
+Schiethoek
+Schilde
+Schillekensberg
+Schimpen
+Schipbroek
+Schoenberg
+Schoonderbuken
+Schootsheide
+Schore
+Schorisse
+Schotelven
+Schoten
+Schreibroeken
+Schroversstraat
+Schuiferskapelle
+Schuilenbroek
+Schulen
+Schutterveld
+Schwarzenberg
+Schwarzenvenn
+Sclayn
+Scy
+Sécheval
+Seilles
+Sélange
+Seloignes
+Semmerzake
+Sempst
+Seneffe
+Senselberg
+Sensenruth
+Seny
+Senzeille
+Septon
+Seraing
+Seraing-le-Château
+Serinchamps
+Serskamp
+Serville
+Sesselich
+Setz
+Seveneiken
+Siberg
+Sibret
+Sijsele
+Silenrieux
+Silly
+Silsburg
+Simoenenhoek
+Sinaai
+Singel
+Sinsin
+Sint-Adriaans
+Sint-Agatha-Rode
+Sint-Amands
+Sint-Amands Wijk
+Sint-Amandsberg
+Sint-Andries
+Sint-Antelinks
+Sint-Antonius
+Sint-Antoniushoek
+Sint-Baafs-Vijve
+Sint-Blasius-Boekel
+Sint-Brixuis-Rode
+Sint-Denijs
+Sint-Denijs-Boekel
+Sint-Denijs-Westrem
+Sint-Dimfna
+Sint-Eloois-Vijve
+Sint-Eloois-Winkel
+Sint-Genesius-Rode
+Sint-Gillis-bij-Dendermonde
+Sint-Gillis-Waas
+Sint-Goriks-Oudenhove
+Sint-Huibrechts-Hern
+Sint-Huibrechts-Lille
+Sint-Idesbald
+Sint-Jacobs-Kapelle
+Sint-Jan Hagebaart
+Sint-Jan ter Biezen
+Sint-Jan-in-Eremo
+Sint-Job-in-'t-Goor
+Sint-Joris-Weert
+Sint-Joris-Winge
+Sint-Jozef-Olen
+Sint-Katelijne-Waver
+Sint-Katherina-Lombeek
+Sint-Kornelis-Horebeke
+Sint-Kruis
+Sint-Kruis-Winkel
+Sint-Kwintens-Lennik
+Sint-Lambrechts-Herk
+Sint-Laureins
+Sint-Laureins-Berchem
+Sint-Lenaarts
+Sint-Leonardus
+Sint-Leonardus Lint
+Sint-Lievens-Esse
+Sint-Lievens-Houtem
+Sint-Margriete
+Sint-Margriete-Houtem
+Sint-Maria-Horebeke
+Sint-Maria-Latem
+Sint-Maria-Lierde
+Sint-Maria-Oudenhove
+Sint-Mariaburg
+Sint-Martens
+Sint-Martens-Bodegem
+Sint-Martens-Latem
+Sint-Martens-Leerne
+Sint-Martens-Lennik
+Sint-Martens-Lierde
+Sint-Martens-Voeren
+Sint-Michiels
+Sint-Niklaas
+Sint-Paulus
+Sint-Pauwels
+Sint-Pieters ten Berge
+Sint-Pieters-Leeuw
+Sint-Pieters-Rode
+Sint-Pieters-Voeren
+Sint-Rijkers
+Sint-Stevens-Woluwe
+Sint-Truiden
+Sint-Ulriks-Kapelle
+Sippenaeken
+Sirault
+Six Maisons
+Six Planes
+Sleidinge
+Slijpe
+Slijpskappelle
+Slins
+Slot
+Sluisken
+Smeerebbe-Vloerzegem
+Smeermaas
+Smeistraat
+Smetlede
+Smisse
+Smissenhoek
+Smoorken
+Smuid
+Snaaskerke
+Snellegem
+Snikberg
+Soetebeek
+Sohan
+Soheit-Tinlot
+Sohier
+Soignies
+Soiron
+Solbreucq
+Solheide
+Solières
+Solre-Saint-Géry
+Solre-sur-Sambre
+Sombreffe
+Somme-Leuze
+Sommethonne
+Sommière
+Somtet
+Somzée
+Sonseinde
+Sorée
+Sorfet
+Sorinne-la-Longue
+Sorinnes
+Sosoye
+Sossels
+Sotriamont
+Sougné-Remouchamps
+Soulme
+Soumagne
+Soumoy
+Sous les Roches
+Souverain Pré
+Souvré
+Souvret
+Sovet
+Soy
+Soye
+Spa
+Spaanskwartier
+Spaansveer
+Spalbeek
+Spanjen
+Speurtdries
+Spiennes
+Spiere
+Spikkelenberg
+Spilt
+Spontin
+Spouwen
+Spy
+Staakheuvel
+Stabroek
+Staden
+Stalhille
+Stambruges
+Stationsbuurt Noord
+Staumont
+Stave
+Stavele
+Stavelot
+Stebbingen
+Steendorp
+Steenhoven
+Steenhuffel
+Steenhuize-Wijnhuize
+Steenkerke
+Steenkerque
+Steenkruis
+Steenkup
+Steenland
+Steenokkerzeel
+Steert
+Stekene
+Stembert
+Stenenstraat
+Sterrebeek
+Stevensvennen
+Stevoort
+Stichelendries
+Stippelberg
+Stokay
+Stokkem
+Stokrooie
+Stoquy
+Stotert
+Stoumont
+Straal
+Straaleind
+Straimont
+Strée
+Strée-lez-Huy
+Strépy-Bracquegnies
+Strichon
+Strijmeers
+Strijpen
+Strijtem
+Strivay
+Strombeek-Bever
+Stroomstraat
+Stuivekenskerke
+Suarlée
+Sugny
+Sur la Haie
+Sur le Stockeu
+Sur Sechiron
+Surice
+Surlemez
+Suxy
+Sy
+t Heetje
+t Hoogste
+t Kruispunt
+t Luik
+t Smisken
+Taaihoek
+Tahier
+Taille Engelée
+Tailles
+Taillet
+Taintignies
+Tamburin
+Tamines
+Tarcienne
+Targnon
+Tasse
+Tattert
+Taverne à Meuse
+Tavier
+Taviers
+Taviet
+Tavigny
+Teirlink
+Tellin
+Tembroek
+Templeuve
+Temploux
+Temse
+Ten Bergen
+Ten Ham
+Tenbrielen
+Tenneville
+Teralfene
+Terbermen
+Tereiken
+Terkoest
+Terlicht
+Terlink
+Terme de la Hesse
+Termes
+Termien
+Termogne
+Terspelt
+Tertre
+Tervanterheide
+Tervuren
+Terwagne
+Tessenderlo
+Testelt
+Teuven
+Theux
+Thiaumont
+Thier des Critchons
+Thier Pirka
+Thieu
+Thieulain
+Thieusies
+Thiméon
+Thimister
+Thimougies
+Thines
+Thisnes
+Thommen
+Thon
+Thorembais-les-Béguines
+Thorembais-Saint-Trond
+Thoricourt
+Thuillies
+Thuin
+Thulin
+Thumaide
+Thy-le-Bauduin
+Thy-le-Château
+Thynes
+Thys
+Tibévaux
+Tichelhoven
+Tiège
+Tiegem
+Tielen
+Tielrode
+Tielt-Winge
+Tiendenberg
+Tienen
+Tienne du Grahaut
+Tiewinkel
+Tignée
+Tihange
+Tildonk
+Tilff
+Tillet
+Tilleur
+Tillier
+Tilly
+Tincelle
+Tinlot
+Tintange
+Tintenard
+Tintigny
+Tirolle
+Tisselt
+Todtleger
+Toernich
+Tohogne
+Tollembeek
+Tombeek
+Tongeren
+Tongre-Notre-Dame
+Tongrinne
+Tontelange
+Torf Broek
+Torgny
+Torhout
+Totienne
+Touquet Berthe
+Tourinne
+Tourinnes-la-Grosse
+Tourinnes-Saint-Lambert
+Tournai
+Tourpes
+Transinne
+Trappe
+Trazegnies
+Treignes
+Trekschuren
+Trembleur
+Tremelheide
+Tremelo
+Tremouroux
+Trichterheide
+Trieu Bernard
+Trieu d'Avillon
+Trieux Pochaux
+Trivières
+Trognée
+Trois Tilleuls
+Trois-Ponts
+Troismonts
+Tron Lihai
+Tronleu
+Trooz
+Trou al Damzelle
+Trou de Bra
+Trou Malbrouck
+Try Haut
+Try Paris
+Tubize
+Tulderseheide
+Turfheide
+Turkenhoek
+Turnhout
+Ubbersel
+Uccle
+Ucimont
+Uikhoven
+Uitbergen
+Uitkerke
+Ulbeek
+Upigny
+Ursel
+Utsenaken
+Vaalbeek
+Vaart
+Vaartkant
+Val-de-Poix
+Val-Meer
+Valender
+Vance
+Varendonk
+Varenwinkel
+Varinkshoek
+Varkensmarkt
+Varsenare
+Vaucelles
+Vaulx-lez-Chimay
+Vaulx-lez-Tournai
+Vaux-Chavanne
+Vaux-et-Borset
+Vaux-lez-Rosières
+Vaux-sous-Chèvremont
+Vaux-sur-Sûre
+Vechmaal
+Vedrin
+Veerle
+Veeweiberg
+Velaines
+Veldegem
+Veldwezelt
+Vellereille-le-Sec
+Vellereille-les-Brayeux
+Velroux
+Veltem-Beisem
+Velzeke-Ruddershove
+Vencimont
+Verennes
+Vergne
+Vergnies
+Verlée
+Verleumont
+Verloreneind
+Verlorenhoek
+Verpré
+Verrebroek
+Verte Haie
+Vertrijk
+Verviers
+Vesqueville
+Veulen
+Veurne
+Veurs
+Vezin
+Vezon
+Vî Pays
+Viane
+Vichte
+Vielsalm
+Viemme
+Viernay
+Viersel
+Vierseldijk
+Vierset-Barse
+Viersin
+Vierves-sur-Viroin
+Viesville
+Vieux-Genappe
+Vieux-Waleffe
+Vieuxville
+Vijf Gemeet Gat
+Vijfhonderd Gemeten
+Vijfhuishoek
+Vijlst
+Vijverbroek
+Villance
+Ville-en-Hesbaye
+Ville-sur-Haine
+Villerot
+Villers-aux-Tours
+Villers-Deux-Églises
+Villers-devant-Orval
+Villers-en-Fagne
+Villers-l'Évêque
+Villers-la-Bonne-Eau
+Villers-la-Loue
+Villers-la-Tour
+Villers-la-Ville
+Villers-le-Bouillet
+Villers-le-Gambon
+Villers-le-Peuplier
+Villers-le-Temple
+Villers-lez-Heest
+Villers-Notre-Dame
+Villers-Perwin
+Villers-Poterie
+Villers-Saint-Amand
+Villers-Saint-Ghislain
+Villers-Saint-Siméon
+Villers-Sainte-Gertrude
+Villers-sur-Lesse
+Villers-sur-Semois
+Vilvoorde
+Vinalmont
+Vincon
+Vinderhoute
+Vinkenberg
+Vinkt
+Virée de la Basse Voie
+Virelles
+Virginal-Samme
+Virton
+Visé
+Vissenaken
+Vitrival
+Vitseroel
+Vivegnis
+Vivier le Duc
+Vivier Roland
+Vivrou
+Vivy
+Vladslo
+Vlamertinge
+Vlasmer
+Vlasselaar
+Vlekkem
+Vleugt
+Vleurgat
+Vlezenbeek
+Vliegenstal
+Vliermaal
+Vliermaalroot
+Vlierzele
+Vlijminkshoek
+Vlijtingen
+Vlimmeren
+Vlissegem
+Vloerzegem
+Vodecée
+Vodelée
+Vogenée
+Vollezele
+Vonêche
+Voorderweert
+Voorhout
+Voormezele
+Voornestraat
+Voorste Hostie
+Voortkapel
+Voroux-Goreux
+Voroux-lez-Liers
+Vorselaar
+Vorsen
+Vorsenpoel
+Vorst
+Voskenshoek
+Vosselaar
+Vosselare
+Vossem
+Vossen Koten
+Vottem
+Vrasene
+Vreishoring
+Vremde
+Vreren
+Vresse-sur-Semois
+Vrijgeweed
+Vrijsbeke
+Vroenhoven
+Vucht
+Vurste
+Vyle-et-Tharoul
+Waaienberg
+Waanrode
+Waarbeke
+Waardamme
+Waarloos
+Waarmaarde
+Waarschoot
+Waasmont
+Waasmunster
+Wachet
+Wachtebeke
+Wadelincourt
+Wagnelée
+Waha
+Wailles
+Waillet
+Waimes
+Wakken
+Wakkerzeel
+Walcourt
+Walhain
+Walhain-Saint-Paul
+Walhoek
+Walhorn
+Wallemolen
+Waloppe
+Walsbergen
+Walsbets
+Walsegem
+Waltwilder
+Walzin
+Wancennes
+Wandebourcy
+Wandre
+Wanfercée-Baulet
+Wange
+Wangenies
+Wanlin
+Wanne
+Wannebecq
+Wannegem-Lede
+Wanroux
+Wansin
+Wanze
+Wanzele
+Warandeken
+Warchin
+Warcoing
+Wardin
+Waregem
+Waremme
+Wareslage
+Waret-l'Évêque
+Waret-la-Chaussée
+Warichet
+Warimez
+Warisoulx
+Warloche
+Warmifontaine
+Warmonfosse
+Warnant
+Warnant-Dreye
+Warneton
+Waronneux
+Warquignies
+Warrimont
+Warsage
+Warzée
+Wasmuel
+Wassegem
+Wassen
+Wastinelle
+Wastines
+Waterbleek
+Waterbos
+Waterland-Oudeman
+Waterloo
+Watermael-Boitsfort
+Watermolenhoek
+Waterschei
+Waterschoot
+Watervliet
+Watou
+Wattripont
+Waudrez
+Waulsort
+Wauthier-Braine
+Wavre
+Wavreille
+Wayaux
+Ways
+Webbekom
+Wechelderzande
+Weegse
+Weelde
+Weerde
+Wegnez
+Weidig
+Weigersberg
+Weillen
+Weistraat
+Welkenraedt
+Welle
+Wellen
+Wellin
+Wellingstraat
+Wemmel
+Wenduine
+Wépion
+Werbomont
+Werchter
+Weris
+Werken
+Werm
+Wersbeek
+Wervik
+Wespelaar
+Wespes
+Westeinde
+Westende
+Westerlo
+Westkapelle
+Westkerke
+Westmalle
+Westmeerbeek
+Westouter
+Westrem
+Westrozebeke
+Westvleteren
+Wetteren
+Wevelgem
+Weyler
+Wez Charnois
+Wez de Chine
+Wez-Velvain
+Wezemaal
+Wezembeek-Oppem
+Wibrin
+Wichelen
+Widooie
+Wiekevorst
+Wielsbeke
+Wieltje
+Wierde
+Wiers
+Wiesme
+Wieze
+Wihogne
+Wijchmaal
+Wijer
+Wijkhuizen
+Wijnegem
+Wijngaardberg
+Wijnhuize
+Wijnstraat
+Wijshagen
+Wijtschate
+Wilausart
+Wildebeek
+Wildenburg
+Wildendries
+Wildenhaan
+Wilder
+Willaars
+Willaupuis
+Willebringen
+Willebroek
+Willemeau
+Willerzie
+Wilrijk
+Wilsele
+Wilskerke
+Wimmertingen
+Winbomont
+Windmolen
+Winée
+Winenne
+Wingene
+Winkelhoek
+Winksele
+Winnelken
+Winterkeer
+Wintershoven
+Winterslag
+Winville
+Wippendries
+Wishagen
+Witgoorse Heide
+Witry
+Witte Burg
+Witte Hoevenseheide
+Wittegracht Goorheide
+Wittenberg
+Wodecq
+Woesten
+Wolfsem
+Wolkrange
+Wolske
+Woluwe-Saint-Lambert
+Wolvenberg
+Wolvertem
+Wommelgem
+Wommersom
+Wonck
+Wondelgem
+Wontergem
+Wortegem
+Wortel
+Woubeek
+Woubrechtegem
+Woumen
+Wulgebroek
+Wulpen
+Wulvergem
+Wulveringem
+Wuustwezel
+Xhawirs
+Xhendelesse
+Xhendremael
+Xhierfomont
+Xhoris
+Yernée-Fraineux
+Yves-Gomezée
+Yvoir
+Zachtheide
+Zaffelare
+Zammel
+Zandbergen
+Zandhoven
+Zandzee
+Zarlardinge
+Zarren
+Zavelenborre
+Zaventem
+Zedelgem
+Zeebrugge
+Zegbroek
+Zegelsem
+Zeldonkhoek
+Zele
+Zelem
+Zellik
+Zelzate
+Zémont
+Zemst
+Zepperen
+Zerkegem
+Zétrud-Lumay
+Zevecote
+Zeveneken
+Zeveren
+Zevergem
+Zibbeek
+Zichem
+Zichen-Zussen-Bolder
+Zilverberg
+Zilvereind
+Zingem
+Zobbroek
+Zoerle-Parwijs
+Zoersel
+Zolder
+Zomergem
+Zomergemboven
+Zonhoven
+Zonnebeke
+Zonnegem
+Zottegem
+Zoutenaaie
+Zoutleeuw
+Zuiddamme
+Zuidheikant
+Zuidschote
+Zuienkerke
+Zulte
+Zulzeke
+Zutendaal
+Zuun
+Zwaanaarde
+Zwaanhoek
+Zwalm
+Zwalmstraat
+Zwaneven
+Zwartberg
+Zwarte Winning
+Zwarteinde
+Zwartenhoek
+Zwevegem
+Zwevezele
+Zwijnaarde
+Zwijnaardse Dries
+Zwijndrecht

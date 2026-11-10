@@ -1,0 +1,509 @@
+Hólmavatn	17
+Langavatn	14
+Sandvatn	11
+Krókavatn	8
+Grænavatn	7
+Mjóavatn	7
+Álftavatn	6
+Grunnavatn	6
+Selvatn	6
+Álftatjörn	5
+Djúpavatn	5
+Miklavatn	5
+Reyðarvatn	5
+Arnarvatn	4
+Fiskivatn	4
+Leirtjörn	4
+Miðvatn	4
+Breiðavatn	3
+Deildarvatn	3
+Hagavatn	3
+Heiðarvatn	3
+Hlíðarvatn	3
+Hólsvatn	3
+Lambavatn	3
+Stóravatn	3
+Svínavatn	3
+Þrístikla	3
+Álftavötn	2
+Aravatn	2
+Blönduvatn	2
+Bretavatn	2
+Brunnavatn	2
+Búrfellsvatn	2
+Búðarvatn	2
+Eiríksvatn	2
+Eiðisvatn	2
+Eyjavatn	2
+Fiskivötn	2
+Fremravatn	2
+Fremstavatn	2
+Fýlingjavötn	2
+Gedduvatn	2
+Gilsvatn	2
+Grensvatn	2
+Grænalón	2
+Gæsavatn	2
+Háfsvatn	2
+Haugsvatn	2
+Hestvatn	2
+Heyvatn	2
+Hnúksvatn	2
+Hólavatn	2
+Hraunsvatn	2
+Hundsvatn	2
+Kolavatn	2
+Kringluvatn	2
+Krókavötn	2
+Krossvatn	2
+Kvíslavötn	2
+Laxárvatn	2
+Máfavötn	2
+Mórauðavatn	2
+Múlavatn	2
+Núpavatn	2
+Núpsvatn	2
+Ólafsvatn	2
+Ölvesvatn	2
+Öskjuvatn	2
+Sauðárvatn	2
+Seltjörn	2
+Skarðavötn	2
+Tangavatn	2
+Urriðatjörn	2
+Urriðavatn	2
+Uxavatn	2
+Vatnastykki	2
+Víkurvatn	2
+Þernuvatn	2
+Þórisvatn	2
+Þrándarvatn	2
+Þverárvötn	2
+Álavatn
+Álfhólsvatn
+Almenningsárvötn
+Ánastaðavatn
+Ánavatn
+Apavatn
+Arfavötn
+Arnarbælistjörn
+Arnardalsvatn
+Arnarstaðavatn
+Arnarvatn-Litla
+Arnarvatn-Stóra
+Ás
+Ásbjarnarvötn
+Ásendatjörn
+Ástjarnir
+Ástjörn
+Aðalmannsvatn
+Bárvatn
+Baugavötn
+Baulárvallavatn
+Baulutjörn
+Baðstofutjörn
+Baðstofuvatn
+Beltisvatn
+Bergsárvatn
+Bergsvatn
+Bessastaðavötn
+Bjargavatn
+Bjarnarvatn
+Blautulón
+Blöndutjarnir
+Blöndutjörn
+Blönduvötn
+Blundsvatn
+Borgargarðsvatn
+Botnsvatn
+Breiðarvatn
+Brennitjörn
+Brunavatn
+Brunnvatn
+Brúsatjörn
+Brytalækir
+Bunguvatn
+Búrfellsvötn
+Buskutjörn
+Byrgisvatn
+Býskálarvatn
+Bæjartjarnir
+Bæjarvatn
+Bæjarvötn
+Dalvatn
+Djúpagilsvatn
+Djúpalón
+Draghálsvatn
+Drangavíkurdalsvatn
+Drykkjartjörn
+Dyngjuvatn
+Efstadalsvatn
+Efstafellsvatn
+Eilífsvötn
+Einholtsvötn
+Eiðavatn
+Elliðavatn
+Engitjörn
+Engivatn
+Eskihlíðarvatn
+Eyjalón
+Eyjarvatn
+Eylifsvötn
+Eyrarselsvatn
+Eystra-Blönduvatn
+Eystra-Hólsvatn
+Fábeinsvötn
+Fífutjörn
+Fjórðungsvatn
+Fjósabölt
+Fljótavatn
+Fljótsbotn
+Flóavatn
+Flögulón
+Flókatjörn
+Flotavatn
+Flóðið
+Folavatn
+Fossárvatn
+Fossárvötn
+Fossvatn
+Frakkavatn
+Fremra-Deildarvatn
+Fremra-Selvatn
+Friðmundarvötn
+Frostastaðavatn
+Fuglabjargavatn
+Fúsavatn
+Galtaból
+Galtartjörn
+Galtarvatn
+Galtárvatn
+Garðavatn
+Gegnisvatn
+Geirholtsvatn
+Geitakarlavötn
+Geiþólsvatn
+Geldingavatn
+Gerpisvatn
+Gilsárvötn
+Gislavatn
+Gjávatn
+Gjögursvatn
+Glamstjörn
+Glápavötn
+Götuvatn
+Grensásvatn
+Gripdeild
+Grjótárvatn
+Grjótávatn
+Grunnuvötn
+Grænumýrarvatn
+Gufudalsvatn
+Gunnarssonavatn
+Gusutjarnir
+Gæsavötn
+Háafellsvatn
+Hafralón
+Hafravatn
+Hagatjörn
+Háleiksvatn
+Hallarvötn
+Hálsavatn
+Hamarsvötn
+Hamravatn
+Hásteinsvatn
+Haukabrekkuvatn
+Haukadalsvatn
+Haukstjörn
+Hávarðarvatn
+Hávaðavötn
+Helgavatn
+Helluvatn
+Helluvaðstjörn
+Hengifossárvatn
+Hesþallarvatn
+Héðinsstaðavatn
+Hítarvatn
+Hnútuvatn
+Hofsvötn
+Hólavötn
+Hólmlátursvötn
+Hólmsárlón
+Hólmsvatn
+Holtavörðuvatn
+Hóp
+Höskuldsvatn
+Hosuhlíðarvatn
+Hrafnabjargarvatn
+Hrafnatjarnir
+Hrappsstaðaselstjörn
+Hraunhafnarvatn
+Hraunsfjarðarvatn
+Hraunvatn
+Hraunvötn
+Hreiðarvatn
+Hreðavatn
+Hrjótarvatn
+Hrófbergsvatn
+Hrólfsvatn
+Hrútárpollar
+Hrútsvatn
+Hundavötn
+Hvalvatn
+Hvammsvatn
+Hvanntjörn
+Hvilftarvatn
+Hvítárvatn
+Hvítavatn
+Hældrag
+Illavatn
+Innra Bárvatn
+Innstavatn
+Isavatn
+Íshólsvatn
+Jafnavatn
+Jökulsárlón
+Jökulvatn
+Jónsvatn
+Kaldalón
+Kaldárvatn
+Kaldavatn
+Kálfborgarárvatn
+Kalmanstjörn
+Kambavatn
+Katanestjörn
+Kelduárvatn
+Kelduvötn
+Kerlingavatn
+Ketilvatn
+Kílatjörn
+Kirkjufellsvatn
+Kjálkavatn
+Kjalvötn
+Kjóavatn
+Kleifarvatn
+Kleppavatn
+Kleppuvatn
+Kolgrímsvötn
+Kollavíkurvatn
+Kollumúlavatn
+Kornsárvatn
+Kottjarnir
+Krákuvatn
+Krókatjarnir
+Krókatjörn
+Króksvatn
+Krossárvatn
+Krossavatn
+Krossaxlavatn
+Krummavatn
+Kuggavatn
+Kvíslavatn
+Lagarfljót
+Lambadalsvatn
+Lambárvatn
+Lambhagavatn
+Lanarvatn
+Langagilslón
+Langhólmavatn
+Langisjór
+Látravatn
+Laufdalsvatn
+Laufsalavatn
+Laugabólsvatn
+Laugarvatn
+Laugavatn
+Launvatn
+Leggjabrjótstjarnir
+Leirtjarnir
+Leirvatn
+Leirvogsvatn
+Leirvötn
+Líkárvatn
+Litla-Sandvatn
+Litla-Þórarinsvatn
+Litlisjór
+Ljósavatn
+Lómavatn
+Lönguvatn
+Lönguvötn
+Loðmundarvatn
+Máfavatn
+Máfsvatn
+Máfvötn
+Mánárvötn
+Mannabeinavatn
+Margrjetarvatn
+Másvatn
+Matbrunnavatn
+Melavatn
+Melrakkavatn
+Meyjarvatn
+Meðalfellsvatn
+Miðdalsvatn
+Miðfjarðarvatn
+Miðheiðarvatn
+Miðheiðarvötn
+Miðhlutarvatn
+Mordísarvatn
+Mosavatn
+Mýfluguvatn
+Mynnisvötn
+Myrkavatn
+Mývatn
+Nesjavatn
+Neðra-Selvatn
+Neðravatn
+Neðstavatn
+Níkurvatn
+Nollstjörn
+Nýjavatn
+Nyrðriófæra
+Nyrðstavatn
+Ódáðavötn
+Oddastaðavatn
+Oddavatn
+Oddnýjartjörn
+Öldugilsvatn
+Öldutjörn
+Ölfustjörn
+Ónýtavatn
+Orravatn
+Pálsselsvatn
+Prestvatn
+Purkuvatn
+Raufarhafnavötn
+Rauðanúpsvatn
+Rauðavatn
+Refkelsvatn
+Reftjarnir
+Reiðaraxlavatn
+Reiðarvatn
+Reiðtjörn
+Rekavatn
+Rekavíkurvatn
+Réttarvatn
+Reykjavatn
+Reynisvatn
+Reyðarvötn
+Rifsæðarvötn
+Rimavatn
+Sámsstaðavatn
+Sandhnúkavatn
+Sandkluftavatn
+Sauravatn
+Saurbæjarvatn
+Saurdalsvatn
+Sauðafellsvatn
+Sauðavatn
+Seltjarnir
+Selvallavatn
+Sigurðarstaðatjörn
+Silungavatn
+Sjötjarnir
+Skálavatn
+Skálavötn
+Skálsvatn
+Skammbeinstjörn
+Skeiðárvatn
+Skemmuvatn
+Skipavatn
+Skollablár
+Skorarvatn
+Skorradalsvatn
+Skriðuvatn
+Skúfnavötn
+Skúmsstaðavatn
+Skútatjörn
+Sléttuhlíðarvatn
+Slýjuvatn
+Smalatjörn
+Smirlatjörn
+Smjörvötn
+Snjóölduvatn
+Stafnsvötn
+Stakfellsvatn
+Stakkahnjúksvatn
+Staðarvatn
+Steintjörn
+Steinunnarvatn
+Stekkjarlækjartjörn
+Stíflisdalsvatn
+Stóra Eyjarvatn
+Stóra-Fossvatn
+Stóralón
+Stórhólmavatn
+Strútsvatn
+Stæðavötn
+Suður-Húsardalsvatn
+Suðurvatn
+Svansvíkurvatn
+Svartárpollar
+Svartárvatn
+Sveinsdalsvötn
+Systravatn
+Sænautavatn
+Tjarnargerðisvatn
+Tjörnin
+Tóarvatn
+Torfadalsvatn
+Torfastaðavatn
+Torftjörn
+Tungutjörn
+Úlfkelsvatn
+Úlfljótsvatn
+Úlfsvatn
+Urriðavötn
+Urðarvötn
+Urðhæðavatn
+Úthlíðarvatn
+Útsuðursvatn
+Valdavatn
+Valgerðarhlaup
+Vatnalautavatn
+Vatnavatn
+Vatnsdalsvatn
+Vatnshlíðarvatn
+Veiðitjörn
+Veiðivötn
+Vestara-Gilsvatn
+Vestdalsvatn
+Vestmannsvatn
+Vestra-Blönduvatn
+Vestra-Hólsvatn
+Vesturhópsvatn
+Vífilsstaðaflói
+Víkingavatn
+Vikravatn
+Villingavatn
+Víti in Askja
+Viðarvatn
+Viðarvötn
+Víðisvatn
+Vondadalsvatn
+Ytra Bárvatn
+Ytra-Deildarvatn
+Æðarvatn
+Æðarvötn
+Þaravatn
+Þingvallavatn
+Þiðriksvallavatn
+Þórarinsvatn
+Þórarinsvötn
+Þorbergsvatn
+Þorgeirstjörn
+Þorgeirsvatn
+Þorgeirsvötn
+Þórhallalón
+Þórutjörn
+Þorvaldsvatn
+Þorvaldsvötn
+Þríhyrningsvatn
+Þrístikluvatn
+Þrætuvatn
+Þúfnavatn
+Þúfuvötn
+Þuríðarvatn
+Þveit
+Þverárvatn
+Þverdalsvatn

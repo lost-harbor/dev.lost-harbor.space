@@ -1,0 +1,5000 @@
+Yılmaz	996
+Öztürk	586
+Şahin	536
+Kaya	450
+Yıldırım	432
+Yıldız	422
+Aydın	404
+Özdemir	375
+Çelik	362
+Arslan	353
+Kılıç	313
+Demir	307
+Doğan	297
+Özcan	235
+Çetin	231
+Aksoy	228
+Erdoğan	222
+Özkan	221
+Yalçın	209
+Can	206
+Yüksel	198
+Turan	184
+Şimşek	181
+Aslan	160
+Şen	159
+Güler	158
+Bozkurt	157
+Köse	147
+Erdem	145
+Ünal	145
+Aktaş	144
+Bulut	144
+Yücel	144
+Koç	143
+Özer	141
+Çakır	134
+Acar	133
+Güneş	132
+Sönmez	130
+Korkmaz	129
+Yavuz	128
+Güven	124
+Mutlu	123
+Demirci	117
+Polat	117
+Işık	112
+Coşkun	110
+Yiğit	110
+Akın	109
+Eren	107
+Ceylan	104
+Tekin	104
+Kara	103
+Keskin	103
+Albayrak	102
+Ateş	100
+Deniz	99
+Gündüz	99
+Güngör	99
+Kurt	96
+Uzun	95
+Avcı	94
+Yazıcı	94
+Uysal	92
+Gül	91
+Koçak	91
+Genç	88
+Kahraman	87
+Turgut	86
+Güner	85
+Kaplan	85
+Çınar	84
+Başaran	81
+Gümüş	81
+Uğur	81
+Çolak	80
+Çiftçi	79
+Toprak	79
+Köksal	78
+Öz	78
+Aydoğan	77
+Sarı	77
+Şener	77
+Erol	76
+Akgül	75
+Akyol	75
+Özen	75
+Alkan	74
+Karataş	74
+Akgün	73
+Aksu	73
+Cengiz	73
+Gürsoy	73
+Çalışkan	72
+Yaşar	72
+Atalay	71
+Çakmak	71
+Özçelik	71
+Sezer	71
+Ünlü	71
+Altun	70
+Çelebi	70
+Günay	70
+Tuncer	70
+Karaman	69
+Akkaya	68
+Balcı	68
+Oğuz	68
+Çiçek	67
+Karahan	67
+Bayrak	66
+Çevik	66
+Demirel	66
+Gültekin	66
+Aydemir	65
+Bayram	65
+Ekinci	65
+Duman	64
+Güney	64
+Özbek	63
+Sağlam	63
+Taş	63
+Gökçe	62
+Savaş	62
+Şentürk	62
+Tosun	62
+Türkmen	62
+Vural	62
+Altay	61
+Ercan	61
+İnan	61
+Karaca	61
+Özgür	61
+Karakaş	60
+Akbaş	59
+Arıkan	59
+Esen	59
+Sezgin	59
+Bayraktar	58
+Gündoğdu	58
+Türkoğlu	58
+Uçar	58
+Tan	57
+Uslu	57
+Akbulut	56
+Akıncı	56
+Ay	56
+Çağlar	56
+Önal	56
+Yaman	56
+Akçay	55
+Kartal	55
+Tuna	55
+Tunç	55
+Akman	54
+Çoban	54
+Ergin	54
+Gürkan	54
+Karadağ	54
+Orhan	54
+Özel	54
+Ulusoy	54
+Akay	53
+Durmuş	53
+Engin	53
+Gürbüz	53
+İlhan	53
+Zengin	53
+Ayhan	52
+Eroğlu	52
+Ertürk	52
+Türk	52
+Yüce	52
+Altın	51
+Bilgin	51
+Budak	51
+Ergün	51
+Koca	51
+Oktay	51
+Turhan	51
+Demirtaş	50
+Emre	50
+Kandemir	50
+Ünsal	50
+Aygün	49
+Baş	49
+Dönmez	49
+Özsoy	49
+Türker	49
+Akyüz	48
+Çetinkaya	48
+Durmaz	48
+Dursun	48
+Gür	48
+Karakaya	48
+Keleş	48
+Kılınç	48
+Sarıkaya	48
+Altıntaş	47
+Baran	47
+Erkan	47
+Gürel	47
+Küçük	47
+Akdemir	46
+Alp	46
+Fırat	46
+Önder	46
+Akalın	45
+Akpınar	45
+Atay	45
+Duran	45
+Gök	45
+Özmen	45
+Topçu	45
+Akdoğan	44
+Aras	44
+Subaşı	44
+Uğurlu	44
+Akdeniz	43
+Dinçer	43
+Er	43
+Aytekin	42
+Dündar	42
+Güvenç	42
+Metin	42
+Şenol	42
+Ersoy	41
+Fidan	41
+Karakuş	41
+Soysal	41
+Bektaş	40
+Kalkan	40
+Özkaya	40
+Bingöl	39
+Gürses	39
+Şengül	39
+Tarhan	39
+Taşdemir	39
+Yalçınkaya	39
+Altan	38
+Baysal	38
+Karadeniz	38
+Soylu	38
+Topal	38
+Tuncel	38
+Üstün	38
+Dinç	37
+Ekici	37
+Güçlü	37
+Güzel	37
+Hatipoğlu	37
+Biçer	36
+Duru	36
+Koçer	36
+Topaloğlu	36
+Usta	36
+Çağlayan	35
+Dikmen	35
+Selçuk	35
+Ural	35
+Akdağ	34
+Karakoç	34
+Sümer	34
+Başar	33
+Çavdaroğlu	33
+Erden	33
+İpek	33
+Kaynak	33
+Onur	33
+Pehlivan	33
+Şeker	33
+Şenel	33
+Taşçı	33
+Taşkın	33
+Tatar	33
+Ağaoğlu	32
+Ak	32
+Akkuş	32
+Aral	32
+Bağcı	32
+Çam	32
+Demircan	32
+Kutlu	32
+Saraç	32
+Sevinç	32
+Tanrıverdi	32
+Ataman	31
+Dede	31
+Elmas	31
+Topuz	31
+Ülker	31
+Üstündağ	31
+Uyar	31
+Vardar	31
+Açıkgöz	30
+Atasoy	30
+Bilge	30
+Bülbül	30
+Ertuğrul	30
+Öcal	30
+Peker	30
+Salman	30
+Şirin	30
+Toker	30
+Yağcı	30
+Yener	30
+Yurtsever	30
+Akan	29
+Bal	29
+Bilgiç	29
+Boz	29
+Değirmenci	29
+Durak	29
+İnal	29
+İnci	29
+Karaaslan	29
+Karagöz	29
+Mete	29
+Ocak	29
+Oral	29
+Pusat	29
+Sayar	29
+Seven	29
+Sungur	29
+Temel	29
+Akar	28
+Alper	28
+Baykara	28
+Bozdoğan	28
+Dağ	28
+Kurtuluş	28
+Okur	28
+Onat	28
+Sayın	28
+Şensoy	28
+Taner	28
+Torun	28
+Tüzün	28
+Cihan	27
+Efe	27
+Ertan	27
+Eser	27
+Gedik	27
+Karabulut	27
+Özbay	27
+Özgen	27
+Pınar	27
+Sabancı	27
+Terzi	27
+Ünver	27
+Uyanık	27
+Varol	27
+Yurdakul	27
+Yılmazer	27
+Altuğ	26
+Apaydın	26
+Barut	26
+Bayar	26
+Civelek	26
+Doğru	26
+Ege	26
+Kalaycı	26
+Karasu	26
+Koyuncu	26
+Parlak	26
+Sert	26
+Uygun	26
+Yavaş	26
+Yeşil	26
+Akyıldız	25
+Çakar	25
+Çalık	25
+Candan	25
+Gencer	25
+Göksu	25
+Günaydın	25
+Hacıoğlu	25
+Kaçar	25
+Köprülü	25
+Meriç	25
+Saraçoğlu	25
+Saygılı	25
+Tezcan	25
+Ülgen	25
+Yazgan	25
+Yazıcıoğlu	25
+Yildiz	25
+Zorlu	25
+Ataç	24
+Atik	24
+Ayaz	24
+Aydoğdu	24
+Bilgen	24
+Deveci	24
+Dilek	24
+Eyüboğlu	24
+Gökçen	24
+Mehmet	24
+Öner	24
+Ören	24
+Sözen	24
+Tiryaki	24
+Yardımcı	24
+Yazar	24
+Adıgüzel	23
+Akbay	23
+Arıcı	23
+Avşar	23
+Çavuşoğlu	23
+Dagli	23
+Demirhan	23
+Doğanay	23
+Ekşi	23
+Erdemir	23
+Ertem	23
+Gökmen	23
+Koçyiğit	23
+Öktem	23
+Selvi	23
+Soydan	23
+Taylan	23
+Uygur	23
+Vatansever	23
+Zeybek	23
+Arat	22
+Ata	22
+Bölükbaşı	22
+Çakıroğlu	22
+Erbay	22
+Eryılmaz	22
+Günal	22
+Karaduman	22
+Karakurt	22
+Köroğlu	22
+Köseoğlu	22
+Olgun	22
+Pala	22
+Poyraz	22
+Sahin	22
+Şanlı	22
+Solmaz	22
+Tanrıkulu	22
+Terzioğlu	22
+Tok	22
+Alptekin	21
+Arda	21
+Atılgan	21
+Aydin	21
+Aytaç	21
+Bilir	21
+Cebeci	21
+Çimen	21
+Cömert	21
+Dal	21
+Ergen	21
+Erman	21
+Gün	21
+Irmak	21
+Kocabaş	21
+Sultan	21
+Temiz	21
+Tunca	21
+Akbaba	20
+Arı	20
+Aşkın	20
+Atakan	20
+Başer	20
+Baydar	20
+Çağatay	20
+Değer	20
+Demirer	20
+Erdinç	20
+Erel	20
+Erten	20
+Gökalp	20
+Gürsel	20
+İmamoğlu	20
+Karabacak	20
+Karacan	20
+Kayhan	20
+Kuru	20
+Müftüoğlu	20
+Ok	20
+Oruç	20
+Osmanoğlu	20
+Özgün	20
+Sever	20
+Sözer	20
+Tamer	20
+Uludağ	20
+Üner	20
+Akarsu	19
+Aktürk	19
+Alan	19
+Alemdar	19
+Arık	19
+Ataş	19
+Atmaca	19
+Ayyıldız	19
+Balkan	19
+Baykal	19
+Berk	19
+Derin	19
+Eker	19
+Ergül	19
+Ertekin	19
+Evren	19
+Filiz	19
+Gezer	19
+Göktaş	19
+Güleç	19
+İleri	19
+İlter	19
+Kocatürk	19
+Odabaşı	19
+Okay	19
+Öncü	19
+Önen	19
+Sayan	19
+Şenocak	19
+Sevim	19
+Sisman	19
+Topçuoğlu	19
+Tüfekçi	19
+Tümer	19
+Türkyılmaz	19
+Akça	18
+Akkoç	18
+Akyürek	18
+Arman	18
+Atilla	18
+Atıcı	18
+Ayan	18
+Balaban	18
+Bora	18
+Burak	18
+Çetiner	18
+Demirkol	18
+Ekmekçi	18
+Eraslan	18
+Erbaş	18
+Erbil	18
+Göksel	18
+Gönen	18
+Gürcan	18
+Kök	18
+Mumcu	18
+Öğüt	18
+Ökten	18
+Onay	18
+Ozan	18
+Ramazanoğlu	18
+Sarıoğlu	18
+Şaşmaz	18
+Saydam	18
+Sezen	18
+Söylemez	18
+Süer	18
+Taşkıran	18
+Taştan	18
+Tufan	18
+Tuncay	18
+Tütüncü	18
+Ülkü	18
+Uzuner	18
+Yörük	18
+Alıcı	17
+Atak	17
+Babacan	17
+Bahadır	17
+Baltacı	17
+Bozdağ	17
+Canpolat	17
+Celik	17
+Ceyhan	17
+Dağdelen	17
+Eken	17
+Ekin	17
+Ertaş	17
+Kahveci	17
+Karaosmanoğlu	17
+Kilic	17
+Öncel	17
+Örnek	17
+Özden	17
+Öztekin	17
+Tunalı	17
+Yakut	17
+Akşit	16
+Ali	16
+Altuntaş	16
+Asan	16
+Aşık	16
+Bakır	16
+Bayındır	16
+Bolat	16
+Bostancı	16
+Çulha	16
+Dogan	16
+Doğu	16
+Düzgün	16
+Elçi	16
+Erkmen	16
+Gökçek	16
+Göker	16
+Göktürk	16
+Gören	16
+Görgülü	16
+Güleryüz	16
+Gürler	16
+Hocaoğlu	16
+Kadıoğlu	16
+Kalender	16
+Karadaş	16
+Kayalı	16
+Kural	16
+Nalbant	16
+Okumuş	16
+Orhon	16
+Özgül	16
+Özlü	16
+Pamuk	16
+Seyhan	16
+Sipahi	16
+Sofuoğlu	16
+Solak	16
+Tezel	16
+Tokgöz	16
+Yolcu	16
+Aksel	15
+Aktan	15
+Alpaslan	15
+Alpay	15
+Altınok	15
+Başkan	15
+Baştürk	15
+Bayazıt	15
+Berber	15
+Beyaz	15
+Bilici	15
+Çebi	15
+Çekiç	15
+Dağdeviren	15
+Dereli	15
+Ekşioğlu	15
+Ersan	15
+Gündoğan	15
+Hekimoğlu	15
+Kocaoğlu	15
+Konuk	15
+Koray	15
+Kotan	15
+Kurnaz	15
+Kurtoğlu	15
+Mercan	15
+Onan	15
+Özalp	15
+Pehlivanoğlu	15
+Saka	15
+San	15
+Serbest	15
+Serdar	15
+Talu	15
+Türkkan	15
+Uluç	15
+Yenigün	15
+Yeşilyurt	15
+Yetkin	15
+Yilmaz	15
+Yorulmaz	15
+Araz	14
+Arıcan	14
+Baba	14
+Barutçu	14
+Barış	14
+Baykan	14
+Benli	14
+Bostan	14
+Çavdar	14
+Demirbaş	14
+Emiroğlu	14
+Erhan	14
+Ersöz	14
+Gülen	14
+Gürpınar	14
+Kalkavan	14
+Karademir	14
+Karatay	14
+Kiraz	14
+Kocaman	14
+Kubat	14
+Kurtulmuş	14
+Kızıl	14
+Meral	14
+Okan	14
+Öksüz	14
+Onaran	14
+Oskay	14
+Özay	14
+Özler	14
+Öztoprak	14
+Saatçi	14
+Şafak	14
+Şahiner	14
+Şahinkaya	14
+Sancar	14
+Şengün	14
+Soyer	14
+Sunar	14
+Talay	14
+Tanyeri	14
+Tetik	14
+Tokmak	14
+Türe	14
+Uçan	14
+Yağmur	14
+Yayla	14
+Yücesoy	14
+Ağar	13
+Ağca	13
+Akkurt	13
+Al	13
+Alparslan	13
+Altıparmak	13
+Atan	13
+Aykaç	13
+Barlas	13
+Batur	13
+Bayhan	13
+Bayramoğlu	13
+Bilen	13
+Bodur	13
+Boran	13
+Boyacı	13
+Çakıcı	13
+Çalış	13
+Çavuş	13
+Çeçen	13
+Demirbağ	13
+Devrim	13
+Ertuğ	13
+Esin	13
+Feyzioğlu	13
+Gönül	13
+Kahya	13
+Kalaycıoğlu	13
+Karan	13
+Karslı	13
+Korkut	13
+Kıraç	13
+Kızılkaya	13
+Noyan	13
+Okyay	13
+Olcay	13
+Orak	13
+Osman	13
+Öztaş	13
+Pişkin	13
+Sabuncu	13
+Sancak	13
+Say	13
+Seçkin	13
+Sökmen	13
+Sözeri	13
+Su	13
+Taşdelen	13
+Tepe	13
+Tokat	13
+Toktaş	13
+Tural	13
+Türkay	13
+Uras	13
+Uzunoğlu	13
+Yağız	13
+Yanık	13
+Yurttaş	13
+Akkoyun	12
+Altınel	12
+Aykut	12
+Balta	12
+Birinci	12
+Birol	12
+Boztepe	12
+Caner	12
+Canlı	12
+Çeliker	12
+Çilingir	12
+Çubukçu	12
+Dalgıç	12
+Demirağ	12
+Demiray	12
+Demircioğlu	12
+Demiroğlu	12
+Dizdar	12
+Durgun	12
+Durukan	12
+Ece	12
+Ekiz	12
+Ergenç	12
+Ergüven	12
+Ersin	12
+Esmer	12
+Fındık	12
+Gezgin	12
+Gülşen	12
+Ilgaz	12
+İnanç	12
+Kaba	12
+Karaoğlu	12
+Kemal	12
+Koşar	12
+Kozan	12
+Kul	12
+Kurdoğlu	12
+Kuş	12
+Kırca	12
+Öney	12
+Özarslan	12
+Özbilen	12
+Özdoğan	12
+Özkök	12
+Özyürek	12
+Sağır	12
+Şahinoğlu	12
+Saral	12
+Sarıtaş	12
+Savaşçı	12
+Şekerci	12
+Serdengeçti	12
+Serin	12
+Sürmeli	12
+Tansel	12
+Tatlı	12
+Tuzcu	12
+Uluğ	12
+Ulutaş	12
+Ün	12
+Yalman	12
+Yapıcı	12
+Yerlikaya	12
+Yetim	12
+Abacı	11
+Açıkalın	11
+Ahmet	11
+Akarca	11
+Akbal	11
+Akçam	11
+Aker	11
+Algan	11
+Arabacı	11
+Arkan	11
+Armağan	11
+Atlı	11
+Bakan	11
+Baki	11
+Başoğlu	11
+Berker	11
+Bilgili	11
+Bircan	11
+Böke	11
+Boyacıoğlu	11
+Boyraz	11
+Büyük	11
+Canbolat	11
+Cantürk	11
+Çiloğlu	11
+Çobanoğlu	11
+Çıtak	11
+Demirkan	11
+Demirkıran	11
+Dere	11
+Doruk	11
+Dülger	11
+Erçin	11
+Erdogan	11
+Erdoğdu	11
+Gemici	11
+Geyik	11
+Girgin	11
+Göktepe	11
+Güneri	11
+Güngören	11
+Inan	11
+İpekçi	11
+İşcan	11
+Kalafat	11
+Kaleli	11
+Kansu	11
+Kar	11
+Karayel	11
+Kart	11
+Kasapoğlu	11
+Kayacan	11
+Kaymak	11
+Kazancı	11
+Kerimoğlu	11
+Kibar	11
+Kocabıyık	11
+Konak	11
+Koral	11
+Kılıçaslan	11
+Memişoğlu	11
+Mustafa	11
+Okutan	11
+Onar	11
+Öngören	11
+Özhan	11
+Özkul	11
+Özyurt	11
+Paker	11
+Pekcan	11
+Şahan	11
+Sak	11
+Şakar	11
+Şekeroğlu	11
+Simsek	11
+Somer	11
+Soykan	11
+Tasar	11
+Tekeli	11
+Timur	11
+Toros	11
+Türkeş	11
+Üçüncü	11
+Ulaş	11
+Yeğin	11
+Yoldaş	11
+Yurtseven	11
+Acer	10
+Adanır	10
+Akat	10
+Akçalı	10
+Akcan	10
+Akin	10
+Arslantaş	10
+Arvas	10
+Arıca	10
+Aşçı	10
+Ayaydin	10
+Aydar	10
+Aydoğmuş	10
+Ayvaz	10
+Bahar	10
+Bayer	10
+Birsel	10
+Bor	10
+Büke	10
+Çakir	10
+Canan	10
+Çapar	10
+Çolakoğlu	10
+Çölgeçen	10
+Çolpan	10
+Coşkuner	10
+Dalkılıç	10
+Dedeoğlu	10
+Demiral	10
+Demiröz	10
+Durdu	10
+Eldem	10
+Eralp	10
+Eriş	10
+Erkal	10
+Erkin	10
+Erkoç	10
+Gedikli	10
+Gençoğlu	10
+Gökdemir	10
+Gözen	10
+Güç	10
+İnce	10
+Karabay	10
+Karapınar	10
+Karatekin	10
+Kayalar	10
+Kazan	10
+Keser	10
+Köker	10
+Köklü	10
+Kol	10
+Köymen	10
+Kunt	10
+Kuşçu	10
+Kır	10
+Kıran	10
+Levent	10
+Memiş	10
+Mengi	10
+Mert	10
+Nazlı	10
+Ongun	10
+Özal	10
+Özbey	10
+Özkara	10
+Pektaş	10
+Rıza	10
+Sakarya	10
+Saner	10
+Saygın	10
+Semiz	10
+Sürer	10
+Sürücü	10
+Taşpınar	10
+Tek	10
+Tekelioğlu	10
+Tez	10
+Tokatlı	10
+Töre	10
+Toy	10
+Tunçer	10
+Utku	10
+Uzel	10
+Varlı	10
+Yakın	10
+Yanar	10
+Yörükoğlu	10
+Yüksek	10
+Yüzbaşıoğlu	10
+Yıldızhan	10
+Zafer	10
+Zeren	10
+Abbasoğlu	9
+Ada	9
+Adıyaman	9
+Afşar	9
+Akkaş	9
+Aksakal	9
+Aksan	9
+Alagöz	9
+Aldemir	9
+Alkaya	9
+Altınkaya	9
+Anıl	9
+Atabek	9
+Atalar	9
+Ataoğlu	9
+Ayar	9
+Aydınlı	9
+Babaoğlu	9
+Baloğlu	9
+Bardakçı	9
+Batmaz	9
+Belen	9
+Bilek	9
+Bozok	9
+Burcu	9
+Çabuk	9
+Çakan	9
+Calisir	9
+Çayır	9
+Çerçi	9
+Cerit	9
+Demirdağ	9
+Dicle	9
+Diker	9
+Dilber	9
+Dilmen	9
+Dinçel	9
+Doğulu	9
+Ecevit	9
+Eke	9
+Erbakan	9
+Erçetin	9
+Erdemli	9
+Erdil	9
+Ergun	9
+Gencay	9
+Göçmen	9
+Gökay	9
+Göncü	9
+Gönültaş	9
+Gör	9
+Güllü	9
+Has	9
+Huseyin	9
+İbrahimoğlu	9
+İskender	9
+Kabak	9
+Kabasakal	9
+Kaçmaz	9
+Karatepe	9
+Kaygusuz	9
+Kaymaz	9
+Kesici	9
+Kesim	9
+Kömürcü	9
+Kumbasar	9
+Kılıçoğlu	9
+Kızılay	9
+Morgül	9
+Öcalan	9
+Odabaş	9
+Öğün	9
+Ömer	9
+Ömeroğlu	9
+Oran	9
+Orman	9
+Örs	9
+Ortaç	9
+Özaydin	9
+Özdamar	9
+Özdil	9
+Özek	9
+Özgüç	9
+Özkurt	9
+Özşahin	9
+Özışık	9
+Sabuncuoğlu	9
+Sağlık	9
+Şan	9
+Sarıbaş	9
+Savran	9
+Sazak	9
+Selek	9
+Sertel	9
+Sinanoğlu	9
+Süzer	9
+Tarakçı	9
+Teker	9
+Telli	9
+Toraman	9
+Turgay	9
+Umut	9
+Ünüvar	9
+Us	9
+Uz	9
+Yakupoğlu	9
+Yalçıner	9
+Yalın	9
+Yapar	9
+Yaralı	9
+Yardım	9
+Abalı	8
+Acun	8
+Acuner	8
+Afacan	8
+Ağralı	8
+Akaydın	8
+Akgöl	8
+Akkoyunlu	8
+Aktuğ	8
+Akış	8
+Aladağ	8
+Alataş	8
+Alkış	8
+Alpan	8
+Altintas	8
+Altunay	8
+Altundağ	8
+Altınay	8
+Altıok	8
+Alver	8
+Ar	8
+Ardıç	8
+Arseven	8
+Arıkoğlu	8
+Arın	8
+Asena	8
+Atacan	8
+Atalan	8
+Avcıoğlu	8
+Bağ	8
+Bahtiyar	8
+Bakırcı	8
+Balcıoğlu	8
+Ballı	8
+Başarır	8
+Başkaya	8
+Başkurt	8
+Başpınar	8
+Baştuğ	8
+Bayır	8
+Bekiroğlu	8
+Bengisu	8
+Berberoğlu	8
+Bozer	8
+Bucak	8
+Burgaz	8
+Çanakçı	8
+Çapan	8
+Çelebioğlu	8
+Çelen	8
+Cesur	8
+Çetinel	8
+Cihangir	8
+Çoker	8
+Coşar	8
+Çırak	8
+Danışman	8
+Davran	8
+Dayan	8
+Delibaş	8
+Derman	8
+Develi	8
+Dikici	8
+Eğilmez	8
+Ekmekçioğlu	8
+Erkul	8
+Evliyaoğlu	8
+Fırtına	8
+Gençtürk	8
+Gerçeker	8
+Gezmiş	8
+Giray	8
+Gönenç	8
+Görmez	8
+Gürer	8
+Hakan	8
+Hancı	8
+Helvacı	8
+Helvacıoğlu	8
+Işıklar	8
+Kanık	8
+Karabıyık	8
+Karadayı	8
+Karadoğan	8
+Karaoğlan	8
+Kardeş	8
+Kars	8
+Kasap	8
+Kavak	8
+Kavaklı	8
+Kavas	8
+Kavlak	8
+Kayaalp	8
+Kayan	8
+Kayar	8
+Koçoğlu	8
+Kum	8
+Küpeli	8
+Kuran	8
+Kurşun	8
+Kuzu	8
+Kırdar	8
+Kıvanç	8
+Kızıltan	8
+Malkoç	8
+Menderes	8
+Menekşe	8
+Menteş	8
+Mertoğlu	8
+Murat	8
+Mursaloğlu	8
+Mısırlıoğlu	8
+Nas	8
+Nebioğlu	8
+Nur	8
+Okyar	8
+Ölçer	8
+Olgaç	8
+Öymen	8
+Ozansoy	8
+Özaslan	8
+Ozcan	8
+Ozdemir	8
+Özdeş	8
+Özdilek	8
+Özeren	8
+Özoğul	8
+Öztop	8
+Pak	8
+Paksoy	8
+Pamir	8
+Pekin	8
+Pekşen	8
+Sadıkoğlu	8
+Sağdıç	8
+Sağıroğlu	8
+Saltık	8
+Samancı	8
+Sargın	8
+Sarıca	8
+Şencan	8
+Serdaroğlu	8
+Sertoğlu	8
+Sevimli	8
+Seyman	8
+Sivri	8
+Söylemezoğlu	8
+Süner	8
+Tandoğan	8
+Tanık	8
+Tekçe	8
+Teoman	8
+Tercan	8
+Tevfik	8
+Tolon	8
+Tonguç	8
+Toptaş	8
+Tükel	8
+Türel	8
+Türkdoğan	8
+Tutar	8
+Tınaz	8
+Uluçay	8
+Ümit	8
+Üngör	8
+Ünlütürk	8
+Uraz	8
+Ürkmez	8
+Üstüner	8
+Vatan	8
+Yakar	8
+Yetkiner	8
+Abay	7
+Açar	7
+Akkan	7
+Aksungur	7
+Aktas	7
+Alpar	7
+Anar	7
+Andaç	7
+Aöık	7
+Apak	7
+Aran	7
+Arar	7
+Arel	7
+Argun	7
+Arsan	7
+Arslanoğlu	7
+Arısoy	7
+Ayanoğlu	7
+Ayas	7
+Ayaşlı	7
+Aybay	7
+Aydan	7
+Aydıner	7
+Ayral	7
+Aytar	7
+Azizoğlu	7
+Balık	7
+Basman	7
+Battal	7
+Baydur	7
+Bayrakdar	7
+Bedir	7
+Belli	7
+Bengü	7
+Bilal	7
+Bilgi	7
+Binici	7
+Birdal	7
+Boysan	7
+Bozan	7
+Bozbay	7
+Bozbey	7
+Bozkaya	7
+Buğdaycı	7
+Bıyık	7
+Canbaz	7
+Çankaya	7
+Çay	7
+Çelenk	7
+Çelikel	7
+Çelikkol	7
+Cetin	7
+Cevher	7
+Çiftçioğlu	7
+Coskun	7
+Davutoğlu	7
+Demirok	7
+Diken	7
+Dilligil	7
+Doğramacı	7
+Dural	7
+Düz	7
+Eczacıbaşı	7
+Elmacı	7
+Emek	7
+Emir	7
+Erdener	7
+Erdoğmuş	7
+Erik	7
+Erinç	7
+Ertunç	7
+Fişek	7
+Göçer	7
+Göğüş	7
+Gökgöz	7
+Gökhan	7
+Göktan	7
+Gormus	7
+Güran	7
+Haberal	7
+Hamzaoğlu	7
+Hazer	7
+Heper	7
+Hikmet	7
+Hoşgör	7
+İçli	7
+İlgün	7
+İslamoğlu	7
+İşsever	7
+Iyigun	7
+Kaan	7
+Kaçan	7
+Kantarcı	7
+Karaağaç	7
+Karababa	7
+Karagülle	7
+Karahasan	7
+Karaküçük	7
+Kargın	7
+Karpat	7
+Karslıoğlu	7
+Katipoğlu	7
+Kavuncu	7
+Kaygısız	7
+Kayıkçı	7
+Keçeli	7
+Kemaloğlu	7
+Kepenek	7
+Kiper	7
+Köylü	7
+Koyun	7
+Küçükoğlu	7
+Kulaksız	7
+Kıyak	7
+Leblebici	7
+Moralı	7
+Nuhoğlu	7
+Numanoğlu	7
+Nuri	7
+Ocaklı	7
+Oflaz	7
+Oktar	7
+Ölmez	7
+Ovalı	7
+Özdal	7
+Özenç	7
+Özkal	7
+Ozkan	7
+Özkazanç	7
+Özoğuz	7
+Özpolat	7
+Öztan	7
+Öztunç	7
+Özturan	7
+Öztürkmen	7
+Özyiğit	7
+Pamukçu	7
+Pars	7
+Pekel	7
+Perçin	7
+Pir	7
+Poyrazoğlu	7
+Reis	7
+Sahbaz	7
+Sarp	7
+Sarıgül	7
+Satici	7
+Saylan	7
+Semerci	7
+Sipahioğlu	7
+Söğüt	7
+Sokullu	7
+Söyler	7
+Sürenkök	7
+Sütçü	7
+Tahir	7
+Tanman	7
+Tarcan	7
+Tarım	7
+Taşkan	7
+Tastekin	7
+Tayfur	7
+Topbaş	7
+Torlak	7
+Tüfekçioğlu	7
+Tuğ	7
+Tugay	7
+Tuğcu	7
+Tuğrul	7
+Tunakan	7
+Türkcan	7
+Türkmenoglu	7
+Üçer	7
+Üçok	7
+Ugur	7
+Ulu	7
+Unal	7
+Ürün	7
+Ustaoğlu	7
+Yamaç	7
+Yanardağ	7
+Yaprak	7
+Yarar	7
+Yarkın	7
+Yasan	7
+Yaşın	7
+Yenen	7
+Yetiş	7
+Yüceer	7
+Yürekli	7
+Yurt	7
+Yürür	7
+Yıkılmaz	7
+Yıldıran	7
+Zeydan	7
+Zeyrek	7
+Zileli	7
+Ziya	7
+Acet	6
+Açıkel	6
+Adak	6
+Adali	6
+Adil	6
+Agaoglu	6
+Akcakaya	6
+Akçiçek	6
+Akdur	6
+Akova	6
+Akpolat	6
+Aksit	6
+Aktar	6
+Aktay	6
+Akyel	6
+Algül	6
+Alişan	6
+Altunel	6
+Altınsoy	6
+Altıntop	6
+Antmen	6
+Araç	6
+Artun	6
+Aslanoğlu	6
+Asutay	6
+Ataseven	6
+Atici	6
+Avar	6
+Ayata	6
+Aybar	6
+Aybars	6
+Aykurt	6
+Aysan	6
+Ayvazoğlu	6
+Ayık	6
+Azak	6
+Aziz	6
+Bakar	6
+Bakir	6
+Balamir	6
+Balkaya	6
+Balıkçı	6
+Barın	6
+Başbuğ	6
+Baştan	6
+Batu	6
+Batum	6
+Becerikli	6
+Beker	6
+Bekir	6
+Beksaç	6
+Bener	6
+Bengi	6
+Besen	6
+Beşer	6
+Besli	6
+Beyazıt	6
+Beyhan	6
+Biber	6
+Bildik	6
+Bilginer	6
+Bilican	6
+Birand	6
+Birben	6
+Birlik	6
+Börekçi	6
+Boyar	6
+Bozoğlu	6
+Bozyel	6
+Bulduk	6
+Bütün	6
+Cagliyan	6
+Çağıran	6
+Çakmakçı	6
+Çakmaklı	6
+Camcı	6
+Candemir	6
+Çapanoğlu	6
+Çarmıklı	6
+Caymaz	6
+Cerrahoğlu	6
+Cevahir	6
+Çilingiroğlu	6
+Çinar	6
+Civan	6
+Çömez	6
+Çoruh	6
+Cırık	6
+Dagci	6
+Damar	6
+Daş	6
+Daşdemir	6
+Dayıoğlu	6
+Değirmencioğlu	6
+Demiralp	6
+Demirsoy	6
+Denizli	6
+Derici	6
+Derviş	6
+Dervişoğlu	6
+Develioğlu	6
+Diler	6
+Dindar	6
+Dinler	6
+Direk	6
+Dirik	6
+Doğanlar	6
+Doğruer	6
+Doğrusöz	6
+Dülgeroğlu	6
+Dumanlı	6
+Duyar	6
+Duygulu	6
+Egeli	6
+Elibol	6
+Elma	6
+Elmalı	6
+Emekli	6
+Erat	6
+Eraydın	6
+Erciyes	6
+Erduran	6
+Erem	6
+Erenler	6
+Ergene	6
+Erken	6
+Erkut	6
+Ermiş	6
+Eronat	6
+Ersen	6
+Eyüpoğlu	6
+Germen	6
+Gezici	6
+Gökcan	6
+Göle	6
+Gülay	6
+Gülbahar	6
+Gülpınar	6
+Gümrükçü	6
+Gürkaynak	6
+Gürsu	6
+Güvener	6
+Halıcı	6
+İbiş	6
+İlkin	6
+Ilıcak	6
+İnanoğlu	6
+İşler	6
+Kantarcıoğlu	6
+Karaçam	6
+Karaköse	6
+Karcı	6
+Kavaz	6
+Kayaoğlu	6
+Keçeci	6
+Keklik	6
+Kesgin	6
+Ketenci	6
+Kiremitçi	6
+Koçal	6
+Kocatepe	6
+Köken	6
+Koloğlu	6
+Kolukısa	6
+Konca	6
+Kopuz	6
+Korucu	6
+Korutürk	6
+Küçükay	6
+Kula	6
+Kulaksızoğlu	6
+Kumral	6
+Kumru	6
+Kutman	6
+Kıpçak	6
+Kıratlı	6
+Kırcı	6
+Kırmızı	6
+Kısa	6
+Kıvrak	6
+Mardin	6
+Menteşe	6
+Muratoğlu	6
+Muslu	6
+Mızrak	6
+Nalbantoğlu	6
+Narin	6
+Nayır	6
+Nergiz	6
+Oduncu	6
+Okçu	6
+Okuyan	6
+Orbay	6
+Ordu	6
+Orhun	6
+Özak	6
+Özbakır	6
+Özbilgin	6
+Özge	6
+Öztorun	6
+Özyıldız	6
+Palabıyık	6
+Parlar	6
+Salihoğlu	6
+Şanal	6
+Sancaktar	6
+Sari	6
+Sarıalioğlu	6
+Şenay	6
+Şenses	6
+Şimşir	6
+Soner	6
+Soytürk	6
+Süleyman	6
+Sülün	6
+Sunal	6
+Tanrıöver	6
+Tanyeli	6
+Taşçıoğlu	6
+Temizer	6
+Tokaç	6
+Tokay	6
+Toksoy	6
+Toksöz	6
+Tozlu	6
+Tülek	6
+Tümay	6
+Türen	6
+Türkan	6
+Türköz	6
+Ülger	6
+Ülkümen	6
+Ünel	6
+Ünlüer	6
+Utlu	6
+Üzüm	6
+Üzümcü	6
+Uzunlar	6
+Varlık	6
+Yalaz	6
+Yasin	6
+Yenal	6
+Yeşilkaya	6
+Yeşiltepe	6
+Yeter	6
+Yöntem	6
+Yumuşak	6
+Zaimoğlu	6
+Abacıoğlu	5
+Açıksöz	5
+Ağan	5
+Ağırbaş	5
+Akal	5
+Akbaşlı	5
+Akbıyık	5
+Akçaoğlu	5
+Akgun	5
+Akşar	5
+Aksin	5
+Aksöz	5
+Aktekin	5
+Aktulga	5
+Akı	5
+Akıllı	5
+Alaca	5
+Albay	5
+Alev	5
+Alkaş	5
+Alpdoğan	5
+Alpman	5
+Alten	5
+Altin	5
+Altunbaş	5
+Altınbaş	5
+Altındağ	5
+Altıner	5
+Altınöz	5
+Altınışık	5
+Aracı	5
+Arkın	5
+Arpacı	5
+Arun	5
+Asil	5
+Asyalı	5
+Atabay	5
+Atabey	5
+Atakol	5
+Atasever	5
+Atlıhan	5
+Avci	5
+Ayçiçek	5
+Aydos	5
+Aygen	5
+Aykan	5
+Aykanat	5
+Ayna	5
+Ayverdi	5
+Badur	5
+Bağış	5
+Bahçeci	5
+Baltacıoğlu	5
+Barak	5
+Baransel	5
+Barçın	5
+Başak	5
+Baskın	5
+Bayat	5
+Baydemir	5
+Bayrakçı	5
+Baysan	5
+Baytok	5
+Bekar	5
+Bekmez	5
+Belge	5
+Belgin	5
+Bereket	5
+Berköz	5
+Berksoy	5
+Beşiroğlu	5
+Beyan	5
+Beyoğlu	5
+Bildirici	5
+Bilsel	5
+Biner	5
+Bingül	5
+Birgen	5
+Biricik	5
+Bölek	5
+Bozacı	5
+Bozdemir	5
+Bumin	5
+Çağan	5
+Çalışlar	5
+Çamcı	5
+Canbulat	5
+Candar	5
+Cansever	5
+Cansu	5
+Cansız	5
+Çapa	5
+Çelikbilek	5
+Çengel	5
+Cevdet	5
+Cevheri	5
+Ceyhun	5
+Çiğdem	5
+Ciğerci	5
+Cindoruk	5
+Çorbacıoğlu	5
+Çubuk	5
+Çukurova	5
+Dağtekin	5
+Daştan	5
+Demirkaya	5
+Demirörs	5
+Dilaver	5
+Dilik	5
+Dino	5
+Doğar	5
+Domaç	5
+Durmuşoğlu	5
+Ecer	5
+Emeksiz	5
+Emin	5
+Ener	5
+Erbek	5
+Erdemoğlu	5
+Erdeniz	5
+Ergenekon	5
+Ergüder	5
+Erim	5
+Erkek	5
+Ertas	5
+Erturk	5
+Eryiğit	5
+Erzincan	5
+Esener	5
+Eskici	5
+Evin	5
+Fazlıoğlu	5
+Feray	5
+Fındıklı	5
+Geçer	5
+Gökbulut	5
+Göknil	5
+Göral	5
+Gülcan	5
+Gülek	5
+Gülseren	5
+Gülsoy	5
+Gülüm	5
+Gümüşay	5
+Günday	5
+Gurel	5
+Gürol	5
+Güvenir	5
+Hakyemez	5
+Hamamcıoğlu	5
+Harmancı	5
+Hasdemir	5
+Hazar	5
+Haznedaroğlu	5
+Hızarcı	5
+İbrahim	5
+İdil	5
+İncesu	5
+İnkaya	5
+İnönü	5
+İskenderoğlu	5
+İslam	5
+Kabakçı	5
+Kalyoncu	5
+Kaner	5
+Kanmaz	5
+Karabaş	5
+Karabudak	5
+Karacaoğlu	5
+Karanfil	5
+Karlıdağ	5
+Kavakçı	5
+Kayahan	5
+Kaymakçı	5
+Kazak	5
+Kemer	5
+Kesimal	5
+Keskiner	5
+Kilickaya	5
+Kirişçi	5
+Kolat	5
+Koldaş	5
+Körmükçü	5
+Kotil	5
+Koz	5
+Küçükşahin	5
+Kürkçü	5
+Kurtulan	5
+Kuruoğlu	5
+Kütük	5
+Kuyucu	5
+Kuzucu	5
+Kılıçarslan	5
+Kınay	5
+Kırbaş	5
+Kırcalı	5
+Kısacık	5
+Kızıldağ	5
+Kızıltaş	5
+Kızılırmak	5
+Laçin	5
+Levi	5
+Macit	5
+Mağden	5
+Manav	5
+Melek	5
+Melekoğlu	5
+Menemencioğlu	5
+Moran	5
+Mumcuoğlu	5
+Musaoğlu	5
+Namlı	5
+Necipoğlu	5
+Ögel	5
+Ökmen	5
+Önalan	5
+Öngel	5
+Osmanağaoğlu	5
+Özata	5
+Özbal	5
+Özbaş	5
+Özberk	5
+Özbir	5
+Özbudak	5
+Özçimen	5
+Özdağ	5
+Özdek	5
+Özil	5
+Özpınar	5
+Öztrak	5
+Öztuna	5
+Özüdoğru	5
+Özveren	5
+Özyaşar	5
+Pakdemirli	5
+Pek	5
+Pekdemir	5
+Pekmezci	5
+Pınarbaşı	5
+Ramoğlu	5
+Renda	5
+Saban	5
+Safi	5
+Şahinbaş	5
+Sam	5
+Sancaklı	5
+Şar	5
+Saracoğlu	5
+Saran	5
+Sarıyıldız	5
+Satır	5
+Savcı	5
+Şavlı	5
+Saygı	5
+Selimoğlu	5
+Semercioğlu	5
+Sen	5
+Şendil	5
+Şengel	5
+Şengör	5
+Serezli	5
+Serim	5
+Sertdemir	5
+Sevgi	5
+Sevindik	5
+Sinan	5
+Şipal	5
+Sirmen	5
+Somuncu	5
+Süleymanoğlu	5
+Susam	5
+Tahincioğlu	5
+Tankut	5
+Taşkent	5
+Tatlıoğlu	5
+Teke	5
+Tekinalp	5
+Tekindor	5
+Timuroğlu	5
+Togay	5
+Tokdemir	5
+Tolunay	5
+Topaktaş	5
+Toptan	5
+Tülü	5
+Tunçay	5
+Turkmen	5
+Turp	5
+Tüysüz	5
+Ucar	5
+Ulusu	5
+Umar	5
+Ünsalan	5
+Uran	5
+Uşaklıgil	5
+Üstünel	5
+Utkan	5
+Vanlı	5
+Velioğlu	5
+Yağcıoğlu	5
+Yakan	5
+Yalçıntaş	5
+Yamantürk	5
+Yasar	5
+Yaylacı	5
+Yazici	5
+Yeni	5
+Yenice	5
+Yenilmez	5
+Yerebakan	5
+Yeşilbaş	5
+Yeşiltaş	5
+Yiğitbaşı	5
+Yiğiter	5
+Yönder	5
+Yücesan	5
+Yurdatapan	5
+Yurtdaş	5
+Yusuf	5
+Yusufoğlu	5
+Yıldızoğlu	5
+Zan	5
+Abadan	4
+Abanoz	4
+Abasıyanık	4
+Acartürk	4
+Adal	4
+Adanir	4
+Aday	4
+Ademoğlu	4
+Adiloğlu	4
+Ağacık	4
+Ahıskalı	4
+Akad	4
+Akatlı	4
+Akbas	4
+Akçura	4
+Akçıl	4
+Akdogan	4
+Akel	4
+Akgöz	4
+Akhan	4
+Akkılıç	4
+Akoğlu	4
+Aküzüm	4
+Akyar	4
+Akyazı	4
+Akyıl	4
+Akıl	4
+Akıncıoğlu	4
+Akışık	4
+Alakuş	4
+Alasya	4
+Alçiçek	4
+Alemdaroğlu	4
+Alimoğlu	4
+Alnıaçık	4
+Alphan	4
+Altaş	4
+Altaylı	4
+Alyanak	4
+Anadol	4
+Andıç	4
+Ankaralı	4
+Anlı	4
+Araslı	4
+Arduç	4
+Arikan	4
+Arkun	4
+Arpacıoğlu	4
+Arsebük	4
+Arslantürk	4
+Artaç	4
+Arıbaş	4
+Arığ	4
+Arısan	4
+Ataklı	4
+Atamtürk	4
+Atar	4
+Atav	4
+Ates	4
+Atsız	4
+Avcu	4
+Avdan	4
+Aycan	4
+Aydınlık	4
+Aygan	4
+Aygül	4
+Aynacı	4
+Ayoğlu	4
+Aytan	4
+Aytemiz	4
+Aytuğ	4
+Azap	4
+Babaoglu	4
+Badem	4
+Bademci	4
+Bademsoy	4
+Baha	4
+Bak	4
+Bakkal	4
+Bakırcıoğlu	4
+Balak	4
+Baltacıgil	4
+Barbarosoğlu	4
+Basmacı	4
+Başol	4
+Başyiğit	4
+Batman	4
+Baykurt	4
+Baylan	4
+Bayraklı	4
+Bayraktaroğlu	4
+Bayraktutan	4
+Baysak	4
+Baysoy	4
+Baytekin	4
+Bedel	4
+Bedük	4
+Behramoğlu	4
+Bek	4
+Bekaroğlu	4
+Bekçi	4
+Beken	4
+Benler	4
+Benlioğlu	4
+Bereketoğlu	4
+Berkin	4
+Berkman	4
+Beşerler	4
+Besler	4
+Betil	4
+Bezmen	4
+Bilgehan	4
+Bilgir	4
+Binay	4
+Birgül	4
+Boğa	4
+Bölük	4
+Boncuk	4
+Böre	4
+Boşnak	4
+Bostancıoğlu	4
+Boyner	4
+Bozatlı	4
+Bozdogan	4
+Bozgeyik	4
+Bozkır	4
+Büker	4
+Bulak	4
+Burçak	4
+Burhan	4
+Büyükburç	4
+Bıçakçı	4
+Bıyıklı	4
+Bıyıklıoğlu	4
+Çağrı	4
+Cakir	4
+Çakın	4
+Çalıkuşu	4
+Çanak	4
+Cankurtaran	4
+Cantekin	4
+Çapkınoğlu	4
+Çapoğlu	4
+Çatak	4
+Çatal	4
+Cebe	4
+Çeken	4
+Çene	4
+Ceviz	4
+Cicek	4
+Cinel	4
+Çirkin	4
+Çobanlı	4
+Coşan	4
+Çulhaoğlu	4
+Çıray	4
+Dağdaş	4
+Dağlı	4
+Dalokay	4
+Davarcı	4
+Değerli	4
+Delibalta	4
+Deligöz	4
+Deliktaş	4
+Demirbilek	4
+Demirtas	4
+Diren	4
+Dirican	4
+Dirim	4
+Dizdaroğlu	4
+Dolunay	4
+Donat	4
+Dost	4
+Durul	4
+Durusu	4
+Duyan	4
+Ebüzziya	4
+Ekim	4
+Elbir	4
+Eliaçık	4
+Elmaağaçlı	4
+Elvan	4
+Enver	4
+Eray	4
+Erbatur	4
+Erbulak	4
+Erenerol	4
+Erişmiş	4
+Erköse	4
+Erozan	4
+Erşahin	4
+Ertegün	4
+Eryurt	4
+Evliya	4
+Fındıkoğlu	4
+Gerede	4
+Giritlioğlu	4
+Göktuna	4
+Görgün	4
+Görkem	4
+Göztepe	4
+Gözüaçık	4
+Gülmez	4
+Gürtuna	4
+Gürzap	4
+Hakkı	4
+Halil	4
+Hamamcı	4
+Hamurcu	4
+Hasan	4
+Hün	4
+Hüseyinoğlu	4
+İlkan	4
+Ilıcalı	4
+İmren	4
+İnanır	4
+Ince	4
+İris	4
+Isik	4
+İskit	4
+İşlek	4
+Işılay	4
+Kaldırım	4
+Kalelioğlu	4
+Kaman	4
+Kanca	4
+Karadag	4
+Karaer	4
+Karamustafa	4
+Karaşahin	4
+Karatas	4
+Karlı	4
+Karpuzcu	4
+Kayacık	4
+Kendirci	4
+Kent	4
+Kenter	4
+Kerem	4
+Kirazoğlu	4
+Koc	4
+Kocakaya	4
+Kocyigit	4
+Köksoy	4
+Köktürk	4
+Koku	4
+Kola	4
+Kolçak	4
+Koper	4
+Köylüoğlu	4
+Kozanoğlu	4
+Kubilay	4
+Küçükkaya	4
+Külahçı	4
+Kulak	4
+Kundakçı	4
+Kurban	4
+Kuruçay	4
+Kuşoğlu	4
+Kut	4
+Kütahyalı	4
+Kutlar	4
+Kutlay	4
+Kutluay	4
+Kutluğ	4
+Kılıçdaroğlu	4
+Kılıçer	4
+Kınalı	4
+Kırkpınar	4
+Kırmızıgül	4
+Kırmızıtaş	4
+Kışlalı	4
+Kıvılcım	4
+Kıyıcı	4
+Kızıltuğ	4
+Maden	4
+Marlalı	4
+Mayda	4
+Mengüç	4
+Mergen	4
+Miroğlu	4
+Morova	4
+Muhtar	4
+Muz	4
+Mıhçıoğlu	4
+Nergis	4
+Neyzi	4
+Öçal	4
+Ogan	4
+Okçuoğlu	4
+Okday	4
+Önver	4
+Örge	4
+Ortaylı	4
+Oruçoğlu	4
+Oymak	4
+Özatay	4
+Özben	4
+Özdaş	4
+Özdemiroğlu	4
+Özensoy	4
+Özercan	4
+Özerman	4
+Özgan	4
+Özgenç	4
+Özgener	4
+Özgentürk	4
+Özgökçe	4
+Özgüner	4
+Özlem	4
+Özmert	4
+Özön	4
+Özyazıcı	4
+Paçacı	4
+Parmaksız	4
+Payzın	4
+Pehlivanlı	4
+Pekkan	4
+Pirhasan	4
+Pirinçci	4
+Reçber	4
+Ruacan	4
+Şahinler	4
+Sakallı	4
+Sakallıoğlu	4
+Şakir	4
+Sandal	4
+Sankur	4
+Sanlav	4
+Şanlıtürk	4
+Sarısözen	4
+Satir	4
+Saygun	4
+Sekban	4
+Şengöz	4
+Şenyürek	4
+Şerbetçioğlu	4
+Sertçelik	4
+Serter	4
+Sevgili	4
+Seyrek	4
+Sivrikaya	4
+Sonmez	4
+Soygeniş	4
+Soykut	4
+Sunay	4
+Sür	4
+Tanyel	4
+Tanyıldızı	4
+Tanış	4
+Tara	4
+Tarkan	4
+Taşdoğan	4
+Taşlı	4
+Taşyürek	4
+Temur	4
+Tezer	4
+Tibet	4
+Topkaya	4
+Tör	4
+Tulunay	4
+Tümen	4
+Tümtürk	4
+Türeli	4
+Ülman	4
+Ulus	4
+Ungan	4
+Ürgüplü	4
+Üstel	4
+Üstünkaya	4
+Uzman	4
+Varan	4
+Vardarlı	4
+Yalçındağ	4
+Yanılmaz	4
+Yaşaroğlu	4
+Yavaşoğlu	4
+Yaycıoğlu	4
+Yazır	4
+Yeniçeri	4
+Yerli	4
+Yorgancıoğlu	4
+Yücedağ	4
+Yücelen	4
+Yuluğ	4
+Yumlu	4
+Yunus	4
+Yılmazkaya	4
+Zararsız	4
+Zeytinoğlu	4
+Abak	3
+Abakay	3
+Abbas	3
+Abdioğlu	3
+Abdullah	3
+Ablak	3
+Acemoğlu	3
+Açıkbaş	3
+Adakan	3
+Adam	3
+Adanur	3
+Adar	3
+Adıbelli	3
+Adın	3
+Ahmed	3
+Ahunbay	3
+Aka	3
+Akagündüz	3
+Akbar	3
+Akbayrak	3
+Akçal	3
+Akçatepe	3
+Akçelik	3
+Akdag	3
+Akdaş	3
+Akdik	3
+Akduman	3
+Akgündüz	3
+Akkanat	3
+Akkor	3
+Akkın	3
+Akmaz	3
+Akmen	3
+Akpinar	3
+Akpulat	3
+Aksak	3
+Aksal	3
+Akşin	3
+Aktepe	3
+Aktuna	3
+Akyurt	3
+Akyuz	3
+Akınlı	3
+Alabora	3
+Alankuş	3
+Alanyalı	3
+Alaton	3
+Alço	3
+Aldinç	3
+Aldırmaz	3
+Alican	3
+Alkım	3
+Alpaydın	3
+Alpkaya	3
+Alpsoy	3
+Alptürk	3
+Alsan	3
+Altunbay	3
+Altunkaya	3
+Altunkaynak	3
+Altındal	3
+Altınkaynak	3
+Altınoluk	3
+Altınova	3
+Altıoklar	3
+Alışık	3
+Amasyalı	3
+Anlaş	3
+Antalyalı	3
+Arabul	3
+Ararat	3
+Arayıcı	3
+Arca	3
+Arcan	3
+Ardıçoğlu	3
+Arif	3
+Arna	3
+Arolat	3
+Arpad	3
+Arsal	3
+Arsel	3
+Arsoy	3
+Artan	3
+Artuç	3
+Arzuman	3
+Arzık	3
+Arıburun	3
+Arıklı	3
+Arıman	3
+Arıtürk	3
+Asaf	3
+Asiltürk	3
+Aşkar	3
+Asker	3
+Aslantaş	3
+Aslantürk	3
+Aslanyürek	3
+Asya	3
+Atabeyoğlu	3
+Atagün	3
+Atalık	3
+Ataol	3
+Atas	3
+Ateşdağlı	3
+Atun	3
+Avkıran	3
+Aydeniz	3
+Aydogan	3
+Aydınalp	3
+Aydınoğlu	3
+Aygören	3
+Aykol	3
+Aykul	3
+Ayla	3
+Aymaz	3
+Aypar	3
+Ayrancı	3
+Aysu	3
+Aytaş	3
+Ayten	3
+Aytürk	3
+Aztekin	3
+Babadağ	3
+Babalık	3
+Babuna	3
+Badak	3
+Bağana	3
+Bağlı	3
+Bağrıaçık	3
+Bahçekapılı	3
+Bakay	3
+Balci	3
+Balcik	3
+Balkır	3
+Bankoğlu	3
+Baradan	3
+Baras	3
+Barkın	3
+Barokas	3
+Bas	3
+Basak	3
+Başakın	3
+Başgöze	3
+Başkut	3
+Batuk	3
+Baturalp	3
+Baturay	3
+Bayav	3
+Bayazit	3
+Bayazıtoğlu	3
+Baycan	3
+Baytar	3
+Bayülken	3
+Bedirhanoğlu	3
+Bediz	3
+Bektasoglu	3
+Beler	3
+Belviranlı	3
+Bender	3
+Benderlioğlu	3
+Berktaş	3
+Berktay	3
+Beşok	3
+Bey	3
+Bezgin	3
+Bilecen	3
+Binboğa	3
+Birant	3
+Birkan	3
+Biryol	3
+Bolak	3
+Bolayır	3
+Boratav	3
+Boyacıyan	3
+Buğra	3
+Bulgurlu	3
+Büyüka	3
+Büyükbayrak	3
+Büyükbayraktar	3
+Büyükkaya	3
+Büyüklü	3
+Caba	3
+Çağ	3
+Caglar	3
+Çağın	3
+Cakmak	3
+Çakmakoğlu	3
+Çakı	3
+Çalhanoğlu	3
+Caliskan	3
+Çalışkaner	3
+Çalışkanoğlu	3
+Çamkerten	3
+Çamlıbel	3
+Çamlıca	3
+Canbaş	3
+Capan	3
+Çavaş	3
+Çayırlı	3
+Çekirge	3
+Çekmez	3
+Celal	3
+Celayir	3
+Celebi	3
+Celen	3
+Çelikkan	3
+Çelikyurt	3
+Cemgil	3
+Ceritoğlu	3
+Çerkez	3
+Cerrah	3
+Çete	3
+Çetindağ	3
+Çevikel	3
+Cevizci	3
+Cezayirli	3
+Çiçekoğlu	3
+Çiller	3
+Cimcoz	3
+Conker	3
+Cora	3
+Çorakçı	3
+Çorlu	3
+Çorum	3
+Cosan	3
+Cüceloğlu	3
+Çulcu	3
+Çıplak	3
+Çıracı	3
+Çırpan	3
+Dağaşan	3
+Dağhan	3
+Dağlaroğlu	3
+Daltaban	3
+Danacı	3
+Danişmend	3
+Davutoglu	3
+Deliorman	3
+Demirbakan	3
+Demirli	3
+Demirpençe	3
+Denizci	3
+Dibek	3
+Dincer	3
+Dinçkök	3
+Dinleten	3
+Doğançay	3
+Doğaner	3
+Dogru	3
+Doğruyol	3
+Dökel	3
+Dökmeci	3
+Dokumacı	3
+Doluca	3
+Dora	3
+Dumanoğlu	3
+Durakoğlu	3
+Dursunoğlu	3
+Dürüst	3
+Duymaz	3
+Eden	3
+Edirne	3
+Efes	3
+Elçin	3
+Eldeniz	3
+Eliçin	3
+Elitaş	3
+Eltemur	3
+Erberk	3
+Erez	3
+Ergezen	3
+Ergüner	3
+Erikçi	3
+Erk	3
+Erkanlı	3
+Erkaya	3
+Erkekli	3
+Erkip	3
+Erkök	3
+Ertel	3
+Ertok	3
+Eryilmaz	3
+Esenbel	3
+Esendağlı	3
+Esensoy	3
+Esentürk	3
+Ezgi	3
+Fettahoğlu	3
+Firat	3
+Fırıncı	3
+Garan	3
+Gebeş	3
+Geçim	3
+Genc	3
+Gençer	3
+Gezen	3
+Gider	3
+Girişken	3
+Gökçer	3
+Göllü	3
+Görkey	3
+Görsev	3
+Göymen	3
+Gözübüyük	3
+Gözütok	3
+Güçbilmez	3
+Güçhan	3
+Gülhan	3
+Gülses	3
+Gümüşpala	3
+Günes	3
+Güntekin	3
+Güray	3
+Gürhan	3
+Gürsey	3
+Gursoy	3
+Güvenilir	3
+Hacımüftüoğlu	3
+Hamza	3
+Hancer	3
+Hasçelik	3
+Hayırlı	3
+Horasan	3
+Hülagü	3
+Hüner	3
+İçel	3
+İçen	3
+İkizoğlu	3
+İlgezdi	3
+İnselel	3
+Isler	3
+İşleyen	3
+Işıldar	3
+İzmirli	3
+Kabaca	3
+Kadioglu	3
+Kadiroğlu	3
+Kaftancıoğlu	3
+Kal	3
+Kalafatoğlu	3
+Kalay	3
+Kalkancı	3
+Kalyon	3
+Kamer	3
+Kamiloğlu	3
+Kanatlı	3
+Kantar	3
+Karaibrahimgil	3
+Karakoyun	3
+Karakullukçu	3
+Karalar	3
+Karaoğlanoğlu	3
+Karasakal	3
+Karayılan	3
+Kardeşler	3
+Kartaltepe	3
+Kavalcı	3
+Kavur	3
+Kayabaş	3
+Kayabaşı	3
+Kayapınar	3
+Kaynarca	3
+Kekilli	3
+Kesen	3
+Keşkek	3
+Keşmir	3
+Kir	3
+Kiray	3
+Kobaş	3
+Kobya	3
+Kocaer	3
+Kocagöz	3
+Kocahan	3
+Kocak	3
+Kocamış	3
+Kökçü	3
+Kökdemir	3
+Kökten	3
+Kolay	3
+Kolcu	3
+Konan	3
+Konar	3
+Konuralp	3
+Konyalı	3
+Koraltan	3
+Korel	3
+Korkmazer	3
+Korkusuz	3
+Koru	3
+Kosova	3
+Köybaşı	3
+Koyunoğlu	3
+Koyutürk	3
+Kozak	3
+Kozlu	3
+Kozluca	3
+Kunter	3
+Kutay	3
+Kuyumcu	3
+Kılıçlı	3
+Kınacı	3
+Kırgız	3
+Kırklar	3
+Kırımlı	3
+Kızılcık	3
+Kızıltepe	3
+Kızıltunç	3
+Laçiner	3
+Levendoğlu	3
+Manas	3
+Manço	3
+Mansur	3
+Mansız	3
+Manukyan	3
+Maral	3
+Markaryan	3
+Marmara	3
+Mengü	3
+Mermut	3
+Mollaoğlu	3
+Moral	3
+Moralıoğlu	3
+Morkaya	3
+Müderrisoğlu	3
+Mugan	3
+Müjde	3
+Müjdeci	3
+Müldür	3
+Mustafaoglu	3
+Navruz	3
+Nazıroğlu	3
+Öder	3
+Öğer	3
+Öğretir	3
+Öğütçü	3
+Okar	3
+Öksüzoğlu	3
+Okuyucu	3
+Ölçmen	3
+Öndeş	3
+Ongan	3
+Öngüt	3
+Oraloğlu	3
+Orkan	3
+Orta	3
+Ortakaya	3
+Osmanlıoğlu	3
+Özacar	3
+Özateş	3
+Özçoban	3
+Özdem	3
+Özdöl	3
+Ozel	3
+Özenbaş	3
+Özenci	3
+Ozer	3
+Öziş	3
+Özkasap	3
+Özker	3
+Özlen	3
+Özseven	3
+Öztunalı	3
+Ozturk	3
+Özüpek	3
+Özvardar	3
+Özyağcılar	3
+Özyavuz	3
+Özyilmaz	3
+Özyüksel	3
+Özyıldırım	3
+Özyılmazel	3
+Pakdil	3
+Parmak	3
+Paşalı	3
+Paydaş	3
+Pazar	3
+Pekerman	3
+Pirinççioğlu	3
+Poçan	3
+Polatkan	3
+Rey	3
+Rutkay	3
+Sadak	3
+Safa	3
+Sağ	3
+Sağlar	3
+Sağman	3
+Sahan	3
+Şahintürk	3
+Sakal	3
+Şakrak	3
+Şalk	3
+Salkım	3
+Şamiloğlu	3
+Sanaç	3
+Sandalcı	3
+Sander	3
+Şansal	3
+Şanver	3
+Saraloğlu	3
+Sarper	3
+Sarıer	3
+Sarıyer	3
+Satiroglu	3
+Satıroğlu	3
+Şatıroğlu	3
+Sav	3
+Savas	3
+Savaşkan	3
+Sayek	3
+Sayıner	3
+Sefil	3
+Selışık	3
+Şenkal	3
+Şenoğlu	3
+Şenova	3
+Sergen	3
+Serhat	3
+Sermet	3
+Sertbaş	3
+Sertkaya	3
+Sesigüzel	3
+Severcan	3
+Sevik	3
+Simavi	3
+Sofu	3
+Soley	3
+Sonsırma	3
+Soyak	3
+Sporel	3
+Süalp	3
+Şükrü	3
+Sunel	3
+Sururi	3
+Sığırcı	3
+Taçyıldız	3
+Tanç	3
+Tanrıyar	3
+Tanyolaç	3
+Tanyıldız	3
+Targan	3
+Tarlan	3
+Tas	3
+Taşdan	3
+Taşdöğen	3
+Taskin	3
+Tataroğlu	3
+Tatlıses	3
+Taviloğlu	3
+Tavukçuoğlu	3
+Tedü	3
+Tekes	3
+Tekinay	3
+Temelli	3
+Tevetoğlu	3
+Tilki	3
+Togan	3
+Tokcan	3
+Tokuş	3
+Ton	3
+Top	3
+Topaloglu	3
+Toparlak	3
+Topel	3
+Tören	3
+Toydemir	3
+Tuğsuz	3
+Tunçalp	3
+Türemen	3
+Türkeri	3
+Türkpençe	3
+Turner	3
+Türsan	3
+Türsen	3
+Tutak	3
+Tüzemen	3
+Tüzüner	3
+Ulagay	3
+Ulubay	3
+Ulukaya	3
+Ulusal	3
+Ulutürk	3
+Ünaydın	3
+Ünder	3
+Unlu	3
+Uşak	3
+Usluer	3
+Üstüntaş	3
+Vargı	3
+Yağmurdereli	3
+Yamak	3
+Yapıcıoğlu	3
+Yegen	3
+Yeğenoğlu	3
+Yeldan	3
+Yelkenci	3
+Yemişen	3
+Yoğurtçu	3
+Yokuşlu	3
+Yola	3
+Yücekök	3
+Yücetürk	3
+Yüksektepe	3
+Yülek	3
+Yunt	3
+Yüzer	3
+Yılancı	3
+Yılmaztürk	3
+Yırcalı	3
+Zaim	3
+Zarakolu	3
+Zeki	3
+Zobu	3
+Zor	3
+Zorluer	3
+Aba	2
+Abalıoğlu	2
+Abaoğlu	2
+Abdal	2
+Abdulkadir	2
+Acarbay	2
+Acemyan	2
+Adalan	2
+Ademi	2
+Adıcan	2
+Adıvar	2
+Afyoncu	2
+Ağbaba	2
+Ağcaoğlu	2
+Ağgül	2
+Ağım	2
+Ahmetoğlu	2
+Ahsen	2
+Akagün	2
+Akalan	2
+Akata	2
+Akatay	2
+Akbayir	2
+Akbayram	2
+Akboğa	2
+Akbuğa	2
+Akburak	2
+Akçakoca	2
+Akcay	2
+Akçayöz	2
+Akdülger	2
+Akgönül	2
+Akgüç	2
+Akgündoğdu	2
+Akhanlı	2
+Akkartal	2
+Akkaynak	2
+Akkiraz	2
+Akkoca	2
+Akkus	2
+Akkuzu	2
+Akleylek	2
+Akmandor	2
+Akmeşe	2
+Aköz	2
+Aksakallı	2
+Akşan	2
+Akseki	2
+Aksoylu	2
+Aksoyoğlu	2
+Aksum	2
+Aksun	2
+Aktaç	2
+Aktoz	2
+Aktunç	2
+Aktürkoğlu	2
+Aktı	2
+Akurgal	2
+Akyavaş	2
+Akıcı	2
+Alagoz	2
+Alanay	2
+Alantar	2
+Alarslan	2
+Alayoğlu	2
+Albayram	2
+Alçelik	2
+Aldanmaz	2
+Aldıkaçtı	2
+Allahverdi	2
+Almaz	2
+Alpagut	2
+Alpsar	2
+Alsaç	2
+Altunbaşak	2
+Altunbey	2
+Altunbulaklı	2
+Altunok	2
+Altunoluk	2
+Altunrende	2
+Altuntop	2
+Altunışık	2
+Altınbaşak	2
+Altınbilek	2
+Altındere	2
+Altınörs	2
+Altıntoprak	2
+Anapa	2
+Anay	2
+Anday	2
+Anjum	2
+Anlağan	2
+Anlar	2
+Arabacıoğlu	2
+Arbaş	2
+Arbatlı	2
+Arcak	2
+Arcasoy	2
+Arcayürek	2
+Arcıman	2
+Ardalı	2
+Arhan	2
+Arik	2
+Arkoç	2
+Armutçu	2
+Artarslan	2
+Artemel	2
+Artunkal	2
+Arzu	2
+Arıboğan	2
+Arıcıoğlu	2
+Asar	2
+Aslanyan	2
+Aslım	2
+Asma	2
+Ataizi	2
+Atakanı	2
+Atakul	2
+Atalı	2
+Atam	2
+Ataöv	2
+Atatür	2
+Atayman	2
+Atayurt	2
+Ateşçi	2
+Ateşin	2
+Ateşli	2
+Ateşoğlu	2
+Atilhan	2
+Ava	2
+Avcılar	2
+Avni	2
+Avsar	2
+Ayartepe	2
+Ayda	2
+Aydilek	2
+Aydingün	2
+Aydınlar	2
+Ayengin	2
+Aygüneş	2
+Aykal	2
+Aykoç	2
+Aykutalp	2
+Aykutlu	2
+Aylanç	2
+Aysal	2
+Aytemur	2
+Aytimur	2
+Aytun	2
+Ayvacı	2
+Ayvalı	2
+Azman	2
+Baban	2
+Bacanli	2
+Bağcan	2
+Bağdat	2
+Bağdatlı	2
+Bağlar	2
+Bahadir	2
+Bahadırlı	2
+Bahçeli	2
+Bahcivan	2
+Bahran	2
+Balbay	2
+Bali	2
+Balioğlu	2
+Balkış	2
+Balyemez	2
+Baris	2
+Barkey	2
+Barnes	2
+Bartu	2
+Barutçiyan	2
+Barutcu	2
+Barutçuoğlu	2
+Barutçuyan	2
+Basar	2
+Başara	2
+Basaran	2
+Başdemir	2
+Başeğmez	2
+Başkent	2
+Başkır	2
+Basmacıoğlu	2
+Başıbüyük	2
+Batanay	2
+Battalgazi	2
+Batuhan	2
+Batumlu	2
+Batıbeki	2
+Batıgün	2
+Batır	2
+Bayatlı	2
+Bayaz	2
+Baykam	2
+Bayman	2
+Bayraktutar	2
+Baysel	2
+Baytop	2
+Bayyurt	2
+Bebek	2
+Bedir Khan Family	2
+Bedirhan	2
+Behçet	2
+Bekdik	2
+Bektas	2
+Belger	2
+Benek	2
+Berberyan	2
+Berger	2
+Berkay	2
+Berkem	2
+Berken	2
+Bese	2
+Beşikcioğlu	2
+Beşpınar	2
+Beyazoğlu	2
+Beyaztaş	2
+Bilgiseven	2
+Biran	2
+Birden	2
+Birkiye	2
+Bolayırlı	2
+Bolışık	2
+Bona	2
+Boralı	2
+Borazancı	2
+Bostanlık	2
+Botsalı	2
+Boya	2
+Bozarslan	2
+Bozdag	2
+Bozoğlan	2
+Bozoklar	2
+Buber	2
+Bükey	2
+Bükülmez	2
+Bulakbaşı	2
+Bulat	2
+Buldan	2
+Buldu	2
+Buldum	2
+Buldun	2
+Bultan	2
+Bulutoğlu	2
+Bursa	2
+Buyrukçu	2
+Buyukasik	2
+Büyükatalay	2
+Büyükberber	2
+Büyükdoğan	2
+Büyükgüngör	2
+Buz	2
+Cabbar	2
+Cakal	2
+Çakici	2
+Çako	2
+Çakıcıoğlu	2
+Calis	2
+Çalımbay	2
+Çambel	2
+Çami	2
+Çamkıran	2
+Camoglu	2
+Canbek	2
+Canberk	2
+Çanga	2
+Cankat	2
+Canko	2
+Canova	2
+Cansun	2
+Canıtez	2
+Carim	2
+Cavusoglu	2
+Çaykara	2
+Çaylıgil	2
+Çehreli	2
+Çelikay	2
+Çelikbaş	2
+Çelikkaya	2
+Çelikler	2
+Çeliköz	2
+Çeliktaş	2
+Çeşmelioğlu	2
+Çetinaslan	2
+Cevik	2
+Cevizoğlu	2
+Cezveciyan	2
+Çiçekli	2
+Ciftci	2
+Cihangiroğlu	2
+Cilli	2
+Cimen	2
+Ciner	2
+Cinisli	2
+Civaoğlu	2
+Çizmeci	2
+Çokay	2
+Coker	2
+Çoklar	2
+Conk	2
+Coral	2
+Çorbacı	2
+Çorbalı	2
+Çörekçi	2
+Coşkan	2
+Çuhadaroğlu	2
+Dadacı	2
+Dagdeviren	2
+Dalyan	2
+Damgacı	2
+Danabaş	2
+Daner	2
+Danışmaz	2
+Darcan	2
+Dayat	2
+Dayioglu	2
+Defterli	2
+Deli	2
+Demiralay	2
+Demirbas	2
+Demirboğa	2
+Demiriş	2
+Demiroglu	2
+Demiryol	2
+Denizer	2
+Denizeri	2
+Denkel	2
+Denktaş	2
+Denli	2
+Dilipak	2
+Dinçmen	2
+Dinçsoy	2
+Diriker	2
+Dirvana	2
+Dixon	2
+Doganay	2
+Doğruöz	2
+Döner	2
+Döşkaya	2
+Dulek	2
+Dur	2
+Durmazel	2
+Düvenci	2
+Duygu	2
+Ede	2
+Edgü	2
+Edis	2
+Eğilmezbaş	2
+Egri	2
+Ekler	2
+Ekmekci	2
+Ekrem	2
+El Khatib	2
+Eldek	2
+Eler	2
+Elgin	2
+Elgün	2
+Eloğlu	2
+Emirtekin	2
+Ender	2
+Engindeniz	2
+Engineri	2
+Engizek	2
+Erakalın	2
+Eratik	2
+Erçel	2
+Ercümen	2
+Erdoğu	2
+Erdönmez	2
+Erdost	2
+Erener	2
+Erenkaya	2
+Erenli	2
+Erenoğlu	2
+Ergeç	2
+Ergezer	2
+Ergüney	2
+Eriç	2
+Erler	2
+Ermis	2
+Erner	2
+Eroglu	2
+Ersek	2
+Erşen	2
+Ersu	2
+Ersun	2
+Ertugrul	2
+Ertuğruloğlu	2
+Eryüksel	2
+Eryüz	2
+Eşeli	2
+Esenboğa	2
+Esgin	2
+Eskicioğlu	2
+Ete	2
+Etyemez	2
+Evcen	2
+Evcimik	2
+Evgin	2
+Evirgen	2
+Eygi	2
+Ezer	2
+Fersoy	2
+Fosforoğlu	2
+Foster	2
+Frei	2
+Gabriel	2
+Gani	2
+Gen	2
+Gencebay	2
+Gençerler	2
+Gençpınar	2
+Gençyürek	2
+Gener	2
+Geniş	2
+Gerger	2
+German	2
+Germiyanoğlu	2
+Gidişoğlu	2
+Göcen	2
+Göcer	2
+Gok	2
+Gökbakar	2
+Gökberk	2
+Gökcek	2
+Gökoğlan	2
+Göksan	2
+Göktay	2
+Gölge	2
+Gönlüm	2
+Gördüm	2
+Göreç	2
+Görgü	2
+Görk	2
+Görür	2
+Gözcü	2
+Gruda	2
+Gübür	2
+Güder	2
+Gul	2
+Gülcemal	2
+Güldemir	2
+Gülden	2
+Güldüren	2
+Güleçyüz	2
+Guler	2
+Güleroğlu	2
+Gülersoy	2
+Gülgün	2
+Gülsen	2
+Gümral	2
+Gümüşdağ	2
+Gümüşdere	2
+Günaltay	2
+Gündoğar	2
+Guner	2
+Güneralp	2
+Güneyligil	2
+Guralp	2
+Guran	2
+Gürbüzer	2
+Güreşen	2
+Gürman	2
+Gürmen	2
+Güveli	2
+Guven	2
+Güvenışık	2
+Güzelses	2
+Hacıbekiroğlu	2
+Hacıhamdioğlu	2
+Hajiyev	2
+Hakko	2
+Hakverdi	2
+Halaç	2
+Halat	2
+Halman	2
+Hamdi	2
+Han	2
+Hançerli	2
+Hansen	2
+Haqqani	2
+Harmanci	2
+Harvey	2
+Haskoloğlu	2
+Hastürk	2
+Hasırcı	2
+Hekimoglu	2
+Hepokur	2
+Hodara	2
+Hulûsi	2
+Hünal	2
+Hürcan	2
+Hürriyet	2
+Hızal	2
+Ibis	2
+İldem	2
+Ileri	2
+İlgin	2
+Ilgın	2
+Ilhan	2
+Ilk	2
+İlkel	2
+Ilıman	2
+Inal	2
+İnalcık	2
+İnceoğlu	2
+İnsel	2
+Ipek	2
+İpekkaya	2
+İplikçi	2
+İplikçioğlu	2
+İrem	2
+İrkeç	2
+İrtegün	2
+İşeri	2
+İşiten	2
+İslimyeli	2
+İsmailoğlu	2
+İsmayılov	2
+Işınsu	2
+İyem	2
+İyidoğan	2
+İzbudak	2
+Izer	2
+Izzet	2
+Kabaağaçlı	2
+Kabakçıoğlu	2
+Kabaklı	2
+Kadem	2
+Kağıtçıbaşı	2
+Kahyaoğlu	2
+Kalaç	2
+Kalav	2
+Kale	2
+Kalemli	2
+Kalenderli	2
+Kalman	2
+Kaloğlu	2
+Kamhi	2
+Kan	2
+Kanat	2
+Kanbir	2
+Kanik	2
+Kanli	2
+Kansız	2
+Kantemir	2
+Kanter	2
+Karaali	2
+Karabekir	2
+Karabiyik	2
+Karaböcek	2
+Karadağlı	2
+Karagenç	2
+Karakaşlı	2
+Karamete	2
+Karamustafaoğlu	2
+Karaoglu	2
+Karapinar	2
+Karasapan	2
+Karataylı	2
+Karavus	2
+Karay	2
+Karayılmaz	2
+Kasa	2
+Kasal	2
+Kaval	2
+Kavasoglu	2
+Kavruk	2
+Kavuk	2
+Kaynakçı	2
+Kayserili	2
+Kayıhan	2
+Kazanasmaz	2
+Kazancıgil	2
+Kelebek	2
+Keles	2
+Kelleci	2
+Kesal	2
+Kesti	2
+Key	2
+Killigil	2
+Kimyon	2
+Kip	2
+Kirazcı	2
+Kirazlı	2
+Kobal	2
+Kocacık	2
+Kocaefe	2
+Kocamaz	2
+Koçan	2
+Kocayiğit	2
+Koçibey	2
+Köknar	2
+Köknel	2
+Koksal	2
+Köksalan	2
+Köktaş	2
+Kolaylı	2
+Kolcuoğlu	2
+Kolivar	2
+Koman	2
+Konukçu	2
+Koptagel	2
+Kor	2
+Koraltürk	2
+Korkmazyürek	2
+Korugan	2
+Köseler	2
+Koşut	2
+Kozacı	2
+Kozluklu	2
+Kucuk	2
+Küçüka	2
+Kucukaslan	2
+Küçükel	2
+Küçükköse	2
+Küçüközkan	2
+Külünk	2
+Kurdaş	2
+Kuriş	2
+Kurtulus	2
+Kurucu	2
+Kutbay	2
+Kutluca	2
+Kutluer	2
+Kutlutürk	2
+Kutucu	2
+Kutucuoğlu	2
+Kuzgun	2
+Kılıçkan	2
+Kılıçkıran	2
+Kılıçsallayan	2
+Kılınçer	2
+Kınal	2
+Kınoğlu	2
+Kırlangıç	2
+Kızkapan	2
+Kızmaz	2
+Kızılca	2
+Kızılcan	2
+Kızıldemir	2
+Kızıldoğan	2
+Kızılgün	2
+Kızılkan	2
+Kızılkılıç	2
+Kızıloğlu	2
+Kızılok	2
+Lagumdžija	2
+Lale	2
+Madenci	2
+Makar	2
+Mala	2
+Mamedov	2
+Mamsyratæ	2
+Mandacı	2
+Marangoz	2
+Mavi	2
+Mavituna	2
+May	2
+Mazhar	2
+Medina	2
+Memik	2
+Menemenlioğlu	2
+Menzi	2
+Mermer	2
+Milli	2
+Mirza	2
+Misir	2
+Mocan	2
+Mor	2
+Moray	2
+Müftügil	2
+Muhiddin	2
+Muradoğlu	2
+Muratdağı	2
+Mustafaoğlu	2
+Mutay	2
+Mutlucan	2
+Nacar	2
+Nadi	2
+Nalçakan	2
+Namoğlu	2
+Nasuhoğlu	2
+Nersesyan	2
+Norman	2
+Ocal	2
+Öden	2
+Oder	2
+Odman	2
+Ödül	2
+Ögelman	2
+Okerman	2
+Oksal	2
+Olçar	2
+Olcayto	2
+Oluç	2
+Önger	2
+Öngün	2
+Öniz	2
+Önkol	2
+Öntürk	2
+Onuk	2
+Orcan	2
+Orçun	2
+Örer	2
+Örgül	2
+Örücü	2
+Otağ	2
+Ötenel	2
+Övünç	2
+Oyan	2
+Özakman	2
+Özakıncı	2
+Özatik	2
+Özaydınlı	2
+Özbeğen	2
+Ozbek	2
+Özbiçer	2
+Özçalkan	2
+Özçetin	2
+Özdağlar	2
+Özdemır	2
+Özelçi	2
+Özener	2
+Özfatura	2
+Özgümüş	2
+Özgürsoy	2
+Özince	2
+Öziri	2
+Özkılıçcı	2
+Özmenoğlu	2
+Özovalı	2
+Özşen	2
+Özsever	2
+Öztaner	2
+Öztaşdelen	2
+Özteke	2
+Özükan	2
+Özütok	2
+Özyeğin	2
+Özyener	2
+Özyer	2
+Özyol	2
+Palalı	2
+Papağan	2
+Pasin	2
+Pektemek	2
+Perinçek	2
+Petekkaya	2
+Petzold	2
+Rado	2
+Rafiyev	2
+Raşa	2
+Redif	2
+Refiğ	2
+Richardson	2
+Rona	2
+Rəsulzadə	2
+Saçbüker	2
+Sadioğlu	2
+Sağduyu	2
+Sagir	2
+Saglam	2
+Sağınç	2
+Sahinbas	2
+Şahingöz	2
+Salık	2
+Şamlıoğlu	2
+Sanin	2
+Sanlı	2
+Sarica	2
+Sarita	2
+Saritas	2
+Şarlı	2
+Sarvan	2
+Sarılmışer	2
+Sasmaz	2
+Savaşkurt	2
+Savaşır	2
+Saybir	2
+Saygili	2
+Saygin	2
+Sayman	2
+Sebüktekin	2
+Sedef	2
+Seker	2
+Şenalp	2
+Sener	2
+Şeneş	2
+Şengil	2
+Sengul	2
+Senocak	2
+Şenolsun	2
+Serengil	2
+Seval	2
+Seydaoğlu	2
+Shikhlinski	2
+Simer	2
+Sirel	2
+Şirinyan	2
+Şişmanlar	2
+Şit	2
+Sobacı	2
+Soğukoğlu	2
+Sökmensüer	2
+Solok	2
+Soral	2
+Soysev	2
+Suda	2
+Suiçmez	2
+Suman	2
+Sungar	2
+Sungurtekin	2
+Sunter	2
+Sürel	2
+Sürgit	2
+Şıkel	2
+Tabak	2
+Talas	2
+Taneri	2
+Tank	2
+Tanrikulu	2
+Tanriverdi	2
+Tanrıseven	2
+Tanyalçın	2
+Tanzer	2
+Tarakcı	2
+Tarancı	2
+Taşanlar	2
+Taşbakan	2
+Taşbaş	2
+Tasci	2
+Taşçıer	2
+Taşoğlu	2
+Taşova	2
+Tatlıtuğ	2
+Tazegül	2
+Tekdemir	2
+Tektaş	2
+Tema	2
+Terek	2
+Terzioglu	2
+Tezcaner	2
+Tilmaç	2
+Timuçin	2
+Tiritoğlu	2
+Tokatlıoğlu	2
+Tolga	2
+Tombul	2
+Toner	2
+Tonkuş	2
+Topaç	2
+Topcu	2
+Törer	2
+Toroslu	2
+Tuğsavul	2
+Tulum	2
+Tunaboylu	2
+Tuncak	2
+Tunçak	2
+Tunçboyacıyan	2
+Tur	2
+Turk	2
+Türkali	2
+Türkekul	2
+Türkgenci	2
+Türkoglu	2
+Tut	2
+Tutumlu	2
+Tınmaz	2
+Tırpancı	2
+Uçman	2
+Uçuk	2
+Ülbe	2
+Uludag	2
+Uluocak	2
+Unat	2
+Uncu	2
+Uncuoğlu	2
+Üregül	2
+Ürey	2
+Urgan	2
+Ürkmezgil	2
+Uşaklı	2
+Üşümez	2
+Utangaç	2
+Uygül	2
+Uzan	2
+Uzunalioğlu	2
+Varinlioğlu	2
+Varon	2
+Varınca	2
+Yagmur	2
+Yakin	2
+Yakıcı	2
+Yalova	2
+Yankı	2
+Yanıkkaya	2
+Yanıkömeroğlu	2
+Yaren	2
+Yarman	2
+Yasa	2
+Yasemin	2
+Yatgın	2
+Yazğılı	2
+Yeginsu	2
+Yel	2
+Yelken	2
+Yeltan	2
+Yenel	2
+Yenici	2
+Yerlisu	2
+Yeşilçay	2
+Yetişkin	2
+Yigit	2
+Yönsel	2
+Yörüker	2
+Yucel	2
+Yüceler	2
+Yükselen	2
+Yükselir	2
+Yükseloğlu	2
+Yula	2
+Yurdalan	2
+Yuvakuran	2
+Yıldırımlı	2
+Yılmaztekin	2
+Zabcı	2
+Zana	2
+Zapsu	2
+Zenger	2
+Zincirkıran	2
+Ziyadkhanov	2
+Zorba	2
+Abbaslı
+Abdil
+Abla
+Abrahamsson
+Acaroglu
+Acir
+Açılan
+Adatepe
+Aga
+Ağa
+Agac
+Agalliu
+Agasian
+Agcan
+Ağırman
+Ahmadi
+Ahrens
+Akalay
+Akarcalı
+Akbalik
+Akbaşoğulları
+Akca
+Akcebe
+Akçöl
+Akdarı
+Akkale
+Akkemik
+Akmansoy
+Ako
+Akşener
+Akses
+Aktolga
+Aktoprak
+Akyalçın
+Akyigit
+Akyün
+Al Hassani
+Al-Zayat
+Aladoğan
+Alanson
+Alanyalıoğlu
+Alban
+Aldağ
+Aldatmaz
+Alice
+Alok
+Alsoy
+Altinel
+Altinsoy
+Altuner
+Altuniğne
+Altunkulak
+Altunkıran
+Altunoğlu
+Altuntas
+Altınköprü
+Altınorak
+Anderson
+Andreu
+Angeler
+Ansay
+Apa
+Arasoğlu
+Arcagök
+Ardakut
+Ardal
+Arditi
+Ardıçlıoğlu
+Arer
+Arf
+Ari
+Aridemir
+Aris
+Armaner
+Arnaz
+Arora
+Arzumanov
+Arım
+Asarkaya
+Asaroğlu
+Asman
+Aşıcı
+Atagül
+Atala
+Atamgüç
+Atasayar
+Atatürk
+Atin
+Avdic
+Avdić
+Avsever
+Awaed
+Aybaba
+Aybek
+Ayçim
+Aydogdu
+Aydoslu
+Aydındağ
+Aygüler
+Aygündüz
+Aykoc
+Ayman
+Aytemir
+Aytolan
+Ayvazoglu
+Azaklı
+Azar
+Azaryan
+Azrak
+Babi
+Baçova
+Baday
+Bağışlayıcı
+Bakalli
+Baker
+Baksi
+Balan
+Balik
+Balili
+Balkay
+Balman
+Baltaci
+Balıbek
+Ban
+Banna
+Baransu
+Baraz
+Bardakci
+Barik
+Barka
+Barkay
+Barlo
+Barman
+Barré
+Barsamyan
+Bartin
+Barışta
+Basbug
+Başbuğan
+Baser
+Basha
+Başkıran
+Bassani
+Bastas
+Baştopçu
+Bastık
+Bauer
+Bavli
+Bay
+Baydın
+Bayindir
+Baykent
+Bayrakci
+Bayur
+Becerici
+Beci
+Beckmann
+Beder
+Behar
+Bel
+Belet
+Belkin
+Ben-Yakar
+Benbassa
+Bendella
+Bendes
+Bendo
+Bengasi
+Benhabib
+Benk
+Berge
+Bergman
+Berman
+Beşikci
+Beste
+Beyanal
+Beydilli
+Beylerian
+Biler
+Bilgic
+Bilmis
+Binoğul
+Binyazar
+Binzet
+Biren
+Bishop
+Bitlis
+Black
+Blasing
+Böcekler
+Bogdani
+Böler
+Bolkan
+Bonomo
+Borak
+Borova
+Bosse
+Boydağ
+Boyle
+Bozbeyli
+Bozyiğit
+Bozyıl
+Bradley
+Brandt
+Bulaç
+Burgess
+Buťák
+Büyükasik
+Büyükedes
+Büyükhan
+Büyüksofuoğlu
+Büyüküstün
+Buzluca
+Cabalar
+Caferoğlu
+Çağıl
+Caka
+Cakici
+Calp
+Çalı
+Çalıkıran
+Çamdalı
+Camgöz
+Campbell
+Canatan
+Çandar
+Candir
+Canga
+Cankoçak
+Cankurt
+Çardakcı
+Casalini
+Cavadzade
+Cavanşirler
+Cayir
+Çayoğlu
+Celasin
+Celikdimer
+Çelikten
+Çelo
+Çemberci
+Cennetkuşu
+Centel
+Ceran
+Çeribashi
+Çetinbaş
+Çetintaş
+Çeviksoy
+Ceylanoğlu
+Christmann
+Chæxiltæ
+Çilbiroğlu
+Çim
+Cleere
+Çokona
+Çolakkadı
+Çongar
+Copello
+Çorumlu
+Coryell
+Coskunian
+Cota
+Cuda
+Çukur
+Cumbul
+Cümbüş
+Çupi
+Cupolo
+Cura
+Cure
+Dabak
+Dağlarca
+Dagpinar
+Dai
+Danabay
+Danon
+Datcu
+Dawkins
+Dayi
+Dedova
+Değener
+Deleon
+Deliomeroglu
+Dellal
+Delpuech
+Demircioglu
+Demirdelen
+Demirdön
+Demirkılıç
+Demirses
+Denebli
+Denk
+Deveer
+Devlet
+Devrilmez
+Dik
+Dikeç
+Dilaçar
+Dilbaz
+Dimopoulos
+Dinçay
+Diplan
+Doğanyiğit
+Doğudan
+Dogus
+Dolen
+Donbaz
+Döring
+Dormen
+Dorsay
+Doymus
+Dudley
+Dumanoglu
+Dumbe
+Dumlui
+Durakcan
+Durbay
+Durmus
+Düyüncü
+Düzyatan
+Eckes
+Efrat
+Eğrikavuk
+Ehlers
+Ekincier
+Ekren
+El
+Elbek
+Elci
+Elen
+Eli
+Elik
+Elp
+Elter
+Emden
+Emeç
+Emer
+Emler
+Emren
+Enderer
+Ene
+Engür
+Enli
+Enuğur
+Epice
+Erdel
+Erdi
+Ergincan
+Erginci
+Ergülen
+Erkanal
+Erkartal
+Erkman
+Erkurt
+Ersel
+Ersümer
+Ertekün
+Ertiş
+Ertöz
+Ertüngealp
+Erturan
+Erzen
+Escobar
+Eskenazi
+Eskut
+Eyice
+Faner
+Farhi
+Fathi
+Fehlmann
+Ferah
+Feyizoğlu
+Finkel
+Fischer
+Fisunoğlu
+Fred
+Freedom
+Gazoz
+Gemen
+Genay
+Gencaslan
+Gence
+Gencel
+Gerek
+Gerhardt
+Germaner
+Gilbert
+Giner
+Giraygil
+Gist
+Gökcay
+Gökce
+Gökçiğdem
+Gökdağ
+Gökdeniz
+Gökkaya
+Göksungur
+Gökyiğit
+Gökyıldız
+Gonen
+Gozgu
+Gozum
+Granit
+Grigoriadis
+Grigorian
+Grünberg
+Gücer
+Güdül
+Gülan
+Gülcü
+Gülümser
+Gümrü
+Gümürhan
+Gümüşdal
+Gümüşer
+Günarslan
+Günaydin
+Günbaz
+Gunduz
+Günebakanlı
+Gunes
+Güneysu
+Gunsel
+Günter
+Güntürk
+Gür-Şeker
+Gürak
+Gürbey
+Güreli
+Gürelli
+Gurol
+Gürs
+Güvercin
+Habib
+Hablemitoğlu
+Hacıeyüpoğlu
+Hadımoğlu
+Hagi
+Hajizadeh
+Halburcu
+Haleva
+Hamdan
+Hamdard
+Hamis
+Haner
+Hasanagić
+Hasgüler
+Hasker
+Haspolat
+Hayat
+Hayrettin
+Heinreich
+Helvacioglu
+Hibri
+Hickok
+Hindiyerli
+Hirsch
+Hoke
+Höke
+Hortum
+Hos
+Hotar
+Huduti
+Hun
+Hurma
+Hurmacı
+Hussein
+Ibrahimi
+Ibrahimoglu
+İçöz
+Idiskut
+İğdir
+Iğsız
+Ikeda
+İkizkaya
+İlbasan
+İlbay
+Ildiz
+Ilkay
+Inaler
+Inam
+İnceköse
+İpekçioğlu
+Iris
+İrtem
+İşcen
+İshakoğlu
+İşkan
+İskifoğlu
+Ismailov
+Iyidogan
+İzollu
+Jale
+Kabay
+Kacin
+Kahramaner
+Kahramanoğlu
+Kais
+Kakaşçı
+Kakil
+Kala
+Kalayci
+Kalecik
+Kalecioğlu
+Kalemoğlu
+Kalın
+Kamu
+Kanazır
+Kanlıgöz
+Kanneci
+Kapacak
+Karaarslan
+Karaavcı
+Karabelas
+Karacabey
+Karaçelik
+Karaderi
+Karagözlü
+Karakoc
+Karaören
+Karaosman
+Karapici
+Karavelioğulları
+Karayigit
+Karni
+Karpuzoğlu
+Karter
+Kaş
+Kasay
+Kaslowski
+Kaspar
+Katchadourian
+Kav
+Kavukcu
+Kayabalı
+Kayadelen
+Kayasu
+Kayla
+Kayser
+Kazanjian
+Kazazi
+Kazuk
+Kâzım-Richards
+Kałmuk
+Kegan
+Kekeva
+Kelek
+Kelekian
+Kelemen
+Kelle
+Kenar
+Kendir
+Kenger
+Kerman
+Kesler
+Khachaturian
+Khasmammadov
+Khoyski
+Kigen
+Kilislioğlu
+King
+Kisa
+Kočar
+Koçdemir
+Kocer
+Kohen
+Köhle
+Kok
+Kökeş
+Kokkinakis
+Kollu
+Kolu
+Kömür
+Konstantinidis
+Konukoglu
+Kör
+Köroglu
+Korol
+Kortay
+Korun
+Kosan
+Koşaner
+Kosar
+Kösem
+Kösemihal
+Kostanda
+Köstepen
+Kotsev
+Koynat
+Krause
+Kubasik
+Kucukgocmen
+Kulaber
+Kulin
+Kür
+Kurgan
+Kürkcü
+Kurtaş
+Kurul
+Kürüm
+Kutal
+Kutlubey
+Kırağası
+Kırşan
+Kızılağıl
+Latifi
+Lav
+Lemke
+Leopold
+Levy
+Li
+Lied
+Liman
+Lordkipanidze
+Luk
+Maan
+Majid
+Makbule
+Makinistoğlu
+Malay
+Malekzadeh
+Malik
+Maliz
+Mandic
+Mando
+Manga
+Mangan
+Manisa
+Mantıcı
+Mardam-Bey
+Margulies
+Markanday
+Marmaryan
+Marquardt
+Masa
+Matay
+Mato
+Mattei
+Mederer
+Medine
+Meha
+Mehan
+Melen
+Memi
+Memili
+Mente
+Mergül
+Mermod
+Methasani
+Mezger
+Mildon
+Millet
+Mims
+Minga
+Miski
+Mohamed
+Moradi
+Moritz
+Muka
+Mulla
+Mungan
+Muradlı
+Muradyan
+Müridoğlu
+Muriqi
+Mursal
+Mutluer
+Naci
+Naçi
+Nadaroğlu
+Nahum
+Naki
+Nalbantoglu
+Nane
+Naumoski
+Nazar
+Nazmi
+Necef
+Nersessian
+Neusel
+Newlin
+Neziri
+Nikolaidis
+Nobre
+Nurhan
+Nurten
+Nutku
+Oben
+Öçsu
+Ofli
+Oker
+Okman
+Okul
+Olça
+Ömür
+Onaral
+Onarıcı
+Önengüt
+Öngay
+Orel
+Örik
+Orkun
+Ortabasi
+Oten
+Oya
+Özalan
+Ozankaya
+Özarıcı
+Özbahar
+Özelgül
+Ozen
+Özerk
+Özerturgut
+Özev
+Özgüden
+Özgündüz
+Ozgur
+Ozgurel
+Özkasnak
+Öznal
+Özsert
+Özüm
+Özyakup
+Pachulia
+Paeffgen
+Pahsa
+Palazoğlu
+Papaziani
+Parla
+Parlakoğlu
+Parodi
+Parıl
+Pasha
+Pavey
+Payan
+Pazarkaya
+Pekmezoğlu
+Pekuz
+Pelin
+Pepe
+Peri
+Perin
+Pirali
+Piri
+Piroglu
+Poda
+Pontremoli
+Pop
+Postel
+Příhoda
+Prodromou
+Puls
+Qanyqwatæ
+Rakip
+Ran
+Rashed
+Reddy
+Reinhart
+Resmor
+Retzep
+Rielle
+Robenson
+Rodrik
+Rogers
+Roman
+Romanov
+Romey
+Ronak
+Ross
+Rufer
+Ružić
+Saat
+Sabunyan
+Saçan
+Sadik
+Sadri
+Safranti
+Sagar
+Saghafi
+Şahali
+Sahinler
+Şakacı
+Sakaoğlu
+Sakin
+Salahli
+Salar
+Salim
+Salimi
+Salım
+Samast
+Sami
+Sançar
+Sangar
+Sanlısoy
+Sanver
+Saraçgil
+Saridogan
+Sarigül
+Sarkar
+Sarısaltıkoğlu
+Sarıtekin
+Şatana
+Satar
+Savranbaşı
+Schamberger
+Scheiner
+Scheinhardt
+Schmitt
+Schuster
+Seba
+Seki
+Selimi
+Selver
+Semin
+Semsek
+Sengül
+Şenlendirici
+Sentürk
+Serel
+Seres
+Ses
+Sesalan
+Seyhun
+Seyyal
+Shahin
+Shahtakhtinski
+Sheykhzamanli
+Siber
+Sicimoğlu
+Siesbye
+Silan
+Sinani
+Sinanyan
+Sisa
+Somers
+Sonbas
+Söner
+Sönmezer
+Söylet
+Soytekin
+Soyuyüce
+Spain
+Sten
+Steyer
+Stokes
+Suçin
+Sucuoğlu
+Sügüder
+Sultanov
+Süme
+Suna
+Sürmeneli
+Süslü
+Susuz
+Sütcü
+Sılaoğlu
+Taç
+Talan
+Talat
+Tali
+Tanrıöğen
+Tansu
+Tarçın
+Tarzi
+Taşdeler
+Taser
+Taşköprü
+Taşöz
+Tat
+Tatlici
+Tavdgiridze
+Tayman
+Taymaz
+Tayyar
+Teber
+Teki̇rdağ
+Tekkal
+Teles
+Telle
+Temelkuran
+Tenenblat
+Tepecik
+Tepeli
+Teregulovs
+Tevs
+Tevzadze
+Tezgel
+Teztiker
+Thomas
+Tilbe
+Tillem
+Todorović
+Toğuz
+Toksabay
+Tolan
+Tomsu
+Tonga
+Tongar
+Torma
+Tosuner
+Tosunoglu
+Toyran
+Tren
+Tuğba
+Tumer
+Tümkaya
+Tunc
+Tunçsoy
+Turantepe
+Türkeli
+Turun
+Türün
+Tutu
+Uba
+Ucan
+Uçum
+Uğurel
+Uguz
+Ulak
+Ulug
+Uluhanli
+Ulukan
+Uluksar
+Ünalmış
+Undav
+Unvar
+Üregen
+Ürse
+Üründül
+Uyhan
+Uznadze
+Uzunatağan
+Uzunhan
+Van Eck
+Varley
+Varlıer
+Vay
+Venditti
+Verdi
+Veske
+Villeneuve
+Voskanyan
+Wand
+Weber
+Westphal
+Wilbekin
+Winterstein
+Wolter
+Wright
+Xuan
+Yağlioğlu
+Yağtu
+Yalcinkaya
+Yalnız
+Yalvaç
+Yalvarici
+Yandaş
+Yardımlı
+Yavuzaslan
+Yaya
+Yaygın
+Yeganeh
+Yego
+Yen
+Yenim
+Yesil
+Yeşilnil
+Yigitoglu
+Yirmibeş
+Yontar
+Yufkacıgil
+Yüksekdağ
+Yurdadön
+Yurtdagülen
+Yusifbeyli
+Yılbar
+Yıldırımlar
+Yıldızdoğan
+Zacharopoulos
+Zamani
+Zanni
+Zay
+Zeid
+Zeitler
+Zemzem
+Zengil
+Zeynalov
+Zimmerling
+Zvizdić

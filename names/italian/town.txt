@@ -1,0 +1,5000 @@
+Zona Industriale	132
+San Pietro	92
+Castello	89
+San Giovanni	89
+Sant'Antonio	89
+Santa Lucia	81
+San Lorenzo	77
+Santa Maria	70
+Villa	66
+Belvedere	61
+Valle	60
+San Giacomo	57
+Sant'Anna	56
+Costa	55
+Casale	53
+San Michele	53
+San Rocco	49
+Fornace	48
+Sant'Andrea	48
+Ronchi	47
+San Giorgio	47
+San Vito	47
+Villanova	47
+Bosco	44
+Santo Stefano	44
+Fornaci	41
+San Giuseppe	41
+Colle	40
+Sant'Angelo	39
+Zona Artigianale	39
+Fontanelle	38
+San Marco	38
+Serra	38
+Caselle	36
+San Bartolomeo	36
+Santa Croce	36
+Monte	35
+Case Nuove	34
+Isola	33
+Poggio	32
+San Biagio	32
+Stazione	31
+San Nicola	30
+Croce	29
+Santa Caterina	29
+Canova	28
+Casoni	28
+Cerreto	28
+San Donato	28
+Selva	28
+Casette	26
+Prato	26
+San Francesco	26
+Borgo	25
+Fontana	25
+Molino	25
+Palazzo	25
+Castelletto	24
+Colli	24
+Pozzo	24
+San Carlo	24
+San Paolo	24
+Torre	24
+Colombara	23
+Dosso	23
+Ponte	23
+Ronco	23
+Borghetto	22
+Campagnola	22
+Castellaro	22
+Castiglione	22
+Lago	22
+Piano	22
+Santa Margherita	22
+Torretta	22
+Cantone	21
+Crocetta	21
+Madonna delle Grazie	21
+San Felice	21
+San Salvatore	21
+Area Industriale	20
+Molini	20
+Rocca	20
+Sala	20
+San Bernardo	20
+San Sebastiano	20
+Boschetto	19
+Capitello	19
+Casone	19
+Centro	19
+La Costa	19
+La Villa	19
+Monticelli	19
+Motta	19
+Piazza	19
+San Quirico	19
+Sasso	19
+Castelnuovo	18
+Gallo	18
+Piane	18
+Pieve	18
+San Filippo	18
+Boschi	17
+Cappuccini	17
+Chiesa	17
+Palazzina	17
+Piana	17
+San Benedetto	17
+San Grato	17
+San Gregorio	17
+San Leonardo	17
+San Valentino	17
+Torricella	17
+Badia	16
+Campo	16
+Canale	16
+Casanova	16
+Cascina Nuova	16
+Castagna	16
+La Valle	16
+Monticello	16
+Osteria	16
+San Mauro	16
+San Nicolò	16
+Sant'Agata	16
+Santa Barbara	16
+Valli	16
+Bastia	15
+Casella	15
+Castelvecchio	15
+Cese	15
+Foresta	15
+Lazzaretto	15
+Montecchio	15
+Paterno	15
+Rossi	15
+Trinità	15
+Annunziata	14
+Casali	14
+Convento	14
+Corte	14
+Il Poggio	14
+Le Case	14
+Massa	14
+Poggiolo	14
+Rocchetta	14
+San Bernardino	14
+San Cassiano	14
+San Lazzaro	14
+San Pancrazio	14
+San Silvestro	14
+Scalo Ferroviario	14
+Acquaviva	13
+Borgonuovo	13
+Campagna	13
+Canneto	13
+Castagnola	13
+Castellana	13
+Castelluccio	13
+Fratta	13
+Maddalena	13
+Molinetto	13
+Ospedaletto	13
+Palù	13
+Pantano	13
+Paradiso	13
+Roncaglia	13
+San Maurizio	13
+Santa Cristina	13
+Serre	13
+Bellaria	12
+Campi	12
+Casa Nuova	12
+Casalino	12
+Castagneto	12
+Castellazzo	12
+Crosara	12
+Farneto	12
+Fornello	12
+Groppo	12
+Località Produttiva	12
+Località Produttiva I	12
+Malcantone	12
+Monti	12
+Piani	12
+Ponticelli	12
+Prati	12
+Quattro Strade	12
+Sabbioni	12
+San Cataldo	12
+San Giuliano	12
+San Tommaso	12
+San Vincenzo	12
+San Vittore	12
+Sant'Elia	12
+Serravalle	12
+Vignola	12
+Area Produttiva	11
+Barco	11
+Bettola	11
+Bricco	11
+Cappella	11
+Casetta	11
+Cerqueto	11
+Cittadella	11
+Fossa	11
+Gualdo	11
+La Torre	11
+Macchie	11
+Madonna	11
+Marina	11
+Montebello	11
+Noce	11
+Oliveto	11
+Pianello	11
+Pratolungo	11
+Riva	11
+San Clemente	11
+San Gaetano	11
+San Luca	11
+Cancello	10
+Casabianca	10
+Cascinetta	10
+Cisterna	10
+Collina	10
+Difesa	10
+Ferrari	10
+Forno	10
+Gazzo	10
+Giardino	10
+La Fornace	10
+Le Casette	10
+Loreto	10
+Macchia	10
+Madonnina	10
+Molinello	10
+Montale	10
+Olmo	10
+Palazzetto	10
+Pianezza	10
+Ponte Nuovo	10
+Pozza	10
+Prada	10
+Rivalta	10
+Sacco	10
+San Cristoforo	10
+San Giusto	10
+San Savino	10
+Sant'Elena	10
+Santa Giustina	10
+Santo Ianni	10
+Taverna	10
+Torri	10
+Trebbio	10
+Zona Industriale Artigianale	10
+Boschetti	9
+Braida	9
+Ca' Bianca	9
+Cappelletta	9
+Caprile	9
+Case Vecchie	9
+Casello	9
+Casenuove	9
+Casino	9
+Castellano	9
+Castiglioni	9
+Cave	9
+Centrale	9
+Cerreta	9
+Colombare	9
+Crocefisso	9
+Dossi	9
+Fabbrica	9
+Foce	9
+Fontane	9
+Fossato	9
+Fratte	9
+Gazzolo	9
+Il Colle	9
+Malpaga	9
+Marano	9
+Moglia	9
+Monastero	9
+Palombara	9
+Porto	9
+Saline	9
+San Cipriano	9
+San Luigi	9
+San Prospero	9
+San Sisto	9
+San Vitale	9
+Sant'Apollinare	9
+Sant'Isidoro	9
+Santa Domenica	9
+Spineto	9
+Tetti	9
+Tezze	9
+Vico	9
+Vigne	9
+Ville	9
+Argine	8
+Bagnolo	8
+Bassa	8
+Borgo Nuovo	8
+Botteghino	8
+Ca' Nova	8
+Caminata	8
+Campana	8
+Campolungo	8
+Capanne	8
+Carignano	8
+Cascina	8
+Cascine	8
+Casotti	8
+Castellina	8
+Cella	8
+Certosa	8
+Chiesanuova	8
+Chiusa	8
+Colla	8
+Cona	8
+Conca	8
+Coste	8
+Faro	8
+Fiumara	8
+Fontanella	8
+Gaggio	8
+Il Piano	8
+La Croce	8
+La Palazzina	8
+Laghi	8
+Mancini	8
+Marinella	8
+Molina	8
+Monaci	8
+Montalbano	8
+Osteria Nuova	8
+Paderno	8
+Pagliara	8
+Pedemonte	8
+Pezzolo	8
+Piagge	8
+Pietra	8
+Pila	8
+Pilastro	8
+Poggetto	8
+Rovere	8
+San Colombano	8
+San Gervasio	8
+San Leo	8
+San Pasquale	8
+San Pellegrino	8
+Sant'Ambrogio	8
+Sant'Onofrio	8
+Selvapiana	8
+Stazione Ferroviaria	8
+Stella	8
+Strada	8
+Tavernelle	8
+Valbona	8
+Vallone	8
+Varano	8
+Vicenne	8
+Vigna	8
+Vigo	8
+Abbadia	7
+Alberone	7
+Archi	7
+Baraggia	7
+Barchi	7
+Bianchi	7
+Bivio	7
+Botta	7
+Campolongo	7
+Canonica	7
+Capriglia	7
+Carbonara	7
+Carpeneto	7
+Casazza	7
+Casotto	7
+Centrale Enel	7
+Cerro	7
+Chiesa Nuova	7
+Civita	7
+Civitella	7
+Collalto	7
+Colombaia	7
+Ferrara	7
+Foresto	7
+Fosse	7
+Gello	7
+Granze	7
+Il Monte	7
+La Serra	7
+Lama	7
+Le Caselle	7
+Magliano	7
+Maiano	7
+Marchetti	7
+Marzano	7
+Masi	7
+Maso	7
+Mezzana	7
+Mezzavia	7
+Mirabello	7
+Molino Nuovo	7
+Montaldo	7
+Monterosso	7
+Morelli	7
+Mori	7
+Nave	7
+Pagliarone	7
+Petrognano	7
+Pianazzo	7
+Pianella	7
+Pianetto	7
+Pineta	7
+Ponzano	7
+Pozzillo	7
+Querceto	7
+Rosa	7
+Saletto	7
+Salice	7
+San Basilio	7
+San Gottardo	7
+San Romano	7
+San Zeno	7
+Sant'Agostino	7
+Sant'Antonino	7
+Santa Marina	7
+Santa Teresa	7
+Saretto	7
+Sega	7
+Sella	7
+Selve	7
+Tomba	7
+Torrazza	7
+Tufo	7
+Viola	7
+Zona Industriale I	7
+Acquafredda	6
+Azzano	6
+Bagnaia	6
+Bagnoli	6
+Barca	6
+Bettolino	6
+Bicocca	6
+Braglia	6
+Braia	6
+Breda	6
+Camino	6
+Cantalupo	6
+Cantarana	6
+Capodacqua	6
+Carbone	6
+Cartiera	6
+Casa Bianca	6
+Casacce	6
+Case	6
+Case Bianche	6
+Casetti	6
+Casola	6
+Castellaccio	6
+Castelrotto	6
+Celle	6
+Cerri	6
+Cesa	6
+Colle San Giovanni	6
+Collelungo	6
+Colletto	6
+Conti	6
+Costalunga	6
+Cucco	6
+Dogana	6
+Ferriera	6
+Fiume	6
+Fogliano	6
+Gabbiano	6
+Gabella	6
+Gatti	6
+Giare	6
+Grotte	6
+Guardia	6
+I Cappuccini	6
+Il Palazzo	6
+Ischia	6
+La Ca	6
+La Casetta	6
+La Chiusa	6
+Le Fornaci	6
+Le Grazie	6
+Le Ville	6
+Leccio	6
+Levada	6
+Madonna del Piano	6
+Maglio	6
+Malpasso	6
+Mirandola	6
+Montagna	6
+Montenero	6
+Moretta	6
+Mulino	6
+Noceto	6
+Olmi	6
+Palazzi	6
+Palazzolo	6
+Palazzone	6
+Pero	6
+Piazze	6
+Ponte di Ferro	6
+Pra	6
+Prata	6
+Ripoli	6
+Riviera	6
+Rocchette	6
+Rovereto	6
+Saliceto	6
+Salino	6
+Sambuco	6
+San Basile	6
+San Damiano	6
+San Defendente	6
+San Donnino	6
+San Faustino	6
+San Marino	6
+San Nazzaro	6
+San Teodoro	6
+Sant'Anastasio	6
+Sant'Egidio	6
+Sant'Eustachio	6
+Sant'Ilario	6
+Santa Chiara	6
+Santa Giusta	6
+Santa Maria Maddalena	6
+Santa Sofia	6
+Scuole	6
+Serro	6
+Serroni	6
+Siberia	6
+Spina	6
+Starza	6
+Termine	6
+Torrevecchia	6
+Torrone	6
+Tre Ponti	6
+Trivio	6
+Vezzano	6
+Vignale	6
+Villagrande	6
+Villanuova	6
+Volpara	6
+Zona Industriale II	6
+Zona P I P	6
+Acquabona	5
+Airali	5
+Albareto	5
+Arena	5
+Arola	5
+Bagni	5
+Bandita	5
+Baraccone	5
+Barche	5
+Barone	5
+Bellavista	5
+Busa	5
+Ca' Vecchia	5
+Camaldoli	5
+Camigliano	5
+Campanella	5
+Campasso	5
+Campazzo	5
+Campitello	5
+Canali	5
+Canove	5
+Canton	5
+Capovilla	5
+Cardito	5
+Casalecchio	5
+Casareggio	5
+Casatico	5
+Cascina Colombara	5
+Case Bruciate	5
+Case Rosse	5
+Case Sartori	5
+Caseificio	5
+Casona	5
+Castellare	5
+Ceraso	5
+Cervaro	5
+Cesine	5
+Chiappa	5
+Chiaravalle	5
+Chiesuola	5
+Cignano	5
+Cimitero	5
+Colletta	5
+Collicello	5
+Colma	5
+Cologna	5
+Colombarone	5
+Colombera	5
+Coriano	5
+Corneto	5
+Corno	5
+Corsano	5
+Corticella	5
+Cortina	5
+Cristo	5
+Cupone	5
+Cutura	5
+Fabbri	5
+Favale	5
+Fenile	5
+Ferraro	5
+Fiano	5
+Fienili	5
+Filetto	5
+Fondo	5
+Foppa	5
+Forcella	5
+Frassineta	5
+Frassineto	5
+Gesso	5
+Ghetto	5
+Gobbi	5
+Gorra	5
+Grotta	5
+Grotti	5
+Guarda	5
+Il Casone	5
+Il Palazzone	5
+Isella	5
+La Casina	5
+La Corte	5
+La Pieve	5
+Lame	5
+Lauro	5
+Le Coste	5
+Le Piane	5
+Levata	5
+Livelli	5
+Macchione	5
+Magazzini	5
+Manzoni	5
+Marciano	5
+Marconi	5
+Meleto	5
+Mercatale	5
+Merlo	5
+Mezzano	5
+Molinaccio	5
+Molinella	5
+Monasterolo	5
+Moncucco	5
+Montagnola	5
+Montanina	5
+Montecucco	5
+Montello	5
+Muraglione	5
+Mure	5
+Nava	5
+Oliva	5
+Oratorio	5
+Orsi	5
+Ospitaletto	5
+Osteriola	5
+Paderna	5
+Padula	5
+Pantana	5
+Pastina	5
+Pellegrino	5
+Pescara	5
+Peschiera	5
+Petrara	5
+Pezza	5
+Pezze	5
+Piaggia	5
+Piave	5
+Pieve Vecchia	5
+Pisciarello	5
+Ponterotto	5
+Pozzetto	5
+Pozzolo	5
+Pugliano	5
+Rialto	5
+Ricci	5
+Riofreddo	5
+Roncole	5
+Rosano	5
+Rosario	5
+Sacca	5
+Saletta	5
+San Biase	5
+San Fermo	5
+San Floriano	5
+San Gennaro	5
+San Massimo	5
+San Matteo	5
+San Polo	5
+San Sabino	5
+San Siro	5
+San Vigilio	5
+San Vittorino	5
+Sant'Eusebio	5
+Santa Vittoria	5
+Santissima Trinità	5
+Santo	5
+Santo Spirito	5
+Selvotta	5
+Seminario	5
+Serrone	5
+Settimo	5
+Soglio	5
+Speranza	5
+Spineta	5
+Starze	5
+Stradella	5
+Stradone	5
+Tagliata	5
+Tiro a Segno	5
+Torno	5
+Torrazzo	5
+Treponti	5
+Trucco	5
+Valentino	5
+Vallefredda	5
+Valsorda	5
+Valverde	5
+Viano	5
+Vignali	5
+Villafranca	5
+Villaretto	5
+Villaro	5
+Volta	5
+Zerbi	5
+Zona Industriale Nord	5
+Acquasanta	4
+Agnone	4
+Albarea	4
+Albaredo	4
+Alberoni	4
+Alpe	4
+Altino	4
+Amendola	4
+Angeli	4
+Area Artigianale	4
+Area P I P	4
+Armo	4
+Baggio	4
+Bagnara	4
+Bagno	4
+Balma	4
+Barbiano	4
+Barchessa	4
+Baselica	4
+Bassi	4
+Battaglia	4
+Battistini	4
+Belfiore	4
+Belforte	4
+Bellosguardo	4
+Bibbiano	4
+Bonina	4
+Borghi	4
+Borgo Verde	4
+Borgoforte	4
+Borgonovo	4
+Borra	4
+Bosi	4
+Bottega	4
+Braglie	4
+Brenta	4
+Brione	4
+Budrio	4
+Cà Nova	4
+Ca' Rossa	4
+Cacciano	4
+Cafaggio	4
+Caiano	4
+Calcinaia	4
+Calvario	4
+Calvi	4
+Campaccio	4
+Campagnolo	4
+Campelli	4
+Campiano	4
+Campitelli	4
+Campogrande	4
+Campone	4
+Campora	4
+Campore	4
+Camporotondo	4
+Cannavina	4
+Cantoniera	4
+Capitignano	4
+Capo di Sopra	4
+Cappelle	4
+Caprara	4
+Carano	4
+Carmignano	4
+Carpineta	4
+Carpineto	4
+Carraro	4
+Carro	4
+Carrobbio	4
+Casaccia	4
+Casaglia	4
+Casanuova	4
+Cascina Bianca	4
+Case Rossi	4
+Casine	4
+Casini	4
+Casoli	4
+Cassano	4
+Castel San Pietro	4
+Castellero	4
+Castellino	4
+Castiglia	4
+Cavallari	4
+Cavallino	4
+Cavallo	4
+Cavone	4
+Cecina	4
+Celletta	4
+Cerrone	4
+Chiavicone	4
+Chiesa Vecchia	4
+Cigliano	4
+Collevecchio	4
+Colombaio	4
+Colonna	4
+Combe	4
+Contura	4
+Corbara	4
+Corniolo	4
+Corona	4
+Corso	4
+Cort	4
+Costalta	4
+Cozzano	4
+Cupa	4
+Curti	4
+Deserto	4
+Doccia	4
+Due Ponti	4
+Duomo	4
+Ellera	4
+Eremo	4
+Fabbreria	4
+Faedo	4
+Faeto	4
+Fagnano	4
+Farneta	4
+Farnete	4
+Ferrere	4
+Filette	4
+Filippi	4
+Fiumicello	4
+Fognano	4
+Fondi	4
+Fontanafredda	4
+Fontanile	4
+Fonte	4
+Foppiano	4
+Fornaca	4
+Fornasette	4
+Forni	4
+Fossalta	4
+Franchini	4
+Fusine	4
+Gabbio	4
+Gagliano	4
+Galdo	4
+Galli	4
+Gallina	4
+Garibaldi	4
+Gatta	4
+Gavello	4
+Gavignano	4
+Gerbidi	4
+Gerbido	4
+Gianotti	4
+Giardini	4
+Giuliano	4
+Gorgo	4
+Gorzano	4
+Grangia	4
+Grasso	4
+Greci	4
+Guasto	4
+Guzzano	4
+Il Casale	4
+Il Prato	4
+Incoronata	4
+Isca	4
+Isole	4
+La Casa	4
+La Cascina	4
+La Fossa	4
+La Lama	4
+La Maddalena	4
+La Madonnina	4
+La Piana	4
+La Rocca	4
+Laghetto	4
+Lamia	4
+Le Cave	4
+Le Tombe	4
+Levà	4
+Lovati	4
+Lucignano	4
+Lupara	4
+Maddalene	4
+Madonna della Neve	4
+Madonna della Salute	4
+Madonna della Stella	4
+Madonnella	4
+Madonnetta	4
+Magnano	4
+Malavicina	4
+Malborghetto	4
+Manzano	4
+Marchiori	4
+Marignano	4
+Marini	4
+Marola	4
+Martelli	4
+Mas	4
+Masetti	4
+Masseria	4
+Masserie	4
+Melara	4
+Mercatello	4
+Mercato	4
+Mezzavilla	4
+Miano	4
+Migliano	4
+Miniera	4
+Mirabella	4
+Moiano	4
+Molin Nuovo	4
+Molinazzo	4
+Moline	4
+Molino Vecchio	4
+Montà	4
+Montagnana	4
+Montalto	4
+Monte Grappa	4
+Montecastello	4
+Montechiaro	4
+Montegrosso	4
+Montelungo	4
+Montemaggiore	4
+Montemagno	4
+Monteverde	4
+Moretti	4
+Muro	4
+Novello	4
+Oneta	4
+Oriolo	4
+Orti	4
+Ospedale	4
+Osteria Vecchia	4
+Padule	4
+Palagio	4
+Palazza	4
+Palazzon	4
+Pallotta	4
+Palombare	4
+Pantanelle	4
+Pantanello	4
+Pantani	4
+Panzano	4
+Paolini	4
+Papiano	4
+Pareto	4
+Parigi	4
+Paschero	4
+Penna	4
+Pera	4
+Pergola	4
+Perotti	4
+Pescina	4
+Petraro	4
+Pian Grande	4
+Pianezze	4
+Pianezzo	4
+Piazzo	4
+Piazzola	4
+Piazzolo	4
+Piedimonte	4
+Pietrafitta	4
+Pietralunga	4
+Pignano	4
+Pino	4
+Pitigliano	4
+Pizzo	4
+Poggiolino	4
+Poiano	4
+Ponte Alto	4
+Pontone	4
+Porcara	4
+Porcile	4
+Portico	4
+Pozzi	4
+Pradaccio	4
+Pradella	4
+Pradelle	4
+Pradello	4
+Purgatorio	4
+Quarti	4
+Quarto	4
+Querce	4
+Quinzano	4
+Rampina	4
+Revelli	4
+Riano	4
+Rio	4
+Riolo	4
+Ripa	4
+Ripalta	4
+Rive	4
+Rivera	4
+Rivere	4
+Rivoira	4
+Rizzi	4
+Rizzolo	4
+Roccolo	4
+Roma	4
+Romagnano	4
+Romana	4
+Ronche	4
+Roreto	4
+Rosciano	4
+Rossa	4
+Rotta	4
+Roveredo	4
+Rubbiano	4
+Russi	4
+Salinella	4
+Sambuceto	4
+San Costantino	4
+San Daniele	4
+San Domenico	4
+San Fortunato	4
+San Gabriele	4
+San Marcellino	4
+San Marcello	4
+San Nazario	4
+San Piero	4
+San Ruffino	4
+San Venanzo	4
+Sandri	4
+Sanguineto	4
+Sant'Agnese	4
+Sant'Antimo	4
+Sant'Eufemia	4
+Sant'Ippolito	4
+Sant'Orsola	4
+Sant'Urbano	4
+Santa Brigida	4
+Santa Filomena	4
+Santa Giulia	4
+Santa Maria degli Angeli	4
+Santa Rosa	4
+Santi	4
+Santo Janni	4
+Santuario	4
+Savignano	4
+Schiavi	4
+Serraglio	4
+Soccorso	4
+Sorbo	4
+Sottomonte	4
+Sottoriva	4
+Spessa	4
+Spiazzo	4
+Spin	4
+Spinelli	4
+Stagno	4
+Sterpeto	4
+Stignano	4
+Tabina	4
+Taglio	4
+Teglia	4
+Terzo	4
+Tesoro	4
+Tivoli	4
+Torano	4
+Trappola	4
+Tratturo	4
+Tre Torri	4
+Trieste	4
+Tripoli	4
+Vaiano	4
+Valle Cupa	4
+Vallecupa	4
+Valliera	4
+Valloni	4
+Vallunga	4
+Valmaggiore	4
+Valpiana	4
+Variano	4
+Via Nazionale	4
+Vicchio	4
+Vicinato	4
+Vigliano	4
+Vignolo	4
+Vigolo	4
+Villa Maria	4
+Villa San Giovanni	4
+Villa Santa Maria	4
+Villaggio del Sole	4
+Villalta	4
+Villetta	4
+Villette	4
+Vittorio Veneto	4
+Zanetti	4
+Zona Industriale-Artigianale	4
+Zona Pip	4
+Zuccherificio	4
+Abbazia	3
+Acciaieria	3
+Acone	3
+Acquacalda	3
+Acquara	3
+Acquaro	3
+Adriatica	3
+Aeroporto	3
+Agliano	3
+Agna	3
+Aiale	3
+Aie	3
+Aiola	3
+Airola	3
+Albera	3
+Alberi	3
+Albero	3
+Albiano	3
+Alessandria	3
+Altarello	3
+Amato	3
+Antico	3
+Antignano	3
+Antognano	3
+Appalto	3
+Aquilone	3
+Arcella	3
+Arenara	3
+Arenella	3
+Argentera	3
+Arginello	3
+Arginone	3
+Ariano	3
+Aringo	3
+Arzano	3
+Arzaron	3
+Arzerini	3
+Augusta	3
+Aurora	3
+Avogadro	3
+Baccanello	3
+Bagnarola	3
+Baia	3
+Baiano	3
+Bando	3
+Banzola	3
+Barba	3
+Barona	3
+Basciano	3
+Basso	3
+Bastiglia	3
+Battifollo	3
+Bazzano	3
+Belgioioso	3
+Bellini	3
+Benne	3
+Beolo	3
+Bernardi	3
+Bertini	3
+Bertone	3
+Betlemme	3
+Bevera	3
+Bianco	3
+Biolo	3
+Bocco	3
+Boetti	3
+Bologna	3
+Bolognina	3
+Bonazza	3
+Bondeno	3
+Bondo	3
+Bondone	3
+Borgo di Mezzo	3
+Borgo San Giacomo	3
+Borgo San Pietro	3
+Borgo Sant'Antonio	3
+Borgo Santa Maria	3
+Boschetta	3
+Bossola	3
+Botto	3
+Bova	3
+Bracciano	3
+Braga	3
+Breccelle	3
+Breccelle I	3
+Breno	3
+Brugneto	3
+Bruni	3
+Bruso	3
+Bucciano	3
+Bugno	3
+Buon Riposo	3
+Burano	3
+Buriano	3
+Busseto	3
+Cà Bianca	3
+Ca' Alta	3
+Ca' Brusà	3
+Ca' Giacomo	3
+Ca' Lunga	3
+Ca' Matte	3
+Caberlotto	3
+Cadignano	3
+Calabria	3
+Calcara	3
+Calderina	3
+Callalta	3
+Calvisi	3
+Camerano	3
+Campagnole	3
+Campalto	3
+Campanari	3
+Campanelle	3
+Campanile	3
+Campiglio	3
+Campiglione	3
+Campione	3
+Campo di Mare	3
+Campo Sportivo	3
+Campomaggiore	3
+Canai	3
+Canalicchio	3
+Cancelli	3
+Canè	3
+Caneva	3
+Canino	3
+Canossa	3
+Cantarelle	3
+Capannacce	3
+Capannelle	3
+Capitolo	3
+Capocroce	3
+Capodimonte	3
+Capriolo	3
+Carbonaro	3
+Carbonera	3
+Cardoni	3
+Caretta	3
+Caria	3
+Carmiano	3
+Carmine	3
+Carobbio	3
+Carona	3
+Carpinello	3
+Carrara	3
+Carretta	3
+Casa Balzano	3
+Casa Circondariale	3
+Casa Rossa	3
+Casa Vecchia	3
+Casaletto	3
+Casalini	3
+Casalotto	3
+Casarola	3
+Casate	3
+Casazze	3
+Cascina Bosco	3
+Cascina Cascinetta	3
+Cascina Fontana	3
+Cascina Fornace	3
+Cascina Malpaga	3
+Cascina Monache	3
+Cascina Rossa	3
+Cascina San Giuseppe	3
+Cascina Vecchia	3
+Cascine Nuove	3
+Case Fornace	3
+Case Lago	3
+Case Marconi	3
+Case Pellizzari	3
+Case Popolari	3
+Case Reggiani	3
+Case Soprane	3
+Casellina	3
+Casera	3
+Casere	3
+Casigliano	3
+Cason	3
+Casonetto	3
+Cassana	3
+Cassino	3
+Castagneta	3
+Castagno	3
+Castagnole	3
+Castagnolo	3
+Castel San Giovanni	3
+Castel Sant'Angelo	3
+Casteldicroce	3
+Castelfranco	3
+Castella	3
+Castelletta	3
+Castellone	3
+Castione	3
+Castro	3
+Catena	3
+Cava	3
+Cavaliera	3
+Cavaliere	3
+Cavallara	3
+Cavallotti	3
+Cavezzo	3
+Cazzola	3
+Celso	3
+Cento	3
+Centrale Elettrica	3
+Centrale Idroelettrica	3
+Centro Commerciale	3
+Centro Storico	3
+Ceola	3
+Cerasa	3
+Cerchiara	3
+Ceretto	3
+Cerisola	3
+Cerruti	3
+Cervara	3
+Cervo	3
+Cesi	3
+Cevo	3
+Cevoli	3
+Chateau	3
+Chiari	3
+Chiavica	3
+Chignolo	3
+Chiodo	3
+Chioso	3
+Chiusi	3
+Ciano	3
+Ciccarelli	3
+Cicogna	3
+Cima	3
+Cipressi	3
+Città Giardino	3
+Coazze	3
+Coi	3
+Col	3
+Cola	3
+Coletta	3
+Colle Santa Lucia	3
+Colle Santa Maria	3
+Colle Secco	3
+Collegio	3
+Collepietro	3
+Colognola	3
+Colognole	3
+Colombaie	3
+Colombarina	3
+Colombarola	3
+Colombina	3
+Colombo	3
+Colonna San Giovanni	3
+Colonnata	3
+Colonne	3
+Coltura	3
+Conca Verde	3
+Conche	3
+Conio	3
+Conte	3
+Contea	3
+Contrada	3
+Contrada Lacco	3
+Corigliano	3
+Corone	3
+Coronella	3
+Correggio	3
+Corrubio	3
+Corte Bassa	3
+Corti	3
+Cortivo	3
+Corvara	3
+Covelo	3
+Covolo	3
+Cozzi	3
+Cresto	3
+Creta	3
+Crocifisso	3
+Crosare	3
+Crova	3
+Cuccagna	3
+Cuccaro	3
+Debbio	3
+Destre	3
+Dragoni	3
+Fabbiano	3
+Faggiano	3
+Faiano	3
+Falciano	3
+Fara	3
+Fasana	3
+Ferrazza	3
+Ferriere	3
+Fico	3
+Fienile	3
+Fiera	3
+Fiesso	3
+Figino	3
+Filettole	3
+Filippini	3
+Finale	3
+Fiorentina	3
+Fiorino	3
+Fiumarella	3
+Folli	3
+Follo	3
+Fontanone	3
+Fonticelle	3
+Forestella	3
+Fornacetta	3
+Fornacette	3
+Fornazzo	3
+Fornillo	3
+Foro	3
+Fosso	3
+Fraccia	3
+Francolini	3
+Frascaro	3
+Frassenè	3
+Frasso	3
+Frati	3
+Fregona	3
+Frizzi	3
+Frontignano	3
+Gabelletta	3
+Galleria	3
+Gallese	3
+Gamba	3
+Garino	3
+Garzano	3
+Gatto	3
+Gazzola	3
+Ghiaie	3
+Giannini	3
+Giardinello	3
+Giarre	3
+Ginestra	3
+Ginestreto	3
+Giordani	3
+Giove	3
+Giuliani	3
+Gobbo	3
+Gorghi	3
+Goria	3
+Gragnano	3
+Granarolo	3
+Granero	3
+Grange	3
+Gravina	3
+Grazie	3
+Greco	3
+Grillo	3
+Grimaldi	3
+Grottole	3
+Grumale	3
+Grumello	3
+Guazzi	3
+Guizze	3
+I Boschi	3
+I Casoni	3
+I Colli	3
+Iano	3
+Iardino	3
+Il Borgo	3
+Il Castagno	3
+Il Ghetto	3
+Il Pino	3
+Isolalunga	3
+Isolella	3
+L'Annunziata	3
+L'Isola	3
+L'Oca	3
+La Bassa	3
+La Bottega	3
+La Cà	3
+La Casella	3
+La Cava	3
+La Chiesa	3
+La Collina	3
+La Crocetta	3
+La Foce	3
+La Fonte	3
+La Guardia	3
+La Piazza	3
+La Pietra	3
+La Pioppa	3
+La Punta	3
+La Ripa	3
+La Selva	3
+La Stella	3
+La Vecchia	3
+Lacchi	3
+Larderia	3
+Lasta	3
+Lavina	3
+Le Corti	3
+Le Fosse	3
+Le Giare	3
+Le Macchie	3
+Le Moie	3
+Le Molina	3
+Le Piagge	3
+Le Querce	3
+Le Selve	3
+Le Valli	3
+Lerici	3
+Libbiano	3
+Lillaz	3
+Linaro	3
+Lizzano	3
+Località Produttiva II	3
+Lombardi	3
+Longhi	3
+Lora	3
+Lovera	3
+Lugnano	3
+Lugo	3
+Lupi	3
+Luserna	3
+Macchia Grande	3
+Macchioni	3
+Macerone	3
+Madonna degli Angeli	3
+Madonna del Monte	3
+Madonna del Pilone	3
+Madonna della Pace	3
+Madonna di Loreto	3
+Maestà	3
+Magnani	3
+Mairano	3
+Malcanton	3
+Manche	3
+Manciano	3
+Mancino	3
+Marino	3
+Marmo	3
+Marone	3
+Marotta	3
+Martorano	3
+Masseria Grande	3
+Materdomini	3
+Mattina	3
+Meano	3
+Meda	3
+Mella	3
+Menin	3
+Mereta	3
+Mezzaselva	3
+Mezzomonte	3
+Migliarina	3
+Migliaro	3
+Migliorini	3
+Milan	3
+Miranda	3
+Mirasole	3
+Miravalle	3
+Mirto	3
+Misciano	3
+Misericordia	3
+Missano	3
+Moglie	3
+Molette	3
+Molinari	3
+Mombello	3
+Monache	3
+Monchio	3
+Mondello	3
+Mondonovo	3
+Monta	3
+Montacuto	3
+Montanara	3
+Montanaro	3
+Montano	3
+Montauto	3
+Montecalvo	3
+Montedoro	3
+Montefalcone	3
+Monteleone	3
+Montemoro	3
+Montepiano	3
+Montericco	3
+Monterotondo	3
+Montesecco	3
+Montevecchio	3
+Montevergine	3
+Montorio	3
+Morasco	3
+Morcone	3
+Morena	3
+Moriano	3
+Morina	3
+Morini	3
+Motti	3
+Moulin	3
+Mozzo	3
+Mugnano	3
+Mura	3
+Murata	3
+Muratella	3
+Murge	3
+Nardi	3
+Nazzano	3
+Nocelleto	3
+Nogara	3
+Novale	3
+Oca	3
+Olivella	3
+Olivola	3
+Olmetto	3
+Olmo Panno	3
+Olzano	3
+Oppio	3
+Orfanotrofio	3
+Oro	3
+Orto	3
+Orzale	3
+Padova	3
+Paduli	3
+Paganico	3
+Pagliare	3
+Pagliari	3
+Palata	3
+Panicale	3
+Panigale	3
+Pantane	3
+Pantanelli	3
+Parco	3
+Parella	3
+Parona	3
+Parrocchia	3
+Pascolo	3
+Passetto	3
+Passo	3
+Pastena	3
+Patrignone	3
+Pecol	3
+Peglio	3
+Penne	3
+Perarolo	3
+Perazzeta	3
+Pereto	3
+Peretti	3
+Perini	3
+Perosini	3
+Pescarola	3
+Pesce	3
+Pesche	3
+Pescia	3
+Petrignano	3
+Petrosa	3
+Pezzè	3
+Piai	3
+Pianelle	3
+Pianelli	3
+Pianetti	3
+Piangrande	3
+Pianillo	3
+Piano Insediamenti Produttivi	3
+Pianta	3
+Piatta	3
+Piazzano	3
+Piazzetta	3
+Piccoli	3
+Piedicolle	3
+Pietà	3
+Pietragrossa	3
+Pietraia	3
+Pietrara	3
+Pigna	3
+Pilastrello	3
+Piletta	3
+Pilone	3
+Piloni	3
+Pioppa	3
+Piovega	3
+Piscina	3
+Pizzoni	3
+Plata	3
+Podio	3
+Poggiarello	3
+Poligono	3
+Pollino	3
+Polo Industriale	3
+Pomaretto	3
+Pomari	3
+Pomaro	3
+Pomarolo	3
+Pomonte	3
+Ponte Pietra	3
+Ponte San Pietro	3
+Pontegrande	3
+Ponti	3
+Ponticello	3
+Popoli	3
+Porchiano	3
+Porciano	3
+Porte	3
+Porto Salvo	3
+Postumia	3
+Potassa	3
+Pozzale	3
+Pozze	3
+Pozzuolo	3
+Prà	3
+Pralongo	3
+Prateria	3
+Priore	3
+Quaranta	3
+Querciola	3
+Ramello	3
+Ranco	3
+Re	3
+Regina	3
+Regona	3
+Riale	3
+Riana	3
+Ricca	3
+Rifreddo	3
+Righi	3
+Rigo	3
+Rigon	3
+Rigosa	3
+Rimaggio	3
+Rio Secco	3
+Rivabella	3
+Rivalba	3
+Rivara	3
+Rivarotta	3
+Rivella	3
+Rivo	3
+Rizza	3
+Roatta	3
+Robella	3
+Rocchi	3
+Roletto	3
+Rometta	3
+Roncadello	3
+Ronch	3
+Ronchetti	3
+Ronchetto	3
+Ronciglione	3
+Ronzano	3
+Rosara	3
+Roselli	3
+Rossetti	3
+Rota	3
+Roveri	3
+Rovina	3
+Russo	3
+Sabbione	3
+Sabbionera	3
+Sacro Cuore	3
+Salara	3
+Sale	3
+Salina	3
+Salto	3
+Samone	3
+San Barnaba	3
+San Bartolo	3
+San Candido	3
+San Cono	3
+San Desiderio	3
+San Fili	3
+San Gallo	3
+San Gaudenzio	3
+San Genesio	3
+San Giovenale	3
+San Liberatore	3
+San Miniato	3
+San Nicola I	3
+San Nicola II	3
+San Pietro in Valle	3
+San Raffaele	3
+San Remigio	3
+San Ruffillo	3
+San Secondo	3
+San Severo	3
+San Tomaso	3
+San Venanzio	3
+Sanico	3
+Sant'Alberto	3
+Sant'Antuono	3
+Sant'Arcangelo	3
+Sant'Erasmo	3
+Santa Cecilia	3
+Santa Elisabetta	3
+Santa Maria del Monte	3
+Santa Maria del Piano	3
+Santa Maria delle Grazie	3
+Santa Maria Nuova	3
+Santa Marta	3
+Santa Scolastica	3
+Santa Venere	3
+Sassi	3
+Scafa	3
+Scala	3
+Scuola	3
+Secchia	3
+Seggiano	3
+Selva Piana	3
+Serafini	3
+Serralta	3
+Serrato	3
+Serretto	3
+Serricella	3
+Sesto	3
+Sferracavallo	3
+Sigillo	3
+Silva	3
+Silvella	3
+Sorti	3
+Spedaletto	3
+Sperone	3
+Spinello	3
+Spirito Santo	3
+Stabbiano	3
+Staffolo	3
+Statale	3
+Stigliano	3
+Strà	3
+Strona	3
+Susano	3
+Tagliaferro	3
+Tasso	3
+Tavernanova	3
+Taverne	3
+Tavernola	3
+Taviano	3
+Termini	3
+Tessari	3
+Testaccio	3
+Tintoria	3
+Tombaccia	3
+Torchio	3
+Tore	3
+Torello	3
+Torrano	3
+Torrenova	3
+Torrette	3
+Torricchio	3
+Torrione	3
+Trappeto	3
+Tre Case	3
+Trento	3
+Tribbio	3
+Trignano	3
+Tuoro	3
+Turano	3
+Turri	3
+Vaccareccia	3
+Vaccarezza	3
+Vacchereccia	3
+Vado	3
+Vaglia	3
+Vaglie	3
+Vaie	3
+Val	3
+Valcava	3
+Vallarsa	3
+Vallata	3
+Vallate	3
+Vallazza	3
+Valle di Sotto	3
+Valletta	3
+Vallicella	3
+Vallina	3
+Vallonga	3
+Valtorta	3
+Varco	3
+Vecciano	3
+Vegri	3
+Venezia	3
+Venturini	3
+Verano	3
+Verna	3
+Verona	3
+Verzi	3
+Vho	3
+Via Larga	3
+Via Piana	3
+Viali	3
+Vighizzolo	3
+Vignetta	3
+Vignole	3
+Vignone	3
+Villa di Sotto	3
+Villaggio	3
+Villaggio Primavera	3
+Villamagna	3
+Villar	3
+Villaraspa	3
+Villero	3
+Vione	3
+Virle	3
+Visciano	3
+Visnadello	3
+Vittoria	3
+Volla	3
+Volpera	3
+Volponi	3
+Zagaria	3
+Zanchi	3
+Zappellone	3
+Zara	3
+Zena	3
+Zenna	3
+Zocca	3
+Zona	3
+Zona Industriale III	3
+Zovo	3
+Zuccarello	3
+Abate	2
+Abeto	2
+Acquabuona	2
+Acquaforte	2
+Acquaiola-Gratiano	2
+Acqualunga	2
+Acquarola	2
+Acquavona	2
+Acquevive	2
+Acquicella	2
+Adria	2
+Agello	2
+Agnano	2
+Agnella	2
+Agrifoglio	2
+Aia	2
+Aia Vecchia	2
+Aiaccia	2
+Aica	2
+Aielli	2
+Aiello	2
+Al Sasso	2
+Alba	2
+Albaro	2
+Alberazzo	2
+Albereto	2
+Alberetti	2
+Albergo	2
+Alberti	2
+Albina	2
+Alfonsine	2
+Alì	2
+Allai	2
+Alpe Valle	2
+Alpicella	2
+Alpone	2
+Altana	2
+Altavilla	2
+Altilia	2
+Alto	2
+Altoggio	2
+Altura	2
+Alture	2
+Ama	2
+Amendolea	2
+America	2
+Amola	2
+Amolaro	2
+Ancaiano	2
+Ancarano	2
+Anconetta	2
+Andreoli	2
+Andreuzza	2
+Anello	2
+Anterselva di Sotto	2
+Antiga	2
+Antognola	2
+Antonelli	2
+Antria	2
+Apparizione	2
+Appendini	2
+Appignano	2
+Aquilano	2
+Aquileia	2
+Aragno	2
+Aravecchia	2
+Arbora	2
+Arborea	2
+Arbusti	2
+Arbusto	2
+Area Industriale Ss	2
+Area Produttiva II	2
+Area Produzione	2
+Arenaccia	2
+Arese	2
+Arezzo	2
+Argentiera	2
+Argilla	2
+Argine Sinistro I	2
+Arielli	2
+Arienzo	2
+Ariola	2
+Arnano	2
+Arpino	2
+Arzene	2
+Asciano	2
+Asti	2
+Astura	2
+Atella	2
+Atri	2
+Aurano	2
+Autostrada	2
+Avaglio	2
+Avaro	2
+Avena	2
+Aveno	2
+Avigliano	2
+Avilla	2
+Azzanello	2
+Baccano	2
+Bacucco	2
+Badessa	2
+Badoni	2
+Bagnasco	2
+Baita	2
+Baite	2
+Balangero	2
+Balbi	2
+Balestrino	2
+Balla	2
+Ballan	2
+Ballino	2
+Balzi	2
+Banca	2
+Banchette	2
+Banda	2
+Baracca	2
+Baracche	2
+Baracchino	2
+Baraggetta	2
+Barano	2
+Barazzone	2
+Barbarasco	2
+Barbariga	2
+Barbavara	2
+Barbetti	2
+Barbieri	2
+Bardano	2
+Bardella	2
+Bardine	2
+Barengo	2
+Baretta	2
+Bari	2
+Bariano	2
+Baroni	2
+Barp	2
+Barrea	2
+Barricella	2
+Baruchella	2
+Barza	2
+Basaldella	2
+Bassano	2
+Basse	2
+Bassetti	2
+Bassetto	2
+Bassura	2
+Bastianelli	2
+Bastione	2
+Bastita	2
+Basto	2
+Battiferro	2
+Battilana	2
+Battisti	2
+Battistin	2
+Battocchi	2
+Batur	2
+Bavi	2
+Bebbio	2
+Becchi	2
+Bedogno	2
+Begliano	2
+Begozzo	2
+Belgiardino	2
+Bella	2
+Bellaguarda	2
+Bellariva	2
+Bellavalle	2
+Belloca	2
+Belmonte	2
+Belprato	2
+Belsito	2
+Benago	2
+Benale	2
+Benetti	2
+Benevento	2
+Bennaxi	2
+Bentivoglio	2
+Berga	2
+Bergamasco	2
+Bergera	2
+Bergia	2
+Beria	2
+Berniga	2
+Berroni	2
+Berta	2
+Bertassi	2
+Bertola	2
+Bertolde	2
+Bertolini	2
+Bettole	2
+Betulle	2
+Bezzo	2
+Biasini	2
+Bidoggia	2
+Bieno	2
+Bilegno	2
+Biolla	2
+Biondi	2
+Bisceglie	2
+Bisciano	2
+Biscina	2
+Biselli	2
+Bisignano	2
+Blavy	2
+Boara	2
+Boccalara	2
+Boccalupo	2
+Bocchere	2
+Boceto	2
+Boffalora	2
+Bolago	2
+Bolgheri	2
+Boli	2
+Bolla	2
+Bollano	2
+Bolognola	2
+Bolzano	2
+Bonaudi	2
+Boni	2
+Bonifica	2
+Bono	2
+Borca	2
+Borda	2
+Bordoni	2
+Bore	2
+Borello	2
+Borgaccio	2
+Borgata Marina	2
+Borgata Paradiso	2
+Borgetto	2
+Borgiano	2
+Borgo Bosco	2
+Borgo di Sopra	2
+Borgo Mestre	2
+Borgo Paglia	2
+Borgo Piave	2
+Borgo Po	2
+Borgo San Lorenzo	2
+Borgo San Paolo	2
+Borgo Santa Rita	2
+Borgo Stazione	2
+Borgo Torre	2
+Borgo Venezia	2
+Borgo Villa	2
+Borgogno	2
+Borgone	2
+Bormida	2
+Bornasco	2
+Borrello	2
+Borsano	2
+Bosca	2
+Boschietto	2
+Bosco Grande	2
+Bosco II	2
+Bossi	2
+Bottega Nuova	2
+Botteghe	2
+Botti	2
+Botticino	2
+Bottini	2
+Bove	2
+Bovecchio	2
+Bovo	2
+Bozzana	2
+Bozzano	2
+Bozzola	2
+Bozzolo	2
+Bragagnolo	2
+Bragato	2
+Braglio	2
+Braide	2
+Brallo	2
+Branchi	2
+Bre	2
+Bregni	2
+Breia	2
+Brembilla	2
+Brenna	2
+Brentani	2
+Brenton	2
+Bressana	2
+Briano	2
+Bricchetto	2
+Brolo	2
+Brondo	2
+Bronzi	2
+Brossa	2
+Brozzi	2
+Bruca	2
+Brucciano	2
+Bruciate	2
+Brugarolo	2
+Brughiera	2
+Brughiere	2
+Brugna	2
+Brugnoni	2
+Bruna	2
+Brunelli	2
+Brunello	2
+Brunetti	2
+Bruno	2
+Bruschi	2
+Brusciano	2
+Bruzzano	2
+Buda	2
+Bufalara	2
+Bufali	2
+Buggio	2
+Buonarroti	2
+Buoncammino	2
+Burgio	2
+Busana	2
+Busche	2
+Buschi	2
+Busco	2
+Buse	2
+Busiago	2
+Buzzi	2
+Ca	2
+Cà dei Bianchi	2
+Ca Rossa	2
+Cà Rossa	2
+Ca Vecchia	2
+Ca' Bagnoli	2
+Ca' Barbieri	2
+Ca' d'Andrea	2
+Ca' de' Gatti	2
+Ca' dei Gatti	2
+Ca' del Bosco	2
+Ca' del Monte	2
+Ca' dell'Ebreo	2
+Ca' di Magnano	2
+Ca' di Sopra	2
+Ca' Longa	2
+Ca' Mora	2
+Ca' Nove	2
+Ca' Serafino	2
+Ca' Verde	2
+Cabianca	2
+Cacciatore	2
+Cacciola	2
+Cagliari	2
+Cagnano	2
+Cagno	2
+Cagnola	2
+Cagnona	2
+Cagnotti	2
+Caino	2
+Caivano	2
+Calabritto	2
+Calabrò	2
+Calci	2
+Calcinara	2
+Caldana	2
+Caldane	2
+Caldarello	2
+Caldarola	2
+Calice	2
+California	2
+Calimera	2
+Calle	2
+Calliano	2
+Calore	2
+Calvari	2
+Calvenzano	2
+Calvino	2
+Camatte	2
+Cambiano	2
+Camera	2
+Camerino	2
+Camilli	2
+Caminate	2
+Camo	2
+Campagnazza	2
+Campagnon	2
+Campanariello	2
+Campedello	2
+Campello	2
+Camperi	2
+Campetelle	2
+Campetto	2
+Campia	2
+Campiglia	2
+Campigliano	2
+Campigotto	2
+Campino	2
+Campo dei Fiori	2
+Campo del Fico	2
+Campo Inglese	2
+Campo Marzio	2
+Campo Romano	2
+Campobello	2
+Campocroce	2
+Campodarco	2
+Campodimele	2
+Campodonico	2
+Campoleone	2
+Campomaggio	2
+Campomarino	2
+Campomarzo	2
+Campomolino	2
+Campomorto	2
+Camponogara	2
+Campopiano	2
+Camporeale	2
+Camporeggiano	2
+Camporella	2
+Campori	2
+Camporosso	2
+Camposilvano	2
+Campovecchio	2
+Campriano	2
+Canà	2
+Canale Scuro	2
+Canaletta	2
+Canaletto	2
+Canavera	2
+Canazei	2
+Cancellara	2
+Candeloro	2
+Canelli	2
+Canepa	2
+Canepina	2
+Caneto	2
+Caneve	2
+Canne	2
+Cannella	2
+Canolo	2
+Cantalupa	2
+Cantarelli	2
+Cantello	2
+Cantinella	2
+Cantoni	2
+Capanne di Sopra	2
+Capannone	2
+Capannuccia	2
+Caperana	2
+Capitone	2
+Capo d'Arco	2
+Capoposta	2
+Caporali	2
+Caporio	2
+Capovalle	2
+Cappelli	2
+Cappelline	2
+Cappellini	2
+Cappello	2
+Capradosso	2
+Caprafico	2
+Capranica	2
+Capraro	2
+Capriglio	2
+Caprili	2
+Capsano	2
+Caputi	2
+Carbognano	2
+Carbonare	2
+Carbonarola	2
+Carbonile	2
+Carcara	2
+Carceri	2
+Cardedu	2
+Cardillo	2
+Cardini	2
+Cardoso	2
+Careggia	2
+Careno	2
+Caresana	2
+Carezza	2
+Cariati	2
+Carini	2
+Carità	2
+Carletti	2
+Carnale	2
+Carollo	2
+Carolo	2
+Caronte	2
+Carotte	2
+Carpanea	2
+Carpaneto	2
+Carpena	2
+Carpeneda	2
+Carpenedo	2
+Carpeneta	2
+Carpi	2
+Carpine	2
+Carpinelli	2
+Carpini	2
+Carrà	2
+Carraia	2
+Carrè	2
+Carretto	2
+Carruggio	2
+Cartoceto	2
+Cartura	2
+Caruso	2
+Carzano	2
+Casa del Lago	2
+Casa Fava	2
+Casa Feraudi	2
+Casa Ferri	2
+Casa Fornace	2
+Casa la Motta	2
+Casa Marchetti	2
+Casa Modica	2
+Casa Monti	2
+Casa Pantano	2
+Casa Ponte	2
+Casa Re	2
+Casa Serena	2
+Casabona	2
+Casafredda	2
+Casale Nuovo	2
+Casale San Nicola	2
+Casaleggio	2
+Casaleto	2
+Casali Costa	2
+Casali di Sopra	2
+Casalicchio	2
+Casalina	2
+Casaline	2
+Casalmaggiore	2
+Casamarciano	2
+Casamento	2
+Casare	2
+Casari	2
+Casarone	2
+Casarotti	2
+Casasco	2
+Casasola	2
+Casavecchia	2
+Cascano	2
+Cascia	2
+Casciana	2
+Cascina Baraccone	2
+Cascina Belvedere	2
+Cascina Bruciata	2
+Cascina Cantarana	2
+Cascina Castelletto	2
+Cascina Colombare	2
+Cascina Conti	2
+Cascina Gioia	2
+Cascina Grangia	2
+Cascina Graziosa	2
+Cascina Guzzafame	2
+Cascina Mirasole	2
+Cascina Moncucco	2
+Cascina Montalbano	2
+Cascina Motta	2
+Cascina Piatti	2
+Cascina Sant'Angelo	2
+Cascina Simonetta	2
+Cascina Tapella	2
+Cascina Torre	2
+Cascinale	2
+Cascinazza	2
+Cascine Lunghe	2
+Cascine Ronco	2
+Cascine San Pietro	2
+Cascinetto	2
+Cascinotti	2
+Case Basse	2
+Case Bellio	2
+Case Benedetti	2
+Case Bonetto	2
+Case Bordin	2
+Case Borsato	2
+Case Brisotto	2
+Case Cadorin	2
+Case Campanella	2
+Case Castellazzo	2
+Case Cipriani	2
+Case Civiero	2
+Case Cocconi	2
+Case Colombara	2
+Case Corazza	2
+Case Costa	2
+Case Cozzo	2
+Case Cremasco	2
+Case de Rosa	2
+Case del Molino	2
+Case del Piano	2
+Case del Ponte	2
+Case di Pasquale	2
+Case di Sopra	2
+Case Fanfani	2
+Case Fava	2
+Case Favaro	2
+Case Fioravanti	2
+Case Fornaci	2
+Case Furlan	2
+Case Galli	2
+Case Gatto	2
+Case Gherardi	2
+Case Lunghe	2
+Case Marcon	2
+Case Matte	2
+Case Morellato	2
+Case Moretton	2
+Case Negri	2
+Case Orsoleto	2
+Case Reverberi	2
+Case Ricci	2
+Case Rosa	2
+Case Rossetto	2
+Case San Francesco	2
+Case San Vincenzo	2
+Case Sartor	2
+Case Soligo	2
+Case Tonon	2
+Case Trevisan	2
+Case Visentin	2
+Case Zanatta	2
+Case Zanella	2
+Case Zanoni	2
+Case Zingari	2
+Casei	2
+Caselli	2
+Caselline	2
+Casello Ferroviario	2
+Casello Vecchio	2
+Casenove	2
+Casermette	2
+Casette di Sotto	2
+Casetto	2
+Casi	2
+Casignano	2
+Casigno	2
+Casilina	2
+Caso	2
+Casole	2
+Casoletta	2
+Casotta	2
+Casottole	2
+Cassero	2
+Cassinello	2
+Cassinino	2
+Castagnaro	2
+Castagne	2
+Castagnè	2
+Castagni	2
+Castagnoli	2
+Castana	2
+Castel del Piano	2
+Castel di Croce	2
+Castel Santa Maria	2
+Castelbuono	2
+Castelcucco	2
+Casteldardo	2
+Castelforte	2
+Castellace	2
+Castellar	2
+Castelleone	2
+Castelli	2
+Castelnovo	2
+Castelnuovo Fogliani	2
+Castelverde	2
+Castiglioncello	2
+Castiglione della Valle	2
+Castignola	2
+Castorano	2
+Castra	2
+Casuccio	2
+Catalani	2
+Catello	2
+Catignano	2
+Catona	2
+Cavagnano	2
+Cavagnolo	2
+Cavaione	2
+Cavallaro	2
+Cavallera	2
+Cavalleri	2
+Cavalli	2
+Cavallina	2
+Cavallo Morto	2
+Cavallotta	2
+Cavino	2
+Cavour	2
+Cavriana	2
+Ceci	2
+Celio	2
+Cellara	2
+Cellore	2
+Celsa	2
+Cencerate	2
+Censi	2
+Centola	2
+Ceppeto	2
+Ceppo Morelli	2
+Ceradello	2
+Cerase	2
+Cerasuolo	2
+Cerbaia	2
+Cercivento	2
+Cerè	2
+Cerea	2
+Cereda	2
+Cereto	2
+Ceretta	2
+Ceriano	2
+Cerina	2
+Cerracchio	2
+Cerrete	2
+Cerreto Alto	2
+Cerreto Castello	2
+Cerretta	2
+Cerva	2
+Cervarolo	2
+Cervia	2
+Cervillo	2
+Cervino	2
+Cesano	2
+Cesarina	2
+Cesolo	2
+Ceves	2
+Champlong	2
+Cheggio	2
+Chevrère	2
+Chia	2
+Chiabriera	2
+Chiaie	2
+Chianche	2
+Chianni	2
+Chiappella	2
+Chiappeto	2
+Chiappino	2
+Chiara	2
+Chiarano	2
+Chiarmacis	2
+Chiaulis	2
+Chiaviche	2
+Chiavichetta	2
+Chiesa Rossa	2
+Chiesina	2
+Chiesiola	2
+Chieve	2
+Chiotasso	2
+Chiotti	2
+Chiotto	2
+Chiumenti	2
+Chiuse	2
+Chiusura	2
+Chorio	2
+Ciago	2
+Ciampetti	2
+Ciampino	2
+Ciatti	2
+Cicala	2
+Ciciliano	2
+Cimone	2
+Cinelli	2
+Cinquanta	2
+Cinque Vie	2
+Cinquegrana	2
+Cinquevie	2
+Cintoia	2
+Cinzano	2
+Ciocchini	2
+Cipollina	2
+Cirella	2
+Ciriano	2
+Cirignano	2
+Cis	2
+Citerna	2
+Città Nuova	2
+Città Vecchia	2
+Cittanova	2
+Cividale	2
+Civitavecchia	2
+Clapey	2
+Clementi	2
+Clot	2
+Clotes	2
+Cocuruzzo	2
+Coda	2
+Codera	2
+Codivilla	2
+Codogno	2
+Coggia	2
+Coggiola	2
+Cogne	2
+Cognento	2
+Cogorno	2
+Colfiorito	2
+Coli	2
+Collarso	2
+Colle Alto	2
+Colle Castagno	2
+Colle della Guardia	2
+Colle di Fuori	2
+Colle di Sopra	2
+Colle Fiorito	2
+Colle Giacone	2
+Colle Grande	2
+Colle Marino	2
+Colle San Giacomo	2
+Colle San Leonardo	2
+Colle San Pietro	2
+Colle Sant'Angelo	2
+Colle Stella	2
+Collecchio	2
+Colledoro	2
+Colleferro	2
+Collegno	2
+Colleluce	2
+Collemarino	2
+Collemezzo	2
+Collepiano	2
+Collepizzuto	2
+Collesanto	2
+Collesecco	2
+Collicelli	2
+Collino	2
+Collio	2
+Collo	2
+Colloredo	2
+Colmaggiore	2
+Colmello	2
+Cologni	2
+Colognora	2
+Colombaretta	2
+Colombaro	2
+Colombatti	2
+Colombero	2
+Colombini	2
+Colonnella	2
+Colpi	2
+Comano	2
+Comba	2
+Combetta	2
+Commenda	2
+Compiano	2
+Compignano	2
+Comugne	2
+Comuna	2
+Comunanza	2
+Comune	2
+Comunella	2
+Comunità Emmaus	2
+Concorezzo	2
+Configni	2
+Consuma	2
+Contrada Cancelli Zona Industriale N	2
+Contrada Case Nuove	2
+Contrada Croce	2
+Contrada Nero	2
+Contrada Procisa Vecchia	2
+Contrada San Marco	2
+Contrada Sant'Elia	2
+Convento San Francesco	2
+Copetto	2
+Coppi	2
+Coraini	2
+Corlo	2
+Corna	2
+Cornadella	2
+Cornale	2
+Cornaleto	2
+Cornaro	2
+Cornè	2
+Cornice	2
+Cornino	2
+Cornio	2
+Cornolo	2
+Coronata	2
+Coronini	2
+Correzzo	2
+Corsi	2
+Corsica	2
+Cortale	2
+Corte Bosco	2
+Corte Centrale	2
+Corte Grande	2
+Corte Rossi	2
+Cortellazzo	2
+Cortenuova	2
+Cortiglione	2
+Cortino	2
+Corvi	2
+Cosa	2
+Cosentini	2
+Costa Rei	2
+Costa Vescovato	2
+Costabella	2
+Costanza	2
+Costarossa	2
+Coste I	2
+Costiolo	2
+Costituzione	2
+Costola	2
+Cotti	2
+Cozzo	2
+Crabbia	2
+Cracchi	2
+Cras	2
+Crava	2
+Creda	2
+Cremeno	2
+Creton	2
+Cretone	2
+Cristini	2
+Croce di Casale	2
+Crocella	2
+Crocevia	2
+Crociale	2
+Crocicchie	2
+Crocicchio	2
+Crocicella	2
+Crociera	2
+Crocione	2
+Cropani	2
+Croppo	2
+Crosa	2
+Crosasso	2
+Crotte	2
+Cucciano	2
+Cuffiano	2
+Cugno	2
+Cugnoli	2
+Culpi	2
+Cuneo	2
+Cupello	2
+Cupi	2
+Curada	2
+Cusano	2
+Cusino	2
+Cuturella	2
+Dalla Vecchia	2
+Dani	2
+Dattilo	2
+Daverio	2
+Dazio	2
+De Cao	2
+De Gasperi	2
+Decontra	2
+Dego	2
+Della Croce	2
+Di Girolamo	2
+Dialley	2
+Diaz	2
+Diga	2
+Dignano	2
+Diolo	2
+Doglio	2
+Dogna	2
+Dolo	2
+Domo	2
+Don	2
+Donega	2
+Donigala	2
+Donzella	2
+Dori	2
+Doria	2
+Dozza	2
+Dragoncello	2
+Dreini	2
+Due Madonne	2
+Due Strade	2
+Dughera	2
+Duranti	2
+Durazzano	2
+Eira	2
+Enna	2
+Enzano	2
+Episcopia	2
+Era	2
+Erbezzo	2
+Erchie	2
+Eridania	2
+Esperia	2
+Ex Fornace	2
+Fabbrica Nuova	2
+Fabiana	2
+Fabiano	2
+Facchini	2
+Faè	2
+Faenza	2
+Fagioli	2
+Faiete	2
+Faiolo	2
+Faldo	2
+Faltona	2
+Fanano	2
+Fane	2
+Fano	2
+Fantini	2
+Fantino	2
+Fantoni	2
+Farfengo	2
+Farini	2
+Farno	2
+Farra	2
+Fasani	2
+Fascia	2
+Fattoria	2
+Faule	2
+Fava	2
+Favaletto	2
+Favali	2
+Favaro	2
+Favorita	2
+Fazio	2
+Fazzano	2
+Fè	2
+Fego	2
+Felci	2
+Fellegara	2
+Femminamorta	2
+Fenoglio	2
+Feriolo	2
+Ferrà	2
+Ferrera	2
+Ferrero	2
+Ferretti	2
+Festola	2
+Fibbialla	2
+Ficara	2
+Ficarazzi	2
+Ficareto	2
+Ficuzza	2
+Fienil Nuovo	2
+Fietta	2
+Filadelfia	2
+Filanda	2
+Filetta	2
+Finocchieto	2
+Fiorano	2
+Fiorentini	2
+Fiori	2
+Firenzuola	2
+Fiumetto	2
+Fiumicino	2
+Flecchia	2
+Foci	2
+Foggia	2
+Foglia	2
+Foi	2
+Folgaria	2
+Fondaccio	2
+Fondachello	2
+Fonni	2
+Fontana dell'Olmo	2
+Fontanasse	2
+Fontanavecchia	2
+Fontanazzo	2
+Fontaneto	2
+Fontanina	2
+Fontaniva	2
+Fonte Sant'Angelo	2
+Fonti	2
+Foppo	2
+Forame	2
+Forca	2
+Forcatura	2
+Forcelle	2
+Forchia	2
+Foreste	2
+Formica	2
+Forna	2
+Fornacchia	2
+Fornace Laterizi	2
+Fornacelle	2
+Fornacione	2
+Fornarelli	2
+Fornari	2
+Fornasotto	2
+Fornelle	2
+Fornelli	2
+Forneri	2
+Fornoli	2
+Fortezza	2
+Fortini	2
+Fortuna	2
+Foscarina	2
+Fossalon-Via Valle	2
+Fossata	2
+Fossatello	2
+Fossi	2
+Fossoli	2
+Fossolo	2
+Fracassi	2
+Fraine	2
+Franceschin	2
+Francia	2
+Frascarolo	2
+Frassenara	2
+Frassi	2
+Frassinetto	2
+Frassino	2
+Fravitta	2
+Freddi	2
+Freis	2
+Frere	2
+Frescarolo	2
+Fresine	2
+Fresonara	2
+Frola	2
+Frontale	2
+Frusci	2
+Fucine	2
+Fungaia	2
+Fusara	2
+Gabbione	2
+Gabiano	2
+Gabrovizza	2
+Gaeta	2
+Gaggiano	2
+Gagliarda	2
+Gaione	2
+Galati	2
+Galeotti	2
+Gallarate	2
+Gallena	2
+Galleno	2
+Galletti	2
+Galletto	2
+Galliana	2
+Galliano	2
+Gallicchio	2
+Gallignano	2
+Gallinaro	2
+Gallio	2
+Galluccio	2
+Gambellara	2
+Gamberale	2
+Gambina	2
+Ganda	2
+Garda	2
+Gargallo	2
+Garigliano	2
+Garini	2
+Garola	2
+Gasparini	2
+Gattinara	2
+Gattolino	2
+Gaudi	2
+Gauli	2
+Gavardina	2
+Gavazzo	2
+Gavelli	2
+Gaville	2
+Gavinana	2
+Gavotti	2
+Gay	2
+Gazza	2
+Gazzi	2
+Gelso	2
+Genga	2
+Genola	2
+Genovese	2
+Gerbo	2
+Gerbola	2
+Gerbole	2
+Gerbolina	2
+Germagnano	2
+Gerosa	2
+Gerra	2
+Gessi	2
+Gesuiti	2
+Gherba	2
+Ghiare	2
+Ghigo	2
+Ghisione	2
+Giacometti	2
+Giai	2
+Gianoli	2
+Giardina	2
+Giarola	2
+Giarole	2
+Giarra	2
+Giaudrone	2
+Giazza	2
+Giglio	2
+Gigliola	2
+Ginepri	2
+Gioiello	2
+Giora	2
+Giovo	2
+Girasole	2
+Gironi	2
+Giudecca	2
+Giumello	2
+Giussago	2
+Giusti	2
+Goiano	2
+Golfo Aranci	2
+Gombe	2
+Gombio	2
+Gonella	2
+Gorga	2
+Gorghetto	2
+Gorgognano	2
+Gorizia	2
+Gorretta	2
+Gradisca	2
+Graglia	2
+Gragnana	2
+Granara	2
+Granari	2
+Grancetta	2
+Grande	2
+Granelli	2
+Granello	2
+Grangetta	2
+Grangie	2
+Granzette	2
+Grava	2
+Grave	2
+Grazia	2
+Graziani	2
+Grezzano	2
+Gricignano	2
+Grignano	2
+Grilli	2
+Gris	2
+Grole	2
+Gromo	2
+Gronda	2
+Groppizioso	2
+Groppoli	2
+Grottaglie	2
+Grugnetto	2
+Grumi	2
+Guado	2
+Guardavalle	2
+Guardiola	2
+Guarene	2
+Guastalla	2
+Guglia	2
+Guglielmo	2
+Guizza	2
+Guzzafame	2
+I Casetti	2
+I Casotti	2
+I Dossi	2
+I Fondi	2
+I Forni	2
+I Ponti	2
+I Pozzi	2
+Iannello	2
+Il Bagno	2
+Il Bosco	2
+Il Botteghino	2
+Il Casino	2
+Il Castello	2
+Il Cristo	2
+Il Giardino	2
+Il Molino	2
+Il Motto	2
+Il Romito	2
+Ilici	2
+Illica	2
+Industrie	2
+Ingurtosu	2
+Intavolata	2
+Inverso	2
+Iola	2
+Ipercoop	2
+Iscalonga	2
+Ischitella	2
+Isola Bella	2
+Isolaccia	2
+Italcementi	2
+Joppolo	2
+L'Addolorata	2
+L'Edera	2
+L'Olmo	2
+La Barchessa	2
+La Bettola	2
+La Borra	2
+La Botte	2
+La Buca	2
+La Casona	2
+La Città	2
+La Colla	2
+La Colombaia	2
+La Colonna	2
+La Dispensa	2
+La Dogana	2
+La Dolce	2
+La Fabbrica	2
+La Fontana	2
+La Forcella	2
+La Forma	2
+La Fratta	2
+La Frattina	2
+La Fredda	2
+La Gatta	2
+La Grangia	2
+La Lastra	2
+La Mandria	2
+La Miniera	2
+La Monaca	2
+La Mora	2
+La Motta	2
+La Palazza	2
+La Pila	2
+La Place	2
+La Porta	2
+La Posta	2
+La Presa	2
+La Riva	2
+La Romita	2
+La Rosa	2
+La Rotta	2
+La Sbarra	2
+La Strada	2
+La Tomba	2
+La Torretta	2
+La Valletta	2
+La Verna	2
+La Via	2
+La Vigna	2
+Lacco	2
+Lagoni	2
+Laiano	2
+Laietto	2
+Lamalunga	2
+Lana	2
+Lanciano	2
+Landro	2
+Lapio	2
+Larciano	2
+Latera	2
+Latina	2
+Latte	2
+Laura	2
+Laurito	2
+Lavacchio	2
+Lavagna	2
+Lavagno	2
+Laveno	2
+Laverda	2
+Laviano	2
+Lavino	2
+Lazzaretti	2
+Le Balze	2
+Le Capanne	2
+Le Case I	2
+Le Casine	2
+Le Castella	2
+Le Cese	2
+Le Colonne	2
+Le Foci	2
+Le Grotte	2
+Le Lame	2
+Le Lastre	2
+Le Motte	2
+Le Mura	2
+Le Pozze	2
+Le Prese	2
+Le Rose	2
+Le Serre	2
+Le Torri	2
+Le Vigne	2
+Lecchi	2
+Leccia	2
+Legnaro	2
+Leona	2
+Leonardo da Vinci	2
+Leone	2
+Leonessa	2
+Leoni	2
+Leporano	2
+Lessi	2
+Libiola	2
+Lido	2
+Lierna	2
+Limite	2
+Limiti	2
+Linara	2
+Linari	2
+Lirone	2
+Liscia	2
+Lisciano	2
+Livello	2
+Livo	2
+Lizzanello	2
+Lo Stallone	2
+Lo Stradone	2
+Lobia	2
+Località P I P	2
+Locanda	2
+Lodi	2
+Loghetto	2
+Loncon	2
+Longano	2
+Longo	2
+Longobardi	2
+Lorano	2
+Lore	2
+Loreggiola	2
+Lorenzana	2
+Lorenzi	2
+Lottano	2
+Lovara	2
+Lucarelli	2
+Lucchina	2
+Lucciano	2
+Luciana	2
+Luisa	2
+Luni	2
+Lupa	2
+Lupia	2
+Lusiana	2
+Luzzana	2
+Macciano	2
+Macere	2
+Macerie	2
+Macerine	2
+Macina	2
+Madama	2
+Maderno	2
+Madonna del Carmine	2
+Madonna dell'Olmo	2
+Madonna della Croce	2
+Madonna della Libera	2
+Madonna della Scala	2
+Madonna di Campagna	2
+Madonna Prati	2
+Madonna Scoperta	2
+Madrisio	2
+Maffei	2
+Magauda	2
+Magenta	2
+Maggio	2
+Magione	2
+Magli	2
+Maglie	2
+Magnago	2
+Magnanella	2
+Magno	2
+Magnone	2
+Magugnano	2
+Maida	2
+Maierà	2
+Maini	2
+Maiocca	2
+Maiole	2
+Maioli	2
+Malacoda	2
+Malalbergo	2
+Malamocco	2
+Malandrone	2
+Malè	2
+Malgrate	2
+Malpensata	2
+Maltignano	2
+Mandaradoni	2
+Mandria	2
+Mandrio	2
+Mandriola	2
+Manera	2
+Manina	2
+Manno	2
+Mantineo	2
+Manzolino	2
+Marana	2
+Maranello	2
+Maratta	2
+Marcantoni	2
+Marcellina	2
+Marcena	2
+Marche	2
+Marchesa	2
+Marco	2
+Marcucci	2
+Maregnano	2
+Mares	2
+Mareta	2
+Margone	2
+Marilleva	2
+Marinello	2
+Marinoni	2
+Mariotto	2
+Maritani	2
+Marmirolo	2
+Marmora	2
+Marocchi	2
+Marrone	2
+Marta	2
+Martelletto	2
+Marzari	2
+Marzi	2
+Marzolara	2
+Marzotto	2
+Masanti	2
+Masarè	2
+Mascagni	2
+Masero	2
+Masi di Sopra	2
+Masina	2
+Masino	2
+Masio	2
+Masone	2
+Massari	2
+Masserano	2
+Masseria Castelluccio	2
+Masseria Catalano	2
+Masseria Comunelli	2
+Massignani	2
+Massignano	2
+Massimina	2
+Matera	2
+Matrice	2
+Mattarana	2
+Mattine	2
+Mazza	2
+Mazzano	2
+Mazzanta	2
+Mazzanti	2
+Mazzarelli	2
+Mazze	2
+Mazzola	2
+Mazzone	2
+Mazzucco	2
+Meana	2
+Medelana	2
+Mediana	2
+Medoro	2
+Meggiano	2
+Meina	2
+Melicuccà	2
+Mello	2
+Mendicino	2
+Mercato Ortofrutticolo	2
+Merla	2
+Merlini	2
+Mesola	2
+Meta	2
+Metato	2
+Metello	2
+Metti	2
+Mezzagosto	2
+Mezzaluna	2
+Mezzane	2
+Mezzanino	2
+Micciano	2
+Micheloni	2
+Mieli	2
+Miglianico	2
+Migliara	2
+Migliarino	2
+Miglierina	2
+Miglioretti	2
+Migliuso	2
+Mignano	2
+Mileto	2
+Milone	2
+Miniere	2
+Mirra	2
+Mis	2
+Missiano	2
+Moano	2
+Mocchi	2
+Moccia	2
+Mocenigo	2
+Modigliana	2
+Modolo	2
+Moggio	2
+Moi	2
+Moia	2
+Mola	2
+Molara	2
+Molare	2
+Molaro	2
+Molere	2
+Moleto	2
+Moletta	2
+Moletto	2
+Molinara	2
+Molinasso	2
+Molinelle	2
+Molinelli	2
+Molino del Conte	2
+Mollie	2
+Moltedo	2
+Moncestino	2
+Moncucca	2
+Mondini	2
+Mondonico	2
+Mondrago	2
+Mongiardino	2
+Montagna III	2
+Montagnano	2
+Montagne	2
+Montalbino	2
+Montalbo	2
+Montaperto	2
+Montauro	2
+Monte Croce	2
+Monte Giove	2
+Monte Moro	2
+Monte Porzio	2
+Monte San Pietro	2
+Monte San Vito	2
+Monte Vidon Combatte	2
+Monteacuto	2
+Montebonello	2
+Montebuono	2
+Montecapri	2
+Montecatini	2
+Montecurto	2
+Montefalco	2
+Montefiascone	2
+Montefiore	2
+Monteforte	2
+Montefortino	2
+Montefranco	2
+Montefreddo	2
+Montegemoli	2
+monteggia	2
+Montegiove	2
+Montelongo	2
+Monteluco	2
+Montemaggio	2
+Montemarciano	2
+Montemarino	2
+Montemartino	2
+Montemerlo	2
+Montemezzo	2
+Montemolino	2
+Montepagano	2
+Montepietro	2
+Montepulciano	2
+Montereale	2
+Montereggio	2
+Monterone	2
+Montesanto	2
+Monteverdi	2
+Montiano	2
+Monticchio	2
+Montieri	2
+Montiglio	2
+Montignano	2
+Montone	2
+Montorfano	2
+Montoro	2
+Monza	2
+Monzone	2
+Moranda	2
+Morando	2
+Morelle	2
+Morello	2
+Moretto	2
+Morge	2
+Morgia	2
+Morgnano	2
+Moricone	2
+Moriondo	2
+Mornico	2
+Morondo	2
+Morricone	2
+Morro	2
+Morroni	2
+Mortelle	2
+Mortisa	2
+Mosche	2
+Moschini	2
+Mossa	2
+Motta Grossa	2
+Motto	2
+Mottura	2
+Mozza	2
+Mozzanica	2
+Mozzano	2
+Mozzavinci	2
+Muffa	2
+Muggiano	2
+Mulazzano	2
+Mulinaccio	2
+Mulinazzo	2
+Mulini	2
+Muoio	2
+Muraglie	2
+Muratori	2
+Murazzano	2
+Murta Maria	2
+Musano	2
+Musignano	2
+Musso	2
+Mussolina	2
+Muzzano	2
+Naggio	2
+Nardelli	2
+Naro	2
+Nebbiano	2
+Negri	2
+Nemi	2
+Nero	2
+Nibbiano	2
+Nibbio	2
+Nicciano	2
+Nicola	2
+Niviano	2
+Nocchi	2
+Nocelle	2
+Nocera Scalo	2
+Noci	2
+Nogarè	2
+Nola	2
+Nomadelfia	2
+Nosedo	2
+Nova	2
+Novaglie	2
+Novale di Sopra	2
+Novale di Sotto	2
+Novella	2
+Novelle	2
+Novi	2
+Novoli	2
+Nurachi	2
+Oggeri	2
+Ogliastro	2
+Oira	2
+Olivero	2
+Olmeto	2
+Olza	2
+Omero	2
+Opi	2
+Oppi	2
+Orcomone	2
+Orgnano	2
+Oropa	2
+Orsara	2
+Orte	2
+Ortigaro	2
+Ortodonico	2
+Ortolano	2
+Osigo	2
+Ospitale	2
+Osteriaccia	2
+Ostiglia	2
+Pace	2
+Padana	2
+Padella	2
+Padergnone	2
+Padernello	2
+Padiglione	2
+Paduletto	2
+Pagana	2
+Pagani	2
+Pagazzano	2
+Pagliano	2
+Pagliarelle	2
+Pagliate	2
+Pagliericcio	2
+Pagnano	2
+Pagno	2
+Palazzasso	2
+Palazzine	2
+Palazzo Rosso	2
+Palazzon II	2
+Palazzotto	2
+Palazzuolo	2
+Palermi	2
+Palermo	2
+Palladio	2
+Pallareto	2
+Pallavicino	2
+Pallù	2
+Palma	2
+Palmaro	2
+Palo	2
+Palombaia	2
+Palombaro	2
+Palombo	2
+Palot	2
+Paluch	2
+Paludi	2
+Palumbo	2
+Pamperduto	2
+Pancole	2
+Panico	2
+Panni	2
+Pantaneto	2
+Pantigliate	2
+Panza	2
+Paoletti	2
+Paoli	2
+Paoloni	2
+Papozze	2
+Para	2
+Paradisi	2
+Parasacco	2
+Parazzuolo	2
+Parco dei Principi	2
+Paretola	2
+Pariana	2
+Parise	2
+Parlati	2
+Parleaz	2
+Parolara	2
+Parrini	2
+Pascoli	2
+Pasquali	2
+Passano	2
+Passarella	2
+Passatore	2
+Passerano	2
+Passionisti	2
+Pastine	2
+Pastini	2
+Pastino	2
+Pastori	2
+Pasubio	2
+Paterna	2
+Patierno	2
+Pavesa	2
+Pecci	2
+Pecorara	2
+Pecorile	2
+Pedaggio	2
+Pedagna	2
+Pedale	2
+Pedali	2
+Pedara	2
+Pederiva	2
+Pedocchio	2
+Pedrosa	2
+Pellegrina	2
+Pellestrina	2
+Pellizzara	2
+Pellizzari	2
+Pelosa	2
+Pennini	2
+Pennino	2
+Perelle	2
+Pergole	2
+Perno	2
+Peron	2
+Perosa	2
+Perrero	2
+Persico	2
+Perticara	2
+Pertuso	2
+Pesca	2
+Pescaia	2
+Pescarolo	2
+Pescarzo	2
+Peschiere	2
+Pesciola	2
+Pescopagano	2
+Pessine	2
+Pessino	2
+Petogna	2
+Petrarca	2
+Petrella	2
+Petrelle	2
+Petriolo	2
+Petrolo	2
+Petrone	2
+Petrosino	2
+Petrucco	2
+Pettino	2
+Pez	2
+Pezzan	2
+Pezzana	2
+Pezzati	2
+Pezzei	2
+Pezzelle	2
+Pezzo	2
+Piacentina	2
+Piaggiori	2
+Pian	2
+Pian Castagna	2
+Pian degli Ontani	2
+Pian della Ca	2
+Pian della Pieve	2
+Pian di Molino	2
+Piana d'Olmo	2
+Pianacce	2
+Pianacci	2
+Pianaccio	2
+Pianari	2
+Pianca	2
+Piancavallo	2
+Piane Vecchie	2
+Pianette	2
+Piano del Lago	2
+Piano Grande	2
+Piano Vomano	2
+Pianura	2
+Piazza Calda	2
+Piazzette	2
+Piazzole	2
+Piazzolla	2
+Picchi	2
+Picchio	2
+Picciano	2
+Piccione	2
+Picotta	2
+Pie' del Colle	2
+Piediripa	2
+Piera	2
+Pietra Rossa	2
+Pietrabianca	2
+Pietracolora	2
+Pietralba	2
+Pietranera	2
+Pietrapiana	2
+Pietrasanta	2
+Pietre	2
+Pietrebianche	2
+Pievetta	2
+Pignare	2
+Pigno	2
+Pignone	2
+Pilastri	2
+Pilati	2
+Pilla	2
+Pilotto	2
+Pineto	2
+Pini Sud	2
+Piniè	2
+Pintura	2
+Pio X	2
+Piobbico	2
+Piobesi Torinese	2
+Piolo	2
+Piombino	2
+Pione	2
+Pioppe	2
+Pioppi	2
+Piova	2
+Pirainetto	2
+Piras	2
+Piro	2
+Pisana	2
+Piscine	2
+Pisciolo	2
+Pisignano	2
+Pistone	2
+Pistrino	2
+Pizzale	2
+Pizzano	2
+Pizzoli	2
+Pizzolo	2
+Pizzon	2
+Pizzone	2
+Pizzuti	2
+Placa	2
+Plagne	2
+Plan	2
+Pobbia	2
+Pocaia	2
+Podere Isola	2
+Poeti	2
+Poggio Ai Grilli	2
+Poggio del Sole	2
+Poggioferro	2
+Poggioni	2
+Pogliano	2
+Poiane	2
+Poira	2
+Polato	2
+Poldi	2
+Polese	2
+Poli	2
+Policara	2
+Pollina	2
+Polverara	2
+Polverina	2
+Pomara	2
+Pompeano	2
+Pongennaro	2
+Pont	2
+Ponte Cappuccini	2
+Ponte della Maddalena	2
+Ponte delle Tavole	2
+Ponte Lambro	2
+Ponte Rosso	2
+Ponte Rotto	2
+Ponte San Giovanni	2
+Pontelungo	2
+Pontevecchio	2
+Ponti Rossi	2
+Ponticino	2
+Pontoni	2
+Porcari	2
+Porchera	2
+Pordenone	2
+Porra	2
+Porri	2
+Porrona	2
+Porta Nuova	2
+Portella	2
+Porticato	2
+Porticello	2
+Portici	2
+Portio	2
+Portolo	2
+Portonovo	2
+Porzano	2
+Possessione	2
+Posta	2
+Postioma	2
+Potame	2
+Potenza	2
+Potete	2
+Poviglio	2
+Povoli	2
+Pozzaglio	2
+Pozzallo	2
+Pra di Sotto	2
+Pracchi	2
+Pracchia	2
+Pradaglia	2
+Pradazzo	2
+Prade	2
+Pradis	2
+Pradone	2
+Praia a Mare	2
+Praie	2
+Pralungo	2
+Prarolo	2
+Prataccio	2
+Pratale	2
+Pratella	2
+Praticello	2
+Pratone	2
+Prea	2
+Prelle	2
+Prelo	2
+Premia	2
+Prepotto	2
+Presa	2
+Presciano	2
+Presina	2
+Pretara	2
+Preti	2
+Prevalle	2
+Primaluna	2
+Principe	2
+Prine	2
+Priola	2
+Priora	2
+Procoio	2
+Prova	2
+Provvidenza	2
+Pruno	2
+Puccini	2
+Puglia	2
+Pugnano	2
+Puma	2
+Punta	2
+Punta Bianca	2
+Punta Secca	2
+Puntoni	2
+Putignano	2
+Puzzaca	2
+Quadrelli	2
+Quadri	2
+Quadrivio	2
+Quadro	2
+Quaglietta	2
+Quarata	2
+Quaresima	2
+Quarona	2
+Quarticciolo	2
+Quartiere	2
+Quarto II	2
+Quarto Inferiore	2
+Quattro Cascine	2
+Quattrostrade	2
+Queglia	2
+Quercia	2
+Quercioli	2
+Quinzo	2
+Quistello	2
+Radi	2
+Radicosa	2
+Raffineria	2
+Raggio	2
+Raggioli	2
+Rai	2
+Raimondi	2
+Rampa	2
+Rangona	2
+Ranzano	2
+Ranzi	2
+Ranzo	2
+Rapino	2
+Rapolla	2
+Rapone	2
+Rava	2
+Ravello	2
+Reato	2
+Redipuglia	2
+Redona	2
+Regoledo	2
+Reitano	2
+Remondò	2
+Reno	2
+Renon	2
+Rescia	2
+Resega	2
+Ressia	2
+Retignano	2
+Reynaud	2
+Rezzo	2
+Ribe	2
+Ribera	2
+Riccio	2
+Riello	2
+Rif	2
+Rigato	2
+Rignano	2
+Rigoni	2
+Riguardata	2
+Rina	2
+Rinaldi	2
+Rinella	2
+Riobianco	2
+Riovalle	2
+Ripabianca	2
+Ripe	2
+Ripole	2
+Risari	2
+Risere	2
+Risorgimento	2
+Rivà	2
+Riva Ligure	2
+Riva Verde	2
+Rivale	2
+Rivello	2
+Rivetti	2
+Rivoli	2
+Rivoltella	2
+Rizzuto	2
+Roana	2
+Roaschia	2
+Roata	2
+Robbiano	2
+Rocca di Mezzo	2
+Rocca Nuova	2
+Rocca Priora	2
+Rocca Santo Stefano	2
+Roccatagliata	2
+Roccias	2
+Rocco	2
+Rodello	2
+Rodi	2
+Rodiano	2
+Roè	2
+Roggia	2
+Roggio	2
+Roiano	2
+Rolle	2
+Roman catholic diocese of Brixen	2
+Romanato	2
+Romani	2
+Romano	2
+Romea	2
+Romiti	2
+Romola	2
+Roncaccio	2
+Roncadelle	2
+Roncaglie	2
+Ronchis	2
+Roncola	2
+Roncolo	2
+Ronta	2
+Rosa Marina	2
+Rosaro	2
+Rosasco	2
+Rose	2
+Rosello	2
+Rosennano	2
+Rosi	2
+Ross	2
+Rossetto	2
+Rosso	2
+Rosta	2
+Rota d'Imagna	2
+Rotonda	2
+Rotondella	2
+Roveleto	2
+Rovella	2
+Roveto	2
+Rovinato	2
+Ruà	2
+Ruata	2
+Ruda	2
+Ruera	2
+Ruggera	2
+Ruggiano	2
+Ruina	2
+Ruinas	2
+Runco	2
+Ruota	2
+Ruscio	2
+Sabbionara	2
+Sabina	2
+Saccon	2
+Sacconi	2
+Sacile	2
+Sagna	2
+Saiano	2
+Salce	2
+Salci	2
+Salemi	2
+Salera	2
+Salerni	2
+Salerno	2
+Salgari	2
+Salmistraro	2
+Salomone	2
+Salsominore	2
+Saltino	2
+Saluzzo	2
+Salvano	2
+Salvaterra	2
+Sambuca	2
+Sammardenchia	2
+Sampieri	2
+San Barbato	2
+San Benigno	2
+San Bortolo	2
+San Bovo	2
+San Brizio	2
+San Casciano	2
+San Cerbone	2
+San Cesareo	2
+San Chiaffredo	2
+San Cosma	2
+San Costanzo	2
+San Fabiano	2
+San Fedele	2
+San Fele	2
+San Ferdinando	2
+San Fidenzio	2
+San Flaviano	2
+San Foca	2
+San Francesco Vecchio	2
+San Fruttuoso	2
+San Gennaro I	2
+San Germano	2
+San Ginesio	2
+San Giorgio I	2
+San Giovannello	2
+San Giovanni Battista	2
+San Giovanni I	2
+San Giovanni II	2
+San Giovanni Suergiu	2
+San Girolamo	2
+San Giulio	2
+San Gregorio d'Ippona	2
+San Iacopo	2
+San Iorio	2
+San Liberato	2
+San Lorenzo I	2
+San Lorenzo II	2
+San Mamiliano	2
+San Mariano	2
+San Nicolao	2
+San Pantaleo	2
+San Pantaleone	2
+San Patrignano	2
+San Pelagio	2
+San Piero in Campo	2
+San Pietro in Campo	2
+San Pio	2
+San Potito	2
+San Primo	2
+San Quirino	2
+San Regolo	2
+San Simone	2
+San Sosti	2
+San Sudario	2
+San Tammaro	2
+San Terenziano	2
+San Zaccaria	2
+San Zenone	2
+Sanarica	2
+Sangineto	2
+Sanità	2
+Sant'Agapito	2
+Sant'Agnello	2
+Sant'Alfonso	2
+Sant'Andràt	2
+Sant'Angiolo	2
+Sant'Anna I	2
+Sant'Enea	2
+Sant'Ermete	2
+Sant'Eurosia	2
+Sant'Eusanio	2
+Sant'Ianni	2
+Sant'Ignazio	2
+Sant'Osvaldo	2
+Sant'Ubaldo	2
+Santa Colomba	2
+Santa Fiora	2
+Santa Giorgia	2
+Santa Libera	2
+Santa Luce	2
+Santa Lucia I	2
+Santa Lucia II	2
+Santa Maddalena	2
+Santa Mama	2
+Santa Maria A Vico	2
+Santa Maria Assunta	2
+Santa Maria del Campo	2
+Santa Maria del Ponte	2
+Santa Maria del Sasso	2
+Santa Maria della Neve	2
+Santa Maria in Valle	2
+Santa Maria la Stella	2
+Santa Monica	2
+Santa Regina	2
+Santa Reparata	2
+Santa Restituta	2
+Santa Rita	2
+Santa Rosalia	2
+Santa Rufina	2
+Santa Tecla	2
+Santa Trinità	2
+Santa Venera	2
+Santa Viola	2
+Santarello	2
+Santo Pietro	2
+Santojanni	2
+Santomato	2
+Saracena	2
+Saraceni	2
+Saragiolo	2
+Sarego	2
+Sariano	2
+Sarizzola	2
+Sarna	2
+Sartori	2
+Sassa	2
+Sassano	2
+Sasseta	2
+Sassuolo	2
+Savelli	2
+Savi	2
+Savio	2
+Scanzano	2
+Scarcelli	2
+Scarrone	2
+Scarzola	2
+Scauri	2
+Scheggia	2
+Schiavoni	2
+Schiazzano	2
+Schierano	2
+Schifanoia	2
+Schignano	2
+Sciangai	2
+Sciara	2
+Scifelli	2
+Scigliati	2
+Sciorilli	2
+Scipione	2
+Scisciano	2
+Scola	2
+Scopello	2
+Scorrano	2
+Scorzo	2
+Secchiano	2
+Secciano	2
+Seggio	2
+Seghe	2
+Segheria	2
+Segno	2
+Selci	2
+Sellano	2
+Selva Nera	2
+Selvone	2
+Sempione	2
+Sengie	2
+Sensano	2
+Sentino	2
+Septumian	2
+Serino	2
+Serone	2
+Serra di Sopra	2
+Serradifalco	2
+Serralonga	2
+Serralunga	2
+Serre I	2
+Settefontane	2
+Settefrati	2
+Setteville	2
+Severini	2
+Siano	2
+Siena	2
+Sigliano	2
+Signa	2
+Signano	2
+Sile	2
+Silla	2
+Silos	2
+Simone	2
+Simonini	2
+Siniscola	2
+Sipicciano	2
+Sirignano	2
+Sisto	2
+Sivizzano	2
+Snam	2
+Soave	2
+Solagna	2
+Solagne	2
+Solaia	2
+Solanas	2
+Solferino	2
+Soliera	2
+Sologno	2
+Solza	2
+Sommavilla	2
+Soncino	2
+Sora	2
+Sorano	2
+Sorba	2
+Sorbara	2
+Sorbolo	2
+Soresina	2
+Soria	2
+Sostegno	2
+Sottoripa	2
+Spada	2
+Spartimento	2
+Spiano	2
+Spicciano	2
+Spignana	2
+Spinaci	2
+Spinazzo	2
+Spineda	2
+Spino	2
+Spoltore	2
+Squizzato	2
+Stabilimento Termale	2
+Stadera	2
+Staggia	2
+Staletti	2
+Stallone	2
+Statte	2
+Stava	2
+Stavel	2
+Stazzano	2
+Stazzo	2
+Stazzona	2
+Sterpara	2
+Sterpare	2
+Sterparo	2
+Stio	2
+Strada San Zeno	2
+Stramare	2
+Strangolagalli	2
+Stresa	2
+Stretti	2
+su Pardu	2
+Superga	2
+Susa	2
+Tabbiano	2
+Tabiano	2
+Tablà	2
+Taccone	2
+Tacconelli	2
+Taccu	2
+Tagliaretto	2
+Taglioni	2
+Taiedo	2
+Taleggio	2
+Taliani	2
+Talponada	2
+Taricchi	2
+Tassara	2
+Tassinara	2
+Tavani	2
+Tavernago	2
+Tavernole	2
+Tavolaia	2
+Telese Terme	2
+Telesio	2
+Tempio	2
+Temponi	2
+Teora	2
+Teramo	2
+Terme	2
+Terria	2
+Terrone	2
+Terzana	2
+Tese	2
+Testa dell'Acqua	2
+Tetti Soprani	2
+Tezza	2
+Tezzon	2
+Thiene	2
+Tiepolo	2
+Tiglio	2
+Tignano	2
+Timparello	2
+Timparossa	2
+Timpone	2
+Tinello	2
+Tiola	2
+Tirli	2
+Tirolo	2
+Tofe	2
+Toiano	2
+Tollara	2
+Tollo	2
+Tolmezzo	2
+Tolosano	2
+Tombe	2
+Tombolo	2
+Tommasi	2
+Tonini	2
+Tonni	2
+Toppolo	2
+Tora	2
+Torazza	2
+Torba	2
+Torbe	2
+Torbiera	2
+Torchi	2
+Torcigliano	2
+Torcolo	2
+Torone	2
+Torra	2
+Torraccia	2
+Torre Bianca	2
+Torre Giulia	2
+Torre Marino	2
+Torre San Giovanni	2
+Torreano	2
+Torreselle	2
+Torrino	2
+Torriola	2
+Tortona	2
+Tortora	2
+Tosi	2
+Trabucco	2
+Traghetto	2
+Tramontana	2
+Tramonti	2
+Transacqua	2
+Travaglini	2
+Trave	2
+Traversa	2
+Traverso	2
+Tre Arie	2
+Tre Colli	2
+Tre Croci	2
+Tre Fontane	2
+Tre Stelle	2
+Trebbiola	2
+Trebbo	2
+Trebecco	2
+Trefontane	2
+Treggiaia	2
+Tremonti	2
+Trentola	2
+Tressanti	2
+Trevi	2
+Treviglio	2
+Trevignano	2
+Trina	2
+Trino	2
+Triulza	2
+Trognano	2
+Troncea	2
+Tubbiano	2
+Tufariello	2
+Tufi	2
+Tuglie	2
+Turin	2
+Turina	2
+Turro	2
+Ulignano	2
+Umbriano	2
+Urmo	2
+Vaccara	2
+Vaccari	2
+Vaccaro	2
+Vada	2
+Vagli	2
+Vagliano	2
+Vaglio	2
+Vaio	2
+Val della Torre	2
+Val di Mezzo	2
+Val di Ranco	2
+Valdichiesa	2
+Valdo	2
+Valdonica	2
+Valeggio	2
+Valenti	2
+Valentina	2
+Valentini	2
+Valenza	2
+Valenzano	2
+Valera	2
+Valeriano	2
+Valerio	2
+Valico	2
+Vallà	2
+Vallalta	2
+Valle Bona	2
+Valle di Sopra	2
+Valle I	2
+Valle San Giovanni	2
+Valle Santa	2
+Vallebona	2
+Vallebuona	2
+Vallecalda	2
+Vallecchia	2
+Valleggia	2
+Vallemare	2
+Vallemontana	2
+Vallera	2
+Vallerano	2
+Vallevona	2
+Valline	2
+Vallo	2
+Vallombrosa	2
+Vallona	2
+Valloria	2
+Vallossera	2
+Valmala	2
+Valmontone	2
+Valt	2
+Valzella	2
+Vandini	2
+Vanzelle	2
+Vanzi	2
+Varda	2
+Vareglio	2
+Varna	2
+Vas	2
+Vasciano	2
+Vasto	2
+Vaticano	2
+Vecchietto	2
+Vedriano	2
+Veglio	2
+Vela	2
+Velina	2
+Velo	2
+Vena	2
+Vene	2
+Venere	2
+Veneria	2
+Veneto	2
+Venzone	2
+Verago	2
+Vercellini	2
+Verdesca	2
+Verdi	2
+Verghereto	2
+Vergiano	2
+Vernazzola	2
+Vernè	2
+Vernetto	2
+Veronese	2
+Verrone	2
+Versa	2
+Vesallo	2
+Vescia	2
+Vesima	2
+Vespignano	2
+Vesta	2
+Vetica	2
+Vetiche I	2
+Vetriolo	2
+Vezza	2
+Vezzola	2
+Via	2
+Via Case Sparse	2
+Via dell'Industria	2
+Via Don Minzoni	2
+Via I Maggio	2
+Via Iv Novembre	2
+Via Latina	2
+Via Matteotti	2
+Via Provinciale	2
+Via Romana	2
+Via Trento	2
+Viadana	2
+Viale	2
+Vicaria	2
+Vicende	2
+Viceno	2
+Vidiceto	2
+Vidor	2
+Vigano	2
+Viganò	2
+Vigna Grande	2
+Vignassa	2
+Vignazza	2
+Vignoli	2
+Villa Bonini	2
+Villa del Bosco	2
+Villa del Monte	2
+Villa di Mezzo	2
+Villa di Sopra	2
+Villa di Villa	2
+Villa Fontana	2
+Villa Fornace	2
+Villa Grande	2
+Villa Ingham	2
+Villa Mazza	2
+Villa Raspa	2
+Villa Rosa	2
+Villa Rossi	2
+Villa San Nicola	2
+Villa San Pietro	2
+Villa Serena	2
+Villa Superiore	2
+Villa Torre	2
+Villa Vecchia	2
+Villabella	2
+Villabuona	2
+Villaga	2
+Villaggio Aurora	2
+Villaggio Azzurro	2
+Villaggio Industriale	2
+Villaggio Kennedy	2
+Villaggio Nuovo	2
+Villaggio San Giuseppe	2
+Villaggio San Michele	2
+Villaggio Sant'Antonio	2
+Villaggio Santa Maria	2
+Villaggio Sereno	2
+Villagrazia	2
+Villagrossa	2
+Villair	2
+Villalba	2
+Villaorba	2
+Villapiana	2
+Villarbasse	2
+Villaretti	2
+Villastrada	2
+Villata	2
+Villatalla	2
+Virgiliana	2
+Visinale	2
+Visnà	2
+Visogliano	2
+Vitignano	2
+Vitoio	2
+Vittori	2
+Vivaro	2
+Vizzarri	2
+Vogno	2
+Volano	2
+Volongo	2
+Volpaia	2
+Volpi	2
+Volpini	2
+Waldheim	2
+Zaccaria	2
+Zanon	2
+Zappa	2
+Zebedassi	2
+Zelo	2
+Zerba	2
+Zerbo	2
+Zilio	2
+Zimella	2
+Zoccarato	2
+Zocco	2
+Zoccolanti	2
+Zona Artigianale-Industriale	2
+Zona Industriale S S	2
+Zona Industriale San Giacomo	2
+Zona Industriale Sud	2
+Zona Industriale Via del Lavoro	2
+Zona Produttiva Sud	2
+Zuliani	2
+Abbiategrasso
+Acerra
+Aci Catena
+Acilia-Castel Fusano-Ostia Antica
+Acireale
+Adrano
+Afragola
+Agrigento
+Albano Laziale
+Alcamo
+Alghero
+Altamura
+Ancona
+Andria
+Angri
+Anzio
+Aosta
+Aprilia
+Ascoli Piceno
+Assemini
+Avellino
+Aversa
+Avezzano
+Avola
+Avvocata
+Bacoli
+Bagheria
+Barcellona Pozzo di Gotto
+Barletta
+Barra
+Barriera di Lanzo
+Barriera di Milano
+Barriera di Orbassano
+Bassano del Grappa
+Battipaglia
+Belluno
+Bergamo
+Biella
+Bitonto
+Bollate
+Boscoreale
+Bra
+Brescia
+Bresso
+Brindisi
+Brugherio
+Busto Arsizio
+Caltagirone
+Caltanissetta
+Camaiore
+Campi Bisenzio
+Campo di Marte
+Campobasso
+Canicattì
+Canosa di Puglia
+Cantù
+Capannori
+Casal de' Pazzi
+Casal Palocco
+Casale Monferrato
+Casalecchio di Reno
+Casalnuovo di Napoli
+Caserta
+Casoria
+Castelfranco Veneto
+Castellammare di Stabia
+Castelvetrano
+Catania
+Catanzaro
+Cava Dè Tirreni
+Cenisia
+Cerignola
+Cernusco sul Naviglio
+Cesano Maderno
+Cesena
+Chiaia
+Chiavari
+Chieri
+Chieti
+Chinatown
+Chioggia
+Cinisello Balsamo
+Circoiscrizione I
+Circoiscrizione II
+Circoiscrizione III
+Circoiscrizione IV
+Circoiscrizione V
+Circoiscrizione VI
+Circoiscrizione VII
+Circoiscrizione VIII
+Cisterna di Latina
+Civitanova Marche
+Cologno Monzese
+Comiso
+Como
+Conegliano
+Corato
+Corsico
+Cosenza
+Crema
+Cremona
+Crotone
+Desio
+Eboli
+Empoli
+Ercolano
+Falconara Marittima
+Favara
+Florence
+Foligno
+Forlì
+Formia
+Formigine
+Francavilla Fontana
+Frattamaggiore
+Frosinone
+Fuorigrotta
+Garbagnate Milanese
+Gela
+Genoa
+Gioia del Colle
+Giugliano in Campania
+Giussano
+Gravina di Catania
+Gravina in Puglia
+Grosseto
+Grugliasco
+Guidonia Montecelio
+Imola
+Imperia
+Infernetto
+Jesi
+L'Aquila
+La Spezia
+Ladispoli
+Lainate
+Lamezia Terme
+Lecce
+Lecco
+Legnano
+Lentini
+Licata
+Lido di Ostia
+Limbiate
+Lingotto
+Lissone
+Livorno
+Lucca
+Lucento
+Lucera
+Macerata
+Maddaloni
+Manduria
+Manfredonia
+Mantua
+Marano di Napoli
+Marcianise
+Marghera
+Marigliano
+Marina di Carrara
+Mascalucia
+Massafra
+Mazara del Vallo
+Melito di Napoli
+Merano
+Mesagne
+Messina
+Mestre
+Milazzo
+Mira Taglio
+Mirafiori Nord
+Mirafiori Sud
+Misterbianco
+Modena
+Modica
+Modugno
+Mola di Bari
+Molfetta
+Moncalieri
+Mondragone
+Monfalcone
+Monopoli
+Monte Rosello
+Montebelluna
+Monterusciello
+Montesilvano
+Mugnano di Napoli
+Naples
+Nardò
+Nettuno
+Nicastro
+Nichelino
+Niscemi
+Nizza Millefonti
+Nocera Inferiore
+Novara
+Novi Ligure
+Nuoro
+Olbia
+Oristano
+Orta di Atella
+Ostuni
+Paderno Dugnano
+Padua
+Pallanza-Intra-Suna
+Parabiago
+Parma
+Partinico
+Paternò
+Pavia
+Perugia
+Pesaro
+Piacenza
+Pinerolo
+Pioltello
+Pisa
+Piscinola
+Pistoia
+Pomigliano d'Arco
+Pozzo Strada
+Pozzuoli
+Quarto Oggiaro
+Quartu Sant'Elena
+Ragusa
+Rapallo
+Ravenna
+Reggio Calabria
+Reggio nell'Emilia
+Rho
+Riccione
+Rieti
+Rimini
+Romano Banco
+Rome
+Rosignano Marittimo
+Rovigo
+Rozzano
+Ruvo di Puglia
+San Benedetto del Tronto
+San Carlo All'Arena
+San Donà di Piave
+San Donato Milanese
+San Giorgio a Cremano
+San Giovanni Rotondo
+San Giuliano Milanese
+San Giuseppe Vesuviano
+San Miniato Basso
+San Salvario
+Sanremo
+Santa Maria Capua Vetere
+Santeramo in Colle
+Sarno
+Saronno
+Sassari
+Savona
+Scafati
+Scandiano
+Scandicci
+Schio
+Sciacca
+Secondigliano
+Segrate
+Senigallia
+Seregno
+Sesto Fiorentino
+Sesto San Giovanni
+Settimo Torinese
+Siracusa
+Soccavo
+Somma Vesuviana
+Spinaceto
+Taranto
+Terlizzi
+Termoli
+Terni
+Torre Annunziata
+Torre del Greco
+Trani
+Trapani
+Treviso
+Triggiano
+Udine
+Vanchiglia
+Varese
+Velletri
+Venaria Reale
+Venice
+Ventimiglia
+Verbania
+Vercelli
+Viareggio
+Vicenza
+Vigevano
+Villaricca
+Viterbo
+Voghera
+Vomero

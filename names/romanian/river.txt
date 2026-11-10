@@ -1,0 +1,3413 @@
+Valea Mare	26
+Valea Seacă	14
+Valea Rea	13
+Valea Satului	11
+Valea Ursului	11
+Valea Lupului	10
+Valea Caselor	8
+Valea Largă	7
+Valea Lungă	7
+Valea Morii	7
+Sebeş	6
+Valea Hotarului	6
+Valea Mică	6
+Valea Ţiganului	6
+Valea Adâncă	5
+Valea Boului	5
+Valea Glodului	5
+Valea Popii	5
+Valea Runcului	5
+Almaş	4
+Bistriţa	4
+Homorod	4
+Pârâul Slatina	4
+Pârâul Strâmba	4
+Putna	4
+Sărata	4
+Slănic	4
+Strâmba	4
+Valea Bisericii	4
+Valea Corbului	4
+Valea Lazului	4
+Valea Nouă	4
+Valea Viilor	4
+Bahna	3
+Bistra	3
+Buda	3
+Călmăţui	3
+Cerna	3
+Crasna	3
+Mare	3
+Neagra	3
+Pârâul Arşiţa	3
+Pârâul Lupul	3
+Pârâul Mare	3
+Pârâul Poiana	3
+Pârâul Ursoaia	3
+Răchita	3
+Recea	3
+Roşia	3
+Rusca	3
+Saca	3
+Sohodol	3
+Valea Blidarului	3
+Valea Ciorii	3
+Valea Crucii	3
+Valea Fântânii	3
+Valea Frasinului	3
+Valea Izvorului	3
+Valea Malului	3
+Valea Mărului	3
+Valea Neagră	3
+Valea Pietrosu	3
+Valea Pleşei	3
+Valea Porcului	3
+Valea Răchitei	3
+Valea Racilor	3
+Valea Siliştei	3
+Valea Teişului	3
+Albeşti	2
+Amaradia	2
+Arieş	2
+Bârzeşti	2
+Bic	2
+Buzoel	2
+Câlnic	2
+Casimcea	2
+Caşin	2
+Ceair	2
+Corund	2
+Covurlui	2
+Daia	2
+Danube	2
+Dobra	2
+Doftana	2
+Dumbrăviţa	2
+Feneş	2
+Frumoasa	2
+Gârbău	2
+Gârla Păpădia	2
+Grui	2
+Gura Văii	2
+Izvor	2
+Jijia	2
+Lunca	2
+Măgura	2
+Mesteaca	2
+Mocirla	2
+Moşna	2
+Neamţ	2
+Negrişoara	2
+Nisipoasa	2
+Ogaşul Rău	2
+Ogaşul Sec	2
+Ogaşul Urzicari	2
+Ohaba	2
+Pârâul Adânc	2
+Pârâul Alb	2
+Pârâul Alunişul	2
+Pârâul Boului	2
+Pârâul Calul	2
+Pârâul Cărbunarilor	2
+Pârâul Caţa	2
+Pârâul Chilia	2
+Pârâul Dumbrăviţa	2
+Pârâul Ehreşte	2
+Pârâul Fântânilor	2
+Pârâul Izvoarelor	2
+Pârâul Izvorul	2
+Pârâul lui Dumitru	2
+Pârâul lui Ilie	2
+Pârâul Păişu Mic	2
+Pârâul Paloşul	2
+Pârâul Pietroasa	2
+Pârâul Pietros	2
+Pârâul Pleşu	2
+Pârâul Ploştini	2
+Pârâul Popa	2
+Pârâul Porcesc	2
+Pârâul Prislopul	2
+Pârâul Rău	2
+Pârâul Rece	2
+Pârâul Runcul	2
+Pârâul Sâninalba	2
+Pârâul Sasul	2
+Pârâul Scurt	2
+Pârâul Sec	2
+Pârâul Sohodol	2
+Pârâul Tătarul	2
+Pârâul Tulbure	2
+Pârâul Ursul	2
+Pârâul Ursului	2
+Pârâul Văcăriei	2
+Pârlita	2
+Pasărea	2
+Racova	2
+Râmnic	2
+Rediu	2
+Repedea	2
+Sadu	2
+Săpânţa	2
+Saroş	2
+Săucani	2
+Secaş	2
+Şiu	2
+Slatina	2
+Slimnic	2
+Şoimuş	2
+Stavnic	2
+Ştefăneşti	2
+Şuşiţa	2
+Taiţa	2
+Tilchilic	2
+Topliţa	2
+Topolog	2
+Trestiana	2
+Valea Adâncata	2
+Valea Albă	2
+Valea Aninilor	2
+Valea Apa Sărată	2
+Valea Arşiţei	2
+Valea Babelor	2
+Valea Băiaşa	2
+Valea Băii	2
+Valea Baraboi	2
+Valea Bătrână	2
+Valea Bună	2
+Valea Calului	2
+Valea Caprei	2
+Valea Cărbunarilor	2
+Valea Cerbului	2
+Valea Cetăţii	2
+Valea Chiştelii	2
+Valea Ciobanului	2
+Valea Cireşului	2
+Valea Cişmelei	2
+Valea Colibelor	2
+Valea Crucişoara	2
+Valea Dracului	2
+Valea Ezeru	2
+Valea Fâneţelor	2
+Valea Fundătura	2
+Valea Furului	2
+Valea Geamăna	2
+Valea Grindului	2
+Valea Hreanului	2
+Valea lui Mocanu	2
+Valea lui Stan	2
+Valea Lupoaia	2
+Valea Măgurii	2
+Valea Merilor	2
+Valea Mocanului	2
+Valea Morilor	2
+Valea Moşului	2
+Valea Muierii	2
+Valea Muntelui	2
+Valea Neamţului	2
+Valea Obârşiei	2
+Valea Ogrăzii	2
+Valea Pârâului	2
+Valea Peştilor	2
+Valea Pietrei	2
+Valea Pietroasa	2
+Valea Plopeni	2
+Valea Podului	2
+Valea Poienii	2
+Valea Prislop	2
+Valea Radioasa	2
+Valea Roşie	2
+Valea Ruginoasa	2
+Valea Ruginosu	2
+Valea Sărăţii	2
+Valea Sârbilor	2
+Valea Saşa	2
+Valea Socilor	2
+Valea Spinului	2
+Valea Stânei	2
+Valea Stânii	2
+Valea Suhatului	2
+Valea Teiului	2
+Valea Teiuşului	2
+Valea Ulmilor	2
+Valea Ursoaia	2
+Valea Vinului	2
+Valea Zănoaga	2
+Valea Zimbrului	2
+Văleni	2
+Vedea	2
+Vida	2
+Adămuş
+Adăşeni
+Agapia
+Agi Cabul
+Agigea
+Agrij
+Aiudul de Sus
+Alămor
+Alba
+Albota
+Almălău
+Almaşu
+Almaşul
+Alun
+Ampoaiele
+Ampoiţa
+Apa Grădiştei
+Archita
+Argel
+Argeş
+Argeşelul
+Argova
+Arieşul Mare
+Arieşul Mic
+Arman
+Asău
+Asăul Mare
+Ascunsul
+Astrog
+Aţintiş
+Avrămeni
+Avrig
+Babaşa
+Babina
+Badon
+Badu
+Băgaciu
+Bahlui
+Baia
+Băiaşul
+Baican
+Băile Homorod
+Băiţa
+Bălăbăneşti
+Bălăceanca
+Bălana
+Bălăneasa
+Balea
+Bâleasa
+Balta
+Balta Dascălului
+Băltăgeşti
+Bălţaţi
+Banca
+Băniţa
+Bărăcea
+Barahoi
+Bărăi
+Băran
+Baranca
+Baraolt
+Bărbat
+Bărboşi
+Barcani
+Bardiu
+Bârlad
+Bârlădel
+Bârloagele
+Barsa
+Bârz
+Bârzava
+Bârzăviţa
+Bârzei
+Bârzoţel
+Bâsca Chiojdului
+Bâsca Mare
+Bâsca Mică
+Başeu
+Batarch
+Bătarci
+Bătrâna
+Bâzanu
+Becheni
+Beidaud
+Beiuşele
+Bela Reca
+Beliu
+Bentu
+Berchezul
+Berea
+Bereşti
+Berheci
+Berza Veche
+Beta
+Beu
+Bicaz
+Biertan
+Bilca Mare
+Bilca Mică
+Biniş
+Biruinţa
+Bisircioara
+Bistra Mărului
+Bistricioara
+Bistriţa Aurie
+Blăgeşti
+Blahniţa
+Blândeţ
+Bloaja
+Boasgic
+Boboş
+Bobu
+Bocicoel
+Bodeasa
+Bogat
+Bogata
+Bogdana
+Bohotin
+Boia
+Boicu
+Boişa
+Bolaţi
+Bold
+Boldul
+Bolduţul
+Bologa
+Bolovan
+Bolvaşniţa
+Bonţul Mare
+Borosoaia
+Borşa
+Borzia
+Borzont
+Borzontul Mic
+Botfei
+Botiza
+Boţoaia
+Boul
+Boul Mare
+Boul Mic
+Bozani
+Brad
+Brada
+Brăiţeni
+Brăneasa
+Bratia
+Braţul Sfântu Gheorghe Kilometrul Zece
+Breaza
+Breb
+Brebul
+Brescioara
+Brestelnic
+Brodina
+Bucovăţul Mare
+Bucovăţul Mic
+Bucovinei
+Bucovul
+Budacu
+Budişteanca
+Budu
+Budului
+Budureasa
+Bughea
+Buhăescu
+Buhalniţa
+Buhui
+Bujoreni
+Bujorul
+Bulba
+Bumbuieni
+Burdea
+Buştea
+Butoiu
+Buzău
+Buzd
+Buzunosu
+Cad
+Căiniceni
+Cajvana
+Călata
+Calbor
+Călimănel cel Limpede
+Călimăneşti
+Călimaş
+Călina
+Călineşti
+Câlnău
+Câlnăul
+Câlniştea
+Calul
+Cameniţa
+Câmpeni
+Canaghiol
+Cându
+Cănicea
+Canlia
+Capaclia
+Capolnaş
+Caprean
+Căpuşu
+Caracal
+Căran
+Cărbunăria
+Cârcinov
+Cârgrea
+Cârjoani
+Cârlibaba
+Cârligaţi
+Cârpeştii Mici
+Cărpiniş
+Cartal
+Cărtiorul
+Căşia
+Caşolţ
+Castelul
+Catarama
+Cătiaşul
+Cătuşa
+Ceamurlia
+Cecălaca
+Cehal
+Celnata
+Cerchez
+Cernişoara
+Cernişoara Orlii
+Cetăţuia
+Cetăţuia Mare
+Cheia
+Chepeţ
+Cherăstău
+Cheseul Mic
+Chichireagul Mare al Socolarului
+Chichireagul Mic al Socolarului
+Chichireg
+Chichiregu Mare al Potocului
+Chichirgeaua
+Chici
+Chidea
+Chilia
+Chimirnariuluy
+Chineja
+Chinteni
+Chinuş
+Chiojdeanca
+Chiojdul
+Chiril
+Chizdia
+Cibin
+Ciciana Mare
+Cigher
+Cilic
+Cimbrina
+Cinca
+Ciobănaşu
+Ciocadia
+Ciocârlia
+Ciorogârla
+Ciorteşti
+Cireş
+Cireşeni
+Cisnădie
+Ciubota
+Ciucurova
+Ciulniţa
+Ciumârna
+Ciuncă
+Clăbuceasa
+Cladova
+Cladoviţa
+Claniţa
+Cleceova
+Clocotici
+Clopodia
+Coasta Mare
+Cobia
+Cochirleanca
+Cocorovei
+Cocoş
+Cohalmul
+Cojocna
+Colbul
+Colentina
+Comarna
+Comisoaia
+Comlod
+Conizoaia
+Conop
+Copăceana
+Copalnic
+Corazel
+Corbul
+Corbul Ucei
+Corbul Vâştei
+Cordun
+Coriş
+Corlăţelul
+Cormoşul
+Corneşti
+Cornic
+Corogea
+Coropceni
+Corvin
+Coşeşti
+Coşeul
+Coşuştea
+Cotmeana
+Cotorca
+Covasna
+Cozia
+Cozmeni
+Crăcău
+Crăciuneşti
+Craicova
+Crainici
+Crapina
+Cremeniţa
+Crevec
+Crevedia
+Cricov
+Cricovul
+Cricovul Dulce
+Crihala
+Crişan
+Crişu Pietros
+Crişu-Repede
+Criţa Arsă
+Crivăţul
+Crizbavul Mare
+Crocna
+Crucea
+Cruşov
+Cucuteni
+Cucuveanu
+Cugir
+Culubăţ
+Cund
+Cungra
+Cungrea
+Cungrişoara
+Cuşmed
+Cutişul
+Cvaşniţă
+Dăiciţa
+Dălhăuţul
+Dalufac
+Dalufacul Mic
+Dâmboviţa
+Dâmbovnicul
+Dâmbu
+Dămuc
+Deia
+Deiţa
+Dejeasca
+Delniţa
+Demăcuşa
+Demşuş
+Dereaua
+Derna
+Desnăţui
+Dezna
+Dicşan
+Dieneţ
+Dipşa
+Ditrău
+Doba
+Dobâca
+Dobrica
+Dobricioneşti
+Dobrita Mare
+Dobromir
+Dobrovăţ
+Dobruşa
+Dofteana
+Dognecea
+Domaşnea
+Dorna
+Dorobanţul
+Dorofei
+Drăculea
+Drăgan
+Dragna
+Dragoşa
+Drăgoteni
+Drăguiasa
+Drăguşeni
+Drahmirov
+Drănicul
+Dridif
+Drincea
+Dubu
+Dudiţa
+Dudurucului
+Dulgherul
+Dumaşca
+Dumbrava
+Dumbrăvan
+Dunărea
+Dunca
+Duzi
+Elanul
+Epureni
+Esechini
+Eşelniţa
+Fădimac
+Făncica
+Fântâna Oilor
+Fărcădin
+Fărmăndola
+Faţa
+Feiurdei
+Feniş
+Fildul
+Filea
+Finiş
+Finişul
+Firiza
+Fitod
+Frasancea
+Frasin
+Frasinului
+Frata
+Frigeni
+Frumosul
+Frumuşeaua
+Frumuşel
+Frumuşelul
+Frumuşiţa
+Fuleri
+Fundătura
+Fundul Râpelor
+Gădălin
+Găeşti
+Gălăuţaş
+Galda
+Găneşti
+Gârbou
+Gârbova Mare
+Gârbovăţ
+Gârcu
+Gârlă Bohazului
+Gârla Cama
+Gârla Chiriac
+Gârla Ciulneţul
+Gârla Draghilea
+Gârla Durnoi
+Gârla Durnov
+Gârla Filatului
+Gârla Hliboca Saha
+Gârla Iacob Saha
+Gârla Litcov
+Gârla lui Iacob
+Gârlă Lunga
+Gârla Malcoci
+Gârla Masli de Sus
+Gârla Morii
+Gârla Murighiol
+Gârla Oltişor
+Gârla Pardina
+Gârla Petrov
+Gârla Pietrei
+Gârla Piricheasca
+Gârla Repedea
+Gârla Somova
+Gârla Şontea
+Gârla Turcului
+Gârla Turească
+Gârlă Vatafului
+Gârlişte
+Gârniţa
+Găunoasa
+Geamăna
+Gelug
+Geoagiu
+Geru
+Ghelinţa
+Ghelmegioaia
+Ghergheasa
+Ghiepeş
+Ghionoia
+Ghipeş
+Ghireni
+Gilort
+Glavacioc
+Glaviţa
+Goagiu
+Goeşti
+Goleasca
+Golumb
+Govora
+Govordava
+Grabicina
+Grădina Mucova
+Granviesc
+Greaca
+Grecul
+Grindeni
+Groapa Apei
+Groşeni
+Grumezoaia
+Gugu
+Guguianca
+Gunoaia
+Gura Dobrogei
+Gurbediu
+Gurghiu
+Gurguiata
+Guruslău
+Gut
+Guzarul
+Hagilar
+Hagiomer
+Haleşul
+Hamangia
+Hămăradia
+Hărănglab
+Harinii
+Hârşova
+Hârtibaciu
+Hârtoape
+Hăşdate
+Haţeg
+Hătnuţa
+Hetuga Porcilor
+Heveş
+Hezeriş
+Hidrichu
+Hinata
+Hisiaş
+Hlinoasa
+Hlubotina
+Hobana
+Hodiş
+Hodişel
+Hodoroaia
+Holbav
+Holod
+Homorod Balcaia
+Homorodu Nou
+Homorodul Mare
+Homorodul Mic
+Homorodul Vechi
+Honţiş
+Horezu
+Horincea
+Horoiala
+Hotari
+Hoteag
+Hruşca
+Huluba
+Humăria
+Humora
+Hurueşti
+Huseni
+Huşi
+Huşnicioara
+Huşniţa
+Iacoberi
+Iada
+Ialomiţa
+Iam
+Iapa
+Iara
+Iaslovăţ
+Iazul lui Iancu
+Iazul Morilor Prahova
+Idişor
+Ieud
+Iezer
+Igăzău
+Ighiul
+Ijdileni
+Ilidia
+Ilişeşti
+Ilişua
+Iliuţa
+Ilva
+Iminog
+În Valea Adâncă
+Inoasa
+Inuc
+Isaccea
+Islam
+Istria
+Itău
+Iza
+Izvoarele
+Izvorul
+Izvorul Cailor
+Izvorul Dragoş
+Izvorul Negru
+Izvorul Vacii
+Jaleş
+Japşa Cruglic
+Japşa Iaşcova
+Jăravăţ
+Jardaşiţa Mare
+Jepea
+Jernova
+Jidoaia
+Jidovaia
+Jidovniţa
+Jieţ
+Jieţul
+Jigălia
+Jijila
+Jitin
+Jiu
+Jiu Transilvan
+Jiul Românesc
+La Moara de Vânt
+La Plop
+La Râpă Înaltă
+La Rusu
+La Şipote
+Lai
+Lăloaia
+Lăpuşul
+Larga
+Lăscud
+Latoriţa
+Laura
+Lăzarea
+Lazoştei
+Lazu
+Leaotul
+Lechincioara
+Leica
+Lepşa
+Lepşuleţ
+Lescuţ
+Lipca
+Lipia
+Lisa
+Lişcov
+Liuborajdia
+Livadia
+Loc
+Locodeni
+Lodzova
+Lopadea
+Lotrioara
+Lotru
+Lozova
+Luduş
+Luica
+Lujerdiu
+Lunca Mare
+Lunca Satului
+Luncavăţul
+Lungşoara
+Lunguleţ
+Lupăria
+Lut
+Luţul
+Mădăraşul Mare
+Magheruşul
+Mahometcea
+Mal
+Mala
+Mălăeşti
+Malaia
+Mălina
+Mamu
+Mănăileasa
+Mănăstirea
+Mandai
+Mara
+Mărăloiu
+Maranda
+Marcu
+Măreasca
+Maria
+Mariţa
+Marpod
+Mârza
+Măscăşeni
+Matca Bobăiţa
+Matiţa
+Mâtnic
+Medgidia
+Medişa
+Megieş
+Mehadica
+Mera
+Meştera
+Meziad
+Mic
+Mideş
+Mieloea
+Mihăili
+Mihona
+Milcov
+Milcovăţ
+Mileţin
+Milotina
+Milova
+Miloveanu
+Miloviţa
+Miniş
+Mizieş
+Moaşa
+Mocan
+Modicea
+Mohornei
+Moişa
+Moldova
+Moldoviţa
+Moreni
+Moşnişoara
+Mostim
+Mostiştea
+Motru
+Mozacu
+Mraconia
+Muşata
+Musteşti
+Mutare
+Nadăş
+Nadăşul
+Nădrag
+Nandraş
+Năruja
+Neagonea
+Neajlov
+Neajlovel
+Nechitul
+Negraşi
+Negreni
+Negru
+Neguleşti
+Negureni
+Nemoiu
+Nemşa
+Nera
+Nermed
+Nieregiş
+Nimăieşti
+Niraj
+Nişcov
+Novăţ
+Novicior
+Nuntaşi
+Oancea
+Oarba
+Obârşia Văii
+Odăile
+Odobeşti
+Ogaşu Spărturi
+Ogaşul Balaci
+Ogaşul Bâzâcău
+Ogaşul Berzauca
+Ogaşul Blagova
+Ogaşul Boican
+Ogaşul Buzărin
+Ogaşul Caselor
+Ogaşul Chioşmesei
+Ogaşul Codrului
+Ogaşul Cornilor
+Ogaşul Crucii
+Ogaşul cu Peri
+Ogaşul cu Plopi
+Ogaşul Cuzniţei
+Ogaşul Dâlboca
+Ogaşul Dobrei
+Ogaşul Făgăraşului
+Ogaşul Fântânioara
+Ogaşul Faţa Mare
+Ogaşul Gavrânea
+Ogaşul Izvoru Lung
+Ogaşul Izvorului
+Ogaşul Liborajden
+Ogaşul lui Bogda
+Ogaşul lui Olaru
+Ogaşul lui Torcui
+Ogaşul Mare
+Ogaşul Mare Văcăreţu
+Ogaşul Melugelului
+Ogaşul Neamţului
+Ogaşul Obăica
+Ogaşul Pâşcoanea
+Ogaşul Perilor
+Ogaşul Pietros
+Ogaşul Podului
+Ogaşul Pogoanelor
+Ogaşul Poienilor
+Ogaşul Porcului
+Ogaşul Radovanului
+Ogaşul Rogozului
+Ogaşul Rujetului
+Ogaşul Satului
+Ogaşul Şişcu
+Ogaşul Şoblanului
+Ogaşul Stărmănut
+Ogaşul Strineacului
+Ogaşul Şurlii
+Ogaşul Tâlva Frasinului
+Ogaşul Ţarovăţului
+Ogaşul Tăţelei
+Ogaşul Ţiganca
+Ogaşul Toma
+Ogaşul Turcului
+Ogaşul Ulmului
+Ogaşul Văcăreţei
+Ogaşul Vârâţii
+Ogaşul Varniţei
+Ogaşul Vladului
+Ogaşul Vulpii
+Ogaşul Zaberchii
+Ogaşul Zăponic
+Oiţa
+Oituz
+Ojdula
+Olăneşti
+Olt
+Olteţ
+Oltul Mic
+Omârlac
+Orăşa
+Oreviţa
+Orlea
+Orzeni
+Ostra
+Otăsău
+Oţeleni
+Păiuşeni
+Paloş
+Paltin
+Păltinişul Mare
+Păltinişul Mic
+Păpăuţi
+Parapanca
+Pârâu Radimna
+Pârâul Abrud
+Pârâul Afinelor
+Pârăul Agârbiciului
+Pârâul Aiu
+Pârăul Alb
+Pârâul Almaş
+Pârâul Apa Neagră
+Pârâul Apa Roşie
+Pârâul Apa Sărată
+Pârâul Arada
+Pârâul Arcanilor
+Pârâul Arcerul
+Pârâul Ardeloaia
+Pârâul Arinilor
+Pārâul Arpaşul Mare
+Pârâul Ars
+Pârâul Arşiţei
+Pârâul Arsuri
+Pârâul Arsurilor
+Pârăul Băbenilor
+Pârâul Babii
+Pârâul Baboi
+Pârâul Baciu
+Pârâul Bădeni
+Pârâul Băeşelul
+Pârâul Bahna
+Pârâul Băiaşul
+Pârâul Băilor
+Pârâul Băiucul
+Pârâul Bâju
+Pârâul Balaj
+Pârâul Bălăsina
+Pârâul Bălătruc
+Pârăul Bălcuţei
+Pârâul Bănia
+Pârâul Bănos
+Pârâul Banu
+Pârâul Banul
+Pârâul Bănuţul
+Pârâul Baranova
+Pârâul Bardău
+Pârâul Bărdăucinul Mare
+Pârâul Bârlogului
+Pârâul Bârnaru
+Pârâul Barosu
+Pârâul Bârţu
+Pârâul Bârzota
+Pârâul Bâşta
+Pârâul Bătarci
+Pârâul Bejnar
+Pârâul Bendereu
+Pârâul Benia
+Pârâul Bereasca
+Pârâul Beregsău
+Pârăul Bereştii
+Pârăul Berivoilor
+Pârâul Beta
+Pârâul Beteş
+Pârâul Beuşniţa
+Pârâul Birchin
+Pârâul Biserica
+Pârâul Bistra
+Pârâul Bistrişoara
+Pârâul Blond
+Pârâul Bodroc
+Pârâul Bogdăneşti
+Pârăul Boghii
+Pârâul Boina
+Pârâul Boiniţa
+Pârâul Boiştea
+Pârâul Bojovir
+Pârâul Bolaţi
+Pârâul Boleşti
+Pârâul Bolovanul
+Pârâul Borcutul
+Pârâul Boroşeni
+Pârâul Borţii
+Pârâul Boşneagu
+Pârâul Botan
+Pârâul Boteşti
+Pârăul Botii
+Pârăul Boului
+Pârâul Brădet
+Pârâul Bradu
+Pârâul Bradul
+Pârâul Braşov
+Pârâul Brebina
+Pârâul Bresnic
+Pârâul Broşteni
+Pârâul Brusnicelu
+Pârâul Brusnicu Lung
+Pârâul Brustureţul
+Pârâul Buceaua
+Pârâul Buceviţa
+Pârâul Bucoi
+Pârâul Bucoveanca
+Pârâul Bucovinca
+Pârâul Bucureasa Mare
+Pârâul Buda
+Pârâul Bujorului
+Pârâul Bulzului
+Pârâul Buraciuc
+Pârâul Burloaia
+Pârâul Bursucul
+Pârâul Buta
+Pârâul Cabanei
+Pârâul Cailor
+Pârâul Câinelui
+Pârâul Călădai
+Pârâul Călăsău
+Pârâul Căldărilor
+Pârâul Calela
+Pârâul Călimarului
+Pârâul Călin
+Pârâul Căliniuc
+Pârăul Câmpii
+Pârâul Cândrinari
+Pârâul Cânepa
+Pârâul Căpitanului
+Pârâul Căpiţele
+Pârâul Capolniţeni
+Pârâul Capra
+Pârâul Caprei
+Pârâul Caprelor
+Pârâul Căprioara
+Pârâul Căpuşa
+Pârâul Caragioaica
+Pârâul Carastelecu
+Pârâul Cârjeasca
+Pârâul Cârnul
+Pârâul Caroul Mare
+Pârâul Caroul Mic
+Pârâul Carpenilor
+Pârâul Carpenu
+Pârâul Carpenul
+Pârâul Cârpogul
+Pârâul Căşăriei
+Pârâul Castelu
+Pârâul Cătana
+Pârâul Catarama
+Pârâul Caţcău
+Pârâul cel din Mijloc
+Pârâul cel Mare
+Pârâul Celaru
+Pârâul Cepega
+Pârâul Cerboaia
+Pârâul Cerbul
+Pârâul Cercănelul
+Pârâul Cercănelul Mare
+Pârâul Cercănelul Mic
+Pârâul Ceremuş
+Pârâul Cerna
+Pârâul Cesălor
+Pârâul Cesava
+Pârâul Chebeş
+Pârâul Ched
+Pârâul Cheia Păscoaia
+Pârâul Chicera
+Pârâul Chichişa
+Pârâul Chiciora
+Pârâul Chilieni
+Pârâul Chiliilor
+Pârâul Chindric
+Pârâul Chintenilor
+Pârâul Chinuş
+Pârâul Chiseliţa
+Pârâul Chiua Mare
+Pârâul Chiua Mică
+Pârâul Chiubaniul
+Pârâul Chiulicea
+Pârăul Cibului
+Pârâul Cicerii
+Pârâul Cioara
+Pârăul Ciobănuşului
+Pârâul Ciocana
+Pârâul Ciolacului
+Pârâul Ciolanul
+Pârâul Cireşului
+Pârâul Cişmele
+Pârâul Cisu
+Pârâul Ciucarului
+Pârâul Ciurilei
+Pârâul Ciutei
+Pârâul Cizma Mică
+Pârâul Clăbucelul
+Pârâul Clăbucul
+Pârâul Cladovan
+Pârâul Clicăul
+Pârâul Cloambelor
+Pârăul Clociţilor
+Pârâul Cloşca
+Pârâul Coarnelor
+Pârâul Coaşei
+Pârâul Cocacea
+Pârâul Cocoara
+Pârâul Cocoşul
+Pârâul Codreava
+Pârâul Codrului
+Pârâul Cojocea
+Pârâul Colbu din Faţă
+Pârâul Colibei
+Pârâul Coliberci
+Pârâul Coman
+Pârâul Comăneasa
+Pârâul Comanul Mic
+Pârâul Comorii
+Pârâul Condratu
+Pârăul Copăcelului
+Pârâul Corbul Sec
+Pârâul Corhagau
+Pârâul Corhana
+Pârâul Corhani
+Pârâul Corjen
+Pârăul Corlaţii
+Pârâul Cornăţea
+Pârâul Cornedeia
+Pârâul Cornii
+Pârâul Cornilor
+Pârâul Cornodovata
+Pârăul Costeiului
+Pârâul Costileva
+Pârâul Costitei
+Pârâul Coteţelor
+Pârâul Cotit
+Pârâul Cotul
+Pârâul Covătarul
+Pârâul Cozia
+Pârâul Crăciuneşti
+Pârâul Crângul
+Pârâul Cravensca Mare
+Pârâul Creţan
+Pârâul Cristianu Mare
+Pârâul Cristina
+Pârâul Cristolţel
+Pârâul Crişu Morilor
+Pârâul Criviţa
+Pârâul Crucea
+Pârâul Crucii
+Pârâul cu Halciug
+Pârâul cu Sălcii
+Pârâul cu Steghea
+Pârâul cu Tirsa
+Pârâul cu Tisa
+Pârâul Culpiu
+Pârâul Cununa
+Pârâul Cununschi
+Pârâul Curmătura
+Pârâul Curmăturii
+Pârâul Curta
+Pârâul Cvarova
+Pârâul Dalhat
+Pârâul Dălşesc
+Pârâul Dănileni
+Pârâul Dârminii
+Pârâul Dârmoxa
+Pârâul Darvaş
+Pârâul de Câmpie
+Pârâul de la Fundu Boului
+Pârâul de la Şesul Dahuiului
+Pârâul de pe Vale
+Pârâul Dealul Negru
+Pârâul Dealului
+Pârăul Dejanilor
+Pârâul din Arsură
+Pârâul din Poiană
+Pârâul dintre Gomoaice
+Pârâul Dobra
+Pârăul Dobrosloveştilor
+Pârăul Domanului
+Pârâul Domicuş
+Pârăul Doroteii
+Pârâul Dosul
+Pârăul Drăgoeştilor
+Pârâul Drobotfor
+Pârâul Duduc
+Pârâul Dughert
+Pârâul Dulia
+Pârâul Dumbrava
+Pârâul Dumbrăvan
+Pârâul după Hija
+Pârâul Durgheului
+Pârâul Egher
+Pârâul Eruga
+Pârâul Făgeţelul
+Pârâul Fâneaţa
+Pârâul Fâneţelor
+Pârâul Fântâna
+Pârâul Fântâna Colbazi
+Pârâul Fântânelelor
+Pârăul Fântânelelor
+Pârâul Fâstâca
+Pârâul Faţa
+Pârâul Faurelului
+Pârâul Feiseu
+Pârâul Fericeanului
+Pârâul Feţii de Sus
+Pârâul Feţişoara
+Pârâul Fierul
+Pârâul Fierului
+Pârăul Filpei
+Pârâul Firizan
+Pârâul Flămânda
+Pârâul Florilor
+Pârâul Flucuşeşti
+Pârâul Fluieruşul
+Pârâul Frăsinelul
+Pârâul Frasinul
+Pârâul Frumoasa
+Pârăul Frunteştii
+Pârâul Fugitura
+Pârâul Furcărelul
+Pârâul Gacinoiul
+Pârâul Găiceana
+Pârâul Găina
+Pârâul Gălăşescul Mic
+Pârâul Gârcu
+Pârâul Gârcul Mare
+Pârâul Gârcul Mic
+Pârâul Gârculeţu
+Pârâul Gârleşti
+Pârâul Gâtlan
+Pârâul Găunoasa
+Pârâul Gaură
+Pârâul Găurii
+Pârâul Gemenele
+Pârăul Gerului
+Pârâul Ghicin
+Pârâul Ghilbeiu
+Pârâul Gigolea
+Pârâul Giorghe
+Pârâul Giurgiovei
+Pârâul Gladie
+Pârâul Glâmboca
+Pârâul Glodos
+Pârâul Glodul
+Pârâul Gloduri
+Pârâul Glodurilor
+Pârâul Goldea
+Pârâul Gomoiu
+Pârâul Gorjanul
+Pârâul Gorno Pole
+Pârâul Gorom
+Pârâul Goruiţa
+Pârâul Graivei
+Pârâul Grasca
+Pârâul Greşu
+Pârâul Groapa
+Pârâul Groapa Adâncă
+Pârâul Groapa Mare
+Pârâul Gronor
+Pârâul Groşetu
+Pârâul Groşi
+Pârâul Gurguiata
+Pârâul Hai
+Pârâul Hajmarul Mare
+Pârâul Halicului
+Pârâul Hânsuri
+Pârâul Hănţica
+Pârâul Hârştu
+Pârâul Hedel
+Pârâul Hemeliug
+Pârâul Hivac
+Pârâul Hoarmăş
+Pârâul Hodişa
+Pârâul Hodobei
+Pârâul Hodoş
+Pârâul Holoaca
+Pârâul Honţu
+Pârâul Horumbăţ
+Pârâul Hotarelor
+Pârâul Hotarul
+Pârâul Hotarului
+Pârâul Hrabuzna
+Pârâul Hremetin
+Pârâul Hresi
+Pârâul Hrobi
+Pârâul Hurghişca
+Pârâul Huţu-Ghilăveşti
+Pârâul Iasânuţchi
+Pârâul Iazul Gura Văii
+Pârâul Ibrac
+Pârâul Iedul
+Pârâul Iergacuţei
+Pârâul Iernutul Mare
+Pârâul Ieruga Grinda
+Pârâul Ieruga Mare
+Pârâul Iezeru
+Pârâul Igoaia
+Pârâul Igriş
+Pârăul Ilişoara Mare
+Pârăul Ilva Mare
+Pârâul Imoroasa
+Pârâul Închis
+Pârâul Înşelăciunea
+Pârâul Ionel
+Pârâul Ioviţău
+Pârâul Irimocilor
+Pârâul Irişoara
+Pârâul Iştihaza
+Pârâul Isvarnei
+Pârâul Ivaşcoala
+Pârâul Izvorul Aldiori
+Pârâul Izvorul Arinului
+Pârâul Izvorul Băilor
+Pârâul Izvorul Bombeni
+Pârâul Izvorul Cald
+Pârâul Izvorul Caprei
+Pârâul Izvorul Caprelor
+Pârâul Izvorul Cârligăturii
+Pârâul Izvorul Cârnicului
+Pârâul Izvorul Cârstea
+Pârâul Izvorul cu Pietre Albe
+Pârâul Izvorul de la Cabană
+Pârâul Izvorul Detunat
+Pârâul Izvorul Dobrunu
+Pârâul Izvorul Dracilor
+Pârâul Izvorul Fântânii
+Pârâul Izvorul Frasinului
+Pârâul Izvorul Hriţ
+Pârâul Izvorul Măgurii
+Pârâul Izvorul Mielului
+Pârâul Izvorul Muntelui
+Pârâul Izvorul Popii
+Pârâul Izvorul Rece
+Pârâul Izvorul Rugului
+Pârâul Izvorul Sec
+Pârâul Izvorul Sferda
+Pârâul Izvorul Ursoii
+Pârâul Izvorul Ursului
+Pârâul Izvorului
+Pârâul Jaleşu
+Pârâul Jangul Bradului
+Pârâul Jariştea Mare
+Pârâul Jariştea Mică
+Pârâul Jeleaj
+Pârâul Jigău
+Pârâul Jirnău
+Pârâul Jneapănul Bătrânei
+Pârâul Jnepenişul
+Pârâul Joagărul
+Pârâul Jujivischi
+Pârâul Jupalnic
+Pârâul La Dâmbu cu Pari
+Pârâul La Zoapa
+Pârâul lancu
+Pârâul Langa
+Pârâul Lelici
+Pârâul Leordiş
+Pârâul Lespezi
+Pârâul Leurzii
+Pârâul Libeg
+Pârâul Limpede
+Pârâul Limpedea
+Pârâul Lindina Mare
+Pârâul Lindina Mică
+Pârâul Lostun
+Pârâul Lucava
+Pârâul Luci Dol
+Pârâul Lucina
+Pârâul Lugăşiţei
+Pârâul Lugoju
+Pârâul lui Albu
+Pârâul lui Andrieş
+Pârâul lui Bran
+Pârâul lui Buşilă
+Pârâul lui Ciornei
+Pârâul lui Crucioru
+Pârâul lui Dedea
+Pârâul lui Duduman
+Pârâul lui Ianolii
+Pârâul lui Ivan
+Pârâul lui Maghe
+Pârâul lui Man
+Pârâul lui Mihai
+Pârâul lui Mironică
+Pârâul lui Miuca
+Pârâul lui Roman
+Pârâul lui Samoilă
+Pârâul lui Şerb
+Pârâul lui Stan
+Pârâul lui Vasile
+Pârâul Lujoc
+Pârâul Luminilor
+Pârăul Luncanilor
+Pârâul Luncşoru
+Pârâul Lung
+Pârâul Lupacu Mic
+Pârâul Lupcina
+Pârăul Lupeştilor
+Pârâul Lupului
+Pârâul Măcărlău
+Pârâul Mădăraş
+Pârâul Măgura Mică
+Pârăul Măgurei
+Pârâul Mălaiu
+Pârâul Mănăilă
+Pârâul Mândra
+Pârâul Manole
+Pârăul Mare
+Pârâul Mării
+Pârâul Marmura
+Pârâul Mărului
+Pârăul Mărului
+Pârâul Mâtnicelu
+Pârâul Mâtnicului
+Pârâul Megheşul Mic
+Pârâul Mejinschi
+Pârâul Merişoara
+Pârâul Mesteacănul
+Pârâul Mesteacănului
+Pârâul Mestecănişul Mare
+Pârâul Mestecănişul Mic
+Pârâul Mesterului
+Pârâul Miaca
+Pârâul Mic
+Pârâul Micoşu Mic
+Pârâul Micu
+Pârâul Mielăeşu
+Pârâul Mihoala Mică
+Pârâul Minciulaş
+Pârâul Mioarele
+Pârâul Mirajul
+Pârâul Mişului
+Pârâul Mlaca Fântânii
+Pârâul Mocirla
+Pârâul Mohan
+Pârâul Moreşan
+Pârâul Morii
+Pârâul Mortăuţa
+Pârâul Moşuleaţa
+Pârâul Motoarelor
+Pârâul Moţului
+Pârâul Mugeni
+Pârâul Muncelul
+Pârâul Murgul
+Pârâul Murii
+Pârâul Mutuleanca
+Pârâul Nadveş
+Pârâul Năelad
+Pârâul Năianca
+Pârâul Nărăştia Mare
+Pârâul Nastea
+Pârâul Natra
+Pârâul Nedeii
+Pârâul Negrei
+Pârâul Negru
+Pârâul Negrului
+Pârâul Negura
+Pârâul Neguţei
+Pârâul Neteda
+Pârâul Netedul din Dos
+Pârâul Netedul din Faţă
+Pârăul Netotului
+Pârâul Nicovala Iadului
+Pârâul Nicula
+Pârâul Nimaşului
+Pârâul Nimişoaia
+Pârăul Nistrului
+Pârâul Notelec
+Pârâul Oanţa
+Pârâul Obcioara Mare
+Pârâul Obcioara Mică
+Pârâul Obrăneşti
+Pârâul Ogaşul Comanului
+Pârâul Olăriţei
+Pârâul Opanec
+Pârăul Orbenilor
+Pârâul Orbilor
+Pârâul Oroci
+Pârâul Oseredoc
+Pârâul Oziret
+Pârâul Păcurarul
+Pârâul Padina
+Pârâul Pădureţ
+Pârâul Pădureţul
+Pârâul Pahlevii
+Pârâul Păişu Mare
+Pârâul Palămar
+Pârâul Păltinisul
+Pârâul Păltinişul
+Pârâul Păltinişul Mare
+Pârâul Păltinişul Mic
+Pârâul Pâltinoasa Mare
+Pârâul Paltinului
+Pârăul Pănceştilor
+Pârâul Pantu
+Pârâul Parincea
+Pârâul Pârul
+Pârâul Pasişni
+Pârâul Păstăriei
+Pârâul Pereschivul Mare
+Pârâul Pereschivul Mic
+Pârâul Pereţilor
+Pârâul Perilor
+Pârâul Peşteriţei
+Pârâul Petreştii
+Pârăul Pianului
+Pârâul Piatra
+Pârâul Piatra Caprei
+Pârâul Piatra Morii
+Pârâul Piatra Ursului
+Pârâul Piatra Uscată
+Pârâul Piciorului
+Pârâul Pietrelor
+Pârâul Pietricele
+Pârâul Pietrii
+Pârâul Pietrişul
+Pârâul Pietroşiţa
+Pârâul Pietrosul
+Pârâul Pihoaia
+Pârâul Piscul
+Pârâul Pisoi
+Pârâul Plăieşul
+Pârâul Plaşei
+Pârâul Plavişeviţa
+Pârâul Pleaşa
+Pârâul Plopilor
+Pârâul Poarta
+Pârâul Pogonişoara
+Pârâul Pohoniş
+Pârâul Poienilor
+Pârâul Poieniţa
+Pârâul Pojorasca
+Pârâul Poliţa
+Pârâul Polome
+Pârâul Popilnica Mică
+Pârâul Porcul
+Pârâul Porcului
+Pârâul Predelu Mic
+Pârâul Preluca
+Pârâul Preluci
+Pârâul Prelucii
+Pârâul Pria
+Pârâul Prigor
+Pârâul Pripasna
+Pârâul Prisaca
+Pârâul Prunilor
+Pârâul Pruniş
+Pârâul Purcarilor
+Pârâul Puricilor
+Pârâul Puturos
+Pârâul Puturosul
+Pârâul Răcătăul
+Pârâul Răchiţelelor
+Pârâul Răchitişul
+Pârâul Racoşu
+Pârâul Racova
+Pârâul Racovăţ
+Pârâul Racoviţa
+Pârăul Racşei
+Pârâul Racta
+Pârâul Rădeasa
+Pârăul Rădenilor
+Pârâul Radului
+Pârâul Rădvănelul
+Pârâul Rafnic
+Pârâul Raiu
+Pârâul Râmnizvor
+Pârâul Rânjeu Mare
+Pârâul Rânjeu Mic
+Pârâul Rapatac
+Pârâul Râpelor
+Pârâul Râştiu
+Pârâul Răstoacelor
+Pârâul Râtul
+Pârâul Râtul Mic
+Pârâul Râuşor
+Pârâul Repedea
+Pârăul Rogovei
+Pârâul Roman
+Pârâul Rompătel
+Pârâul Rosisna
+Pârâul Rosohata
+Pârâul Roşoşa
+Pârâul Roşoşa Mare
+Pârâul Roşoşa Mică
+Pârâul Roşuşna
+Pârăul Rotbavului
+Pârâul Rotund
+Pârâul Rovina
+Pârâul Rugului
+Pârâul Runcu
+Pârâul Rupturi
+Pârâul Ruscanul
+Pârâul Ruscioara
+Pârâul Saca
+Pârâul Sacari
+Pârâul Săcel
+Pârâul Sadău
+Pârâul Şagău
+Pârâul Şagu
+Pârâul Saha
+Pârâul Sălaşu
+Pârâul Sălaşul
+Pârâul Şalelor
+Pârâul Saloneţul
+Pârăul Sâmbetei
+Pârâul Sârânca
+Pârâul Sarasău
+Pârâul Sarat
+Pârâul Sărat
+Pârâul Sărata
+Pârâul Şasa
+Pârâul Săteanu
+Pârâul Satul
+Pârâul Satului
+Pârăul Săvăstrenilor
+Pârâul Scăldători
+Pârâul Şchiopul
+Pârâul Şchiopului
+Pârâul Scorburoasa
+Pârâul Scorţarul
+Pârâul Scoruşna
+Pârâul Scoruşului
+Pârăul Sebeşului
+Pârâul Secaciu
+Pârâul Secul
+Pârâul Secuţa
+Pârâul Sedişorului
+Pârâul Selinu
+Pârâul Sepriod
+Pârâul Seracova Mare
+Pârâul Şerboaia
+Pârâul Serdiuca
+Pârâul Şetruc
+Pârâul Sforac
+Pârâul Siciu
+Pârăul Siciului
+Pârâul Sila
+Pârâul Silii
+Pârâul Şindrilăria
+Pârâul Sineasa
+Pârâul Şipotului
+Pârâul Şirvihu
+Pârâul Siva
+Pârâul Slatinei
+Pârâul Sludnica
+Pârâul Socul
+Pârâul Şofrana
+Pârâul Sofroneşti
+Pârâul Şoimuşu
+Pârâul Solnici
+Pârâul Solona
+Pârâul Solovata
+Pârâul Şomârdu
+Pârâul Somnul
+Pârâul Somoş
+Pârâul Sorarca
+Pârâul Soroş
+Pârâul Spenţova
+Pârâul Spinilor
+Pârâul Spre Strungi
+Pârâul Stâna
+Pârâul Stâna Sasului
+Pârâul Stâncii
+Pârâul Stânişoara
+Pârâul Stănişoara
+Pârâul Stanişta
+Pârâul Stavnicul Sec
+Pârâul Sterpu
+Pârâul Ştevioara Mare
+Pârâul Ştevioara Mică
+Pârâul Stoia
+Pârâul Stoicu
+Pârâul Străjeşti
+Pârâul Străjii
+Pârâul Strâmbu-Băiuţ
+Pârâul Streaurile
+Pârâul Strejului
+Pârâul Stremţ
+Pârâul Stroieşti
+Pârâul Struna
+Pârâul Sturii Mari
+Pârâul Sturii Mici
+Pârâul Sturişorilor
+Pârâul Sturu
+Pârâul Sturzul
+Pârâul Suacea
+Pârâul sub Păşune
+Pârâul Sub Rădăcini
+Pârâul Suburdău
+Pârâul Suciu
+Pârâul Şugatag
+Pârâul Şugău Bârlanului
+Pârâul Şugău Turtulis
+Pârâul Şuligul de Jos
+Pârâul Şuligul de Sus
+Pârâul Suliţa
+Pârăul Susenilor
+Pârâul Tălămba
+Pârâul Ţapu Mic
+Pârâul Ţapului
+Pârâul Taria
+Pârâul Tarna Mare
+Pârâul Ţârului
+Pârâul Tasin
+Pârâul Tătarca Mare
+Pârâul Tătărcuţa
+Pârâul Tatomireşti
+Pârâul Teiului
+Pârâul Telejna
+Pârâul Temnic
+Pârâul Tertila
+Pârâul Ţiganilor
+Pârâul Ţiganul
+Pârâul Ţiganului
+Pârăul Ţiganului
+Pârâul Timofte
+Pârâul Tinos
+Pârâul Ţiptelnic
+Pârâul Ţişlişoara
+Pârâul Ţişlişoara Mare
+Pârâul Ţişlişoara Mică
+Pârâul Tisoveţ
+Pârâul Tocear
+Pârâul Tocila
+Pârăul Tojanului
+Pârâul Tomchiul Mare
+Pârâul Tomchiul Mic
+Pârâul Tomnaticul
+Pârâul Tomnaticul Mare
+Pârâul Totuşca Mare
+Pârâul Totuşca Mică
+Pârăul Trebiş
+Pârâul Trestia
+Pârăul Trestiei
+Pârâul Trufin
+Pârâul Tufari
+Pârâul Tufarul
+Pârâul Tunelu
+Pârâul Turculeţul
+Pârâul Turnurel
+Pârâul Ţurţ
+Pârâul Ucişoara Seacă
+Pârâul Ulieş
+Pârâul Ulma
+Pârâul Ursoiţa
+Pârâul Ursoiul
+Pârâul Uşor
+Pârâul Văcăria
+Pârâul Văduţul
+Pârâul Valea
+Pârâul Valea Albă
+Pârâul Valea Babei
+Pârâul Valea Călugăra
+Pârâul Valea Fântânii
+Pârâul Valea Iazului
+Pârâul Valea Largă
+Pârâul Valea Lungă
+Pârâul Valea Mare
+Pârâul Valea Mihoaia
+Pârâul Valea Oltani
+Pârâul Valea Secaşului
+Pârâul Vălenilor
+Pârâul Valinici
+Pârâul Vâna Silii
+Pârâul Văraticu
+Pârâul Varga
+Pârâul Vărsătorilor
+Pârâul Varţa
+Pârâul Vârtejelor
+Pârâul Văşcoaia
+Pârâul Vasilache
+Pârâul Vătăjelu
+Pârâul Vederii
+Pârâul Vej
+Pârâul Vejul Mare
+Pârâul Vejul Mic
+Pârâul Velecica
+Pârâul Velna
+Pârâul Velniţa
+Pârâul Vinişorul
+Pârâul Viştea Mare
+Pârâul Viştişoara
+Pârâul Vladimurile
+Pârâul Vlădului
+Pârâul Vlănicel
+Pârâul Vodnic
+Pârâul Voia
+Pârâul Voineagul Doi
+Pârâul Voineagul Unu
+Pârăul Voloşcanii
+Pârâul Vulturului
+Pârâul Zămbranului
+Pârâul Zănoaga
+Pârâul Zariştea Mare
+Pârâul Zariştea Mică
+Pârâul Zăvoi
+Pârâul Zburătura
+Pârâul Zeldişu
+Pârâul Zmeura
+Pârâul Zmeuriş
+Păşcănia
+Păscoaia
+Pascopul
+Păuca
+Păucea
+Păuşa
+Pe Vale
+Peceneaga
+Peletlia
+Pentaia
+Pereschivul
+Perişani
+Permoşeni
+Pesceana
+Peşteana
+Pet
+Petac
+Petrilaca
+Petrimiasa
+Pietroasa
+Pietrosul
+Pinilor
+Pistriuţa
+Plapcea
+Pleşcuţa
+Plopoasă
+Plopul
+Plosca
+Pocruia
+Pogăniş
+Poiana
+Poiana Lunga
+Pojejena
+Poneasca
+Ponoară
+Popeşti
+Popilnica
+Porceaca
+Potamichea
+Potoc
+Potop
+Pozen
+Prahova
+Priboiasa
+Priboiul
+Prihodisti
+Prisaca
+Privalul Băroiul
+Privalul Berzasca
+Privalul Brezasca
+Privalul Ilova Mica
+Privalul Lighidia
+Privalul Micoşu
+Privalul Miniş
+Privalul Ramadan
+Privalul Rudăria
+Privalul Toroniţa
+Privalul Valea Măcestilor
+Privalul Valea Şopotului
+Privalul Vicinic
+Probota
+Proviţa
+Puru
+Putina
+Putna Mare
+Putna Mică
+Puţul Ogarului
+Rablea
+Răcătău
+Răchitova
+Racoviţa
+Racul
+Rădiciu
+Radila
+Radna
+Radu
+Raicu
+Râmna
+Râmniceanca
+Râncăciov
+Rândibou
+Rânghileşti
+Rânjeu
+Ranta
+Râpa Bălaia
+Râpa Cărămizii
+Râpa Druţeşti
+Râpa Odăii
+Râpă Roşie
+Râpa Ţigăncii
+Râpa Uliului
+Rasa
+Râşca
+Raşcova
+Rasova
+Răstoaca
+Raţa
+Râtul Mare
+Râu Doamnei
+Râu Târgului
+Râura
+Râuşorul
+Raveneasca Mică
+Ravensca
+Rebra
+Rebricea
+Rebricea Seaca
+Remetea
+Remezeu
+Reviga
+Ripsenia
+Robaia
+Rojiştea
+Rona
+Rora
+Roşcani
+Roşioara
+Ruda
+Rudar
+Rudăreasa
+Ruginosul
+Runc
+Runcul
+Rupturii
+Ruşavăţul
+Ruşcova
+Rusul
+Sabar
+Săcele
+Sacherstiţa
+Sacovăţ
+Sacrieş
+Sadocuţ
+Sădurel
+Şaeşul
+Sălaj
+Sălătruc
+Sălăuţa
+Salcia
+Sălicea
+Sălişte
+Săliştiuţa
+Sâlţa
+Samnicul
+Sărat
+Sărăţuica
+Sărături
+Şarba
+Sartoşul
+Saru
+Săruri
+Sărvăzel
+Săsar
+Şăulia
+Săvuleşti
+Scânteia
+Scărişoara
+Şchiopeni
+Scoreiului
+Scrada
+Scurta
+Seaca
+Sebiş
+Secul
+Sedloco
+Segheş
+Şeica
+Serăstrău
+Şercaia
+Seret
+Şerplea
+Şes
+Sfârcaş
+Sibişel
+Sicheviţa
+Şicova
+Sicso
+Şieu
+Sighişoara
+Sihna
+Siliştea
+Simila
+Similişoara cu Apa
+Siminoc
+Şinca
+Şinel
+Sineşti
+Singai
+Sitorman
+Slătioara
+Slava
+Slivna
+Snamăna
+Şoarecu
+Şoblan
+Soci
+Socul
+Sodol
+Sodom
+Şoimoş
+Solca
+Solocma
+Solonca
+Soloneţ
+Someşu
+Someşu Cald
+Someşu Mic
+Someşu Rece
+Someşul Mare
+Şomuzu Mare
+Şopot
+Soroştin
+Şovăiţa
+Spânu
+Stăpâniş
+Stârcoasa
+Staura
+Stăvnicel
+Şteia
+Şteier
+Stejaru
+Sterpu
+Stirlivăţ
+Ştiuca
+Stoeneşa
+Stolna
+Strâmbişoara
+Strâmbul
+Strâmtura
+Strei
+Stroeşti
+Strujinoasa
+Studineţ
+Stuhuleţ
+Suat
+Suceag
+Suceava
+Suceviţa
+Suciul
+Sudriaş
+Şugatag
+Suha Mare
+Suhodol
+Suhu
+Suhurului
+Sulţa
+Şumuleu
+Surduc
+Şurgani
+Şurina
+Şuşara
+Suşiţa
+Száraz Ér
+Tabana
+Tabăra
+Taia
+Taietura
+Talna
+Talna Mică
+Talpe
+Tămarca
+Tapia
+Tărâia
+Tărăţel
+Tărcăiţa
+Tarcău
+Tărhăuş
+Tărlungul
+Tărnauca
+Târnava Mare
+Târnava Mică
+Târşolţ
+Tăşad
+Tătlăgeacul Mare
+Tazlău
+Tazlăul Sărat
+Teaca
+Techera
+Teiuşul
+Teleajen
+Teleina
+Teleorman
+Teliţa
+Teregova
+Terova
+Teslui
+Tetila
+Teuz
+Ţibre
+Tibrin
+Tichirişul
+Tiha
+Timiş
+Timişoara
+Tisăul
+Tişiţa
+Tişiţa Mică
+Tisla
+Tismana
+Tisoviţa
+Todireasa
+Tohăneanca
+Tohaniţa
+Tohanu
+Tomnatecului
+Topa
+Topârcioara cu Apă
+Topasca
+Topila
+Topolniţa
+Trecătoarea
+Trei Holâmburi
+Trestenic
+Tria
+Trotuş
+Tuleşti
+Tur
+Turbaţi
+Turia
+Turţ-Hodoş
+Turul
+Tutova
+Ucea
+Ucişoara
+Ucuriş
+Ugra
+Ulmul Mare
+Unu
+Urdeşti
+Urluia
+Ursa
+Urşiţa
+Urviş
+Usturoi
+Uzul
+Vâlceaua Fântânii
+Valea Adeschi
+Valea Agriş
+Valea Alacului
+Valea Albuleasa
+Valea Albului
+Valea Almaş
+Valea Almaşului
+Valea Alunetului
+Valea Apei
+Valea Aprodului
+Valea Arămiş
+Valea Arăneag
+Valea Arcaciu
+Valea Archişel
+Valea Arieşul
+Valea Arjochi
+Valea Arşiţa
+Valea Artana
+Valea Aurită
+Valea Babaroci
+Valea Babei
+Valea Baciului
+Valea Bacşaişului
+Valea Băgăului
+Valea Baia
+Valea Băiţei
+Valea Balacilor
+Valea Bălăneşti
+Valea Balaurului
+Valea Balmoşului
+Valea Băloaica
+Valea Balostoneasa
+Valea Bălosului
+Valea Balotei
+Valea Balta Raţei
+Valea Bălţatului
+Valea Băluţii
+Valea Baracului
+Valea Bărcu
+Valea Bârgălui
+Valea Bârlan
+Valea Bârlogu
+Valea Barnodului
+Valea Bârsacilor
+Valea Bârsei
+Valea Bârzeiu
+Valea Băseni
+Valea Basineasca
+Valea Bătrânei
+Valea Bazna
+Valea Bechianca
+Valea Begeni
+Valea Beiorman
+Valea Bejului
+Valea Belmezeului
+Valea Benedicului
+Valea Berbecului
+Valea Betiga
+Valea Bica
+Valea Bilei
+Valea Biţonea
+Valea Blidaru
+Valea Bloaja
+Valea Blohaia
+Valea Blondă
+Valea Bobdeşti
+Valea Boceana
+Valea Bodeasa
+Valea Bogdona
+Valea Bohotin
+Valea Boia
+Valea Boicioara
+Valea Boierească
+Valea Bolborosu
+Valea Boncea
+Valea Bondocilor
+Valea Borcea
+Valea Borcutului
+Valea Bordei
+Valea Borelului
+Valea Boştinaru
+Valea Botcea
+Valea Bou
+Valea Boziana
+Valea Brăcanului
+Valea Brăduleţu
+Valea Bradului
+Valea Braniştei
+Valea Brânza
+Valea Brateş
+Valea Bratia
+Valea Bratila
+Valea Brehoaia
+Valea Brenei
+Valea Breoaia
+Valea Breşlag
+Valea Bretan
+Valea Brusnicul Seac
+Valea Bucăţii
+Valea Bucegi
+Valea Bucinilor
+Valea Bucium
+Valea Bucoviţa
+Valea Budeştilor
+Valea Budichi
+Valea Budineac
+Valea Budurului
+Valea Bughelea
+Valea Buhaiului
+Valea Buhlea
+Valea Buianului
+Valea Bujorăscu
+Valea Bulzilor
+Valea Bumbuia
+Valea Bundunoiu
+Valea Burdea
+Valea Burlugu
+Valea Burugiul
+Valea Buteanu
+Valea Butnăriei
+Valea Buzatului
+Valea Buzei
+Valea Cabul
+Valea Cădăreşti
+Valea Călămari
+Valea Caldă
+Valea Caldă Mare
+Valea Căldării
+Valea Călinii
+Valea Călinioarii
+Valea Călmăţuiul Sec
+Valea Câlnicului
+Valea Călugărească
+Valea Călugăreni
+Valea Călugăriţa
+Valea Canarale
+Valea Cânepei
+Valea Cantoanelor
+Valea Cantonului
+Valea Căpăţâna
+Valea Căpătânii
+Valea Căprioarei
+Valea Capul Negru
+Valea Carabalâc
+Valea Caracău
+Valea Carapelit
+Valea Cărării
+Valea Caratoiu Mic
+Valea Cărbunăreasa
+Valea Cărbunarului
+Valea Cărbunelui
+Valea Cârciumeni
+Valea Carelor
+Valea Carieriei
+Valea Cârligata
+Valea Cârligăţia
+Valea Cârnu
+Valea Cârstei
+Valea Cartei
+Valea Cartoafelor
+Valea Căruţaşilor
+Valea Casimcea
+Valea Caşolţului
+Valea Cataloiului
+Valea Cauna
+Valea Cauniţa
+Valea Căuşa Mare
+Valea Cazangiei
+Valea Ceatal
+Valea Celea Mare
+Valea Cepei
+Valea Cerbicani
+Valea Cerii
+Valea Cernele
+Valea Certieni
+Valea Cetăţelei
+Valea Cetăţuii
+Valea Chelarului
+Valea Cherbelez
+Valea Chersca
+Valea Cherturilor
+Valea Cherul Mociarului
+Valea Chicera
+Valea Chicerei
+Valea Chilugului
+Valea Chiorum Tarla
+Valea Chioveanului
+Valea Chiriceşti
+Valea Chiselor
+Valea Chişului
+Valea Cilibichioi
+Valea Cimpoiaşului
+Valea Cinci Bordeie
+Valea Cincuşoara
+Valea Cinezii
+Valea Ciocadelului
+Valea Ciocului
+Valea Cioeniţa
+Valea Cioneştiului
+Valea Ciopeica
+Valea Ciornohal
+Valea Cirdlovăţ
+Valea Cişmeaua Lupului
+Valea Ciubotei
+Valea Ciumaina
+Valea Ciunganilor
+Valea Ciungilor
+Valea Ciuşu Mare
+Valea Ciuşu Mic
+Valea Ciuşului
+Valea Ciutei
+Valea Cloşca
+Valea Cloştii
+Valea Coada Mălinei
+Valea Coada Surdului
+Valea Cocinii
+Valea Cociuba
+Valea Cocoraşului
+Valea Cocorul
+Valea Colbul din Dos
+Valea Comorii
+Valea Comorilor
+Valea Conacelor
+Valea Condăreasa
+Valea Copăceana Mică
+Valea Copacilor
+Valea Copileştilor
+Valea Copoiului
+Valea Corciu
+Valea Corhani
+Valea Corimbatul
+Valea Corlan
+Valea Corlişaţa
+Valea Corneşiţa
+Valea Cornetu
+Valea Cornetului
+Valea Corodeşti
+Valea Coroieşti
+Valea Corzii
+Valea Coşoviţa
+Valea Costea
+Valea Cozlac
+Valea Crăciuneasca
+Valea Cracu Mirei
+Valea Cracu Pământului
+Valea Cracul cu Mai
+Valea Cracului
+Valea Craica
+Valea Crăiesei
+Valea Craiului
+Valea Crângului
+Valea Cremenoasa
+Valea Cristian
+Valea Crivileaş
+Valea Crovului
+Valea Crucilor
+Valea Cruşoviţa
+Valea cu Carpeni
+Valea cu Fagi
+Valea cu Goruni
+Valea cu Piatră
+Valea cu Raci
+Valea cu Răghii
+Valea cu Soci
+Valea cu Urzici
+Valea Cuceului
+Valea Cufundoasă
+Valea Curdeli
+Valea Curgău
+Valea Curtul Mare
+Valea Cuşba
+Valea Custurii
+Valea Cuţilor
+Valea Dadei
+Valea Dadovarului
+Valea Dălbăneasa
+Valea Dâlboaca
+Valea Dâlbocii
+Valea Dămăcuşa
+Valea Dămăscus
+Valea Dâmpului
+Valea Danca
+Valea Dârscota
+Valea de Către Sebeş
+Valea de Runcu
+Valea Degia
+Valea Deluşelului
+Valea Denei
+Valea Dezmirului
+Valea Diaconului
+Valea Diboca
+Valea Didileşti
+Valea din Rumâni
+Valea Dincăi
+Valea Dobrota
+Valea Dobrusei
+Valea Dochini
+Valea Dogarului
+Valea Dognecei
+Valea Dohului
+Valea Dolii
+Valea Domşa
+Valea Dosul Mare
+Valea Două Pârâuri
+Valea Dovrigelu
+Valea Drăgoi
+Valea Drăguş
+Valea Droşculeşti
+Valea Drumul Roşu
+Valea Dulgherului
+Valea Dumbrăviţei
+Valea după Vii
+Valea Duplii
+Valea Duruitoarea
+Valea Duţului
+Valea Elicu
+Valea Enăşoanea
+Valea Enigelei
+Valea Ergheviţa
+Valea Eschigiu
+Valea Esterului
+Valea Ezerei
+Valea Ezerişel
+Valea Ezitura
+Valea Făcuţi
+Valea Făgiurar
+Valea Făjăţel
+Valea Fântâna Blănarului
+Valea Fântâna Sofronoaia
+Valea Fântâna Ţiganului
+Valea Fântâneanca
+Valea Fântânei
+Valea Fântânilor
+Valea Fântâniţa
+Valea Fânului
+Valea Faraoani
+Valea Feneş
+Valea Feredeaua
+Valea Ferica
+Valea Fericei
+Valea Fericii
+Valea Fetei
+Valea Feţei
+Valea Feţii
+Valea Fieşului
+Valea Firidelor
+Valea Firului
+Valea Fitileasa
+Valea Florilor
+Valea Foii
+Valea Forău
+Valea Frâncului
+Valea Fratelui
+Valea Fundătura Mare
+Valea Fundătura Mică
+Valea Fundăturei
+Valea Fundăturii
+Valea Fundul Boziei
+Valea Fundului
+Valea Funduri
+Valea Furciturel
+Valea Fusarul
+Valea Găineşti
+Valea Găinuşa
+Valea Găitan
+Valea Găleţii
+Valea Gălpâia
+Valea Gârbova Şieu
+Valea Gârcov
+Valea Gardului
+Valea Gârliţa
+Valea Găunoşiţa
+Valea Găvanei
+Valea Gelepculac
+Valea Gemeniţa
+Valea Gherlii
+Valea Ghişcului
+Valea Gladului
+Valea Gligan
+Valea Glimboca
+Valea Glimeini
+Valea Goală
+Valea Goga
+Valea Goia
+Valea Goideşti
+Valea Gologanu
+Valea Goroha
+Valea Gorohi
+Valea Goronilor
+Valea Grădinarilor
+Valea Grădiştei
+Valea Grânelor
+Valea Grâului
+Valea Greasca
+Valea Greblei
+Valea Greşilor
+Valea Gresului
+Valea Grid
+Valea Groapa Fântânii
+Valea Groapa Fâşii
+Valea Gropii
+Valea Gropilor
+Valea Gropoasa
+Valea Groşerei
+Valea Groşilor
+Valea Gruieţilor
+Valea Gruilor
+Valea Gruiu
+Valea Gruiului
+Valea Gruniul Crişului
+Valea Gruniul Roşu
+Valea Guguneasca
+Valea Gura Viilor
+Valea Gurguiata
+Valea Gurguieţilor
+Valea Guşatului
+Valea Guşului
+Valea Hâiturii
+Valea Halaşelor
+Valea Hămăradia
+Valea Hanoşa
+Valea Hânsurile
+Valea Hanţa
+Valea Harangilor
+Valea Hăşmaşel
+Valea Hăşmaşului
+Valea Havralici
+Valea Herătău
+Valea Herii
+Valea Highişului
+Valea Hinchirişului
+Valea Hindichiu
+Valea Hoanca
+Valea Hoapecu
+Valea Hodobana
+Valea Hodoş
+Valea Homorâciului
+Valea Homoricea
+Valea Horga
+Valea Horgeşti
+Valea Hotărasa
+Valea Hrăii
+Valea Hreasca
+Valea Hulei
+Valea Humăriei
+Valea Hurduzău
+Valea Hutile
+Valea Iaila
+Valea Ialinca
+Valea Iancului
+Valea Iazului
+Valea Idirezului
+Valea Iepei
+Valea Iepii
+Valea Iermarului
+Valea Ieruga
+Valea Iezii
+Valea Ignăteasa
+Valea Igoaia
+Valea Ihoasa
+Valea Ila
+Valea Ilovişca
+Valea Imbrului
+Valea Indricău
+Valea Înecăturii
+Valea Însiratele
+Valea Ioaniş
+Valea Işenilor
+Valea Iugani
+Valea Iui Bran
+Valea Ivănuş
+Valea Izcioara
+Valea Izlazul Vteranilor
+Valea Izvoru Roşu
+Valea Izvorul Boului
+Valea Izvorul Găujani
+Valea Izvorul Gheţarului
+Valea Izvorul Leului
+Valea Izvorul Muntenilor
+Valea Izvorul Paltinului
+Valea Izvorul Podul Giurgiu
+Valea Izvorul Runcului
+Valea Izvorul Vacii
+Valea Jârcii
+Valea Jariştei
+Valea Jernoviţei
+Valea Jianca
+Valea Jidovina
+Valea Jidoviţa
+Valea Jirca Mare
+Valea Jirca Mică
+Valea Josan
+Valea Jugului
+Valea Jupei
+Valea Juventul Mare
+Valea Lacului
+Valea Lăineşti
+Valea Lămăşoaia
+Valea Langaş
+Valea Lărguţa
+Valea Lăudata
+Valea Lăzăreştilor
+Valea Leaua
+Valea Lehancea
+Valea Leşilor
+Valea Lespezi
+Valea Leşului
+Valea Lineasca
+Valea Lipăuţului
+Valea Lipiei
+Valea Locoanului
+Valea Lotului
+Valea Lozoviţei
+Valea Luchii
+Valea lui Andrei
+Valea lui Anine
+Valea lui Avram
+Valea lui Bălan
+Valea lui Balea
+Valea lui Brabelea
+Valea lui Bucur
+Valea lui Ciaca
+Valea lui Ciulei
+Valea lui Coadă
+Valea lui Coman
+Valea lui Cosma
+Valea lui Crăciun
+Valea lui Culac
+Valea lui Custure
+Valea lui Dan
+Valea lui Darie
+Valea lui Dej
+Valea lui Dunacu
+Valea lui Fătu
+Valea lui Gheorghe
+Valea lui Gligor
+Valea lui Holdiş
+Valea lui Ilie
+Valea lui Ioniţă
+Valea lui Iordan
+Valea lui lancu
+Valea lui Laţ
+Valea lui Mămăligă
+Valea lui Mandagiu
+Valea lui Matei
+Valea lui Miulă
+Valea lui Moise
+Valea lui Nan
+Valea lui Neagu
+Valea lui Nicolaie
+Valea lui Odobescu
+Valea lui Şandoru
+Valea lui Sdrobis
+Valea lui Ştefăniţă
+Valea lui Tobă
+Valea lui Traşcă
+Valea lui Trişcă
+Valea lui Vasile
+Valea lui Vereş
+Valea lui Vlad
+Valea lui Voda
+Valea lui Vodă
+Valea lui Voicu
+Valea Lunca Satului
+Valea Luncii
+Valea Luncilor
+Valea Luncuţa
+Valea Luntrişoarei
+Valea Lupa Mare
+Valea Lupăriei
+Valea Măcrişului
+Valea Măcsineasca
+Valea Macului
+Valea Măgarilor
+Valea Măgeana
+Valea Măgura
+Valea Mălăişte
+Valea Malcoci
+Valea Mămuleţului
+Valea Mânăstirii
+Valea Mangului
+Valea Mărăuşa
+Valea Mareş
+Valea Marghişoara
+Valea Maria
+Valea Marin
+Valea Măslinei
+Valea Matalan
+Valea Mateiesei
+Valea Mâţelor
+Valea Medişa
+Valea Megheşul Mare
+Valea Meilor
+Valea Meiului
+Valea Melcera
+Valea Memeşului
+Valea Mereţeu
+Valea Merişor
+Valea Mesteacăn
+Valea Mesteacănul
+Valea Mesteacănului
+Valea Mielului
+Valea Mieragului
+Valea Mierasela
+Valea Mihăiasa
+Valea Mihalu
+Valea Mihoc
+Valea Milei
+Valea Minţica
+Valea Mirajul Mic
+Valea Mirioarei
+Valea Miului
+Valea Mizeşului
+Valea Mlenoviţa
+Valea Molăneasa
+Valea Morişcăi
+Valea Mortănuş
+Valea Moşi
+Valea Moşteanului
+Valea Motanului
+Valea Moţoaia
+Valea Moţui
+Valea Mozna
+Valea Mraconiei
+Valea Munceii Albi
+Valea Muncelului
+Valea Murelor
+Valea Murgoci
+Valea Muşchioasa
+Valea Muşuroaielor
+Valea Nadaşei
+Valea Năneşti
+Valea Nărăştia Mare
+Valea Nărăştilor
+Valea Neacşu
+Valea Neagului
+Valea Nedeii
+Valea Negoiescu
+Valea Negrea
+Valea Negriţa
+Valea Nemţilor
+Valea Nerad
+Valea Neresenu
+Valea Nergheş
+Valea Nesii
+Valea Netului
+Valea Nicuşei
+Valea Nisului
+Valea Noapteşei
+Valea Novcea
+Valea Nucilor
+Valea Nucului
+Valea Oarădilor
+Valea Obianda
+Valea Ocolului
+Valea Odăii Beteag
+Valea Oii Mari
+Valea Oii Mici
+Valea Olarilor
+Valea Olaru
+Valea Olasca Balca
+Valea Omeagului
+Valea Oraşului
+Valea Ormangic
+Valea Orniţa
+Valea Orzina
+Valea Osâmbei
+Valea Osoiului
+Valea Ostrica
+Valea Oţeloaia
+Valea Ozdesei
+Valea Păcăului
+Valea Păduricei
+Valea Padurii
+Valea Păişului
+Valea Palăncii
+Valea Paltinilor
+Valea Păltinoasa Mică
+Valea Paltinului
+Valea Păntuţa
+Valea Pănuşească
+Valea Parchetului
+Valea Parcioaia
+Valea Pârgului
+Valea Pârloagelor
+Valea Pârna
+Valea Părului
+Valea Păruşului
+Valea Pârvii
+Valea Pârvu Roşu
+Valea Pâslaru
+Valea Pasosu
+Valea Păstrăvei
+Valea Păucii
+Valea Păvăloaia
+Valea Peceiu
+Valea Periculoasă
+Valea Perilor
+Valea Peringării
+Valea Petroşiţa
+Valea Pietrelor
+Valea Pietricelelor
+Valea Pietrii
+Valea Pietroasei
+Valea Pipirigului
+Valea Pirpiriu
+Valea Plăiuţ
+Valea Plescioarei
+Valea Pleşcuţei
+Valea Pleşeşti
+Valea Pleşului
+Valea Plopilor
+Valea Plopului
+Valea Pocivalişte
+Valea Pocolei
+Valea Poiana Vântului
+Valea Poienilor
+Valea Polii
+Valea Pomişoarelor
+Valea Ponoave
+Valea Pontului
+Valea Popeasa
+Valea Porcarului
+Valea Potârnichea
+Valea Potecilor
+Valea Potoc
+Valea Povilu
+Valea Priba Mare
+Valea Priba Mică
+Valea Priboia Mică
+Valea Priboiului
+Valea Prihodişte
+Valea Prisăcelelor
+Valea Prosanichei
+Valea Pucioasa
+Valea Punga
+Valea Pungii
+Valea Purcăreaţa
+Valea Purcărelu
+Valea Purcariului
+Valea Purcaru
+Valea Pustie
+Valea Puţul Vochin
+Valea Răchiţii
+Valea Răchiţoaia
+Valea Răciţa
+Valea Racoş
+Valea Racova
+Valea Racovii
+Valea Racşa
+Valea Racul
+Valea Rădeşti
+Valea Raditii
+Valea Radomii
+Valea Rahmanului
+Valea Răicuţa
+Valea Raita
+Valea Rânceni
+Valea Rânzasca
+Valea Râpa Lungă
+Valea Râpa Răchita
+Valea Râpele
+Valea Râpele Surcelei
+Valea Rătezului
+Valea Râului
+Valea Râusoru
+Valea Răzoarelor
+Valea Rea de Sus
+Valea Reaua Mare
+Valea Reaua Mică
+Valea Recea
+Valea Recelea
+Valea Rediului
+Valea Rizii
+Valea Roata
+Valea Roba
+Valea Robitului
+Valea Rogoaza
+Valea Rogojinei
+Valea Rogoz
+Valea Rogoza
+Valea Rogozei
+Valea Roia Mare
+Valea Rojina
+Valea Rojiniţa
+Valea Romană
+Valea Romaniţei
+Valea Roncei
+Valea Ropina
+Valea Roşagului
+Valea Roşca
+Valea Roşcani
+Valea Roştilor
+Valea Rostoşa
+Valea Rostoşuica
+Valea Roşuţii
+Valea Rubişului
+Valea Ruda Mică
+Valea Rudăriţei
+Valea Ruginii
+Valea Runcşorului
+Valea Runcu
+Valea Rupturilor
+Valea Rusasca
+Valea Ruşeţului
+Valea Ruşilor
+Valea Rusului
+Valea Sacovăţ
+Valea Sâgului
+Valea Sâi Bătrâni
+Valea Sălăoaşea
+Valea Sălăştiuţa
+Valea Sălătrucului
+Valea Sălbii
+Valea Salciei
+Valea Sălciilor
+Valea Săliştei
+Valea Sângerişu
+Valea Sângerişului
+Valea Sâniacob
+Valea Sărăneac
+Valea Săraru Mic
+Valea Sârbeasca
+Valea Sarbede
+Valea Sârca
+Valea Sării
+Valea Şarpelui
+Valea Sarului
+Valea Săsuleţul Mare
+Valea Sasului
+Valea Scaunului
+Valea Schibului
+Valea Scoarţei
+Valea Scoruşului
+Valea Scrada
+Valea Scradei
+Valea Scredelului
+Valea Scredoasa Mare
+Valea Scroafei
+Valea Scurtu
+Valea Secărelelor
+Valea Secării
+Valea Secaş
+Valea Secei
+Valea Secului
+Valea Şeici
+Valea Şeicinea
+Valea Senatorului
+Valea Seracova Mare
+Valea Şerba
+Valea Serba Mare
+Valea Şerba Mică
+Valea Şerbăneşti
+Valea Şerbeşti
+Valea Şerbilor
+Valea Şeremet
+Valea Şeremetu Mare
+Valea Şeremetu Mic
+Valea Şerpoasa
+Valea Sforac
+Valea Şibiţei
+Valea Sicfor
+Valea Sicloş
+Valea Şicut
+Valea Silei
+Valea Silivaşului
+Valea Simion Iuda
+Valea Şindrila
+Valea Şindrilei
+Valea Şindrilelor
+Valea Şipot
+Valea Şipotelor
+Valea Şiriu
+Valea Slatinei
+Valea Slatinii
+Valea Slavu
+Valea Sloiului
+Valea Socetului
+Valea Socuşorului
+Valea Sohodol
+Valea Şoimeni
+Valea Şoimului
+Valea Şoimuşului
+Valea Somoşiei
+Valea Şonicuţa Mică
+Valea Şonioca Mare
+Valea Sorbetului
+Valea Spinelui
+Valea Spitalului
+Valea Stanei
+Valea Stârc
+Valea Stârcovăţ
+Valea Stârcului
+Valea Stârnicului
+Valea Starpă
+Valea Ştefăniţa
+Valea Ştefii
+Valea Steja Mică
+Valea Ştempea
+Valea Sterpului
+Valea Ştiubei
+Valea Stoeneasa
+Valea Stoiaca
+Valea Stoiceşti
+Valea Stoichi
+Valea Stolojanilor
+Valea Storofeiu
+Valea Strâmbă
+Valea Strâmbei
+Valea Strâmbişoara
+Valea Strâmboru
+Valea Strâmbului
+Valea Streana
+Valea Strugurului
+Valea Strungarului
+Valea Strungilor
+Valea Strunjinoasa
+Valea Struţului
+Valea Studineţului
+Valea Stulan
+Valea sub Masa Mare
+Valea sub Masa Mica
+Valea Suieşti
+Valea Şuligul
+Valea Sunătoarei
+Valea Surduc
+Valea Surdului
+Valea Surpăturii
+Valea Susani
+Valea Şutelor
+Valea Tăieturii
+Valea Tălmăcuţa
+Valea Tâlvici
+Valea Ţapu Mare
+Valea Ţapului
+Valea Tărbaci
+Valea Târgului
+Valea Ţarinei
+Valea Ţarni
+Valea Ţărnii
+Valea Tarniţa
+Valea Tărsoane
+Valea Taşaul
+Valea Tătarului
+Valea Tăului
+Valea Taurilor
+Valea Tăuşan
+Valea Techii
+Valea Teilor
+Valea Teişoarei
+Valea Telcoş
+Valea Ţepenila
+Valea Tercuţoael
+Valea Tereseu Sec
+Valea Tichileşti
+Valea Ţigana
+Valea Ţigăncii
+Valea Ţiganilor
+Valea Tileşti
+Valea Timercea
+Valea Timuş
+Valea Tinoasă
+Valea Ţinta
+Valea Ţipău
+Valea Ţiribaşului
+Valea Tisa Mare
+Valea Tocăiasca
+Valea Tocilelor
+Valea Tocilor
+Valea Tohani
+Valea Toja
+Valea Tomii
+Valea Tomosâcea
+Valea Tonoroage
+Valea Topraisar
+Valea Trantului
+Valea Treancului
+Valea Trestianei
+Valea Trestiei
+Valea Trestioarei
+Valea Troacelor
+Valea Trocarului
+Valea Trocuţei
+Valea Tubei
+Valea Tudoreasa
+Valea Tupeştilor
+Valea Ţurcii
+Valea Turcului
+Valea Turişorului
+Valea Turiţari
+Valea Tusului
+Valea Tutunului
+Valea Ţuţurului
+Valea Ulmetului
+Valea Ulucelor
+Valea Unchiaşului
+Valea Uricani
+Valea Ursa
+Valea Ursoania
+Valea Ursoii
+Valea Ursoiului
+Valea Ursoli
+Valea Ursoni
+Valea Ursul Mare
+Valea Urviceş
+Valea Urzica
+Valea Urzică
+Valea Urzicarului
+Valea Uscată
+Valea Văcarului
+Valea Vacii
+Valea Vadului
+Valea Vădurele
+Valea Văianului
+Valea Valaua
+Valea Vâlceaua
+Valea Vălcineţ
+Valea Vălinii
+Valea Vărăriei
+Valea Văratecu Mic
+Valea Vârlezu
+Valea Vârtop
+Valea Vârtopului
+Valea Varului
+Valea Vărzăriei
+Valea Vărzării
+Valea Vătaştina
+Valea Velichii
+Valea Verguleasa
+Valea Verzuroaia
+Valea Videşti
+Valea Vidra
+Valea Viei
+Valea Viezurişte
+Valea Viezuroaia
+Valea Vinişorului
+Valea Virturului
+Valea Visca
+Valea Vişeoani
+Valea Visterna
+Valea Vitan
+Valea Viţelului
+Valea Vlacanara
+Valea Voicei
+Valea Vraniţei
+Valea Vulpea Mare
+Valea Vulpea Mică
+Valea Vulpei
+Valea Vurpăr
+Valea Zăcătoarei
+Valea Zăgazu
+Valea Zăpedi
+Valea Zăpodiei
+Valea Zărzagului
+Valea Zăvalului
+Valea Zăvoiu
+Valea Zăvoiului
+Valea Zeldişului
+Valea Zgânda
+Valea Zlapia
+Valea Zlăpiuţa
+Valea Zopei
+Vâlsan
+Vămăşoaia
+Vameş
+Var
+Vărbilău
+Vârghiş
+Vârtop
+Varvata
+Vaser
+Vaslui
+Vătaf
+Velcheriu
+Velea Fetei
+Velna
+Verdea
+Veţca
+Vezieş
+Vicinic
+Vicov
+Vidrei
+Vinţul
+Vişeul
+Viştea
+Viştei
+Viştişoara
+Vlădila
+Vlaha
+Vlavul
+Voinăşiţa
+Voitinel
+Volovăţ
+Vorumloc
+Vraniu
+Vrela
+Vulpoiul
+Vurpărul
+Vutcani
+Zăbala
+Zagăr
+Zagon
+Zagra
+Zălan
+Zalău
+Zăpodie
+Zboina
+Zegaia
+Zeldiş
+Zeletin
+Zgubea
+Zimbru
+Zlătari
+Zoiţani
+Zorleni

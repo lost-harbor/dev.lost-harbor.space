@@ -1,0 +1,532 @@
+John	29
+Joseph	25
+Juma	24
+Ali	18
+Mohamed	17
+Charles	15
+Peter	13
+William	13
+Emmanuel	12
+James	12
+David	11
+Muhammad	10
+Abdallah	9
+Edward	9
+George	9
+Daniel	8
+Godfrey	8
+Richard	8
+Stephen	8
+Adam	7
+Christopher	7
+Hussein	7
+Julius	7
+Michael	7
+Paul	7
+Simon	7
+Ahmed	6
+Anthony	6
+Henry	6
+Vincent	6
+Abdul	5
+Ally	5
+Amani	5
+Andrew	5
+Augustine	5
+Francis	5
+Omar	5
+Patrick	5
+Rashid	5
+Said	5
+Salim	5
+Salum	5
+Suleiman	5
+Albert	4
+Benedict	4
+Bernard	4
+Felix	4
+Frank	4
+Geoffrey	4
+Hassan	4
+Joel	4
+Khamis	4
+Omary	4
+Philip	4
+Rajab	4
+Samson	4
+Samuel	4
+Vicent	4
+Amir	3
+Andrea	3
+Benjamin	3
+Bruno	3
+Edwin	3
+Erasto	3
+Ernest	3
+Faustine	3
+Fred	3
+Frederick	3
+Gervas	3
+Hamad	3
+Hamisi	3
+Haruna	3
+Innocent	3
+Ismail	3
+Issa	3
+Jackson	3
+Kelvin	3
+Lawrence	3
+Leonard	3
+Lucas	3
+Mustafa	3
+Omari	3
+Othman	3
+Prosper	3
+Raphael	3
+Saidi	3
+Seif	3
+Selemani	3
+Steven	3
+Yussuf	3
+Abdulla	2
+Abdullah	2
+Abdulrahman	2
+Abdulrazak	2
+Abel	2
+Abubakar	2
+Alex	2
+Alphonse	2
+Antony	2
+Augustino	2
+Bakari	2
+Ben	2
+Cosmas	2
+Damian	2
+Deo	2
+Deogratias	2
+Dickson	2
+Dunstan	2
+Elias	2
+Emanuel	2
+Filbert	2
+Gabriel	2
+Geofrey	2
+Hafidh	2
+Hasnain	2
+Hassanali	2
+Hemed	2
+Ibrahim	2
+Idris	2
+Isaac	2
+Jacob	2
+Jeremiah	2
+Job	2
+Jonas	2
+Khalid	2
+Khalifa	2
+Lazarus	2
+Mark	2
+Mathias	2
+Maurus	2
+Mbaraka	2
+Mukesh	2
+Mussa	2
+Nilesh	2
+Norman	2
+Novatus	2
+Pascal	2
+Paulo	2
+Pius	2
+Raju	2
+Raymond	2
+Renato	2
+Saleh	2
+Samwel	2
+Stanley	2
+Stephano	2
+Sunday	2
+Sylvester	2
+Thomas	2
+Timothy	2
+Titus	2
+Tundu	2
+Vedastus	2
+Victor	2
+Walter	2
+Wilson	2
+Yahya	2
+Yusuf	2
+Zubeir	2
+Aaron
+Abbás
+Abd al-Rahim
+Abd al-Razzaq
+Abdi
+Abdisalaam
+Abdulaziz
+Abdulkarim
+Abdullahi
+Abdulsalaam
+Abeid
+Aboud
+Abraham
+Adi
+Aeshi
+Aggrey
+Ajali
+Al
+Aleck
+Alfred
+Alfredo
+Aliko
+Allan
+Alphaxard
+Amahl
+Ame
+Ameir
+Amon
+Amos
+Andy
+Angelo
+Aniceti
+Antonio
+Anup
+Aquiline
+Aristide
+Arun
+Athuman
+Athumani
+Atish
+Baraka
+Basil
+Beatus
+Benito
+Benno
+Benson
+Bernardin
+Bertram
+Bhupendra
+Binilith
+Birju
+Bob
+Boniphace
+Bujiku
+Burton
+Camillus
+Castor
+Chacha
+Chedieli
+Christian
+Clemence
+Cleopa
+Clinton
+Colin
+Cosato
+Cyprian
+Cyril
+Dalaly
+Daniel Peter
+Danny
+Davis
+Denzel
+Deogratius
+Derek
+Desderius
+Diodorus
+Dominic
+Donald
+Doto
+Ebenezer
+Ebrahim
+Eddie
+Edger
+Eliah
+Eliezer
+Elisa
+Elson
+Emilian
+Emma
+Ephraim
+Eric
+Erick
+Eugene
+Euphrase
+Eusebio
+Eusebius
+Eustace
+Evaristo
+Ezekia
+Ezekiel
+Fabiano
+Feetham
+Felister
+Ferdinand
+Festus
+Firoz
+Flavian
+Florens
+Florent
+Fredy
+Freeman
+Fuad
+Fuya
+Gaspar
+Gaudence
+Gautam
+Gerald
+Gerson
+Getuli
+Gidamis
+Gideon
+Gloire
+Godbless
+Goodluck
+Gosbert
+Gregory
+Guido
+Hadji
+Haji
+Hamidu
+Hamit
+Hamoud
+Hamza
+Haroub
+Haroun
+Harrison
+Hasheem
+Herbert
+Herman
+Hezekiah
+Highness
+Hilal
+Hilary
+Honorine
+Horace
+Hugo
+Hukwe
+Idd
+Ignace
+Ignas
+Isack
+Isidor
+Isidore
+Israel
+Issaay
+Ivo
+Jaddy
+Jaffar
+Jaka
+Jakaya
+Jaku
+Jamal
+January
+Japhet
+Jason
+Jay
+Jayprakash
+Jerome
+Jerry
+Jerson
+Jimmy
+Jitu
+Johnson
+Joram
+Jordan
+Josaphat
+Joseph-Marie
+Joshua
+Jude
+Jumaa
+Jumanne
+Justinian
+Kaika
+Kailas
+Kali
+Karim
+Kassim
+Kasuku
+Khatib
+Kheir
+Kheri
+Kighoma
+Kilontsi
+Kisyeri
+Kombo
+Kulikoyela
+Lameck
+Laurean
+Laurent
+Laus
+Lawi
+Lawii
+Lazaro
+Leader
+Leonhard
+Leonidas
+Leopold
+Liberatus
+Lilian
+Livingstone
+Luckson
+Ludovick
+Luhaga
+Luka
+Luther
+Magnus
+Mahadhi
+Mahmoud
+Makame
+Manju
+Mansoor
+Marco
+Mariam
+Mario
+Marko
+Marwa
+Masoud
+Mateo
+Matthew
+Matthias
+Max
+Mbarouk
+Mbwana
+Mehul
+Mendrad
+Meryce
+Meshack
+Method
+Mgana
+Micheal
+Mike
+Miller
+Milton
+Mizengo
+Modest
+Modestus
+Mohammed
+Mohan
+Moses
+Moshi
+Mossy
+Mrisho
+Mselem
+Mtutura
+Mudhihir
+Muhammed
+Murtuza
+Musa
+Mustapha
+Mwadini
+Mwajuma
+Mwigulu
+Mwinchoum
+Mwita
+Myles
+Nadir
+Nape
+Nassor
+Nathaniel
+Nazir
+Neva
+Nicholas
+Nico
+Nimrod
+Nishit
+Nizār
+Noel
+Norbert
+Nyambari
+Oscar
+Osmund
+Palamagamba
+Parag
+Parmukh
+Paschal
+Pereira
+Phares
+Philemon
+Philipo
+Philippe
+Phillip
+Placidus
+Polycarp
+Ponsiano
+Protais
+Protase
+Rajeev
+Rakesh
+Ralph
+Ramadhan
+Ramadhani
+Ramo
+Rashidi
+Raynald
+Reginald
+Robino
+Rogatus
+Rogers
+Roland
+Romanus
+Rose
+Rostam
+Rwegasira
+Rweyabura
+Sabri
+Sadifa
+Sadiki
+Salih
+Salmin
+Salvatory
+Sam
+Sameer
+Saul
+Sebastian
+Sengondo
+Shaban
+Shaffin
+Shahnawaz
+Shamsi
+Shanif
+Shayo
+Shiraz
+Shoka
+Shukuru
+Sigfrid
+Silvestry
+Simeon
+Simon Robert
+Sinkamba
+Siraju
+Sospeter
+Stefano
+Stephon
+Suresh
+Tarcisius
+Télesphore
+Thadaeus
+Thobias
+Tommy
+Tudd
+Ussi
+Valentine
+Vasant
+Vinod
+Vita
+Vitalis
+Vuai
+Walt
+Wanu
+Waride
+Wenceslaus
+Wilbrod
+Wilfred
+Willibard
+Willy
+Wolfgang
+Yassin
+Yusuph
+Zacharia
+Zakaria
+Zebedayo
+Zephaniah
+Zitto

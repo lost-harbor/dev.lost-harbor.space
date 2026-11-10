@@ -1,0 +1,502 @@
+Berek	3
+Cinca	3
+Forrás	3
+Gyöngyös	3
+Kígyós	3
+Malom	3
+Nagy-ér	3
+Nyerges	3
+Rét	3
+Száraz	3
+Berki	2
+Fekete-víz	2
+Hosszú	2
+Ikva	2
+Kis-tisza	2
+Kispatak	2
+Körös	2
+Ménes	2
+Nagy-völgyi	2
+Nógrádi	2
+Sormás	2
+Sós	2
+Szilvás	2
+Szuha	2
+Tarján	2
+Ablánc
+Ágér
+Ágói
+Almás
+Alsó-Tápió
+Alsó-Válicka
+Által-ér
+Apát-kúti
+Aranyad-ér
+Aranyhegyi
+Aranyos
+Árendás
+Bakónaki
+Bakony
+Balla
+Bán
+Bánya
+Bánya-ér
+Barát-ér
+Barcău
+Bárna
+Báta
+Bátor
+Béci
+Békás
+Bekecs
+Belső-réti
+Bélus
+Bene
+Benta
+Bér
+Berceli
+Berek-ér
+Bernát
+Bezina
+Bikol
+Bisó
+Bittva
+Bodrog
+Bodva
+Bódvaj
+Bogdányi Ér
+Bolyai
+Boronkai
+Bors
+Borsfai
+Borsi
+Börzsöny
+Bőszobi
+Bozót
+Bozsoki
+Bózsva
+Búbereki
+Budnya
+Büdös-gáti-víz
+Bujáki
+Bükk Aljai
+Bükk Pataka
+Bükkös
+Bükkösdi-víz
+Burnót
+Cikolai-víz
+Cinca-csíkgát
+Concó
+Crişu Mic
+Csámpai
+Csángota-ér
+Csaronda
+Császár-víz
+Csataér
+Csele
+Csente-ér
+Csépi-ér
+Cser
+Cserengát
+Cserepes-ér
+Cseresnyés
+Cserhídi
+Csernely
+Cserta
+Csetényi
+Csigere
+Csikászó
+Csikgát
+Csikvándi-Bakony-ér
+Csincse
+Csitár
+Csollányos
+Csőmőri
+Csonkás
+Csörgős
+Csörnöc-Herpenyő
+Csorszai
+Cuha
+Cuhai-Bakony-ér
+Damásdi
+Daracs
+Darázsdói
+Darza
+Debréte
+Demecseri Főfolyás
+Dera
+Derék
+Deseda
+Dézsa
+Dobordali
+Dobroda
+Dohányos-ér
+Donát
+Doroszlói
+Dudari
+Dusnok-ér
+Eger
+Eger-víz
+Egres
+Egri
+Éles-kúti-ér
+Emse
+Éri
+Erzsébeti-ér
+Fehér
+Fehér-Körös
+Fekete
+Fekete-Körös
+Fekete-séd
+Félegyházai-vízfolyás
+Felső-Tápió
+Felső-Válicka
+Fenéki Ér
+Fényes
+Fintafai
+Foglár
+Fogoly
+Folyás
+Folyás-ér
+Füzes
+Füzes-ér
+Gaja
+Galga
+Garadna
+Gerence
+Geszteréti
+Geszti
+Gombás
+Gönci
+Gonoszdi
+Görbe Ér
+Görbe-ér
+Gosztola
+Gyarmati Ér
+Hábi
+Hagyárosi
+Haj
+Hajagos
+Hajmás
+Hajta
+Halastói
+Hangony
+Hangyajárási
+Harangod
+Harica
+Hársas
+Hársas-berki
+Hartyán
+Hasdát
+Hegyaljai
+Hejő
+Hernád
+Herpenyő
+Hévíz
+Hidas
+Hideg-ér
+Hideg-kúti-ér
+Hódos
+Hódos-ér
+Holt
+Holt-Sebes-Körös
+Hór
+Horgas-ér
+Hosszú-foki-főcsatorna
+Hosszú-víz
+Hosszúréti
+Hotyka
+Huszászi
+Ilike-folyás
+Ipoly
+Ivacsi
+Jaba
+Jáki-Sorok
+Jégvermi-árok
+Jósva
+Juhász
+Kácsi
+Kajdacsi
+Kalicsa
+Kánya
+Kánya-ér
+Kányaér
+Karcsa
+Kardos-ér
+Keleméri
+Kemence
+Kenyérmezői
+Kerca
+Keresztúri
+Kerka
+Kertafalu-víz
+Keserű
+Kétöles
+Kigyós
+Kígyós Ér
+Kincses Ér
+Királd
+Kis
+Kis Gerence
+Kis-Bittva
+Kis-Hanta
+Kis-híd
+Kis-Koppány
+Kis-malomér
+Kis-Rába
+Kis-séd
+Kis-Zagyva
+Kiskondai
+Kiskúti
+Kislengyeli
+Kisvíz
+Kő-völgyi-árok
+Kócsod
+Kodó
+Komáromi-ér
+Kondoros
+Koppány
+Kőris
+Kőrises-berki-vízfolyás
+Korompa
+Kőrös
+Körtvélyes
+Kösély
+Köszvényes
+Kovács
+Köves
+Kozár-Borzó
+Középső
+Kraszna
+Kulcsár-völgy
+Kulcsár-völgyi
+Kurca
+Kürtös
+Lábodi-Rinya
+Lajos
+Lajvér
+Laki
+Lánka
+Lapincs
+Laskó
+Lator
+Leleszi
+Lepence
+Lesence
+Lickó
+Linkó
+Ló-hegyi
+Lóki
+Lókos
+Loos Bach
+Lósi
+Lugos
+Magdolna-ér
+Magyalos Víz
+Magyaratád-Batéi
+Malom-völgyi
+Malomér
+Malomfolyás
+Malomi
+Mántai
+Marazd-ér
+Marcal
+Máróci
+Maros
+Meleg Folyás
+Meleg-víz
+Mercse
+Metőc
+Misa-réti-árok
+Miszla
+Mocsár
+Mocsolyás
+Mogyorós
+Morgó
+Móri-víz
+Mosom
+Mosoni-Duna
+Mucsi-Hidas
+Nadályos
+Nagy
+Nagyér
+Nagysas
+Nagyséd
+Nemesnépi
+Németi
+Novaji
+Nyáras
+Nyék
+Nyeste-Nyárs
+Nyíri
+Nyögő
+Nyugati-Gyöngyös
+Okor
+Ökörföldi Lapos
+Okrádi
+Ökrös
+Orci
+Öreg-séd
+Öregárok
+Ormos
+Örvényesi-séd
+Ostoros
+Ózdi
+Palotai
+Pándzsa
+Pápai-Bakony-ér
+Parádi-Tarna
+Pécsi-víz
+Perint
+Pernec
+Pogány-völgyi-víz
+Pókaháza Ér
+Pós
+Pösze
+Puszta-ér
+Pusztapatak
+Rába
+Rábca
+Radvány
+Rák
+Rakaca
+Rákos
+Rákos Ér
+Ráskói
+Rátka
+Rédei-Nagy
+Reinersdorfer Bach
+Rét-folyás
+Rétkerti
+Rigóc
+Rigyáci
+Rinya
+Ronyva
+Rozsnak
+Ruszka
+Saj-völgyi
+Sajgó
+Sajó
+Sándor-ér
+Sápi
+Sárkány-ér
+Sárosd-Seregélyesi-vízfolyás
+Sárvíz
+Sas
+Séd
+Sejpes Ér
+Senye
+Sinkár
+Sokorói-Bakony-ér
+Som-berek-séd
+Somaly
+Sorok
+Süldős Ér
+Sulymos Fok
+Sulymos-ér
+Surányi
+Surján
+Szabási-Rinya
+Szakony
+Szalajka
+Szamos
+Szanda
+Szapud-árok
+Szardai
+Szarka-Kúti
+Szarv-ágy
+Széles Víz
+Szén
+Szendi-ér
+Szénégető
+Szenke
+Szent György
+Szent László
+Szentgyörgyi-ér
+Szentjakabi
+Szentlélek
+Szentmártoni
+Szentmihályfai
+Szép
+Széplak
+Szerdahelyi
+Szerencs
+Szévíz
+Szigeti
+Szikegy-ér
+Szilágyi
+Szilas
+Szinva
+Sződrákosi
+Szőke Ér
+Szóláti
+Szölnöki
+Szoros
+Szünösei
+Tákó-ér
+Takta
+Tápéi Ér
+Tápió
+Tapolca
+Tapolnok
+Taranyi-Rinya
+Tardi
+Tardona
+Tarna
+Tarnóca
+Taszári
+Tauscher Bach
+Tece
+Tekeres
+Tekeres-berki
+Tékes
+Teresznek
+Tetves
+Tilalmas
+Tinóka-ér
+Tiszta-víz
+Tita
+Titok-berki-árok
+Tócó
+Tóér
+Toka
+Tolcsva
+Tömörke
+Tordosa
+Torna
+Török
+Tóvölgyi
+Túr
+Túr-víz
+Únyi
+Úrházi
+Vadász
+Váli-víz
+Valkonyai
+Vár
+Varasdi
+Varga-tói
+Vasas-Belvárdi-vízfolyás
+Vasonca
+Vázsonyi-séd
+Veker-ér
+Vékony-ér
+Vér
+Vermes
+Versegi
+Vezseny-ér
+Vidák-árok
+Vidi-ér
+Villány-Pogányi-vízfolyás
+Vizslás
+Völgységi
+Vörös
+Vörös-víz
+Zagyva
+Zajki
+Zala
+Zámori
+Zátonyi-Duna
+Zél
+Zsiger
+Zsitva

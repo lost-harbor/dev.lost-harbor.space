@@ -1,0 +1,1937 @@
+Öreg	36
+Vár	21
+Nagy	20
+Magas	14
+Hosszú	13
+Szőlő	13
+Kő	12
+Őr	12
+Fekete	11
+Alsó	10
+Kopasz	10
+Strázsa	10
+János	9
+Kerek	9
+Nagy-halom	9
+Öreghegy	9
+Új	9
+Fehér	8
+Közép	8
+Szár	8
+Hármas	7
+Kecske	7
+Látó	7
+Malom	7
+Pap	7
+Sas	7
+Dobogó	6
+Fekete-halom	6
+Homok	6
+Mogyorós	6
+Rózsa	6
+Somlyó	6
+Vörös	6
+Baglyas	5
+Csúcs	5
+Felső	5
+Hegyes	5
+Hegyes-halom	5
+Hegyes-tető	5
+József	5
+Kálvária	5
+Király	5
+Kis	5
+Köves	5
+Nyerges	5
+Ördög	5
+Róka	5
+Som	5
+Szarvas	5
+Szőke	5
+Templom-halom	5
+Arany	4
+Cser-hát	4
+Hideg	4
+Isten	4
+Kakukk	4
+Kettős-halom	4
+Kőris	4
+Kövecses	4
+Kutya	4
+Pap-halom	4
+Varga	4
+Vaskapu	4
+Akasztó	3
+Antal	3
+Badacsony	3
+Bagó	3
+Bánom	3
+Bánya	3
+Cigány	3
+Cigányhegy	3
+Cserhát	3
+Csóka	3
+Csonkás	3
+Csúcsos	3
+Derék	3
+Elő	3
+Fekete Halom	3
+Galya-tető	3
+Gesztenyés	3
+Gyertyános	3
+Halyagos	3
+Haraszt	3
+Hársas	3
+Hegyhát	3
+Homokhegy	3
+Hosszú-bérc	3
+Kakas	3
+Kék	3
+Kishegy	3
+Körtvélyes	3
+Meleg	3
+Nagy-kő	3
+Nagy-Somlyó	3
+Pilis	3
+Pipis	3
+Sánc	3
+Sándor	3
+Sár	3
+Somos	3
+Szabó	3
+Szent György	3
+Szőllő	3
+Tábor	3
+Telek-halom	3
+Templom	3
+Vár-bükk	3
+Vastag	3
+Világos	3
+Zöld-halom	3
+Adorján	2
+Ágasvár	2
+Ágoston-halom	2
+Anna	2
+Asszony	2
+Bába	2
+Balog	2
+Banka	2
+Barta-halom	2
+Belátó	2
+Belső	2
+Bence	2
+Bika-halom	2
+Borsó	2
+Bottyán	2
+Budai	2
+Büki	2
+Bükk	2
+Bükk-tető	2
+Csalános	2
+Csárda	2
+Cseh-halom	2
+Cseke	2
+Csengő	2
+Cser	2
+Cserhegy	2
+Csinger	2
+Csorda	2
+Deák-halom	2
+Dudar	2
+Ebédleső	2
+Fazekas	2
+Földvár	2
+Földvár-domb	2
+Gellért	2
+Gerecse	2
+Gyilkos-halom	2
+Gyűr	2
+Hajagos	2
+Halom	2
+Hármashatár	2
+Hársas-tető	2
+Határ Halom	2
+Határ-halom	2
+Havas	2
+Hegyes Halom	2
+Hollós-tető	2
+Irtás	2
+Juhász	2
+Kánya-domb	2
+Károly	2
+Kása	2
+Kása-halom	2
+Katalin	2
+Káva	2
+Kecskés	2
+Kerékkötő	2
+Kereszt	2
+Két-halom	2
+Kettős Halom	2
+Kis-halom	2
+Kő Halom	2
+Kő-halom	2
+Kovács	2
+Kovácsi	2
+Kővágó-tető	2
+Köves-halom	2
+Közép-bérc	2
+Középhegy	2
+Ló	2
+Macska	2
+Magos	2
+Magyar	2
+Málna	2
+Marton	2
+Mátyás	2
+Mész	2
+Mészáros	2
+Mulató	2
+Nádas Halom	2
+Nagy-bükk	2
+Nagy-Som	2
+Nyerges-tető	2
+Nyilas	2
+Nyíres	2
+Őrhegy	2
+Öröm	2
+Örsi	2
+Paphegy	2
+Peres	2
+Péter	2
+Piroska	2
+Puszta	2
+Rác	2
+Remete	2
+Réz	2
+Rókás	2
+Ság	2
+Sági	2
+Sas-halom	2
+Sashegy	2
+Sátor	2
+Sínai	2
+Som-berek	2
+Somhegy	2
+Sós	2
+Sós-halom	2
+Sóstó-halom	2
+Szabad	2
+Széles	2
+Szent László	2
+Szent Mihály	2
+Szentgyörgy	2
+Szép	2
+Szokolya	2
+Szőllőhegy	2
+Temető	2
+Temető-halom	2
+Tik	2
+Tormás	2
+Újhegy	2
+Vágás	2
+Vágott-halom	2
+Város	2
+Vas	2
+Vaskó	2
+Veréb	2
+Zsidó	2
+Zsíros	2
+Abonyi-halom
+Ádám
+Adonyhegy
+Agácos Hora
+Agár-tető
+Agárdi
+Ágas
+Aggteleki-karszt
+Agostyáni
+Agyagos
+Agyagos Tető
+Akasztó-bérc
+Akasztó-halom
+Akasztófai-domb
+Akol
+Alhegy-tető
+Aligvári
+Alma
+Almán-tető
+Almás
+Almás-bérc
+Álmos Halom
+Alpokalja
+Alsó Bükk
+Alsó Pogányvár
+Alsó Szőllő
+Alsó Tető
+Alsó Újhegy
+Alsó-Cikó
+Alsó-Csákány
+Alsó-Hajag
+Alsó-Nedves
+Alsó-Öreg
+Alsómező
+Alsórajki
+Alsószakony
+Alsószeri
+Alsóungi
+Általeső-halom
+Ámos
+Angerwald
+Ángyi-halom
+Apáca
+Apát-kúti-bérc
+Apáti
+Aranka-tető
+Arany-bika-tető
+Aranydomb
+Aranygomb
+Aranyos Halom
+Árpád-halom
+Árpád-vár
+Árpás Halom
+Ásott Halom
+Ásvány
+Asztag-kő
+Asztalos
+Attila-halom
+Avas
+Bába-halom
+Bába-homok
+Babar
+Babaszon
+Babat
+Bábocka-halom
+Bábolna
+Bábonyi-bérc
+Babos
+Bábota
+Bábtető
+Bácska
+Bácsvár-orom
+Baglyas Hegyese
+Baglyos
+Bagóbükk
+Bagoly
+Bajánházi
+Bajci
+Bajtemetés
+Bajzat-halom
+Baki
+Bakói
+Bakony
+Bakonyalja
+Bakostető
+Baksa
+Baksa-halom
+Bakszakál
+Bakta
+Balaton-felvidék
+Bálint
+Balkán-halom
+Ballabérc
+Baló
+Balogi
+Balota
+Bálvány
+Bambó
+Bán
+Banai
+Bánfi Halom
+Bangya
+Bankó
+Bánya-domb
+Bárány
+Baranyai-dombság
+Baranyai-Hegyhát
+Bárányos
+Barát
+Baráthalom
+Bárdi
+Bari
+Bári
+Bári-halom
+Barna
+Báróczhegy
+Barok
+Bársonyberek
+Bartasz-vég
+Bartina
+Bata
+Báté-halom
+Batéi
+Báti
+Batidai-halom
+Bécsi domb
+Bél-kő
+Béla-halom
+Belátóhegy
+Bene-halom
+Bér
+Bérc-fa
+Berceli
+Bereg
+Beremendi
+Berencsik
+Berva
+Bézma
+Biai
+Biben
+Bibic
+Bidi
+Bikakútihegy
+Bikatorok
+Bikkbérc
+Bivaly-halom
+Bizei-domb
+Böccse
+Bocskor
+Bodó
+Bodó-tető
+Bodor
+Bodrás
+Bodvica
+Bodzás
+Bogárd
+Bogárzók
+Bogdán-tető
+Bogdány-halom
+Bőgő-domb
+Bőgöly
+Bogrács
+Böhönye
+Bojár-halom
+Bók
+Boka
+Bókaházi
+Bokri
+Bokros Tető
+Bölcső
+Bolha
+Bollakút
+Bolnoka
+Bolondvári
+Bólya-bérc
+Bolyhegy
+Bonc
+Boncsok
+Boncsos-tető
+Bonyhád
+Bőr
+Borda
+Börevár
+Bori-völgyfő
+Borjú
+Bornyei
+Boróka
+Boros Domb
+Boroska
+Borostás
+Borostyános-bérc
+Borotai Szőllő
+Borsfai Hegyhát
+Borsodi-dombság
+Borz
+Borzás
+Borzok
+Börzöncei
+Borzsa
+Börzsöny
+Botfa
+Botos-halom
+Botosi-halom
+Bozsoki
+Brassó-halom
+Bubó
+Búcsú-halom
+Buda
+Budaörsi
+Bűdi
+Budoga
+Büdös-domb
+Büdös-halom
+Bük
+Bükk-fennsík
+Bükk-fő
+Bükkalja
+Bükkös-Mátra
+Bükkös-tető
+Bükkösd
+Bukor
+Bús
+Büssü
+Cherekhat
+Cibakhalom
+Cibere
+Cikó
+Cinegés
+Ciprus
+Codoló
+Csaba-domb
+Csabony
+Csákányhegy
+Csalán
+Csalári
+Csalinahegy
+Csalitos
+Csanak
+Csányi
+Csapós
+Csárdás
+Császárrét
+Császta-bérc
+Csatár
+Csegei-halom
+Csendi
+Csepegő
+Cseplek
+Cser-tető
+Cser-völgyi-tető
+Cseralja
+Cserbabos
+Cserbérc
+Cserehát
+Cserép-hát
+Cseres
+Cseres Padosa
+Cseresnyés-tető
+Csereze
+Cserhátalja
+Cseritábla
+Cserje
+Cserje-tető
+Cserjes-tető
+Cserke-halom
+Cserma-oldal
+Csernyéd
+Cserődomb
+Csertő
+Csetér
+Csibaj
+Csiboda
+Csibrák
+Csicsak
+Csicsakos
+Csicsó
+Csicsói
+Csiga
+Csiga-tető
+Csiger
+Csíki-hegyek
+Csikorgó
+Csikós-halom
+Csillag
+Csillagó
+Csimaházi
+Csipkereki
+Csipkés
+Csiró
+Csittény
+Csobánc
+Csobánkút
+Csócsa
+Csöcsös
+Csődörhegy
+Csókakő
+Csókás
+Csoknya
+Csömöki-domb
+Csomoszvár
+Csönge
+Csöntör
+Csontos Halom
+Csopány
+Csoportos
+Csór
+Csősz
+Csősz-halom
+Csóva-halom
+Csóványos
+Csúcsos-domb
+Csukafej
+Csurgó
+Csurgó-tető
+Csúszu
+Csutas
+Cuha
+Cukor
+Czakóhalom
+Dalos
+Darabos
+Darafarka
+Daráska
+Darba
+Darga
+Darnó
+Daróci
+Debeje-halom
+Debornyafő
+Décsi-halom
+Dedre-bérc
+Dékány
+Delelő
+Déli
+Déli-Bakony
+Ders
+Diktámos
+Dinnye
+Dinnye-szög-hát
+Dinnyés
+Dinnyés-halom
+Diós
+Disznó-halom
+Disznós
+Dobi-halom
+Dobkereki
+Dobogó-kő
+Dobogó-tető
+Döbör
+Dobra
+Döcöge-halom
+Dög-halom
+Dolka
+Dömök
+Dongó-tető
+Dörgő
+Dormány Homok
+Dózsa
+Dudáska
+Dunántúli-dombság
+Dunántúli-középhegység
+Dunaszentgyörgyi
+Dunazug
+Durgó
+Durmoss Hunka
+Durrogós-tető
+Ebédlátó
+Ecskend
+Edericsi
+Édes Halom
+Égető Halom
+Égett Halom
+Egresi
+Egri
+Egyed
+Egyes Halom
+Egyes-halom
+Éles
+Elő-galya
+Elő-halom
+Előhegy
+Eperjes
+Eperjesi-hegyhát
+Erdő
+Erdőhát
+Erdőirtás
+Eresztő-galya
+Eresztvény
+Erlény
+Északi-Bakony
+Eszkála-bérc
+Etyeki-dombság
+evély
+Faház-tető
+Fajdas
+Falu Gaza
+Fáncsi
+Farkas
+Farkas Bérc
+Farkas Fája
+Farkas-halom
+Farkashalom
+Farkaslyuk-tető
+Fási Halom
+Fecskés Domb
+Fehér-kő
+Fehértói Domb
+Fejes-tető
+Fekete Ember
+Fekete-domb
+Fekete-Papaj
+Felső Bogács
+Felső Hosszú
+Felső Kápláros
+Felső Újhegy
+Felső-Cikó
+Felső-Csákány
+Felső-Hajag
+Felső-Nedves
+Felső-Ung
+Felsőerdő
+Fenyős-domb
+Fenyves
+Fertős-tető
+Filekvára
+Finánc-domb
+Flóra
+Fogacs
+Fokhagyma
+Földi
+Fonyódi
+Forgás
+Forrás
+Fóti-Somlyó
+Francia-kő
+Frank
+Fülöp
+Fulsó
+Fürdős-tető
+Fürj-halom
+Furugyi Halom
+Futó
+Gál
+Galambos
+Galancsér
+Gallyas-tető
+Galó-halom
+Galuzsnya-tető
+Galyagos
+Galyas-tető
+Garáb
+Garancs
+Gáspár
+Gecej-tető
+Gégó
+Gém
+Gerencehalom
+Gerencsér
+Geresd
+Geresdi-dombság
+Gergely
+Gergely-halom
+Gesztenyés Domb
+Géva
+Géza
+Gíród-halom
+Góbis-halom
+Göbölcsös-domb
+Göcsej
+Gődény-halom
+Gödöllői-dombság
+Gólya
+Gombás
+Gombás-hely
+Gombás-tető
+Gombócleső
+Gömbölyű
+Gor
+Görbe
+Görbe-halom
+Görgő-bükk
+Górica
+Görög-bérc
+Görögszó
+Görögtanyai
+Gősfai
+Grábóci
+Gránás
+Grébics
+Gubacsi-hálás
+Gulács
+Gulicska
+Gurgó
+Gyalu-halom
+Gyarmat
+Gyep
+Gyepi
+Gyilkos
+Gyimos Fő
+Gyimóti-domb
+Gyöngösszeri
+Gyöngyvirág-tető
+Gyönk
+Győr
+György
+Györökháza
+Gyügéri Halom
+Gyugy-hát
+Gyula-halom
+Gyűr-tető
+Gyurihegy
+Gyűrűs
+Hábi
+Hahót
+Hajagos-tető
+Hajdinahegy
+Hajdú
+Hajlékos Bérc
+Hajnács
+Hajnács-kő
+Hajóhomok
+Hajszabarna
+Haláp
+Hálás-bérc
+Hálástető
+Halász-tető
+Hallgató
+Halomvár
+Háltó
+Hamar
+Hancsékos
+Hanga
+Hangyafő
+Hanság
+Harangod-halom
+Harangozó
+Haraszt-tető
+Haraszti
+Harasztos
+Harci
+Harcsa-tető
+Hardihegy
+Harkai-csúcs
+Hármas Bérc
+Hármas Halom
+Hármashatár-halom
+Három Fa
+Három-határ
+Három-kő-bérc
+Hárs
+Hárságyi
+Harsány
+Hársas Bérc
+Hársas-domb
+Hársfa
+Hasas
+Határ
+Határ-domb
+Határ-tető
+Hatáz
+Hátulsó
+Hatvan
+Hatvanas
+Havas-bérc
+Hegyalja
+Hegyes Homok
+Hegyes Orom
+Hegyes Tető
+Hegyes-hát
+Hegyes-határ
+Hegyes-kő
+Hegyesd
+Hegyesi Halom
+Hegytető
+Hékút
+Henye
+Herceg
+Herceg-domb
+Hercegköves
+Hercseg
+Herkályos
+Hét Halom
+Hetés
+Hétes-fő
+Hidas-bérc
+Hideg Halom
+Hideg-völgy-tető
+Hidegkút
+Hidegkút-bérc
+Hintó
+Hirsch-orom
+Hobaji-domb
+Holló-kő
+Hollófészek
+Homlajt
+Homoki
+Homoki Domb
+Homoki Malom
+Homorú-tető
+Honvéd-halom
+Hoportyó
+Hordó-állás
+Horga Halom
+Horog
+Horog-tető
+Horti Királydomb
+Horvát
+Hosszú Berek
+Hosszú Halom
+Hosszú-domb
+Hosszú-kő
+Hosszú-Kopasz
+Hosszú-som
+Hosszú-Vontató
+Hosszúgalya-tető
+Hosszúmező
+Hosszúsik
+Hugahegy
+Huszár
+Iborfia
+Iharos
+Ilka-tető
+Ingvár
+Innensőhát
+Irány
+Irtási
+Irtvány
+Ispita
+Istállós-kő
+Isten Dombja
+Isten-fa-tető
+Istvándi
+Iszka
+Jakab
+Jakó
+János Vára
+János-halom
+Jápla
+Jasszú-tető
+Játszó
+Jeb Domb
+Jelence
+Juharos
+Juhász-halom
+Kab
+Kajla
+Kajla-halom
+Káka-halom
+Kakas-halom
+Kakasdomb
+Kakashalom
+Kakastaréj
+Kakukklelés
+Kalap-halom
+Kálmán
+Kálvin
+Kamon-kő
+Kámor
+Kamrási-domb
+Kanács
+Kanalas
+Kandikó
+Kanizsa
+Kántorné-bérc
+Kánya
+Kapás Tető
+Kapási
+Kapitány
+Kápláros
+Kapocs
+Kápolna
+Kápolna-halom
+Kápolnadomb
+Kápolnai
+Kapolyi Út
+Kapony-halom
+Kaposszekcsői
+Kaptár
+Karáncé
+Karancs
+Karankó
+Káricsa
+Karó
+Károly-magaslat
+Karud
+Kása-fő-tető
+Kási Vár
+Kassa
+Kasza
+Kaszálás-tető
+Kászás Domb
+Kaszonyi
+Katahegy
+Katonaföld
+Katymár
+Kavicsos Domb
+Kavicsos Tető
+Kavicsos-bérc
+Kavicsos-domb
+Kazal
+Keceli
+Kecet-tető
+Kecske-bérc
+Kecske-hát
+Kecske-pad
+Kecskeköröm
+Kecskemét
+Kecskés-part
+Kedves
+Kékes
+Kelemen
+Kelemen-halom
+Kéménd
+Kémének-bérc
+Kemenes
+Kemenesalja
+Kemeneshát
+Kémény
+Kender-halom
+Kendi
+Kendig
+Kenéz
+Kenjerei Halom
+Kenyérhalom
+Kép-halom
+Kercsek-tető
+Kerék
+Kerek Tövisek
+Kerek-domb
+Kerektó
+Kereszt-hát
+Keresztes
+Kereszthegy
+Keresztúri-domb
+Kérhalom
+Kerítés
+Kersek-tető
+Kerülő-part
+Kesellő
+Keselő
+Keselyű
+Keselyűhalom
+Keselyűs
+Keserű
+Keskeny Bérc
+Keskeny Orom
+Készbik
+Keszi Szőllő
+Keszthelyi
+Kétágú
+Kétökör-halom
+Kettős-domb
+Kígyós
+Kígyós-tető
+Kincses
+Kingec Halom
+Király Gerendája
+Királyhegy
+Királyné Szokniyája
+Királytelek
+Kis András-halom
+Kis Böve-halom
+Kis Csém
+Kis Csősz-halom
+Kis Farkashalom
+Kis Hársagy
+Kis János Halom
+Kis Kőhegy
+Kis Süldős-halom
+Kis-Átal-kő
+Kis-Bika-halom
+Kis-bodzás
+Kis-Bükk
+Kis-Bükk-tető
+Kis-dél
+Kis-Galla
+Kis-galya
+Kis-Gellért
+Kis-hegyes
+Kis-Hermány
+Kis-Inóc
+Kis-kő
+Kis-Koppány
+Kis-Musak
+Kis-Pap
+Kis-Papod
+Kis-Papucs
+Kis-Púpos-halom
+Kis-Salgó
+Kis-Somlyó
+Kis-Zsunyi
+Kisasszond
+Kisbári
+Kisfaludi
+Kiskő
+Kiskúria
+Kislődi
+Kislók
+Kistilos
+Kő Orra
+Kő-erdő-tető
+Kőbánya
+Kőbánya-bérc
+Kőbányai
+Köböl
+Kócos
+Kocs
+Kocsi Halom
+Kőember
+Kőfej
+Kógyári
+Kőhát
+Kók
+Kőkapu
+Kökényesi
+Kőkötő
+Kőkút
+Kőlyuk-galya
+Kömagas
+Komáromi
+Konkolyos
+Kopáncs
+Kopasz Domb
+Kopasz-Hallgató
+Kopasz-tető
+Kőpite
+Koplaló Halom
+Kopócs
+Koportos
+Korhány-halom
+Kőris-tető
+Korlát
+Korma
+Kormos-verő
+Korom-tettő
+Kőrös
+Korosa
+Kőrózsa-tető
+Korpa
+Körte Fő
+Körteles
+Kósa
+Kósa Vára Tető
+Kosár-halom
+Kőszirt
+Köszörűkő
+Kötény-halom
+Kotló
+Kotormány
+Kötteny
+Kovács-halom
+Kovács-kő
+Kővágó
+Köves Tető
+Köves Verő
+Köves-domb
+Köves-mál-tető
+Köves-tető
+Kövesdi
+Közép-berek
+Középhalom
+Középső
+Középső-Hajag
+Középsőnyomás
+Krezsák
+Kuba
+Kukli
+Külső
+Külső-Üsti
+Külsőberek
+Kunhalom
+Kurtanána
+Kürtös
+Kuruc-bérc
+Kuruchalom
+Kustánszeg
+Kustyán
+Küszöb Orra
+Kutya-hát
+Küzdés
+Lackó-halom
+Lajszka
+Lángos
+Lanka Tető
+Lápai
+Lapishegy
+Lapos-halom
+Látó-halom
+Lebő-halom
+Lebuj Halom
+Leke-halom
+Len
+Lencse
+Lencse-tető
+Lencsés
+Lencsés-halom
+Lenti
+Lepsény-domb
+Les-halom
+Leski-halom
+Leszürge
+Letenyei
+Liba
+Libic
+Likacsosdomb
+Likas
+Liliom
+Lipan
+Lipót
+Lipse
+Liszói Szőllő
+Livinca
+Lobb
+Lófej
+Lófő
+Lóhullás
+Lök Bérc
+Lom
+Lop
+Lugos
+Lujza
+Lyukas-domb
+Lyukas-halom
+Macska-domb
+Macskalik-tető
+Magas-Bérc
+Magas-már
+Magas-orom
+Magas-tető
+Magas-verő
+Magastető
+Mágocsi
+Mágori-domb
+Magoshegy
+Magoska
+Magyal
+Magyal-tető
+Magyalos
+Magyarós Tető
+Major
+Majos
+Mákfai
+Mákszem
+Malátó
+Málé
+Mália
+Malom-tető
+Malomgáti
+Máma-halom
+Mánfai
+Mangó-tető
+Marász-halom
+Marcali
+Marcali-hát
+Marco-halom
+Margita
+Mária
+Máriás
+Márkus
+Márkus Szekrénye
+Maróti-hegyek
+Márton
+Mátéka-tető
+Mátés
+Mátra
+Mátraalja
+Mátyás-halom
+Mazsúr
+Mecsek
+Mecsekalja
+Medina-halom
+Medves
+Megye
+Meleges
+Melegoldal
+Menyétdomb
+Mérges-halom
+Mernyei
+Mesélő
+Messzelátó
+Mester
+Mészáros Domb
+Mészárosdomb
+Meszes
+Meszes-tető
+Mészi Domb
+Mézes-máj-halom
+Mezőörs
+Miháldi Öreghegy
+Miklós
+Miklós Fája
+Miklós Pál
+Miklós-tető
+Miklóshalom
+Mikócsa-halom
+Milványi
+Misefai
+Misina
+Miska-halom
+Mocsár
+Mocsárhegy
+Mocsárka
+Mőcsényi
+Mög-szeg
+Mogyorós-bérc
+Mogyorós-halom
+Mogyorósi-domb
+Mohos-galya
+Mona Halma
+Monor-halom
+Monosa
+Monostor
+Móra-domb
+Morgó-tető
+Mulató-domb
+Mura
+Murga
+Murva
+Muszáj
+Muzsla
+Nádas Bérc
+Nádas Orom
+Nádas-halom
+Nádasi Halom
+Nádosi Halom
+Nagy Bagolai
+Nagy Béfő
+Nagy Gyilkos-halom
+Nagy Hallgató
+Nagy Határ
+Nagy hrabó
+Nagy István Halom
+Nagy Ivács
+Nagy Kőbánya
+Nagy Koppány
+Nagy Lóki
+Nagy Sménkes
+Nagy Vaskapu
+Nagy Vejkei
+Nagy Ziribár
+Nagy-Árnyék
+Nagy-Átal-kő
+Nagy-Baglyas
+Nagy-Banyászó
+Nagy-Bekecs
+Nagy-Bence-halom
+Nagy-bocsfő
+Nagy-bodzás
+Nagy-Bogát-halom
+Nagy-Csákány
+Nagy-Cser
+Nagy-Csősz-halom
+Nagy-dél
+Nagy-Eged
+Nagy-erdő
+Nagy-Galla
+Nagy-Gella
+Nagy-Gete
+Nagy-Hábod
+Nagy-hárs
+Nagy-hársas
+Nagy-hát
+Nagy-Henc
+Nagy-Hideg
+Nagy-homoki-domb
+Nagy-Inóc
+Nagy-Kevély
+Nagy-kő-tető
+Nagy-Koncsúr
+Nagy-Kopasz
+Nagy-Kőrös
+Nagy-Korsós
+Nagy-Mána
+Nagy-Mész-tető
+Nagy-Meszes
+Nagy-Milic
+Nagy-Murga
+Nagy-Musak
+Nagy-oldal
+Nagy-orom
+Nagy-Papaj
+Nagy-Papucs
+Nagy-Púpos-halom
+Nagy-répás
+Nagy-rózsás
+Nagy-sári
+Nagy-Sas
+Nagy-Som-tető
+Nagy-Széna
+Nagy-szénás
+Nagy-Szoba
+Nagy-szőlőhegy
+Nagy-Szoplák
+Nagy-Szór
+Nagy-Szuha
+Nagy-Teke
+Nagy-Tiba
+Nagy-vadálló
+Nagy-Vidi-halom
+Nagy-Zsunyi
+Nagybükk
+Nagycsonkás
+Nagyegres
+Nagyhalom
+Nagyhatárdomb
+Nagyhegy
+Nagyjátó
+Nagykilátó
+Nagykő-tető
+Nagykorcsolyás
+Nagytag
+Nagyvölgy Feje
+Nap
+Naszály
+Német
+Nosztány
+Nyakas-tető
+Nyakvágó-halom
+Nyáras
+Nyári Hatod
+Nyáros Tető
+Nyergestető
+Nyest
+Nyikom
+Nyilás
+Nyír-kúti
+Nyíregyházi Rátót
+Nyírjes
+Nyírmeg
+Nyúli
+Nyúzó Part
+Óalmás
+Odor
+Odvas
+Óház
+Ökör
+Ökrös
+Ól
+Oldal
+Ólom
+Ónszeg
+Őr-kő
+Őr-szeg
+Orbán
+Ördög-küllője
+Ördögásta
+Ördöghomlok
+Öreg János-dombja
+Öreg Kereszt
+Öreg Kettős
+Öreg Petre
+Öreg-bükk
+Öreg-Disznóhát
+Öreg-Futóné
+Öreg-kő
+Öreg-Kovács
+Öreg-szőlők
+Öreg-vágási
+Öregnyulas
+Öregszőllő
+Örfa-tető
+Óriás
+Örkény
+Orom-tető
+Ortás
+Örvény-kő
+Örvényes
+Orvos
+Ostromos
+Oszlási
+Oszra-tető
+Öt-halom
+Ótotthegy
+Óvár
+Őz
+Őzedi-halom
+Őzhalom
+Packa
+Pacsirta
+Pados-tető
+Páhegy
+Pajzos-tető
+Páka-halom
+Pakod
+Pál
+Pál-bükk
+Palánt-tető
+Pálházi
+Palinkás Halom
+Pallódomb
+Pálos Domb
+Palota
+Pamuki Domb
+Pangyér
+Pannonhalma
+Pap Tava
+Pápavár
+Papdi
+Papmajor
+Papod
+Paprányos
+Part-fő
+Páskum
+Pásztor-lápa
+Pazsag-tető
+Peces Halom
+Pécs-kő
+Pécsi
+Péntek
+Pere-halom
+Pereces-kő
+Perekedi
+Peres-bérc
+Pergyó
+Perjászó-tető
+Perkóchegy
+Pernaki-halom
+Pes-kő
+Peszti
+Petendi-domb
+Péter-halom
+Péterdi
+Péterfai
+Péterné-tető
+Péti
+Petkevár
+Pető
+Pető-halom
+Petróczy
+Petyér
+Picula
+Pilinyvár
+Piliske
+Pillants
+Pince-halom
+Pince-tető
+Pincés
+Pinty-tető
+Pipis-halom
+Pipiske
+Pipiske-tető
+Pirittyó-tető
+Piros
+Pirtó
+Piskő
+Piszkés-tető
+Pisznice
+Pitics
+Pityerdomb
+Pócsvölgyi-tető
+Pogány
+Pogány-domb
+Pogányvár-tető
+Póka
+Poklos
+Pokolvölgy
+Polányi
+Pölöske
+Pölöskei Erdő
+Por
+Porkoláb
+Pósa-halom
+Posta
+Prédikáló
+Prédikálószék
+Prénihalom
+Prépost
+Prešovsko-tokajská vrchovina
+Pula
+Pulya
+Pulya-halom
+Pünkösd
+Pupi
+Purga
+Puskaporos
+Puszta Szőllő
+Pusztavárdomb
+Rábca
+Ráckozári
+Radits-halom
+Radvány-tető
+Radványi Bérc
+Ragácsa
+Rajki
+Rákóczi-domb
+Rákos-lápa-bérc
+Rakottyás
+Ráró
+Rát
+Rátos-tető
+Recsek
+Rékas
+Remete-tető
+Rendeki
+Renget-bérc
+Répa
+Rét-domb
+Réti-halom
+Rév-halom
+Réz-part
+Ricsó
+Rigó
+Rigó-halom
+Rigyáci
+Ritka
+Rókás Halom
+Római-domb
+Romhányi
+Róna
+Ropó-bérc
+Rothadt Halom
+Rövid
+Rozs
+Rózsa-halom
+Rózsadomb
+Rózsás
+Rózsás-tető
+Rozsnyok-tető
+Ruda-tető
+Rudabányai
+Rudnokosi-dűlő
+Sabar
+Ság-oldal
+Sajgó
+Sajikút
+Sajti Halom
+Sákola-tető
+Salamon
+Salgó
+Salomfa
+Sánchegy
+Sándor-halma
+Sánka-halom
+Sántos
+Sár-berek
+Sárási-kő
+Sárga Halom
+Sarkad
+Sas-bérc
+Sas-kút
+Sasheverő
+Sasülés
+Sasvár
+Sátorma
+Sátoros
+Selyem
+Sér
+Serház
+Sérseki
+Sibrik
+Sige
+Sik
+Sikátor
+Sima
+Simai-halom
+Simon
+Simonos-tető
+Sinka
+Sinka-tető
+Sípoló
+Sipos
+Sirató
+Sóbánya-bérc
+Soblányas
+Sóhely-orom
+Sokoró
+Söld Halom
+Solti-halom
+Sólyom-halom
+Som-tető
+Sombokor
+Sömjéni Cser
+Somkő-tető
+Somló
+Somlyód
+Somós
+Söprős
+Söpte
+Sormás
+Sós-tető
+Sóshegy
+Sóska-halom
+Sóspál Halom
+Sóstó-domb
+Strázsa-halom
+Suhogó
+Sukori
+Sülye-völgyi-bérc
+Surjan
+Sűrű
+Sűrű-bérc
+Süveges
+Szabadság
+Szaka-halom
+Szakó-nyereg
+Szalacska
+Szálás
+Szálástói
+Szálkai
+Szállás
+Szállásverő
+Szalonnai
+Szamár
+Szamár-tető
+Szána-bérc
+Szanda
+Szántó
+Szántóhalom
+Szápár
+Szappanyos Halom
+Szár-kő
+Száraz
+Szárdóka
+Szarka
+Szársomlyó
+Szarvas-kő
+Szarvashely
+Szász-halom
+Szattai
+Szatymazi Halom
+Szava
+Szavai
+Százhalom
+Százvég
+Széchenyi
+Szécsi-halom
+Szederjes
+Szedres-halom
+Szeg
+Szék-halom
+Szék-hát
+Szekrény
+Szekrényes
+Szekszárdi
+Szekszárdi-dombság
+Szél
+Szeles
+Széles Kő
+Széles Lyuk
+Szélső-halom
+Szemenyei
+Szemere
+Szén
+Széna
+Szénás
+Szendi
+Szendi Határ
+Szénégető
+Szennai Szőllőhegy
+Szent Gáli
+Szent István
+Szent János
+Szent Miklósi
+Szent Pál
+Szent Péter
+Szent Péter-halom
+Szent Tamás
+Szent-szög
+Szentes
+Szentgyörgyvári
+Szentkereszt-bérc
+Szentkút
+Szentmártoni
+Szép-mező-bérc
+Széplány-bérc
+Szerencsi-dombság
+Szerkő-tető
+Sziklafal
+Szilágy
+Szilaj Halom
+Szilas-fő
+Szilas-tető
+Szilos-tető
+Szilvás-kő
+Szilvási-kő
+Szima-halom
+Szinai
+Színai
+Szincsehalom
+Szionda-halom
+Szirtes-tető
+Szivárványos
+Szőlő Megi
+Szőlős
+Szőlős-halom
+Szoma
+Szomjúhát
+Szőr-part
+Szücskü
+Szúnyog
+Szúnyog-domb
+Szurdok
+Szurdok-tető
+Szurok
+Tábla
+Taborvölgy
+Tagyos
+Takácsi Gúla
+Tálas-bükk
+Taliga
+Tályog
+Tamás
+Tamás-halom
+Táncos-halom
+Tápéi Halom
+Tapsoló
+Tapsonyi
+Tar-kő
+Tarcsai Halom
+Tardi
+Tardonai-dombság
+Tardosi
+Targyi-halom
+Tarlóra
+Tarnóc
+Taró-fő
+Tarpai
+Tasziló
+Tatár Halom
+Tatársánc
+Tátika
+Téglás
+Tehén
+Tekerület
+Telek
+Telekes
+Telekes-oldal
+Teleki
+Télizöldhegy
+Temető Halom
+Temető Tábla
+Temető-domb
+Templom-domb
+Templomdomb
+Tenkes
+Tepke
+Tési-fennsík
+Tétel-halom
+Tetemhegy
+Tetenke
+Tétényi-fennsík
+Tetétlen
+Tetű-halom
+Tevel
+Tikos-domb
+Tilalmas-bérc
+Tinós
+Tóbiás
+Tódor
+Tóhely-domb
+Tök-halom
+Tokaji
+Tókató
+Tölgyes-Mátra
+Tölgyvári
+Tolmács
+Tolnai-hegyhát
+Tolvaj
+Tömlöc
+Tompa
+Tompos
+Tönkölös
+Topola
+Tornai-dombság
+Török Vár
+Török-domb
+Török-halom
+Törökugrató
+Törzsök
+Tót
+Tót-hegyes
+Tóth Miska-halom
+Tóti
+Tótvárosi
+Tubes
+Tubuka
+Tunyog
+Tuskós
+Tűzkő
+Tűzköves-halom
+Túzok
+Tyúkos Halom
+Új-fogás-tető
+Új-kút-tető
+Új-major
+Új-Szász-halom
+Új-szőlőhegy
+Új-városi
+Újállás
+Újkereszt-tető
+Újmajor
+Újmegyes
+Ultra
+Ungi
+Upponyi
+Urak Asztala
+Úrhegy
+Ürmös Halom
+Üsti
+Üstök-fő
+Úthegy
+Üveghegy
+Uzd
+Váci
+Vadász
+Vadhányás
+Vágó
+Vágott
+Vágott Halom
+Vaja
+Vajda
+Vajdavár
+Vakarás
+Vár-berek
+Vár-domb
+Vár-tető
+Váraljai
+Varászló
+Várhely
+Vári
+Vári Domb
+Varjú
+Várkő
+Varnyas
+Varnyas Tető
+Városlőd
+Vas-halom
+Vásár
+Vásáros
+Vásáros-halom
+Vaszkó-halom
+Vég-halom
+Vég-máli
+Veleméri
+Velence
+Velencei
+Vén
+Vén-szőlő
+Verem Bérc
+Veres
+Veres Halom
+Vereshegy
+Vermes Halom
+Verő-kő-bérc
+Verő-tető
+Vértes
+Vése
+Veszprémi-fennsík
+Vigadó
+Víglaki-domb
+Villányi
+Villó
+Virág
+Visegrádi
+Vita-halom
+Vitális Halom
+Vityakő
+Vizes
+Vizes-völgy hegyese
+Vízköz
+Víztelen
+Völcseji
+Vörös Kereszt
+Vörös Mihály
+Vörös-bérc
+Vörös-sár
+Vörösi
+Zabarla
+Zajki
+Zalai Halom
+Zalai-dombság
+Zamárhegy
+Zámolyi-bükk
+Zápolca
+Zengő
+Zöld Halom
+Zombor
+Zörög-tető
+Zsadó
+Zsámbéki
+Zselic
+Zsellér
+Zsérci-Nagy-dél
+Zsidó-halom
+Zsidóhegy
+Zsigmond
+Zsimba
+Zsinór-domb
+Zsivány
+Zsizsák
+Zsodány
+Zsófi
+Zsolcai-halom
+Zsuny
+Zubogó-tető
+Zúgó-tető
+Zuppa-tető
+Zuvári

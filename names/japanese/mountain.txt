@@ -1,0 +1,3791 @@
+Maru	64
+Eboshi	37
+Kunimi	33
+Gongen	29
+Tengu	29
+Taka	25
+Ōmori	22
+Shiro	22
+Asahi	18
+Atago	17
+Kuromori	17
+Yahazu	16
+Naka	15
+Iimori	14
+Ōhira	13
+Takakura	13
+Yake	13
+Higashi	12
+Jō	12
+Kannon	12
+Kenashi	12
+Mikuni	12
+Takatori	12
+Chausu	11
+Kuro Mori	11
+Sankaku	11
+Takamori	11
+Takao	11
+Tōmi	11
+Konpira	10
+Nishi	10
+Yakushi	10
+Yoko	10
+Futago	9
+Ishi	9
+Kagami	9
+Kuro	9
+Hachibuse	8
+Haku	8
+Kanmuri	8
+Myōjin	8
+Ō Take	8
+Ōkura	8
+Ōtsuka	8
+Sasamori	8
+Sengen	8
+Takahata	8
+Takanosu	8
+Amagoi	7
+Byōbu	7
+Futatsu Mori	7
+Hakamagoshi	7
+Jizō	7
+Kabuto	7
+Kokuzō	7
+Komaga	7
+Myōken	7
+Ōmine	7
+Ryūō Zan	7
+Takamine	7
+Tenjin	7
+Kasa	6
+Kenga	6
+Kyōzuka	6
+Mae	6
+Moya	6
+Nokogiri	6
+Shakaga	6
+Takatsuka	6
+Tate	6
+Akakura	5
+Ban	5
+Futatsu	5
+Hachiman	5
+Haguro	5
+Hi	5
+Hijiri	5
+Ishikura	5
+Kana	5
+Kasatori	5
+Katsuragi	5
+Kōno	5
+Kurakake	5
+Maki	5
+Matsukura	5
+Mitake	5
+Mitsumine	5
+Moiwa	5
+Ōtaki	5
+Sasa	5
+Shibakura	5
+Shimizu	5
+Shiraiwa	5
+Taka Mori	5
+Tsurugi	5
+Washiga	5
+Aka	4
+Akiba	4
+Asama	4
+Fudō	4
+Futamata	4
+Hachiga	4
+Hiko	4
+Hira	4
+Hiuchi	4
+Hiyamizu	4
+Inari	4
+Iwa	4
+Iwakura	4
+Iwao	4
+Kamui	4
+Kamuro	4
+Karamatsu	4
+Kasagi	4
+Kompira	4
+Kumano	4
+Kuroiwa	4
+Kurosawa	4
+Masugata	4
+Mikasa	4
+Mitsu	4
+Mitsumori	4
+Monomi	4
+Mori	4
+Myōken Zan	4
+Naga	4
+Nanatsu	4
+Norikura	4
+Ogura	4
+Ōhora	4
+On Take	4
+Ōtani	4
+Ryūga Mori	4
+Shiraishi	4
+Takamaru	4
+Takasaki	4
+Takasu	4
+Take	4
+Tongari	4
+Tsukushi Mori	4
+Akaiwa	3
+Akakuzure	3
+Amagiri	3
+Ame	3
+Arao	3
+Arasawa	3
+Ariake	3
+Azuma	3
+Bansho	3
+Bishamon	3
+Bōzu	3
+Daikoku	3
+Daimyōjin	3
+Dainichi	3
+Futatsumori	3
+Gake	3
+Gaki	3
+Gozen	3
+Gyōnin	3
+Ha	3
+Hachimori	3
+Higashimata	3
+Hora	3
+Ishidō	3
+Ishigami	3
+Jōga	3
+Kamakura	3
+Kanō	3
+Karasawa	3
+Karasu	3
+Kinashi	3
+Kō	3
+Kōbō	3
+Kōchi	3
+Kogane	3
+Kongō	3
+Koshi	3
+Kotohira	3
+Kujū	3
+Kurohime	3
+Maya	3
+Me	3
+Megami	3
+Mikuniga	3
+Minami	3
+Mitsu Mori	3
+Mitsuga	3
+Mitsugo	3
+Mitsuishi	3
+Monju	3
+Nagao	3
+Nangō	3
+Neko	3
+Ōbora	3
+Ogami	3
+Ōmi	3
+Ontake	3
+Ōsaki	3
+Ōsasa	3
+Ōsawa	3
+Ōtō	3
+Otowa	3
+Panke	3
+Poroshiri	3
+Ryūga Take	3
+Sanno	3
+Sanpō Zan	3
+Sekison	3
+Shira	3
+Shiraga	3
+Shirahata	3
+Shirakura	3
+Shirataki	3
+Shiratori	3
+Suribachi	3
+Takajō	3
+Takami	3
+Takashiro	3
+Tashiro	3
+Tateishi	3
+Tendai	3
+Tengu Mori	3
+Tobigasu	3
+Toishi	3
+Tomi	3
+Tōmyō	3
+Tōno	3
+Tsubakuro	3
+Ueno	3
+Uomi	3
+Ushikubi	3
+Washio	3
+Yae	3
+Yoshino	3
+Yurugi	3
+Abu	2
+Akaishi	2
+Akasaki	2
+Akazawa	2
+Ando	2
+Aono	2
+Aoshika	2
+Arakura	2
+Arase	2
+Asahina	2
+Ashikura	2
+Ashitaka	2
+Awaga	2
+Azumaya	2
+Banjō	2
+Benten	2
+Benzaiten	2
+Budō	2
+Dai	2
+Daibutsu	2
+Daigo	2
+Daikan	2
+Daimaru	2
+Daimonji	2
+Daisen Zan	2
+Daitengu	2
+Dan	2
+Denchū	2
+Ebisu	2
+Ebōshi	2
+Fuji	2
+Funao	2
+Fuppushi	2
+Futakami	2
+Ganke	2
+Genji	2
+Gion	2
+Gobanga	2
+Hachirō	2
+Hage	2
+Hagi	2
+Hakone	2
+Hanao	2
+Hanatate	2
+Hanazono	2
+Hane	2
+Hankō	2
+Hase	2
+Heikega	2
+Hiei-zan	2
+Higura	2
+Hikage	2
+Himuro	2
+Hino	2
+Hinoki	2
+Hinoki Mori	2
+Hiruga Take	2
+Hiyori	2
+Hokotate	2
+Honjō	2
+Horobetsu	2
+Horowa	2
+Ichino	2
+Iino	2
+Inazumi	2
+Inunaki	2
+Ishiga	2
+Ishimori	2
+Iwagami	2
+Iwanai	2
+Iwaya	2
+Jinga	2
+Jinkichi Mori	2
+Jōdo	2
+Jōganji	2
+Jōgo	2
+Jōno	2
+Jōnō	2
+Jūman	2
+Kagobō	2
+Kagura	2
+Kamafusa	2
+Kame	2
+Kamega-mori	2
+Kamuri	2
+Karakura	2
+Karematsu	2
+Kasaga	2
+Kashigari	2
+Kawachi	2
+Kaya	2
+Kinjō	2
+Kirigatani	2
+Kishima	2
+Kita	2
+Kitami Fuji	2
+Kiura	2
+Ko	2
+Koasahi	2
+Kōjin	2
+Kokuzō Zan	2
+Komaga Take	2
+Komaga-take	2
+Komatsu	2
+Komeno	2
+Komori	2
+Kōmori-take	2
+Koshiki	2
+Kōyō Zan	2
+Kozuka	2
+Kumaga	2
+Kumotori	2
+Kurobaru	2
+Kuroson	2
+Kuruma	2
+Kushi	2
+Kushiga	2
+Kūtai	2
+Kuwadai	2
+Kyoga	2
+Kyōga	2
+Manaita	2
+Manaitakura	2
+Manju	2
+Mantarō	2
+Maruzasa	2
+Masukata	2
+Mi	2
+Mi Sen	2
+Mi Take	2
+Mifune	2
+Mikazuki	2
+Mikura	2
+Minamisawa	2
+Misumi	2
+Mitsukura	2
+Mitsuo	2
+Miwa	2
+Miyazuka	2
+Mizunashi	2
+Momiji	2
+Mure	2
+Mutsuga	2
+Myōjinga	2
+Myōjinga Take	2
+Myōjōga Take	2
+Nabekanmuri	2
+Nabekoshi	2
+Nabekura	2
+Nabemori	2
+Nagasaka	2
+Nagasaki	2
+Nanakura	2
+Nara	2
+Naranokimori	2
+Nijō	2
+Nita	2
+Noroshi	2
+Nukkibetsu	2
+Numano Mori	2
+Ōba	2
+Ōdate	2
+Ōfuna	2
+Ōgi	2
+Ōgusu	2
+Ōhinata	2
+Ōishi	2
+Ōiwa	2
+Ōkenashi	2
+Oketo	2
+Ōkōchi	2
+Oku	2
+Okumaru	2
+Omeguri	2
+On	2
+Ōnagi	2
+Onari	2
+Onigajō	2
+Onikura	2
+Onishi	2
+Ōno	2
+Origami	2
+Orito	2
+Ōsa	2
+Ōsaka	2
+Ōshiba	2
+Ōshiro Mori	2
+Osuzu	2
+Otobe	2
+Otoko	2
+Ōtsuji	2
+Ponpon	2
+Poronupuri	2
+Ryūō	2
+Sakkuru	2
+Samakkenupuri	2
+Saru	2
+Sawara	2
+Senbon	2
+Sengoku	2
+Senjō	2
+Shaka	2
+Shakujō	2
+Shiba Mori	2
+Shichimen Zan	2
+Shigekura	2
+Shimo	2
+Shirakami	2
+Shirane	2
+Shiromi	2
+Shiromizu	2
+Shōga	2
+Shōjiga Take	2
+Soto	2
+Suishō Zan	2
+Suitengū	2
+Suwa	2
+Suzuga	2
+Taihei	2
+Taihei Zan	2
+Taiko	2
+Taka-mori	2
+Takaba	2
+Takabachi	2
+Takadate	2
+Takagi	2
+Takahachi	2
+Takahiro	2
+Takakuma	2
+Takamatsu	2
+Takato	2
+Takatō	2
+Takatsumori	2
+Takayasu	2
+Takeno	2
+Taki	2
+Takinosawa	2
+Tango	2
+Tatsuta	2
+Tenjō	2
+Tenjō Zan	2
+Tenjō-zan	2
+Tenpō Zan	2
+Tochi	2
+Toda	2
+Tōga	2
+Togami	2
+Tokachi	2
+Tokoro	2
+Tokura	2
+Tomari	2
+Tomuraushi	2
+Towada	2
+Towari	2
+Toyoni	2
+Tsubaki	2
+Tsuchikura	2
+Tsuki	2
+Tsukimi	2
+Tsurigane	2
+Tsutsuga Take	2
+Tsuzura	2
+Umanokami	2
+Umanose	2
+Ushi	2
+Washibetsu	2
+Ya	2
+Yagura	2
+Yakushi Mori	2
+Yamabushi	2
+Yayama	2
+Yokoo	2
+Yone	2
+Yūhi	2
+Yunosawa	2
+Zaō	2
+Abegadate
+Abekura
+Abetate
+Abō
+Aboshi
+Abura
+Aburahi
+Adachi
+Adatara
+Āga
+Agehara
+Aguroshi
+Ahoro
+Aidomari
+Aiko
+Aikubo
+Aino
+Aizawa
+Aizen
+Aizu-asahi
+Aizu-nunobiki
+Ajara
+Akabai
+Akabane
+Akadani
+Akagami
+Akagi
+Akagi Komagatake
+Akagio
+Akaguna
+Akagure
+Akahage
+Akahira
+Akaishi-sammyaku
+Akaiwataka
+Akajō
+Akama
+Akamidō
+Akaotoko
+Akaru
+Akasobu
+Akasu
+Akasuke
+Akatan
+Akatsu
+Akausagi
+Akaushi
+Akayuki
+Akegatao
+Aki
+Akibarai
+Akiha
+Akkamori
+Akuba
+Akuso
+Amafuki
+Amaga Take
+Amaga-take
+Amagahage
+Amagi
+Amagi Sanmyaku
+Amagoe-zan
+Amagoze
+Amagusuku
+Amakazari
+Amakoidana
+Amamegakura
+Amamizu
+Amanobō
+Amanokagu
+Amatsuka
+Amayobari
+Amazura
+Ameike Mori
+Amemasu
+Ametaki
+Amihari
+Ampeiji
+Anaguchi
+Anakura
+Anama
+Anamega
+Anba
+Anbō
+Anetori
+Anmo
+Antaro
+Aoba
+Aoi
+Aoiwa
+Aokageyama
+Aomatsu
+Aomatsuba
+Aomine
+Aonagi
+Aosa
+Aosaba
+Aoshio
+Aoso
+Aota-nanba
+Aoya
+Apoi
+Ara
+Āra
+Ara-take
+Arabitaki
+Arafune
+Aragane
+Aragorō
+Arahira
+Arai
+Araiso
+Arakai
+Arakawa
+Arakawa-Naka
+Arakine
+Ararega-sen
+Arashi
+Arashima
+Arato
+Arauchi
+Arigata
+Arikawa
+Arikura
+Arisawa
+Arochi
+Asa
+Asago
+Asahiga Maru
+Asajinnno
+Asaka
+Asakawa
+Asakuksa
+Asakura
+Asama-take
+Asamakakushi
+Asashima
+Ashibetsu
+Ashida
+Ashima
+Ashio
+Ashiwada
+Ashizawa
+Asoga
+Asoiwa
+Asuka
+Asuwa
+Atema
+Atodo
+Atosanupuri
+Atsumi
+Auga
+Awa
+Azami
+Azamiga
+Azegamaru
+Azōji
+Azukimochi
+Azuma-kofuji
+Azumane
+Babame
+Bafunmori
+Ban'ya
+Banda-mori
+Bandai
+Bandori Mori
+Bangamori
+Banjin
+Banjirō
+Banna
+Banoki
+Bansyo-no-Tuzi
+Banta
+Banzaburō
+Banzō Zan
+Bara
+Basara
+Batei Zan
+Batō Zan
+Bekkari
+Benga
+Benkei
+Bessho
+Betsu-zan
+Bibai
+Biei
+Binbō
+Binneshiri
+Binnomizu
+Binshi
+Birao Zan
+Biruwa
+Bishago
+Bitsuke
+Bizembō-zan
+Bodai
+Bōjō
+Bōju
+Bōkake
+Bokoi-fuji
+Bondai Mori
+Bonju
+Bonten
+Bōshi
+Botchiishi
+Bozu
+Bōzuhatake
+Budō-mori
+Budōhana
+Budōzawa
+Bukkyō Zan
+Bukō-zan
+Buna Mori
+Bunaga
+Bunagahira
+Bunatsubure
+Bunko
+Buraku
+Bushiga
+Busshōga
+Buzenbō Zan
+Byobu
+Byōbuiwa
+Chabatake
+Chibusa
+Chienbetsu
+Chigogabaka
+Chigyō
+Chihomaiwa
+Chijiga
+Chijin
+Chikami
+Chikappetsu
+Chikaraishi
+Chimikeppu
+Chinishibetsu
+Chinjin
+Chirai
+Chise-nupuri
+Chiseneshiri
+Chishaga
+Chitokaniushi
+Chōbo Zan
+Chōfukuji
+Chōga
+Chōja Mori
+Chōjaga Take
+Chōjanomori
+Chōkai
+Chōkai-zan
+Chōkan
+Chōkei Mori
+Chōkurō
+Chōnomori
+Chōrai Zan
+Chōrōga
+Chōsen
+Chōshichirō-zan
+Choshiga
+Chōya
+Chūbetsu
+Chūgoku-sammyaku
+Chūmon
+Chūō Zan
+Dai Ryō
+Dai-mugen
+Dai-tenjō
+Daiba
+Daibosatsu
+Daibutsuji
+Daichi
+Daicho-zan
+Daifugen
+Daifuku
+Daifuku-zan
+Daiga
+Daiga Take
+Daigyōji
+Daikan Zan
+Daikō Sanmyaku
+Daikoku Mori
+Daikurataka
+Daima
+Daimanji
+Daimon
+Dainichi-zan
+Dainichiga
+Dairoku
+Dairokuten Zan
+Daisaku
+Daisangen
+Daisawa
+Daisen
+Daisetsu-zan
+Daishi
+Daishimori
+Daishōgongen
+Daishōjin
+Daitenku
+Daitō
+Daitsū Zan
+Daizuka
+Danno
+Daramizu
+Daruga
+Daruma
+Daruya
+Dashiga
+Denjimori
+Denshin
+Dewa Sanchi
+Dewa Sanzan
+Dōdaira
+Dōga-mori
+Dōgan Zan
+Dōgasawa
+Dōgatai
+Dōgo
+Dōhaku
+Dōiiri Zan
+Dōji
+Dokko Mori
+Dokko Zan
+Dokono Mori
+Dōmei
+Donabe
+Dōnarumi
+Dondoro
+Doronoki
+Dōtoko
+Dōtoku Zan
+Doya Mori
+Dōza Kinzan
+Ebino
+Ebira
+Ebisukago
+Eboshiga
+Eboshiga Take
+Eboshiga-take
+Ebōshiga-take
+Eburisashi
+Echigo Sanmyaku
+Echigosawa
+Echinangeppu
+Echizen
+Egami
+Egasa
+Eirei Zan
+Ematano Kashira
+Ena
+Eni
+Eniwa
+Enkai Zan
+Eno-take
+Enoki-tōge
+Erakubo
+Esaomantottabetsu
+Eshiro
+Etai
+Etanpakku
+Etchūzawa
+Etosukereppu
+Ezo-sankei
+Ezomatsu
+Ezurikomori
+Fuchū
+Fudatate
+Fudekage
+Fudetate
+Fudontō-rei
+Fufuta
+Fuji Panoramic Ropeway
+Fujikura
+Fujimi
+Fujio
+Fujisawa Mori
+Fujishaga
+Fujiwara
+Fuka
+Fukibahira
+Fukikoshi
+Fukkoshi-eboshi
+Fūkō Zan
+Fukube
+Fukuchi
+Fukuma
+Fukuno
+Fukushi
+Fumi
+Funa
+Funa Iwa
+Funagabora
+Funagata
+Funakoshi
+Funami
+Funamyōjin
+Funano
+Funasaka
+Funatsu
+Funbe
+Furebetsu
+Furō
+Furō Zan
+Furu
+Furue
+Furukamaya
+Furukannon
+Fushibe
+Fushimi
+Fusoko
+Futaba
+Futanami
+Futatsuishi
+Futatsumaru
+Futazaki
+Futazuka
+Futomi
+Futtsugi
+Ga Ssan
+Gagyū
+Gamakura
+Gan Mori
+Ganbi
+Ganbō Iwa
+Ganjaku
+Gankai Zan
+Ganki
+Gankotsu
+Ganto
+Garagara
+Garan
+Garo
+Garyū
+Garyū Zan
+Gas
+Gatekaru
+Ge Zan
+Gemanpo
+Gempuku
+Gen
+Genda
+Gengorō
+Genkotsu
+Genpachi Mori
+Gentōgura
+Gichu
+Gin-zan
+Goban Mori
+Gobansho
+Gobō
+Godan
+Gōen-zan
+Goi
+Goiga Mori
+Goishi
+Goishiga
+Gojizō
+Gojōmori
+Gokagahara
+Goken Zan
+Gokendani
+Gokenga Mori
+Gokurakuzaka
+Gomadan Zan
+Gomyōkō
+Gongen Mori
+Gongendō
+Gongengao
+Gonomiya
+Gontakura
+Gōriki
+Gorin Zan
+Gorogoro
+Gorota
+Goryū
+Goryuh
+Gose
+Gōshi
+Goshiki
+Gosho
+Goshoga Take
+Gotarō
+Goten
+Goten-zan
+Gōtō
+Gotsū
+Goun
+Goyō-zan
+Goyū Zan
+Goza-take
+Gozaga
+Gozaisho
+Gozaishono
+Gozenga Take
+Gozō
+Gumbetsu
+Gushin
+Gusuku
+Gyōja
+Gyōja-zan
+Gyōjaga Take
+Gyōjagaeri
+Gyōsen
+Ha Ssan
+Haboya
+Habuno
+Hachi Mori
+Hachi-mori
+Hachibē
+Hachiganaru
+Hachigao
+Hachigata
+Hachimaki
+Hachimanga Oka
+Hachimangaoka Kōen
+Hachimen Zan
+Hachino
+Hachirō-eboshi
+Hachiryū Zan
+Hachiya Mori
+Hadasamu
+Hagane
+Hage Take
+Haginokata
+Haginomori
+Hagitsuka
+Hago
+Hahaga
+Haidate
+Haike
+Hakama
+Hakamaga
+Hakamakoshi
+Hakamogoshi
+Hakase
+Hakkaisan
+Hakkei Mori
+Hakken
+Hakkō Zan
+Hakkōda
+Hakkoku
+Hako
+Hakodate
+Hakoga Mori
+Hakudo
+Hakuroku
+Hakusan
+Hakusan-Shakaga
+Hakutai
+Hakutō
+Hakuun
+Hakuun Zan
+Hama
+Hamaguri
+Hamaishi
+Hamamasu
+Hamamasugoten
+Hamana
+Hanabuchi
+Hanachiga-sen
+Hanamagari
+Hanamure
+Hanano
+Hanaoka
+Hanaremori
+Hanataka Sen
+Hanatsuka
+Handa
+Handawara
+Handō Zan
+Hanta
+Hantake
+Hanukibashi
+Happei
+Happō
+Happō Zan
+Happū
+Hara
+Haradai
+Harinoki
+Harumi Dai
+Haruna
+Hasama
+Hasami
+Hashigo
+Hashikake
+Hashikami
+Hashira
+Hashiran
+Hata
+Hatabiki
+Hatake
+Hatakechi
+Hatakura
+Hatanagi
+Hatchō
+Hatchō Zan
+Hatenashi-sammyaku
+Hati-no-o
+Hatibuse
+Hato
+Hatsukami
+Hatsumori
+Hatsuyuki
+Hattaomanai
+Hatten
+Hayabusa
+Hayachine
+Hayahino
+Hayama
+Hayase Mori
+Hego
+Hei Zan
+Heike Zan
+Heikedaira
+Heikejō Zan
+Heisōgen
+Heisuke
+Heko
+Henshō
+Herai
+Herokiuwashi
+Hiate
+Hibaru
+Hida-sammyaku
+Hidaka Sanmyaku
+Hidari
+Hidega Take
+Hiebata
+Hiegoya
+Hiehata-tōge
+Higakure
+Higane
+Higashi-hōben-zan
+Higashi-nupukaushinupuri
+Higashi-sampōga-mori
+Higashi-taki
+Higashiazuma
+Higashichōkai
+Higashidani
+Higashiken
+Higashimaru
+Higashimikabo
+Higashimikuni
+Higashino Mori
+Higashiō Mori
+Higashiryūō Zan
+Hige
+Higo
+Higurashi
+Hiji
+Hikagedaira
+Hikari
+Hikinohira
+Hikinokoshi
+Hiko Take
+Hikura
+Himara
+Himega Take
+Himegozen
+Himekami
+Himekoshi
+Hina
+Hinakura
+Hinamori
+Hinata
+Hinatagura
+Hinden
+Hinden Maru
+Hino Take
+Hinode
+Hinokiboramaru
+Hinokiga Sen
+Hinokōchi
+Hinomaru
+Hinomiga Take
+Hinomine
+Hinosawa
+Hinoto
+Hira Mori
+Hiradani
+Hiraishi
+Hiramatsu
+Hirami
+Hirano Tsuji
+Hiranomatsu
+Hirao
+Hirao Fuji
+Hiratori
+Hirefuri
+Hirogai
+Hiromori
+Hirone
+Hiroo
+Hiru-zen
+Hiruba
+Hishiga Take
+Hishiga-take
+Hishikui
+Hitaidori
+Hitaitori
+Hitobone
+Hitoishi
+Hitokappu
+Hitokiri
+Hitomoshi
+Hitotsu
+Hitotsu Mori
+Hitotsuishi
+Hitsuga
+Hiu
+Hiyodori
+Hizatate
+Hobashira
+Hōbutsu Zan
+Hōdai
+Hōdatsu Zan
+Hodo
+Hōga Take
+Hogoshi
+Hoguchi
+Hoiro
+Hokiya
+Hoko
+Hokodai
+Hokoga Take
+Hokotsuku
+Hōman Zan
+Hommyō-zan
+Hondani
+Hongū-zan
+Honjō-zan
+Honmyōji
+Honoke
+Honzenbō
+Hōō Zan
+Hōonji
+Horaga
+Horai
+Hōraiji
+Horiko
+Horoiwa
+Horoka
+Hōroku
+Horonai
+Horotsuki
+Horoyasu
+Hōryū Zan
+Hoshi
+Hōshi
+Hoshiga
+Hoshigajō
+Hoshinoko
+Hoshiwara
+Hōshō
+Hosogoe
+Hosozō
+Hossaka
+Hosshō Zan
+Hossuo
+Hotaka
+Hotaku
+Hotei
+Hotemi
+Hōtō
+Hotokega-mori
+Hotokezuka
+Hottanjō
+Houonji
+Hoya Ishi
+Hoyoshi
+Hōzaka
+Hōzō
+Hōzuki
+Hukumi Take
+Hyakkan
+Hyakken
+Hyakuken
+Hyakukengō
+Hyōgajō
+Hyōno-sen
+Ibu
+Ibuki
+Ibuse
+Ichankoppe
+Ichifusa
+Ichigao
+Ichijho-zan
+Ichijōga
+Ichikira
+Ichimoku Zan
+Ichino Take
+Ichinomata
+Ichinosawa
+Ichinose
+Ichiri
+Icnimine
+Ideko
+Ido
+Idonnappu
+Igatani
+Igira
+Ihai
+Iida
+Iidake
+Iide
+Iiji
+Iioka
+Iitoyo Mori
+Iizuna
+Ijimi
+Ikake
+Ikaushi
+Ikegoya
+Ikeguchi
+Ikeno Take
+Ikenodaira
+Ikenoko
+Ikenotai
+Ikenotaira
+Ikoma
+Ikurushibe
+Ikusan
+Ikushumbetsu
+Imade
+Imano
+Imose
+Ina
+Ina-arakura
+Inaba
+Inahoshi
+Inako
+Inakura
+Inamura
+Inamuraga
+Inaniwa
+Inao
+Inasa
+Inkyozawa
+Innai
+Ino
+Inogashira
+Inohana
+Inokawa
+Inoki
+Inokofushi
+Inokura
+Inose
+Inota
+Inubijō
+Inubotoke
+Inubushi
+Inuga Take
+Inuga-take
+Inuoroshi
+Inutabu
+Inuushibetsu
+Ioh-zan
+Ippai Zan
+Irazu
+Irumukeppu
+Isanago
+Isari
+Isashi
+Isebachi
+Ishidate
+Ishigaki
+Ishiguro
+Ishikami
+Ishikari
+Ishikari-sanchi
+Ishikawa
+Ishikawa-dai
+Ishikiri
+Ishikui
+Ishimaki
+Ishimiji
+Ishimine
+Ishimogura
+Ishinage
+Ishinomiya
+Ishitani
+Ishiwari
+Ishizuchi
+Ishizuchino-mori
+Ishizumi
+Isobe
+Isoda
+Isosannupuri
+Issaikyō
+Itadaki
+Itado
+Itahiko
+Itajiki
+Itanabe
+Itanoura
+Itawari
+Itō
+Itō Ōyama
+Itoi
+Itose
+Ittai
+Ittokubō
+Iwabe
+Iwabokki
+Iwabuchi
+Iwadō
+Iwafuse
+Iwagoyazawa
+Iwaguro
+Iwaidō
+Iwaigame
+Iwakami
+Iwakeshu
+Iwano
+Iwao-nupuri
+Iwaseo
+Iwasuge
+Iwatake
+Iwataki
+Iwatanushi
+Iwate
+Iwato
+Iwatono
+Iwatsubo
+Iwawaki
+Iyoga Take
+Iyu
+Iyudani
+Iyudaninupuri
+Izari
+Izumi
+Izumi-sammyaku
+Izumiga
+Izushi
+Ja
+Jaishi
+Jari
+Jatouge
+Jidango
+Jigami
+Jigen
+Jiiga-take
+Jikkoku
+Jikyō Zan
+Jimbachi
+Jimbagata
+Jinba
+Jinga Mori
+Jinga-oka
+Jinkurō
+Jinmi
+Jinno
+Jinno Oka
+Jinroku
+Jippō Zan
+Jirōmaru
+Jiushichimagari
+Jizōga-take
+Jizōmori
+Jo-zan
+Jō-zan
+Jōbon
+Jōga Mori
+Jōgahira
+Jōgakura
+Jōgamori
+Jōgū
+Johnen
+Johoji
+Jōkura
+Jōmegi
+Jōnen
+Jōryūji
+Jōshō Zan
+Jūbu
+Jūni
+Jūniga
+Jūnijin
+Jūrō
+Jūrōzaemon
+Jūsanno
+Jūzō
+Kaba
+Kabari
+Kabutani
+Kabutoga-sen
+Kabutonagare
+Kachi-take
+Kado
+Kaerazu
+Kaerikumo
+Kagamashi
+Kagamiishi
+Kagamori
+Kagekiyo
+Kagitori
+Kagonoto
+Kagu
+Kaifuki
+Kaigahira
+Kaikō Zan
+Kaina Mori
+Kainari
+Kaino
+Kaiyō Dai
+Kajiga Mori
+Kajiki
+Kajikin Zan
+Kake
+Kakekura
+Kakineupuri
+Kakiyama
+Kakizaki
+Kakuda
+Kakui
+Kakuyoku
+Kama
+Kamaaoi
+Kamafuse-zan
+Kamaga
+Kamaga Take
+Kamanashi
+Kamatan
+Kameda
+Kamedani
+Kamei
+Kameishi Zan
+Kami
+Kami-hiru-zen
+Kami-kōchi
+Kami-no
+Kami-peipan
+Kamifukune
+Kamifutago
+Kamimyōjin
+Kamino
+Kaminoki
+Kamitome
+Kamitsutsumi
+Kamiyusawa
+Kamizuka
+Kammuri
+Kamomemori
+Kamon
+Kamonosawa
+Kamui-pon
+Kamuiekuuchikaushi
+Kamuikotan
+Kamuinupuri
+Kamuiroki
+Kamuriki
+Kan Bō
+Kan'on
+Kan'udo
+Kanabachi
+Kanaike Mori
+Kanakuni
+Kanami
+Kanamori
+Kanarase
+Kanayama
+Kanazu
+Kanchō Zan
+Kandachi
+Kando
+Kandori
+Kanega Take
+Kanega-take
+Kanegura
+Kanehori
+Kanemaru
+Kanengo
+Kanetsukidō
+Kanikan
+Kanjiushi
+Kankan
+Kankō Zan
+Kankura
+Kanmuriga
+Kanmuriga Take
+Kannan-zan
+Kannon Mori
+Kannon-mori
+Kannon-zan
+Kannonji
+Kannonmine
+Kannonnyama
+Kanō Zan
+Kanō-zan
+Kanoko
+Kanokura
+Kanpo
+Kanpū Zan
+Kantō-sanchi
+Kanuki
+KanyūYama
+Kaore
+Kaparuwatara
+Karahori
+Karakasa
+Karakuni
+Karamaki
+Karasu Mori
+Karasu-take
+Karasuba
+Karasuki
+Karasuo
+Karei Zan
+Kariba
+Karijō
+Karimata
+Kario
+Kariyasu
+Karō
+Karōga
+Karōga-take
+Karuto
+Kasaga-take
+Kasagamori
+Kasagashira
+Kasahōshi
+Kasakake
+Kasakura
+Kasamatsu
+Kasamori
+Kasane
+Kasanuki
+Kasasa
+Kasasute
+Kasazume
+Kashi
+Kashihara
+Kashira
+Kashiranashi
+Kashiwa-zan
+Kashiwagi
+Kashiwara
+Kashō Zan
+Kasshi
+Kasu
+Kasube
+Kasuga
+Kasumizawa
+Kataba
+Katagoshi
+Katamuki
+Katanawa
+Katashiro
+Katsuga
+Katsuhira
+Katsuka
+Katsuma
+Katsura
+Katsura-kubo
+Katsuratai
+Katsuu
+Kawageta
+Kawakami
+Kawanage
+Kawanori
+Kawara
+Kawaruppu
+Kaya Mori
+Kaya-mori
+Kayakari
+Kayō
+Kayō zan
+Kazafuki
+Kazaki
+Kazakoshi
+Kazakura
+Kazashi
+Kazenotaka
+Keana
+Keganeshiri
+Kegon
+Kegura Mori
+Keichō-zan
+Keikan Zan
+Keikan-zan
+Keisoku Zan
+Kekachi
+Kekatsu
+Kemmei-zan
+Kemō
+Kenashi-mori
+Kenjō
+Kenjō Zan
+Kenmori
+Kenno
+Kenpachinagare
+Kensaki
+Kento-zan
+Kenzaka
+Kero
+Kesamaru
+Ki
+Kichijō-zan
+Kii-sammyaku
+Kijihiki
+Kijinome
+Kikin
+Kimen Zan
+Kimen-zan
+Kimobetsu
+Kimonpora
+Kimotsuki Sanchi
+Kimpō-zan
+Kinada
+Kinbō
+Kinbō Zan
+Kinboku
+Kinchaku
+Kinka Zan
+Kinkōji
+Kinmei Zan
+Kino
+Kinobe
+Kinokuchi
+Kinpō Zan
+Kinryū Zan
+Kinshō Ji
+Kintoki Zan
+Kinubari
+Kinuhoshi
+Kiraga Oka
+Kirazu
+Kiri
+Kirin Zan
+Kirinoki
+Kirishima
+Kirishimaga Oka
+Kiritachi
+Kiritō
+Kirō
+Kiroku
+Kisen
+Kishi
+Kiso Komaga-take
+Kiso-sammyaku
+Kita Komagatake
+Kita-Hotaka
+Kita-koshi-take
+Kita-shubun
+Kitahinaga
+Kitaizumiga Take
+Kitakami-kōchi
+Kitakuzu
+Kitamata
+Kitami Sanchi
+Kitamiga Oka
+Kitanomata
+Kitoushi
+Kitsune
+Kitsunega Mori
+Kittoya
+Kiyanma
+Kiyobe
+Kiyomi
+Kiyosumi
+Ko Fuji
+Ko Take
+Ko'usagi
+Ko-arakawa
+Ko-dainichi-zan
+Ko-garasu
+Ko-hachimori
+Ko-iwa
+Ko-kujira
+Ko-manago
+Ko-tōmi
+Ko-usu
+Koba
+Kōbe Maru
+Kobiki
+Kobinai
+Kobira
+Kobuchi
+Kobuki
+Kobushiga
+Kodaiji
+Kōdaiji
+Kodakamori
+Kofuji
+Kofujikura Mori
+Kogamaru
+Kogara
+Kogarashino-mori
+Kogo
+Kogorō
+Kogura
+Koguro Mori
+Kohanai
+Kohata
+Kohide
+Kōji
+Kōjibo
+Kojō
+Kojōga
+Kojōga Hana
+Kokarōto
+Kokko Mori
+Kokudo
+Kokushiga
+Kokuzo
+Kokūzō
+Koma
+Komagami
+Komagashira
+Komagata
+Komagi
+Komaki
+Komaki Mori
+Komata
+Komatsuzaki
+Komaze
+Kombu
+Kome
+Komenokubo
+Komi
+Komō
+Komotsurushi
+Komoya
+Kōmyō
+Kondō
+Kōne
+Kongō-zan
+Kongōdō Zan
+Kongōdōji
+Konoha
+Konomi
+Konsei Zan
+Kopon
+Koppu
+Kōrei Zan
+Korenge
+Kōsa
+Kosage
+Kosaka
+Kōsenbara
+Kōsha
+Kōshi
+Koshiba
+Koshieba
+Koshiō Zan
+Koshiraga
+Kōshōji
+Kosozō
+Kosumo
+Kotakesawa
+Kotaki
+Kotani
+Kotarō
+Kotōbachi
+Kotobiki
+Kotōge
+Kotoishi
+Kotoji
+Kotoninupuri
+Kotonoo
+Kōtsu Zan
+Kotsunagi Mori
+Kottoi
+Kōya
+Koyaga Take
+Kōyō Dai
+Kōza
+Kozaka
+Kozakura
+Kōzanji
+Kozawa
+Kozeto
+Kōzone
+Kōzono
+Kōzui Mori
+Kozumi
+Kshima-yarigatake
+Kubote
+Kuburadake
+Kuchi-take
+Kuchisanpō
+Kudo Ji
+Kuenohira
+Kugami
+Kugurido
+Kuiko Mori
+Kuishi
+Kujaku
+Kujihira
+Kujira
+Kujiraga
+Kujū Renzan
+Kuma
+Kumabushi
+Kumadomari
+Kumagahata
+Kumakubo
+Kuman-mori
+Kumaneshiri
+Kumanodai
+Kumanogaeshi
+Kumanokashira
+Kumanosan
+Kumaoi
+Kumaoji
+Kumataka
+Kumoga
+Kumogai
+Kumogi
+Kumokiri
+Kumomi
+Kumosō
+Kumotsuki
+Kunbetsu
+Kunigi
+Kunjin
+Kura
+Kura Take
+Kurahone
+Kurai
+Kurama
+Kuramae
+Kuramochi
+Kuranosawa
+Kurasawa
+Kurata
+Kuribatake
+Kuriga
+Kuriko
+Kurikoma
+Kurino
+Kurio
+Kuriu
+Kuro Take
+Kurobana
+Kurobe-gorō
+Kurobei
+Kurobishi
+Kurobōshi
+Kurobuse
+Kurofu
+Kurogane
+Kurogara
+Kuroishi
+Kurokami
+Kurokawa
+Kurokura
+Kuroma
+Kuromatsu
+Kuromatsunai
+Kuromi
+Kuronita
+Kuroo
+Kurosaki
+Kurosawaōdai
+Kurote
+Kurotōge
+Kuroyu
+Kuruhi
+Kurumi
+Kurumiga Take
+Kuruson
+Kuruson Zan
+Kusai
+Kusaki
+Kusenbu
+Kusubaru
+Kusurishi
+Kusuyaga
+Kutonbetsu
+Kutsuwa
+Kuwabara
+Kuwabata
+Kuwano
+Kuwanoki
+Kuwasaki
+Kuwasawa
+Kyōdai
+Kyōga Take
+Kyōjō
+Kyōno
+Kyōnoue
+Kyōragi
+Kyūroku
+Kyūsan
+Kyūshū Sanchi
+Ma
+Maage
+Mabu
+Mabuni
+Madarao
+Mado
+Madoake
+Madonokura
+Mae Take
+Mae-chausu
+Mae-hijiri
+Mae-hotaka
+Mae-kurobōshi
+Maeda
+Maeguro
+Maehachibē
+Maehotaka
+Maejōnen
+Maekamuro
+Maeno Take
+Maesengen
+Maetsubo
+Maezukami
+Magishi
+Magosuke
+Magozaemon
+Maguro
+Mahiru
+Makado
+Makigan
+Makihata
+Makimuku
+Makino
+Makino-kogen
+Makira
+Maku
+Makunotō
+Makuwanchisappu
+Manaitaishi
+Manegahira
+Mangahara
+Mannichi
+Mano
+Manokami
+Mantan
+Manzaemon
+Manzairaku
+Manzaka
+Marishiten
+Maruiwa
+Marukuro
+Marumori
+Maruno
+Maruo
+Maruōmi
+Marutsunbori
+Maruyakata
+Maruyama
+Maruyama-tōmi
+Masago
+Masakari
+Masaki
+Mase
+Masuga
+Masukawa
+Masutorigura
+Mataekuru
+Matashiro
+Mate
+Matō
+Matsu
+Matsubara
+Matsubuchi
+Matsudaira
+Matsugahora
+Matsugasaki
+Matsugase
+Matsuiwa
+Matsunaga
+Matsuneshiri
+Matsuo
+Matsutachi
+Matsutake
+Mayatake
+Mayoi
+Mayu
+Mazuma
+Me-take
+Meakan
+Medaki
+Meishi
+Meja
+Mekabu
+Mekura
+Memaru
+Membi
+Memuro
+Men
+Mengame
+Meno
+Menuushoropon
+Meoto
+Meshimori
+Mi Une
+Mi-take
+Miakashi
+Midachi
+Midagahora
+Midori
+Mie
+Mifuchi
+Migi
+Mihaka
+Miike
+Mijōga
+Mikaeri
+Mikagemori
+Mikagura
+Mikami
+Mikanmuri
+Mikuni Sanmyaku
+Mikuniga-sen
+Mikuniga-take
+Mikusa
+Mikusayama
+Mimata
+Mimikiri
+Miminashi
+Mimizuku
+Mimori
+Mimura
+Mimuro
+Minada
+Minagami
+Minakami
+Minami-komaga-take
+Minamigas
+Minamikumaneshiri
+Minamimata
+Minamishari
+Mineno
+Minenoyama
+Mineoka-asama
+Minō Sanchi
+Minō Zan
+Minobu
+Minowa
+Miroku
+Misaka
+Misaki
+Mishōtai Zan
+Misuko
+Misutaka
+Mitako
+Mitō
+Mitoke
+Mitoko
+Mitsuga-mori
+Mitsugashira
+Mitsugatsuji
+Mitsui
+Mitsuji
+Mitsuki
+Mitsumata-renge
+Mitsutōge
+Miuchi
+Miune
+Miura-take
+Miyagusuku
+Miyaji
+Miyajima
+Miyano'o
+Miyanoura
+Miyata
+Mizu
+Mizugahōgyō Zan
+Mizugame
+Mizugasawa
+Mizuha
+Mizuishi
+Mizukoi
+Mizumaru
+Mizunomiba
+Mizunomoto
+Mizusawa
+Moan
+Moema
+Moesashi
+Mogari
+Moima
+Mokke
+Mōko
+Mokoto
+Mombetsu
+Momi
+Mominoki
+Mominuka
+Momo Iwa
+Monbetsu
+Monjyu
+Monomiga
+Mont Misen
+Morai
+Morappu-zan
+Moriishi
+Morikawa
+Moriya
+Moriyoshi
+Morosuke
+Morotsuka
+Motchomu
+Moto
+Motogi
+Motogoe
+Motokiyosumi
+Mottori
+Moya Mori
+Moya Tōge
+Muine
+Muka
+Mukahagi
+Mukai
+Mukaishirakami
+Mukoyama
+Mukōzaka
+Mukurogi
+Murasugi
+Mureno-oka
+Murii
+Murokami
+Murone
+Musa
+Mushiga
+Mushikura
+Mushōde
+Musō
+Myōgadake
+Myōgi
+Myōhō-zan
+Myōhōga
+Myōjingatsuji
+Myōjō
+Myōjōga
+Myōkaku
+Myōkō-zan
+Myōtai
+Nabe
+Nabe Mori
+Nabeashi-zan
+Nabega-mori
+Nabegoshi
+Nabekake
+Nabeshima
+Nabewari
+Nabewari Zan
+Nabeyari
+Nabiki
+Nachi
+Nadetsuki
+Nae
+Naeba
+Nagahiki
+Nagane
+Nagare
+Nagaregeto
+Nagareha
+Nagareishi
+Nagata
+Nagatare
+Nagi
+Nagiso
+Nago
+Nagusa
+Naitai
+Najikura
+Naka Mori
+Naka-aibetsu
+Naka-hiru-zen
+Naka-mori
+Nakaazuma
+Nakahachinin
+Nakahororo Takadai
+Nakamatonohata
+Nakano
+Nakanodake
+Nakanodakeno Sawa
+Nakanomata
+Nakanomori
+Nakanoone
+Nakanosawa
+Nakao
+Nakasaki
+Nakatsu
+Nakatsumine
+Nakitsura
+Nakuba
+Nakui
+Nakura
+Namari
+Namba
+Namiuchi
+Nan Pō
+Nanae
+Nanakasumi
+Nanakuma
+Nanashigure
+Nanatsu Mori
+Nanatsu-mori
+Nanatsuga Take
+Nanban
+Nanri
+Nantai-zan
+Nanten
+Nara Mori
+Naranoki
+Nari
+Nariai
+Narō
+Narukawa
+Narusawa
+Narutaka
+Nasu
+Nasugahara
+Nasuzawa
+Natori
+Natsuki
+Nawashiro
+Ne
+Negata
+Nehan
+Nehema
+Neishi
+Nekomaga
+Nekomata
+Nenbutsu
+Nenju-take
+Nenotomari
+Neretsu
+Nichirinji
+Nigori
+Nigoto
+Nihon-koba
+Nihondaira
+Nii
+Niinarushi
+Niisama
+Niji
+Nikoro
+Ninaru-zan
+Ningyō-sen
+Nino Take
+Nino Tō
+Nino-mori
+Nino-take
+Niō
+Niōji
+Nipesotsu
+Nippaku
+Nira
+Niseikaushuppe
+Nisekoan-nupuri
+Nishi Take
+Nishi-akaishi
+Nishi-hōben-zan
+Nishi-hotaka
+Nishi-nupukaushi-nupuri
+Nishiasahi
+Nishiazuma
+Nishibetsu
+Nishihira
+Nishikasa
+Nishiken
+Nishikumaneshiri
+Nishikuroiwa
+Nishimata
+Nishime
+Nishimikabo
+Nishimino
+Nishino Mori
+Nishioka
+Nishitake
+Nisshō
+Nitatorushuke
+Niuppu
+Niupu
+Nobe
+Nobori
+Noborio
+Nodaka
+Nodake-bōshi
+Nodanishōji
+Nodaoi
+Nojō
+Nokanan
+Nokanoike
+Noke'eboshi
+Nokubi
+Noma
+Nomigane
+None
+Nono Zuka
+Nonobori
+Nonodake
+Noro
+Nosaka
+Nota
+Notoro
+Notsukashi
+Nougohaku
+Nozakai
+Nozoe
+Nozoko
+Nozuka
+Nuido
+Nuidōishi
+Nuka Mori
+Nukabira
+Nukamori
+Nukanan
+Nukatsuka
+Nukazuka
+Nukedo
+Nukesomanai
+Nuki
+Numanohara
+Numotoru
+Nunobe
+Nunomori
+Nurigasa
+Nyohō-zan
+Nyoiga-take
+Nyūdō
+Nyūdōga
+Ō-garasu
+Ō-iwa
+Ō-manago
+O-take
+Ō-usu
+Ōaka
+Oakan
+Ōamami
+Ōarashi
+Ōare
+Ōasa
+Ōasahi
+Ōazami
+Ōbachinagare
+Obaga
+Obako
+Ōbami
+Ōbara
+Ōbaru
+Ōbatake
+Obihiro
+Obiraki
+Ōbiraki
+Obō
+Ōbō
+Oboko
+Oboro
+Ōboshi
+Ōbukuro
+Ochi
+Ochiba Mori
+Ochifune
+Ōda
+Odaidō
+Ōdaigahara
+Ōdaira
+Odaka
+Odake
+Ōdake
+Ōdoga Mori
+Ōdoya
+Ōe
+Ōetaka
+Ōfuka
+Ōfukube
+Ofuyu
+Oga Take
+Ōgane
+Oganomori
+Ōgari Zan
+Ogasa
+Ōgasa
+Ogawa
+Ogawashiro
+Ōgiga
+Ōgigata
+Ōginokaname
+Ōgiri
+Ōgon
+Ōgon Zan
+Ogose Komagatake
+Ōgoshi
+Ōgoya
+Ōguro
+Ōguro-mori
+Ōguromori
+Oguruma
+Ogushi
+Ōgusuku
+Ōhachimori
+Ohagi
+Ohanabe
+Ohanja Mori
+Ōhibara
+Ōhikage
+Ohkawairi
+Ohō
+Ohsasazawa
+Oi
+Oiage
+Oike
+Ōin Zan
+Oino
+Oishiga
+Ōishiga
+Oiwake
+Oizuru
+Oizuruga Take
+Ōja
+Ojika
+Ōjingatonbu
+Ōkabura
+Okada
+Ōkage
+Ōkaiki
+Okano
+Ōkaramatsu
+Okariya
+Ōkarōto
+Okera
+Oki
+Okina
+Okinagura
+Okinai
+Okinami
+Okishimappu
+Okkabake
+Okko
+Okō
+Okohachi
+Okoma
+Ōkomaga
+Okonoki Nagare
+Oku-chausu
+Oku-dainichi
+Oku-hijiri
+Oku-Hotaka
+Oku-sangai
+Ōkue
+Okufutamata
+Okuiō Zen
+Ōkuma
+Okunono
+Ōkunri
+Ōkura Mori
+Ōkura-sarukura
+Ōkuraga
+Okuri
+Ōkuro Mori
+Ōkusa
+Okusenjō
+Okushishiku
+Okushunbetsu
+Omaki
+Ōmaru
+Ōmasutani
+Ōmata
+Ombi
+Ōmija
+Ōmine Sanmyaku
+Omokura
+Omonai
+Omonoki
+Ōmorikai
+Omoshiro
+Omoto
+Ōmoya
+Ōmure
+Ōmuro
+Ōmuro-zan
+On Zen
+Ōnanji
+Ōnarumi
+Ondaka
+Ondoko
+Ōnechi
+Ōneshita
+Oniga-take
+Onikadobira
+Onimaru
+Oninohana
+Oninome
+Onisashi
+Oniwakipon
+Onji
+Onkono Mori
+Onna
+Onna-wasarabi
+Onnebetsu
+Ono
+Ono Take
+Ōnobori
+Ōnogara
+Onoko
+Onsen
+Onsen Fuji
+Ōnyū
+Onzaki
+Oppu
+Oputateshike
+Orachi
+Oribe
+Oritate
+Orizume
+Orofure
+Orokunnenupuri
+Oryūdani
+Osabanai
+Ōsabi
+Ōsakamori
+Osaki
+Ōsama Mori
+Osannagare
+Osappenupuri
+Osare
+Osarunai
+Ōsato
+Osaushi
+Oshamambe
+Ōshibi
+Ōshina
+OshinKoshin-zaki
+Oshino
+Ōshiromori
+Oshō
+Oshonnai
+Osonae
+Ōsone
+Osorakan Zan
+Osore
+Osore-zan
+Ōsozō
+Ōsugi
+Osuke
+Ōsumi
+Ōta
+Otachi
+Otadomaripon
+Ōtaka
+Ōtaka-mori
+Ōtakadoya
+Ōtakami
+Ōtakamori
+Ōtakine
+Ōtama
+Otamoi
+Otani
+Ōtatemori
+Ōtenjōga
+Ōto
+Ōtō Zan
+Otofuke
+Ōtoga
+Otogane
+Otoi Fuji
+Otoinu
+Ōtōmi
+Ōtonbu
+Otono
+Ōtori
+Ōtosawa
+Otozure
+Ōtsu
+Ōtsube
+Ōtsukinagane
+Otsukushi
+Ōtsuma
+Ōu
+Ōu Sanmyaku
+Ōura
+Ōutsugi
+Ōwa
+Ōwari
+Owari-fuji
+Owasarabi
+Oya
+Ōyaki
+Oyama
+Ōyano
+Oyashiro
+Ōyasumi
+Ōyorogi
+Ōyū-asahi
+Ōza
+Ōzakai
+Ozaki
+Ōzare
+Ōzeki
+Ozōzo
+Ōzu
+Ōzukushi
+Panke Zan
+Panke-horonai
+Panorama Dai
+Peipan
+Pekere
+Penke
+Peoppe
+Perari
+Petegari
+Pinne
+Pinneshiri
+Pippu
+Piribetsu
+Pirigai
+Pirikanupuri
+Pisenai
+Pisshiri Zan
+Piyashiri
+Pombetsu
+Pon
+Pon'yaoromappu
+Ponkinaomaru
+Poroiwa
+Poromoi
+Puetaosu
+Rai Zan
+Raiba
+Raibachi Mori
+Raiden
+Rakan Zan
+Rakko
+Rakuda
+Ranganno Mori
+Rausu
+Rebun
+Rei Zan
+Reisenga
+Renge
+Ribira
+Rikibiru
+Rikunnushi
+Rirukawa
+Rishiri Zan
+Rogi
+Rokko
+Rokkokuken Zan
+Rokkoushi
+Rokujō
+Rokurō
+Rokurōbora
+Rokurōji
+Rokurōkan
+Rokusyo
+Rokutan
+Ron-zan
+Ronso
+Roppa
+Roppō
+Ropponsugi
+Rubeshibe
+Rubesu
+Rubetsune
+Ruchishi
+Rukotsu
+Rusha
+Rutori
+Ryō Zen
+Ryōgami
+Ryōji Sen
+Ryōri-fuji
+Ryōzen-zan
+Ryū Zan
+Ryūba
+Ryūdō
+Ryūga
+Ryūga-take
+Ryūgahana
+Ryūgo Bō
+Ryūhō Zan
+Ryūjin
+Ryūkanzan
+Ryūmon
+Ryūmon Zan
+Ryūmonga
+Ryuo
+Ryuouyama
+Ryūsen Zan
+Ryūsen-zan
+Ryūsō-zan
+Ryūtō Zan
+Sabatsuri
+Sabiya
+Saburō
+Sadatō
+Saga
+Sagami
+Sagayama
+Sagura
+Sahoro
+Saidai
+Saiei Zan
+Saihōga-take
+Saihōji Mori
+Saikōji
+Saikyō Zan
+Saishiga Hana
+Saita
+Saitō Zan
+Sakae
+Sakaiga
+Sakainokami
+Sakasagawa
+Sakasakawa
+Sakaya
+Sakin
+Sakkotsu
+Sakudoga-mori
+Sakura
+Sakuraga-take
+Sakurei Zan
+Sakutarō
+Samaga
+Samakishiri
+Samakkarinupuri
+Samani
+Sambōiwa
+Sambōkuzure-zan
+Samusappo-tōge
+Samusawa
+Sanbe
+Sanbōga
+Sanbōji
+Sanbōkō
+Sanbōkura
+Sanbon'yari
+Sanbonkura
+Sanbonmatsu
+Sanchō Zan
+Sanda
+Sangai
+Sangōri
+Sangun Zan
+Sanhiki
+Sanjō
+Sanjōga
+Sanjōga-take
+SanjōYama
+Sankai Zan
+Sankaidaira
+Sankaku Dai
+Sankei
+Sankichi
+Sankyō Zan
+Sanmai
+Sannai
+Sannai-oka
+Sanno Take
+Sanno Tō
+Sannosawa-take
+Sannu-zan
+Sanpō
+Sanshō
+Sanshū
+Sansu
+Santai
+Santetsu
+Santō Zan
+Sanuki Sanmyaku
+Sanzuko'ochi
+Sapporo
+Sarakura
+Sarambe
+Saroma
+Saruga
+Sarugabamba
+Sarugami
+Sarukura
+Sarumai
+Sarumasa
+Saruru
+Sasa Mori
+Sasaga
+Sasaga Take
+Sasakura
+Sasamaga
+Sasamakuri
+Sasanagane
+Sasanagare
+Sasano-tōge
+Sasao
+Sasatsumori
+Sashi
+Sashigara
+Sashirui
+Sasontsuji
+Satotenka
+Satta
+Satten Zan
+Sausu
+Sawanchisappu
+SawanokuroYama
+Sazaega
+Sazareo
+Seaburi
+Sefuri
+Sefuri Sanchi
+Seida
+Seiei Zan
+Seikyū
+Seinai
+Seira
+Seirei-zan
+Seirin-zan
+Seishōkō Iwa
+Seki
+Sekidō
+Sekigan Zan
+Sekiyu Kōzan
+Semba
+Semban
+Sembon
+Sembonga
+Semitōge
+Sen Pō
+Sen Zan
+Senba
+Senbō
+Senchiyoga
+Sendagi
+Sengadake
+Sengan Zan
+Senganmori
+Senhōshi-pon
+Senjōji
+Senjouga
+Sennin
+Senninga Take
+Sennokura
+Senohara
+Senriyama-kyūryō
+Sentsū Zan
+Senzu
+Seta
+Setaushi
+Seto
+Setokuro-mori
+Setose
+Shakaga Take
+Shakotan
+Shaku
+Shakujōga Take
+Shakunage
+Shakunin
+Shakushi
+Shamambe
+Shamisenbayashi
+Shanai
+Shararin Zan
+Shari
+Shiasshiri
+Shiba
+Shibamori
+Shibao
+Shibetsu
+Shibi
+Shibōdai
+Shibukedani-tōge
+Shibure
+Shibuto
+Shibutsu
+Shichi Mori
+Shichibeigashira
+Shichigo
+Shichimen-zan
+Shichisō-zan
+Shigehira
+Shigemi
+Shigi
+Shigigasawa
+Shihaseo
+Shihee Mori
+Shiitokoro
+Shijiki Zan
+Shika
+Shikaku
+Shikami
+Shikaribetsu
+Shikariga
+Shikarube
+Shikerebe
+Shikishanai
+Shikkya
+Shikoku-sammyaku
+Shimaidaira
+Shimamatsu
+Shimanjō
+Shimanohoshi
+Shimei
+Shimizu Mori
+Shimizumata
+Shimo Komagatake
+Shimo-hiru-zen
+Shimo-horokamettoku
+Shimofutago
+Shimonosawa
+Shimotsuji
+Shin-take
+Shina
+Shinanomata
+Shinbo
+Shindaga
+Shindainichi
+Shingyōdō
+Shinjō
+Shinjō-zan
+Shinkō
+Shinmei
+Shinmoe
+Shinnyoji
+Shinnyū-zan
+Shinokura
+Shinpō
+Shintō Zan
+Shinwari
+Shinzōji
+Shioike
+Shiōji Sanmyaku
+Shiokumi
+Shiomi
+Shiotsu
+Shiozuka
+Shira Take
+Shirabu
+Shiraga Take
+Shirahama
+Shirahara
+Shirahige
+Shirai
+Shirai Zan
+Shiraita
+Shirakami Sanchi
+Shiraki
+Shirako Mori
+Shirakomori
+Shirakuchi
+Shirakusa
+Shirama
+Shiranuka Kyūryō
+Shirao
+Shiraō
+Shiraō Zan
+Shiraoi
+Shirasabaki-mori
+Shirasaka
+Shirasu
+Shirasuna
+Shirataka
+Shirate
+Shiraya
+Shiretoko
+Shiribetsu
+Shiridaka Mori
+Shiriiwa
+Shirikoma
+Shiriushi
+Shirō
+Shiro Take
+Shiroga
+Shirogane
+Shiroiwa
+Shiroji
+Shiroma
+Shirotani
+Shirotsuchi
+Shirouma
+Shirowarabi
+Shirozuka
+Shisaka
+Shishiga Mori
+Shishigahana
+Shishin-zan
+Shisun
+Shisun'iwa
+Shitabanupuri
+Shiude
+Shiun Zan
+Shiwasu-mori
+Shiyubetsu
+Shizuga-take
+Shizukura
+Shizumo
+Shō-unabetsu
+Shōbu-zan
+Shōbuzuka
+Shōgun Zan
+Shōji
+Shōji-iwa
+Shōjōji
+Shokambetsu
+Shōkan
+Shokanbetsu
+Shōkō Zan
+Shokotsu
+Shōmuken-zan
+Shonofue
+Shōran Zan
+Shosanji
+Shōtsūji
+Shōwa
+Shōzu
+Shubun
+Shunbetsu
+Shutendōji
+Sobaga
+Sobakado
+Sobatsubu
+Sobira
+Sobo-zan
+Sodeasahi
+Soematsu
+Sofuga
+Soga
+Sōga
+Sōjun
+Sōkan Zan
+Sokuryō-zan
+Somanohana
+Some
+Son
+Sonami
+Sonbo
+Sonmori
+Sorakumo
+Soranuma
+Sōrin-take
+Sōshi
+Sotoba
+Sōun Zan
+Sōya Kyūryō
+Suberi
+Sudate
+Sudoto
+Suga
+Sugakura
+Sugana
+Sugegasa
+Sugekari Kōen
+Sugisawa
+Sugoroku
+Sugumo
+Suharagusuku
+Suiha
+Suishō
+Suishō-zan
+Suishou
+Suji
+Sukesaki
+Sukizaki
+Sumizuka
+Sumizuka Mori
+Sumon
+Suna
+Sunabachi
+Sunagozen
+Suōdō
+Surikami
+Suzuga-mori
+Suzuka-sammyaku
+Suzunoōtani
+Tabashine
+Tachibana
+Tachimata
+Tachū
+Tadaga
+Tadayama
+Taga
+Tagashira
+Tahō
+Taihei Sanchi
+Taihei-zan
+Taikan Zan
+Taima
+Taino Hana
+Tainosu
+Tairappyō
+Taishaku
+Taishaku Zan
+Taishaku-sammyaku
+Taishi
+Taishō Zan
+Taishōzawa
+Taitori
+Taizō
+Tajima
+Takaarashi
+Takabaga-mori
+Takabata
+Takabe
+Takabo
+Takaboshi
+Takachi
+Takachiba
+Takachihono
+Takada Ōdake
+Takadake
+Takadaki
+Takadaki-mori
+Takadera
+Takado
+Takadō
+Takadoriya
+Takadoya
+Takae
+Takagane
+Takagedo
+Takagiya
+Takago
+Takahangyō
+Takahara
+Takahinata
+Takahino Zan
+Takahōchi
+Takahora
+Takaiba
+Takaiwa
+Takajinba
+Takajiriki
+Takajo
+Takajō Zan
+Takakoya
+Takakura Mori
+Takama
+Takamado
+Takamashi
+Takamubō
+Takamura
+Takanagane
+Takanashi
+Takanawa
+Takanbō
+Takaniu
+Takanoshi
+Takaori-mori
+Takara
+Takasaburō
+Takasaka
+Takasaki Mori
+Takasasa
+Takase
+Takashiba
+Takashimizu
+Takashōzu
+Takasugi
+Takasuno
+Takasuzu
+Takata
+Takataki
+Takatoki
+Takatōshi
+Takatoya
+Takatsu
+Takatsuki
+Takatsuma
+Takatsume
+Takatsumine
+Takatsuru
+Takatsuya
+Takaudo
+Takaune
+Takaya
+Takayashiro
+Takazuko
+Takazumori
+Takazuya
+Takehara
+Takejō
+Takekurabe
+Takeno'o
+Takenodai
+Takenoko
+Takenotani
+Takenotsuji
+Takigahora
+Takigai
+Takigo
+Takima
+Takinohana
+Takinomichi
+Takinoue
+Takishita
+Takō
+Takogi
+Takuhi
+Tamachiji
+Tamaki
+Tamarazu-sen
+Tamashima
+Tamazushi
+Tamiyasu
+Tamoyachi
+Tanakami
+Tanashiro Mori
+Taneo
+Tanigawa
+Tanino
+Tanio
+Tano
+Tanoharakan Zan
+Tantaka
+Tanzawa
+Tanzawa Sanchi
+Tappu
+Tara
+Tari
+Tarō
+Tarōmaru
+Tarumae
+Tashiro Mori
+Tat
+Tatakai
+Tatara
+Tatebe
+Tateeboshi
+Tategahira
+Tategajō
+Tategaki
+Tatego
+Tateiwa
+Tatera
+Tateshina
+Tatezawa
+Tatsuga
+Tatsugane
+Tatsugo
+Tatsuko Mori
+Tatsunarashi
+Tatsusorobe
+Tatsuushi
+Tatsuware
+Tawara
+Techō Zan
+Tedō
+Tegono
+Teine
+Tekari
+Tekura
+Temmaku
+Temmoku-zan
+Tempi
+Ten Province Pass
+Ten Zan
+Tenaga
+Tenbō Zan
+Tenchō Zan
+Tengai
+Tengudaira
+Tengugura
+Tenguhara
+Tengura
+Tenguyama
+Tengyōji Zan
+Tenjiku
+Tenjin Maru
+Tenjin-mori
+Tenjindō
+Tenjōga
+Tenkawa
+Tenma
+Tenmaru
+Tenmoku Zan
+Tenmyō Zan
+Tennō Zan
+Tenno-zan
+Tenpōrin
+Tenranga Oka
+Tenrei Zan
+Tenshiga Take
+Tenshu Zan
+Tenwa Zan
+Tenzin
+Tera
+Terachi
+Teradate
+Teru Kaku
+Terukubi
+Teshibetsu
+Teshio
+Teshio Sanchi
+Teshiro Mori
+Teshiromori
+Tetega Take
+Tetemiezu
+Tetsuwari-zan
+Tezutsu
+Tōbechi
+Tobisuga Oka
+Tochiga
+Tochitani
+Tōdake
+Todate
+Tode
+Todo
+Tōdono
+Togakushi
+Togame Oka
+Tōgasa
+Tōgeda
+Tōgenokami
+Tōgō
+Tōgū
+Togura
+Togura Mori
+Tōhachi
+Tōjūrō
+Tokachi-poroshiri
+Tokachiga Oka
+Tokarimui
+Toki
+Tōki
+Tokibari
+Tokitai
+Tokiwa
+Tokkin
+Tokko
+Toko
+Tokuami
+Tokume
+Tokuren
+Tokusa Mori
+Tokusaga
+Tokusenjō
+Tokushumbetsu
+Tōkyō Zan
+Tomamu
+Tōmaru
+Tomegasaki
+Tōmeki
+Tōmiga Hana
+Tomine
+Tomioka
+Tommaku
+Tomouchi
+Tomuro
+Tōmyōji
+Tonaidaibu
+Tonbi
+Tonbo
+Tonga
+Tonnawa
+Tonoue
+Toppu
+Torahoshi
+Toraishi
+Tori
+Toriga
+Torigata
+Torigoe
+Torii Zaki
+Torimori
+Torinomune
+Toritake
+Toriyazawagashira
+Tosa
+Tosakao
+Tosamoshibe
+Tōsen Zan
+Toshima
+Tōshima
+Toshiro
+Tōshirō Mori
+Tossaka
+Tossaki
+Totori
+Totsusaka
+Tottabetsu
+Tottate
+Tōutsu
+Towarutappukoppu
+Toya
+Toya Zan
+Toyaga
+Tōyaga
+Toyaga Take
+Toyagamaru
+Toyakemori
+Toyamori
+Tōyausube
+Toyazawa
+Toyohirabashi-minami Ryokuchi
+Toyotate
+Tozawa
+Tozuka Mori
+Tsubakurosu
+Tsubanuki
+Tsubeno
+Tsubokami
+Tsubokiri
+Tsubonega
+Tsuesaka
+Tsuga Mori
+Tsuganomaru
+Tsugao
+Tsuha
+Tsuji
+Tsujidō
+Tsujino
+Tsukamori
+Tsukihi
+Tsukiji
+Tsukinoki
+Tsukuba
+Tsukumi
+Tsukushi
+Tsukushi Sanchi
+Tsukushi-mori
+Tsukushimori
+Tsumono
+Tsumori
+Tsūmushi
+Tsunatsuke Mori
+Tsune
+Tsunoyama
+Tsurikake
+Tsurubu
+Tsuruga
+Tsurugiga
+Tsurugigozen
+Tsurugino
+Tsuruishi
+Tsurukake
+Tsurumi
+Tsushimami
+Tsutsumigakura
+Tsuzmiga
+Tsuzuraga
+Tsuzurao
+Ū Taki
+Ubaido
+Ubako
+Ubaushi
+Uchi
+Uchikosi
+Udo
+Uegusuku
+Uesaka
+Ufu
+Ufu Taki
+Uibaru
+Uimori
+Uīnupuri
+Ujinori-zan
+Ukega
+Uki
+Ukotakinupuri
+Uma
+Umaga
+Umakura
+Umami
+Umanokashira
+Umase
+Umatate
+Umebaru
+Uminonakamichi Kaihin Kōen
+Uminotaira
+Unabetsu
+Unazuki
+Unbenji
+Ūnda
+Unebi
+Ungasone
+Ungetsu Zan
+Unishi
+Uno Hana
+Unzen
+Uo
+Uomi Taki
+Uotsuri
+Urabu
+Urapekere
+Urausu
+Uriya
+Urushibora
+Urushiyama
+Usagi
+Ushibetsu
+Ushibuse
+Ushiga
+Ushigata
+Ushikiri
+Ushino
+Ushiro
+Usouzu
+Usu-zan
+Usubetsu-take
+Usugaoka
+Usugi
+Utami-itadaki
+Utanobori
+Utatsu
+Utsu
+Utsushiga
+Uzu
+Uzuki
+Wada
+Wadano-mori
+Waga
+Waita
+Wakagi Mori
+Wakakusa
+Wakasa
+Wakasa Komagatake
+Wakasu
+Wakasugi
+Wakayabu
+Wanitsuka
+Warabino
+Waridani
+Wariishi
+Wariiwa
+Wasamata
+Wase
+Washi
+Washiga Take
+Washigamori
+Washigasu
+Washigazu
+Washimine
+Washinosu
+Washizu
+Washū
+Washū Zan
+Wassōga
+Wenshiri
+Wooded
+Yabumi
+Yachi
+Yachinai
+Yadaijin
+Yadate
+Yadome
+Yadomi
+Yaese
+Yaga
+Yagasaki
+Yago
+Yagyū
+Yahan
+Yahōga Take
+Yajiro
+Yakata-mori
+Yakataishi
+Yakeishi
+Yakeishi Komagatake
+Yakezaki
+Yaki
+Yakubo
+Yakugachoboshi
+Yakumo
+Yakurai
+Yakushiga-take
+Yakuso Take
+Yakuwa
+Yamabushiyama
+Yamagata Komagatake
+Yamaingiri
+Yamakami
+Yamakaze Mori
+Yamato
+Yamatogusuku
+Yamazaki
+Yamizo
+Yamizo-sammyaku
+Yanabe
+Yanagi
+Yanami
+Yaoromappu
+Yarabu
+Yarasu
+Yariga Take
+Yariga-take
+Yasabu
+Yasaki
+Yashidai
+Yashiga
+Yashiki
+Yashio
+Yasosuke
+Yasuman
+Yasumi
+Yasumigajō
+Yasumura
+Yasunokimori
+Yasute
+Yatake
+Yatakijō Zan
+Yatane
+Yatarō
+Yatate Take
+Yatsu Mori
+Yatsudate
+Yatsugatake
+Yatsuharu
+Yatsumori
+Yatsumoridaira
+Yatsura
+Yatsusugi Mori
+Yaune
+Yazu
+Yenemune
+Yoake
+Yobetsu
+Yobiko
+Yodo Mori
+Yōgai
+Yoichi
+Yokoashi
+Yokoborino Oka
+Yokone
+Yokoshima
+Yokotōshi
+Yokotsu
+Yōmei-zan
+Yomine
+Yomogida
+Yomogizoro
+Yomohara
+Yomuratsuka
+Yonaha
+Yontan
+Yoroi
+Yōrōushi
+Yōryū
+Yoshibu
+Yoshida
+Yoshimi
+Yoshimiryūō
+Yoshinoga Take
+Yoshisambe
+Yoshitsune
+Yōshō Zan
+Yosukedō Mori
+Yōtei-zan
+Yotsu
+Yotsudaki
+Yotsumata
+Yoza
+Yozaemon
+Yūbari
+Yūbari Sanchi
+Yūbari-sanchi
+Yubaru
+Yudono
+Yufu
+Yūhaku Zan
+Yui
+Yukawa
+Yukikura
+Yukimi
+Yukutsuba
+Yumihari
+Yumishi
+Yūnai
+Yunanigusuku
+Yuniishigari
+Yuno
+Yunohara
+Yuraga
+Yūrappu
+Yuri
+Yutō Maru
+Yuwan
+Yuyaga Take
+Yuzaka Mori
+Yuzawa
+Yuzō
+Yuzuruha
+Zaimoku
+Zaruga
+Zarumori
+Zenitsubo
+Zenjimori
+Zentakamori
+Zō
+Zō Zan
+Zōga Hana
+Zōgakura
+Zōzō
+Zōzu
+Zukkō

@@ -1,0 +1,5000 @@
+Sabang	17
+Talisay	15
+Malinao	14
+San Vicente	14
+Pandan	13
+Catmon	12
+San Jose	12
+Santa Cruz	12
+Bato	11
+Looc	10
+Salug	10
+San Juan	10
+Bonbon	9
+San Isidro	9
+Bagacay	8
+Banban	8
+Cawayan	8
+Sangay	8
+Tinago	8
+Bago	7
+Biga	7
+Dapdap	7
+Linao	7
+San Miguel	7
+San Roque	7
+Tigbao	7
+Bucal	6
+Bunga	6
+Kawayan	6
+Mainit	6
+Mamala	6
+Manga	6
+Rangas	6
+Salog	6
+San Francisco	6
+San Pedro	6
+Santa Maria	6
+Santol	6
+Sapa	6
+Tambo	6
+Bacong	5
+Bayog	5
+Buayan	5
+Busay	5
+Cabatuan	5
+Cabugao	5
+Chico	5
+Labangan	5
+Lagnas	5
+Libas	5
+Mabini	5
+Matabang	5
+Palanas	5
+Pasig	5
+Tabang	5
+Anilao	4
+Antipolo	4
+Bagbag	4
+Balantian	4
+Balogo	4
+Balud	4
+Bamban	4
+Banga	4
+Bantayan	4
+Baras	4
+Batan	4
+Bulac	4
+Danao	4
+Dao	4
+Dulangan	4
+Guiwanon	4
+Ipil	4
+Mahaba	4
+Malaking	4
+Malaya	4
+Malbug	4
+Maliao	4
+Malitbog	4
+Maslog	4
+Nabitasan	4
+Patay	4
+Pula	4
+Rizal	4
+Sampaloc	4
+San Antonio	4
+Santa Lucia	4
+Santo Niño	4
+Sapang	4
+Tagbac	4
+Talaba	4
+Tigbauan	4
+Tugas	4
+Abaca	3
+Abaga	3
+Abangay	3
+Abra	3
+Abulug	3
+Agusan	3
+Angas	3
+Anibongan	3
+Anonang	3
+Badiang	3
+Bahi	3
+Balete	3
+Balibago	3
+Balili	3
+Balisong	3
+Baloy	3
+Balsahan	3
+Balugo	3
+Banaba	3
+Bancal	3
+Bangad	3
+Bangan	3
+Banilad	3
+Bao	3
+Batungan	3
+Bayabas	3
+Bayugan	3
+Binuan	3
+Bitaogan	3
+Bito	3
+Boac	3
+Bocboc	3
+Bolo	3
+Bolos	3
+Bonga	3
+Buaya	3
+Bugnay	3
+Bulacan	3
+Buluan	3
+Buluangan	3
+Bungol	3
+Buray	3
+Butuan	3
+Cabano	3
+Cabuyao	3
+Caliban	3
+Calumpang	3
+Camachile	3
+Carmen	3
+Casili	3
+Catabangan	3
+Cauayan	3
+Caunayan	3
+Culaman	3
+Dipolo	3
+Diwan	3
+Dulang	3
+Gamao	3
+Halang	3
+Igang	3
+Iloilo	3
+Iwahig	3
+Labo	3
+Lanao	3
+Lapinigan	3
+Layog	3
+Liang	3
+Libertad	3
+Libutan	3
+Lobo	3
+Lumbang	3
+Lusong	3
+Maasin	3
+Madalag	3
+Magallanes	3
+Malabog	3
+Malibon	3
+Mamara	3
+Mambog	3
+Manat	3
+Mapatag	3
+Marbel	3
+Matampay	3
+Mayon	3
+Nabatasan	3
+Nangka	3
+Napo	3
+Opong	3
+Pacuan	3
+Pagsangahan	3
+Panaon	3
+Pandanan	3
+Panganiban	3
+Pange	3
+Pangul	3
+Panitian	3
+Parasan	3
+Pawala	3
+Pilar	3
+Pili	3
+Pinacanauan	3
+Pitogo	3
+Pola	3
+Potol	3
+Potot	3
+Prinsa	3
+Pulot	3
+Quipot	3
+Rosario	3
+San Joaquin	3
+San Lorenzo	3
+San Luis	3
+San Mateo	3
+San Pablo	3
+Santa Ana	3
+Santa Rita	3
+Santa Rosa	3
+Santo Nino	3
+Santo Thomas	3
+Santo Tomas	3
+Sibulan	3
+Sogod	3
+Sonoc	3
+Suba	3
+Tagum	3
+Talabaan	3
+Talaban	3
+Talavera	3
+Talisayan	3
+Tambac	3
+Tarao	3
+Tibiao	3
+Tibungoy	3
+Tigbawan	3
+Tigbi	3
+Tual	3
+Tubod	3
+Tuburan	3
+Viga	3
+Waig	3
+Abagao	2
+Abucayan	2
+Acliang	2
+Agno	2
+Agos	2
+Agus	2
+Alacaygan	2
+Alangilan	2
+Alianan	2
+Alimango	2
+Aliog	2
+Aloyan	2
+Anahawin	2
+Anas	2
+Anayan	2
+Angat	2
+Anibong	2
+Ano	2
+Anunang	2
+Apad	2
+Apalan	2
+Apali	2
+Asin	2
+Asluman	2
+Atimonan	2
+Babuyan	2
+Bacao	2
+Bacbac	2
+Baclay	2
+Bacolod	2
+Badiangan	2
+Badiangon	2
+Badit	2
+Bagan	2
+Bagombong	2
+Bagu	2
+Bague	2
+Bahay	2
+Bais	2
+Bakuyao	2
+Balabag	2
+Balagan	2
+Balago	2
+Balanga	2
+Balangan	2
+Balangao	2
+Balangasan	2
+Balangonan	2
+Balatocan	2
+Balatukan	2
+Balaybalay	2
+Baligatan	2
+Balite	2
+Baliwag	2
+Balsic	2
+Balubad	2
+Balulan	2
+Banag	2
+Banago	2
+Banali	2
+Banas	2
+Banayan	2
+Banco	2
+Bangbang	2
+Bangon	2
+Banog	2
+Bantaoay	2
+Bantay	2
+Bantolinao	2
+Baog	2
+Baruan	2
+Baruya	2
+Basiran	2
+Basud	2
+Batang	2
+Batas	2
+Bateria	2
+Batiano	2
+Bato-bato	2
+Bauan	2
+Bauang	2
+Bawang	2
+Bayan	2
+Bayang	2
+Bayaoas	2
+Bayong	2
+Bayuyan	2
+Becuran	2
+Betis	2
+Bical	2
+Bicol	2
+Big Mainit	2
+Bigaa	2
+Bigaan	2
+Binahaan	2
+Binangbang	2
+Bingig	2
+Binongan	2
+Binuangan	2
+Binugto-on	2
+Binwaan	2
+Bitanagan	2
+Bobon	2
+Bogtong	2
+Bolbok	2
+Bolog	2
+Borabod	2
+Boton	2
+Boul	2
+Buac	2
+Bued	2
+Buenavista	2
+Bugas	2
+Bugsanga	2
+Bugtong	2
+Buhang	2
+Buhatan	2
+Buhi	2
+Bukid	2
+Bulabud	2
+Bulala	2
+Bulalakao	2
+Bulansa	2
+Bulauan	2
+Bulu	2
+Bumbungan	2
+Bunawan	2
+Bungbungan	2
+Bunot	2
+Buo	2
+Busilac	2
+Caba	2
+Cabacungan	2
+Cabadiangan	2
+Cabalagnan	2
+Cabayan	2
+Cabu	2
+Cabug	2
+Cabulian	2
+Cabuluan	2
+Cabunga-an	2
+Caburihan	2
+Cadacan	2
+Caganibong	2
+Cagaucan	2
+Cagayan	2
+Cagbulawan	2
+Cagmanaba	2
+Calaanan	2
+Calamba	2
+Calape	2
+Calatan	2
+Callojan	2
+Calo	2
+Calog	2
+Calubian	2
+Calumangan	2
+Camaran	2
+Cambangay	2
+Campo	2
+Canas	2
+Canauay	2
+Canipaan	2
+Cansilayan	2
+Caraballo	2
+Caramay	2
+Caridad	2
+Caritan	2
+Casanova	2
+Casiguran	2
+Casiligan	2
+Catanagan	2
+Catapayan	2
+Catmun	2
+Catug-an	2
+Cauacauang	2
+Caumasanag	2
+Cogon	2
+Comagaycay	2
+Combado	2
+Crossing	2
+Cruz	2
+Culasi	2
+Culis	2
+Cupang	2
+Cutcut	2
+Dabo	2
+Dagot	2
+Daguitan	2
+Dahican	2
+Dalaon	2
+Dalikanan	2
+Dampalit	2
+Dapitan	2
+Dario	2
+Dayap	2
+Diamman	2
+Dibuluan	2
+Diduyon	2
+Diklom	2
+Dila	2
+Disacan	2
+Divisoria	2
+Dolongan	2
+Dolores	2
+Domorog	2
+Ducligan	2
+Dumayay	2
+Dumlog	2
+Dungon	2
+Dungun	2
+Dutap	2
+Esteros	2
+Fabrica	2
+Gabot	2
+Gaddanan	2
+Gamot	2
+Guadalupe	2
+Guagua	2
+Guiguinto	2
+Guinhalinan	2
+Guinsay	2
+Guinsuan	2
+Guintiguian	2
+Gumain	2
+Gumitan	2
+Hibayog	2
+Hijo	2
+Hindang	2
+Ibalo	2
+Idong	2
+Igbanig	2
+Igot	2
+Iguiaua	2
+Imugan	2
+Inalacan	2
+Indiana	2
+Initan	2
+Ipayo	2
+Jaro	2
+Kabuling	2
+Kacar	2
+Kakawan	2
+Kalawaig	2
+Kaliva	2
+Kanan	2
+Kansan	2
+Kapalong	2
+Kawit	2
+Kiantig	2
+Kiapo	2
+Kinagunan	2
+Kinali	2
+Kinayan	2
+Kotkot	2
+Kulaman	2
+Kulapu	2
+Kulasian	2
+Kuluman	2
+Kuya	2
+Labao	2
+Labasan	2
+Labayog	2
+Laboy	2
+Labuan	2
+Lacadan	2
+Lagit	2
+Lagundi	2
+Lamakan	2
+Lamitan	2
+Languyon	2
+Lanon	2
+Lara	2
+Lasang	2
+Latap	2
+Laua-an	2
+Lauis	2
+Lawan	2
+Lawi	2
+Lawigan	2
+Legaspi	2
+Lele	2
+Liangan	2
+Libacao	2
+Libuan	2
+Libuganon	2
+Libungan	2
+Limbuhan	2
+Linawan	2
+Lingas	2
+Lipa	2
+Lipadas	2
+Lipata	2
+Loboc	2
+Locawon	2
+Logot	2
+Lomboy	2
+Lonoy	2
+Loob	2
+Loplopan	2
+Loulo	2
+Lukban	2
+Lupi	2
+Luyang	2
+Maapag	2
+Maasim	2
+Mabilo	2
+Mabua	2
+Mabunga	2
+Macabug	2
+Macalelon	2
+Macatol	2
+Madlum	2
+Madugo	2
+Magalayang	2
+Magdalena	2
+Mailad	2
+Maimpis	2
+Maisac	2
+Makadasa	2
+Makiles	2
+Mala	2
+Malabag	2
+Malabago	2
+Malabon	2
+Malacopa	2
+Maladi	2
+Malaga	2
+Malaiba	2
+Malaig	2
+Malalag	2
+Malalam	2
+Malamnay	2
+Malanas	2
+Malandog	2
+Malay	2
+Malicboy	2
+Malipo	2
+Malisbog	2
+Malobago	2
+Malobog	2
+Malogo	2
+Malongon	2
+Maloong	2
+Malungon	2
+Malunog	2
+Mambusao	2
+Man-an	2
+Manaba	2
+Manawan	2
+Manay	2
+Mangahan	2
+Mangaunan	2
+Manglad	2
+Manicnic	2
+Manolib	2
+Manup	2
+Manurigao	2
+Maon	2
+Mapanag	2
+Mapanga	2
+Mapanuepe	2
+Mapili	2
+Mapula	2
+Maputat	2
+Maputi	2
+Maranding	2
+Marao	2
+Marber	2
+Marbog	2
+Marigondon	2
+Marilao	2
+Marintoc	2
+Masin	2
+Masinloc	2
+Masisit	2
+Mataba	2
+Matagbac	2
+Matalio	2
+Matanao	2
+Matandang Sabang	2
+Mateo	2
+Mati	2
+Matinao	2
+Matnog	2
+Matubinan Liong	2
+Matulid	2
+Matungao	2
+Maug	2
+Maugat	2
+Maya	2
+Mayapa	2
+Mayo	2
+Mestizo	2
+Minuit	2
+Montalban	2
+Morobuan	2
+Morong	2
+Munting	2
+Murcon	2
+Muyao	2
+Naawan	2
+Nabao	2
+Nabua	2
+Naga	2
+Nagas	2
+Nagbayugan	2
+Nagrantayan	2
+Naguilian	2
+Najalin	2
+Nalibunan	2
+Nalumsan	2
+Namanyan	2
+Napilas	2
+Nasi	2
+Nasiaan	2
+Nasuli	2
+Nato	2
+Navitas	2
+Navotas	2
+Nayom	2
+Ngalan	2
+Obispo	2
+Odiao	2
+Odiong	2
+Odiongan	2
+Ogod	2
+Olas	2
+Ongong	2
+Opao	2
+Orani	2
+Pacac	2
+Paco	2
+Pacul	2
+Pagan	2
+Pagsanjan	2
+Palanginan	2
+Palasao	2
+Palo	2
+Palulan	2
+Pamatawan	2
+Pampanga	2
+Panacan	2
+Panadacan	2
+Panagan	2
+Panambalon	2
+Panangcoban	2
+Panay	2
+Pandanon	2
+Panganan	2
+Panganuran	2
+Pangi	2
+Pangil	2
+Paningayan	2
+Pansol	2
+Panubigan	2
+Parang	2
+Paranum	2
+Parao	2
+Pasac	2
+Pasil	2
+Pateros	2
+Patudan	2
+Patunungan	2
+Pawa	2
+Paya de Ameriano	2
+Payas	2
+Pila	2
+Pina	2
+Piso	2
+Pita	2
+Polo	2
+Pondol	2
+Ponso	2
+Pugaan	2
+Pugad	2
+Pulangi	2
+Punta	2
+Putian	2
+Putot	2
+Quiasan	2
+Quiray	2
+Rio Chico	2
+Romblon	2
+Rugan	2
+Saba	2
+Sabangan	2
+Sablayan	2
+Sacobia	2
+Sagasa	2
+Sagay	2
+Saguing	2
+Salangan	2
+Salay	2
+Salong	2
+San Diego	2
+San Eduardo	2
+San Enrique	2
+San Felipe	2
+San Gregorio	2
+San Nicolas	2
+San Rafael	2
+San Ramon	2
+San Sebastian	2
+Sanka	2
+Santa Ines	2
+Santo Cristo	2
+Santo Domingo	2
+Santo Rosario	2
+Sapang Bato	2
+Sapang Bayu	2
+Sapang Maragu	2
+Sapang Pari	2
+Sapinit	2
+Sibagat	2
+Sibalom	2
+Sibucao	2
+Sibuco	2
+Sibuguey	2
+Sibul	2
+Sidayong	2
+Siguan	2
+Silag	2
+Silonay	2
+Sim	2
+Sinaugan	2
+Sinippil	2
+Sinobaan	2
+Sinuble	2
+Sipaka	2
+Sobol	2
+Sucol	2
+Sugal	2
+Suso	2
+Suwaon	2
+Suyoc	2
+Tabay	2
+Taberna	2
+Tabi	2
+Tabigyan	2
+Tabing	2
+Tablang	2
+Tablas	2
+Tabogan	2
+Taborda	2
+Tabuan	2
+Taganiyog	2
+Tagkawayan	2
+Taglibas	2
+Taguite	2
+Tagusao	2
+Tajad	2
+Talabang	2
+Taladong	2
+Talangnan	2
+Talaptap	2
+Talayan	2
+Talibong	2
+Talinga	2
+Taliptip	2
+Tambala	2
+Tambanan	2
+Tambong	2
+Tamborong	2
+Tambulig	2
+Tamdagan	2
+Tanauan	2
+Tanay	2
+Tapel	2
+Tapon	2
+Tapul	2
+Tarosan	2
+Taytay	2
+Taytayan	2
+Tayuman	2
+Tiawir	2
+Tibag	2
+Tico	2
+Tigas	2
+Tigbaw	2
+Tigman	2
+Tinangnan	2
+Tineg	2
+Tinoagan	2
+Tinong	2
+Tinugdan	2
+Tolong	2
+Tono	2
+Trinidad	2
+Tuba	2
+Tubay	2
+Tubigan	2
+Tullahan	2
+Tuyan	2
+Tuyo	2
+Ubungan	2
+Ulango	2
+Umiray	2
+Union	2
+Uson	2
+Velasco	2
+Villanueva	2
+Vito	2
+Waigan	2
+Wasig	2
+Wawa	2
+Yabangan	2
+Abablawan
+Abacan
+Abalos
+Abanga
+Abatan
+Abaton
+Abbag
+Abbucay
+Aberawan
+Abian
+Abijao
+Abit
+Aboabo
+Aboat
+Abohan
+Aboyon-on
+Abu
+Abuac
+Abugui
+Abuhan
+Abulig
+Abuloy
+Abuman
+Abunabun
+Abung
+Abuno
+Abusan
+Abuyo
+Abuyog
+Abuyok
+Accabibian
+Achang
+Achila
+Aclan
+Adanon
+Adeline
+Adgaoan
+Adlayan
+Ados
+Adtulaon
+Aduan
+Afusing
+Aga
+Agamanay
+Aganan
+Agbalacao
+Agbaliga
+Agbalit
+Agbaliti
+Agbalo
+Agbaogo
+Agbatuan
+Agboto
+Agbucad
+Agbuyi
+Agcaliloan
+Agdangan
+Aggalan
+Aglubung
+Agluluod
+Aglupacan
+Agman
+Agmantoc
+Agnipa
+Agnipan
+Agnoknok
+Agog
+Agpilili
+Agpudlos
+Agrugas
+Agsalin
+Agsao
+Agsubay
+Agta
+Agtatacay
+Aguada
+Aguada Grande
+Aguaguan
+Aguang
+Aguilid
+Aguino
+Aguisan
+Agunod
+Agustina
+Agusungin
+Agutay
+Agyagongon
+Ahan
+Ajong
+Ajuy
+Akli
+Aksitero
+Alabihig
+Alacalian
+Alacan
+Alag
+Alagoran
+Alah
+Alang-Alang
+Alanib
+Alao
+Alas-os
+Alasaguing
+Alasanin
+Alasasin
+Alawihao
+Alayao
+Albalate
+Albasan
+Albiga
+Alcantara
+Alem
+Alibugan
+Alibunan
+Alig
+Alim
+Alimangkong
+Alimit
+Alimpong
+Alipasa
+Alipaswan
+Alipoto
+Aliranan Sapa
+Alitaaw
+Aliuanag
+Alkaide
+Allmang
+Alngon
+Alodagat
+Alogan
+Alon
+Along-along
+Aloran
+Altipang
+Alubijid
+Alulod
+Alupay
+Amaga
+Amange
+Ambabaay
+Ambangal
+Ambayabang
+Ambayoan
+Amblan
+Ambot-na Maliit
+Amburayang
+Amdos
+Amio
+Amit
+Amlang
+Ammannuetan
+Amnay
+Amo
+Amoguis
+Among
+Amoslog
+Amoy
+Amtic
+Amulsong Tributary
+Amunitan
+Amuntau
+Amuntay
+Amusig
+Amyanan
+Anahao
+Anahaoan
+Anaivi
+Anajao
+Anak
+Ananao
+Anao-aon
+Anapo
+Anasag
+Anavan Malaki
+Anawan
+Anawilan
+Ancloon
+Anco
+Andales
+Andiana
+Andolan
+Angaaoeng
+Angaran
+Angen
+Anguapan
+Anhawan
+Anibawan
+Anibolongan
+Anislang
+Anlubi
+Annabatan
+Annomong
+Anonagñon
+Antamok
+Antequera
+Antigbasan
+Antipas
+Antobayan
+Antuging
+Anungan
+Aoao
+Apa-apa
+Apagang
+Apagon
+Apangat
+Apap
+Apat
+Apatot
+Apayao
+Apdo
+Apiapi
+Apoapurawan
+Apolagon
+Apolong
+Aponit
+Apud
+Apulagan
+Apulang
+Apupong
+Apurauan
+Aquinuldo
+Araal
+Aramayuan
+Aranay
+Aranguel
+Arapisan
+Arapitan
+Aras-asan
+Arevalo
+Argao
+Aridiamo
+Aringay
+Arpilis
+Asan
+Asia
+Asid
+Asinaicay
+Asinan
+Asinga
+Asis
+Asisig
+Aslatan
+Atake
+Atate
+Atel
+Atib
+Atipit
+Atipolo
+Atipulahan
+Atlag
+Atonaton
+Atulayan
+Aunugay
+Awa
+Awasan
+Awayanan
+Awayon
+Ayaoyao
+Aylon
+Ayo
+Ayoyo
+Ayunganan
+Ayupanyan
+Ayuquitan Daku
+Ayusan
+Ayuti
+Baaba
+Baag
+Babaca
+Babait
+Babalion
+Babatñgon
+Babatton
+Baca
+Bacabac
+Bacal
+Bacalan
+Bacarra
+Bacatan
+Bacay
+Bacayawan
+Bacboc
+Bachawan
+Baclao
+Baco
+Bactas
+Bacuag
+Bacule
+Baculud
+Bacung
+Bacuran
+Badiagan
+Badian
+Badio
+Badyangan
+Bagaan
+Bagahon
+Bagakay
+Baganian
+Bagasaue
+Bagatayam
+Bagked
+Bagnon
+Bagojines
+Bagolinao
+Bagonbon
+Bagonbong
+Bagong
+Bagong Sabang
+Bagong Tubig
+Bagsit
+Baguan
+Baguian
+Bagumbang
+Bahaco
+Bahag
+Bahan
+Bahayan
+Bahbah
+Baheli
+Bahian
+Baho
+Baird
+Baiyan
+Bajakbajak
+Bakhano
+Bakid
+Bakit Bakit
+Bakiton
+Bakog
+Bakubun
+Bakun
+Bal-os Lagoon
+Balaag
+Balacayo
+Balacbalac
+Balacone
+Balagatasa
+Balagnam
+Balagubay
+Balagunan
+Balakayo
+Balaktasan
+Balala
+Balalag
+Balanac
+Balanahoc
+Balanbantat
+Balang
+Balangiga
+Balangobong
+Balanguit
+Balanikuar
+Balantacan
+Balaobao
+Balas
+Balasian
+Balasig
+Balatikan
+Balau
+Balbagon
+Baldoza
+Balebaite
+Balem
+Balen
+Baleno
+Baleteong
+Balhaan
+Balian
+Balibak
+Balicehan
+Balijuagan
+Balilong
+Balinaga
+Balinaonawan
+Balinato
+Balincaguin
+Balingoan
+Balintang
+Balintawak
+Baliongo
+Baliri
+Balirok
+Balite Basit
+Baliton
+Baliwanan
+Baliwasan
+Baliyan
+Ballak
+Balo
+Balococ
+Balolo
+Balong Balongan
+Balot
+Balto
+Balton
+Balu
+Baluan
+Balubalic
+Balubo
+Balucanao
+Baluctot
+Balud-Balud
+Balug
+Balugan
+Balugohan
+Balungbong
+Balza
+Bambang
+Banaay
+Bañaga
+Banahao
+Banaluan
+Banaowang
+Banawang
+Banbabanon
+Banbanon
+Bancong
+Banday
+Bañdero
+Banet
+Banga Banga
+Bangahan
+Banganalang
+Bangar
+Bangcolotan
+Bangi
+Bangkilan
+Bangkudo
+Bangoal
+Bangsirit
+Banguanan
+Bangun
+Banica
+Banihatud
+Banila Doam
+Banilla
+Bankao Sapa
+Banko
+Banlad
+Banoc
+Bansud
+Bantalino
+Bantaya
+Bantayanon
+Banti-od
+Bantigui
+Banua
+Banuangdoah
+Banurbur
+Banuyo
+Banwalan
+Baod
+Baogan
+Baracbac
+Barak
+Baranca de Sipil
+Baratubot
+Barayan
+Barbaza
+Barbon
+Barebet
+Baren
+Barili
+Barils
+Baringan
+Bariohan
+Barobog
+Baronayon
+Barotac Viejo
+Barraibi
+Barucbuc
+Barugbug
+Barugwan
+Barurao
+Baruyan
+Baruyen
+Baryara
+Basak
+Bascaran
+Basey
+Basiad
+Basin
+Baskan
+Basleyan
+Baso
+Bataan
+Batala
+Batalan
+Batangan
+Batasan
+Batel
+Bateral
+Bathala
+Batobalane
+Batoc
+Baton-Baton
+Batonan
+Battuan
+Batungal
+Batutu
+Baua
+Baug
+Bauto
+Bawit Camaya
+Bay
+Bayabās
+Bayagan
+Bayakaguin
+Bayambang
+Bayandati
+Bayao
+Bayawan
+Baybayog
+Bayhang
+Baylanan
+Bayo Pequeño
+Bayogao
+Bayoyo
+Baysing
+Bayubon
+Bayug
+Bayugao
+Bayuing Munti
+Bazal
+Bedok
+Belen
+Belison
+Bella Cana
+Belolo
+Benabang
+Benadero
+Benahagan
+Benangung
+Benay
+Bendilahan
+Benoang
+Betong
+Bey
+Biaan
+Biabas
+Biabit
+Biag
+Biasong
+Bicalbical
+Biduk
+Big Caliban
+Big Diaja
+Big Lun
+Big Margus
+Big Matabang
+Big Pamatiya
+Biga-an
+Bigay
+Bigbia
+Bignay
+Bigol
+Bigtas
+Bigte
+Bihid
+Bilagbag
+Bilanga
+Bilar
+Bilat
+Bile
+Bilibago
+Biliran
+Bimmeclet
+Binacod
+Binacogan
+Binaguinhan
+Binalabag
+Binalayan
+Binalbagon
+Binalian
+Binalui
+Biñan
+Binanbangan
+Binanga
+Binaongan
+Binasagan
+Binawangan
+Bincay
+Binga
+Bingco
+Binicuil
+Binicul
+Binilanga
+Biniptican
+Binitigan
+Binitinan
+Binlayan
+Binloc
+Binoayan
+Binobano
+Binonga-an
+Binongkalan
+Binonoan
+Bintacan
+Binukiangan
+Binuling
+Binulug
+Binunangin
+Biong
+Bioos
+Biran
+Bire Maragul
+Birong
+Bisagu
+Biscayan
+Bislian Malaki
+Bislian Munti
+Bitanjuan
+Bitaog
+Bitaugan
+Bitinan
+Bitoclan
+Bituagan
+Biuas
+Blanca
+Bo-ongon
+Boat
+Boayan
+Bobonan
+Bobonaoan
+Bobontugan
+Bocal
+Bocaue
+Bodlasan
+Bogang
+Bogarang
+Bogong
+Bogsok
+Bogtusan Slough
+Boho
+Boi
+Bokbok
+Bol
+Bolacas
+Bolalacao
+Bolanon
+Bolbolan
+Bolilao
+Bolo Bolo
+Bolungto
+Bonaliw
+Bonang
+Bonetolon
+Bong Bong
+Bongabon
+Bongbong
+Bongbongon
+Bongo
+Bongogon
+Bongol
+Bongon
+Bongquirobon
+Bonguod
+Bonleo
+Bonongan
+Bontal
+Bonton
+Bonza
+Bora
+Borahan
+Boran
+Borbocalon
+Boriis
+Bornay
+Borongan
+Borongon
+Bosdoc
+Bosigon
+Bosoboso
+Bosok
+Bosugan
+Botonan
+Boulder
+Bountoug
+Boyon
+Buagao
+Bualan
+Buan
+Buang
+Buangan
+Buanica
+Buat
+Buatpisan
+Bubuday
+Bubulugan
+Bucan
+Bucao
+Bucas
+Bucayane
+Bucog
+Budburan
+Bueno
+Bugabos
+Bugauatan
+Bugcalaon
+Bugho
+Bugingin
+Bugko
+Buguepet
+Buguey
+Bugumbayan
+Bugwasan
+Buhangin
+Buhiiris
+Bukig
+Bula
+Bulabug
+Bulalacao
+Bulalaco
+Bulalo
+Bulan
+Bulanan
+Bulaon
+Bulat
+Bulatakay
+Bulate
+Bulbugan
+Bulibuli
+Buloan
+Bulod
+Bulok
+Bulsa
+Bulubok
+Bulucacao
+Buluran
+Bulyos
+Bumaludu
+Buncalalan
+Bundo
+Bungahin
+Bungan
+Bunganan
+Bunganay
+Bungat
+Bungcananay Diutay
+Bungul
+Bunkug
+Bunlao
+Bunog
+Bunsaua
+Buntolan
+Buobuo
+Burabud
+Buracay
+Buri
+Buringut
+Burirao
+Busaon
+Busay Maligue
+Busngalen
+Busodbusod
+Busok
+Busuanga
+Buta Buta
+Butara
+Butas
+Butigui
+Buttaye
+Butuanon
+Buwo
+Buyao
+Buyoan
+Buyog
+Buyon
+Ca-ayongen
+Caagusan
+Caayonan
+Cababa-an
+Cabacahan
+Cabacongan
+Cabagao
+Cabagsay
+Cabalaan
+Cabalan
+Cabalangan
+Cabalangasan
+Cabalansan
+Cabalantian
+Cabaluan
+Cabaluay
+Caban
+Cabanal
+Cabanatuan
+Cabanayan
+Cabang
+Cabanga-han
+Cabangtohan
+Cabantian
+Cabaong
+Cabarao
+Cabariwan
+Cabasan
+Cabatan
+Cabatangan
+Cabauan
+Cabay
+Cabayang
+Cabayoagan
+Cabayu
+Cabayuan
+Cabayugan
+Cabcab
+Cabeaban
+Cabibirac
+Cabicungan
+Cabilisan
+Cabilogan
+Cabini
+Cabio
+Cabiyongan
+Cablalan
+Cabog
+Cabolon
+Cabolotan
+Cabonbanagan
+Cabongaan
+Caborotan Sapa
+Cabosao
+Cabuad
+Cabudadan
+Cabugo
+Cabuguhan
+Cabulalaan
+Cabungahan
+Cabunganan
+Cabungbongan
+Cabura
+Caburayan
+Caburongan
+Cabuyawan
+Cabuyo
+Cabuyuan
+Cacabugon
+Cacatid
+Cadadalman
+Cadadan
+Cadaklan
+Cadapologan
+Cadian
+Cadionan
+Caditaan
+Cadyes
+Caengrean
+Cagagao
+Cagamcaw
+Cagara
+Cagat
+Cagay
+Cagban
+Cagbatang
+Cagbatuan
+Cagbo
+Cagboga
+Cagdigat
+Cagiban
+Cagin
+Cagiscan
+Caglanipan
+Cagnaga
+Cagnipa
+Cagpalak
+Cagpipi
+Cagtalaba
+Cagtoloy
+Cagubay
+Caguluguman
+Cahapatan
+Cahoti
+Caibiran
+Caigan
+Caigangan
+Caiholo
+Caingin
+Cainta
+Cainud
+Cajoring
+Cala
+Calaan
+Calabanga
+Calabango
+Calabasa
+Calabasag
+Calabgan
+Calaboca
+Calabocay
+Calabucay
+Calaca
+Caladman
+Calagcalag
+Calagdo
+Calagunsao
+Calaitan
+Calambusiny
+Calamisan
+Calampay
+Calan
+Calanasa
+Calangain
+Calangigan
+Calanutong
+Calaopan
+Calapachian
+Calapacuan
+Calapan
+Calapangan
+Calapian
+Calapo
+Calasa
+Calasag
+Calasugan
+Calat-an
+Calatcat
+Calati
+Calatrava
+Calatuan
+Calauag
+Calawang
+Calbiga
+Caleluan
+Calian
+Calibaran
+Calibhoc
+Calicanto
+Calilang
+Calilina
+Calimango
+Calinan
+Calinaoan
+Calindo
+Calipuan
+Caliraya
+Calisi
+Calmaba
+Calmay
+Calmenue
+Calocmoy
+Calomangan
+Calong Calong
+Caloocan
+Calowehawan
+Calumagan
+Calumangug
+Calumaya-an
+Calumbanan
+Calumboyan
+Calungusan
+Caluttit
+Camanahan
+Camandag
+Camansi
+Camaragan
+Camasoli
+Camaya
+Camayuan
+Cambalo
+Cambanug
+Cambaog
+Cambatista
+Cambatutay
+Cambaye
+Cambijang
+Cambinga
+Cambobot
+Cambolong
+Cambongbong
+Camiling
+Camote
+Camp Four
+Camp Seven Number One
+Camp Three
+Campalingo
+Campan
+Campana
+Camparanga
+Campirat
+Campiton
+Camposanto
+Campote
+Camuhaguin
+Can-awan
+Can-Cabagio
+Canagian
+Canaguayan
+Canalugan
+Cananganan
+Canano
+Canapauan
+Cañas
+Canasasan
+Canayon
+Candalosa
+Candon
+Cangabo
+Canguguhan
+Cangumba
+Canicanian
+Canida
+Caningag
+Canisot
+Caniwan
+Canjalon
+Canlandog
+Canlargo
+Canloay
+Canlongon
+Canluto
+Canmanico
+Canmanug
+Canomantag
+Canomoy
+Cansapal
+Cansibong
+Canson
+Canstriten
+Cantacoyan
+Cantarella
+Cantaring
+Cantilan
+Cantimok
+Cantomocad
+Canubing
+Canuri
+Caorasan
+Capacuan
+Capago
+Capaigdanan
+Capalngan
+Capana-an
+Capanandanan
+Capaniquian
+Caparan
+Caparispisan
+Capataan
+Capayas
+Capayawan
+Capepisa
+Capitan
+Capitigan
+Capiz
+Capo-an
+Capuluan
+Capungoy
+Caradio-an
+Carael
+Caraga
+Caragsan
+Caraguican
+Carain
+Carallangan
+Caramuran
+Caranan
+Caraulzan
+Carayacan
+Carayman
+Carbasana
+Cardones
+Carig
+Carigmalan
+Caril-an
+Caringwan
+Carit-an
+Caroguanan
+Carosipan
+Carpintero
+Carranglan
+Cartagena
+Caruan
+Carucaug
+Caruguiat
+Casa
+Casaheyan
+Casalalian
+Casalibay
+Casalogan
+Casandoran
+Casapsapan
+Casauman
+Casian
+Casigayan
+Casila
+Casilan
+Casilihan
+Casilleonek
+Casisang
+Casistan
+Cassanayan
+Casuan
+Casul
+Catabana Grande
+Catabla
+Catagupan
+Cataja
+Catalino
+Catamias
+Catapisan
+Catasin
+Catbalogan
+Catdungan
+Cathedral
+Catingas
+Catipayan
+Catisan
+Catitisan
+Catmon Sogod
+Catnaan
+Cato
+Cato-ogan
+Catol
+Catolatolahan
+Catolog
+Catoy
+Catubig
+Catubio
+Caua
+Cauiaman
+Cauringan
+Cava
+Cawayan Kiling
+Cawilan
+Cayacayan
+Cayagayan
+Cayanga
+Cayatao
+Cayawan
+Caybaste
+Caydanom
+Cayohoson
+Caypombo
+Cebuano
+Cenelaren
+Chapa
+Chico Pampanga
+Chinabayan
+Cibaliw
+Cilua
+Cimlong
+Cinaran
+Ciril
+Clarin
+Claver
+Clong Clong
+Cococ
+Cocojon
+Coconut
+Cogan
+Cogorin
+Colak
+Colasi
+Colasiantagabahi
+Colby
+Colio
+Colipapa
+Coloalo
+Cologcog
+Coloocan
+Colos Dalag
+Comalag
+Comati-an
+Combone
+Comillas
+Comolo
+Compol
+Condulyas
+Consolacion
+Conwap
+Cordan
+Cordray
+Coring
+Corocoro
+Coronel
+Cota
+Cotao
+Cotcot
+Coticot
+Coton
+Coveta
+Cowawin
+Cowayan
+Coylan
+Crucero
+Cruzdalay
+Cruze
+Cuabo
+Cubahong
+Cucubog
+Cugcumon
+Cuiasar
+Cuitabang
+Cuitibar
+Culago
+Culaling
+Culambayugan
+Culambog
+Culasian
+Culianan
+Culotbacao
+Culussi
+Cumbantog
+Cura
+Curangan
+Curanta
+Curilao
+Currimao
+Curuan
+Cut-cut
+Cutcutan
+Cuyapa
+Cuyepcuyep
+Da-og
+Daang Bukid
+Daanganginan
+Dabubu
+Dacanlao
+Dacaton
+Dadumpukan
+Daga
+Dagatan
+Daguisang
+Dagunas
+Dagusongan
+Dagwate
+Daijagin
+Daisug
+Daja
+Dajugon
+Dakan
+Dakil
+Dalagad
+Dalagot
+Dalaligan
+Dalan Banga
+Dalan Pare
+Dalanas
+Dalangnan
+Dalao
+Dalaoig
+Dalapuan
+Dalarai
+Dalasa
+Dalasan Palipur
+Dalasudon
+Dalaya
+Dalayap
+Dalayap Number One
+Dalayapan
+Dalican
+Dalip-dip
+Dalipay
+Dalirig
+Dalorong
+Dalupia
+Dalupuan
+Damadalig
+Damakling
+Damanit
+Damasco
+Damauiz
+Damgo
+Damitan
+Dampigan
+Dampilasan
+Damurog
+Danarauon
+Danas
+Dancalan
+Danet
+Dang-o
+Danggawan
+Danglaan
+Dango
+Dangongo
+Danlagan
+Dansalan
+Daotan
+Dap Dap
+Dapanay
+Dapda
+Daplian
+Dapnan
+Dapong
+Daquit
+Daramitan
+Darapuay
+Dariongon
+Darong
+Das-ag
+Dasmariñas
+Dasol
+Dassalan
+Datu
+Datus
+Dauis
+Davaun
+Davildavilan
+Dawan
+Dawe
+Dawis
+Dayangan
+Dayapan
+Dayhagan
+Dazawa
+Deakagay
+Debutunan
+Degayat
+Degines
+Deinalula
+Delapa
+Delayap
+Delinkente
+Demalicmeg
+Demin
+Demonstration
+Denay
+Deniguingan
+Depane
+Depasaleng
+Detan
+Detobong
+Devil
+Dezer
+Diabooboo
+Diac
+Diacubun
+Dialauiao
+Dialud
+Diamantino
+Diamazan
+Dianunangan
+Diarabasin
+Diarao
+Dibalat
+Dibalo
+Dibenbinan
+Dibet
+Dibical
+Dibulo
+Dibutonan
+Dicangtang
+Dicapen
+Dicasalarin
+Diclum
+Dicoraban
+Didinagyan
+Diezmo
+Digalana
+Digdigon
+Digoan
+Digollorin
+Digos
+Digoyo
+Diguining
+Digumal
+Diit
+Dikabanbanan
+Dikadioan
+Dikania
+Dikapisan
+Dikatayan
+Dikinamaran
+Diladita
+Dilain
+Dilakdinom
+Dilalam
+Dilalongan
+Dilian
+Diliman
+Diloma
+Dilong
+Dimadas
+Dimalad
+Dimalug
+Dimanibong
+Dimapatoy
+Dimatatno
+Dimawala
+Diminalno
+Dimuluk
+Dinabungan
+Dinagan
+Dinago
+Dinaingon
+Dinawehan
+Dingle
+Dinigman
+Dinipan
+Dinoman
+Dioyo
+Dipaguiden
+Dipogo
+Dipolog
+Dipuyoy
+Diriqui
+Disabungan
+Disalit
+Disugan
+Disukad
+Dita
+Ditangol
+Ditauini
+Diteki
+Ditomabo
+Diut
+Divilacan
+Diwa-ni
+Djora
+Dogot
+Dohinob Gamay
+Doka
+Dolo
+Domalana
+Domani
+Domanog
+Domogo
+Domolok
+Don Cayo
+Don Clemente
+Donapat
+Doongoon
+Dorocan
+Duate
+Dubinan
+Ducaling
+Dugolanan
+Dukay
+Dulapu
+Dulgo
+Dulong
+Dumalaguing
+Dumalama
+Dumalog Wejo
+Dumalogdog
+Dumara
+Dumayak
+Dumayup
+Dumonog
+Dumuloc
+Dungaroy
+Dupit
+Dupon
+Duul
+Duwagan
+Duyagan
+Ebian
+Eguia
+Elang
+Embang
+Emilia
+Enbarcadero
+Entao
+Enyawan
+Eosuinga
+Eraan
+Erawahan
+Eraya
+Ermitano
+Escuala
+Espital
+Estaka
+Estero de Culipat
+Eyamjo
+Fula
+Gaang
+Gabas
+Gabauan
+Gabauang
+Gabayan
+Gabog Sapa
+Gabunan
+Gabuyan
+Gaday
+Gagalol
+Gago
+Gahit
+Gaja
+Galayan
+Galiano
+Galsab
+Galud
+Gama
+Gamay
+Ganano
+Gandara
+Gangao
+Gango
+Gantay
+Ganzing
+Gao
+Gapot
+Gapul
+Garang
+Garbang
+Garlan
+Garrita
+Gasgasin
+Gasput
+Gata
+Gattu
+Gawa
+Gawagawa Channel
+Gayagayaan
+Geladioc
+Gelum
+Gibong
+Gibuga
+Gimagaan
+Ginablan
+Ginagan
+Ginangra
+Ginatilan
+Gincagasan
+Gingcabuhan
+Ginghalang
+Ginicton
+Ginobaan
+Gintas
+Godoy
+Gomagamot
+Gomian
+Gondaan
+Gonlong
+Gono
+Gontong
+Gonzalo
+Gopako
+Gopul
+Gorongoro
+Gosao
+Gotan
+Gringuiyam
+Guacat
+Gubaan
+Gubang
+Gubatan
+Gubauan
+Guiati
+Guibahoy
+Guiddam
+Guihaoan
+Guiling
+Guilis
+Guilong
+Guimbirayan
+Guimiranat
+Guinabasan
+Guinalan
+Guinaranayan
+Guinaraton
+Guinarona
+Guinayangan Dacu
+Guinbunan
+Guinbunan Malaki
+Guindan
+Guindascan
+Guindologan
+Guinpahaan
+Guinsaga
+Guinsularan
+Guintarasan
+Guintic-gan
+Guintigbasan
+Guintubhan
+Guisit
+Gulalanom
+Gulam
+Gulang-Gulang
+Gulasing
+Gulob
+Guma
+Gumaca
+Gumalang
+Gumao
+Gumate
+Gusong
+Gutivan
+Guyodon
+Habang-Sapa
+Hacienda
+Hagasaan
+Haiaan
+Halaroy
+Halug
+Hamamaog
+Hambabahid
+Hammond
+Hamorawon
+Hamtican
+Hamtik
+Hamuranon
+Handuna
+Hangtud
+Hantag
+Hasohoy
+Hawilian
+Hayatan
+Hegapit
+Hegulon
+Hemoyowon
+Hermaso
+Hermosa
+Hernani
+Heuig
+Hibabugan
+Hibaiyo
+Hibatang
+Hibunawan
+Hibutahan
+Hilino
+Hiluclugan
+Himabugat
+Himanag
+Himbangan
+Himogaan
+Himonini
+Himook
+Himoragat
+Hinablan
+Hinaboyan
+Hinadladan
+Hinaluan
+Hinaoyan
+Hinatuan
+Hindangon
+Hingarog
+Hingatungan
+Hingoso
+Hinlayagan
+Hinonoban
+Hinotongan
+Hinugusan
+Hinuncan
+Hinut-an
+Hipayaan
+Hipgasan
+Hitalon
+Hitoma
+Hog Baliwag
+Hole
+Hubay
+Hulip
+Humagikhik
+Humagikhik Two
+Huyabhuyab
+Huyat-Baboy
+Ibaan
+Ibajay
+Ibaliw
+Ibanan
+Ibayo Tipas
+Ibian
+Ibiwon
+Ibod
+Ibongbong
+Ibuna
+Icogon
+Idiacacan
+Idjang
+Ig-na Butig
+Igabua
+Igbagakay
+Igbigo
+Igbunuang
+Igbutong
+Igcabulang
+Igcad
+Igcapayas
+Iglamat
+Igmaya-an
+Ignanok
+Ignato
+Igso
+Igsoso
+Igtotobo
+Igtugas
+Igutami
+Ihaoan
+Ikdan
+Ilabi-Ayom
+Ilangilang
+Ilas
+Ilaya
+Ileb
+Ili
+Iligan
+Ilihan
+Ilinin
+Iliwan
+Ilusong
+Ilut
+Imbang
+Imbang Diotay
+Imbarasan
+Imbornal
+Imbudian
+Immurung
+Imulat
+Imulhod
+Imulnod
+Inabanga
+Inaclagan
+Inagoocan
+Inalapan
+Inalugan
+Inamigan
+Inampulungan
+Inamucan
+Inang
+Inanuran
+Inauangan
+Inayuban
+Indan
+Induyua
+Ingin
+Ingwan
+Inipan
+Initao
+Inmanduyan
+Inoboran
+Inonocan
+Intilan
+Inuman
+Inyaman
+Ioden
+Iponon
+Ipuan
+Irahuan
+Irigatuan
+Irirum
+Irosin
+Isabel
+Isarog
+Isca
+Ising
+Isio
+Isomoo
+Itagñon
+Iteo
+Iti
+Ituman
+Itusan
+Ivisan
+Iwa
+Iwisan
+Iyam
+Iyo
+Jabacob
+Jabeto
+Jabigaan
+Jadi
+Jaknawen
+Jalao
+Jalaud
+Jalauod
+Jaman-ay
+Jambayan
+Jancolan
+Jararom
+Javier
+Jayobo
+Jibaca-an
+Jibaoan
+Jibulangan
+Jimalalud
+Jinalinan
+Jirongan
+Jnuehar
+Jordan
+Jovellar
+Juare
+Juban
+Jubay
+Judio
+Jugban
+Julian
+Kabacan
+Kabagsanan
+Kabakaba
+Kabakbongan
+Kabal
+Kabalanaunan
+Kabalantian
+Kaban
+Kabang
+Kabangkalan
+Kabantaan
+Kabasalan
+Kabatan
+Kabibihan
+Kabilao
+Kablalan
+Kabugwang
+Kabulao
+Kabuynan
+Kachibayungan
+Kadkorongan
+Kagnonok
+Kagomakon
+Kaingangan
+Kakal
+Kalabanit
+Kaladegan
+Kalaguiman
+Kalagutay
+Kalaha
+Kalakangan
+Kalanganan
+Kalaong
+Kalapat
+Kalaryjan
+Kalasaan
+Kalatugonan
+Kalauinan
+Kalawang
+Kalayagon
+Kaligitan
+Kalilauga
+Kalilayan
+Kalinahan
+Kalinan
+Kalipangan
+Kalipapa
+Kalitabog
+Kalubakis
+Kalumpang
+Kalusayan
+Kamalian
+Kamancel
+Kamanga
+Kamanikan
+Kamatarana
+Kamogong
+Kanalum
+Kanamakan
+Kanamuan
+Kanamucan
+Kananghan
+Kanapulo
+Kanbinlio
+Kandiis
+Kaneuan
+Kanidlong
+Kapanlan
+Kapantaran
+Kapapistan
+Kapatagan
+Kapay
+Kapinatan
+Kapinkang
+Kapisa
+Kapogan
+Kaporiketan
+Karabayan
+Karaga
+Karatulan
+Karayan
+Karayogan
+Karkaran
+Kasaluran
+Kasay
+Kasibu
+Kasuga
+Kata
+Katagoman
+Katgasan
+Katidtuan
+Katihan
+Katingalan
+Katipunan
+Katubusan
+Kauch
+Kaulaman
+Kauran
+Kawahig
+Kay Buhay
+Kaya
+Kayanga
+Kayen
+Kaylitinga
+Kayumange
+Kayusan
+Kayutan
+Kelomena
+Keybalis
+Kial
+Kianuang
+Kias
+Kibanban
+Kibed
+Kibidsang
+Kibuluan
+Kicabong
+Kidanguin
+Kiharong
+Kilabutud
+Kilambon
+Kilanbacan
+Kilatan
+Kilatatay
+Kilbay
+Kileea
+Kilkilan
+Kilo Kilo
+Kilolorum
+Kilop
+Kiloya
+Kimangayao
+Kinabonglan
+Kinacao
+Kinalumsan
+Kinan-oan
+Kinantiman
+Kinapontan
+Kinatacutan
+Kinaudman
+Kinawit
+Kinaya
+Kinayao
+Kinimi
+Kinlugan
+Kinolangon
+Kinubalon
+Kiologan
+Kipalbig
+Kipaliku
+Kipangol
+Kipil
+Kipungoc
+Kiraat
+Kirayan
+Kitalob
+Kitaotao
+Kitos
+Kiulom
+Klondikes
+Kolanconan
+Kolon
+Konayan
+Kraan
+Kuayan
+Kubangan
+Kudiauan
+Kulukiban
+Kuluwang
+Kumadkad
+Kumaguingking
+Kumalarang
+Kumalisquis
+Kutkot
+Kuyapi
+Laba
+Labacan
+Labangon
+Labat
+Labayat
+Labayow
+Labbi
+Labi
+Labig
+Labl-labl
+Labnig
+Labugagan
+Labugaon
+Labuyo
+Lacadun
+Lacian
+Lacolay
+Lacotan
+Lacu
+Lag-it
+Lag-itan
+Lagakit
+Lagala
+Lagalag
+Lagandong
+Lagangao
+Lagarian
+Lagasan
+Lagasit
+Lagatic
+Lagawe
+Lagbangan
+Lagdo
+Lagha
+Lagichic
+Lagilayan
+Laglagan
+Lagoma
+Lagonoy
+Laguiliws
+Laguioliud
+Laguiwliws
+Lagum
+Lahi
+Lahing
+Lahong
+Laih
+Lais
+Laiya
+Lajon
+Lajong
+Lala
+Lalab
+Lalam Baka
+Lalangauan
+Lalapay
+Lalavinan
+Lalawan
+Lalayan
+Lama
+Lamacao
+Lamanao
+Lamat
+Lambigue
+Lambolambo
+Lambusan
+Laminga
+Lamliik
+Lamot
+Lamponac
+Lamunan
+Landasan
+Landy
+Langacan
+Langangan
+Langao
+Langauon
+Langeblangeban
+Langihan
+Langisan
+Langob
+Langogan
+Langolango
+Langtad
+Langub
+Lanipao
+Lanlagan
+Lanlanca
+Lantagan
+Lantud
+Lanuza
+Laoag
+Laongan
+Lapacon
+Lapasan
+Lapirawan
+Laplap
+Lapog
+Lapolapo
+Lapuan
+Lapuyan
+Lasi
+Lasila
+Lasud
+Latian
+Lawaan
+Lawaya
+Lawayon
+Layaean
+Layawan
+Layin
+Laylay
+Layopan
+Leba
+Lebuga
+Legandan
+Legang
+Leget
+Leonard
+Libas Grande
+Libas Pequeño
+Libis
+Libjo
+Libmanan
+Libonao
+Libtagin
+Libtong
+Libunan
+Liguian
+Ligundinan
+Lilid
+Liloan
+Lilungga
+Limapatai
+Limarayon
+Limay
+Limpono
+Linabanga
+Linangnong
+Linao Cawayan
+Linayasan
+Linda
+Lindasan
+Lingatin
+Lingayeo
+Lingayon
+Lingdan
+Lingig
+Linglingay
+Lintangan
+Lintogup
+Linugos
+Linuiahan
+Lipaga
+Lipakan
+Lipata Pequeño
+Lipatan
+Lipit
+Lipocan
+Liradao
+Lisdon
+Lita
+Litapan
+Lited
+Litoban
+Litongup
+Little Caliban
+Lituas
+Liuanan
+Livutay
+Liwliw
+Llanguan
+Llavc
+Llorente
+Llucurine
+Lo-o
+Lo-oc
+Lo-ok
+Loak
+Loaluan
+Loay
+Lobi
+Locmit
+Locuan
+Logom
+Lojo
+Loktigbau
+Loman
+Lombang
+Lomocab
+Lomong Pequeño
+Longsoddaan
+Lopo
+Lopog
+Lopoton
+Losaon
+Losapon
+Losungan
+Loteman
+Lourdes
+Luan
+Lublub
+Lubo
+Luboc
+Lucanin
+Luga
+Lugan
+Lugatan
+Lugaw
+Lugimit
+Lugtuga
+Luguimi
+Luhong
+Lumagtang
+Lumang Bayan
+Lumangbayan
+Lumanoy
+Lumatan
+Lumbang To-o
+Lumbia
+Lumbo
+Lumbuyan
+Lumindac
+Lumucluc
+Lumuluyao
+Lumunan
+Lunbujan
+Lunga
+Lungalon
+Lungaog
+Lunggunan
+Lungod
+Lungog
+Lungsod-Daan
+Lungsod-Daan Number One
+Lungsod-Daan Number Two
+Lunsod
+Luol-il
+Lupa
+Lupanoan
+Lupao
+Lupil
+Lupit
+Lupon
+Lupting
+Lusak
+Lusay
+Lutong
+Luuk
+Luzon
+Luzuriaga
+M'lang
+Maabet
+Maac
+Maalasan
+Maambong
+Maanas
+Maaslom
+Maasua
+Maaulabo
+Maayong Tubig
+Mabacan
+Mabagabag
+Mabaina
+Mabalas
+Mabalugo
+Mabanana
+Mabanya
+Mabatang
+Mabayabas
+Mabayuan
+Mabela
+Mabilog
+Mabinonga
+Mabiting
+Mablanga
+Maboboos
+Mabolituc
+Mabolo
+Mabudo
+Mabuni
+Mabunto
+Mabuyag
+Macababalo
+Macabacle
+Macabalan
+Macabalo
+Macabod
+Macabugos
+Macabungao
+Macagba
+Macahila
+Macalasac
+Macalawat
+Macalaya
+Macalbang
+Macaldasa
+Macang
+Macanlig
+Macapico
+Macapis
+Macarabur
+Macarat
+Macarogo
+Macasilao
+Macasolag
+Macatbang
+Macatunao
+Macilas
+Mackalape
+Macocol
+Macogon Number Two
+Macote
+Macua
+Macud
+Macugtong
+Maculal
+Maculbo
+Madagat
+Madalan
+Madalim
+Madalumdum
+Madaum
+Madawa
+Maddalero
+Madiba
+Madiog
+Madongan
+Madridejos
+Madsimalo
+Maduao
+Maealong
+Maestra
+Magabo
+Magadinun
+Magalan
+Magamanas
+Maganang
+Maganding
+Magarobal
+Magasan
+Magasauang-Tubig
+Magasawang Kahoy
+Magassi
+Magat
+Magata
+Magatijo
+Magbaboy
+Magbang
+Magcupao
+Magdaong
+Magdug
+Maghilo
+Maglaholo
+Maglangkol
+Maglatac
+Maglosonganon
+Magnoc
+Magopas
+Magradongdong
+Magsagao
+Magsidel
+Magsonod Sapa
+Magsopot
+Magsungay
+Magsuong
+Magtagoctoc
+Magui
+Maguimon
+Maguina
+Magunao
+Magunod
+Maguntapay
+Mahabangtubig
+Mahagna
+Mahalo
+Mahay
+Mahinuc
+Maicay
+Maidit
+Maikong
+Mailabu
+Mailum
+Maimbung
+Maingit
+Maisug
+Maitim
+Maitom
+Maitum
+Majuia
+Majuralan
+Makadar
+Makahadak
+Makar
+Makato
+Makgum
+Makilo
+Makiwalo
+Malabaga
+Malabou
+Malabul
+Malabuyoc
+Malacañang
+Malacbang
+Malaconini
+Malad
+Maladad
+Maladpad
+Maladugao
+Malagos
+Malague
+Malaguining
+Malaguio
+Malagutay
+Malainen
+Malaki
+Malaking Tubig
+Malala
+Malalan
+Malalapan
+Malalig
+Malalong
+Malamaday
+Malamag
+Malamba
+Malamin
+Malamog
+Malamote
+Malanao
+Malangan
+Malangas
+Malangsian
+Malansa
+Malapaao
+Malapajo
+Malapatan
+Malapaya
+Malapoa
+Malaquio
+Malarag
+Malate
+Malatub
+Malatuna
+Malauay
+Malaubang
+Malauli
+Malawa
+Malawaan
+Malayal
+Malayat
+Malayba
+Malaylay
+Malayo-an
+Malbago
+Malbasag
+Malbato
+Malbug-Daku
+Malcallugway
+Malcon
+Male
+Mali-ao Grande
+Mali-ao Pequeño
+Maliang
+Malibago
+Malibas
+Malibtong
+Maligi
+Maligon
+Maligue
+Malihad
+Malihan
+Malihao
+Malilinao
+Malinano
+Malining
+Malipali
+Maliputo
+Malirong
+Malitam
+Malitco
+Malitlit
+Mallig
+Malmoti
+Malo Malaki
+Malo Munti
+Maloconan
+Maloma
+Malong Long
+Malonglong
+Maloro
+Malubagu
+Malubay
+Malubi
+Malubun
+Malucauayan
+Malugnoc
+Maluktoy
+Malulid
+Malungan
+Maluñgun
+Malunoy
+Malunud
+Malunyon
+Malupa
+Malutipay
+Maluton
+Maluyo
+Mamair
+Mamali
+Mamaon
+Mamatao
+Mamba
+Mambagid
+Mambajao
+Mambalan
+Mambaloso
+Mambanao
+Mambaran
+Mambolod
+Mambolod Gamay
+Mambotoa
+Mamburao
+Mamuyo
+Manabang
+Managa
+Managanga
+Manakal
+Manalacbel
+Manampil
+Mananap
+Mananca
+Mananga
+Manangui
+Mananguin
+Manant
+Manaoao
+Manapali
+Manara
+Manato
+Manauangan
+Manaybanay
+Mancao
+Mancob
+Manda Ioy
+Mandago
+Mandalagan
+Mandawe
+Manday
+Mandazo
+Mandoros
+Mandulog
+Mangal
+Mangalinao
+Mangamyas
+Mangero
+Mangilala
+Mangili
+Mangima
+Manginao
+Mangonbangon
+Mangsu
+Manguisian
+Mangumit
+Mangyan
+Manibaug Pasig
+Manicahan
+Manican
+Manihay
+Manikbel
+Maninila
+Maninit
+Manitohan
+Maniwangan Gamay
+Manjulay
+Manlacbo
+Manlag
+Manlakin
+Manlalec
+Manlawaan
+Manloy
+Manlucahoc
+Manoba
+Manogo
+Manoligao
+Mansalay
+Mansaya
+Mansiji
+Mansulung
+Mantacan
+Mantalacan
+Mantalongon
+Mantangie
+Mantanigi
+Mantansig
+Mantic
+Mantolaong
+Mantuyop
+Manuan
+Manuangan
+Manubiray
+Manucan
+Manucotae
+Manuit
+Manulang
+Manupali
+Manuso
+Manuto
+Manzon
+Maobog
+Maoboy
+Mapa
+Mapagbo
+Mapagong
+Mapagun
+Mapalad
+Mapalo
+Mapatos
+Mapogda
+Mapolucan
+Mapud
+Mapurog
+Maputic
+Marabag
+Marabatuan
+Maradiona
+Maragayap
+Maragondon
+Maralong
+Maramatay
+Maramia
+Maramorac
+Marampilan
+Marang
+Marapayaw
+Mararagui
+Maraurui
+Marcelina
+Marco
+Marella
+Marga
+Margol
+Margus Pequeno
+Mariablos
+Maricaban
+Maricalom
+Maridagao
+Marig
+Marihatag
+Marikabog
+Marikina
+Marikit Digoliat
+Marilin
+Marinat
+Mariqui
+Marmosao
+Marobbob
+Maruakoy
+Marugruy
+Marum
+Masaguisi
+Masalansan
+Masalong
+Masaluso
+Masanag
+Masanga
+Masao
+Masapang
+Masapinit
+Masaplod
+Masaquisi
+Masarul
+Masbaranon
+Masedem
+Masiapo
+Masilite
+Masiosio
+Masipac
+Masipi
+Masipil
+Masirit
+Masisi
+Masitan
+Masiwao
+Masolog
+Masonson
+Masugmu
+Masukol
+Mata
+Matabon
+Matagnao
+Mataha
+Matahom
+Matala
+Matalaba
+Matalom
+Matanda
+Matandan
+Matangilan
+Matanglad
+Matapana
+Matara
+Matarling
+Matatoc
+Matembang
+Maticud
+Matikin
+Matilatiday
+Matimbas
+Matimus
+Matina
+Matindog
+Matlang
+Matogdon
+Matoodtood
+Matoogtoog
+Matuglinao
+Matutinao
+Matutuna
+Matuyatuya
+Mauban
+Maubanban
+Mauhang
+Mauhao
+Maulawin
+Maumum
+Mawab
+Maxingal
+May-Iba
+Mayao
+Mayapap
+Maybancal
+Maygñaway
+Maykasina
+Maynabo
+Maynaga
+Maynamo
+Mayngaran
+Maypange
+Maysanga
+Maytalang
+Maytubig
+Maytunas Estero
+McCardy
+Mekallki
+Menara
+Mercer
+Merritt
+Mesibis
+Meycauayan
+Meycongcong
+Mialim
+Mianay
+Miandas
+Miapanan
+Mibacong
+Mierung
+Migagong
+Migdaha
+Migpangui
+Migsakabang
+Mikulago
+Milaquing
+Milbuk
+Milidan
+Mimagildo
+Mimping
+Mina
+Minaile
+Minanga
+Mindanao
+Mindanas
+Mindolog
+Mingay
+Minontay
+Minuli
+Minuowang
+Misawa
+Misusu
+Mitonog
+Mitura
+Moagnas
+Mobo
+Mogingon
+Mokoy
+Molawin
+Molid
+Molobolo
+Momundas
+Mondragon
+Mongkilong
+Moorab
+Moranon
+Morilien
+Moriones
+Moros
+Muda
+Mudug
+Muduing
+Mulay
+Muli
+Mulita
+Munigi
+Munting Tubig
+Muntingtubig
+Munyungo
+Murige
+Mutulan
+Naalub
+Nabacaan
+Nabalantungan
+Nabalicon
+Nabalo-ong
+Nabaoy
+Nabasag
+Nabaye
+Nabayo
+Nabayugan
+Nabilian
+Nabilog
+Nabitas
+Nabobong
+Naboka
+Nabolugan Sibat
+Nabonbon
+Nabonton
+Nabosuang
+Nabotas
+Nabouy
+Nabunga
+Nabuno
+Nabutaan
+Nabutas
+Nabuungan
+Nacaanuran
+Nag-abo
+Nagabo
+Nagabungan
+Nagalo
+Nagan
+Nagasapan
+Nagbabacalan
+Nagbalaye
+Nagcalang
+Nagiba
+Nagison
+Naglalahaw
+Nagpatayan
+Nagsanga
+Nagsulay
+Nagtamuruan
+Nagtulay
+Nagugangot
+Nagulogulo
+Nagunao
+Naguylog
+Nahaon
+Nahatin
+Nahologan
+Naholugan
+Nahulid
+Nahulog
+Nailog
+Nailong
+Nainday
+Naisud
+Nalba
+Nalcan
+Nalihugan
+Nalilidan
+Nallatagud
+Nalonod
+Nalugan
+Nalundan
+Nalupa
+Nama
+Namacalan
+Namagbagen
+Namampanan
+Namat Peidu
+Namatayan
+Nambog
+Namegpegan
+Namitpit
+Namonit
+Namotnga
+Namoyocan
+Namunuan
+Nanan
+Nanca
+Nangabungan
+Nangalisan
+Nangayangan
+Nango
+Naninoan
+Nanlud
+Nannak
+Nanocan
+Naohang
+Napalidan
+Napan
+Napancal
+Napatay
+Napaulan
+Napayawan
+Napindan
+Napolidan
+Nappacu
+Napusuan
+Narabonan
+Narangasan
+Naroroy
+Narvacan
+Nasalayan
+Nasisi
+Nasooc
+Nassiping
+Natalay
+Natapptan
+Natauo
+Natbaoan
+Natibon
+Natid
+Natimbunan
+Natividad
+Natobgon
+Natongtotan
+Natu
+Natubungan
+Natulud
+Nauconga
+Nauhan
+Nauhang
+Nauili
+Nauli
+Naulid
+Nauring
+Nawuh
+Nayawan
+Ngagan
+Ngilinan
+Nibolangan
+Nilactogan
+Nilamoyac
+Ningaden
+Niniput
+Ninunukan
+Nioban
+Nipa
+Nipa Nipa
+Nipaan
+Niugan
+Noblao
+Nobunaga
+Nongnongan
+Nonucan
+Noos
+North Mananingo
+Novaliches
+Nuing
+Nulan
+Nuna
+Nunuyan
+Oaig Daya
+Oalu
+Obo
+Obong
+Oboy Oboy
+Ocana
+Oco
+Ocoy
+Odioñgan
+Odoc
+Ojot
+Okayan
+Olanen
+Olango
+Olay
+Oleras
+Olicasto
+Olingan
+Olla
+Olongi
+Oluangan
+Oluulu
+Omaguing
+Omiles
+Ominong
+Ondoy
+Onglo
+Oota
+Oran
+Orang Dacu
+Orang Gamay
+Orina
+Oring
+Orion
+Oriwong
+Oroc-Osoc
+Osanin
+Osoguen
+Oticon
+Otod
+Otzizla
+Ouongan
+Oval
+Owang
+Oway
+Oyungan
+Paalugan
+Pabayon
+Pacating
+Paclasan
+Pacol
+Pactalo
+Pacu-an
+Pacucao
+Paculago
+Pacuwanan
+Padada
+Paddad
+Padido
+Padsan
+Paduguit
+Padyao
+Pag-asa
+Pagada
+Pagadian
+Pagalpal
+Paganguan
+Paganitojan
+Pagatban
+Pagbahan
+Pagbanganan
+Pagdalagan
+Pageglan
+Paglotangan
+Pagranan
+Pagsala
+Pagsanhan
+Pagsoloan
+Pagunan
+Paho
+Pakil Caballo
+Palabenas Malati
+Palabung
+Palali
+Palali Number One
+Palali Number Two
+Palaman
+Palaming
+Palanan
+Palanay Daco
+Palandok
+Palangao
+Palangeran
+Palani
+Palapag
+Palasan
+Palasian
+Palawi
+Palawig
+Palayas
+Palayog
+Pali
+Palian
+Paliin
+Palilan
+Palilian
+Palimbang
+Palinpinon
+Palipil
+Paliuan
+Paliwagon
+Paliwas
+Palowag
+Paltic
+Palton
+Palugan
+Paluguit
+Palwaig
+Pamanan
+Pamancan
+Pamandian
+Pamang
+Pamani
+Pamanitan
+Pamatdon
+Pamauyan
+Pambu Khan
+Pambuhan
+Pambulaon
+Paminsuc
+Pamonawan
+Pamplona
+Pamutusin
+Panaguan
+Panaguman
+Panagurian
+Panakiao
+Panalian
+Panalingen
+Panalipan
+Panalyan
+Panamangan
+Pananag
+Panargo
+Panasayan
+Panatiguan
+Panaun
+Panbal
+Pandacaqui
+Pandanco
+Pandayan
+Pandi
+Pandun
+Panelao-an
+Pangabang
+Pangabat
+Pangabehon
+Pangabito
+Pangada
+Pangadlawan
+Pangahoy
+Pangalaan
+Pangalamañgon
+Pangaloan
+Panganta
+Pangapapitan
+Pangasahan
+Pangasinan
+Pangatian
+Pangatlan
+Pangauaran
+Pangayawan
+Pangbilian
+Panglan
+Panglawan
+Panglimasan
+Pangolisanin
+Pangorayan Daco
+Panguilan
+Pangulo
+Pangyan
+Paniagan
+Panicuan
+Paniginhan
+Paniguan
+Paniguian
+Paniguion
+Paniki
+Paningcot
+Paninilan
+Paniqui
+Panoonan
+Panoyaan
+Panoyipoy
+Pansao
+Pansian
+Pansipit
+Panso
+Pantabangan
+Pantagayan
+Pantao
+Pantay
+Pantingan
+Pantlahan
+Pantuagan
+Pantuan
+Pantucan
+Panulapan
+Panusugon
+Pao
+Papaya
+Papayan
+Paracale
+Parian
+Parmingitan
+Parok
+Parolong
+Parota
+Paroy
+Parpagoja
+Paruddun
+Parulog
+Parupatuangan
+Pasaleng
+Pasaroboy
+Pasay
+Pasayan
+Pasigay
+Pasigpasilan
+Pasiguic
+Pasinahal
+Pasong Bancod
+Pasong Cama Chile
+Pasong Tabla
+Pasongcawayan
+Pasor
+Pasugui
+Pasulan
+Pasuriao
+Pata
+Patabog
+Pataden
+Patalan
+Patalon
+Patauay
+Patawig
+Patay Na Sapa
+Pateng
+Patigawon
+Patihan
+Patitinan
+Patnongon
+Patorac
+Patria
+Pattao
+Pattung
+Paurapan
+Pavaw
+Pavian
+Pawak
+Pawili
+Payabon
+Payasan
+Payasisiling
+Payawan
+Paymava
+Payna
+Payong
+Payopayo
+Payung
+Pedro
+Pellmell
+Peñaranda
+Penec
+Peris
+Perla
+Pian
+Piapi
+Piau
+Picalawa
+Piddan
+Pidpio
+Piela
+Pigalaran
+Pigawacan
+Pigbalu
+Pigharamagan
+Piglos
+Pikalin
+Pilac
+Pilagaragat
+Pilasi
+Pililla
+Pilion
+Pilogo
+Pimpila Number Two
+Piña
+Pinabricajan
+Pinacanauan de Tumauini
+Pinacauan De Ilagan
+Pinacawan
+Pinagbatangan
+Pinagbirayan
+Pinagdugan
+Pinagpandayan
+Pinaguidanan
+Pinamangsaan
+Pinamentigan Gamay
+Pinamitnan
+Pinamoyanan
+Pinamsaan
+Pinamucan
+Pinanawagon
+Pinancigel
+Pinandao
+Pinanoy
+Pinantan
+Pinantanguit
+Pinapati
+Piñas
+Pinatabtaban
+Pindangg
+Pindasan
+Pineda
+Pingan
+Pining
+Pinogbatangan
+Pintatagan
+Pintin
+Pintuyan
+Pipanganaga
+Pipsan
+Piri
+Pirocayan
+Pisa
+Pisanan
+Pisao
+Pisoh
+Pisora
+Pitay
+Pito
+Piualan
+Piunary
+Poctol
+Poctoy
+Podlosan
+Pokdol
+Poket
+Polanco
+Polaoan
+Polavan
+Poldoc
+Polidas
+Poloay
+Polomoloc
+Polos
+Pomay
+Pongon
+Ponigan
+Ponong
+Ponsayan
+Poponton
+Porac
+Porac-Gumain
+Poro
+Posalo
+Postema
+Potrero
+Poyas
+Puay
+Pucdul
+Puco
+Pucot
+Pudian
+Puerto-Princesa Subterranean
+Pugadbaboy
+Pugo
+Pugpatilan
+Pugu
+Puhu
+Pulajan
+Pulane
+Pulang Bato
+Pulang Buhangin
+Pulangbalibaguhan
+Pulangduta
+Pulog
+Pulonan
+Pulong Gubat
+Pulpog
+Pundaquit
+Pungan
+Punis
+Punkal
+Punpunan
+Punta Taytay
+Puracan
+Puting Bato
+Putingtubig
+Queboroso
+Queragpan
+Querussippe
+Quezon
+Quianan
+Quibabaya
+Quibagnan
+Quibuan
+Quilin
+Quiling
+Quimbawan
+Quinabalotan
+Quinabigan Malaki
+Quinag
+Quinaguitman
+Quinai
+Quinalanga
+Quinalatdat
+Quinali
+Quinalumsan
+Quinamaligan
+Quinapundan
+Quinarayan
+Quinasay
+Quinauan
+Quinayango
+Quininati
+Quiniput
+Quinobatan
+Quinonoan
+Quiot
+Quipit
+Quitang
+Qulnabonan
+Rabel
+Racat
+Racgo Ramon
+Rag-uman
+Ragara
+Ragarutan
+Ralhi
+Ramada
+Ramayam
+Ramitan
+Rarab
+Rawari
+Rawis
+Rayusan
+Redondo
+Regidor
+Reroam
+Rio Bakitbakit
+Rio Casin
+Rio Chico Pampanga
+Rio Mabangcal
+Rio Tiaona
+Rio Tolonogan
+Robocon
+Rocub
+Ronda
+Rongon
+Royocan
+Ruguan
+Rumbon
+Rupagan
+Ruyusrus
+Saaban
+Sabalanasasin
+Sabang Ilud
+Sabangan Quibar
+Sabangcawayan
+Sabanilla
+Sabate
+Sabing
+Saboncogon
+Sabong
+Sabung
+Sacang
+Sacatihan
+Sacburoy
+Sacop
+Saddle
+Sagayon
+Sagayran
+Saggat
+Sagnay
+Sagogan
+Sagomay
+Sagongon
+Sagorong
+Saguirgan
+Saguisi
+Saint Jude
+Saiton
+Saiyug
+Sakayin
+Saksak
+Salaban
+Salagan
+Salakit
+Salaman
+Salamanca
+Salapan
+Salapangan
+Salapo
+Salasad
+Salasalaban
+Salaymalaki
+Sales
+Salhag
+Salim
+Salindingan
+Salipsip
+Salongsong
+Salor
+Salova
+Salsalan
+Salug Diut
+Salupagui
+Salupsup
+Salvacion
+Samalang
+Samalauan
+Samasap
+Sambugtun
+Samento
+Samil
+Samoyan
+Sampaioc
+Sampinitan
+Sampiton
+Sampuo
+San Agustin
+San Andres
+San Bartotome
+San Clemente
+San Cristobal
+San Fernando
+San Gabriel
+San Josep
+San Miguel na Munti
+San Patricio
+San Remigio
+San Vincente
+San-Angan
+Sanasal
+Sangab
+Sangalang
+Sangaya
+Sangi
+Sangil Left
+Sangilo
+Sangirin
+Sangputan
+Sanig
+Sanipon
+Sanllalung
+Santa Catalina
+Santa Clara
+Santa Fe
+Santa Filomena
+Santa Paz
+Santiago
+Santo Ninio
+Saosao
+Sapa Balusa
+Sapa Bolasbolas
+Sapa Calut
+Sapa Cucusin
+Sapa Dibabuyan
+Sapa Malua
+Sapa Mandlam
+Sapa Parata
+Sapa Patindigarao
+Sapa Pitanacol
+Sapa Pudiot
+Sapa Ralikid
+Sapa Sicsican
+Sapa Sugunusan
+Sapalan
+Sapang Balibago
+Sapang Baliwag
+Sapang Bucal
+Sapang Bulago
+Sapang Buli
+Sapang Camias
+Sapang Daku
+Sapang Dalayap
+Sapang Dapdap
+Sapang Libotad
+Sapang Maragui
+Sapang Matalahib
+Sapang Matulid
+Sapang Nabogawan
+Sapang Nigi
+Sapang Paraium
+Sapang Parinnia
+Sapang Patanas
+Sapang Senay
+Sapang Sucol
+Sapang Taytayan
+Sapang Tubalan
+Sapangbuhay
+Sapao
+Sapitang
+Sappinit
+Sapu Padidu
+Saputan
+Saquirgan
+Sarabay
+Saran
+Sarohan
+Sarosa
+Sarunayan
+Saugagan
+Saungmithe
+Sawaga
+Sawagen
+Sayab
+Sayao
+Sayut
+Sebaste
+Sebaye
+Sebuatco
+Segonig
+Segum Munti
+Segun
+Seipa-Soo
+Selbang
+Semanok
+Semba
+Senapa
+Senonoc
+Sepgasan
+Seretsita
+Shapon
+Siain
+Siam
+Siange
+Siao
+Siaton
+Sibaguan
+Sibaja
+Sibalic
+Sibaliw
+Sibato
+Sibay
+Sibud
+Sibugay
+Sibugon
+Sibungan
+Sibutao
+Sicalao
+Sicopong
+Sicud
+Siffu
+Sigcay
+Siginon
+Sigmatan
+Siguim
+Sigut
+Silaga
+Silago
+Silang Bata
+Silanguin
+Silaua
+Sildora
+Siling
+Silingan
+Silmaugui
+Simaguan
+Simanu
+Simayun
+Simod
+Simong
+Simpetan
+Simucog
+Simulao
+Sinabu
+Sinadoyang
+Sinalmacan
+Sinalongan
+Sinamangan
+Sinambalan
+Sinaoangan
+Sinapauan
+Sinapsapan
+Sinariwan
+Sinawal
+Sindangan
+Singauan
+Sinilaban
+Siniloan
+Sinisian
+Sinual
+Sinubli
+Sinungan
+Sipaco
+Sipalan
+Sipocot
+Sipuyo
+Siramag
+Siu
+Siuahon
+Siuaragan
+Siuton
+Siyt
+Slug
+Small Bigian
+Small Cugman
+Small Mateo
+Small Napilas
+Small Tuganay
+So-oy
+Socorro
+Sohoton
+Solakan
+Solana
+Solano
+Solitan
+Soliyao
+Solomoot
+Solong
+Solsona
+Somosa
+Soot
+Sopa
+Sopan Carios
+South Balincaguin
+South Lowis
+South Mananingo
+Sowali
+Stechi Number Two
+Su
+Sua
+Suaga
+Sual Number Two
+Suang Dapak
+Suba Saliboran
+Subterranean
+Subuan
+Succuc
+Sudman
+Sugbay
+Sugi
+Sugtad
+Sugut
+Suhi
+Suisuyen
+Sukaan
+Suklayin
+Sulat
+Sulibau
+Sulpa
+Sulvec
+Sumacbao
+Sumag
+Sumagui
+Sumangkal
+Sumham
+Supa
+Surabay
+Suribao
+Surigao
+Surman
+Susuba
+Suwawan
+Suyatan
+Suyatao
+Taan
+Tabagan
+Tabahan
+Tabalungan
+Taban
+Tabao
+Tabas
+Tabayagan
+Tabayagon
+Tabayas
+Tabbog
+Tabgas
+Tabid
+Tabidianan
+Tabisan
+Tabla
+Tablac
+Tabo-o
+Taboan
+Tabogon
+Tabong
+Taboyong
+Tabu
+Tabuac
+Tabualing
+Tabugoc
+Tabulaua
+Tabulsit
+Tabuna
+Tabungao
+Tabunok
+Tacab
+Tacayan
+Tacolod
+Tactac
+Taculuan
+Tacupan
+Tadian
+Tadloc
+Taft
+Tag-abaca
+Tagabacaoan
+Tagabas
+Tagabuli
+Tagacopan
+Tagaga
+Tagakpan
+Tagalo
+Taganaan
+Taganabang
+Tagangatopa
+Taganibong
+Taganusan
+Tagapohan
+Tagas
+Tagaulay
+Tagaytay
+Tagbacan
+Tagbak
+Tagbalawbaw
+Tagbaros
+Tagbaya
+Tagbita
+Tagbolante
+Tagbuane
+Tagdon
+Tagel
+Taginatay
+Tagipan
+Tagis
+Tagiti
+Tagkamanchi
+Taglalola
+Taglibao
+Tago
+Tagolao
+Tagoloan
+Tagpiris
+Tagpisa
+Tagpuange
+Tagsulip
+Taguanbinto
+Taguaya
+Taguibao
+Taguictic
+Taguig
+Taguinting
+Taguisian
+Taguiwer
+Taguloy
+Taguma
+Tahao
+Tahud
+Taiwanac
+Takalo
+Takamile
+Tala
+Talabacon
+Talacagan
+Talagas
+Talagios
+Talagutong
+Talatugu
+Talave
+Talibnon
+Taliclic
+Talik
+Talinantabon
+Talingting
+Talipan
+Tallag
+Talmaimag
+Talnagan
+Taloc
+Taloptap
+Talos
+Talsam
+Talubin
+Talucdangan
+Taluk
+Talusan
+Tamal
+Tamala
+Tamalaya
+Tamalmag
+Tamarok
+Tamasuli
+Tambabalud
+Tambagoko
+Tambang
+Tambangin
+Tambaton
+Tambis
+Tambo-Arogam
+Tamboc
+Tambonan
+Tambulos
+Tambunac
+Tamisan
+Tamorong
+Tampal
+Tampigan
+Tampod
+Tampokon
+Tamucalao
+Tanabag
+Tanaldan
+Tanao
+Tandag
+Tandakol
+Tandawan
+Tangalan
+Tangao
+Tangatan
+Tangbo
+Tangcong Malaki
+Tanggul
+Tanghas
+Tangian
+Tangisa
+Tangkuan
+Tanglan
+Tanglao
+Tangod
+Tangohay
+Tangohin
+Tanguay
+Tanguhay
+Tanian
+Tanjay
+Tanla
+Tanobong
+Tanod
+Tanolo
+Tanoman Big
+Tanoman Small
+Tanudan
+Tanza
+Tao-Tao
+Taoang
+Taodoy
+Taoinion
+Taon
+Tapak
+Tapan
+Tapicun Number Two
+Tapinis
+Taplan
+Tapoa
+Tapol
+Tappang
+Tapucan
+Tarabanan
+Tarac
+Tarawakan
+Tarling
+Taroy
+Tarug
+Tarusan
+Tasilon
+Taslan
+Tatacpo
+Tatag
+Tataypo
+Tatlong Botas
+Tautt
+Tawal
+Tawawa
+Tawiran
+Tawis
+Tawit
+Tawitan
+Tawog
+Tayaman
+Tayasan
+Taytob
+Tayumaan
+Telacsan
+Telasicuaco Tagulod
+Telasilid
+Telbang
+Tembo
+Tenagunan
+Tenegiban
+Tentuli
+Teracan
+Terasan
+Teresa
+Tianbuligue
+Tiano
+Tiayan
+Tiayay
+Tibakan
+Tibal-og
+Tibanbang
+Tibgas
+Tibig
+Tiblan
+Tibyuwan
+Ticlin
+Ticol
+Ticotico
+Ticu-an
+Tiga Plan
+Tigbalangao
+Tigbatangiaidog
+Tigbayoc
+Tigboloban
+Tigbungabong
+Tigbusao
+Tighatad
+Tigniabon
+Tigon
+Tigpalay
+Tigpoan
+Tigua
+Tiguian
+Tiguib
+Tiguis
+Tiguisan
+Tigum
+Tigumon
+Tikala-an
+Tilalib
+Tilin
+Tiling
+Tilisay
+Tilud
+Timaco
+Timamana
+Timayog
+Timbo
+Timbugan
+Tinabalan
+Tinabanan
+Tinablanan
+Tinaclipan
+Tinagacan
+Tinago Estero
+Tinaguman
+Tinajeros
+Tinalmud
+Tinalongan
+Tinanan
+Tinane
+Tinangi-on
+Tinangna
+Tinanogan
+Tingbaban
+Tingbabon
+Tinig
+Tiniguangan
+Tinihaban
+Tinitan
+Tinocol
+Tinomiguez
+Tinongan
+Tinorian
+Tinublan
+Tiolas
+Tion
+Tipan
+Tipcal
+Tipuluan
+Tir-awan
+Tirayad
+Tiriad East
+Tiring
+Tirman
+Tiyos
+Tocod
+Toga
+Togbong
+Togod
+Toking
+Tokontokon
+Tolaognis
+Toledo
+Tolnagan
+Toloato
+Tolosa
+Tomanday
+Tomandoc
+Tonaan
+Tonggo
+Tongo
+Tonoton
+Tonoy
+Torang
+Tori-anon
+Torogtog
+Torowcy
+Totagano
+Totubigan
+Toytoy
+Tran
+Tran Peidu
+Tu-og
+Tuaca
+Tuay
+Tubajan
+Tubalan
+Tubaong
+Tubid China
+Tubig Danao
+Tubli
+Tubo
+Tubong
+Tuboran
+Tubuan
+Tubungan
+Tucalan
+Tucucan
+Tuculan
+Tudi
+Tuduyan
+Tuga
+Tuganay
+Tugban
+Tugbo
+Tugbugan
+Tugues
+Tuguis
+Tugulan
+Tujau
+Tulalagan
+Tulariquin
+Tulduan
+Tulid Napamugsuan
+Tulon
+Tumaga
+Tumagboc
+Tumalbitay
+Tumalistis
+Tumao
+Tumarino
+Tumbag
+Tumilindog
+Tunasan
+Tunawan
+Tungawan
+Tungcab
+Tunged
+Tunggon
+Tungkip
+Tungup
+Tungyan
+Tuno
+Tupa
+Tupal
+Tupas
+Tupilac
+Tupilac Happy
+Tupilac Mahaba
+Turao
+Turar
+Tutulonum
+Tyabanan
+Uacon
+Uamanod
+Uangon
+Uauang
+Ubajay
+Ubay
+Ubian
+Ugnisan
+Ulan
+Ulaunan
+Ulayan
+Uli
+Ulian
+Uliliug
+Ulot
+Uluman
+Ulunan
+Ulut
+Umalagan
+Umalbong
+Umbarnan
+Ungay
+Unog
+Upi
+Usa
+Usab
+Usllya
+Usoy
+Usulan
+Utip
+Utud
+Uwaug
+Uyong
+Vatavab
+Vigan
+Vigo
+Vigyig
+Villalon
+Villavieja
+Vinalusan
+Vintar
+Viray
+Virginia
+Viriato
+Visitang Naga
+Vitas
+Wacal
+Wak
+Wakan
+Wakawak
+Wañgan
+Wangle
+Waras
+Waway
+Welch
+Western Tuboy
+Whanga
+Wines
+Wisawis
+Yabahaan
+Yabel
+Yabu
+Yakip
+Yapos
+Yatin
+Yauan
+Yawas
+Yawe
+Yiapo
+Yiguig
+Ylang-Ylang
+Yobug
+Yoni
+Zapata
+Zapote
+Zarraga
+Zimigui
+Ziminila
+Zinundungan
+Zumbo

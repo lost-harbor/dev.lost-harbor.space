@@ -1,0 +1,3295 @@
+Ribeira Seca	10
+Torto	10
+Barranco	9
+Ribeira Grande	9
+Barranco do Vale	6
+Barranco Grande	6
+Ribeira da Laje	6
+Ribeira do Carvalhal	6
+Ribeira dos Moinhos	6
+Ribeira Funda	6
+Barranco da Corte	5
+Ribeira da Amieira	5
+Ribeira de São Pedro	5
+Ribeira do Braçal	5
+Ribeira do Freixo	5
+Barranco da Aldeia	4
+Barranco das Fontainhas	4
+Barranco do Bufo	4
+Barranco do Carriço	4
+Barranco do Poço	4
+Pequeno	4
+Ribeira	4
+Ribeira da Aldeia	4
+Ribeira da Azenha	4
+Ribeira da Lapa	4
+Ribeira da Torre	4
+Ribeira das Fontainhas	4
+Ribeira de São João	4
+Ribeira do Vale	4
+Ribeiro	4
+Ribeiro da Capela	4
+Ribeiro da Vila	4
+Ribeiro das Lajes	4
+Ribeiro do Colmeal	4
+Ribeiro do Freixial	4
+Ribeiro do Freixo	4
+Ribeiro do Pereiro	4
+Ribeiro do Seixo	4
+Ribeiro do Souto	4
+Ribeiro do Vale	4
+Seco	4
+Barranco da Achada	3
+Barranco da Amarela	3
+Barranco da Atalaia	3
+Barranco da Cachopa	3
+Barranco da Casa Velha	3
+Barranco da Malhada	3
+Barranco da Mina	3
+Barranco da Rocha	3
+Barranco das Lajes	3
+Barranco do Furadouro	3
+Barranco do Pego Escuro	3
+Barranco do Penedo	3
+Barranco dos Álamos	3
+Cabril	3
+Corgo	3
+Frio	3
+Ribeira da Barroca	3
+Ribeira da Junqueira	3
+Ribeira da Ponte	3
+Ribeira da Pontinha	3
+Ribeira das Cabras	3
+Ribeira das Vinhas	3
+Ribeira de Palhais	3
+Ribeira de São Domingos	3
+Ribeira do Caldeirão	3
+Ribeira do Carvalho	3
+Ribeira do Gavião	3
+Ribeira do Outeiro	3
+Ribeira do Salto	3
+Ribeira do Souto	3
+Ribeira Pequena	3
+Ribeiro da Deveza	3
+Ribeiro da Fonte	3
+Ribeiro da Horta	3
+Ribeiro da Nave	3
+Ribeiro do Castelo	3
+Ribeiro do Lobo	3
+Ribeiro do Muro	3
+Ribeiro do Paul	3
+Ribeiro do Pinheiro	3
+Ribeiro do Porto	3
+Ribeiro do Prado	3
+Vez	3
+Barranco da Água Velha	2
+Barranco da Aguçadeira	2
+Barranco da Amendoeira	2
+Barranco da Amoreira	2
+Barranco da Asseiceira	2
+Barranco da Azenha	2
+Barranco da Fonte Santa	2
+Barranco da Horta	2
+Barranco da Junqueira	2
+Barranco da Laje	2
+Barranco da Lapa	2
+Barranco da Maceira	2
+Barranco da Medronheira	2
+Barranco da Misericórdia	2
+Barranco da Palmeira	2
+Barranco da Parra	2
+Barranco da Rochinha	2
+Barranco da Silveira	2
+Barranco da Vinha	2
+Barranco da Zorra	2
+Barranco das Figueiras	2
+Barranco das Neves	2
+Barranco das Pereiras	2
+Barranco das Quebradas	2
+Barranco das Taipas	2
+Barranco das Voltas	2
+Barranco de Almejafas	2
+Barranco de Santa Maria	2
+Barranco do Açor	2
+Barranco do Adernal	2
+Barranco do Almarjão	2
+Barranco do Branco	2
+Barranco do Canal	2
+Barranco do Carriçal	2
+Barranco do Carvalhal	2
+Barranco do Clérigo	2
+Barranco do Farelo	2
+Barranco do Freixo	2
+Barranco do Inferno	2
+Barranco do Lobo	2
+Barranco do Malhão	2
+Barranco do Moinho	2
+Barranco do Montinho	2
+Barranco do Rotilho	2
+Barranco do Ruivo	2
+Barranco do Seixo	2
+Barranco do Serrão	2
+Barranco do Serro	2
+Barranco do Telheiro	2
+Barranco do Vale Coelho	2
+Barranco do Vale da Freira	2
+Barranco do Vale da Rosa	2
+Barranco do Vale da Vinha	2
+Barranco do Vale do Zebro	2
+Barranco do Vale Tijoso	2
+Barranco do Vinagre	2
+Barranco do Zambujal	2
+Barranco do Zebro	2
+Barranco do Zevinho	2
+Barranco dos Castelhanos	2
+Barreiro	2
+Cabrão	2
+Castro Laboreiro	2
+Ceira	2
+Covo	2
+Grande	2
+Granja	2
+Lima	2
+Mau	2
+Mouro	2
+Negro	2
+Ribeira da Asseca	2
+Ribeira da Atalaia	2
+Ribeira da Cabreira	2
+Ribeira da Caldeira	2
+Ribeira da Calheta	2
+Ribeira da Carreira	2
+Ribeira da Carvalha	2
+Ribeira da Casa Velha	2
+Ribeira da Cinceira	2
+Ribeira da Coitada	2
+Ribeira da Corte	2
+Ribeira da Corujeira	2
+Ribeira da Coutada	2
+Ribeira da Cruz	2
+Ribeira da Esteveira	2
+Ribeira da Ferraria	2
+Ribeira da Figueira	2
+Ribeira da Fontinha	2
+Ribeira da Fornalha	2
+Ribeira da Fraga	2
+Ribeira da Granja	2
+Ribeira da Gricha	2
+Ribeira da Lampreia	2
+Ribeira da Manga	2
+Ribeira da Matança	2
+Ribeira da Pega	2
+Ribeira da Peramanca	2
+Ribeira da Pipa	2
+Ribeira da Póvoa	2
+Ribeira da Pucariça	2
+Ribeira da Represa	2
+Ribeira da Salgada	2
+Ribeira da Seca	2
+Ribeira da Tramagueira	2
+Ribeira da Várzea	2
+Ribeira da Venda	2
+Ribeira da Vila	2
+Ribeira das Bouças	2
+Ribeira das Lavadeiras	2
+Ribeira das Mós	2
+Ribeira das Pias	2
+Ribeira das Pontes	2
+Ribeira das Velhas	2
+Ribeira de Algalé	2
+Ribeira de Almoster	2
+Ribeira de Arraiolos	2
+Ribeira de Cabrum	2
+Ribeira de Codes	2
+Ribeira de Linhares	2
+Ribeira de Ribas	2
+Ribeira de Santa Bárbara	2
+Ribeira de Santa Catarina	2
+Ribeira de Santa Suzana	2
+Ribeira de São Bartolomeu	2
+Ribeira de São Bento	2
+Ribeira de São Cristóvão	2
+Ribeira de São Lourenço	2
+Ribeira de São Matias	2
+Ribeira de São Paio	2
+Ribeira de São Romão	2
+Ribeira de São Roque	2
+Ribeira de São Simão	2
+Ribeira de São Tomé	2
+Ribeira de São Vicente	2
+Ribeira de Trás	2
+Ribeira de Valbom	2
+Ribeira de Vale de Boi	2
+Ribeira de Vale de Moinhos	2
+Ribeira de Vide	2
+Ribeira de Vila Nova	2
+Ribeira do Adão	2
+Ribeira do Álamo	2
+Ribeira do Arroio	2
+Ribeira do Boco	2
+Ribeira do Carregal	2
+Ribeira do Espanhol	2
+Ribeira do Gato	2
+Ribeira do Guilherme	2
+Ribeira do Inferno	2
+Ribeira do Juncal	2
+Ribeira do Moinho	2
+Ribeira do Paul	2
+Ribeira do Pisão	2
+Ribeira do Porto	2
+Ribeira do Prado	2
+Ribeira do Serrado	2
+Ribeira do Urzal	2
+Ribeira dos Carriços	2
+Ribeira dos Marmeleiros	2
+Ribeira dos Pegos	2
+Ribeira dos Vales	2
+Ribeira Nova	2
+Ribeirinha	2
+Ribeiro da Boavista	2
+Ribeiro da Canada	2
+Ribeiro da Corte	2
+Ribeiro da Fontana	2
+Ribeiro da Granja	2
+Ribeiro da Lapa	2
+Ribeiro da Luz	2
+Ribeiro da Mata	2
+Ribeiro da Meia Légua	2
+Ribeiro da Misericórdia	2
+Ribeiro da Pantanha	2
+Ribeiro da Ponte	2
+Ribeiro da Rata	2
+Ribeiro da Ribeirinha	2
+Ribeiro da Torre	2
+Ribeiro da Várzea	2
+Ribeiro da Veiga	2
+Ribeiro da Velha	2
+Ribeiro da Venda Nova	2
+Ribeiro das Canas	2
+Ribeiro das Choças	2
+Ribeiro das Covas	2
+Ribeiro das Figueiras	2
+Ribeiro das Fontes	2
+Ribeiro das Laranjeiras	2
+Ribeiro das Malhadas	2
+Ribeiro das Olgas	2
+Ribeiro das Quintas	2
+Ribeiro de Besteiros	2
+Ribeiro de Cabanas	2
+Ribeiro de Campelo	2
+Ribeiro de São Domingos	2
+Ribeiro de São Mamede	2
+Ribeiro de Valongo	2
+Ribeiro de Vera Cruz	2
+Ribeiro do Álamo	2
+Ribeiro do Boco	2
+Ribeiro do Calvário	2
+Ribeiro do Campo	2
+Ribeiro do Cortiço	2
+Ribeiro do Fojo	2
+Ribeiro do Juncal	2
+Ribeiro do Mata Frades	2
+Ribeiro do Peral	2
+Ribeiro do Poio	2
+Ribeiro do Salgueiral	2
+Ribeiro do Vilar	2
+Ribeiro dos Besteiros	2
+Ribeiro Escuro	2
+Sado	2
+São Vicente	2
+Tinto	2
+Veiga	2
+Vila	2
+Zêzere	2
+Adrão
+Agadão
+Águeda
+Aguilhão
+Alcaide
+Alcoa
+Alto
+Alva
+Alviela
+Alvor
+Amieira
+Âncora
+Anços
+Angueira
+Arda
+Areia
+Armada
+Arnoia
+Arouce
+Arroyo Abrilongo
+Arroyo de Abejeros
+Arroyo de Aguaszorras
+Arroyo de la Rivera
+Arroyo de Ruzagores
+Arroyo de San Juan
+Arroyo de Valdeborracho
+Arroyo Langaruta
+Arroyo Rivera de Anta
+Arunça
+Asnes
+Ave
+Avelames
+Ázere
+Azibo
+Baça
+Baceiro
+Balsemão
+Barosa
+Barranco Albarrão
+Barranco Branco
+Barranco Chão de Parreira
+Barranco da Adreneira
+Barranco da Água Azeda
+Barranco da Água de Peixe
+Barranco da Água de Todo o Ano
+Barranco da Alcaria
+Barranco da Alcaria Chã
+Barranco da Alendroeira
+Barranco da Alfarrobeira
+Barranco da Almeijoafra
+Barranco da Ameijoafa
+Barranco da Ameixieira
+Barranco da Amêndoa
+Barranco da Ataboeira
+Barranco da Atafona
+Barranco da Azevinho
+Barranco da Balança
+Barranco da Balsa
+Barranco da Barrada
+Barranco da Barriga
+Barranco da Bicada
+Barranco da Boavista
+Barranco da Boizana
+Barranco da Bracieira
+Barranco da Brunheira
+Barranco da Cabrita
+Barranco da Cachamorra
+Barranco da Caeira
+Barranco da Caixa de Água
+Barranco da Caldeira
+Barranco da Cancelinha
+Barranco da Cariola
+Barranco da Carrapateira
+Barranco da Carta Velha
+Barranco da Casa
+Barranco da Casa Nova
+Barranco da Casinha
+Barranco da Casota
+Barranco da Castanha
+Barranco da Cegonha
+Barranco da Chã
+Barranco da Chada
+Barranco da Chancuda
+Barranco da Choca
+Barranco da Cisterna
+Barranco da Corte Amarela
+Barranco da Covanca
+Barranco da Craveira
+Barranco da Cruz da Várzea
+Barranco da Degrácia
+Barranco da Descabelada
+Barranco da do Garcia
+Barranco da Dorde
+Barranco da Eira Craveira
+Barranco da Eira das Meias
+Barranco da Estrada
+Barranco da Fareleira
+Barranco da Farriota
+Barranco da Feiteira
+Barranco da Féria
+Barranco da Ferreira
+Barranco da Ferrenha
+Barranco da Figueira
+Barranco da Filipeja
+Barranco da Fonte
+Barranco da Fonte da Lebre
+Barranco da Fonte da Soalheira
+Barranco da Fonte do Barranco
+Barranco da Fonte do Cão
+Barranco da Fonte do Penedo
+Barranco da Fonte Salgueiro
+Barranco da Forca
+Barranco da Formiga
+Barranco da Fornalha
+Barranco da Foz das Águas
+Barranco da Fragura
+Barranco da Funcheira
+Barranco da Furada
+Barranco da Galé
+Barranco da Galiana
+Barranco da Goteira
+Barranco da Gralha
+Barranco da Granjinha
+Barranco da Herdade
+Barranco da Horta da Fonte
+Barranco da Horta dos Bernardos
+Barranco da Horta Nova
+Barranco da Hortinha
+Barranco da Hortinhola
+Barranco da Joana Badana
+Barranco da Joana Mendes
+Barranco da Junceira
+Barranco da Lapa de Castelhana
+Barranco da Laranjeira
+Barranco da Laranjinha
+Barranco da Lebre
+Barranco da Leda
+Barranco da Loba
+Barranco da Lontra
+Barranco da Madeira
+Barranco da Malhadinha
+Barranco da Maria Galega
+Barranco da Marquesa
+Barranco da Marteira
+Barranco da Medronha
+Barranco da Meia Légua
+Barranco da Milha
+Barranco da Mimosa
+Barranco da Moita
+Barranco da Morgada
+Barranco da Mulher
+Barranco da Munhela
+Barranco da Murteira
+Barranco da Navalha
+Barranco da Nave
+Barranco da Neta
+Barranco da Nora
+Barranco da Novo
+Barranco da Oliveira
+Barranco da Palanqueira
+Barranco da Palma
+Barranco da Palmeirinha
+Barranco da Parreira
+Barranco da Pata de Burro
+Barranco da Pena Furada
+Barranco da Perdigoa
+Barranco da Pereirinha
+Barranco da Perna Azul
+Barranco da Perna de Trás
+Barranco da Picota
+Barranco da Pontinha
+Barranco da Porca
+Barranco da Portela
+Barranco da Portela Alta
+Barranco da Quinta
+Barranco da Quinta do Estácio
+Barranco da Rata
+Barranco da Referta
+Barranco da Relva
+Barranco da Rocha de João Cordeiro
+Barranco da Rochona
+Barranco da Rosilha
+Barranco da Samouqueira
+Barranco da Silva
+Barranco da Soalheira
+Barranco da Sobreira Formosa
+Barranco da Talha
+Barranco da Telhada
+Barranco da Torre
+Barranco da Tramagueira
+Barranco da Trave
+Barranco da Umbelina
+Barranco da Umbria
+Barranco da Vala Grande
+Barranco da Valeira
+Barranco da Vargem
+Barranco da Várzea
+Barranco da Várzea de Água Dome
+Barranco da Várzea do Azedo
+Barranco da Várzea Longa
+Barranco da Velha
+Barranco da Venda
+Barranco da Vila
+Barranco da Vinha Velha
+Barranco da Viúva
+Barranco da Zambujeira
+Barranco das Abertas
+Barranco das Águas Claras
+Barranco das Aguilhadas
+Barranco das Alagoinhas
+Barranco das Alcarias
+Barranco das Almoleiras
+Barranco das Amendoeiras
+Barranco das Balsas
+Barranco das Barbas da Lebre
+Barranco das Cabanas
+Barranco das Cabeças Gordas
+Barranco das Cachopas
+Barranco das Camarinhas
+Barranco das Canas
+Barranco das Cancelas Velhas
+Barranco das Casetas
+Barranco das Chadas
+Barranco das Colmeias
+Barranco das Colmeias do Boi
+Barranco das Covas
+Barranco das Craveiras
+Barranco das Eiras
+Barranco das Eirinhas
+Barranco das Eironas
+Barranco das Estacas
+Barranco das Estalagens Velhas
+Barranco das Esteveiras
+Barranco das Ferrarias
+Barranco das Flores
+Barranco das Hortas
+Barranco das Italhanas
+Barranco das Laranjeiras
+Barranco das Larguras
+Barranco das Lebres
+Barranco das Maricotas
+Barranco das Marinhas
+Barranco das Mós
+Barranco das Mulheres
+Barranco das Murtosas
+Barranco das Nogueiras
+Barranco das Oliveiras
+Barranco das Pardinhas
+Barranco das Parreiras
+Barranco das Partilhas
+Barranco das Romeiras
+Barranco das Silvas
+Barranco das Taliscas
+Barranco das Tripas
+Barranco das Valas
+Barranco das Vendas
+Barranco das Veredas
+Barranco das Vinhas
+Barranco das Zorreiras
+Barranco de Água de Peixe
+Barranco de Aipo
+Barranco de Alcarias
+Barranco de Alcoutenejo
+Barranco de Altafares
+Barranco de Beiçudos
+Barranco de Branco
+Barranco de Cabeça de Aires
+Barranco de Canelejos
+Barranco de Catarina Dias
+Barranco de Cerva
+Barranco de Corte Figueira
+Barranco de Danfélix
+Barranco de Dom Pedro
+Barranco de Dona Maria
+Barranco de Gato
+Barranco de Isca
+Barranco de João Andrea
+Barranco de João Dias
+Barranco de João Lourenço
+Barranco de João Pais
+Barranco de Malfrades
+Barranco de Marmeteiro
+Barranco de Marrocos
+Barranco de Mata Filhos
+Barranco de Mata Porcas
+Barranco de Mata Vacas
+Barranco de Monchique
+Barranco de Montejão
+Barranco de Pales
+Barranco de Parisso
+Barranco de Pascoais
+Barranco de Pederneiros
+Barranco de Porto de Mós
+Barranco de Portos Ruivos
+Barranco de Provenhas
+Barranco de Romba
+Barranco de Santa Eulália
+Barranco de Santo Moura
+Barranco de São Bento
+Barranco de São Marcos
+Barranco de Sarilhos
+Barranco de Tansanos
+Barranco de Telhares
+Barranco de Vale Bispo
+Barranco de Vale Carros
+Barranco de Vale Covo
+Barranco de Vale d'Aralhos
+Barranco de Vale da Casa
+Barranco de Vale de Alcaide
+Barranco de Vale de Burros
+Barranco de Vale de Cabras
+Barranco de Vale de Camelos
+Barranco de Vale de Condes
+Barranco de Vale de Corvos
+Barranco de Vale de Enxares
+Barranco de Vale de Estacas
+Barranco de Vale de Estradas
+Barranco de Vale de Fecho
+Barranco de Vale de Gavião
+Barranco de Vale de Grou
+Barranco de Vale de Lobos
+Barranco de Vale de Mós
+Barranco de Vale de Paredes
+Barranco de Vale de Pereiro
+Barranco de Vale de Romeiros
+Barranco de Vale Fontes
+Barranco de Vale Formiga
+Barranco de Vale Formoso
+Barranco de Vale Francisco
+Barranco de Vale Galego
+Barranco de Vale Navio
+Barranco de Vales Mortos
+Barranco de Valongo
+Barranco de Valverde
+Barranco de Vilares
+Barranco do Abrunheiro
+Barranco do Adail
+Barranco do Álamo
+Barranco do Aldrebe
+Barranco do Algarvio
+Barranco do Amador
+Barranco do Ameixal
+Barranco do Ameixial
+Barranco do Amendoeiro
+Barranco do Araújo
+Barranco do Asno
+Barranco do Atalho
+Barranco do Balurquinho
+Barranco do Barreiro
+Barranco do Beiçudo
+Barranco do Bem Parece
+Barranco do Bicho Aviado
+Barranco do Bicho Veado
+Barranco do Bilharó
+Barranco do Boi
+Barranco do Brejo
+Barranco do Bringelinho
+Barranco do Burdo
+Barranco do Calabaço
+Barranco do Caldeirão
+Barranco do Canafechal
+Barranco do Candeeiro
+Barranco do Capitão
+Barranco do Carrascalinho
+Barranco do Carril
+Barranco do Carvalheiro
+Barranco do Carvalhinho
+Barranco do Carvalhoso
+Barranco do Castanheiro
+Barranco do Castelhano
+Barranco do Castelo de Ladrões
+Barranco do Castelo Velho
+Barranco do Cavalo
+Barranco do Cego
+Barranco do Cerro Alto
+Barranco do Cervo
+Barranco do Chanfalho
+Barranco do Chão Frio
+Barranco do Chaparral
+Barranco do Choraminga
+Barranco do Ciceiro
+Barranco do Cigano
+Barranco do Coito
+Barranco do Corcho
+Barranco do Corgo
+Barranco do Corsino
+Barranco do Cortadoiro
+Barranco do Corte Carrasco
+Barranco do Corte da Azenha
+Barranco do Corte da Velha
+Barranco do Cortiço
+Barranco do Corxo
+Barranco do Cotofo
+Barranco do Couveiro
+Barranco do Cubo
+Barranco do Curral da Pedra
+Barranco do Curral do Telhado
+Barranco do Curro
+Barranco do da Cruz
+Barranco do da Fonte
+Barranco do da Grade
+Barranco do das Lanças
+Barranco do de São Pedro
+Barranco do Deságua
+Barranco do do Gato
+Barranco do do Trigo
+Barranco do Dogueno
+Barranco do Escobeiro
+Barranco do Esteiro
+Barranco do Estraga
+Barranco do Falcate
+Barranco do Fava
+Barranco do Feitoso
+Barranco do Ferragudo
+Barranco do Ferrajoso
+Barranco do Ferrel
+Barranco do Figueira
+Barranco do Fojo
+Barranco do Fregil
+Barranco do Freixinho
+Barranco do Gafanhoto
+Barranco do Garcia
+Barranco do Garrochal
+Barranco do Gil Carniceiro
+Barranco do Gordeiro
+Barranco do Grilo
+Barranco do Grisão
+Barranco do Grou
+Barranco do Homem
+Barranco do João Dias
+Barranco do João Fernandes
+Barranco do Juncalinho
+Barranco do Landeiro
+Barranco do Lantisqueiro
+Barranco do Laranjo
+Barranco do Lareal
+Barranco do Lavadouro
+Barranco do Lavradio
+Barranco do Legeiro
+Barranco do Leocadio
+Barranco do Leva Tempo
+Barranco do Louredo
+Barranco do Lúzio
+Barranco do Malheiro
+Barranco do Marco
+Barranco do Marmelar
+Barranco do Marmeleiro
+Barranco do Meloal
+Barranco do Mingo Rei
+Barranco do Mioto
+Barranco do Moiro
+Barranco do Mombeja
+Barranco do Mongo do Rei
+Barranco do Mosqueiro
+Barranco do Mosteiro
+Barranco do Mourão
+Barranco do Nicolau
+Barranco do Novo dos Besteiros
+Barranco do Olho Negro
+Barranco do Olho Pusanes
+Barranco do Outeiro
+Barranco do Paço Inchado
+Barranco do Palhas
+Barranco do Papa Leite
+Barranco do Paraíso
+Barranco do Paulito
+Barranco do Pé de Boi
+Barranco do Pego Redondo
+Barranco do Pelingroso
+Barranco do Pessegueiro
+Barranco do Pinheiro
+Barranco do Poceirão
+Barranco do Poço Novo
+Barranco do Poço Seco
+Barranco do Poço Velho
+Barranco do Pombal
+Barranco do Pombo
+Barranco do Porco
+Barranco do Porto
+Barranco do Porto Covo
+Barranco do Preito
+Barranco do Premedeiro de Baixo
+Barranco do Premedeiro de Cima
+Barranco do Pulo
+Barranco do Quebra Panelas
+Barranco do Queimado
+Barranco do Raco
+Barranco do Ratinho
+Barranco do Rebentão
+Barranco do Reguengo
+Barranco do Ribeiro
+Barranco do Rochão
+Barranco do Rosado
+Barranco do Rosal
+Barranco do Salgueiro
+Barranco do Salto
+Barranco do Sambro
+Barranco do Seco
+Barranco do Seixal
+Barranco do Serrado
+Barranco do Serrano
+Barranco do Serro Alto
+Barranco do Sobradinho
+Barranco do Sobralinho
+Barranco do Tabelião
+Barranco do Tecedeiro
+Barranco do Tojalão
+Barranco do Torjão
+Barranco do Touril
+Barranco do Trancão
+Barranco do Vagalhão
+Barranco do Vale Bom
+Barranco do Vale Burrinho
+Barranco do Vale da Casca
+Barranco do Vale da Corcha
+Barranco do Vale da Fonte
+Barranco do Vale da Muda
+Barranco do Vale da Pata
+Barranco do Vale da Pipa
+Barranco do Vale da Rata
+Barranco do Vale da Rouça
+Barranco do Vale da Telha
+Barranco do Vale da Ursa
+Barranco do Vale da Vila
+Barranco do Vale das Amoreiras
+Barranco do Vale das Covas
+Barranco do Vale das Fontes
+Barranco do Vale das Pegas
+Barranco do Vale de Água
+Barranco do Vale de Boi
+Barranco do Vale de Carros
+Barranco do Vale de Casas
+Barranco do Vale de Coelheiros
+Barranco do Vale de Lobos
+Barranco do Vale de Loule
+Barranco do Vale de Medronho
+Barranco do Vale de Mértola
+Barranco do Vale de Narizes
+Barranco do Vale do Gato
+Barranco do Vale do Ruivo
+Barranco do Vale dos Homens
+Barranco do Vale Fanado
+Barranco do Vale Feitoso
+Barranco do Vale Figueiras
+Barranco do Vale Formosil
+Barranco do Vale Formosilho
+Barranco do Vale Formoso
+Barranco do Vale Freixo
+Barranco do Vale Joana Bom
+Barranco do Vale Laranjo
+Barranco do Vale Marreiros
+Barranco do Vale Melhorado
+Barranco do Vale Pereiro
+Barranco do Vale Ruivo
+Barranco do Vale Santo
+Barranco do Valgão
+Barranco do Vau
+Barranco do Vidigal
+Barranco do Vilar
+Barranco do Ximeno
+Barranco do Zambujeiro
+Barranco dos Aivados
+Barranco dos Alcaides
+Barranco dos Assentis
+Barranco dos Azeites
+Barranco dos Bacelos
+Barranco dos Barrinhos
+Barranco dos Besteiros
+Barranco dos Bispos
+Barranco dos Brejões
+Barranco dos Brocos
+Barranco dos Cabanos
+Barranco dos Cabeletes
+Barranco dos Cachopos
+Barranco dos Caldeirões
+Barranco dos Canhestros
+Barranco dos Casarões
+Barranco dos Cavalos
+Barranco dos Constancanos
+Barranco dos Currais
+Barranco dos Fanasais
+Barranco dos Ferros
+Barranco dos Fojos
+Barranco dos Funchais
+Barranco dos Grãos
+Barranco dos Guichos
+Barranco dos Joios
+Barranco dos Ladrões
+Barranco dos Legumes
+Barranco dos Magros
+Barranco dos Malhadis
+Barranco dos Marmeleiros
+Barranco dos Martuçais
+Barranco dos Moinhos
+Barranco dos Montes Grandes
+Barranco dos Montinhos
+Barranco dos Mouchões
+Barranco dos Negros
+Barranco dos Olhos Negros
+Barranco dos Pães e Águas
+Barranco dos Palheirinhos
+Barranco dos Paus
+Barranco dos Pegões
+Barranco dos Peninhos
+Barranco dos Pesos
+Barranco dos Pinheiros
+Barranco dos Pipeiros
+Barranco dos Queimados
+Barranco dos Romanos
+Barranco dos Sapateiros
+Barranco dos Sopos
+Barranco dos Sopros
+Barranco dos Torneiros
+Barranco dos Toucinhos
+Barranco dos Vales
+Barranco dos Zefetos
+Barranco dos Zorrinhos
+Barranco Ferrador
+Barranco Ferrão Coitado
+Barranco Largo
+Barranco Maria Joanes
+Barranco Moqueira
+Barranco Negro
+Barranco Vale Bom
+Barranco Vale de Água
+Barranco Vascaneijo
+Barranco Velho
+Barranquinho
+Barroca da Raposa
+Barroca da Vinha
+Barroca do Jardim
+Barroca do Parra
+Barroca do Salgueirinho
+Bessa
+Bestança
+Boco
+Bouça Nova
+Brejo da Carregueira
+Brejo da Vaca
+Brejo do Cagarrão
+Brejo do Valagão
+Brejo dos Carapetos
+Brenhas
+Bugio
+Cabanas
+Cabreiro
+Caima
+Calabor
+Caldo
+Calvo
+Campo de Besteiros
+Canada Amaro
+Canada da Boa Vista
+Canada da Cadaveira
+Canada da Edra
+Canada da Pipa
+Canada das Nogueiras
+Canada do Prado
+Canada do Vale das Louzas
+Canada dos Vardeirões
+Canada Ferradosa
+Canada Pinto
+Caneiro
+Canelas
+Carvalhosa
+Casarão
+Castelo
+Castelões
+Cávado
+Cavalos
+Centeio
+Cértima
+Côa
+Cobral
+Codecede
+Coelheira
+Coina
+Corga da conda
+Corga da Galinha
+Corga da Ganda
+Corga da Tulha
+Corga das Bainhas
+Corga das Favas
+Corga de Caniçó
+Corga de Porto d'Águas
+Corga do Azevedo
+Corga do Carneiro
+Corga do Gafo
+Corga do Malho
+Corga do Vale das Antas
+Corga dos Piornais
+Corgo Cadouce
+Corgo da Abelheira
+Corgo da Água de Alta
+Corgo da Alagoa
+Corgo da Alcaria
+Corgo da Bustirágua
+Corgo da Carapinha
+Corgo da Casa Velha
+Corgo da Casinha
+Corgo da Feteira
+Corgo da Fonte Férrea
+Corgo da Fornalha
+Corgo da Guarita
+Corgo da Horta das Laranjeiras
+Corgo da Mata
+Corgo da Mina
+Corgo da Palmeira
+Corgo da Pedreira
+Corgo da Picota
+Corgo da Ponte Quebrada
+Corgo da Requeichada
+Corgo da Samouqueira
+Corgo da Varejeira
+Corgo da Veiga
+Corgo da Zambujeira
+Corgo das Arcas
+Corgo das Cabanas
+Corgo das Casas Velhas
+Corgo das Eiras Velhas
+Corgo das Paredinhas
+Corgo das Selas
+Corgo das Zorreiras
+Corgo de Benavide
+Corgo de Repalos
+Corgo de São Domingos
+Corgo de Vale Covo
+Corgo de Vale de Olheiro
+Corgo de Vale de Porcas
+Corgo de Vale Meares
+Corgo de Vale Pevinos
+Corgo do Algareme
+Corgo do Cafundão
+Corgo do Caldeirão
+Corgo do Cão
+Corgo do Creado
+Corgo do Espregal
+Corgo do Geraldo Pais
+Corgo do Gil Barbeiro
+Corgo do Gondra
+Corgo do Marmeleiro
+Corgo do Mestre
+Corgo do Montinho
+Corgo do Olheiro
+Corgo do Parral
+Corgo do Penedo
+Corgo do Pereiro
+Corgo do Pero Galego
+Corgo do Pessegueiro
+Corgo do Pito
+Corgo do Porto da Mó
+Corgo do Rosalgar
+Corgo do Tomenteiro
+Corgo do Vale da Lebre
+Corgo do Vale da Palha
+Corgo do Vale de Alcondim
+Corgo do Vale do Rato
+Corgo do Vale Longo
+Corgo do Vale Podre
+Corgo do Vidoeiro
+Corgo dos Aivados
+Corgo dos Besteiros
+Corgo dos Carvalheiros
+Corgo dos Godins
+Corgo dos Matos
+Corgo dos Medouros
+Corgo dos Nascedios
+Corgo dos Segurados
+Corgo Fundo
+Corgo Guerrilha
+Córrego das Pias
+Córrego Paul
+Costa
+Couço
+Coura
+Covas
+Cris
+Curros
+Dalmeu
+Dão
+Dejebe
+Dinha
+Diz
+Douro
+Dueça
+Ega
+Eiras
+Eiriz
+Espírito Santo
+Este
+Esteiro
+Esteiro da Carrasgueira
+Esteiro da Judia
+Esteiro da Lezíria
+Estorãos
+Fafião
+Febros
+Ferreira
+Ferro
+Fervença
+Foja
+Fonte
+Fontela
+Fornelo
+Foz do Guincho
+Frades
+Fresno
+Froufe
+Furadouro
+Gadanha
+Gerez
+Germil
+Gilão
+Gonde
+grota da Canada do Sousa
+Grota da Extrema
+Grota da Lombada
+Grota da Relvinha
+Grota da Ribeirinha
+Grota da Ventosa
+Grota das Pedras Brancas
+Grota do Meio
+Grota Grande
+Guadiana
+Homem
+Igreja Velha
+Igrejas
+Inha
+Ínsua
+Jamor
+Juncal
+Labriosca
+Lama
+Lameira
+Leça
+Lena
+Levada da Fábrica
+Levira
+Liz
+Louredo
+Loures
+Ludares
+Macedo
+Maceira
+Maior
+Manco
+Manzanas
+Marão
+Massueime
+Mata
+Meio
+Mel
+Mente
+Mestre
+Mezio
+Mílharas
+Mira
+Miravaio
+Moaz
+Mondego
+Mouros
+Mousse
+Mula
+Nabão
+Neiva
+Noémi
+Ocreza
+Odres
+Olo
+Onor
+Ouro
+Outeiro
+Ovelha
+Ovil
+Paiva
+Paivô
+Panascoso
+Peio
+Pele
+Pelhe
+Peneda
+Penegra
+Pinhão
+Poio
+Pomba
+Ponsul
+Porto
+Portuzelo
+Quebrada
+Quintã
+Rabaçal
+Rabagão
+Rabeja
+Raimunda
+Ramiscal
+Real
+Rega das Preces
+Regato da Coitada
+Regato da Gralheira
+Regato da Moura
+Regato das Corgas
+Regato de los Melonares
+Regato de Nespereira
+Regato do Boi Morto
+Regato do Campo
+Regato do Junquedo
+Regato do Linguez
+Regato do Menino
+Regato do Outeiral
+Regato do Vale Vassouro
+Regato do Vilar
+Regato dos Medos
+Regato Sangayan
+Rego do Estrumal
+Regueira da Espinheira
+Regueira da Gaivota
+Regueira da Samouca
+Regueira das Várzeas
+Regueira do Barcide
+Regueira dos Pelames
+Regueirão do Garceiro
+Regueiro das Laçeiras
+Regueiro de Anobra
+Regueiro de Sá
+Ribeira Alcolobra
+Ribeira Barbas de Lebre
+Ribeira Bogas de Cima
+Ribeira Brava
+Ribeira Cerdeira
+Ribeira Chã
+Ribeira Cimeira
+Ribeira Condeixa
+Ribeira d'Água
+Ribeira da Aboboreira
+Ribeira da Abrancalha
+Ribeira da Açoreira
+Ribeira da Afogada
+Ribeira da Agolada
+Ribeira da Água Azeda
+Ribeira da Água Branca
+Ribeira da Água de Banhos
+Ribeira da Água Doce
+Ribeira da Água Forte
+Ribeira da Água Negra
+Ribeira da Agudinha
+Ribeira da Aguentinha
+Ribeira da Ajuda
+Ribeira da Alagada
+Ribeira da Alforfa
+Ribeira da Alfundega
+Ribeira da Alga
+Ribeira da Ameirinha
+Ribeira da Ameixeira
+Ribeira da Ameixoeira
+Ribeira da Amendoeira
+Ribeira da Ametade
+Ribeira da Apeona
+Ribeira da Apostiça
+Ribeira da Areia
+Ribeira da Arrancada
+Ribeira da Arrochada
+Ribeira da Artilhosa
+Ribeira da Asgra
+Ribeira da Azambuja
+Ribeira da Azilheira
+Ribeira da Badoca
+Ribeira da Balsa
+Ribeira da Balsinha
+Ribeira da Bandugem
+Ribeira da Barranha
+Ribeira da Barroqueira
+Ribeira da Beata
+Ribeira da Bemposta
+Ribeira da Bezelga
+Ribeira da Bezerra
+Ribeira da Boaventura
+Ribeira da Boca
+Ribeira da Bogueira
+Ribeira da Boidobra
+Ribeira da Borda do Mistério
+Ribeira da Bordeira
+Ribeira da Bouçã
+Ribeira da Brava
+Ribeira da Brunheta
+Ribeira da Burga
+Ribeira da Cabida
+Ribeira da Cabranosa
+Ribeira da Cabrita
+Ribeira da Cabroeira
+Ribeira da Cachada
+Ribeira da Cafua
+Ribeira da Caixa
+Ribeira da Calanua
+Ribeira da Calçada
+Ribeira da Caleira
+Ribeira da Calha do Grou
+Ribeira da Calvária
+Ribeira da Camba
+Ribeira da Campainha
+Ribeira da Camuja
+Ribeira da Canada da Praia
+Ribeira da Canada das Faias
+Ribeira da Canção
+Ribeira da Cancela
+Ribeira da Candieira
+Ribeira da Caneira
+Ribeira da Caneja
+Ribeira da Canharda
+Ribeira da Caniça
+Ribeira da Capelinha
+Ribeira da Carasona
+Ribeira da Caravela
+Ribeira da Cardeira
+Ribeira da Caridade
+Ribeira da Carpinteira
+Ribeira da Carrapateira
+Ribeira da Carrasqueira
+Ribeira da Carregueirinha
+Ribeira da Carriça
+Ribeira da Carva
+Ribeira da Cascalheira
+Ribeira da Cegadonha
+Ribeira da Cenrada
+Ribeira da Cerca
+Ribeira da Chada
+Ribeira da Chaminé
+Ribeira da Chapa
+Ribeira da Charneca
+Ribeira da Choupica
+Ribeira da Codeceira
+Ribeira da Coinha
+Ribeira da Colada
+Ribeira da Corona
+Ribeira da Corte do Bispo
+Ribeira da Corte Lobata
+Ribeira da Corte Pequena
+Ribeira da Costureira
+Ribeira da Couraça
+Ribeira da Courela
+Ribeira da Cova da Lebre
+Ribeira da Cova Grande
+Ribeira da Crancha
+Ribeira da Crujeira
+Ribeira da da Borges
+Ribeira da das Éguas
+Ribeira da de Água
+Ribeira da de Dentro
+Ribeira da Despada
+Ribeira da Eirinha
+Ribeira da Enfermaria
+Ribeira da Enxabarda
+Ribeira da Enxara
+Ribeira da Ervedosa
+Ribeira da Escada
+Ribeira da Escaleira
+Ribeira da Estação
+Ribeira da Estrela
+Ribeira da Faia
+Ribeira da Faisca
+Ribeira da Faisoa
+Ribeira da Faleira
+Ribeira da Falgueirosa
+Ribeira da Fargela
+Ribeira da Farmila
+Ribeira da Feijoeira
+Ribeira da Ferradosa
+Ribeira da Fervença
+Ribeira da Fonte
+Ribeira da Fonte Boa
+Ribeira da Fonte do Almeida
+Ribeira da Fonte do Perdigão
+Ribeira da Fonte do Rego
+Ribeira da Fonte dos Narizes
+Ribeira da Fonte Menaval
+Ribeira da Fonte Nova
+Ribeira da Fonte Pipa
+Ribeira da Fonte Salgada
+Ribeira da Fonte Santa
+Ribeira da Fonte Vicente
+Ribeira da Foupana
+Ribeira da Foupanilha
+Ribeira da Foz
+Ribeira da Foz do Lavadouro
+Ribeira da Freicheira
+Ribeira da Freixa
+Ribeira da Freixada
+Ribeira da Freixeda
+Ribeira da Froia
+Ribeira da Furna
+Ribeira da Gafa
+Ribeira da Galega
+Ribeira da Gata
+Ribeira da Gema
+Ribeira da Giralda
+Ribeira da Gonçala
+Ribeira da Goteira
+Ribeira da Herdade
+Ribeira da Horta da Nora
+Ribeira da Infesta
+Ribeira da Isna
+Ribeira da Janela
+Ribeira da Jarda
+Ribeira da Lã
+Ribeira da Laça
+Ribeira da Lagariça
+Ribeira da Lamarosa
+Ribeira da Lameira
+Ribeira da Lameira Nova
+Ribeira da Landeira
+Ribeira da Lardosa
+Ribeira da Lavandeira
+Ribeira da Leonor
+Ribeira da Levada
+Ribeira da Levandeira
+Ribeira da Lichosa
+Ribeira da Líria
+Ribeira da Lombega
+Ribeira da Lousã
+Ribeira da Luz
+Ribeira da Maceira
+Ribeira da Machada
+Ribeira da Macheia
+Ribeira da Machuqueira
+Ribeira da Macieira
+Ribeira da Madalena do Mar
+Ribeira da Mãe d'Água
+Ribeira da Magueija
+Ribeira da Maia
+Ribeira da Malhada da Velha
+Ribeira da Marcela
+Ribeira da Mareta
+Ribeira da Maria Delgada
+Ribeira da Mata
+Ribeira da Medrasda
+Ribeira da Meimoa
+Ribeira da Messejana
+Ribeira da Mina
+Ribeira da Mina de Aparis
+Ribeira da Mó
+Ribeira da Morgada
+Ribeira da Moura
+Ribeira da Murteira
+Ribeira da Nascente
+Ribeira da Nave
+Ribeira da Nave da Azinha
+Ribeira da Nave de Vides
+Ribeira da Ola
+Ribeira da Olga
+Ribeira da Pachola
+Ribeira da Paiã
+Ribeira da Paiteira
+Ribeira da Palheta
+Ribeira da Pampilhosa
+Ribeira da Pardiela
+Ribeira da Parreira
+Ribeira da Parrocha
+Ribeira da Pasada
+Ribeira da Pateira
+Ribeira da Pecena
+Ribeira da Peceninha
+Ribeira da Pedreira
+Ribeira da Pereira
+Ribeira da Perna da Negra
+Ribeira da Perna Seca
+Ribeira da Pernaseca
+Ribeira da Perraria
+Ribeira da Pesqueira
+Ribeira da Piçarra
+Ribeira da Pomba
+Ribeira da Ponte da Corva
+Ribeira da Ponte da Pedra
+Ribeira da Ponte de Pau
+Ribeira da Ponte Pequena
+Ribeira da Ponte Velha
+Ribeira da Portalagem
+Ribeira da Pouca Farinha
+Ribeira da Pousada
+Ribeira da Pracana
+Ribeira da Praia
+Ribeira da Prainha
+Ribeira da Prata
+Ribeira da Preza
+Ribeira da Prezada
+Ribeira da Quarteira
+Ribeira da Quinta
+Ribeira da Raia
+Ribeira da Raposeira
+Ribeira da Reforminha
+Ribeira da Rega
+Ribeira da Regada
+Ribeira da Reguenga
+Ribeira da Ribalonga
+Ribeira da Ribeirinha
+Ribeira da Rocha Fria
+Ribeira da Roda
+Ribeira da Roupeira
+Ribeira da Sabacheira
+Ribeira da Sachola
+Ribeira da Salgueira
+Ribeira da Sandoeira
+Ribeira da Sanguinheira
+Ribeira da Santa
+Ribeira da Santa da Piedade
+Ribeira da Sarzedinha
+Ribeira da Saúde
+Ribeira da Senhora da Graça
+Ribeira da Senhora do Fastio
+Ribeira da Senhora do Verde
+Ribeira da Sertã
+Ribeira da Seta
+Ribeira da Silvã
+Ribeira da Silva Escura
+Ribeira da Silveirinha
+Ribeira da Sobrosa
+Ribeira da Tábua
+Ribeira da Tabueira
+Ribeira da Talica
+Ribeira da Tamanqueira
+Ribeira da Tamolha
+Ribeira da Teixeira
+Ribeira da Travanquinha
+Ribeira da Trugela
+Ribeira da Ursa
+Ribeira da Vaca
+Ribeira da Vacariça
+Ribeira da Vaga
+Ribeira da Vagarosa
+Ribeira da Vale de Gomes
+Ribeira da Varziela
+Ribeira da Veiga
+Ribeira da Veiga da Mira
+Ribeira da Vergada
+Ribeira da Veste
+Ribeira da Vida
+Ribeira da Vide
+Ribeira da Vilalva
+Ribeira da Viscossa
+Ribeira da Zambujeira
+Ribeira da Zambujosa
+Ribeira da Zangarilha
+Ribeira das
+Ribeira das Abelaneiras
+Ribeira das Águas
+Ribeira das Águas Alves
+Ribeira das Águas Muitas
+Ribeira das Águas Novas
+Ribeira das Águas Vivas
+Ribeira das Aguieiras
+Ribeira das Alcobertas
+Ribeira das Alfambras
+Ribeira das Andorinhas
+Ribeira das Arcas
+Ribeira das Arredouças
+Ribeira das Atafonas
+Ribeira das Barrosas
+Ribeira das Bicas
+Ribeira das Boas Eiras
+Ribeira das Bogas
+Ribeira das Cales
+Ribeira das Canadas
+Ribeira das Canas
+Ribeira das Catorze
+Ribeira das Chãs de Égua
+Ribeira das Cinco
+Ribeira das Cortes
+Ribeira das Cortes Pereiras
+Ribeira das Dez
+Ribeira das Doze
+Ribeira das Éguas
+Ribeira das Eirozes
+Ribeira das Enguias
+Ribeira das Eradas
+Ribeira das Ferrarias
+Ribeira das Fontes Santas
+Ribeira das Forcadas
+Ribeira das Fragas
+Ribeira das Fráguas
+Ribeira das Galinhas
+Ribeira das Gramelas
+Ribeira das Gravotas
+Ribeira das Holas
+Ribeira das Inguias
+Ribeira das Ínsuas
+Ribeira das Juntas
+Ribeira das Lajes
+Ribeira das Lexívias
+Ribeira das Longas
+Ribeira das Merçês
+Ribeira das Mestras
+Ribeira das Mulheres
+Ribeira das Murteiras
+Ribeira das Nove
+Ribeira das Oito
+Ribeira das Onze
+Ribeira das Ovelhas
+Ribeira das Patas
+Ribeira das Pedras
+Ribeira das Pereirinhas
+Ribeira das Pimentas
+Ribeira das Poldras
+Ribeira das Quebradas
+Ribeira das Rascas
+Ribeira das Regadas
+Ribeira das Romanas
+Ribeira das Ruivas
+Ribeira das Seis
+Ribeira das Sentieiras
+Ribeira das Tábuas
+Ribeira das Tainhas
+Ribeira das Tapadas
+Ribeira das Toirinhas
+Ribeira das Travessas
+Ribeira das Três Voltas
+Ribeira das Trutas
+Ribeira de Abóbada
+Ribeira de Adela
+Ribeira de Água do Alto
+Ribeira de Aguaiva
+Ribeira de Aguiar
+Ribeira de Aiana
+Ribeira de Álamo
+Ribeira de Albarqueira
+Ribeira de Alcabrichel
+Ribeira de Alcáçovas
+Ribeira de Alcantarilha
+Ribeira de Alcarrache
+Ribeira de Alcôrrego
+Ribeira de Alcravissa
+Ribeira de Além
+Ribeira de Alenquer
+Ribeira de Alfaiates
+Ribeira de Alfamar
+Ribeira de Alfardagão
+Ribeira de Alfeijós
+Ribeira de Alfeirões
+Ribeira de Alfeizerão
+Ribeira de Alferrarede
+Ribeira de Alfevre
+Ribeira de Alfrivida
+Ribeira de Alfundão
+Ribeira de Alge
+Ribeira de Algés
+Ribeira de Algibre
+Ribeira de Algoz
+Ribeira de Alimonde
+Ribeira de Aljezur
+Ribeira de Almaceda
+Ribeira de Almadafe
+Ribeira de Almadena
+Ribeira de Almeida
+Ribeira de Almofala
+Ribeira de Alportel
+Ribeira de Alpriade
+Ribeira de Alte
+Ribeira de Alvacar
+Ribeira de Alvacarejo
+Ribeira de Alvaro Afonso
+Ribeira de Alvoeira
+Ribeira de Amioso
+Ribeira de Amor
+Ribeira de Ançã
+Ribeira de Andreu
+Ribeira de Anha
+Ribeira de Antanhol
+Ribeira de Arade
+Ribeira de Arades
+Ribeira de Arão
+Ribeira de Arca
+Ribeira de Arcês
+Ribeira de Arcos
+Ribeira de Arcosso
+Ribeira de Ardila
+Ribeira de Argalé
+Ribeira de Argea
+Ribeira de Arnela
+Ribeira de Arroio
+Ribeira de Arronches
+Ribeira de Asnes
+Ribeira de Aveleda
+Ribeira de Aviz
+Ribeira de Azevel
+Ribeira de Azibeiro
+Ribeira de Baçal
+Ribeira de Baixo
+Ribeira de Balocas
+Ribeira de Baltar
+Ribeira de Banha
+Ribeira de Barcarena
+Ribeira de Barge
+Ribeira de Bazaguedinha
+Ribeira de Bela Mandil
+Ribeira de Beliche
+Ribeira de Belver
+Ribeira de Benaçoitão
+Ribeira de Bencafete
+Ribeira de Bensafrim
+Ribeira de Besteiros
+Ribeira de Biogal
+Ribeira de Boina
+Ribeira de Bonamar
+Ribeira de Borba
+Ribeira de Bostelo
+Ribeira de Bouceguedim
+Ribeira de Brazela
+Ribeira de Bruçó
+Ribeira de Bruscos
+Ribeira de Budens
+Ribeira de Busteliberne
+Ribeira de Bustelo
+Ribeira de Cacela
+Ribeira de Cachoeira
+Ribeira de Cadavais
+Ribeira de Cagavai
+Ribeira de Caldelas
+Ribeira de Campilhas
+Ribeira de Campos
+Ribeira de Canafechal
+Ribeira de Canas
+Ribeira de Canha
+Ribeira de Canhestres
+Ribeira de Caniços
+Ribeira de Cantelães
+Ribeira de Cão de Grelo
+Ribeira de Carcava
+Ribeira de Caria
+Ribeira de Carnide
+Ribeira de Caroucha
+Ribeira de Carrazedo
+Ribeira de Carreiros
+Ribeira de Carriços
+Ribeira de Carvalhais
+Ribeira de Carvalhal Sapa
+Ribeira de Carvalho
+Ribeira de Casal Mendo
+Ribeira de Casegas
+Ribeira de Caster
+Ribeira de Cavalinha
+Ribeira de Caxarias
+Ribeira de Ceiça
+Ribeira de Ceife
+Ribeira de Ceissa
+Ribeira de Celavisa
+Ribeira de Chã de Vales
+Ribeira de Chão de Maçãs
+Ribeira de Chaqueu
+Ribeira de Chavãis
+Ribeira de Coalhos
+Ribeira de Cobres
+Ribeira de Codis
+Ribeira de Cogulo
+Ribeira de Colares
+Ribeira de Coleja
+Ribeira de Conqueiro
+Ribeira de Corrição
+Ribeira de Corte Brique
+Ribeira de Corte Mourão
+Ribeira de Cortegaça
+Ribeira de Corva
+Ribeira de Coura
+Ribeira de Covas
+Ribeira de Covelinhas
+Ribeira de Crasto
+Ribeira de Cré
+Ribeira de Creado
+Ribeira de Creus
+Ribeira de Cró
+Ribeira de Cujancas
+Ribeira de Cuncos
+Ribeira de Curvatos
+Ribeira de de Moinhos
+Ribeira de Deimãos
+Ribeira de Dentro
+Ribeira de Divor
+Ribeira de Duas Igrejas
+Ribeira de Ega
+Ribeira de Eiras
+Ribeira de Ereixiosa
+Ribeira de Erra
+Ribeira de Escarias
+Ribeira de Esgueira
+Ribeira de Espiche
+Ribeira de Espisio
+Ribeira de Famalicão
+Ribeira de Febros
+Ribeira de Ferradosa
+Ribeira de Ferrarias
+Ribeira de Fervença
+Ribeira de Fervenças
+Ribeira de Figueiró
+Ribeira de Fivenro
+Ribeira de Flamengos
+Ribeira de Folques
+Ribeira de Fornelos
+Ribeira de Fouvel
+Ribeira de Frades
+Ribeira de Francisco Vieira
+Ribeira de Franco
+Ribeira de Freixo
+Ribeira de Fretos
+Ribeira de Fronteira
+Ribeira de Gaiteiros
+Ribeira de Gaivão
+Ribeira de Galinhas
+Ribeira de Gebelim
+Ribeira de Girabolhos
+Ribeira de Godelim
+Ribeira de Gouveia
+Ribeira de Grândola
+Ribeira de Guimarães
+Ribeira de Janas
+Ribeira de Joana Pires
+Ribeira de João de Herodes
+Ribeira de João Delgado
+Ribeira de Jordana
+Ribeira de Jorjais
+Ribeira de Labiados
+Ribeira de Lagares
+Ribeira de Laje
+Ribeira de Lamas
+Ribeira de Lamas de Miro
+Ribeira de Lamazedo
+Ribeira de Lavre
+Ribeira de Leandro
+Ribeira de Leigido
+Ribeira de Lentilhares
+Ribeira de Leomil
+Ribeira de Lila
+Ribeira de Limas
+Ribeira de Linhais
+Ribeira de Locriz
+Ribeira de Loivos
+Ribeira de Longo Mel
+Ribeira de Loriga
+Ribeira de Lorvão
+Ribeira de Ludares
+Ribeira de Lupe
+Ribeira de Mac Abraão
+Ribeira de Maçainha
+Ribeira de Maceira
+Ribeira de Machede
+Ribeira de Machico
+Ribeira de Maçoso
+Ribeira de Maior
+Ribeira de Malade
+Ribeira de Malpique
+Ribeira de Maltim
+Ribeira de Mangas
+Ribeira de Manguens
+Ribeira de Manhuncelos
+Ribeira de Manuel Vieira
+Ribeira de Marateca
+Ribeira de Marchil
+Ribeira de Margem
+Ribeira de Mariares
+Ribeira de Marim
+Ribeira de Marinho
+Ribeira de Marmelar
+Ribeira de Marvão
+Ribeira de Massueime
+Ribeira de Mega
+Ribeira de Meiedo
+Ribeira de Meireles
+Ribeira de Melo
+Ribeira de Milhais
+Ribeira de Moinhos
+Ribeira de Moldes
+Ribeira de Monchique
+Ribeira de Monsanto
+Ribeira de Mora
+Ribeira de Morgavel
+Ribeira de Mortágua
+Ribeira de Mós
+Ribeira de Mosqueiros
+Ribeira de Moure
+Ribeira de Muchalforro
+Ribeira de Mucifal
+Ribeira de Muge
+Ribeira de Murça
+Ribeira de Murtega
+Ribeira de Murtigão
+Ribeira de Muzes
+Ribeira de Nafarros
+Ribeira de Niza
+Ribeira de Noura
+Ribeira de Odearça
+Ribeira de Odeleite
+Ribeira de Odelouca
+Ribeira de Odiáxere
+Ribeira de Odivelas
+Ribeira de Oeiras
+Ribeira de Olmedo
+Ribeira de Orelhão
+Ribeira de Organa
+Ribeira de Oriola
+Ribeira de Ornal
+Ribeira de Oura
+Ribeira de Ourique
+Ribeira de Pai Anes
+Ribeira de Pais Joanes
+Ribeira de Pala
+Ribeira de Palhavã
+Ribeira de Palma
+Ribeira de Panoias
+Ribeira de Paraduça
+Ribeira de Pardais
+Ribeira de Pateiras
+Ribeira de Pedrulhos
+Ribeira de Pegões
+Ribeira de Peitimão
+Ribeira de Penacal
+Ribeira de Pêra
+Ribeira de Pina
+Ribeira de Pinçais
+Ribeira de Poiares
+Ribeira de Pomares
+Ribeira de Poriço
+Ribeira de Porsim
+Ribeira de Porto Espada
+Ribeira de Portuzelo
+Ribeira de Praçais
+Ribeira de Provências
+Ribeira de Provincios
+Ribeira de Pussos
+Ribeira de Quinta Grande
+Ribeira de Quintos
+Ribeira de Ramalha
+Ribeira de Real
+Ribeira de Refroias
+Ribeira de Regouço
+Ribeira de Reguengo
+Ribeira de Remourinho
+Ribeira de Reveles
+Ribeira de Ribalonga
+Ribeira de Ribelas
+Ribeira de Ridevides
+Ribeira de Rochas de Cima
+Ribeira de Rochel
+Ribeira de Róios
+Ribeira de Ronca
+Ribeira de Sá
+Ribeira de Sabouga
+Ribeira de Sáfara
+Ribeira de Safareja
+Ribeira de Safira
+Ribeira de Salir
+Ribeira de Salselas
+Ribeira de Samil
+Ribeira de Samouqueiro
+Ribeira de Sampaio
+Ribeira de Sant'Ana
+Ribeira de Santa Ana
+Ribeira de Santa Comba
+Ribeira de Santa Comba de Rossas
+Ribeira de Santa Cruz
+Ribeira de Santa Justa
+Ribeira de Santa Luzia
+Ribeira de Santa Margarida
+Ribeira de Santa Marinha
+Ribeira de Santa Natália
+Ribeira de Santa Valha
+Ribeira de Santa Vitória
+Ribeira de Santo Aleixo
+Ribeira de Santo Amaro
+Ribeira de Santo António
+Ribeira de Santo Estêvão
+Ribeira de Santos Joões
+Ribeira de São Brissos
+Ribeira de São Cibrão
+Ribeira de São Francisco
+Ribeira de São Gonçalo
+Ribeira de Sao Joao
+Ribeira de São Jorge
+Ribeira de São Mamede
+Ribeira de São Pedro de Pomares
+Ribeira de São Sebastião
+Ribeira de São Tiago
+Ribeira de Sapeira
+Ribeira de Saramago
+Ribeira de Seda
+Ribeira de Seixe
+Ribeira de Selmes
+Ribeira de Selões
+Ribeira de Sepelheira
+Ribeira de Serrazola
+Ribeira de Sete
+Ribeira de Silos
+Ribeira de Silvalde
+Ribeira de Silveirinhos
+Ribeira de Sobradelo
+Ribeira de Sor
+Ribeira de Souzel
+Ribeira de Sucçães
+Ribeira de Tábua
+Ribeira de Tacões
+Ribeira de Tancos
+Ribeira de Tarouca
+Ribeira de Taveiro
+Ribeira de Teixeira
+Ribeira de Teixeiró
+Ribeira de Teja
+Ribeira de Telhares
+Ribeira de Telhe
+Ribeira de Tera
+Ribeira de Terges
+Ribeira de Torgal
+Ribeira de Torjais
+Ribeira de Torquines
+Ribeira de Toutalga
+Ribeira de Trancoso
+Ribeira de Trigais
+Ribeira de Uceira
+Ribeira de Unhais
+Ribeira de Valcovo
+Ribeira de Vale Barão
+Ribeira de Vale Bom
+Ribeira de Vale da Cerca
+Ribeira de Vale das Hastes
+Ribeira de Vale das Mós
+Ribeira de Vale de Crasto
+Ribeira de Vale de Ferreiros
+Ribeira de Vale de Figueira
+Ribeira de Vale de Ladrões
+Ribeira de Vale de Lobo
+Ribeira de Vale de Vasco
+Ribeira de Vale do Castelo
+Ribeira de Vale do Pereiro
+Ribeira de Vale Figueira
+Ribeira de Vale Morto
+Ribeira de Vale Mourato
+Ribeira de Vale Mouro
+Ribeira de Vale Palheiros
+Ribeira de Vale Pocilgão
+Ribeira de Vale Raposo
+Ribeira de Vale Touris
+Ribeira de Vales
+Ribeira de Valmar
+Ribeira de Valongo
+Ribeira de Valpereiro
+Ribeira de Vascão
+Ribeira de Vasconcilhos
+Ribeira de Veados
+Ribeira de Veigas
+Ribeira de Vides
+Ribeira de Viduedo
+Ribeira de Vila Boa
+Ribeira de Vila Cova
+Ribeira de Vila Verde
+Ribeira de Vilar
+Ribeira de Vilar Chão
+Ribeira de Vilela
+Ribeira de Vinhas
+Ribeira de Viveiros
+Ribeira de Ximassas
+Ribeira de Zebro
+Ribeira do Açafal
+Ribeira do Adernal
+Ribeira do Aguar
+Ribeira do Aguilhão
+Ribeira do Albardão
+Ribeira do Alberginho
+Ribeira do Alcaide
+Ribeira do Alcube
+Ribeira do Almagre
+Ribeira do Almargem
+Ribeira do Almarjão
+Ribeira do Almo
+Ribeira do Almuro
+Ribeira do Alvito
+Ribeira do Alvoco
+Ribeira do Alvorão
+Ribeira do Amedo
+Ribeira do Aravil
+Ribeira do Arieiro
+Ribeira do Arneiro
+Ribeira do Arquinho
+Ribeira do Arrepia
+Ribeira do Arrife
+Ribeira do Assumar
+Ribeira do Avelar
+Ribeira do Azelhal
+Ribeira do Azevelinho
+Ribeira do Bairrol
+Ribeira do Balancho
+Ribeira do Barrancão
+Ribeira do Barranco da Corte
+Ribeira do Barranco do Diabo
+Ribeira do Barranco do Vau
+Ribeira do Barranquinho
+Ribeira do Belo
+Ribeira do Belo Jardim
+Ribeira do Bemparece
+Ribeira do Benol
+Ribeira do Boqueirão
+Ribeira do Borges
+Ribeira do Borralheiro
+Ribeira do Bostelim
+Ribeira do Brejo de Água
+Ribeira do Bringelo
+Ribeira do Bufo
+Ribeira do Cabido
+Ribeira do Cabo
+Ribeira do Caio
+Ribeira do Calacu
+Ribeira do Calastrão
+Ribeira do Calhau
+Ribeira do Calvão
+Ribeira do Cameijo
+Ribeira do Campanário
+Ribeira do Canal
+Ribeira do Candedo
+Ribeira do Canedo
+Ribeira do Caniço
+Ribeira do Cantinho
+Ribeira do Cardal
+Ribeira do Cardoso
+Ribeira do Cargual
+Ribeira do Carneiro
+Ribeira do Carrascal
+Ribeira do Carril
+Ribeira do Carvalheiro
+Ribeira do Carvalhoiço
+Ribeira do Carvoeiro
+Ribeira do Casal
+Ribeira do Casalão
+Ribeira do Casalinho
+Ribeira do Casteleiro
+Ribeira do Castinçal
+Ribeira do Cavalo
+Ribeira do Cedro
+Ribeira do Cerejal
+Ribeira do Cerrado
+Ribeira do Ceto
+Ribeira do Chaparral
+Ribeira do Chilrão
+Ribeira do Chocanal
+Ribeira do Chouto
+Ribeira do Ciborro
+Ribeira do Coelho
+Ribeira do Concinho
+Ribeira do Convento
+Ribeira do Corcino
+Ribeira do Corges
+Ribeira do Cornado
+Ribeira do Covelo
+Ribeira do Cubo
+Ribeira do Cunho
+Ribeira do Curto
+Ribeira do da Pedra
+Ribeira do da Vinha
+Ribeira do de Mel
+Ribeira do Degredo
+Ribeira do Enxoé
+Ribeira do Escoural
+Ribeira do Espinhaço de Cão
+Ribeira do Espinheiro
+Ribeira do Esteves
+Ribeira do Fagundo
+Ribeira do Faial
+Ribeira do Farelo
+Ribeira do Faval
+Ribeira do Folhado
+Ribeira do Fontão
+Ribeira do Forneco
+Ribeira do Freixal
+Ribeira do Freixo Seco
+Ribeira do Gatão
+Ribeira do Gondufo
+Ribeira do Gorgulão
+Ribeira do Goulo
+Ribeira do Judeu
+Ribeira do Junca
+Ribeira do Labroeiro
+Ribeira do Lajido
+Ribeira do Lameiro
+Ribeira do Lapão
+Ribeira do Lecra
+Ribeira do Livramento
+Ribeira do Longo
+Ribeira do Louredo
+Ribeira do Louriçal
+Ribeira do Lucefecir
+Ribeira do Maçapez
+Ribeira do Madrão
+Ribeira do Malimão
+Ribeira do Marmelal
+Ribeira do Marquês
+Ribeira do Matadouro
+Ribeira do Mato do Rego
+Ribeira do Medal
+Ribeira do Medo
+Ribeira do Medreiro
+Ribeira do Meio
+Ribeira do Melinho
+Ribeira do Meloeiro
+Ribeira do Milagres
+Ribeira do Mistério
+Ribeira do Mocho
+Ribeira do Moinho Albeiro
+Ribeira do Mondego
+Ribeira do Montinho
+Ribeira do Morelinho
+Ribeira do Moreno
+Ribeira do Mosteirão
+Ribeira do Mouro
+Ribeira do Nabo
+Ribeira do Novo
+Ribeira do Oledo
+Ribeira do Olival
+Ribeira do Olival Basto
+Ribeira do Ouco
+Ribeira do Paço
+Ribeira do Paivô
+Ribeira do Pamplona
+Ribeira do Paraíso
+Ribeira do Paul do Mar
+Ribeira do Pedregal
+Ribeira do Pegão
+Ribeira do Pego
+Ribeira do Pelão
+Ribeira do Pêro Bonito
+Ribeira do Perregil
+Ribeira do Pigeiro
+Ribeira do Pimenta
+Ribeira do Pinho
+Ribeira do Pio
+Ribeira do Piodão
+Ribeira do Poço
+Ribeira do Poço da Vila
+Ribeira do Poço do Burro
+Ribeira do Poço Redondo
+Ribeira do Polvorão
+Ribeira do Pontão
+Ribeira do Porco
+Ribeira do Porto Moniz
+Ribeira do Pou
+Ribeira do Preto
+Ribeira do Prior
+Ribeira do Purgar
+Ribeira do Rabagão
+Ribeira do Rabo de Burro
+Ribeira do Ralo
+Ribeira do Rato
+Ribeira do Resinal
+Ribeira do Riboizial
+Ribeira do Rico
+Ribeira do Rinheiro
+Ribeira do Rodeio
+Ribeira do Rodo
+Ribeira do Romeu
+Ribeira do Rosal
+Ribeira do Roxo
+Ribeira do Ruivo
+Ribeira do Russilhão
+Ribeira do Sabugueiro
+Ribeira do Saião
+Ribeira do Salgueiral
+Ribeira do Sancho
+Ribeira do Seco
+Ribeira do Seisal
+Ribeira do Seival
+Ribeira do Seixal
+Ribeira do Seixo
+Ribeira do Sinhel
+Ribeira do Sirol
+Ribeira do Soldão
+Ribeira do Taboado
+Ribeira do Tacual
+Ribeira do Tamejoso
+Ribeira do Tedinho
+Ribeira do Telhal
+Ribeira do Testo
+Ribeira do Tordo
+Ribeira do Torrão
+Ribeira do Tremelgo
+Ribeira do Trevisco
+Ribeira do Tristão
+Ribeira do Turgal
+Ribeira do Ulme
+Ribeira do Valado
+Ribeira do Vale Azedo
+Ribeira do Vale da Poldra
+Ribeira do Vale da Vinha
+Ribeira do Vale da Zorra
+Ribeira do Vale das Covas
+Ribeira do Vale de Açor
+Ribeira do Vale de Água
+Ribeira do Vale de Alcaide
+Ribeira do Vale de Cabras
+Ribeira do Vale de Cajata
+Ribeira do Vale de Marinha
+Ribeira do Vale de Porco
+Ribeira do Vale de Prado
+Ribeira do Vale de Santarém
+Ribeira do Vale de Seda
+Ribeira do Vale do Azinhal
+Ribeira do Vale do Bispo
+Ribeira do Vale do Castro
+Ribeira do Vale do Freixo
+Ribeira do Vale do Nave
+Ribeira do Vale do Peso
+Ribeira do Vale do Poço
+Ribeira do Vale do Seixo
+Ribeira do Vale do Serrão
+Ribeira do Vale Maior
+Ribeira do Vale Pocinho
+Ribeira do Vale Verde
+Ribeira do Vascanito
+Ribeira do Vascãozinho
+Ribeira do Veiga
+Ribeira do Verdigão
+Ribeira do Vidigão
+Ribeira do Vigário
+Ribeira do Zacarias
+Ribeira do Zambujo
+Ribeira do Zimbral
+Ribeira dos Aguaçais
+Ribeira dos Aivados
+Ribeira dos Almentolios
+Ribeira dos Amarelos
+Ribeira dos Anodos
+Ribeira dos Barrancos
+Ribeira dos Biscoitos
+Ribeira dos Bodes
+Ribeira dos Boxinos
+Ribeira dos Cabreiros
+Ribeira dos Cachorros
+Ribeira dos Caimbos
+Ribeira dos Canais
+Ribeira dos Carneiros
+Ribeira dos Carvalhiços
+Ribeira dos Carvalhos
+Ribeira dos Castelhanos
+Ribeira dos Castelos
+Ribeira dos Cavalos
+Ribeira dos Coriscos
+Ribeira dos Cortilhões
+Ribeira dos Coruchos
+Ribeira dos Covais
+Ribeira dos Covões
+Ribeira dos Cubos
+Ribeira dos Duques
+Ribeira dos Estevais
+Ribeira dos Estieiros
+Ribeira dos Ferreiros
+Ribeira dos Fitos
+Ribeira dos Freixos
+Ribeira dos Galvões
+Ribeira dos Gatos
+Ribeira dos Grandaços
+Ribeira dos Grilos
+Ribeira dos Juncainhos
+Ribeira dos Lagos
+Ribeira dos Leais
+Ribeira dos Louriçais
+Ribeira dos Marinheiros
+Ribeira dos Migueis
+Ribeira dos Minutos
+Ribeira dos Montes
+Ribeira dos Mosqueiros
+Ribeira dos Mouchões
+Ribeira dos Nabos
+Ribeira dos Olivais
+Ribeira dos Olos
+Ribeira dos Outeiros
+Ribeira dos Pães
+Ribeira dos Palames
+Ribeira dos Piscos
+Ribeira dos Poços
+Ribeira dos Poisos dos Pombos
+Ribeira dos Ratinhos
+Ribeira dos Sete
+Ribeira dos Socorridos
+Ribeira dos Souseis
+Ribeira dos Tarelos
+Ribeira dos Tomazes
+Ribeira dos Torneiros
+Ribeira dos Tostões
+Ribeira dos Tourões
+Ribeira dos Zameiros
+Ribeira dos Zebos
+Ribeira Ferrenha
+Ribeira Frieira
+Ribeira Janalves
+Ribeira Joanes
+Ribeira Ota
+Ribeira Porto Novo
+Ribeira Redonda
+Ribeira Rega do Velho
+Ribeira São Bartolomeu
+Ribeira Seca do Calhau
+Ribeira Tem-te-Não-Caias
+Ribeira Tira Calças
+Ribeira Tosquiada
+Ribeira Vale Cobrão
+Ribeira Vale da Ursa
+Ribeira Vale de Soure
+Ribeira Vale Michões
+Ribeira Velha
+Ribeirica
+Ribeirinha da Nave
+Ribeiro Água de Lobos
+Ribeiro Almofeira Rota
+Ribeiro Barroca das Pias
+Ribeiro Basso
+Ribeiro Besteiro
+Ribeiro Bonito
+Ribeiro Cochino
+Ribeiro da Abegoaria
+Ribeiro da Abilheira
+Ribeiro da Abóbada
+Ribeiro da Abrunheira
+Ribeiro da Afeiteira
+Ribeiro da Agricha
+Ribeiro da Água Doce
+Ribeiro da Água Ruca
+Ribeiro da Aguita
+Ribeiro da Aldeia
+Ribeiro da Aleivosa
+Ribeiro da Alface
+Ribeiro da Almeiranta
+Ribeiro da Almoreira
+Ribeiro da Ameixoeira
+Ribeiro da Amendoeira
+Ribeiro da Amieira
+Ribeiro da Ardevelona
+Ribeiro da Areeira
+Ribeiro da Arrancada
+Ribeiro da Asseiceira
+Ribeiro da Assumada
+Ribeiro da Atalaia
+Ribeiro da Azenha Velha
+Ribeiro da Azinheira
+Ribeiro da Barata
+Ribeiro da Barroca das Cegonhas
+Ribeiro da Benafátima
+Ribeiro da Biscainha
+Ribeiro da Boa Água
+Ribeiro da Boidade
+Ribeiro da Borralheira
+Ribeiro da Bradeira
+Ribeiro da Cabeça Cimeira
+Ribeiro da Cabeça de Pau
+Ribeiro da Cabra
+Ribeiro da Cabrieira
+Ribeiro da Cabroeira
+Ribeiro da Cachaça
+Ribeiro da Caiçada
+Ribeiro da Calçadinha
+Ribeiro da Caldeira
+Ribeiro da Calhinha
+Ribeiro da Califórnia
+Ribeiro da Camisa
+Ribeiro da Canabichosa
+Ribeiro da Caneca
+Ribeiro da Cangada
+Ribeiro da Caranguejeira
+Ribeiro da Carapetosa
+Ribeiro da Carrapatinha
+Ribeiro da Carrilha
+Ribeiro da Casinha
+Ribeiro da Castanheira
+Ribeiro da Castelhana
+Ribeiro da Cegonha
+Ribeiro da Chada
+Ribeiro da Chaminé
+Ribeiro da Charca
+Ribeiro da Cilha
+Ribeiro da Cioga
+Ribeiro da Cor Caminhos
+Ribeiro da Cortiça
+Ribeiro da Corveda
+Ribeiro da Coutada
+Ribeiro da Curraleira
+Ribeiro da de Lebres
+Ribeiro da Devesa
+Ribeiro da Embra
+Ribeiro da Ervada da Joeira
+Ribeiro da Escorregadia
+Ribeiro da Escoura
+Ribeiro da Espadana
+Ribeiro da Espinheira
+Ribeiro da Esteveira
+Ribeiro da Faia
+Ribeiro da Faleira
+Ribeiro da Falsa
+Ribeiro da Farropinha
+Ribeiro da Fava
+Ribeiro da Figueira do Preto
+Ribeiro da Filtreira
+Ribeiro da Flor da Rosa
+Ribeiro da Folha das Fontes
+Ribeiro da Fonte da Abelha
+Ribeiro da Fonte da Moura
+Ribeiro da Fonte da Mula
+Ribeiro da Fonte do Burro
+Ribeiro da Fonte do Castelo
+Ribeiro da Fonte do Mouro
+Ribeiro da Fonte do Touro
+Ribeiro da Fonte do Vale Mato
+Ribeiro da Fonte Ferreira
+Ribeiro da Fonte Grande
+Ribeiro da Fonte Nova
+Ribeiro da Fornea
+Ribeiro da Forra
+Ribeiro da Fraga
+Ribeiro da Fraga do Sal
+Ribeiro da Fragosa
+Ribeiro da Francisca
+Ribeiro da Garganteira
+Ribeiro da Gestosa
+Ribeiro da Godinha
+Ribeiro da Goiã
+Ribeiro da Gorlixa
+Ribeiro da Gravancinha
+Ribeiro da Gudinheira
+Ribeiro da Horta das Mouras
+Ribeiro da Junceira
+Ribeiro da Lama
+Ribeiro da Lama Chã
+Ribeiro da Lama do Moinho
+Ribeiro da Lameira
+Ribeiro da Lamosa
+Ribeiro da Lara
+Ribeiro da Leitosa
+Ribeiro da Lendiosa
+Ribeiro da Limada
+Ribeiro da Loisa
+Ribeiro da Machadinha
+Ribeiro da Macieira
+Ribeiro da Madalena
+Ribeiro da Malaguarda
+Ribeiro da Malhada
+Ribeiro da Marateca
+Ribeiro da Maria Ruiva
+Ribeiro da Marinheira
+Ribeiro da Marmeleira
+Ribeiro da Marosca
+Ribeiro da Marquesa
+Ribeiro da Mencoca
+Ribeiro da Menoita
+Ribeiro da Mesquitela
+Ribeiro da Micoca
+Ribeiro da Milhariça
+Ribeiro da Moita
+Ribeiro da Moucharia
+Ribeiro da Moureta
+Ribeiro da Nave da Barca
+Ribeiro da Nave das Enguias
+Ribeiro da Nave do Peixe
+Ribeiro da Nave Redonda
+Ribeiro da Nória
+Ribeiro da Ortiga
+Ribeiro da Ova
+Ribeiro da Palha
+Ribeiro da Palhota
+Ribeiro da Palmeira
+Ribeiro da Panasqueira
+Ribeiro da Paradinha
+Ribeiro da Partida
+Ribeiro da Pastaneira
+Ribeiro da Pasteira
+Ribeiro da Pedra de Asma
+Ribeiro da Pedreira
+Ribeiro da Pedrosa
+Ribeiro da Peliteira
+Ribeiro da Pena Amarela
+Ribeiro da Penha
+Ribeiro da Pêra Seca
+Ribeiro da Perna Seca
+Ribeiro da Pestana
+Ribeiro da Pexina
+Ribeiro da Pica
+Ribeiro da Piçarrica
+Ribeiro da Pinguela
+Ribeiro da Ponta
+Ribeiro da Porqueira
+Ribeiro da Pouca Lã
+Ribeiro da Póvoa
+Ribeiro da Póvoa de Raposeira
+Ribeiro da Prata
+Ribeiro da Provença
+Ribeiro da Quinta
+Ribeiro da Rabaça
+Ribeiro da Raiz
+Ribeiro da Raposeira
+Ribeiro da Rebaldia
+Ribeiro da Recta Falsa
+Ribeiro da Ribeira Velha
+Ribeiro da Roda
+Ribeiro da Roussa
+Ribeiro da Saposa
+Ribeiro da Sardinha
+Ribeiro da Sardoura
+Ribeiro da Sarrasqueira
+Ribeiro da Seixa
+Ribeiro da Selada
+Ribeiro da Senhora da Silva
+Ribeiro da Silva
+Ribeiro da Tábua
+Ribeiro da Talisca
+Ribeiro da Terça
+Ribeiro da Toula
+Ribeiro da Toulica
+Ribeiro da Turgalha
+Ribeiro da Ulmeira
+Ribeiro da Vilariça
+Ribeiro da Zorreira
+Ribeiro das Abroteas
+Ribeiro das Aguçadouras
+Ribeiro das Almargias
+Ribeiro das Amoreiras
+Ribeiro das Areias
+Ribeiro das Banhas
+Ribeiro das Barreiras
+Ribeiro das Barrentas
+Ribeiro das Barrocas
+Ribeiro das Caliças
+Ribeiro das Canavoras
+Ribeiro das Caravelas
+Ribeiro das Carvalhas
+Ribeiro das Casas
+Ribeiro das Casas da Zebreira
+Ribeiro das Casas Novas
+Ribeiro das Casinhas
+Ribeiro das Chitas
+Ribeiro das Colesmas
+Ribeiro das Cruzadas
+Ribeiro das Eiras
+Ribeiro das Eiras Ruivas
+Ribeiro das Eirinhas
+Ribeiro das Feiticeiras
+Ribeiro das Ferrarias
+Ribeiro das Ferrenhas
+Ribeiro das Figueiras Doldas
+Ribeiro das Flores
+Ribeiro das Forcadas
+Ribeiro das Fozes
+Ribeiro das Fragas
+Ribeiro das Fragas do Santo
+Ribeiro das Freiras
+Ribeiro das Gandelas
+Ribeiro das Hortas
+Ribeiro das Inverniças
+Ribeiro das Ladeiras
+Ribeiro das Lameiras
+Ribeiro das Lebres
+Ribeiro das Molinas
+Ribeiro das Mós
+Ribeiro das Nascentes
+Ribeiro das Naves
+Ribeiro das Naves Frias
+Ribeiro das Noras
+Ribeiro das Olas
+Ribeiro das Ondas
+Ribeiro das Paredes
+Ribeiro das Pedras
+Ribeiro das Pernadas
+Ribeiro das Pias
+Ribeiro das Pombas
+Ribeiro das Pregadinhas
+Ribeiro das Queimadas
+Ribeiro das Quintanas
+Ribeiro das Rasas
+Ribeiro das Regadas
+Ribeiro das Relvas
+Ribeiro das Salgueirinhas
+Ribeiro das Sanguessugas
+Ribeiro das Serpes
+Ribeiro das Silvas
+Ribeiro das Sortes
+Ribeiro das Tapadas
+Ribeiro das Tortulhas
+Ribeiro das Vacas
+Ribeiro das Valinhas
+Ribeiro das Vinhas
+Ribeiro de Abaneja
+Ribeiro de Agosto
+Ribeiro de Água Cova
+Ribeiro de Água Fria
+Ribeiro de Água Talhada
+Ribeiro de Ala
+Ribeiro de Albagueira
+Ribeiro de Albufeira
+Ribeiro de Alcafozes
+Ribeiro de Alcalate
+Ribeiro de Alcalva de Baixo
+Ribeiro de Alcalva de Cima
+Ribeiro de Alcaria
+Ribeiro de Além
+Ribeiro de Alinguel
+Ribeiro de Alpendres
+Ribeiro de Alter
+Ribeiro de Antrime
+Ribeiro de Aroal
+Ribeiro de Ataboeira
+Ribeiro de Avinhó
+Ribeiro de Barrancais
+Ribeiro de Barrosas
+Ribeiro de Borba
+Ribeiro de Bouçoãis
+Ribeiro de Caçus
+Ribeiro de Cal
+Ribeiro de Canefechal
+Ribeiro de Capelos
+Ribeiro de Carcerelha
+Ribeiro de Carritos
+Ribeiro de Carvalho
+Ribeiro de Casbarro
+Ribeiro de Caveiro
+Ribeiro de Cavez
+Ribeiro de Ceiroco
+Ribeiro de Cércio
+Ribeiro de Chacim
+Ribeiro de Claro
+Ribeiro de Contensa
+Ribeiro de Coselhas
+Ribeiro de Couces
+Ribeiro de Coutinho
+Ribeiro de Covelinhas
+Ribeiro de Donelo
+Ribeiro de Enchacana
+Ribeiro de Ervidal
+Ribeiro de Escancha Burros
+Ribeiro de Escarigo
+Ribeiro de Escravides
+Ribeiro de Espiche
+Ribeiro de Espite
+Ribeiro de Ferreira
+Ribeiro de Ferronhão
+Ribeiro de Fiãis
+Ribeiro de Ficalho
+Ribeiro de Figueira
+Ribeiro de Fornos
+Ribeiro de Foz de Casinhas
+Ribeiro de Frades
+Ribeiro de Francos
+Ribeiro de Freixo
+Ribeiro de Gondelim
+Ribeiro de Gondiãis
+Ribeiro de Gordo
+Ribeiro de Gregos
+Ribeiro de Grijó
+Ribeiro de Grou
+Ribeiro de Hortelosia
+Ribeiro de Janeiro
+Ribeiro de Jardim
+Ribeiro de José Luís
+Ribeiro de Laje
+Ribeiro de Lamas
+Ribeiro de Linhares
+Ribeiro de Lobo
+Ribeiro de Longarás
+Ribeiro de Longra
+Ribeiro de Lousas
+Ribeiro de Mação
+Ribeiro de Macedo de Cavaleiros
+Ribeiro de Malhadas
+Ribeiro de Mâmoa
+Ribeiro de Maria Pires
+Ribeiro de Marruais
+Ribeiro de Matos
+Ribeiro de Mau
+Ribeiro de Meirinhos
+Ribeiro de Meixedo
+Ribeiro de Melão
+Ribeiro de Milhazes
+Ribeiro de Moadoira
+Ribeiro de Moimenta
+Ribeiro de Montouto
+Ribeiro de Mossantela
+Ribeiro de Mourelo
+Ribeiro de Muro
+Ribeiro de Murta
+Ribeiro de Nozelos
+Ribeiro de Ossos
+Ribeiro de Ovelheiros
+Ribeiro de Paço de Mato
+Ribeiro de Paião
+Ribeiro de Paicanito
+Ribeiro de Palheiros
+Ribeiro de Parada
+Ribeiro de Paradela
+Ribeiro de Paúla
+Ribeiro de Pedra Branca
+Ribeiro de Pégoras
+Ribeiro de Pena Samarra
+Ribeiro de Penso
+Ribeiro de Pereiras
+Ribeiro de Picote
+Ribeiro de Pinho
+Ribeiro de Poço Negro
+Ribeiro de Pomarinho
+Ribeiro de Pombais
+Ribeiro de Porto Avelar
+Ribeiro de Poulos
+Ribeiro de Pousadela
+Ribeiro de Pousafoles
+Ribeiro de Queitide
+Ribeiro de Radivau
+Ribeiro de Regoufe
+Ribeiro de Riaduros
+Ribeiro de Rodilhão
+Ribeiro de Romesende
+Ribeiro de Roussas
+Ribeiro de Salgueiros
+Ribeiro de Salsas
+Ribeiro de Samarra
+Ribeiro de Sampaio
+Ribeiro de Sande
+Ribeiro de Santa Catarina
+Ribeiro de Santa Maria
+Ribeiro de Santa Marina
+Ribeiro de Santa Sofia
+Ribeiro de Santiais
+Ribeiro de Santo André
+Ribeiro de Santo António
+Ribeiro de São Bento
+Ribeiro de São Gens
+Ribeiro de São Gonçalo
+Ribeiro de São João
+Ribeiro de São Lourenço
+Ribeiro de São Mateus
+Ribeiro de São Pedro
+Ribeiro de São Pedro Velho
+Ribeiro de São Tiago
+Ribeiro de São Tomé
+Ribeiro de Saramadigo
+Ribeiro de Segodim
+Ribeiro de Selores
+Ribeiro de Sendim
+Ribeiro de Sexta
+Ribeiro de Soalheira
+Ribeiro de Soeima
+Ribeiro de Soito
+Ribeiro de Soutelo
+Ribeiro de Temilobos
+Ribeiro de Trancão
+Ribeiro de Travanca
+Ribeiro de Urzelhe
+Ribeiro de Valbemfeito
+Ribeiro de Vale da Cuba
+Ribeiro de Vale da Tranca
+Ribeiro de Vale de Açor
+Ribeiro de Vale de Águia
+Ribeiro de Vale de Cancelas
+Ribeiro de Vale de Corvos
+Ribeiro de Vale de El-Reizinho
+Ribeiro de Vale de Figueiras
+Ribeiro de Vale de Galegas
+Ribeiro de Vale de Lobo
+Ribeiro de Vale de Matos
+Ribeiro de Vale de Moinhos
+Ribeiro de Vale de Moitas
+Ribeiro de Vale de Paragem
+Ribeiro de Vale de Perdizes
+Ribeiro de Vale de Prados
+Ribeiro de Vale de Reis
+Ribeiro de Vale de Trigo
+Ribeiro de Vale do Atalho
+Ribeiro de Vale do Mato
+Ribeiro de Vale Fojo
+Ribeiro de Vale Grande
+Ribeiro de Vale Machado
+Ribeiro de Vale Mosteiro
+Ribeiro de Vale Mourão
+Ribeiro de Vale Pereiro
+Ribeiro de Vale Sobreiro
+Ribeiro de Vale Verde
+Ribeiro de Valpaço
+Ribeiro de Valsada
+Ribeiro de Valtamonte
+Ribeiro de Veiga
+Ribeiro de Veigas
+Ribeiro de Vendas
+Ribeiro de Vergadas
+Ribeiro de Vila Chã
+Ribeiro de Vila Pouca
+Ribeiro de Vila Verde
+Ribeiro de Vilar do Rei
+Ribeiro de Vilar Seco
+Ribeiro de Vilares
+Ribeiro de Zorra
+Ribeiro do Afoga Burros
+Ribeiro do Alandroal
+Ribeiro do Almacabra
+Ribeiro do Almarjão
+Ribeiro do Alpracá
+Ribeiro do Amanso
+Ribeiro do Ameal
+Ribeiro do Arcão
+Ribeiro do Arieiro
+Ribeiro do Arneiro
+Ribeiro do Arquinho
+Ribeiro do Arrão
+Ribeiro do Arrepiado
+Ribeiro do Arroio
+Ribeiro do Azinhal
+Ribeiro do Barbil
+Ribeiro do Barco
+Ribeiro do Barranca
+Ribeiro do Barranco
+Ribeiro do Barrigudo
+Ribeiro do Barroso
+Ribeiro do Beleco
+Ribeiro do Beredo
+Ribeiro do Bombarrão
+Ribeiro do Braçal
+Ribeiro do Braceiro
+Ribeiro do Bramadeiro
+Ribeiro do Branco
+Ribeiro do Burgão
+Ribeiro do Cabido
+Ribeiro do Cabouço
+Ribeiro do Cadaboso
+Ribeiro do Cadavaio
+Ribeiro do Cadaval
+Ribeiro do Caderno
+Ribeiro do Cadouço
+Ribeiro do Cagavaio
+Ribeiro do Cai Água
+Ribeiro do Canal
+Ribeiro do Capelão
+Ribeiro do Carapeteiro
+Ribeiro do Cardal
+Ribeiro do Carramanho
+Ribeiro do Carrão
+Ribeiro do Carrasco
+Ribeiro do Carvalhal
+Ribeiro do Carvalheiro
+Ribeiro do Carvalho
+Ribeiro do Carvalhosinho
+Ribeiro do Carvalhoso
+Ribeiro do Casão
+Ribeiro do Castelão
+Ribeiro do Castelinho
+Ribeiro do Cavaleiro
+Ribeiro do Cerejal
+Ribeiro do Chainha
+Ribeiro do Chão do Galego
+Ribeiro do Chico
+Ribeiro do Cibio
+Ribeiro do Cid
+Ribeiro do Conqueiro
+Ribeiro do Corges Pequeno
+Ribeiro do Costa
+Ribeiro do Coxerro
+Ribeiro do Crestelo
+Ribeiro do Cunha
+Ribeiro do Curral de Sabugo
+Ribeiro do das Mestras
+Ribeiro do Degolaiço
+Ribeiro do Descoberto
+Ribeiro do dos Bichos
+Ribeiro do Douro
+Ribeiro do Eirogo
+Ribeiro do Enforcado
+Ribeiro do Esconderejo
+Ribeiro do Escoural
+Ribeiro do Esporão
+Ribeiro do Falacho
+Ribeiro do Fervedouro
+Ribeiro do Fialho
+Ribeiro do Fichedo
+Ribeiro do Figueiral
+Ribeiro do Forno
+Ribeiro do Foro
+Ribeiro do Fradinho
+Ribeiro do Frarigo
+Ribeiro do Freixinho
+Ribeiro do Freixoal
+Ribeiro do Fundo dos Prados
+Ribeiro do Fundouro
+Ribeiro do Furão
+Ribeiro do Gafanhão
+Ribeiro do Gaio
+Ribeiro do Galego
+Ribeiro do Galo
+Ribeiro do Galricho
+Ribeiro do Gandum
+Ribeiro do Garção
+Ribeiro do Gato Bravo
+Ribeiro do Gavião
+Ribeiro do Geão
+Ribeiro do Gonçalão
+Ribeiro do Gordez
+Ribeiro do Grou
+Ribeiro do Inferno
+Ribeiro do Jarro
+Ribeiro do Juncaveio
+Ribeiro do Lagar
+Ribeiro do Lagar d'Água
+Ribeiro do Lagar de Água
+Ribeiro do Lapão
+Ribeiro do Lavadouro
+Ribeiro do Lebução
+Ribeiro do Leiteijo
+Ribeiro do Lobete
+Ribeiro do Lucas
+Ribeiro do Lugar
+Ribeiro do Lugar Novo
+Ribeiro do Malha Pão
+Ribeiro do Malmedra
+Ribeiro do Marchicão
+Ribeiro do Marge
+Ribeiro do Marquês
+Ribeiro do Maruto
+Ribeiro do Matoso
+Ribeiro do Meimão
+Ribeiro do Melro
+Ribeiro do Mercado
+Ribeiro do Mijareiro
+Ribeiro do Mioso
+Ribeiro do Moinho de Cuba
+Ribeiro do Molha Pão
+Ribeiro do Monchicão
+Ribeiro do Moninho
+Ribeiro do Morgado
+Ribeiro do Mosteiro
+Ribeiro do Mouco
+Ribeiro do Muro Alto
+Ribeiro do Nabarro
+Ribeiro do Natal
+Ribeiro do Negro
+Ribeiro do Neto
+Ribeiro do Novo
+Ribeiro do Olho da Giota
+Ribeiro do Olmo
+Ribeiro do Ouro
+Ribeiro do Outeiro de Galegas
+Ribeiro do Paço
+Ribeiro do Paço Branco
+Ribeiro do Pançudo
+Ribeiro do Papa Leite
+Ribeiro do Parisal
+Ribeiro do Pego do Inferno
+Ribeiro do Peralta
+Ribeiro do Perdigão
+Ribeiro do Pereiral
+Ribeiro do Peso
+Ribeiro do Pesquinho
+Ribeiro do Picheleiro
+Ribeiro do Pido
+Ribeiro do Pigeiro
+Ribeiro do Pinheiro Velho
+Ribeiro do Pinto
+Ribeiro do Pintor
+Ribeiro do Pioselo
+Ribeiro do Pocinho
+Ribeiro do Poço do Algarve
+Ribeiro do Poço do Moiro
+Ribeiro do Poço Longo
+Ribeiro do Poiso
+Ribeiro do Povo
+Ribeiro do Prenhal Preto
+Ribeiro do Queimadinho
+Ribeiro do Quintã
+Ribeiro do Rabão
+Ribeiro do Ramilo
+Ribeiro do Ratão
+Ribeiro do Real
+Ribeiro do Rebentão
+Ribeiro do Rebolal
+Ribeiro do Reca
+Ribeiro do Regedor
+Ribeiro do Reguengo
+Ribeiro do Reigaz
+Ribeiro do Repasquinho
+Ribeiro do Roupeiro
+Ribeiro do Salgueiro
+Ribeiro do Salgueiro do Moinho
+Ribeiro do Sapateiro
+Ribeiro do Saradelo
+Ribeiro do Sardoal
+Ribeiro do Seixal
+Ribeiro do Serradinho
+Ribeiro do Serro da Vinha
+Ribeiro do Sobral
+Ribeiro do Sonso
+Ribeiro do Tacanho
+Ribeiro do Tamboril
+Ribeiro do Tapadão
+Ribeiro do Tapado
+Ribeiro do Teixedo
+Ribeiro do Toção
+Ribeiro do Tojal
+Ribeiro do Torrão
+Ribeiro do Travasso
+Ribeiro do Triquitão
+Ribeiro do Troço
+Ribeiro do Tronco
+Ribeiro do Valbaco
+Ribeiro do Vale Ancho
+Ribeiro do Vale Cebola
+Ribeiro do Vale Charruadas
+Ribeiro do Vale Covo
+Ribeiro do Vale da Baralha
+Ribeiro do Vale da Maria
+Ribeiro do Vale da Morena
+Ribeiro do Vale da Pia
+Ribeiro do Vale da Pipa
+Ribeiro do Vale da Porca
+Ribeiro do Vale da Raiz
+Ribeiro do Vale da Ria
+Ribeiro do Vale da Rosa
+Ribeiro do Vale das Cadelas
+Ribeiro do Vale das Ervas
+Ribeiro do Vale de Amoreira
+Ribeiro do Vale de Boi
+Ribeiro do Vale de Bruti
+Ribeiro do Vale de Covo
+Ribeiro do Vale de Ferreiros
+Ribeiro do Vale de Ferro
+Ribeiro do Vale de Juncos
+Ribeiro do Vale de Maria Dona
+Ribeiro do Vale de Morgado
+Ribeiro do Vale de Ouro
+Ribeiro do Vale de Pais
+Ribeiro do Vale de Pousadas
+Ribeiro do Vale de Santa Maria
+Ribeiro do Vale do Brio
+Ribeiro do Vale do Cobrão
+Ribeiro do Vale do Embrião
+Ribeiro do Vale do Gato
+Ribeiro do Vale do Grou
+Ribeiro do Vale do Manhuscal
+Ribeiro do Vale do Medo
+Ribeiro do Vale do Meio Dia
+Ribeiro do Vale do Paraíso
+Ribeiro do Vale do Porco
+Ribeiro do Vale dos Moços
+Ribeiro do Vale dos Serralhões
+Ribeiro do Vale Feito
+Ribeiro do Vale Ferradas
+Ribeiro do Vale Formoso
+Ribeiro do Vale Galego
+Ribeiro do Vale Garvão
+Ribeiro do Vale Gestoso
+Ribeiro do Vale Grande
+Ribeiro do Vale Porco
+Ribeiro do Vale Santo
+Ribeiro do Vale Sobreiro
+Ribeiro do Vidigal
+Ribeiro do Vinhal
+Ribeiro do Xedal
+Ribeiro do Zambujal
+Ribeiro do Zangalho
+Ribeiro Domialha
+Ribeiro dos Amarelos
+Ribeiro dos Ameais
+Ribeiro dos Barrocais
+Ribeiro dos Cabaços
+Ribeiro dos Cadelos
+Ribeiro dos Caibrais
+Ribeiro dos Caldeireiros
+Ribeiro dos Canais
+Ribeiro dos Carapetos
+Ribeiro dos Carriços
+Ribeiro dos Cartaxos
+Ribeiro dos Casares
+Ribeiro dos Casqueiros
+Ribeiro dos Castelhanos
+Ribeiro dos Chãos
+Ribeiro dos Clérigos
+Ribeiro dos Coelhos
+Ribeiro dos Coitos
+Ribeiro dos Cortiços
+Ribeiro dos Degolados
+Ribeiro dos Espinheiros
+Ribeiro dos Fartos
+Ribeiro dos Ferreiros
+Ribeiro dos Frades
+Ribeiro dos Freichicos
+Ribeiro dos Freixos
+Ribeiro dos Gizes
+Ribeiro dos Lentiscais
+Ribeiro dos Marmeleiros
+Ribeiro dos Marmelos
+Ribeiro dos Milharados
+Ribeiro dos Moinhos
+Ribeiro dos Moiros
+Ribeiro dos Montes Novos
+Ribeiro dos Morenos
+Ribeiro dos Mosqueiros
+Ribeiro dos Murtórios
+Ribeiro dos Olivais
+Ribeiro dos Ossos
+Ribeiro dos Palheiros
+Ribeiro dos Patos
+Ribeiro dos Paus
+Ribeiro dos Pedreiros
+Ribeiro dos Pedrões
+Ribeiro dos Peixes
+Ribeiro dos Picos
+Ribeiro dos Porralhos
+Ribeiro dos Potes
+Ribeiro dos Quartos
+Ribeiro dos Rodelos
+Ribeiro dos Rodilhões
+Ribeiro dos Salgueiros
+Ribeiro dos Santos
+Ribeiro dos Terneiros
+Ribeiro dos Vales
+Ribeiro dos Vilares
+Ribeiro dos Vinagres
+Ribeiro Ferradouro
+Ribeiro Francês
+Ribeiro Frio
+Ribeiro Galvão
+Ribeiro Grande
+Ribeiro Melro
+Ribeiro Mestre
+Ribeiro Monzebro
+Ribeiro Mortal
+Ribeiro Olho de Água
+Ribeiro Paul
+Ribeiro Regueiral
+Ribeiro Salgado
+Ribeiro Salgueiro Gordo
+Ribeiro Saraiva
+Ribeiro Seco
+Ribeiro Trás do Muro
+Ribeiro Vale de Figueiras
+Ribeiro Vale de Judeu
+Ribeiro Vale de Magre
+Ribeiro Vale de Viveiros
+Ribeiro Vale do Freixo
+Ribeiro Valente
+Ribeiro Velho
+Ribeiro Zambujo
+Ribera Basadiga
+Riguinha
+Rilbeira dos Rebolais
+Sabor
+Sangue
+Sanguinhedo
+Sardinha
+Satão
+Seia
+Seixo
+Selho
+Sequa
+Seromenha
+Sever
+Sião
+Simão
+Sizandro
+Sorraia
+Sorraia Velho
+Sousa
+Sucrasto
+Sul
+Tagus
+Tâmega
+Tamente
+Tanha
+Távora
+Tedo
+Teixeira
+Tenalha
+Terva
+Tinhela
+Torno
+Trancão
+Tripeiro
+Trutas
+Tua
+Tuela
+Uima
+Unhais
+Unhais-o-Velho
+Vade
+Vala da dos Covos
+Vala do Caldista
+Vala Mãe de Água
+Valadares
+Vale
+Vale da Vila
+Vale do Gamo
+Vale do João Galante
+Vale Figueiras
+Vale Madeiro
+Valinho de Égua
+Varoso
+Veade
+Velho
+Vilar
+Vilarinho
+Vimeiro
+Vizela
+Vouga
+Xarrama
+Zela

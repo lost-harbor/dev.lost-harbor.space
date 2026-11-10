@@ -1,0 +1,2861 @@
+Horvat	29
+Marić	22
+Popović	20
+Babić	18
+Tomić	18
+Marković	16
+Filipović	15
+Kovačić	15
+Vidović	15
+Pavić	14
+Bošnjak	13
+Jurić	13
+Jurković	13
+Petrović	13
+Šimić	13
+Blažević	12
+Kovač	12
+Novak	12
+Kovačević	11
+Matić	11
+Tadić	11
+Bašić	10
+Burić	10
+Jukić	10
+Lončar	10
+Šarić	10
+Delić	9
+Erceg	9
+Katić	9
+Ramljak	9
+Vrdoljak	9
+Ivančić	8
+Janković	8
+Pavlović	8
+Perica	8
+Perković	8
+Tolić	8
+Vuković	8
+Boban	7
+Grgić	7
+Jovanović	7
+Ljubičić	7
+Mijatović	7
+Mikulić	7
+Nakić	7
+Nikolić	7
+Novosel	7
+Rukavina	7
+Vlašić	7
+Vujčić	7
+Zovko	7
+Barišić	6
+Bilic	6
+Božić	6
+Brozović	6
+Bubalo	6
+Buljan	6
+Despot	6
+Galić	6
+Gudelj	6
+Ivanišević	6
+Ivanković	6
+Jurišić	6
+Knežević	6
+Lovrić	6
+Lukić	6
+Mamić	6
+Mandić	6
+Maras	6
+Matković	6
+Mikulic	6
+Miletić	6
+Novaković	6
+Valentić	6
+Abramović	5
+Antunović	5
+Banović	5
+Begović	5
+Bogdan	5
+Bosanac	5
+Brkić	5
+Ćorić	5
+Ćosić	5
+Damjanović	5
+Dvornik	5
+Filipovic	5
+Gabrić	5
+Grubišić	5
+Ilić	5
+Jerković	5
+Josipović	5
+Juričić	5
+Kvesić	5
+Lasić	5
+Leko	5
+Lorković	5
+Majstorovic	5
+Majstorović	5
+Marasović	5
+Marinković	5
+Marinović	5
+Mrduljaš	5
+Perić	5
+Petrić	5
+Posavec	5
+Radić	5
+Skender	5
+Tomašević	5
+Turk	5
+Vrsaljko	5
+Aleksić	4
+Anić	4
+Babic	4
+Bačić	4
+Bekavac	4
+Bogdanović	4
+Borić	4
+Bošković	4
+Božič	4
+Budak	4
+Budimir	4
+Butković	4
+Čović	4
+Čutura	4
+Cvitan	4
+Cvitanović	4
+Dedić	4
+Delaš	4
+Franić	4
+Glasnović	4
+Golik	4
+Gotovac	4
+Herceg	4
+Jurak	4
+Kalinić	4
+Kardum	4
+Klarić	4
+Kujundžić	4
+Kurjaković	4
+Lončarić	4
+Mance	4
+Mandic	4
+Maric	4
+Matic	4
+Matijevic	4
+Mihalić	4
+Miljković	4
+Milković	4
+Milošević	4
+Mitrović	4
+Molnar	4
+Parlov	4
+Pašalić	4
+Pavic	4
+Pavičić	4
+Pervan	4
+Pešić	4
+Poklepović	4
+Poljak	4
+Pranjić	4
+Primorac	4
+Rocco	4
+Romić	4
+Ružić	4
+Saric	4
+Sekulić	4
+Sikirić	4
+Smiljanić	4
+Soldo	4
+Šprem	4
+Tokić	4
+Topic	4
+Tudor	4
+Tvrdić	4
+Vida	4
+Vojnović	4
+Volf	4
+Vučić	4
+Vukičević	4
+Vulić	4
+Živković	4
+Župan	4
+Antić	3
+Bacic	3
+Bakić	3
+Balić	3
+Ban	3
+Barbarić	3
+Bauer	3
+Bebek	3
+Bego	3
+Begonja	3
+Bešlić	3
+Bilić	3
+Bodrožić	3
+Boras	3
+Braun	3
+Brekalo	3
+Broz	3
+Buntić	3
+Bušić	3
+Butina	3
+Butorac	3
+Čačić	3
+Cindro	3
+Deutsch	3
+Doležal	3
+Dragojević	3
+Draskovich	3
+Dražić	3
+Drndić	3
+Dujmović	3
+Duvančić	3
+Elez	3
+Gagić	3
+Generalić	3
+Glavan	3
+Glavaš	3
+Glavina	3
+Goldstein	3
+Grgic	3
+Grgin	3
+Grlić	3
+Iveković	3
+Ivezić	3
+Jaksic	3
+Jakšić	3
+Jelaska	3
+Jelavić	3
+Jozić	3
+Jurčević	3
+Jurčić	3
+Juric	3
+Jurkić	3
+Kačič	3
+Kajfež	3
+Klarin	3
+Knezović	3
+Kohn	3
+Kordić	3
+Kos	3
+Koščević	3
+Kostelić	3
+Kovacevic	3
+Kovačič	3
+Kozina	3
+Kraus	3
+Kresic	3
+Kristo	3
+Krstulović	3
+Kulenović	3
+Kuzmanović	3
+Lalić	3
+Lang	3
+Lelas	3
+Lipovčan	3
+Loncar	3
+Longin	3
+Lučić	3
+Magaš	3
+Magdić	3
+Males	3
+Marjanović	3
+Marović	3
+Matanović	3
+Matijašić	3
+Medvešek	3
+Mihelčić	3
+Mikšić	3
+Milicevic	3
+Miličević	3
+Miličić	3
+Mlakar	3
+Modrić	3
+Mrzljak	3
+Mužinić	3
+Orešković	3
+Pavličić	3
+Percan	3
+Petkovic	3
+Petković	3
+Plenković	3
+Pokos	3
+Pongračić	3
+Popić	3
+Prpić	3
+Pukšec	3
+Račić	3
+Radošević	3
+Ratković	3
+Raukar	3
+Rendulić	3
+Roth	3
+Savić	3
+Selak	3
+Šeparović	3
+Šerbedžija	3
+Seric	3
+Šiklić	3
+Silić	3
+Šimunović	3
+Šola	3
+Šovagović	3
+Štambuk	3
+Stanković	3
+Starčević	3
+Stipanović	3
+Stojanović	3
+Šutalo	3
+Tomas	3
+Tomaš	3
+Torjanac	3
+Turković	3
+Tuđman	3
+Uglešić	3
+Varga	3
+Vekić	3
+Vidaković	3
+Vranković	3
+Vrkljan	3
+Vučko	3
+Vukov	3
+Vušković	3
+Weiss	3
+Zaninović	3
+Zorko	3
+Ademi	2
+Ahmeti	2
+Ajdukovic	2
+Akrap	2
+Alajbeg	2
+Alfirević	2
+Amižić	2
+Ančić	2
+Andrić	2
+Andrijašević	2
+Angeli	2
+Anisimov	2
+Anočić	2
+Antolčić	2
+Antolić	2
+Antolović	2
+Antunovic	2
+Anušić	2
+Aračić	2
+Arapovic	2
+Arbanas	2
+Arslanagic	2
+Aydemir	2
+Bacich	2
+Badelj	2
+Badurina	2
+Bagarić	2
+Bago	2
+Bakal	2
+Bakaric	2
+Bakic	2
+Balasko	2
+Balent	2
+Balog	2
+Banic	2
+Banić	2
+Barac	2
+Baran	2
+Barbieri	2
+Bareš	2
+Barić	2
+Baričević	2
+Barisic	2
+Barnjak	2
+Bartulović	2
+Batur	2
+Bebić	2
+Begić	2
+Belin	2
+Beljan	2
+Bender	2
+Benko	2
+Berisha	2
+Bertok	2
+Bicanic	2
+Bilan	2
+Bilandžić	2
+Bišćan	2
+Biškup	2
+Bjedov	2
+Blaće	2
+Blažeković	2
+Blazevic	2
+Blažičko	2
+Bogović	2
+Boić	2
+Bonacci	2
+Bonačić	2
+Božičević	2
+Brajković	2
+Brankov	2
+Bratulić	2
+Brešan	2
+Buchberger	2
+Bukić	2
+Bukvić	2
+Bulajic	2
+Bulat	2
+Bule	2
+Buljat	2
+Buljevic	2
+Car	2
+Čeh	2
+Čičin-Šain	2
+Čilić	2
+Ćirić	2
+Čižmek	2
+Čop	2
+Cordas	2
+Crnković	2
+Ćurić	2
+Cvetnić	2
+Cvitanić	2
+Cvjetičanin	2
+Dadic	2
+Dalbello	2
+Dalić	2
+Delfin	2
+Demarin	2
+Denegri	2
+Dešpalj	2
+Detoni	2
+Devidé	2
+Diminić	2
+Dimitrijevic	2
+Dizdar	2
+Dobrić	2
+Dobrović	2
+Dodig	2
+Doko	2
+Dolenec	2
+Domazet	2
+Došen	2
+Dragović	2
+Drakulić	2
+Dretar	2
+Dukan	2
+Dukic	2
+Dundović	2
+Duvnjak	2
+Echeverria	2
+Erjavec	2
+Erlić	2
+Esih	2
+Fabris	2
+Fattorini	2
+Ferić	2
+Filipi	2
+Fiorentini	2
+Fischer	2
+Fišer	2
+Frančetić	2
+Freudenreich	2
+Freundlich	2
+Fuchs	2
+Fulgosi	2
+Galjer	2
+Galović	2
+Gamarra	2
+Gamulin	2
+Garma	2
+Gašpar	2
+Gasparac	2
+Gavran	2
+Gjergja	2
+Glamuzina	2
+Goles	2
+Goluža	2
+Gorski	2
+Gović	2
+Grabovac	2
+Graf	2
+Grbavac	2
+Grbić	2
+Grgurević	2
+Grospić	2
+Gross	2
+Guberina	2
+Gulin	2
+Gušić	2
+Gutzmirtl	2
+Halilović	2
+Hebrang	2
+Hegedušić	2
+Heit	2
+Herak	2
+Herman	2
+Hranilović	2
+Hrgović	2
+Huljić	2
+Ivančević	2
+Ivanović	2
+Ivušić	2
+Jagarić	2
+Jagić	2
+Jambrešić	2
+Jandroković	2
+Jeger	2
+Jelić	2
+Jeličić	2
+Jelinek	2
+Ježić	2
+Job	2
+Jovanovic	2
+Jugović	2
+Juka	2
+Jukic	2
+Juratovic	2
+Jurčec	2
+Jurica	2
+Jurina	2
+Jurjević	2
+Jurlina	2
+Kahlina	2
+Kalaus	2
+Kalmeta	2
+Kapitanović	2
+Karabatić	2
+Karačić	2
+Karamarko	2
+Karić	2
+Katalinić	2
+Katic	2
+Kekin	2
+Kirigin	2
+Kiš	2
+Kišerlovski	2
+Klepac	2
+Kljaić	2
+Knez	2
+Kojić	2
+Kolak	2
+Kolar	2
+Kolega	2
+Kolovrat	2
+Komadina	2
+Komljenović	2
+Koščak	2
+Kosić	2
+Kostelac	2
+Kovac	2
+Krajina	2
+Kranjčar	2
+Krežma	2
+Križić	2
+Krizmanić	2
+Krpan	2
+Krstić	2
+Krušelj	2
+Krušlin	2
+Krvavica	2
+Krznarić	2
+Kukoč	2
+Kukuruzović	2
+Kulić	2
+Kupresak	2
+Kušan	2
+Kvrgić	2
+Lacković	2
+Lepen	2
+Lešić	2
+Lesjak	2
+Leskovar	2
+Letica	2
+Ligorio	2
+Linić	2
+Lisak	2
+Lisica	2
+Lisjak	2
+Livaković	2
+Livljanić	2
+Ljubić	2
+Ljutić	2
+Luburić	2
+Lucic	2
+Lukšić	2
+Machiedo	2
+Maglica	2
+Majcen	2
+Majer	2
+Majić	2
+Maloca	2
+Maraš	2
+Maričić	2
+Marijanović	2
+Marin	2
+Marinelli	2
+Marinić	2
+Marinovic	2
+Markić	2
+Marošević	2
+Mates	2
+Matijević	2
+Matošević	2
+Matulić	2
+Mavrović	2
+Mesić	2
+Meštrović	2
+Mihaljevic	2
+Mihaljević	2
+Mikić	2
+Mikuličić	2
+Milas	2
+Milić	2
+Milin	2
+Milinović	2
+Miloš	2
+Milosevic	2
+Milovan	2
+Mimica	2
+Miše	2
+Mišković	2
+Mladenović	2
+Mohorović	2
+Moric	2
+Mornar	2
+Motika	2
+Mršić	2
+Mudrinić	2
+Mühl	2
+Mujanovic	2
+Musa	2
+Mutić	2
+Navojec	2
+Nemec	2
+Nemet	2
+Nikpalj	2
+Nimac	2
+Nola	2
+Norac	2
+Novković	2
+Novoselec	2
+Obad	2
+Obradović	2
+Obratov	2
+Ogresta	2
+Opačak	2
+Opačić	2
+Osmani	2
+Ožbolt	2
+Paar	2
+Paic	2
+Paliska	2
+Paulic	2
+Pavelić	2
+Pavletić	2
+Pejaković	2
+Pender	2
+Pensa	2
+Peričić	2
+Peruzović	2
+Petrak	2
+Petranović	2
+Petrič	2
+Petrinović	2
+Pilić	2
+Pipunić	2
+Pisarović	2
+Planinić	2
+Polak	2
+Politeo	2
+Poljanec	2
+Popadić	2
+Popovic	2
+Posinković	2
+Previšić	2
+Prica	2
+Prohaska	2
+Puhovski	2
+Puljić	2
+Radic	2
+Radin	2
+Radman	2
+Rados	2
+Radotić	2
+Radović	2
+Raguž	2
+Rajcic	2
+Rajković	2
+Rašić	2
+Raspudić	2
+Razum	2
+Rađa	2
+Restović	2
+Richter	2
+Rimac	2
+Robić	2
+Roca	2
+Rodić	2
+Rogic	2
+Rogina	2
+Roglić	2
+Rončević	2
+Rosandić	2
+Roso	2
+Rudan	2
+Rudež	2
+Rundek	2
+Runjić	2
+Ruzic	2
+Šabić	2
+Sain	2
+Šain	2
+Šakić	2
+Salopek	2
+Šalov	2
+Šanjek	2
+Santini	2
+Sarac	2
+Šare	2
+Šarlija	2
+Sasso	2
+Schmidt	2
+Schwarz	2
+Šebalj	2
+Šegvić	2
+Serdarević	2
+Šerić	2
+Sharbini	2
+Šikić	2
+Šimenc	2
+Šimonović	2
+Šimundža	2
+Singer	2
+Sinković	2
+Šipić	2
+Sirotković	2
+Skare	2
+Škaricic	2
+Skelin	2
+Skoko	2
+Škorić	2
+Slamnig	2
+Slišković	2
+Smoje	2
+Smolčić	2
+Smolec	2
+Šnajder	2
+Sobin	2
+Šojat	2
+Sokol	2
+Sorgo	2
+Šoštarić	2
+Srna	2
+Stanic	2
+Staničić	2
+Stankovic	2
+Steiner	2
+Štimac	2
+Stinčić	2
+Štivičić	2
+Stojanovic	2
+Subotić	2
+Sučić	2
+Šuker	2
+Šuman	2
+Šunjić	2
+Surać	2
+Šušak	2
+Sušanj	2
+Sušić	2
+Suton	2
+Švarc	2
+Svrtan	2
+Szabo	2
+Tabak	2
+Talaja	2
+Tanhofer	2
+Terzić	2
+Tkalčec	2
+Tolja	2
+Tomac	2
+Tomašić	2
+Tomčić	2
+Tomic	2
+Tomljenović	2
+Topić	2
+Trehub	2
+Uchytil	2
+Ugrina	2
+Uhlik	2
+Urban	2
+Uzelac	2
+Vajda	2
+Varvodić	2
+Vasilj	2
+Veljačić	2
+Veselica	2
+Vidakovic	2
+Vince	2
+Višnjić	2
+Vitaić	2
+Vlahek	2
+Vlahović	2
+Vrhovac	2
+Vrhovec	2
+Vučetić	2
+Vuckovic	2
+Vuica	2
+Vujić	2
+Vuk	2
+Vukasović	2
+Vukelić	2
+Vukić	2
+Vukman	2
+Vukoje	2
+Vukojević	2
+Vuletić	2
+Vulin	2
+Wild	2
+Zadro	2
+Zalar	2
+Žanko	2
+Žarković	2
+Zebić	2
+Zelenika	2
+Zelić	2
+Zeljković	2
+Žeravica	2
+Žic	2
+Žiljak	2
+Zima	2
+Zorić	2
+Zubac	2
+Zubčić	2
+Zulim	2
+Župarić	2
+Đerek	2
+Đurđević	2
+Abazi
+Abdurahimi
+Aberle
+Adamec
+Adamovic
+Adamović
+Adler
+Adlešič
+Adžija
+Afrić
+Aganović
+Agbaba
+Agić
+Alaga
+Alar
+Albert
+Albrecht
+Aleksa
+Aleksovski
+Alexa
+Alexander
+Alibegović
+Alić
+Alilović
+Alković
+Altaras
+Alves
+Ambroš
+Ambrož
+Andrassy
+Andreis
+Andric
+Andrijanić
+Androić
+Androšić
+Aničić
+Anković
+Antonijevic
+Antonini
+Anzulović
+Anđelić
+Aparac-Jelušić
+Aralica
+Arko
+Arman
+Arnaudovski
+Arsenić
+Arsenović
+Arsić
+Arsovski
+Asanović
+Auf
+Avramov
+Babac
+Babaja
+Baban
+Babără
+Babović
+Bacak
+Baće
+Bach
+Bačič
+Badjuk
+Badrić
+Badrov
+Bagadur
+Bagić
+Bahun
+Bajić
+Bajo
+Bajramović
+Bajuk
+Bakalar
+Bakarić
+Bakula
+Balaban
+Baldini
+Balek
+Balen
+Balentović
+Baletic
+Balic
+Baltic
+Bandić
+Bandov
+Banek
+Banelli
+Banfić
+Banič
+Banja
+Banovic
+Banožić
+Baotić
+Baraban
+Baraković
+Barbalić
+Barbir
+Barcelaj
+Bare
+Bareza
+Baricavac
+Barilla
+Barkovic
+Barlovic
+Bart
+Bartl
+Bartlett
+Bartolazzi
+Bartolec
+Bartolić
+Bartulica
+Barulich
+Barun
+Basariček
+Basic
+Bastianich
+Batina
+Batinić
+Batkovic
+Battifiaca
+Battistella
+Batušić
+Baylon
+Baždarić
+Bazina
+Beara
+Becic
+Beda
+Bedekovic
+Bedeković
+Bednjanec
+Bek
+Beker
+Bekić
+Bel
+Belaj
+Belamaric
+Belan
+Belić
+Belovic
+Bencet
+Benčić
+Beni
+Benini
+Benja
+Benkovic
+Benković
+Berend
+Berić
+Berkovic
+Berković
+Bernardić
+Bertoli
+Bertoša
+Bešker
+Bešlic
+Bete
+Beusan
+Bezjak
+Biankini
+Bibić
+Bifel
+Bijač
+Bilalovic
+Bilanović
+Bilen
+Biljanović
+Bilopavlović
+Birtič
+Bisaku
+Bižaca
+Bjažić
+Bjelanović
+Bjelica
+Bjelinski
+Blagaić
+Blagdan
+Blaskovic
+Blau
+Bobic
+Bod
+Bodrušić
+Bogdanić
+Bogdanovic
+Bogdanovich
+Bogisic
+Bogliun
+Bognár
+Bogner
+Bohanec
+Bojanić
+Bojanovski
+Bojic
+Bojko
+Bojničić
+Bolić
+Boljat
+Boljkovac
+Bolobanić
+Boman
+Bombardelli
+Bonda
+Boric
+Boros
+Borosa
+Bortolazzi
+Borzan
+Bosančić
+Bosch
+Boskovic
+Bošnjaković
+Bota
+Botica
+Botteri
+Bourek
+Boussignac
+Bozan
+Bozanić
+Bozanich
+Bozic
+Božinović
+Bradarić
+Bradić
+Brahm
+Braić
+Braičić
+Braijčić
+Brajnović
+Brandt
+Branković
+Braum
+Braut
+Brčić
+Brečić
+Bregovac
+Bregović
+Bremer
+Breyer
+Brgles
+Brill
+Brine
+Brkanović
+Brkic
+Brkljača
+Brlek
+Brnčič
+Brnjac
+Bručić
+Brun
+Brusić
+Brzeska
+Bubić
+Bučič
+Budicin
+Budiša
+Buić
+Bujas
+Bukovac
+Bukovec
+Bulcsú
+Bulešić
+Bulic
+Bulić
+Bulj
+Buljubašić
+Bulut
+Buneta
+Bunjevac
+Bura
+Burazer
+Burg
+Burger
+Burnać
+Bušlje
+Butala
+Butkovič
+Butturini
+Buturac
+Bužančić
+Bužimski
+Cacic
+Čačinovič
+Cafolla
+Čagalj
+Čajkovski
+Čaklec
+Ćaleta-Car
+Čanađija
+Čandrlić
+Caparin
+Capelli
+Čaplar
+Caratan
+Carević
+Carlevaris
+Carnelutti
+Ćatić
+Catinelli
+Cavallin
+Cavar
+Čavlina
+Cavrić
+Cebalo
+Čehok
+Čekada
+Čeko
+Celic
+Čenić
+Cenov
+Cerin
+Čermák
+Cernogoraz
+Cerović
+Cesar
+Cetinić
+Cetinski
+Cetl
+Chudoba
+Čiča
+Čičak
+Ciganović
+Ciglar
+Cigoj
+Cihlar
+Čimbur
+Cindori
+Cindrić
+Cipra
+Čirjak
+Cizmar
+Čizmić
+Coce
+Cohen
+Čokić
+Colak
+Čolak
+Čolić
+Colonna
+Ćorković
+Ćorluka
+Coronado
+Cosic
+Cossetto
+Crnjac
+Crnobrnja
+Csikós
+Čubrilo
+Cuk
+Ćulibrk
+Čulić
+Culina
+Čupić
+Curic
+Ćurković
+Cutura
+Cuvaj
+Cuzic
+Cuzzi
+Cvek
+Cvetanovic
+Cvetković
+Cvijanović
+Cvitanušić
+Cvitaš
+Cvitešić
+Cvitković
+Cvjetićanin
+Cvjetković
+Cvrtila
+Dabčević
+Dabo
+Dačić
+Dadić
+Dal
+Damaška
+Damjanic
+Damjanov
+Daničić
+Davidović
+Deak
+Debeljuh
+Degen
+Deidda
+Delalle
+Delbianco
+Delic
+Delija
+Delimar
+Delorko
+Demetrović
+Demo
+Denžic
+Derossi
+Despalatović
+Deverić
+Devetak
+Dević
+Devlić
+Dežulović
+Dičak
+Didulica
+Dijak
+Dimšić
+Dinata
+Dini
+Dizdarevic
+Dizdarević
+Djogo
+Djokovic
+Dmitrović
+Dobra
+Dobric
+Dobrila
+Dogan
+Dojkić
+Dokić
+Dokmanović
+Dolic
+Dolinar
+Doma
+Domančič
+Domany
+Dominiković
+Domjan
+Dömötörffy
+Dončić
+Dopuđa
+Dosen
+Dovniković
+Drach
+Draganović
+Dragaš
+Dragčević
+Dragić
+Dragićević
+Dragomanović
+Dragovac
+Drakšić
+Draper
+Drašković
+Drews
+Drmić
+Drnić
+Drosina
+Drvenkar
+Drvodelić
+Dubrovčanin
+Duca
+Duchêne
+Duda
+Dudek
+Dugački
+Dugalić
+Dugandzic
+Dujmić
+Dujmovic
+Dujšin
+Duka
+Dukat
+Dulčić
+Dulić
+Dunda
+Dune
+Duraković
+Durn
+Dvořák
+Dvorneković
+Džamonja
+Džidić
+Džoni
+Ecclestone
+Ećimović
+Eckhel
+Egri
+Ehrlich
+Ekl
+Epstein
+Ergović
+Erker
+Ernst
+Eržišnik
+Eskinja
+Eterović
+Etlinger
+Eyb
+Fabbri
+Faber
+Fabijan
+Fabrio
+Faller
+Fanelli
+Farkaš
+Fatovic
+Fekete
+Feldman
+Feletar
+Ferk
+Ferlin
+Ferluga
+Fernandez
+Fett
+Fiamengo
+Fidri
+Fiket
+Filaković
+Finci
+Fink
+Firić
+Flego
+Fleiss
+Floričić
+Fodor
+Foretić
+Forjan
+Forró
+Fot
+Frajt
+Franca
+Frančić
+Frančič
+Franjic
+Frankopan
+Frankovic
+Franulovic
+Frenkel
+Fribec
+Fritz
+Frleta
+Frntić
+Fućak
+Fuček
+Fülepp
+Furač
+Furdin
+Furlan
+Gabelica
+Gaće
+Gačešić
+Gagro
+Gaiser
+Gal
+Galenić
+Galešić
+Galetović
+Galic
+Galijašević
+Gall
+Galunic
+Gamma
+Gantar
+Garba
+Gardaš
+Garmaz
+Gašić
+Gašparović
+Gasperini
+Gavranić
+Gavrić
+Gazzari
+Genda
+Gener
+Gerbus
+Geršić
+Geršković
+Ghetaldi-Gondola
+Gilbert
+Giovanelli
+Girardi
+Gjoni
+Gjurič
+Glad
+Gladić
+Glavačević
+Glavak
+Glavašević
+Glavich
+Glažar
+Gleich
+Glibota
+Glojnarić
+Glücks
+Gluščević
+Gnjatović
+Godar
+Gogić
+Goić
+Gojković
+Goldner
+Goldscheider
+Golem
+Golijanin
+Goljak
+Golob
+Golub
+Golubenko
+Gorinšek
+Gorup
+Goss
+Gostl
+Gotal
+Gotovina
+Gottstein
+Götz
+Grabar
+Grabarić
+Gračan
+Gračanin
+Gračić
+Gracin
+Grahovac
+Grakalić
+Granić
+Graovac
+Gras
+Grbac
+Grbavica
+Grbic
+Grcic
+Grečl
+Grepo
+Griesbach
+Grill
+Grmek
+Grossmann
+Grozaj
+Grozdanić
+Grubačević
+Grubesic
+Grubor
+Gruden
+Grünbaum
+Grüner
+Gržin
+Guberović
+Gumzej
+Gusic
+Gusić
+Gustin
+Guštin
+Gvardiol
+Haberle
+Habsburg
+Habuš
+Hadzic
+Hadzovic
+Hajdaš
+Hajder
+Hajduk
+Hajnšek
+Hajsig
+Halambek
+Halbauer
+Haler
+Haller
+Hamilton
+Hampel
+Hansell
+Haramija
+Harlow
+Hasanbegović
+Hasanović
+Hauser
+Havel
+Havrilla
+Hebel
+Hechich
+Hećimović
+Hedl
+Hegel
+Heimer
+Hek
+Helbich
+Hendel
+Henigman
+Heraković
+Herjavec
+Herkov
+Heršak
+Hetrich
+Hezonja
+Hill
+Hirschl
+Hirschler
+Hirschmann
+Hitrec
+Hladnik
+Hlavinková
+Hlevnjak
+Hoblaj
+Hodak
+Hodnik
+Hodža
+Hodžić
+Hölbling
+Holoubek
+Holy
+Homar
+Horáček
+Horak
+Horjan
+Horváth
+Horvatin
+Houdek
+Hradil
+Hranić
+Hranj
+Hranuelli
+Hrastić
+Hrelja
+Hrepić
+Hrkac
+Hrštić
+Hrvatin
+Hržić
+Hudec
+Hudolin
+Hujber
+Hulak
+Huml
+Hunjadi
+Hus
+Huzjak
+Ibler
+Ibrahimi
+Idrizi
+Ikica
+Iličić
+Ilinčić
+Imbert
+Ishii
+Ivančan
+Ivancevic
+Ivandic
+Ivandija
+Ivanišin
+Ivanjko
+Ivankovic
+Ivanov
+Ivčić
+Ivetić
+Ivić
+Ivisic
+Ivković
+Jacobi
+Jaganjac
+Jagar
+Jagecic
+Jajetić
+Jakić
+Jakirović
+Jakoliš
+Jakopač
+Jakovčić
+Jakovljevic
+Jakovljević
+Jakševac
+Jambrišak
+Jambrović
+Janeš
+Janić
+Janjić
+Janko
+Jankovics
+Jarak
+Jašić
+Jedvaj
+Jelačić
+Jelčić
+Jelenic
+Jelenković
+Jelic
+Jelovac
+Jelušić
+Jelušič
+Jerant
+Jeremić
+Jerkič
+Jerman
+Jertec
+Jesenković
+Jirsak
+Johansson
+Joka
+Joković
+Joras
+Jordan
+Jordano
+Jorgić
+Joris
+Josipovic
+Jozak
+Jozinović
+Juhn
+Junuzović
+Juran
+Jurcevic
+Juretić
+Juricek
+Jurkas
+Jurkovic
+Jusic
+Jutt
+Kaan
+Kabiljo
+Kačan
+Kajtazi
+Kalajzic
+Kalc
+Kale
+Kalember
+Kallay
+Kalogjera
+Kaloper
+Kamber
+Kanižaj
+Kanjugović
+Kapor
+Kapusta
+Karakas
+Karan
+Karaula
+Kareš
+Karković
+Karlo
+Karlovic
+Karlović
+Karner
+Kašić
+Kasparov
+Kastel
+Kaštelan
+Kasun
+Katančić
+Katanec
+Katičić
+Kató
+Katušić
+Kazesović
+Kečkemet
+Kecman
+Keglević
+Kekić
+Kelemen
+Kempf
+Kendel
+Kenéz
+Kerekeš
+Kero
+Kesar
+Keser
+Keserovic
+Kincl
+Kindl
+Kinzer
+Kipke
+Kirilenko
+Kirillova
+Kirin
+Kirinić
+Klaić
+Klain
+Klein
+Kliman
+Kljaković
+Kljenak
+Klobučar
+Kluk
+Knapp
+Knebl
+Knifer
+Knöll
+Kobeščak
+Kocsis
+Kodrič
+Kodrnja
+Kojic
+Kolaković
+Kolakušić
+Kolaric
+Kolarik
+Kolb
+Kolenc
+Kolešnik
+Koletić
+Kolic
+Kolin
+Koludrović
+Kolveshi
+Komazec
+Komel
+Komenda
+Končar
+Končić
+König
+Konta
+Kontak
+Kopic
+Kopljar
+Koprek
+Korade
+Kordej
+Korent
+Korica
+Korlević
+Korpar
+Kosanovic
+Kosor
+Kosovac
+Kostic
+Kostić
+Kostov
+Kostro
+Košutić
+Kotarac
+Kotarski
+Kotur
+Kovačec
+Kovacic
+Kovačiček
+Kovács
+Ković
+Kovtun
+Kozak
+Kozica
+Kozlovič
+Kožulj
+Kragić
+Krajziger
+Kralj
+Kraljev
+Kraljević
+Kraljić
+Kraljič
+Kramarić
+Kranjc
+Kranjčević
+Kranjec
+Kraševac
+Krasić
+Krasnik
+Kravar
+Krča
+Kregar
+Kreilach
+Krelja
+Kremenjaš
+Kremenović
+Kresinger
+Kričković
+Kristić
+Kristl
+Krištof
+Križ
+Križanec
+Krizman
+Križman
+Krnić
+Krnjevic
+Krovinović
+Krsnik
+Krstanović
+Krstic
+Krstičević
+Krtalić
+Krulčić
+Krulj
+Krunić
+Krupa
+Krušvar
+Kružić
+Kucan
+Kučan
+Kučar
+Kudrna
+Kudryavtsev
+Kuharić
+Kühn
+Kukavica
+Kukic
+Kukić
+Kukuljan
+Kuljiš
+Kulmer
+Kumičić
+Kun
+Kunc
+Kuntarić
+Kuntić-Makvić
+Kupareo
+Kuprešanin
+Kurelec
+Kuret
+Kurjak
+Kurta
+Kurtović
+Kušar
+Kušec
+Kusic
+Kusić
+Kusik
+Kuvačić
+Kuvalja
+Kuzman
+Kuzmic
+Kvaternik
+Labak
+Labar
+Lacko
+Ladika
+Lafayette
+Laforest
+Lago
+Lakic
+Lapenna
+Laslo
+Lauc
+Laura
+Laus
+Lazic
+Lazić
+Lazović
+Leaković
+Lebo
+Lechner
+Ledić
+Lee
+Legenstein
+Leiner
+Lekaj
+Lekic
+Lela
+Lenard
+Lendvaj
+Lenger
+Lentić
+Lepej
+Lerman
+Lesar
+Lesiak
+Lesić
+Letina
+Leto
+Levak
+Levar
+Lhotka
+Liber
+Lichtenegger
+Ličina
+Licul
+Lilić
+Lipovac
+Lisac
+Lisnic
+Livaja
+Ljubek
+Ljubotina
+Ljuština
+Lončarek
+Lonza
+Lopatny
+Losert
+Lovren
+Lovrenčević
+Lovrenović
+Lovric
+Lovrin
+Löwy
+Lozar
+Lozo
+Lubina
+Lukačević
+Lukas
+Luketic
+Lukic
+Lulić
+Lušić
+Lustig
+Maca
+Macan
+Macchi
+Maček
+Machin
+Macner
+Macura
+Macut
+Maďarič
+Majača
+Majdak
+Majerle
+Majetić
+Majic
+Majoli
+Major
+Majstorovičová
+Majstrovičová
+Majurec
+Makovec
+Malacko
+Malbaša
+Malec
+Malekinušić
+Maletić
+Malez
+Malic
+Malinka
+Malkovich
+Mallinger
+Malobabić
+Maloku
+Maly
+Mandarić
+Mandolfo
+Mandžukić
+Manolić
+Marangunic
+Marcan
+Marcinko
+Marcius
+Mardesich
+Marenzzi
+Margitić
+Marinkovic
+Markač
+Markota
+Markovina
+Marks
+Markulin
+Marotti
+Marton
+Marusic
+Marušić
+Mascarelli
+Masic
+Maškoviç
+Maslach
+Masle
+Mastelić
+Matanić
+Matas
+Matejčić
+Matek
+Matijas
+Matišic
+Matoš
+Matoušek
+Matulović
+Matunci
+Matušin
+Matutinović
+Matvejević
+Mavriček
+Mavrin
+Mazar
+Mažuranić
+Mađer
+Medak
+Medaković
+Medar
+Meder
+Medic
+Medić
+Medo
+Medved
+Meglaj
+Meglić
+Mejovšek
+Melada
+Melnjak
+Mesar
+Mesaroš
+Mesic
+Metelko
+Metz
+Metzger
+Mezulić
+Michieli
+Midžić
+Mifka
+Migotti
+Mihajlović
+Mihalic
+Mihaljinec
+Mihanović
+Mihetec
+Mihičić
+Mihoci
+Miholjević
+Mihovilović
+Mijić
+Mikac
+Mikanović
+Mikecin
+Mikulin
+Miladinović
+Milanović
+Milat
+Milčec
+Milešević
+Milevoj
+Milićević
+Milinković
+Milisic
+Milivojević
+Miljanić
+Miljević
+Milosavljević
+Milotič
+Milovanović
+Milović
+Milutin
+Miočić
+Mirković
+Mirošničenko
+Miščević
+Misic
+Mišič
+Misita
+Miskulin
+Mišlov
+Missoni
+Mitar
+Mitchell
+Mitraković
+Mitrofanov
+Mlikota
+Mlinar
+Mlinarić
+Modrič
+Moguš
+Molnár
+Monas
+Moro
+Morpurgo
+Morris
+Moser
+Movčan
+Mravunac
+Mrkonjić
+Mrkšić
+Mrsic
+Mrvica
+Mucci
+Mück
+Mucko
+Muftić
+Muhar
+Mulic
+Muljačić
+Muratović
+Murtić
+Music
+Muslim
+Mustapic
+Mutnjaković
+Mužina
+Nacinovich
+Najev
+Nalis
+Nazor
+Nedić
+Negri
+Neidhardt
+Nekić
+Nenadić
+Nerber
+Neretljak
+Neskusil
+Neuberger
+Neumann
+Nevešćanin
+Nicević
+Nichelson
+Niederle
+Niedzielski
+Nikčević
+Nikić
+Nikolovski
+Ninčević
+Ninić
+Nižetić
+Njavro
+Njerš
+Nobilo
+Nonveiller
+Norris
+Nöthig
+Novakovic
+Novljan
+Novokmet
+Novoselić
+Nušak
+O'Connor
+Obadić
+Obilinović
+Oblak
+Obrovac
+Ocak
+Ocvirek
+Odak
+Ogrizović
+Ojdanić
+Olić
+Olivari
+Olivieri
+Oluić
+Olujić
+Omejec
+Omerbašić
+Opalić
+Opara
+Orbanić
+Oremović
+Oremuš
+Orlic
+Oršanić
+Osibov
+Osmanović
+Ostoić
+Ostojic
+Ostojić
+Othman
+Ožegović
+Padovan
+Pajer
+Pajič
+Pakalović
+Palac
+Palada
+Palaversa
+Palikuča
+Pamić
+Panadić
+Pancer
+Pandur
+Pandžić
+Panić
+Pannonius
+Pantalon
+Pantelić
+Paovic
+Papa
+Papac
+Papak
+Papic
+Papić
+Parać
+Parčina
+Parkhomchuk
+Paro
+Pars
+Parun
+Paša
+Pasini
+Pastorčić
+Patachich
+Patačić
+Pauk
+Pauletta
+Paurević
+Pavela
+Pavelin
+Pavicic
+Pavin
+Pavišić
+Pavlešić
+Pavlic
+Pavlić
+Pavlica
+Pavlinić
+Pavlov
+Pavuna
+Pađen
+Pejčić
+Pek
+Pelc
+Pelivan
+Pende
+Penezić
+Peović
+Pepic
+Pera
+Peračić
+Peran
+Perec
+Perenčević
+Perešin
+Peric
+Perišić
+Perišin
+Perko
+Perkovac
+Perkovic
+Peročević
+Perošević
+Perović
+Peršič
+Perusic
+Pesut
+Peter
+Peternel
+Petko
+Petričević
+Petricioli
+Petrin
+Petrina
+Petrov
+Petty
+Petz
+Pezdirc
+Pezelj
+Pezo
+Phloiotrya piliventris
+Picinic
+Picula
+Pierobon
+Pinkava
+Pintarić
+Pinter
+Piria
+Pišek
+Pivarić
+Pivčević
+Pivec
+Pjaca
+Planić
+Planinc
+Plavšić
+Plejić
+Pleše
+Pletikosa
+Pletikosić
+Plevnik
+Plum
+Podgajski
+Podrug
+Pogačnik
+Pogorelić
+Pointner
+Pokrajac
+Pokrivač
+Pokupić
+Polić
+Poljac
+Porobic
+Poropat
+Posavac
+Potočnjak
+Požar
+Poznanović
+Pralija
+Pranić
+Prantl
+Prelog
+Premec
+Preradović
+Presečki
+Prester
+Prijatelj
+Prlender
+Prochazka
+Prodan
+Proleta
+Prosinečki
+Proštenik
+Prtajin
+Prudeus
+Puc
+Pucar
+Pudar
+Puhalo
+Pukanić
+Puklavec
+Pulisic
+Puljak
+Punčec
+Pupovac
+Purišić
+Pusić
+Pušić
+Puškarić
+Pustijanac
+Putić
+Putnik
+Puttar-Gold
+Puzar
+Puzić
+Rabfeld
+Rabić
+Rabuzin
+Račan
+Racki
+Radakovic
+Radaljac
+Radanović
+Radeljak
+Radenković
+Radetić
+Radišič
+Radmanović
+Radonjić
+Radovanović
+Rajčić
+Rajka
+Rak
+Rakitić
+Rakovac
+Raković
+Raos
+Rasic
+Rašica
+Ravlić
+Razov
+Reberski
+Rebić
+Rede
+Rehak
+Rein
+Reiner
+Reiser
+Reisinger
+Rekettye
+Rem
+Renaud
+Rendić
+Rendulic
+Renič
+Rešetnik
+Ressler
+Ribar
+Ribičič
+Ridjan
+Rigo
+Rihtar
+Riman
+Rismondo
+Ristić
+Rivić
+Roban
+Ročak
+Rodek
+Rodionova
+Rog
+Rogić
+Rogin
+Rogulja
+Rohatinski
+Romanic
+Romaniello
+Roskam
+Rosso
+Rostohar
+Rothmüller
+Rozga
+Rožić
+Rubinstein
+Ručević
+Rudelić
+Rudić
+Rudolf
+Rugašević
+Ruidíaz
+Rumac
+Rupcic
+Rupčić
+Rupnik
+Rušinović
+Rusjan
+Ružič
+Šaban
+Sabic
+Sablić
+Sabo
+Sabolić
+Sabolović
+Sadaić
+Safradin
+Sagner
+Šagolj
+Sajin
+Sajko
+Sakač
+Salaj
+Šalamon
+Šalinović
+Salis
+Samardzic
+Samardžija
+Sambol
+Sandes
+Šapina
+Šarac
+Saračević
+Saraga
+Šarčević
+Sare
+Šarinić
+Sarlija
+Šašić
+Šaško
+Savic
+Savićević
+Šavor
+Sałek
+Schiffler
+Schildenfeld
+Schönauer
+Schubert
+Scobie
+Ščrbačić
+Seba
+Seder
+Sedlaček
+Sedlar
+Segedi
+Šegrt
+Seidenfeld
+Seifert
+Šeks
+Sekulic
+Selaković
+Selem
+Šeler
+Seligman
+Senčar
+Šenkovski
+Serdar
+Šerfezi
+Seršić
+Shaft
+Šijan
+Sijerković
+Sikavica
+Šikovec
+Šiljak
+Šilje
+Šiljeg
+Silobrčić
+Silva
+Simak
+Šimara
+Šimek
+Simic
+Simić
+Šimičić
+Simon
+Simonetti
+Šimunić
+Sinčić
+Šipek
+Sipos
+Šipuš
+Sirola
+Širola
+Sirotič
+Šišić
+Šitić
+Sivec
+Skansi
+Škarica
+Skeledžić
+Skeledžija
+Škerjanc
+Skevin
+Skoblar
+Skočić
+Skok
+Školník
+Skopal
+Skoric
+Škoro
+Škrabić
+Škrinjarić
+Škugor
+Škvorc
+Škvorčević
+Slabinac
+Sladović
+Slavic
+Slaviček
+Šlogar
+Slomovic
+Šlomovič
+Sluga
+Slunjski
+Smareglia
+Smerdelj
+Šmíd
+Smith
+Smodlaka
+Smoljan
+Smrekar
+Šober
+Sobot
+Šohaj
+Sokač
+Sokić
+Sokolović
+Sola
+Šolc
+Soldić
+Solic
+Solman
+Sorić
+Sorkočević
+Sosa
+Šoštarič
+Souček
+Spaić
+Spajić
+Špan
+Špegelj
+Špehar
+Špigel
+Špiljak
+Špišić
+Spitzmuller
+Špoljarec
+Špoljarić
+Šprajc
+Špralja
+Srb
+Srebocan
+Sršen
+Šrut
+Stadler
+Stahuljak
+Štajner
+Stamać
+Stančić
+Stane
+Stanić
+Stanišić
+Stantic
+Stark
+Štefan
+Stefanac
+Štefanac
+Štefanić
+Stefanini
+Stefanovič
+Štefok
+Štengl
+Stepančič
+Stepanić
+Stepinac
+Sterc
+Sterle
+Stern
+Števčić
+Štiglec
+Štimec
+Stipac
+Stipančević
+Stipaničev
+Stipčević
+Stipetić
+Stipković
+Stjepanović
+Stockton
+Stojanov
+Stojčević
+Stojić
+Stojkovski
+Stolac
+Stolar
+Storić
+Stošić
+Strčić
+Strinić
+Štrlek
+Štrljić
+Strmac
+Strmole
+Strnad
+Subašić
+Sucic
+Šugar
+Suhodolčan
+Šuica
+Sukno
+Šulekić
+Sulić
+Suljic
+Sunara
+Šundov
+Supek
+Šupuk
+Šuput
+Šurbek
+Surina
+Šurina
+Sušac
+Susic
+Šušić
+Šuta
+Sutara
+Šutej
+Šuvar
+Suver
+Švacov
+Švec
+Svečnjak
+Svilar
+Swartz
+Tadijanović
+Talajić
+Tanković
+Tapalović
+Taraba
+Tarbuk
+Tartaglia
+Tešija
+Thaqi
+Tihomirović
+Tijan
+Tilley
+Tkalčević
+Tkalčić
+Todorović
+Todorovski
+Tolo
+Tomasevich
+Tomljanović
+Tomsic
+Tončić-Sorinj
+Torbarina
+Tosic
+Tot
+Tóth
+Trajkov
+Trauber
+Travica
+Travirka
+Trbović
+Trgovac
+Trifunović
+Tripalo
+Trstenjak
+Truhelka
+Trumbić
+Tubić
+Tucak
+Tucaković
+Tucan
+Tućan
+Turic
+Turina
+Turkovic
+Turšič
+Turudić
+Tušek
+Udovičić
+Ugrešić
+Ugrin
+Ujević
+Ulman
+Ulrich
+Urošević
+Uskoković
+Uvodic
+Vaillant
+Vainshtein
+Vajdić
+Valenta
+Valentic
+Vandekar
+Vaništa
+Vasić
+Vasiljević
+Váss
+Vatsel
+Vavra
+Vecchi
+Večenaj
+Vedlin
+Vegar
+Vejnović
+Vejzović
+Velebit
+Velkovska
+Venturin
+Veraja
+Verbanac
+Vereš
+Verlichak
+Verona
+Verson
+Verzotti
+Vezilić
+Vičević
+Viculin
+Vidaić
+Vidak
+Vidic
+Vidošević
+Vidušić
+Vikić
+Viktorov
+Vinski
+Violich
+Virius
+Visković
+Visser
+Vitali
+Vitas
+Vitasović
+Vladić
+Vlah
+Vlajki
+Vlajo
+Vlaović
+Vlatković
+Voća
+Vodanovic
+Vodopija
+Vodopivec
+Vojinović
+Vojtek
+Vorkapić
+Vorobeva
+Vovk
+Vrandečić
+Vranic
+Vranješ
+Vratarić
+Vrbičić
+Vrbnjak
+Vresk
+Vrgoč
+Vrinjanin
+Vrlić
+Vrvilo
+Vučak
+Vučević
+Vucic
+Vučković
+Vučurović
+Vugrinec
+Vujanović
+Vujević
+Vujičić
+Vukas
+Vukčević
+Vukelich
+Vukic
+Vukovic
+Vuletic
+Waldgoni
+Weber
+Weiland
+Weissgerber
+Willer
+Winter
+Wolf
+Wranka
+Würth
+Yelich
+Zadel
+Zadravec
+Zafranović
+Zagorac
+Zahora
+Žakula
+Žalac
+Zalepugin
+Zamernik
+Zanic
+Žanić
+Zanki
+Zdenjak
+Zečević
+Zečić
+Zečković
+Zekić
+Zellous
+Žerjavić
+Zgrablić
+Zidić
+Zigante
+Ziger
+Žigić
+Zigman
+Zilic
+Zimonić
+Živulić
+Žižić
+Zlokić
+Zlomislić
+Žmegač
+Žnidarić
+Zoričić
+Žorž
+Zrilić
+Zrnic
+Zrnić
+Zubak
+Zuban
+Zuber
+Zubić
+Žufić
+Žugaj
+Žugčić
+Žugec
+Žukovski
+Žuljević
+Zunic
+Žunić
+Zupan
+Zupancic
+Župančić
+Župančič
+Županov
+Žuvela
+Žuža
+Žužul
+Zvizdić
+Žvorc
+Zvrko
+Đokić
+Đorđević
+Đuranec
+Đuranović
+Đurasek
+Đurek
+Đurić
+Đurkinjak

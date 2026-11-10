@@ -1,0 +1,5000 @@
+Myllyoja	323
+Myllypuro	251
+Välijoki	171
+Kivipuro	139
+Myllyjoki	139
+Kivioja	95
+Kylmäpuro	92
+Mustapuro	84
+Pahaoja	73
+Kylmäoja	66
+Mustaoja	66
+Välioja	66
+Syväoja	59
+Tervapuro	59
+Kortepuro	54
+Haarapuro	52
+Välipuro	52
+Koirapuro	51
+Vehkapuro	51
+Alajoki	50
+Haukipuro	48
+Heinäjoki	48
+Särkipuro	48
+Korteoja	46
+Heinäpuro	44
+Rajapuro	44
+Ahvenoja	42
+Pahapuro	42
+Ruostepuro	42
+Särkioja	41
+Hanhioja	40
+Iso-oja	40
+Kaivosoja	40
+Joutenpuro	39
+Ruunapuro	39
+Hanhipuro	37
+Kalliopuro	37
+Leväpuro	36
+Teeripuro	36
+Hepopuro	35
+Korvenoja	35
+Honkapuro	34
+Karhuoja	34
+Pajupuro	34
+Riihipuro	34
+Saukko-oja	34
+Tervajoki	34
+Mustajoki	33
+Pirttipuro	33
+Sammakkopuro	33
+Vehkaoja	33
+Hangasoja	32
+Lehmipuro	32
+Karhupuro	31
+Löytöpuro	31
+Pajuoja	31
+Palojoki	31
+Saaripuro	31
+Kotipuro	30
+Kuikkapuro	30
+Matopuro	30
+Palopuro	30
+Saukkopuro	30
+Koivupuro	29
+Pahkapuro	29
+Pihlajapuro	29
+Katajapuro	28
+Koivuoja	28
+Palo-oja	28
+Pikkuoja	28
+Syrjäoja	28
+Hepo-Oja	27
+Kivijoki	27
+Koiraoja	27
+Saarijoki	27
+Syrjäpuro	27
+Isojoki	26
+Kangaspuro	26
+Kruununoja	26
+Louhipuro	26
+Mato-Oja	26
+Ukonpuro	26
+Heinäoja	25
+Hoikanpuro	25
+Konttipuro	25
+Lamminoja	25
+Leppipuro	25
+Savioja	25
+Savipuro	25
+Sikapuro	25
+Vähäjoki	25
+Heinipuro	24
+Heteoja	24
+Hirvioja	24
+Kotaoja	24
+Lammasoja	24
+Ruosteoja	24
+Sammaloja	24
+Särkijoki	24
+Tervaoja	24
+Alhonoja	23
+Kokkopuro	23
+Rytioja	23
+Soidinpuro	23
+Kohisevanpuro	22
+Sikopuro	22
+Haukioja	21
+Hietapuro	21
+Leppäpuro	21
+Leväjoki	21
+Mäntypuro	21
+Suojoki	21
+Tuomioja	21
+Haapaoja	20
+Haarajoki	20
+Hallapuro	20
+Hietaoja	20
+Hirvasoja	20
+Järvenoja	20
+Murtopuro	20
+Peuraoja	20
+Peurapuro	20
+Vähäoja	20
+Ylijoki	20
+Kuohunpuro	19
+Lehtopuro	19
+Rajaoja	19
+Ristipuro	19
+Rytipuro	19
+Salmipuro	19
+Sammalpuro	19
+Saunapuro	19
+Siikajoki	19
+Vääräjoki	19
+Heinijoki	18
+Hietajoki	18
+Hirvipuro	18
+Järvioja	18
+Kallio-oja	18
+Kutuoja	18
+Lehmioja	18
+Leppioja	18
+Mustanpuro	18
+Paskapuro	18
+Petäjäpuro	18
+Rajajoki	18
+Ruonaoja	18
+Sahinjoki	18
+Tuomipuro	18
+Haapajoki	17
+Haapapuro	17
+Haaraoja	17
+Haukijoki	17
+Korpijoki	17
+Korpipuro	17
+Kuusioja	17
+Lauttapuro	17
+Raatepuro	17
+Ruonanoja	17
+Siltapuro	17
+Syväpuro	17
+Hangaspuro	16
+Härköpuro	16
+Honkajoki	16
+Kissapuro	16
+Kuohupuro	16
+Kurkipuro	16
+Lahnajoki	16
+Paskopuro	16
+Petäjäoja	16
+Purnuoja	16
+Sahinpuro	16
+Salmijoki	16
+Sarvioja	16
+Sarvipuro	16
+Ukonoja	16
+Viitapuro	16
+Ahvenpuro	15
+Heinioja	15
+Hirvijoki	15
+Juurikkapuro	15
+Kalliojoki	15
+Kangasoja	15
+Kolunoja	15
+Kotajoki	15
+Peräoja	15
+Pirttioja	15
+Saarioja	15
+Saunaoja	15
+Säynäjäjoki	15
+Teerioja	15
+Valkeispuro	15
+Ahmaoja	14
+Äijänoja	14
+Hoikanjoki	14
+Honkaoja	14
+Kaitaoja	14
+Katajaoja	14
+Kiiskioja	14
+Kortejoki	14
+Koskenoja	14
+Kotapuro	14
+Kotijoki	14
+Kvarnbäcken	14
+Lapinoja	14
+Mätäspuro	14
+Pajujoki	14
+Syväjoki	14
+Tammapuro	14
+Vasikkapuro	14
+Ylioja	14
+Hanhijoki	13
+Heinälamminpuro	13
+Huhdanoja	13
+Hukkapuro	13
+Joutenjoki	13
+Kalajoki	13
+Kettupuro	13
+Kolisevanpuro	13
+Korpioja	13
+Kotioja	13
+Lapinpuro	13
+Leppäoja	13
+Leväoja	13
+Majavaoja	13
+Paskaoja	13
+Pasko-oja	13
+Rautuoja	13
+Salmioja	13
+Säynäjäoja	13
+Siikapuro	13
+Törisevänpuro	13
+Vanhajoki	13
+Viitaoja	13
+Härkäpuro	12
+Hautaoja	12
+Hetepuro	12
+Hevosoja	12
+Jänispuro	12
+Kiimaoja	12
+Koirajoki	12
+Koivistonoja	12
+Koivujoki	12
+Kontiopuro	12
+Kurjenoja	12
+Lähdeoja	12
+Lammaspuro	12
+Murto-oja	12
+Näätäoja	12
+Pirttijoki	12
+Pyhäjoki	12
+Riitapuro	12
+Ruokopuro	12
+Savijoki	12
+Sirkkapuro	12
+Vääräoja	12
+Vuoripuro	12
+Ahvenjoki	11
+Aittopuro	11
+Ämmänoja	11
+Jänisoja	11
+Kaltio-oja	11
+Kivijärvenoja	11
+Kuusijoki	11
+Latvajoki	11
+Lehto-oja	11
+Likopuro	11
+Lintuoja	11
+Lohioja	11
+Lohipuro	11
+Mäntyjoki	11
+Mäntyoja	11
+Mätäsoja	11
+Niittypuro	11
+Papinoja	11
+Pienijoki	11
+Pienipuro	11
+Pihlajaoja	11
+Rimpipuro	11
+Salapuro	11
+Saukonoja	11
+Taipaleenjoki	11
+Tunturioja	11
+Tuohioja	11
+Tuohipuro	11
+Vääräpuro	11
+Varispuro	11
+Varpuoja	11
+Vasikkaoja	11
+Eteläjoki	10
+Haanoja	10
+Hautapuro	10
+Hevospuro	10
+Itäpuro	10
+Kaijanpuro	10
+Kalaoja	10
+Kattilaoja	10
+Kirvespuro	10
+Kivisenoja	10
+Kokko-oja	10
+Latvaoja	10
+Mustikkapuro	10
+Pahkaoja	10
+Petäjäjoki	10
+Pohjoispuro	10
+Puukkopuro	10
+Rautapuro	10
+Sahijoki	10
+Siikaoja	10
+Sulaoja	10
+Sulunoja	10
+Suurijoki	10
+Takaoja	10
+Vehkajoki	10
+Venejoki	10
+Vesioja	10
+Akanpuro	9
+Alaoja	9
+Haapopuro	9
+Haaranoja	9
+Heinoja	9
+Joutenoja	9
+Kalettomanpuro	9
+Kangasjoki	9
+Kapustapuro	9
+Karsikkopuro	9
+Kirvesoja	9
+Koluoja	9
+Kontiojoki	9
+Koukopuro	9
+Kukkopuro	9
+Kurkioja	9
+Kurunoja	9
+Kusioja	9
+Kusipuro	9
+Kylmäjoki	9
+Lahdenoja	9
+Lahnaoja	9
+Lamminpuro	9
+Lapinjoki	9
+Mämmioja	9
+Niinioja	9
+Niskaoja	9
+Nuottipuro	9
+Pikkujoki	9
+Poro-oja	9
+Pulkkaoja	9
+Repopuro	9
+Ristioja	9
+Sahinoja	9
+Salmenoja	9
+Siltajoki	9
+Storbäcken	9
+Suopuro	9
+Telkkäpuro	9
+Tyrynoja	9
+Vääränjoki	9
+Vasaoja	9
+Vihtapuro	9
+Viitajoki	9
+Yläjoki	9
+Alapuro	8
+Antinoja	8
+Aronoja	8
+Autiopuro	8
+Harrijoki	8
+Harrioja	8
+Hiiripuro	8
+Itäjoki	8
+Itäoja	8
+Käärmeoja	8
+Kalapuro	8
+Kankaanoja	8
+Kaupinoja	8
+Kivikkopuro	8
+Kiviluoma	8
+Kohiseva	8
+Kolisevanoja	8
+Kuivaoja	8
+Kutujoki	8
+Kylänoja	8
+Lassinoja	8
+Lehdonoja	8
+Lehmijoki	8
+Lintupuro	8
+Löytöjoki	8
+Luomanoja	8
+Makkaraoja	8
+Matarapuro	8
+Matinoja	8
+Mikonoja	8
+Mustinpuro	8
+Niskapuro	8
+Nuolipuro	8
+Nuottioja	8
+Ollinoja	8
+Paanneoja	8
+Peräpuro	8
+Pitkäpuro	8
+Purnupuro	8
+Raatejoki	8
+Rasinoja	8
+Riihijoki	8
+Riihioja	8
+Riitaoja	8
+Riuttapuro	8
+Ruunajoki	8
+Ruununoja	8
+Salmenjoki	8
+Saunajoki	8
+Sillanoja	8
+Susipuro	8
+Syrjäjoki	8
+Tavioja	8
+Tavipuro	8
+Tuomijoki	8
+Aavanoja	7
+Aluspuro	7
+Angerpuro	7
+Eteläoja	7
+Haisuoja	7
+Hakopuro	7
+Härkäoja	7
+Haukilamminoja	7
+Havukkapuro	7
+Heikinoja	7
+Heinälamminoja	7
+Heiniluoma	7
+Heinjoki	7
+Humalajoki	7
+Ilvespuro	7
+Joutsenoja	7
+Jouttioja	7
+Karioja	7
+Kärpänoja	7
+Kattilapuro	7
+Keihäsoja	7
+Kellojoki	7
+Kellopuro	7
+Kettuoja	7
+Kivisillanoja	7
+Kolkonjoki	7
+Kolkonpuro	7
+Konttijoki	7
+Korvenpuro	7
+Koskenjoki	7
+Koskutjoki	7
+Koukkuoja	7
+Kukkaropuro	7
+Kummunpuro	7
+Kuoppaoja	7
+Kyrönpuro	7
+Latvapuro	7
+Laukkupuro	7
+Lauttaoja	7
+Lillån	7
+Lomaoja	7
+Löytöoja	7
+Luhdanoja	7
+Luomaoja	7
+Lylypuro	7
+Maijanoja	7
+Maitopuro	7
+Matalajoki	7
+Mossabäcken	7
+Muotkaoja	7
+Murronoja	7
+Murtojoki	7
+Mustanjoki	7
+Mustijoki	7
+Näätäpuro	7
+Nilioja	7
+Oripuro	7
+Pahajoki	7
+Papinpuro	7
+Paskonpuro	7
+Pesäpuro	7
+Petronpuro	7
+Polvijoki	7
+Porttioja	7
+Porttipuro	7
+Putaanoja	7
+Rautaoja	7
+Ruuhioja	7
+Sammakko-oja	7
+Särkkäpuro	7
+Sarviluoma	7
+Saukkojoki	7
+Siko-oja	7
+Storängsbäcken	7
+Sulkupuro	7
+Uuronpuro	7
+Vääränpuro	7
+Valtaoja	7
+Vitsaoja	7
+Aittaoja	6
+Aitto-oja	6
+Hakojoki	6
+Halmepuro	6
+Haukkaoja	6
+Heinäjängänoja	6
+Hiidenjoki	6
+Hirsipuro	6
+Hirvasjoki	6
+Hirvaspuro	6
+Hoikkaoja	6
+Holinpuro	6
+Holmanoja	6
+Huttupuro	6
+Isonsuonoja	6
+Jaakonpuro	6
+Jänisjoki	6
+Jatkonpuro	6
+Juntinpuro	6
+Juurikkajoki	6
+Juurikkaoja	6
+Käärmepuro	6
+Kaihlajoki	6
+Kaihlapuro	6
+Kaivanto	6
+Kaivopuro	6
+Kanto-oja	6
+Karjopuro	6
+Karkupuro	6
+Kello-oja	6
+Kenttäoja	6
+Kirakkaoja	6
+Kirkkojoki	6
+Kivinenoja	6
+Koiripuro	6
+Kokonoja	6
+Koppelo-oja	6
+Koppelopuro	6
+Kortesuonoja	6
+Kosenoja	6
+Kuikkaoja	6
+Kuoppapuro	6
+Kuusipuro	6
+Kuusivaaranoja	6
+Kyläjoki	6
+Kylmänoja	6
+Kyrönoja	6
+Kytöoja	6
+Lavaoja	6
+Leppäjoki	6
+Leppoja	6
+Leväsenjoki	6
+Likapuro	6
+Liuhanpuro	6
+Lohijoki	6
+Lössänpuro	6
+Louhenjoki	6
+Loukasoja	6
+Luokkipuro	6
+Lylyjoki	6
+Lylyoja	6
+Majavajoki	6
+Mäkipuro	6
+Makkarapuro	6
+Matalanpuro	6
+Matojoki	6
+Multapuro	6
+Multipuro	6
+Mustinjoki	6
+Mutaoja	6
+Nälkäoja	6
+Niemisjoki	6
+Nuottijoki	6
+Ollinpuro	6
+Pääpuro	6
+Pahakalanpuro	6
+Pahtajoki	6
+Paskoja	6
+Pässipuro	6
+Peuropuro	6
+Pihtioja	6
+Pikkupuro	6
+Pitkäjärvenoja	6
+Pitkäjoki	6
+Pitkäoja	6
+Pohjajoki	6
+Pönkäpuro	6
+Porrasoja	6
+Pukinoja	6
+Pukkipuro	6
+Puruoja	6
+Puukko-oja	6
+Raateoja	6
+Raatopuro	6
+Raiskionpuro	6
+Rasinpuro	6
+Rimminpuro	6
+Roavvejohka	6
+Ruokojoki	6
+Ryönänpuro	6
+Saaranoja	6
+Sääskioja	6
+Sadinoja	6
+Salakkajoki	6
+Salmilamminoja	6
+Salmisenpuro	6
+Sarvijoki	6
+Sepänoja	6
+Siltaoja	6
+Someroja	6
+Sorronoja	6
+Suolamminpuro	6
+Susioja	6
+Taimenoja	6
+Takkuoja	6
+Talasjoki	6
+Talaspuro	6
+Talkkunapuro	6
+Tikanpuro	6
+Träskbäcken	6
+Tulipuro	6
+Tynnyrioja	6
+Tyräpuro	6
+Uitonoja	6
+Ulkuoja	6
+Uudenjängänoja	6
+Uusijoki	6
+Valkeisenpuro	6
+Vanhaoja	6
+Varpupuro	6
+Varsapuro	6
+Vehkaluoma	6
+Vellipuro	6
+Verkkopuro	6
+Viidanoja	6
+Vinsanoja	6
+Aittojoki	5
+Akanoja	5
+Akonjoki	5
+Aro-Oja	5
+Enojoki	5
+Haarainoja	5
+Haisunoja	5
+Hamppupuro	5
+Hangasjoki	5
+Häntäpuro	5
+Harjunjoki	5
+Harjunoja	5
+Härkäjoki	5
+Havupuro	5
+Heinäsuonpuro	5
+Heinisuonoja	5
+Hepojoki	5
+Hiekkapuro	5
+Hirviluoma	5
+Honkioja	5
+Huhtaoja	5
+Humalapuro	5
+Humaloja	5
+Isonkorvenoja	5
+Jänesoja	5
+Jousipuro	5
+Julmanpuro	5
+Jussinpuro	5
+Juurakko-oja	5
+Jyrkänoja	5
+Jyrkänpuro	5
+Jyrkkäpuro	5
+Kaakkopuro	5
+Kaarreoja	5
+Kaijanoja	5
+Karankapuro	5
+Karhujoki	5
+Karijoki	5
+Karjupuro	5
+Kärppäoja	5
+Kauhajoki	5
+Keino-oja	5
+Kiimapuro	5
+Kissanoja	5
+Kivalonoja	5
+Kivikko-oja	5
+Kivisoja	5
+Kohisevanjoki	5
+Koivuluoma	5
+Kokkojoki	5
+Kokonpuro	5
+Kolisevanjoki	5
+Konioja	5
+Korppioja	5
+Kulvepuro	5
+Kumpuoja	5
+Kumpupuro	5
+Kurjenjoki	5
+Kuusenoja	5
+Kuusjoki	5
+Kylänjoki	5
+Kypäräpuro	5
+Kytöpuro	5
+Lahnapuro	5
+Laukkuoja	5
+Lautapuro	5
+Lauttajoki	5
+Lauttasoja	5
+Lehtolamminpuro	5
+Levänoja	5
+Lillbäcken	5
+Lokkipuro	5
+Lomanpuro	5
+Louhenpuro	5
+Luhtaoja	5
+Luhtapuro	5
+Lumipuro	5
+Lummepuro	5
+Luomajoki	5
+Majapuro	5
+Matkusjoki	5
+Murronjoki	5
+Mustanlamminpuro	5
+Mustanoja	5
+Mustjoki	5
+Mustonoja	5
+Myllyluoma	5
+Niemenjoki	5
+Nuolioja	5
+Oinaspuro	5
+Oravaoja	5
+Oravijoki	5
+Oravipuro	5
+Pääjoki	5
+Pääoja	5
+Paavonoja	5
+Päkinoja	5
+Palovaaranoja	5
+Pato-oja	5
+Pentinpuro	5
+Peräjoki	5
+Perkiönoja	5
+Piilopuro	5
+Pitkänlamminpuro	5
+Pitkänpuro	5
+Pitkänsillanoja	5
+Pohjapuro	5
+Pölkkypuro	5
+Polvipuro	5
+Porkkaoja	5
+Portinoja	5
+Puolivälinoja	5
+Puronoja	5
+Puuro-oja	5
+Pyypuro	5
+Raiviopuro	5
+Rautujoki	5
+Rimminoja	5
+Ritaoja	5
+Rito-oja	5
+Rovaoja	5
+Ruuhipuro	5
+Ruunaoja	5
+Saarenoja	5
+Sahaoja	5
+Salmijärvenoja	5
+Selkäinoja	5
+Sivakkaoja	5
+Sivakkapuro	5
+Sotkujoki	5
+Surmapuro	5
+Suurensuonpuro	5
+Svartbäcken	5
+Sydänmaanpuro	5
+Syrjänpuro	5
+Takkupuro	5
+Talvipuro	5
+Teyripuro	5
+Tiaispuro	5
+Tikkapuro	5
+Tuhkurinoja	5
+Tulijoki	5
+Tulioja	5
+Vaaranoja	5
+Vaaraoja	5
+Vähänjärvenoja	5
+Varsanoja	5
+Vattupuro	5
+Vehkoja	5
+Veitsioja	5
+Veneoja	5
+Vihtajoki	5
+Viinapuro	5
+Virtaoja	5
+Visaoja	5
+Vuorijoki	5
+Yläpuro	5
+Yrttipuro	5
+Ahmasoja	4
+Ahvenispuro	4
+Akonpuro	4
+Anninpuro	4
+Autiojoki	4
+Dápmotjohka	4
+Erkinpuro	4
+Goahtája	4
+Haapo-oja	4
+Haisevanoja	4
+Halkopuro	4
+Halmejoki	4
+Hamarapuro	4
+Hämeenoja	4
+Hämeenpuro	4
+Hankapuro	4
+Hannunoja	4
+Harakkapuro	4
+Haravapuro	4
+Harjapuro	4
+Härkoja	4
+Harripuro	4
+Haukijärvenoja	4
+Haukkaluoma	4
+Hautajoki	4
+Hautaluoma	4
+Herajoki	4
+Hernepuro	4
+Hevonoja	4
+Hiidenpuro	4
+Hiirioja	4
+Hiisijoki	4
+Hiisioja	4
+Hirsioja	4
+Hirvenoja	4
+Hoikkajoki	4
+Hoikkapuro	4
+Holisevanoja	4
+Hörhänoja	4
+Housuoja	4
+Housupuro	4
+Höylänoja	4
+Hukkajoki	4
+Hukkaoja	4
+Hyttipuro	4
+Hyväjoki	4
+Ilvesjoki	4
+Isoluoma	4
+Isonnevanoja	4
+Isonniitunoja	4
+Isopuro	4
+Joutsenjoki	4
+Junkioja	4
+Juponoja	4
+Jupukanoja	4
+Kaakkurioja	4
+Kaatiopuro	4
+Kaijanjoki	4
+Kaikopuro	4
+Kaivannonoja	4
+Käkipuro	4
+Kalinoja	4
+Kallaanoja	4
+Kanapuro	4
+Kangaslamminpuro	4
+Kantojoki	4
+Kapustaoja	4
+Karhunoja	4
+Karjo-oja	4
+Kärmeoja	4
+Karvapuro	4
+Katosoja	4
+Kattilajoki	4
+Kauhaoja	4
+Keltaoja	4
+Keskijoki	4
+Kilpijoki	4
+Kirnupuro	4
+Kohisovanpuro	4
+Koistisenpuro	4
+Kokalmusoja	4
+Kokonjoki	4
+Kolunjoki	4
+Könkäänoja	4
+Konttioja	4
+Koppelojoki	4
+Kortteenoja	4
+Koskelanoja	4
+Kottioja	4
+Kuivajoki	4
+Kuljunoja	4
+Kultaoja	4
+Kultapuro	4
+Kummunjoki	4
+Kuolajoki	4
+Kuoreoja	4
+Kuorepuro	4
+Kuorinkioja	4
+Kurikkaoja	4
+Kurikkapuro	4
+Kuruoja	4
+Laajanpuro	4
+Lahdenjoki	4
+Lähdepuro	4
+Lähdesoja	4
+Lähteenoja	4
+Laihanpuro	4
+Lakkioja	4
+Latvanjoki	4
+Laukkujoki	4
+Laurinoja	4
+Lautaoja	4
+Lehtojoki	4
+Letkunoja	4
+Levonoja	4
+Liejuoja	4
+Liesjoki	4
+Liinoja	4
+Likojoki	4
+Linnanpuro	4
+Lintujoki	4
+Lismajoki	4
+Lomapuro	4
+Lompolo-oja	4
+Lompolojoki	4
+Losopuro	4
+Loukkupuro	4
+Loukonoja	4
+Löytöjängänoja	4
+Luhtajoki	4
+Lumijoki	4
+Luomanjoki	4
+Luotopuro	4
+Maaselänpuro	4
+Maito-oja	4
+Männistönoja	4
+Mäntymaanoja	4
+Marjopuro	4
+Mätäsjoki	4
+Matoluoma	4
+Mäyränoja	4
+Mertapuro	4
+Murronpuro	4
+Mustalaispuro	4
+Myllykoski	4
+Myllypuru	4
+Nahkiaisoja	4
+Naurispuro	4
+Navettaoja	4
+Nevanoja	4
+Niemenoja	4
+Niittyjoki	4
+Niittyoja	4
+Nimetönoja	4
+Noronpuro	4
+Nurmijoki	4
+Nurmipuro	4
+Oinasjoki	4
+Ojajärvenoja	4
+Ojalanoja	4
+Orioja	4
+Outojoki	4
+Pahanlamminpuro	4
+Pahasoja	4
+Pahkajoki	4
+Pahtaoja	4
+Palamaoja	4
+Paljakkapuro	4
+Pappilanjoki	4
+Pappilanpuro	4
+Pataoja	4
+Pauninoja	4
+Pekanpuro	4
+Penikkapuro	4
+Pentinoja	4
+Peto-oja	4
+Petropuro	4
+Peukalopuro	4
+Peurajoki	4
+Pienioja	4
+Pihkapuro	4
+Piimäpuro	4
+Piippupuro	4
+Pirinoja	4
+Pirkonoja	4
+Pirttiluoma	4
+Pissioja	4
+Pohjasoja	4
+Poikajoki	4
+Polvioja	4
+Pöngänpuro	4
+Pöppöpuro	4
+Porkkapuro	4
+Portinjoki	4
+Pöytäpuro	4
+Purolanpuro	4
+Purunoja	4
+Pyöreäpuro	4
+Raato-oja	4
+Rasipuro	4
+Rautajoki	4
+Rautoja	4
+Rekioja	4
+Riekko-oja	4
+Rimpioja	4
+Ristijoki	4
+Ritapuro	4
+Roninoja	4
+Roninpuro	4
+Ruoko-Oja	4
+Ruokosuonoja	4
+Ruonajoki	4
+Ruuhijoki	4
+Ryönänjoki	4
+Saarisenjoki	4
+Saarisenpuro	4
+Saittajoki	4
+Sammaljoki	4
+Santaoja	4
+Sarapuro	4
+Särkisenpuro	4
+Särkkäjoki	4
+Saukonpuro	4
+Säynäjäpuro	4
+Säynepuro	4
+Seljänoja	4
+Sepänpuro	4
+Siltastenoja	4
+Sirkkajoki	4
+Sivakkajoki	4
+Skáidejohka	4
+Soidinoja	4
+Sonninoja	4
+Sopasenpuro	4
+Sopenjoki	4
+Sorsajoki	4
+Sorvanoja	4
+Sotkajoki	4
+Sotkuoja	4
+Stenbäcken	4
+Suksioja	4
+Sulkavanjoki	4
+Sulunpuro	4
+Suo-oja	4
+Suolamminoja	4
+Suolijoki	4
+Suoperänoja	4
+Supanoja	4
+Sydänmaanoja	4
+Sydänoja	4
+Syvänlamminpuro	4
+Tahkopuro	4
+Taipaleenoja	4
+Takapuro	4
+Tammipuro	4
+Tampinjoki	4
+Tetripuro	4
+Teuronjoki	4
+Tikanoja	4
+Tikkasenpuro	4
+Törisevä	4
+Törisevänoja	4
+Törönpuro	4
+Töyripuro	4
+Tuulijoki	4
+Uudenjänkänoja	4
+Uudenjärvenoja	4
+Uusipuro	4
+Vaaranpuro	4
+Vaarapuro	4
+Väisäsenpuro	4
+Valkeapuro	4
+Vallinoja	4
+Varisoja	4
+Varvikko-oja	4
+Vasamapuro	4
+Vellioja	4
+Vihtaoja	4
+Villipuro	4
+Virkapuro	4
+Virsupuro	4
+Vittaoja	4
+Vuohioja	4
+Ylinenoja	4
+Yrttioja	4
+Ahmapuro	3
+Ahonoja	3
+Ahvenlamminpuro	3
+Aitaoja	3
+Aitapuro	3
+Alangonpuro	3
+Djupbäcken	3
+Duolbajohka	3
+Fallbäcken	3
+Gárdejohka	3
+Haisupuro	3
+Hallajoki	3
+Hallaoja	3
+Halmeoja	3
+Hanhilamminpuro	3
+Hankajoki	3
+Hankaoja	3
+Harakkaoja	3
+Harjunpuro	3
+Harjuoja	3
+Härköoja	3
+Hárrejohka	3
+Haukanoja	3
+Haukilamminpuro	3
+Haukkajoki	3
+Hauskapuro	3
+Hávgajohka	3
+Havujoki	3
+Heavvojohka	3
+Heinäjänkänoja	3
+Herukkaoja	3
+Herukkapuro	3
+Hetteenoja	3
+Hettopuro	3
+Hiekkajoki	3
+Hietasenpuro	3
+Hiidenoja	3
+Hiisjoki	3
+Hirvonjoki	3
+Hoikanoja	3
+Homeoja	3
+Hongistonoja	3
+Hormistonoja	3
+Höyläpuro	3
+Huhdinoja	3
+Humalaoja	3
+Huosiaispuro	3
+Huovinoja	3
+Hurtanoja	3
+Huuhanpuro	3
+Huuskonpuro	3
+Hyssänoja	3
+Idbäcken	3
+Ihantjoki	3
+Iisakinoja	3
+Ikosenpuro	3
+Inganpuro	3
+Isonniitynoja	3
+Isonsuonpuro	3
+Isonvaaranoja	3
+Itikkapuro	3
+Itkupuro	3
+Jäkäläoja	3
+Järvenpäänoja	3
+Jokelanjoki	3
+Jokioja	3
+Jokuenoja	3
+Jordaninoja	3
+Jordaninpuro	3
+Jouhtenuspuro	3
+Joutsjoki	3
+Juntinoja	3
+Jurvanoja	3
+Jussinjoki	3
+Juurusoja	3
+Jyränoja	3
+Jysmänpuro	3
+Kaakkuripuro	3
+Kaalioja	3
+Kaapinpuro	3
+Kaatiojoki	3
+Kaidanpuro	3
+Kaitajoki	3
+Kaitapuro	3
+Kaivospuro	3
+Kaivuoja	3
+Käkioja	3
+Kalliolamminpuro	3
+Kalmujoki	3
+Kanaoja	3
+Kanavanoja	3
+Kankipuro	3
+Kantopuro	3
+Kapakanjoki	3
+Karhakkaoja	3
+Karinjoki	3
+Karinoja	3
+Karipuro	3
+Karjalanpuro	3
+Karjapuro	3
+Karjasillanoja	3
+Karjuoja	3
+Kärkkäisenpuro	3
+Karkujoki	3
+Karsikkojoki	3
+Karvasoja	3
+Katinhännänoja	3
+Katinoja	3
+Kauniinmaanoja	3
+Kauniinpuro	3
+Kaurapuro	3
+Kekäleoja	3
+Keljänpuro	3
+Kemioja	3
+Kenkäpuro	3
+Kentänoja	3
+Kero-oja	3
+Keskihaara	3
+Keto-oja	3
+Kettujoki	3
+Ketunoja	3
+Kielisenoja	3
+Kiertojoki	3
+Kiiespuro	3
+Kilpioja	3
+Kilpipuro	3
+Kirkko-oja	3
+Kirkkopuro	3
+Kissaoja	3
+Kitkanoja	3
+Kiukaanoja	3
+Kivihaara	3
+Koiranoja	3
+Koivikko-oja	3
+Koivikonoja	3
+Kölkänpuro	3
+Kolkonoja	3
+Kollinoja	3
+Kolmisopenpuro	3
+Kolunpuro	3
+Korisevanjoki	3
+Korkeaoja	3
+Korko-oja	3
+Korpiluoma	3
+Korsunpuro	3
+Kortteikonpuro	3
+Korvenjoki	3
+Koskelanjoki	3
+Koskioja	3
+Koskipuro	3
+Kotinoja	3
+Kotkanoja	3
+Kotojoki	3
+Koukkujoki	3
+Koukkuluoma	3
+Koukkupuro	3
+Koukunoja	3
+Kourupuro	3
+Kovajoki	3
+Krapuoja	3
+Kravi	3
+Kravinoja	3
+Kuhajoki	3
+Kuivajärvenoja	3
+Kuivasjoki	3
+Kuivasoja	3
+Kukonoja	3
+Kuljunpuro	3
+Kupparinoja	3
+Kuraoja	3
+Kurkijoki	3
+Kurkunoja	3
+Kursunoja	3
+Kuukanoja	3
+Kuusenpuro	3
+Kuusikko-oja	3
+Kuusimaanoja	3
+Kuusselänoja	3
+Kuutinoja	3
+Kylänpuro	3
+Kyläoja	3
+Kylkijoki	3
+Kylmänpuro	3
+Kytöjoki	3
+Laanioja	3
+Lahnasenpuro	3
+Lahnasjoki	3
+Lähtevänjoki	3
+Lakipuro	3
+Lamminjoki	3
+Lanajoki	3
+Latvalamminoja	3
+Latvanpuro	3
+Lauttopuro	3
+Leaibejohka	3
+Lehmilamminpuro	3
+Leilioja	3
+Leilipuro	3
+Leipioja	3
+Leppijoki	3
+Letonoja	3
+Liejunpuro	3
+Liejupuro	3
+Liesoja	3
+Lietepuro	3
+Liikaluoma	3
+Liivajoki	3
+Likaoja	3
+Likolamminpuro	3
+Linnanoja	3
+Linnapuro	3
+Löttöpuro	3
+Louhioja	3
+Löytölamminoja	3
+Löytölänpuro	3
+Löytynpuro	3
+Luhdanjoki	3
+Lukanpuro	3
+Luojuunoja	3
+Luokanoja	3
+Luolapuro	3
+Luomanpuro	3
+Lylynoja	3
+Maajärvenoja	3
+Maaniitunoja	3
+Maaseljänoja	3
+Majaoja	3
+Majavapuro	3
+Mäkäräpuro	3
+Mäkijärvenpuro	3
+Mäkräpuro	3
+Manto-oja	3
+Mäntylamminpuro	3
+Marjaoja	3
+Matalanlamminpuro	3
+Matalapuro	3
+Mataraoja	3
+Materonpuro	3
+Matinpuro	3
+Matkaoja	3
+Melapuro	3
+Mertajoki	3
+Metsojoki	3
+Metsopuro	3
+Miikkulanpuro	3
+Mikonpuro	3
+Mukkajoki	3
+Mukkaoja	3
+Murhijoki	3
+Murhioja	3
+Murhipuro	3
+Murtolamminpuro	3
+Mustanlamminoja	3
+Mustikkaoja	3
+Mustoja	3
+Mutajoki	3
+Naarajoki	3
+Naarvanjoki	3
+Nahkapuro	3
+Naurisoja	3
+Niemijoki	3
+Niemioja	3
+Niemisenpuro	3
+Niemispuro	3
+Niinijoki	3
+Niittysuonoja	3
+Nikulanoja	3
+Nokanoja	3
+Nurmesoja	3
+Nurmioja	3
+Nyängsbäcken	3
+Oksjoki	3
+Oksoja	3
+Olkioja	3
+Olkkosenpuro	3
+Onkioja	3
+Onkipuro	3
+Oravapuro	3
+Oravioja	3
+Oritoja	3
+Oritpuro	3
+Oronoja	3
+Otusoja	3
+Oulujoki	3
+Päälamminpuro	3
+Pahaluoma	3
+Pahtavaaranoja	3
+Pajuluoma	3
+Paljakanpuro	3
+Palolamminoja	3
+Palonoja	3
+Paloseljänoja	3
+Palosenjoki	3
+Palosenpuro	3
+Palosuonoja	3
+Pankajoki	3
+Paskonoja	3
+Patajoki	3
+Patopuro	3
+Pekanoja	3
+Penikkaoja	3
+Pesonpuro	3
+Petäispuro	3
+Pieskanoja	3
+Pihtijoki	3
+Piikapuro	3
+Piilipuro	3
+Pilkkapuro	3
+Pohjoisjoki	3
+Poikkijoki	3
+Pökkelöpuro	3
+Pölhöpuro	3
+Pöllänoja	3
+Pontikkaoja	3
+Porojoki	3
+Porraspuro	3
+Punikkipuro	3
+Puntaripuro	3
+Pussisenpuro	3
+Putaanjoki	3
+Putkipuro	3
+Puuropuro	3
+Pyhäoja	3
+Pykäläpuro	3
+Pyyjoki	3
+Pyyoja	3
+Raajoki	3
+Råbäcken	3
+Ragatjohka	3
+Rahepuro	3
+Rahkaoja	3
+Rahkapuro	3
+Raiskinpuro	3
+Rajalamminpuro	3
+Rajaluoma	3
+Rako-oja	3
+Rännipuro	3
+Rapakkojoki	3
+Rasvapuro	3
+Rättioja	3
+Raudanjoki	3
+Raudanoja	3
+Rávdojohka	3
+Ravijoki	3
+Ravinoja	3
+Remupuro	3
+Repojoki	3
+Riihilamminpuro	3
+Riikonoja	3
+Riipinoja	3
+Rimminjoki	3
+Ritojoki	3
+Riuttaoja	3
+Rödselbäcken	3
+Rokkapuro	3
+Rotinoja	3
+Rovajoki	3
+Ruohopuro	3
+Ruonanjoki	3
+Ruopanoja	3
+Ruotsinoja	3
+Rutajoki	3
+Rutjanpuro	3
+Ryöpänjoki	3
+Rytijoki	3
+Sääkspuro	3
+Saarenjoki	3
+Saarijärvenoja	3
+Saarispuro	3
+Sahajoki	3
+Sahanoja	3
+Salakkaoja	3
+Salmilamminpuro	3
+Salmisenoja	3
+Salonjoki	3
+Sarajoki	3
+Särkijärvenoja	3
+Sassinpuro	3
+Saukkokaltionoja	3
+Savaloja	3
+Savonjoki	3
+Säynätjoki	3
+Säyneenpuro	3
+Seipioja	3
+Seppälänoja	3
+Sieiddejohka	3
+Sieđgajohka	3
+Siltalanoja	3
+Siponpuro	3
+Sittapuro	3
+Soininjoki	3
+Soininoja	3
+Sokanoja	3
+Sonkajoki	3
+Sonnioja	3
+Sorsaoja	3
+Suávviljuuvâš	3
+Sulkujoki	3
+Sulunjoki	3
+Suojärvenoja	3
+Suolajoki	3
+Suolaoja	3
+Suonenjoki	3
+Suonoja	3
+Surmajoki	3
+Suurioja	3
+Suursuonoja	3
+Suvannonoja	3
+Syvänkurunoja	3
+Syvänoja	3
+Tahko-oja	3
+Takajoki	3
+Talasoja	3
+Taljaoja	3
+Tammaoja	3
+Tammukkajoki	3
+Tammukkaoja	3
+Telaoja	3
+Tepsanoja	3
+Tervaspuro	3
+Tetrijoki	3
+Tiikkajanpuro	3
+Tiironoja	3
+Tokeenoja	3
+Tonkopuro	3
+Torakkapuro	3
+Träskesbäcken	3
+Tunturilamminoja	3
+Tupakkapuro	3
+Tupakkipuro	3
+Turkkipuro	3
+Tuuliaisenpuro	3
+Tynnyripuro	3
+Ulkupuro	3
+Ulppaanpuro	3
+Unijoki	3
+Untamonoja	3
+Urakkaoja	3
+Uuttuoja	3
+Vääränoja	3
+Valkeanlamminpuro	3
+Valkeisenoja	3
+Valkiaoja	3
+Valtionoja	3
+Vanhapuro	3
+Varesoja	3
+Varisjoki	3
+Varsaoja	3
+Varsoja	3
+Vehkapuru	3
+Vehmasjoki	3
+Vehmaspuro	3
+Venepuro	3
+Vepsänjoki	3
+Vepsänpuro	3
+Verkkojoki	3
+Virkamaanoja	3
+Vuohenoja	3
+Vuomajoki	3
+Vuomanoja	3
+Vuontisjoki	3
+Vuorisjoki	3
+Ylimmäisenpuro	3
+Aatsajoki	2
+Ahmopuro	2
+Ahokaisenpuro	2
+Aholamminpuro	2
+Ahosenoja	2
+Ahteenoja	2
+Ahvenisenpuro	2
+Ahvenlamminoja	2
+Aidaspuro	2
+Áilegasjohka	2
+Ailioja	2
+Äiniönjoki	2
+Aisapuro	2
+Áitejohka	2
+Ajakkapuro	2
+Ajoksenoja	2
+Akanjoki	2
+Akkapuro	2
+Akkopuro	2
+Aksujoki	2
+Akujoki	2
+Alalamminoja	2
+Alamyllynjoki	2
+Alanteenjoki	2
+Alapäänoja	2
+Alasenjoki	2
+Alhojoki	2
+Alimmainen Suoltijoki	2
+Alinenjoki	2
+Altto-oja	2
+Ämmäjoki	2
+Angervaoja	2
+Angervopuro	2
+Anianoja	2
+Ánotjohka	2
+Anttosenpuro	2
+Antunoja	2
+Apajaoja	2
+Aškkasjohka	2
+Ätimysoja	2
+Aurajoki	2
+Autio-oja	2
+Autionjoki	2
+Autionoja	2
+Bäcklidbäcken	2
+Baikajohka	2
+Bealdojohka	2
+Björnbäcken	2
+Bjurbäcken	2
+Buolžžatjohka	2
+Bybäcken	2
+Čáhkáljohka	2
+Cuoggá	2
+Dalkarbybäcken	2
+Djupbäck	2
+Duolbája	2
+Egyptinpuro	2
+Eksyttäjänpuro	2
+Elämäistenjoki	2
+Elijoki	2
+Ellinoja	2
+Emäjoki	2
+Enonjoki	2
+Erkinoja	2
+Ero-oja	2
+Eskonpuro	2
+Everikinpuro	2
+Gáhkkorája	2
+Gárdája	2
+Geinnodatjohka	2
+Goahteája	2
+Granholmsbäcken	2
+Häähnijoki	2
+Haapakorvenoja	2
+Haapasuonoja	2
+Haapuanoja	2
+Haarainluoma	2
+Haarapuru	2
+Haasiapuro	2
+Haatajanpuro	2
+Haavistonoja	2
+Haisevanpuro	2
+Häjyluoma	2
+Hakkarinoja	2
+Hakkionpuro	2
+Häkkisenpuro	2
+Hako-oja	2
+Halingonoja	2
+Halkokorvenjoki	2
+Halmeenoja	2
+Halsuanjoki	2
+Hamarinoja	2
+Hammasjoki	2
+Hammasoja	2
+Hanganoja	2
+Hanhenoja	2
+Hanhilamminoja	2
+Hanhiluoma	2
+Hanhiriivinoja	2
+Hanjoki	2
+Hankopuro	2
+Hännilänjoki	2
+Hánnojohka	2
+Harjunviepä	2
+Härkinpuro	2
+Härkioja	2
+Hassinoja	2
+Hattianoja	2
+Haudanjoki	2
+Hauenkuononoja	2
+Haukipuru	2
+Haukkariivinoja	2
+Haukoja	2
+Havukkajoki	2
+Heikinpuro	2
+Heikkilänoja	2
+Heinästenoja	2
+Heinosenjoki	2
+Heinosenpuro	2
+Heinujoki	2
+Heiskasenpuro	2
+Helijoki	2
+Heraoja	2
+Herapuro	2
+Hermikkipuro	2
+Hevossillanoja	2
+Hietasenoja	2
+Hietoja	2
+Hiirenpuro	2
+Hiisipuro	2
+Hillinoja	2
+Hiltusenpuro	2
+Hirvijärvenoja	2
+Hirvilamminoja	2
+Hirvilamminpuro	2
+Hiukkajoki	2
+Hoikanlamminpuro	2
+Holinoja	2
+Hollinoja	2
+Hömmönoja	2
+Hömossbäcken	2
+Hömossdiket	2
+Hongikonoja	2
+Hongikonpuro	2
+Hongistonjoki	2
+Honkalanoja	2
+Honkanevanoja	2
+Honkasenjoki	2
+Honkavaaranoja	2
+Honkipuro	2
+Hopeapuro	2
+Hopiaoja	2
+Hosioja	2
+Hovilanjoki	2
+Huhkaimenoja	2
+Huhmarpuro	2
+Huhtasoja	2
+Huhtipuro	2
+Huikonjoki	2
+Hukanoja	2
+Hulluoja	2
+Hullupuro	2
+Huosiaisenpuro	2
+Huosiuspuro	2
+Hurujoki	2
+Hurunoja	2
+Huttusenpuro	2
+Hutunpuro	2
+Huuhtipuro	2
+Huuronpuro	2
+Huussanpuro	2
+Huutopuro	2
+Hyppyypuro	2
+Hyväoja	2
+Ihanoja	2
+Iijoki	2
+Iivarinoja	2
+Iljanpuro	2
+Illestijoki	2
+Illinoja	2
+Ilojoki	2
+Ilopuro	2
+Inginjoki	2
+Iso Askanjoki	2
+Isonaavanoja	2
+Isonkorvenpuro	2
+Isonlomanoja	2
+Isonnevanpuro	2
+Isonsuonjoki	2
+Itälahdenpuro	2
+Jaakolanoja	2
+Jaaranjoki	2
+Jaaraoja	2
+Jäkäläpuro	2
+Jalajanoja	2
+Jalasjoki	2
+Jalaspuro	2
+Jalkapuro	2
+Jämsänjoki	2
+Jämsänpuro	2
+Jänkkäjoki	2
+Jännepuro	2
+Järvijoki	2
+Järviluoma	2
+Jatapuro	2
+Jatkonoja	2
+Jauho-oja	2
+Jauratsioja	2
+Joenperänoja	2
+Jokipuro	2
+Jokisillanjoki	2
+Jorrinoja	2
+Jouhipuro	2
+Jousioja	2
+Joutenlamminpuro	2
+Joutsenpuro	2
+Jouttijoki	2
+Jumiskonjoki	2
+Junganjoki	2
+Juomaoja	2
+Juotjoki	2
+Juovvája	2
+Jurvanjoki	2
+Jussinoja	2
+Juurakkoluoma	2
+Juuvanjoki	2
+Jylhänoja	2
+Jylhänpuro	2
+Jylkynoja	2
+Jylkynpuro	2
+Jyrinpuro	2
+Jyrkänjoki	2
+Kaakkurinpuro	2
+Kaakonjoki	2
+Kaamatinpuro	2
+Kaaronoja	2
+Kaarteenpuro	2
+Kaatiinpuro	2
+Kaationpuro	2
+Kaatronpuro	2
+Kahilaoja	2
+Kaidanjoki	2
+Kaikonpuro	2
+Kairanoja	2
+Kairassuonoja	2
+Kaislaoja	2
+Kaitalamminoja	2
+Kaitasuonoja	2
+Kaituranjoki	2
+Kaivannonjoki	2
+Kaivanto-oja	2
+Käkijoki	2
+Kakkopuro	2
+Kalattomanpuro	2
+Kalibäcken	2
+Kallaoja	2
+Kalliolamminoja	2
+Kallionevanoja	2
+Kallojoki	2
+Kallopuro	2
+Kalmapuro	2
+Kalmonpuro	2
+Kaltiovuomanoja	2
+Kampinpuro	2
+Kanasenpuro	2
+Kangaslamminoja	2
+Kankaanjoki	2
+Kankaisenjoki	2
+Kankarinpuro	2
+Kankijoki	2
+Kannakkopuro	2
+Kannokonpuro	2
+Kannushaara	2
+Kansikkopuro	2
+Kapeapuro	2
+Kapsunpuro	2
+Karahkaoja	2
+Käräjäoja	2
+Karajoki	2
+Karhuvaaranoja	2
+Karijärvenoja	2
+Kariluoma	2
+Karinpuro	2
+Karjalaisenoja	2
+Karjalaispuro	2
+Karjalanjoki	2
+Karjalanoja	2
+Karjasillanjoki	2
+Kärjenpuro	2
+Karjujoki	2
+Karjunoja	2
+Karjusillanoja	2
+Kärkiluoma	2
+Karkunoja	2
+Karkuoja	2
+Karppisenoja	2
+Kärrynoja	2
+Karsikko-oja	2
+Kartiskaluoma	2
+Kärväsjoki	2
+Kärväsoja	2
+Kärväspuro	2
+Kasinpuro	2
+Kassospuro	2
+Katajajoki	2
+Katiskonoja	2
+Kätkäjoki	2
+Katospuro	2
+Katteluksenoja	2
+Kauhajärvenoja	2
+Kauhalanjoki	2
+Kauhapuro	2
+Kaukaoja	2
+Kauniinjoki	2
+Kauniinlamminoja	2
+Kauniinlamminpuro	2
+Kaunisjoki	2
+Kaunisoja	2
+Kaupinjoki	2
+Kauppilanjoki	2
+Kehtosoja	2
+Keihäsjoki	2
+Keihäspuro	2
+Kelajoki	2
+Kelaoja	2
+Kelhänoja	2
+Kelkkapuro	2
+Kellarinjoki	2
+Kellarioja	2
+Kellaripuro	2
+Kelopuro	2
+Keltapuro	2
+Kemppaanjoki	2
+Kerojoki	2
+Keronoja	2
+Kertunjoki	2
+Kesäpuro	2
+Keskilamminpuro	2
+Keskimmäinenoja	2
+Keskimmäisenpuro	2
+Keskioja	2
+Keskisenjoki	2
+Keskisenoja	2
+Kesselinjoki	2
+Kevättipuro	2
+Keyritynjoki	2
+Kiekeröoja	2
+Kiekinjoki	2
+Kiekkipuro	2
+Kierilamminoja	2
+Kiikunoja	2
+Kiilinoja	2
+Kiimajoki	2
+Kiimalamminpuro	2
+Kiminginjoki	2
+Kinnasoja	2
+Kinnusenjoki	2
+Kinttupuro	2
+Kirakkajoki	2
+Kirjopuro	2
+Kirkasoja	2
+Kirkkosillanoja	2
+Kirstanoja	2
+Kiskonjoki	2
+Kitinpuro	2
+Kitkanjoki	2
+Kituluoma	2
+Kiurujoki	2
+Kivalikko-oja	2
+Kivijärvenjoki	2
+Kivikkoja	2
+Kivilamminoja	2
+Kivipuru	2
+Kivisillanjoki	2
+Kivisillanpuro	2
+Kohojoki	2
+Koihnanluoma	2
+Koijoki	2
+Koikeronpuro	2
+Koiraluoma	2
+Koiransuolenoja	2
+Koistinoja	2
+Koivuniemenoja	2
+Koivupuru	2
+Koivusillanjoki	2
+Koivusillanoja	2
+Koivusillanpuro	2
+Koivusuonoja	2
+Koivuvaaranoja	2
+Kolanoja	2
+Kolkanoja	2
+Kolmikannanoja	2
+Kolopuro	2
+Kommerinoja	2
+Komujoki	2
+Könkäänpuro	2
+Konnaoja	2
+Kontio-oja	2
+Kontionoja	2
+Konto-oja	2
+Konttisenpuro	2
+Kopanoja	2
+Koppelinoja	2
+Korento-oja	2
+Korhosenoja	2
+Korisevanoja	2
+Korisevanpuro	2
+Koronoja	2
+Korpelanpuro	2
+Korpijärvenoja	2
+Korpinoja	2
+Korpisillanoja	2
+Korpisjoki	2
+Korppisjoki	2
+Korpuanjoki	2
+Kortejärvenoja	2
+Kortelamminoja	2
+Kortenevanoja	2
+Kortesalmenoja	2
+Kortesoja	2
+Kortoja	2
+Kortteisenjoki	2
+Kortteisenpuro	2
+Korvapuro	2
+Korvasjoki	2
+Korventaustanoja	2
+Korvenviepä	2
+Koskuenoja	2
+Kotajängänoja	2
+Kotalamminpuro	2
+Kotasenoja	2
+Kotaspuro	2
+Kotkatjoki	2
+Koto-Oja	2
+Koukunjoki	2
+Koukunpuro	2
+Kourajoki	2
+Kourapuro	2
+Kourinoja	2
+Kourioja	2
+Kouruoja	2
+Koutajoki	2
+Kovasoja	2
+Koveronoja	2
+Köylinjoki	2
+Krabbäcken	2
+Krondiket	2
+Kronodiket	2
+Kroopinoja	2
+Kuhanpuro	2
+Kuhaoja	2
+Kuikanpuro	2
+Kuikkajoki	2
+Kuikkalamminoja	2
+Kuittuanjoki	2
+Kuivapuro	2
+Kukasjoki	2
+Kukkapuro	2
+Kukkaro-Oja	2
+Kuljunsuonoja	2
+Kulkkujoki	2
+Kulkoja	2
+Kulkuoja	2
+Kullipuro	2
+Kulmapuro	2
+Kulusjoki	2
+Kulvakko-oja	2
+Kulvakkojoki	2
+Kumpulamminpuro	2
+Kumpusenjoki	2
+Kumpusjoki	2
+Kumunoja	2
+Kuohanoja	2
+Kuoksajoki	2
+Kuoksuoja	2
+Kuonanjoki	2
+Kuontasoja	2
+Kuopanoja	2
+Kuoppalanjoki	2
+Kuopsuoja	2
+Kuorajoki	2
+Kuorejoki	2
+Kuortisoja	2
+Kuoskisoja	2
+Kuparioja	2
+Kuppioja	2
+Kurajoki	2
+Kurapuro	2
+Kurenoja	2
+Kurenpuro	2
+Kurjenluoma	2
+Kurjenpuro	2
+Kurkiluoma	2
+Kurkisuonoja	2
+Kurkkio-oja	2
+Kursnanpuro	2
+Kursujoki	2
+Kursunjoki	2
+Kursunpuro	2
+Kursuoja	2
+Kurttajoki	2
+Kurttopuro	2
+Kurujoki	2
+Kurunpuro	2
+Kusettimenpuro	2
+Kutupuro	2
+Kuumapuro	2
+Kuuro-oja	2
+Kuvajapuro	2
+Kuvepuro	2
+Kvarnbyån	2
+Kydönoja	2
+Kyläjärvenoja	2
+Kylkipuro	2
+Kylmäluoma	2
+Kylmänjoki	2
+Kylmänkorvenpuro	2
+Kylmäsoja	2
+Kylmoja	2
+Kynkäänoja	2
+Kypäränoja	2
+Kypäräoja	2
+Kyröjoki	2
+Kyrönjoki	2
+Kytömaanoja	2
+Kyyrönpuro	2
+Laajanjoki	2
+Laakeanpuro	2
+Lähdenoja	2
+Lähdesuonoja	2
+Lähdetoja	2
+Lahnasenoja	2
+Lahnaspuro	2
+Lähtemäjoki	2
+Lähtevänoja	2
+Lähtevänpuro	2
+Laihajoki	2
+Laiskanpuro	2
+Laitamaanoja	2
+Laitaoja	2
+Laitispuro	2
+Lakajoki	2
+Lakioja	2
+Lakkipuro	2
+Lakonpuro	2
+Lamminsuonoja	2
+Lamminvaaranoja	2
+Lammioja	2
+Lampinoja	2
+Lampioja	2
+Lämpsänoja	2
+Lampurinoja	2
+Lanaoja	2
+Långdiket	2
+Långmossbäcken	2
+Langonoja	2
+Långvikbäcken	2
+Länkipuro	2
+Lankojärvenoja	2
+Länsihaara	2
+Lapalionoja	2
+Lapinluhdanoja	2
+Lapio-oja	2
+Lapiojoki	2
+Lapiopuro	2
+Lappalaisenoja	2
+Larinpuro	2
+Lasasenpuro	2
+Lassinpuro	2
+Lastenoja	2
+Latikkaoja	2
+Lato-oja	2
+Launioja	2
+Laurinpuro	2
+Lautakatonoja	2
+Lautavaaranoja	2
+Lautoja	2
+Lavanoja	2
+Lehdenpuru	2
+Lehdonjoki	2
+Lehmiluoma	2
+Lehtiluoma	2
+Lehtimaanoja	2
+Lehtioja	2
+Lehtipuro	2
+Leinolanjoki	2
+Lellunoja	2
+Lemilamminpuro	2
+Lemipuro	2
+Lepänoja	2
+Leppäjärvenoja	2
+Leppäsenoja	2
+Leppilamminjoki	2
+Leteenoja	2
+Letkujoki	2
+Letuspuro	2
+Levänjoki	2
+Leväsenpuro	2
+Leveäpuro	2
+Levijoki	2
+Lianoja	2
+Liesioja	2
+Liesjärvenoja	2
+Lietoja	2
+Lievosenoja	2
+Lihajoki	2
+Lihalamminoja	2
+Liikasenoja	2
+Liippaoja	2
+Liitepuro	2
+Lillängsbäcken	2
+Lillfaret	2
+Liminganpuro	2
+Linnajoki	2
+Linnunpuro	2
+Linnusluoma	2
+Liponoja	2
+Liukkupuro	2
+Lomajoki	2
+Lompolonoja	2
+Lonkarinjoki	2
+Lonkonoja	2
+Löpönpuro	2
+Loseikonpuro	2
+Lotanoja	2
+Louejoki	2
+Louhenoja	2
+Louhupuro	2
+Loukunpuro	2
+Loviisanjoki	2
+Löytinpuro	2
+Löytöjänkänoja	2
+Löytynoja	2
+Luhdanpuro	2
+Luhtaanjoki	2
+Luhtaanoja	2
+Luikkopuro	2
+Luiminkajoki	2
+Lukkarinoja	2
+Lukkarinpuro	2
+Lukkaropuro	2
+Lumioja	2
+Lummejoki	2
+Luodejoki	2
+Luodepuro	2
+Luohkkoaijohka	2
+Luokkaluoma	2
+Luolaoja	2
+Luotolamminpuro	2
+Luovvája	2
+Luppohaara	2
+Luppojoki	2
+Lusikkapuro	2
+Luvejoki	2
+Luvlevárjohka	2
+Maalisoja	2
+Maaninkajoki	2
+Maaninkapuro	2
+Maapuro	2
+Maaselänjoki	2
+Madejoki	2
+Mäenaluspuro	2
+Majajoki	2
+Majaluoma	2
+Majanoja	2
+Majoanjoki	2
+Majoinjoki	2
+Majoonjoki	2
+Majoonpuro	2
+Majovanoja	2
+Majovaoja	2
+Makkarajoki	2
+Maljaoja	2
+Mämmijoki	2
+Mämmipuro	2
+Mammonpuro	2
+Mankisenoja	2
+Mansikkaoja	2
+Mäntyvaaranoja	2
+Marabäcken	2
+Marbäcken	2
+Marikaisoja	2
+Marjavaaranoja	2
+Markkajoki	2
+Markkaoja	2
+Markonpuro	2
+Markunpuro	2
+Maskunjoki	2
+Masonjoki	2
+Matalanjoki	2
+Matalaoja	2
+Matkajoki	2
+Matkapuro	2
+Mättäikönpuro	2
+Maununoja	2
+Maunuoja	2
+Máđiiája	2
+Meađđenvárája	2
+Melajoki	2
+Mellaoja	2
+Memmonoja	2
+Menesjoki	2
+Merenoja	2
+Merijoki	2
+Merikarvianjoki	2
+Merrasoja	2
+Metsäjoki	2
+Metsäpuro	2
+Metso-oja	2
+Mettisoja	2
+Miekkaoja	2
+Moisasenpuro	2
+Moitaoja	2
+Molkinpuro	2
+Molnbäcken	2
+Monnonjoki	2
+Mörkbäcken	2
+Mörköpuro	2
+Moronoja	2
+Morottajanoja	2
+Mossadiket	2
+Mottisenoja	2
+Moulusjoki	2
+Muho-oja	2
+Muikkupuro	2
+Muinospuro	2
+Mukkajärvenoja	2
+Mulkkuoja	2
+Mullikonpuro	2
+Munajoki	2
+Munaoja	2
+Munkinoja	2
+Muorinoja	2
+Muorinpuro	2
+Murhaoja	2
+Murtosjoki	2
+Mustalamminpuro	2
+Mustanjärvenoja	2
+Mustankorvenoja	2
+Mustanmaanoja	2
+Mustanrinnanoja	2
+Mustaspuro	2
+Mustikaisenpuro	2
+Mustilaispuro	2
+Mustioja	2
+Mustosenoja	2
+Mutajärvenoja	2
+Mutapuro	2
+Mutasenpuro	2
+Mutkajoki	2
+Muttipuro	2
+Muuraispuro	2
+Myllylamminoja	2
+Myllyniitynoja	2
+Myllynoja	2
+Myrkkyoja	2
+Naamanjoki	2
+Naarajärvenoja	2
+Naaranoja	2
+Naaraoja	2
+Naarjoki	2
+Näätähaara	2
+Näätäjoki	2
+Nahkaluoma	2
+Nalkinoja	2
+Nälköoja	2
+Napapuro	2
+Nassakkapuro	2
+Naulapuro	2
+Neitioja	2
+Neulapuro	2
+Nevajoki	2
+Niemisoja	2
+Niinipuro	2
+Niipajoki	2
+Niittuoja	2
+Niittylamminpuro	2
+Niitunoja	2
+Nikinoja	2
+Nikinpuro	2
+Nikkarinoja	2
+Nikolasjoki	2
+Nilkanoja	2
+Nilonpuro	2
+Nimetönpuro	2
+Niskajoki	2
+Niskanpuro	2
+Nivajoki	2
+Nivanjoki	2
+Nivunkijoki	2
+Nivunpuro	2
+Njáhkájohka	2
+Noro-oja	2
+Norrängsbäcken	2
+Nummenjoki	2
+Nuolijoki	2
+Nuoraoja	2
+Nuorasenpuro	2
+Nuottaoja	2
+Nurkkalanpuro	2
+Nurkkaoja	2
+Nurkkapuro	2
+Nurmespuro	2
+Nutioja	2
+Nuutamo-oja	2
+Nuutinjoki	2
+Nuutinpuro	2
+Nybäcken	2
+Ohrapuro	2
+Ohtaoja	2
+Oivonoja	2
+Ojahaanoja	2
+Ojajoki	2
+Ojakankaanoja	2
+Ojaniitunoja	2
+Ojanperänluoma	2
+Olhavanjoki	2
+Öljäkänpuro	2
+Olkajoki	2
+Olkijoki	2
+Olkipuro	2
+Ölkynoja	2
+Ölkynpuro	2
+Ollikaisenoja	2
+Omenapuro	2
+Onkamonoja	2
+Onkijoki	2
+Onkilamminoja	2
+Onnianoja	2
+Orajoki	2
+Orhinoja	2
+Orihoja	2
+Orijoki	2
+Osonoja	2
+Oudonjoki	2
+Oudonoja	2
+Oulaistenoja	2
+Ođđajohka	2
+Pääkönpuro	2
+Paasipuro	2
+Paassillanoja	2
+Paattistenjoki	2
+Paavonjoki	2
+Paavonpuro	2
+Pahalamminoja	2
+Pahankalanpuro	2
+Pahankorvenoja	2
+Pahanlamminoja	2
+Pahanoja	2
+Pahansillanoja	2
+Pahkalamminpuro	2
+Pahkopuro	2
+Pahto-oja	2
+Paimisoja	2
+Paiseenoja	2
+Pajakkaoja	2
+Pajaoja	2
+Pajasillanoja	2
+Pajulamminpuro	2
+Pajupuru	2
+Pajusenpuro	2
+Pajustonoja	2
+Pakkasoja	2
+Paksuoja	2
+Palkinjoki	2
+Palkkipuro	2
+Palojärvenoja	2
+Palsinoja	2
+Palvioja	2
+Pappilanoja	2
+Pappistenoja	2
+Pärehöylänoja	2
+Pärepuro	2
+Pärsämönjoki	2
+Partaoja	2
+Partapuro	2
+Partasenjoki	2
+Parvajoki	2
+Paskajoki	2
+Paskojoki	2
+Paskolamminoja	2
+Pasmajoki	2
+Patapuro	2
+Pauhuoja	2
+Paukajoki	2
+Paukuttajanjoki	2
+Pehkosenpuro	2
+Pekinoja	2
+Pekonpuro	2
+Pellinpuro	2
+Penikkajoki	2
+Pennasenpuro	2
+Pentupuro	2
+Peräjärvenoja	2
+Peräjärvenpuro	2
+Perälamminoja	2
+Perjakkapuro	2
+Perkkiönoja	2
+Perkkiönpuro	2
+Personoja	2
+Pertanoja	2
+Peskihaara	2
+Pesuanoja	2
+Petäjämaanoja	2
+Petäjoki	2
+Petäysjoki	2
+Peukalojoki	2
+Peurahaara	2
+Peuralamminoja	2
+Peuronoja	2
+Pienjoki	2
+Pienoja	2
+Pietarinoja	2
+Pietarinpuro	2
+Pietarioja	2
+Piilijoki	2
+Piilioja	2
+Piilonoja	2
+Piimäjoki	2
+Piimäoja	2
+Piipanoja	2
+Pikku Helkioja	2
+Pikkulamminoja	2
+Pikkulamminpuro	2
+Pikoja	2
+Pilkanoja	2
+Pillipuro	2
+Pillispuro	2
+Pillupuro	2
+Pinnunjoki	2
+Pirkonpuro	2
+Pirttimaanoja	2
+Pitämäpuro	2
+Pitkälamminoja	2
+Pitkänkorvenpuro	2
+Pitkänlamminoja	2
+Pitkänperänjoki	2
+Pitkonoja	2
+Pohjanoja	2
+Pohjaoja	2
+Pohjasenoja	2
+Pohjasjoki	2
+Pohjaspuro	2
+Pohjoishaara	2
+Pohjolanpuro	2
+Pohjukkajoki	2
+Pohjukkaoja	2
+Poikkoja	2
+Pokanoja	2
+Pokelaispuro	2
+Pöksänjoki	2
+Pöksypuro	2
+Pölhönjoki	2
+Pöllänjoki	2
+Polvenoja	2
+Pönkäjoki	2
+Pörönpuro	2
+Poropuro	2
+Postilanoja	2
+Potinoja	2
+Potkunjoki	2
+Potkunpuro	2
+Pöyskönoja	2
+Pöytämaanoja	2
+Puhakanoja	2
+Pukranpuro	2
+Puljuoja	2
+Punainenoja	2
+Punainenpuro	2
+Punkanjoki	2
+Puntarpuro	2
+Puolinpuro	2
+Puolivälinpuro	2
+Purajoki	2
+Purasenjoki	2
+Purnunpuro	2
+Puro-oja	2
+Pusanoja	2
+Puterinpuro	2
+Putilaisenjoki	2
+Putkenoja	2
+Putkioja	2
+Putronjoki	2
+Puujoki	2
+Puurosenoja	2
+Pyhäjärvenoja	2
+Pyhännänjoki	2
+Pykälistönoja	2
+Pylkönoja	2
+Pyölinjoki	2
+Pyöreenjoki	2
+Pyöreisenpuro	2
+Pyssypuro	2
+Pyydysoja	2
+Raa'anoja	2
+Raaponoja	2
+Rääpysjoki	2
+Rådiket	2
+Rahajoki	2
+Rahapuro	2
+Rahkopuro	2
+Rahonpuro	2
+Raioja	2
+Raitapuro	2
+Raivionjoki	2
+Raivionpuro	2
+Rajanoja	2
+Rajasuonoja	2
+Rakennuspuro	2
+Rämepuro	2
+Rapakonoja	2
+Rapapuro	2
+Rasioja	2
+Rássája	2
+Rássejohka	2
+Rastinpuro	2
+Rasvaoja	2
+Rätkäleenpuro	2
+Rauanjoki	2
+Rautulamminoja	2
+Ravalinpuro	2
+Ravinpuro	2
+Ravipuro	2
+Rehulanoja	2
+Rehvonpuro	2
+Rekijoki	2
+Rekipuro	2
+Rekolanoja	2
+Reuhkapuro	2
+Reutuoja	2
+Riekinpuro	2
+Rieskaoja	2
+Riihijärvenoja	2
+Riihiluoma	2
+Riikanoja	2
+Riipanoja	2
+Riipinluoma	2
+Riissuonoja	2
+Riitaluoma	2
+Riitaniitunoja	2
+Riitaniitynoja	2
+Riivarinoja	2
+Rikinjoki	2
+Rikkajoki	2
+Rikkioja	2
+Rimpijoki	2
+Rinnepuro	2
+Rintapuro	2
+Riopuro	2
+Ripulinpuro	2
+Ristikkipuro	2
+Ristinoja	2
+Ristonjoki	2
+Risuoja	2
+Risupuro	2
+Ritopuro	2
+Riutanjoki	2
+Riuttasjoki	2
+Rokanoja	2
+Rokanpuro	2
+Rökäsoja	2
+Romeoja	2
+Romunpuro	2
+Romuoja	2
+Romupuro	2
+Ronkaisenpuro	2
+Ronkajoki	2
+Rönkönoja	2
+Rönninpuro	2
+Rontonoja	2
+Ronunpuro	2
+Roominoja	2
+Röörmaarinoja	2
+Roskaoja	2
+Rosvohotu	2
+Rötypuro	2
+Roukapuro	2
+Rovanoja	2
+Rovastinoja	2
+Rovavaaranoja	2
+Rovioja	2
+Ruikanoja	2
+Rumaoja	2
+Rummakkopuro	2
+Rumpuoja	2
+Ruokeoja	2
+Ruokesoja	2
+Ruona	2
+Ruonoja	2
+Ruopasoja	2
+Ruosmanjoki	2
+Ruosmepuro	2
+Ruosteenoja	2
+Ruosteikonpuro	2
+Ruosteluoma	2
+Ruostetoja	2
+Ruotaanpuro	2
+Ruotepuro	2
+Ruoto-oja	2
+Ruottinoja	2
+Rusamonoja	2
+Ruskonjoki	2
+Rutjunpuro	2
+Ruto-oja	2
+Ruunuoja	2
+Rykimäoja	2
+Ryönäoja	2
+Ryötinpuro	2
+Ryssänoja	2
+Rytiluoma	2
+Saamanoja	2
+Saarapuro	2
+Saarelanoja	2
+Saaresoja	2
+Saarijärvenpuro	2
+Saarikoskenoja	2
+Saariluoma	2
+Saarvapuro	2
+Sääskipuro	2
+Saavajoki	2
+Saavanjoki	2
+Sadinkankaanoja	2
+Sadinselänoja	2
+Sahipuro	2
+Saijanoja	2
+Sakaranjoki	2
+Säkkipuro	2
+Sáksilašája	2
+Salakkapuro	2
+Salinjoki	2
+Salkopuro	2
+Sällipuro	2
+Salmelanoja	2
+Salmi	2
+Salmisenjoki	2
+Salojoki	2
+Salonpuro	2
+Salpuupuro	2
+Sammalisenoja	2
+Sammalispuro	2
+Sammalistonoja	2
+Sammuttijoki	2
+Sankaoja	2
+Sänkipuro	2
+Santoja	2
+Sapakko-oja	2
+Saraoja	2
+Šarideijee	2
+Särkänjoki	2
+Särkkisenoja	2
+Särsbäcken	2
+Sarvenoja	2
+Sarvihaara	2
+Sattajoki	2
+Saunaluoma	2
+Saunoja	2
+Sauvapuro	2
+Sávdnája	2
+Saveronjoki	2
+Savikkopuro	2
+Savikonpuro	2
+Savonoja	2
+Savonpuro	2
+Säynäänjoki	2
+Säyneenjoki	2
+Seipipuro	2
+Selkämaanoja	2
+Selkäpuro	2
+Seppäsenpuro	2
+Sianoja	2
+Sierapuro	2
+Siilinpuro	2
+Sijdâjuuvâš	2
+Sikaoja	2
+Sikojoki	2
+Sikunapuro	2
+Sillankorvanpuro	2
+Sillanpäänoja	2
+Silmäjoki	2
+Siltasuonoja	2
+Simojoki	2
+Siosjoki	2
+Sirkkupuro	2
+Siuntionjoki	2
+Sjöängsbäcken	2
+Skállovárgorssája	2
+Smedjebäcken	2
+Soahkemohjogat	2
+Soinanjoki	2
+Sokojoki	2
+Somerojoki	2
+Sompio-oja	2
+Sompuoja	2
+Sonnanoja	2
+Sopenpuro	2
+Soppipuro	2
+Sormulanpuro	2
+Sormusjoki	2
+Sormuspuro	2
+Sorsanjoki	2
+Sortopuro	2
+Sotajoki	2
+Sotioja	2
+Soukanoja	2
+Soukkapuro	2
+Stormossadiket	2
+Strömbäcken	2
+Strömsbäcken	2
+Suasoja	2
+Suikelo-oja	2
+Suksenoja	2
+Suksijoki	2
+Sulaskaltionoja	2
+Sulatusjoki	2
+Sulkavanpuro	2
+Sundbäcken	2
+Sunninoja	2
+Suntinoja	2
+Suoidnečuohppanája	2
+Suojärvenjoki	2
+Suojärvenpuro	2
+Suolapuro	2
+Suolioja	2
+Suolovárája	2
+Suonpäänoja	2
+Suonttajoki	2
+Suosillanoja	2
+Susijoki	2
+Suttesjohka	2
+Suuaksenoja	2
+Suurenniitynoja	2
+Suuroja	2
+Syrjälamminpuro	2
+Sysipuro	2
+Syväjärvenoja	2
+Syväjärvenpuro	2
+Syvänjoki	2
+Syvännoronpuro	2
+Syvänoro	2
+Syvänpuro	2
+Syysoja	2
+Tahvonpuro	2
+Taikinajoki	2
+Taikkopuro	2
+Taipaleenpuro	2
+Täipuro	2
+Taivaloja	2
+Taivalpuro	2
+Takaluoma	2
+Takkapuro	2
+Takoja	2
+Talvijoki	2
+Tammijoki	2
+Tammioja	2
+Tampinpuro	2
+Tamppipuro	2
+Tantereenpuro	2
+Tavinoja	2
+Teeriluoma	2
+Teerisenpuro	2
+Teirioja	2
+Terrisuonoja	2
+Tervahautaoja	2
+Tervalamminoja	2
+Tervonoja	2
+Tervonpuro	2
+Tiikonoja	2
+Tiiropuro	2
+Tikanjoki	2
+Tilkunoja	2
+Timonoja	2
+Tipasjoki	2
+Tiukuoja	2
+Töhisevä	2
+Toikanoja	2
+Tökönpuro	2
+Tökrönpuro	2
+Tolosenpuro	2
+Tolppaoja	2
+Topinoja	2
+Toramojoki	2
+Torapuro	2
+Torasjoki	2
+Törisevänjoki	2
+Törmäoja	2
+Törmäsenoja	2
+Tornionjoki	2
+Töröjoki	2
+Törönoja	2
+Torvenjoki	2
+Träskdiket	2
+Träskinoja	2
+Tuhanoja	2
+Tuhkajoki	2
+Tuiskujoki	2
+Tunkaoja	2
+Tuntipuro	2
+Tunturijänkänoja	2
+Tuohiluoma	2
+Tuohinonoja	2
+Tuomaanjoki	2
+Tuomaanoja	2
+Tuomenoja	2
+Tuomistonluoma	2
+Tuorijoki	2
+Tuormusoja	2
+Tuppioja	2
+Tuppipuro	2
+Turkkijoki	2
+Tursaanjoki	2
+Turvakkojoki	2
+Tutuoja	2
+Tuurinluoma	2
+Tynnöripuro	2
+Tynnyrinoja	2
+Tyyrinvirta	2
+Tyyroja	2
+Uhuoja	2
+Uitonluoma	2
+Uitonvirta	2
+Uittopuro	2
+Ukkopuro	2
+Ukonjoki	2
+Ulmaoja	2
+Umojoki	2
+Umpilamminpuro	2
+Umpipuro	2
+Unipuro	2
+Uramopuro	2
+Uskinjoki	2
+Utsjoki	2
+Uudenniitunoja	2
+Uudenniitynpuro	2
+Uunipuro	2
+Uuranpuro	2
+Uuraoja	2
+Uusioja	2
+Vaalimaanjoki	2
+Väänäsenoja	2
+Vaarajoki	2
+Vaaralamminoja	2
+Vaaralamminpuro	2
+Vaaranaluspuro	2
+Vääränlamminpuro	2
+Vadbäcken	2
+Vähäjärvenoja	2
+Vähäluoma	2
+Vähännevanoja	2
+Vahaoja	2
+Vähäsillanoja	2
+Vähävaaranoja	2
+Vahteristonoja	2
+Vahteroja	2
+Vaijoki	2
+Vaikkojoki	2
+Vaivastenoja	2
+Vaivionpuro	2
+Väkkäräpuro	2
+Väliniva	2
+Välipäänoja	2
+Välisalmi	2
+Valkeaisenpuro	2
+Valkeajärvenoja	2
+Valkeajoki	2
+Valkeaoja	2
+Valkeisenjoki	2
+Valkeisjoki	2
+Valkiaisenoja	2
+Valkiaisoja	2
+Valkoja	2
+Valtasenpuro	2
+Valtijoki	2
+Vankanjoki	2
+Varapuro	2
+Varkaanoja	2
+Varpapuro	2
+Varpasenjoki	2
+Varpasenpuro	2
+Varpasjoki	2
+Varpopuro	2
+Värtinpuro	2
+Varttipuro	2
+Vasanoja	2
+Vasapuro	2
+Vasarajoki	2
+Vasaraoja	2
+Vaskioja	2
+Västerbybäcken	2
+Vataanjoki	2
+Vatioja	2
+Vehko-oja	2
+Vehmasoja	2
+Venäjänoja	2
+Venäjänpuro	2
+Ventojoki	2
+Vesajoki	2
+Vesanpuro	2
+Vesikallionoja	2
+Vesikkopuro	2
+Vesinevanoja	2
+Vesipuro	2
+Vesisuonoja	2
+Vetelänoja	2
+Veteläpuro	2
+Veteloja	2
+Vianjoki	2
+Vielmajoki	2
+Vieremänjoki	2
+Vihanninjoki	2
+Vihipuro	2
+Viikatepuro	2
+Viikinoja	2
+Viiksoja	2
+Viinaoja	2
+Viinikanoja	2
+Viirreoja	2
+Viitajanpuro	2
+Viitastenoja	2
+Viitavaaranoja	2
+Viivajoki	2
+Vilajoki	2
+Vilkinoja	2
+Villinoja	2
+Vilponpuro	2
+Vilusoja	2
+Vionoja	2
+Viraanoja	2
+Virenoja	2
+Virmajoki	2
+Virojoki	2
+Virranpuro	2
+Visapuro	2
+Vittajoki	2
+Vittikko-oja	2
+Viuhonoja	2
+Viuluoja	2
+Voiminoja	2
+Vuohččojohka	2
+Vuojoki	2
+Vuokŋoljohka	2
+Vuolijoki	2
+Vuomaoja	2
+Vuomošjohka	2
+Vuopajanoja	2
+Vuopio	2
+Vuorenoja	2
+Vuorijärvenpuro	2
+Vuorisenpuro	2
+Vuotavanoja	2
+Ylimmäinen Suoltijoki	2
+Ylimysluoma	2
+Ylisenoja	2
+Yöninoja	2
+Yöpuro	2
+Ypyänoja	2
+Ypykänpuro	2
+Yrjänänjoki	2
+Yrjänänoja	2
+Yrjönpuro	2
+Aalisjoki
+Aaltosenoja
+Aaporinoja
+Aarinkaisoja
+Aavaoja
+Áhkojárjohka
+Áhku Suoidnája
+Ahmahetteenoja
+Ahmajoki
+Ahmausoja
+Ahonjoki
+Ahopuro
+Ahostenpuro
+Ahtelanoja
+Ahvenisenjoki
+Ahvenisenoja
+Äijöpuro
+Äimäpuro
+Airankätky
+Aitaniitynpuro
+Aittajoki
+Aittijoki
+Aketanpuro
+Akkavaltionpuro
+Akonoja
+Akselinluoma
+Ala-Arajoki
+Ala-Kallio-oja
+Ala-Kukko-oja
+Ala-Vilmajoki
+Alainenjoki
+Alakuusanjoki
+Alankopuru
+Alaspuro
+Alhonsaara
+Ali-Kärrin
+Alikärrsbäcken
+Alikärssbäcken
+Alimmainen Sarattioja
+Alkärrsbäcken
+Ämmänluoma
+Anárjohka
+Angeljoki
+Angerjoki
+Angervikonpuro
+Ängeslevänjoki
+Annikanoja
+Anterinjoki
+Antinpuru
+Äppelfjärdsdiket
+Apurinjoki
+Arkinoja
+Arvosjoki
+Arvovaaranoja
+Asmuntijoki
+Atratjoki
+Ätsärijoki
+Aukivaaranoja
+Aumalanpuro
+Aumanoja
+Aunesluoma
+Auttinoja
+Ávdnasmarasjohka
+Avusoja
+Ađđančieskanjohka
+Bäckesdiket
+Bådabäcken
+Bajit Divgája
+Bajit Skuvttečohkája
+Beavrretjohka
+Billskogbäcken
+Birilsbäcken
+Bjånabäcken
+Boaresgiettejohka
+Bollošjohka
+Brandasbäck
+Brännbäcken
+Brobäck
+Brokärrbäcken
+Bynäsdiket
+Čeavrresjohka
+Čierttejohka
+Čieskadasjohka
+Cuávisjävrjuuhâ
+Doaresgáldu
+Eerikinpuro
+Eilisenaavanoja
+Eilittänoja
+Eksylänoja
+Elämäoja
+Empumioja
+Enonoja
+Epranoja
+Erkinjoki
+Erkinlamminoja
+Erkkejohka
+Erkkilänoja
+Erkkosalmi
+Erttetvárjohka
+Eskolanjoki
+Eskonoja
+Esse å
+Esteoja
+Etseoja
+Faret
+Fierbmelahája
+Filbunken
+Finnbäcken
+Finsjösunden
+Forsängsbäcken
+Fransinoja
+Fraset
+Frasibäcken
+Frostankärrsbäcken
+Furunäsbäcken
+Gahčahatjohka
+Gammelbybäcken
+Glimsinjoki
+Goallágottetjohka
+Gollenája
+Griskärrsbäcken
+Gunašjohka
+Guonjarjohka
+Guorrosuorgi
+Gursojohka
+Haapaluoma
+Haapaoro
+Haaroinoja
+Haasiakorvenpuro
+Haasio-oja
+Haavaoja
+Haavussalmenjoki
+Hahpahanjogaš
+Hahtioja
+Haijassuonoja
+Haikaraoja
+Häiväoja
+Hakinsuonoja
+Häkkäräpuro
+Häkkioja
+Hakoluoma
+Halilanoja
+Halinko-oja
+Halkbäcken
+Hallanpellonoja
+Hallapuru
+Halmehenoja
+Haltinoja
+Halunanjoki
+Hamperinjoki
+Hamppukaltionoja
+Hamppuliko
+Hangasluoma
+Hanhisalonjoki
+Hankapeukalonoja
+Hankeranoja
+Hankkilanoja
+Hanlamminjoki
+Hannijärvenoja
+Hännilänpuro
+Hanninoja
+Hännispuro
+Hannonpuro
+Hannulanoja
+Häpeänpuro
+Haponoja
+Harakkapuru
+Hárátjohka
+Harattalanjoki
+Harinkaanpuro
+Harkonjoki
+Harmusoja
+Harpholmssundet
+Harstioja
+Häsänjoki
+Hasulanjoki
+Hattupuro
+Hauhiansaara
+Haukelanoja
+Haukiluoma
+Haukivuomanoja
+Haukkaojansuu
+Hauskanpuro
+Hautakankaanjoki
+Hautalanoja
+Hautamaanoja
+Hautasenpuro
+Havukkaoja
+Häyrysenjoki
+Heikkilänjoki
+Heikkisjoki
+Heimolanoja
+Heinihaara
+Heinijärvenoja
+Heinimännikönpuro
+Heinisuonpuro
+Heinosenoja
+Heitjoki
+Heitonjoki
+Helabäcken
+Helalanoja
+Helkasoja
+Helkkusenoja
+Helvetinhaudanpuro
+Hemminpuro
+Heponevanoja
+Herneoja
+Hetejängänoja
+Hetuttaoja
+Hevonpuro
+Hietaanjoki
+Hietajoen Orahaara
+Hietakaarronoja
+Hietalahdenoja
+Hieto-oja
+Hiilakaarkonoja
+Hikioja
+Hillajänkänoja
+Hintikanjoki
+Hinttalaenoja
+Hirmujoki
+Hirsoja
+Hirvashaudanoja
+Hirvikummunoja
+Hirvisalmi
+Hiuraanoja
+Hoikkainpuro
+Hoiskonpuro
+Holioja
+Hollarinoja
+Hollinluoma
+Hollonoja
+Holtanoja
+Holtarinsaara
+Hongikkopuro
+Hongonjoki
+Honkalevänjoki
+Honkaluomanoja
+Honkostenoja
+Hopeavuorenpuro
+Hormaluoma
+Hormaoja
+Hornistonoja
+Höröstenoja
+Hosanoja
+Hosiojoki
+Hosionoja
+Hössöttäväoja
+Hotakanpuro
+Hotikanoja
+Hövelönpuro
+Hovilanpuro
+Höyläksenoja
+Höysälänoja
+Huhmarinoja
+Huhmarisenoja
+Huhtionoja
+Huijarinoja
+Huikinvárjohka
+Huikurinpuro
+Hukanulvomaoja
+Hukkalanjoki
+Hulkkospuro
+Humpinjoki
+Hunnakkoluoma
+Huo
+Huopakinoja
+Huoripojanpuro
+Huosiapuro
+Huosiaspuro
+Huosiosjoki
+Huosoja
+Hupelinpuro
+Hurnastinoja
+Hurskaisenpuro
+Hurtinpuro
+Hurttaoja
+Husulanjoki
+Huttuoja
+Huuhkainpuro
+Huukalo-oja
+Huuranjoki
+Huvudsjöbäcken
+Hyi-Ternujoki
+Hykkösenpuro
+Hynnänoja
+Hyrisevänoja
+Hyrsynoja
+Hyrynoja
+Hyrynpuro
+Hyvikkälänjoki
+Hyyjoki
+Hyypiönjoki
+Hyyrynpuro
+Ihanajoki
+Iiruunpuro
+Iisalmenoja
+Ikälamminpuro
+Iknonpuro
+Ikolanoja
+Ikosenoja
+Ilkanoja
+Illisoja
+Ilmapuro
+Ilmetynjoki
+Ilotunjoki
+Imarinjoki
+Imponpuro
+Inkoonjoki
+Iso Konttijoki
+Iso Pukarapuro
+Iso Savioja
+Iso-Kuoskisoja
+Isoisterinoja
+Isokaivos
+Ison-Partasen Oja
+Isonlähteenoja
+Isonlähteenpuro
+Itä-Kaijan Puro
+Jaakkimajoki
+Jaakkimanpuro
+Jaakkolanjoki
+Jääräoja
+Jaatilanjoki
+Jäätteenluoma
+Jäinenoja
+Jäkälähaara
+Jäkäläjoki
+Jako-oja
+Jalkosenoja
+Jalonoja
+Jänneoja
+Järvenpääoja
+Järvimossadiket
+Järviniitunoja
+Jaurakkaoja
+Jauranpuro
+Jauvinoja
+Jeesiöjoki
+Jessanoja
+Jievvajohka
+Joenpolvenjoki
+Joenväärä
+Johttejárjohka
+Jokilanjoki
+Jokisaarenoja
+Jolhikonoja
+Jolkanoja
+Jormonjoki
+Jorttaaninpuro
+Jouhtjärvenpuro
+Joukahaisoja
+Joukkasjoki
+Juhaninoja
+Juhonoja
+Jukkaranpuro
+Jukuanoja
+Julláája
+Junkipuro
+Junkkosenoja
+Junnásvárája
+Juntuspuro
+Juoksevaoja
+Juoksusenoja
+Juomujoki
+Juossuonoja
+Juottimenoja
+Juovâjävrjuuhâ
+Juovusoja
+Jupukanjänkänoja
+Jursulanoja
+Jusheikinoja
+Jussakanoja
+Jutkulanjoki
+Juurijoki
+Juurikonoja
+Juutisoja
+Juvanjoki
+Jyletoja
+Jylhäoja
+Jylkkysaajonoja
+Kaadinoja
+Kaamusoja
+Kaarankajoki
+Käärmejoki
+Kaarnoja
+Kaarteenoja
+Kaartioja
+Kaartiskaluoma
+Kaatrajoki
+Kaavitsaoja
+Kahilajoki
+Kahilanoja
+Kahisevanoja
+Kahuoja
+Kaihlalamminpuro
+Kaihlaspuro
+Kaihtimioja
+Kaijonpuro
+Kaiskonpuro
+Kaita-aavanoja
+Kaitahaara
+Kaiuoja
+Kaivoslamminoja
+Kakkarinpuro
+Kakkurilammenoja
+Kakonjoki
+Kakslauttasenoja
+Kaksvetisenoja
+Kalapääbäcken
+Kalasillanoja
+Kalatonoja
+Kaletonpuro
+Kalhamajoki
+Kaljanoja
+Kälkäjänoja
+Kalkuoja
+Kalliojärvenoja
+Kalliokoskenoja
+Kallmossbäcken
+Källmossdiket
+Kallolanjoki
+Kalmokorvenpuro
+Kålträskbäcken
+Kamajoki
+Kamalioja
+Kämppälehdonoja
+Kämppäpuro
+Kanalanpuro
+Kanervaoja
+Kangosjoki
+Kankaantakasenoja
+Kankaronoja
+Känkkyräoja
+Kansanjoki
+Kansoja
+Kantoinoja
+Kantolanoja
+Kapakkapuro
+Käpätinoja
+Kapionpuro
+Kappeliluoma
+Kapsajoenlalva
+Kapsajoki
+Kapulapuro
+Kapurinoja
+Kärenjoki
+Karho-oja
+Karhujupukanpuro
+Karhunpesäoja
+Karigasjoki
+Karisenpuro
+Karjakorvenoja
+Karjalaoja
+Karjaluoma
+Kärkäsoja
+Kärkätpuro
+Kärkelänjoki
+Karlåbäcken
+Kärmepuro
+Kärpänpuro
+Karppioja
+Kartkoskenoja
+Kartuskanoja
+Kärväselänjoki
+Karvionjoki
+Karvsorbäcken
+Kaseksenoja
+Käsioja
+Kaskasjoki
+Käsmänjoki
+Kasurinpuro
+Katajalamminpuro
+Katiskoja
+Katjoki
+Kattilajärvenoja
+Kattilanoja
+Katusuonoja
+Katvanpuro
+Kauheenpuro
+Kaukalonluoma
+Kauruunoja
+Kauvonoja
+Kaviolamminpuro
+Kaviosuntinoja
+Keijastenjoki
+Keikkumaoja
+Keisarinoja
+Kekrinpuro
+Keksalminoja
+Keljanpuro
+Kellarinoja
+Keltunoja
+Kelukkajoki
+Kemihaara
+Kemponoja
+Kenkäheinäoja
+Keretinpuro
+Kerkkosokanoja
+Kerkkulanpuro
+Kertunpuro
+Kesänkioja
+Keskijärvenoja
+Keskimmäinen Papuhaara
+Keskimmäinen Sulajoki
+Keskinenoja
+Keskisillanoja
+Keskistenpuro
+Keskusoja
+Kessijoki
+Kestinluoma
+Ketopuro
+Kettapuro
+Ketunniitunoja
+Kevojoki
+Keđgijuuhâ
+Khiytolan-Yoki
+Kidisjoki
+Kielisenpäkki
+Kiellarovanoja
+Kierijoki
+Kierikkioja
+Kieringinjoki
+Kierivuomanoja
+Kierrosmaanoja
+Kiertämäjoki
+Kiertämäoja
+Kihliänjoki
+Kiilmanninoja
+Kiimanjoki
+Kiimasijanoja
+Kiiminkijoki
+Kiitsonoja
+Kikkelänjoki
+Kilpolamminoja
+Kiltinkorvenoja
+Kilvenjoki
+Kimiinpuro
+Kinasenpuro
+Kinnulanpuro
+Kintamonoja
+Kintasjoki
+Kiponpuro
+Kirintöjoki
+Kiristäjäoja
+Kirkkoherranoja
+Kirnujoki
+Kirpunjoki
+Kissanpuro
+Kitinoja
+Kitkajoki
+Kiuaspuro
+Kiukonjoki
+Kiusakorvenpuro
+Kiuttupuro
+Kivihaaranlatva
+Kivilamminjoki
+Kivilamminpuro
+Kiviraumanoja
+Kivivaaranoja
+Kivjärvbäcken
+Kivonteenoja
+Klyvjon
+Koiralamminoja
+Koiranpieksämäoja
+Koisevanluoma
+Koivajanpuro
+Koivuinenoja
+Koivuportaanluoma
+Kokamonpuro
+Kokkareenoja
+Kolisevaoja
+Koljatinpuro
+Koljonjoki
+Koljosenpuro
+Kolkkopuro
+Kollanjoki
+Kolmentunturinoja
+Kolmosoja
+Kolodiket
+Koluskoski
+Köminoja
+Komionoja
+Könkäänlamminoja
+Konnanpuro
+Konnapuro
+Konosjoki
+Kontanpuro
+Kontbäcken
+Kontojoki
+Konttipuru
+Kontusenpuro
+Köntysjoki
+Kooninjoki
+Kopanpuro
+Kopolanoja
+Koppalanjoki
+Koppeloja
+Korioja
+Korkeanmaanjoki
+Korkeanniemenoja
+Korkeapuro
+Korkeenjoki
+Korkkasenpuro
+Koroluoma
+Korospuro
+Korpisenpuro
+Korppiaavanoja
+Korrinoja
+Körrinoja
+Korsaoja
+Korsobäcken
+Korsuoja
+Kortejängänoja
+Kortepaikanpuro
+Kortinpuro
+Kortonlehdonoja
+Kortteenjoki
+Korvattomanoja
+Korvenlasku
+Korvo-oja
+Koskamaoja
+Koskenalustenoja
+Koskikaltiojoki
+Koskueenoja
+Koskuvinoja
+Kosolanluoma
+Kosterjoki
+Kosunpuro
+Kotaramminoja
+Kotavaaranoja
+Kotjonjoki
+Kotkannevanoja
+Kotkoja
+Koukkajoki
+Koumanoja
+Koutelonjoki
+Koutusjoki
+Kouvolanoja
+Koveronjoki
+Koverusjoki
+Kovionoja
+Köyhäjoki
+Kräkkylänluoma
+Kranssinoja
+Krapukoski
+Kropunoja
+Krouvinoja
+Kubbflagan
+Kuikkisenoja
+Kuikko-oja
+Kuivaluoma
+Kuivavaaranoja
+Kuivistonpuro
+Kujassuonoja
+Kujerioja
+Kullerinpuro
+Kulluvaaranoja
+Kulmakkapuro
+Kulo-oja
+Kulokkaanpuro
+Kulonoja
+Kulunnanpuro
+Kumionoja
+Kummunoja
+Kumpuspuro
+Kungsån
+Kunnarinluoma
+Kunnusoja
+Kuntipuro
+Kuohattijoki
+Kuohijoki
+Kuohuvaoja
+Kuokanjoki
+Kuolavaaranjärvenoja
+Kuolemankorvenpuro
+Kuollutoja
+Kuopalaavunoja
+Kuopsioja
+Kuorsumaanoja
+Kuortanojoki
+Kuoruejoki
+Kuoskunoja
+Kupero-oja
+Kuplettioja
+Kupluspuro
+Kuppelon Valtaoja
+Kupulisoja
+Kupusenoja
+Kurenkorvenoja
+Kurjalanoja
+Kurojoki
+Kurpinaoja
+Kursunkioja
+Kurtonoja
+Kuruhaara
+Kurvisenpuro
+Kusinpuro
+Kutinjoki
+Kutinoja
+Kutrikko-oja
+Kutronpuro
+Kuttelinpuro
+Kuttusoja
+Kuukankoski
+Kuulamminoja
+Kuurunoja
+Kuusenkaltionoja
+Kuusipäänoja
+Kuusjärvenpuro
+Kuuttipuro
+Kuvajaoja
+Kuvansinjoki
+Kvarnkärrbäcken
+Kylmäpuru
+Kylypuro
+Kynnenoja
+Kynsijoki
+Kytöstenoja
+Kyykönoja
+Kyynäräjärvenoja
+Kyynärpäänjoki
+Laahajoki
+Laakajoki
+Lääkinoja
+Laakkosenmukkaoja
+Laakkosenpuro
+Laakonoja
+Laamasenpuro
+Lääminginjoki
+Laanijärvenoja
+Laanjuuvâš
+Laarajoki
+Lääsönpuro
+Laattajanpuro
+Laavioja
+Lahdenperänpuro
+Lahdenpohjapuro
+Lahdenpuro
+Lähteensuonoja
+Lahtipuro
+Lahukkapuro
+Laidinpuro
+Lainaseljänoja
+Laiskasoja
+Lakeisoja
+Lällänoja
+Lalleropuro
+Lallinlamminoja
+Lalvaoja
+Lamminjärvenoja
+Lamminnevanoja
+Lamunoja
+Lankapuro
+Lankojoki
+Lapapohjanpuro
+Lapinjängänoja
+Lapinjärvenjoki
+Lapinlamminpuro
+Lapinnevanoja
+Lápmejohka
+Lappasenoja
+Lappbäcken
+Lappfjärds Å
+Lappoonjoki
+Larsmossbäcken
+Läskilahdenpuro
+Lassilanjoki
+Lassinjoki
+Lassinlamminoja
+Lässtubäcken
+Lastuksenojanko
+Lattiaoja
+Lattio-oja
+Latvaansuonoja
+Latvajärvenoja
+Latvastenjoki
+Latvoinjoki
+Lauhajoki
+Lauhjoki
+Lauhtunoja
+Lauloja
+Laurinkoski
+Lauroja
+Lautasuonoja
+Lautsillanpuro
+Lauttasenjoki
+Lauttijärvenjoki
+Leammašjohka
+Leammegasája
+Leeđiijuuvâš
+Lehinpuro
+Lehmäluoma
+Lehmäoja
+Lehmuksenviepä
+Lehtojärvensalmi
+Leikaripuro
+Leinosenpuro
+Leissanoja
+Lekopuro
+Leksonpuro
+Lemetinpuro
+Lemusoja
+Leparonoja
+Leppäinoja
+Leppäkorvenoja
+Leppäsjoki
+Leppästenoja
+Leppikorvenoja
+Leppiluoma
+Leppinoro
+Lepsämänjoki
+Lerttaoja
+Lessinpuro
+Levanpuro
+Leväsjoki
+Leveäoja
+Lidån
+Liedesoja
+Lienjoki
+Liesonjoki
+Liessijoki
+Lieteoja
+Lievokko-oja
+Lihmonoja
+Liikkasenjoki
+Liikkiönoja
+Liimatanpuro
+Liimonjoki
+Liinajoki
+Liinasoja
+Liirinoja
+Liitjoki
+Likavuopionoja
+Likkusoja
+Likosenjoki
+Lillan
+Lillsjöbäcken
+Lilmanjoki
+Linnavuorenoja
+Lintusaarenoja
+Lirinoja
+Lismaoja
+Lissioja
+Listinginoja
+Litojoki
+Littosjoki
+Loikonoja
+Loilanoja
+Loilaxbäcken
+Loimanjoki
+Loimijoki
+Loivushaara
+Lojukoski
+Lokaoja
+Lökäsoja
+Lokkioja
+Lomalanoja
+Lopotinoja
+Loppisenoja
+Loppisoja
+Lopsunoja
+Lorinpuro
+Lorisijanpuro
+Lotinanjoki
+Lotlaxbäcken
+Loueoja
+Louetoja
+Louhelanpuro
+Loukeenjoki
+Loukko-oja
+Loukkuspuro
+Loutakko-oja
+Loutteenpuro
+Loutteispuro
+Lovelamminoja
+Löytänänpuro
+Luhanpuro
+Luhdinoja
+Luhinjoki
+Luhtaronoja
+Luisoanpuro
+Luksuanjoki
+Lumikurunoja
+Luodesuonoja
+Luolalamminoja
+Luomusjoki
+Luonajänkänoja
+Luonuajoki
+Luoto-oja
+Luotolanpuro
+Luotosenpuro
+Luotosjoki
+Luppokurunoja
+Lusikkaoja
+Luukkaanjoki
+Luulajanjoki
+Luuoja
+Luutajoki
+Luutaoja
+Maaninkijoki
+Maariaispuro
+Maaselkäoja
+Maasillanpuro
+Maaslamminjoki
+Maatianluoma
+Maatikinviepä
+Madesjoki
+Madesluoma
+Mäentauspuro
+Mahakkaanjoki
+Mahloja
+Máhtája
+Maijalanoja
+Maintaisenjoki
+Mairinoja
+Maitokaltionoja
+Maksimanpuro
+Malijoki
+Malipuro
+Malisenpuro
+Maljapuro
+Malkakorvenoja
+Mälkölänoja
+Mallajoki
+Mallatlamminpuro
+Mammonjoki
+Mankilanoja
+Mankinvirta
+Manteoja
+Mäntylänluoma
+Marjukkainjoki
+Märkävaaranoja
+Markinpuro
+Markkuunpuro
+Marttaoja
+Marttiininoja
+Marttisenjoki
+Masojoki
+Mastianoja
+Matala-ahonpuro
+Matinjoki
+Matko-oja
+Matkuksenpuro
+Matosaarenoja
+Máttaolbmuidbohki
+Matti-vainaan Oja
+Mattilanjoki
+Máttit Ravadas
+Máttitsuorgi
+Mauharinjoki
+Maunonpuro
+Maunuksenoja
+Maununjoki
+Meiskanoja
+Meliininoja
+Melkinpuro
+Meriläisenpuro
+Meripuro
+Meroja
+Messträskbäcken
+Mestinoja
+Metsäniitunoja
+Metsäoja
+Metsolanoja
+Metsomukanoja
+Miehinkäisenpuro
+Miekkapuro
+Mieksonoja
+Mielmukkaoja
+Mikanoja
+Mikonkoski
+Misijoki
+Miuluksenkaivos
+Mjubackdiket
+Moilasenoja
+Mökkipuro
+Montonoja
+Montosenpuro
+Morkkajoki
+Moskuoja
+Mossakanalen
+Mossakärrsbäcken
+Motinoja
+Möyryoja
+Mudinoja
+Muhveikkosenpuro
+Mukajoki
+Mukkasaarenoja
+Mukkurasoja
+Mulkahisenoja
+Mulkkauspuro
+Mullosbäcken
+Munarimminoja
+Munasuonoja
+Munteronjoki
+Muoninkioja
+Muorijärvenoja
+Muotialanjoki
+Murennuspuro
+Murhahaara
+Murisijanoja
+Murtoinsillanoja
+Murtostenoja
+Musanoja
+Mustalammenoja
+Mustankorvenpuro
+Mustanlahdenpuru
+Mustanrinnanpuro
+Mustassuonoja
+Mustionjoki
+Mustolanoja
+Mustolanpuro
+Mutkoja
+Myhkyripuro
+Mykänkanava
+Mykräpuro
+Myllykankaanoja
+Myllysillanoja
+Mynäjoki
+Myransbäcken
+Myräoja
+Naakonoja
+Naamanganjoki
+Naamanganpuro
+Naapaskaoja
+Naarapuro
+Näätärotkonoja
+Naatikkajoki
+Näätimäisenpuro
+Nahkialanjoki
+Náhppevárjohka
+Naistenoja
+Naistinjoki
+Nakunoja
+Nälköpuro
+Nälmänjoki
+Namahisája
+Namalikkojoki
+Nåpjärvbäcken
+Nappioja
+Nappipuro
+Narkausjoki
+Narkioja
+Narunpuro
+Näsinoja
+Näskänjoki
+Nässänoja
+Nastareiänoja
+Neitijoki
+Nenättömänluoma
+Nesterinpuro
+Nevanperänjuoksu
+Nevaoja
+Nielupuro
+Niettuspuro
+Niinilamminoja
+Niirasenpuro
+Niittusuonoja
+Nikaranpuro
+Nikittäjänoja
+Nikkaroja
+Nikunoja
+Nilkkaoja
+Nillitsemäoja
+Nimisenjoki
+Nipareenoja
+Niprajoki
+Nirro-oja
+Nirvaoja
+Niskasenpuro
+Nissinjoki
+Nivelpuru
+Njallajohka
+Njávgoaijohka
+Njiđgu
+Njoaskejohka
+Njuohkarjohka
+Nopannenänoja
+Noro
+Norrbäcken
+Norrmossadiket
+Norssipuro
+Norvajoki
+Notkovuomanoja
+Nuhppirjohgeahči
+Nukarinoja
+Nuojuankoski
+Nuokkionoja
+Nuottajärvenoja
+Nupulaisoja
+Nurmaanjoki
+Nurmienpuro
+Nutipuro
+Nuuskapuro
+Nuvvosgeahči
+Nyrhinoja
+Nyyhkyrinpuro
+Nyyssönjoki
+Oahojohka
+Oakkostanjohka
+Oađátjohka
+Ohjonoja
+Ohmeroluoma
+Ohmonjoki
+Ohranoro
+Ohtajoki
+Ohtapuro
+Oijusjoki
+Ojakorvenpuro
+Ojapäänoja
+Ojaperänoja
+Oksluoma
+Olkojoki
+Olkonoja
+Olletanoja
+Ollilanoja
+Ollinjängänoja
+Ollipuro
+Olosjoki
+Ommuspuro
+Ongosoja
+Onkilamminpuro
+Ööpörinoja
+Oravaisenpuro
+Oravaisjoki
+Oravanoja
+Oravanpesäoja
+Orošoaiája
+Otamonjoki
+Otmenenjoki
+Ouranoja
+Överstträsket
+Öykönpuro
+Pääjärvenluoma
+Paajenoja
+Päällistönoja
+Paamajoki
+Paanosenoja
+Pääojanluoma
+Pääpohjanpuro
+Pääskypuro
+Päästäispuro
+Paastouspuro
+Paatinjoki
+Paatinoja
+Paattinkijoki
+Paavinoja
+Pahanjärvenoja
+Pahkavaaranoja
+Pahtalaenoja
+Päijänteenjoki
+Painajaisenoja
+Painonjoki
+Paistamaoja
+Paitvainen
+Päiviöoja
+Pajarinpuro
+Pakajoki
+Pakarinoja
+Päkinluoma
+Pakolamminoja
+Paljakonpuro
+Paljukanlammenoja
+Pallasjoki
+Pällikkäänpuro
+Pallo-oja
+Palmrootinoja
+Paloharjunpuro
+Palonjoki
+Palopäkki
+Palovuomanoja
+Palsanpuro
+Paltsaoja
+Paltsavaaranoja
+Palvapuro
+Palvianoja
+Panskinpuro
+Panubäcken
+Papupuro
+Paratusoja
+Parikkaanoja
+Parilaoja
+Pärioja
+Pärnäpuro
+Paro-oja
+Parttosenpuro
+Parvanjoki
+Pasinoja
+Paskalampinoja
+Paskaluottumanoja
+Pasonoja
+Pässinpäänoja
+Patamonlamminoja
+Patojoki
+Patokoski
+Patviahonhaara
+Paukkionoja
+Paulaoja
+Paunusoja
+Pehmeäisenpuro
+Pekalamminoja
+Pekkapuro
+Pekkolamminoja
+Pekolanjoki
+Pekosenpuro
+Pellavaspuro
+Pellonjänkänoja
+Pelsioja
+Peninluoma
+Penttilänjoki
+Peräkallio-oja
+Perännevanoja
+Peränpuro
+Perävaaranoja
+Perheenoja
+Perkanbäcken
+Pertunoja
+Pesänpuro
+Pesemäoja
+Pessarinpuro
+Pessousjoki
+Pestinpuro
+Petäjäjärvenjoki
+Petäjälamminoja
+Petäjäsluoma
+Petäjäsoja
+Petsuoppumaoja
+Pettäväpuro
+Pettunevanpuro
+Peuranjoki
+Peuranluoma
+Peurunoja
+Pieinoja
+Pielesoja
+Pienankojoki
+Pienenniranoja
+Pieni Hakojoki
+Pieni Särkkäjoki
+Pieoja
+Piernakkaoja
+Pierveloja
+Pietilänjoki
+Pietniemenoja
+Pihjalajoki
+Pihlaapuro
+Pihlajabäcken
+Pihlajajoki
+Piilunpuru
+Piirolanpuro
+Piitsonpuro
+Pikjärvenoja
+Pikkaraisenoja
+Pikku Kiukaanoja
+Pikku Kivijoki
+Pikku Kuoskisoja
+Pikku Marimonoja
+Pikku Siioja
+Pikku-Pitkän Puro
+Pikkuhaara
+Pikkujängänoja
+Pikkusalmi
+Pikkuvaaranoja
+Pikkuvuomajoki
+Pikojoki
+Piljonoja
+Pilkkajoki
+Pilnadiket
+Pisamipuro
+Pisamonjoki
+Pitäänoja
+Pitkänjänkänoja
+Pitkänjärvenpuro
+Pitkänkoskenoja
+Pitkänniitunoja
+Pitkänrasinpuro
+Pitkänvaaranpuro
+Pitkäsjoki
+Pitkäsuvanto
+Pohjois-Koutuanjoki
+Poikeldiket
+Pokkioja
+Pökkyläjänkänoja
+Poksamolamminoja
+Pöksänpuro
+Pöljänjoki
+Pollarinluoma
+Pöllöoja
+Pöllösenpuro
+Pomarkunjoki
+Ponsiluoma
+Porkaoja
+Porkkausoja
+Porolamminpuro
+Porontimajoki
+Porraskorvenoja
+Porrassuonpuro
+Pörsiöoja
+Portimo-oja
+Poskipuro
+Pössinoja
+Potilanjoki
+Potkunoja
+Potnasenoja
+Potsokkelmaoja
+Pötsönpuro
+Pöylinoja
+Pöyliöoja
+Pöyrisjoki
+Prentinjoki
+Prokonoja
+Protinoja
+Pudotuksenoja
+Pudotusoja
+Puikonkoski
+Pukaranpuro
+Pukkaoja
+Pukkijuopa
+Pukkilanluoma
+Pukkioja
+Pulimaoja
+Pulinjoki
+Pulkkasenpuro
+Pullo-oja
+Pulloja
+Punnanpuru
+Puntarioja
+Puntasoja
+Punzeejuuhâ
+Puolivälinjoki
+Puolukkapuro
+Puonioja
+Puöreäpuro
+Puostarinoja
+Puotinoja
+Puranteenviepä
+Purnulamminoja
+Puruluoma
+Pussinoja
+Pusulanjoki
+Pusunjoki
+Putellinoja
+Putkenkarkeanoja
+Putkijoki
+Putkolanpuro
+Pykäläisenoja
+Pykälikköjoki
+Pyöninjoki
+Pyörittäjänpuro
+Pystysenpuro
+Pyydysjoki
+Pyylamminoja
+Pyytilamminpuro
+Raanamaoja
+Rääsänoja
+Raasinoja
+Rahaoja
+Rahijärvenoja
+Rahkasuonoja
+Rahkoluoma
+Rähmänoja
+Rähmäpuro
+Räihänjoki
+Raijainoja
+Raijanjoki
+Raikonoja
+Raisionjoki
+Raitinpurunoja
+Raittipuro
+Rajalahdenoja
+Rajalammenoja
+Rajasoja
+Rajastenoja
+Räkäoja
+Rakitsaisenoja
+Rampakonoja
+Rämpsynoja
+Ranta-Vaimasoja
+Rantapuro
+Rantojoki
+Rapakivenjoki
+Rapankorvenoja
+Rapeikonoja
+Rapinpuro
+Rasinjoki
+Rassujoki
+Rastinjärvenpääpuro
+Räsynpuro
+Ratioja
+Ratkaoja
+Rättyänoja
+Rätypuro
+Raudasoja
+Rauhionoja
+Raumanjoki
+Rauskasbäcken
+Rautaisenpuro
+Rautalamminoja
+Rautaperänjoki
+Rautavirta
+Rautianoja
+Rautopuro
+Rautulanjoki
+Rautuvanganoja
+Ravadas
+Rávdujävrjuuvâš
+Ravionoja
+Reatkàjohka
+Redunoja
+Rehvelinpuro
+Reijuspuro
+Reisivettenoja
+Reitoja
+Renttimäoja
+Repukkapuro
+Retkeenoja
+Retsamo-oja
+Riämnjájuuváš
+Ridanoja
+Riemuoja
+Riesiöoja
+Riestojoki
+Rietaoja
+Rihmakursunoja
+Rihtujohka
+Riihisenpuro
+Riikalanoja
+Riikniitunoja
+Riiminoja
+Riissillanoja
+Riitunpuro
+Riitunvirta
+Rimpilamminoja
+Rinteenoja
+Riskaskamanoja
+Ristinmorostonoja
+Ristirämäkönoja
+Ristisenpuro
+Ristisillanoja
+Riukupuro
+Riutanoja
+Rivgojohka
+Roahkájohka
+Röäsoja
+Roavvevárjohka
+Rödjebäcken
+Roikanpuro
+Roimanpuro
+Roinispuro
+Rokamo-oja
+Rokkolanoja
+Rökötesluoma
+Romonpuro
+Romunjoki
+Ronkanoja
+Ronkkelinjoki
+Röömärinoja
+Rööninginoja
+Roopenoja
+Rooppioja
+Ropakkojoki
+Ropmaeatnu
+Ropoisenluoma
+Rossinoja
+Rova-Joukahaisoja
+Rovanpuro
+Rovapuro
+Röykynoja
+Ruiskuaronoja
+Rukajoki
+Rummukkaoja
+Rumpunoja
+Runkausjoki
+Runtioja
+Runtsanpuro
+Ruohinjoki
+Ruoho-Perlukkalammin Puro
+Ruokkijoki
+Ruokoja
+Ruonasenpuro
+Ruoppaoja
+Ruopsanjoki
+Ruoshaara
+Ruotajoki
+Ruotkunoja
+Rusilanjoki
+Ruskeanoja
+Rutakonjoki
+Rutibäcken
+Rutkanpuro
+Rutkunpuro
+Rutubäcken
+Ruukinjoki
+Ruunalinpuro
+Ruuvaoja
+Ruuvisenjoki
+Ruvanoja
+Ruvžavárája
+Rynkäjoki
+Rynkäpuro
+Ryösiönjoki
+Rytijänkänoja
+Ryymäysoja
+Ryynäsjoki
+Saajoki
+Saalispuro
+Saaninoja
+Saarenpuro
+Saarensuunpuro
+Saarisenoja
+Saarisuonoja
+Sahanluoma
+Sähärinpuro
+Sahtipuro
+Saiholamminoja
+Saikkalanjoki
+Sairaanpuro
+Sairo-oja
+Salajoki
+Sälevänpuro
+Salioja
+Sälkänoja
+Salkojärvenjoki
+Sallaanoja
+Sallinjoki
+Sällinoja
+Salmeenoja
+Salmusoja
+Salo-oja
+Saloistenoja
+Samulioja
+Sanasluoma
+Sandskabäcken
+Sandsunsbäcken
+Sanjaoja
+Sankajängänoja
+Sankassuonoja
+Saparopuro
+Sappionjoki
+Saramojoki
+Sarasenpuro
+Särkiluoma
+Särkinen
+Särkipuru
+Sarkkilanjoki
+Sarre-Petterin Oja
+Sarrio-oja
+Sassilanjuopa
+Satamo-oja
+Satulaoja
+Saukkojänkänoja
+Saukkokorvenpuro
+Sausoja
+Saviluoma
+Savistenaronoja
+Savonnevanpuro
+Savupuro
+Säynäoja
+Säynevirta
+Seeklanninpuro
+Seetulanoja
+Seikarinoja
+Seipäjoki
+Seippispuro
+Seiterinoja
+Seitsemisjoki
+Seittunoja
+Selänpuro
+Selperinoja
+Sentioja
+Sepänkorvenoja
+Seppäsenoja
+Serrioja
+Sestjoki
+Severijoki
+Seyrisjoki
+Sietkajoki
+Sihkajanpuro
+Sihvonpuro
+Siikalamminpuro
+Siimaoja
+Siiramojoki
+Siitoonoja
+Sikaluoma
+Sikkolanoja
+Sikolampinoja
+Silakkaluoma
+Sillaoja
+Silmäkesoja
+Silmäluoma
+Siltalamminpuro
+Siltanoro
+Siltanotkonpuro
+Siltasalmi
+Simananoja
+Simonsträskbäcken
+Simpukkapuro
+Simuseljänoja
+Sinisillanoja
+Sinkelinoja
+Sipipuro
+Sipuli
+Širrájohka
+Sisäpuro
+Sivakkalamminpuro
+Sivuoja
+Sjundbyån
+Skáidejárája
+Skettliddiket
+Skiehččanjohka
+Skräddarsbäcken
+Skvatterbäcken
+Šnirreejuuvâš
+Soahkája
+Soasjoki
+Soassalmi
+Soikko-oja
+Soitunjoki
+Solberg Ån
+Solistonoja
+Solukkapuru
+Sonjoenoja
+Sonkajanpuro
+Sonnilanoja
+Sontiluoma
+Sontsinoja
+Sopenvirta
+Sorenoja
+Sorjolanpuro
+Sorkkaoja
+Sorkoja
+Sorkonoja
+Sorrospuro
+Sorsapuro
+Sortojoki
+Sorvastenoja
+Sorvistdiket
+Sotavaaranoja
+Sotilamminpuro
+Sotinpuro
+Sotkanluoma
+Sotkaoja
+Sotkupuro
+Sottujoki
+Soukisoja
+Soukkelojoki
+Soukonoja
+Sourunpuro
+Spiinioja
+Stenbrobäcken
+Stora Sundet
+Stordiksbäcken
+Storhamnbäcken
+Storsund
+Strandfladan
+Strandutfallet
+Stuorrahanoaivvejohka
+Stuorrajohka
+Stuorrävži
+Sudenpudas
+Suilunpuro
+Suivakkojoki
+Sukkapuro
+Sulahaara
+Sulahaaranoja
+Sulahetteenoja
+Sulkuniitynpuro
+Sulkuoja
+Suntio-oja
+Suolapanoja
+Suomunlatva
+Suopattipuro
+Suopohjanoja
+Suoronjoki
+Suorrajoki
+Supliikinoja
+Surnuinjoki
+Suttesjohgeahči
+Suuponpuro
+Suurensuonoja
+Suuripuro
+Syömäläoja
+Syönnösoja
+Syöstäväoja
+Sysmänjoki
+Systerbäck
+Syvänojanpuro
+Taalinlahdenoja
+Taatiaisenoja
+Tahvolanjoki
+Taikinaluoma
+Tainanjoki
+Tainusluoma
+Täitimenjoki
+Taka-Pimiänrannanoja
+Takajärvenoja
+Takalo-oja
+Takasenoja
+Takasenpuro
+Takkulanoja
+Takkusenoja
+Tallipuro
+Tallipuru
+Talvilamminoja
+Tammalamminjoki
+Tankajoki
+Tapojoki
+Tärjälänoja
+Tärkämäoja
+Tarvasenoja
+Tarvasjoki
+Taskupuro
+Tatimonjoki
+Taviperänpuro
+Tavistmusanoja
+Teerikiimaoja
+Telkkälamminoja
+Telsanoja
+Temminoja
+Tenhospuro
+Tenhusenoja
+Teponjoki
+Terävänoja
+Teutarinpuro
+Tevanjoki
+Tieksonjoki
+Tietämättömänpuro
+Tihkaispuro
+Tihkupuro
+Tiikkajanoja
+Tiilikkalanjoki
+Tiirojoki
+Tiitipuro
+Tiitunpuro
+Tikkajoki
+Tikkasenjoki
+Tilkkuaoja
+Tiperopuro
+Tiukuvaaranoja
+Tivonpuro
+Tobiasoja
+Toivakkaoja
+Toivarinlamminoja
+Toivasenpuro
+Töllöjoki
+Tolosenhaara
+Tolpanjoki
+Tölppäsenpuro
+Tolvanpuro
+Tolvasenpuro
+Tönönoja
+Tonttuoja
+Toraspuro
+Toravanoja
+Torohoja
+Töröoja
+Törsämönpuro
+Torsbölebäcken
+Torvioja
+Toukkapuro
+Töyränoja
+Trångån
+Tränusbäcken
+Trolssinjoki
+Tuhiseva
+Tuiranpuro
+Tulisevankoski
+Tulkkupuro
+Tulusoja
+Tunkahaara
+Tuntsayoki
+Tuohenkiskomaoja
+Tuohikonoja
+Tuohistonoja
+Tuomisenaronoja
+Tuopanjoki
+Tuoreenkurunoja
+Tuoreenvuomanoja
+Tuoresluoma
+Tuoresoja
+Tupalabäcken
+Tuposenpuro
+Turhalanpuro
+Turjalaisenoja
+Turkanoja
+Turkimusoja
+Turkkilanjärvenoja
+Turravaaranoja
+Turusenoja
+Turvakonoja
+Tussunpuro
+Tutusenjoki
+Tuulikurunoja
+Tuulioja
+Tuupanpuro
+Tuurapuro
+Tuuteronsalmi
+Tyhjä Silasoja
+Typpyräjoki
+Tyrsämönoja
+Tyrsävänpuro
+Tyylinpuro
+Tyynenoja
+Tyystjoki
+Uhlunoja
+Uitonpuro
+Uittojoki
+Ukkosenpuro
+Ulappapuro
+Uotinoja
+Urdejohka
+Urkanoja
+Urkkajärvenoja
+Urmaanoja
+Urranoja
+Uskalinjoki
+Utsakkaoja
+Uudenhaaranlatva
+Uudenjänkänjoki
+Uuhioja
+Uunolanoja
+Uunonpuro
+Uuramenoja
+Uuronjoki
+Uuronoja
+Vaaherjoki
+Vaalaoja
+Vääräinoja
+Vääräluoma
+Väärän-Valajan Oja
+Vääränpääpuro
+Vaaranrinnanpuro
+Vääränsuonoja
+Vääränviemäri
+Vaarasuonpuro
+Vaatto-oja
+Vähänniitunoja
+Vähäsalmi
+Vahdonjoki
+Vahtolamminoja
+Vaihinoja
+Vaikosoja
+Vaipobäcken
+Väisäsenoja
+Vaklioja
+Valbrobäcken
+Valeoja
+Välikorvenoja
+Välilamminpuro
+Väliluoma
+Väliniitynoja
+Väljänjoki
+Valkeaisenjoki
+Valkeapuru
+Valkiaisjoki
+Valkjärvenpuro
+Valkosenoja
+Vallasjoki
+Vällipesjuuvâš
+Vallonoja
+Välttipuro
+Valvatinjoki
+Vammanoja
+Vanhakanava
+Vanhankydönoja
+Vanhanmyllynoja
+Vanhansuonpuro
+Vänkönoja
+Vannespuro
+Vännipuro
+Vantaanjoki
+Vantaspuro
+Vanttausjoki
+Varastinpuro
+Varesjoki
+Variskorvenpuro
+Varpo-oja
+Varttaoja
+Varvutjoki
+Vasaraisenjoki
+Vaskanoja
+Vastahankaisenoja
+Västerbäcken
+Vateikkopuro
+Vathuhdanoja
+Vauhkosenpuro
+Vaulonoja
+Vauluoja
+Vaulurovanoja
+Vaunujoki
+Väyrysenjoki
+Vehkakorvenpuro
+Vehkaportaanoja
+Vehkaspuro
+Vehkorvenoja
+Vehkosuonoja
+Veitsijoki
+Veitsiviidanpuro
+Veitsoja
+Veittioja
+Vellinoja
+Venehaaranoja
+Venjärvsbäcken
+Vesaniemenoja
+Vesikonoja
+Vesikuortinoja
+Vesinevanpuro
+Vesisaarenoja
+Vesivuodonoja
+Vestojoki
+Vetämäkurunoja
+Vetelänluoma
+Vetenoja
+Veto-oja
+Vidkullabäcken
+Viercagáldu
+Viheriäisoja
+Vihtalamminpuro
+Viikerinoja
+Viikinpuro
+Viimanpuro
+Viipuajoki
+Viisolanoja
+Viisteenoja
+Viitapuru
+Viitasenpuro
+Viitasjoki
+Viitoinjoki
+Vikahdelaksonoja
+Vikbäcken
+Vilhonpuro
+Viljamaanoja
+Viljuksenoja
+Villikkalanjoki
+Vilponoja
+Vilpusjoki
+Viluoja
+Vilvasjoki
+Vinjuája
+Vinkkispuro
+Vino-oja
+Vinsajoki
+Vipanpuro
+Virkkulanoja
+Virtolaisenoja
+Visa-Lauttasen Oja
+Visjärvbäcken
+Vistinoja
+Vitmossabäcken
+Vitsa-aavanoja
+Vitsikkovuomanoja
+Vittarovanoja
+Vittavaaranlamminoja
+Vittikkokummunoja
+Viukarinpuro
+Voikoskenpuro
+Vonganoja
+Vouhtujoki
+Vouruoja
+Voutipuro
+Vuohikkaanoja
+Vuohtojoki
+Vuokinpuro
+Vuolit Bahtasáhcája
+Vuolit Divgája
+Vuolit Luovosvárjohka
+Vuolleseavttet
+Vuolujoki
+Vuomanjoki
+Vuonnelo-oja
+Vuonnelohaara
+Vuonteenpuro
+Vuopajaoja
+Vuopionoja
+Vuorenalustaoja
+Vuoresjoki
+Vuorgočearjohka
+Vuorioja
+Vuormanoja
+Vuosioja
+Vuosjoki
+Vuostojoki
+Vuovelioja
+Wacklininoja
+Ylä-Korppisen
+Ylä-Liesijoki
+Ylä-Nuortti
+Yläinen-Viivo
+Ylätjoki
+Ylemmäisenjoki
+Ylempi Vittaoja
+Yli-Kieskisjoki
+Yli-Salmijoki
+Ylilamminpuro
+Ylimmäinen Kivijoki
+Ylimmäinen Moukaoja
+Ylimmäinen Siekaoja
+Ylimmäinenjoki
+Ylinevanoja
+Ylösjoki
+Ylsöbäck
+Yösuonpuro
+Yrttijoki
+Ystävyydenkanava

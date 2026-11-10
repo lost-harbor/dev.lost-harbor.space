@@ -1,0 +1,564 @@
+Marie	41
+Madeleine	17
+Florence	15
+Jeanne	15
+Solange	14
+Thérèse	14
+Chantal	13
+Françoise	13
+Monique	13
+Carine	12
+Esther	12
+Louise	12
+Rose	12
+Laure	11
+Anne	10
+Christelle	10
+Jacqueline	10
+Nathalie	10
+Audrey	9
+Marthe	9
+Catherine	8
+Cécile	8
+Céline	8
+Justine	8
+Mireille	8
+Pauline	8
+Rachel	8
+Yvonne	8
+Annie	7
+Carole	7
+Charlotte	7
+Christine	7
+Colette	7
+Diane	7
+Elisabeth	7
+Gaëlle	7
+Isabelle	7
+Nadine	7
+Patricia	7
+Ruth	7
+Sandrine	7
+Stella	7
+Agnès	6
+Alice	6
+Antoinette	6
+Brigitte	6
+Estelle	6
+Francine	6
+Henriette	6
+Judith	6
+Nicole	6
+Odette	6
+Suzanne	6
+Yolande	6
+Yvette	6
+Adèle	5
+Adrienne	5
+Alexandra	5
+Angeline	5
+Anne-Marie	5
+Berthe	5
+Claire	5
+Danielle	5
+Edith	5
+Félicité	5
+Grace	5
+Hélène	5
+Hortense	5
+Julienne	5
+Linda	5
+Noëlle	5
+Rosine	5
+Sandra	5
+Sarah	5
+Vanessa	5
+Agathe	4
+Aïssatou	4
+Alvine	4
+Amina	4
+Anna	4
+Caroline	4
+Cathy	4
+Claude	4
+Claudine	4
+Cynthia	4
+Delphine	4
+Evelyne	4
+Flora	4
+Geneviève	4
+Hermine	4
+Jeannette	4
+Joséphine	4
+Julie	4
+Laura	4
+Léonie	4
+Lucie	4
+Marguerite	4
+Marie-Thérèse	4
+Mary	4
+Muriel	4
+Nelly	4
+Paola	4
+Paule	4
+Raissa	4
+Régine	4
+Sylvie	4
+Valerie	4
+Valérie	4
+Victorine	4
+Virginie	4
+Adeline	3
+Agnes	3
+Angèle	3
+Annette	3
+Armelle	3
+Augustine	3
+Bernadette	3
+Blanche	3
+Blandine	3
+Claudia	3
+Dominique	3
+Dora	3
+Edwige	3
+Emilia	3
+Fanny	3
+Flore	3
+Germaine	3
+Gladys	3
+Jacky	3
+Jessica	3
+Josiane	3
+Joyce	3
+Laeticia	3
+Laetitia	3
+Laurentine	3
+Liliane	3
+Lydia	3
+Lydie	3
+Lynda	3
+Marcelle	3
+Marcelline	3
+Marie-Claire	3
+Marlyse	3
+Mélanie	3
+Myriam	3
+Naomi	3
+Philomène	3
+Rebecca	3
+Reine	3
+Rosalie	3
+Sabine	3
+Sophie	3
+Stéphanie	3
+Véronique	3
+Viviane	3
+Adele	2
+Aicha	2
+Aimée	2
+Albertine	2
+Aline	2
+Amandine	2
+Anastasie	2
+Ange	2
+Apolline	2
+Ariane	2
+Astride	2
+Aurelie	2
+Axelle	2
+Barbara	2
+Beatrice	2
+Brandy	2
+Brenda	2
+Carmen	2
+Christiane	2
+Clarisse	2
+Clémentine	2
+Clotilde	2
+Constance	2
+Crescence	2
+Cyrielle	2
+Denise	2
+Donna	2
+Eliane	2
+Élisabeth	2
+Elise	2
+Élise	2
+Elizabeth	2
+Emilie	2
+Emilienne	2
+Ernestine	2
+Eugénie	2
+Fabiola	2
+Fanta	2
+Felicia	2
+Francisca	2
+Gabrielle	2
+Gertrude	2
+Ghislaine	2
+Gisèle	2
+Gwendoline	2
+Hilda	2
+Hildegarde	2
+Honorine	2
+Ingrid	2
+Irene	2
+Irène	2
+Joelle	2
+Joëlle	2
+Josephine	2
+Julia	2
+Juliette	2
+Kate	2
+Larissa	2
+Laurence	2
+Lisette	2
+Lorena	2
+Lucienne	2
+Maimounatou	2
+Manuella	2
+Marie-Hélène	2
+Marie-Laure	2
+Marie-Louise	2
+Marie-Paule	2
+Marie-Rose	2
+Michèle	2
+Michelle	2
+Minette	2
+Nadège	2
+Natacha	2
+Nina	2
+Noelle	2
+Nora	2
+Ornella	2
+Pascaline	2
+Pierrette	2
+Pulchérie	2
+Raisa	2
+Rita	2
+Roseline	2
+Rosette	2
+Stephanie	2
+Victoire	2
+Adela
+Adelaide
+Adrianne
+Aïcha
+Aïchatou
+Aisha
+Aïssa
+Aissatou
+Alexandria
+Alida
+Alina
+Alvina
+Ama
+Amélie
+Amy
+Andréa
+Andrée
+Andy
+Angela
+Angi
+Anita
+Annaëlle
+Annick
+Anyeni
+Arielle
+Arlette
+Armande
+Assumpta
+Aurelle
+Auriol
+Aurore
+Babette
+Bakang
+Béatrice
+Bella
+Bertille
+Beryl
+Bettina
+Bibi
+Bibiane
+Bienvenue
+Bridget
+Brittany
+Calixthe
+Camille
+Candace
+Carel
+Carene
+Cecile
+Cecilia
+Celestina
+Célestine
+Celia
+Chanel
+Charlène
+Chloe
+Christa
+Christel
+Christiana
+Chrystelle
+Cindy
+Cintia
+Clara
+Claudette
+Clémence
+Clementine
+Comfort
+Corinne
+Corrine
+Crescentius
+Damaris
+Danièle
+Dany
+Davide
+Delly
+Désirée
+Diandra
+Didier
+Dieudonnée
+Djaïli
+Dodo
+Dolores
+Dolorès
+Donatienne
+Dorcas
+Dorette
+Dorine
+Dorothy
+Easther
+Ebai
+Éléonore
+Eliza
+Élizabeth
+Elodie
+Élodie
+Elsa
+Émilie
+Emily
+Emmanuella
+Emmanuelle
+Emy
+Erica
+Erika
+Essi
+Ethel
+Eugenie
+Eunice
+Eurielle
+Evelyn
+Évelyne
+Faith
+Farida
+Fatima
+Faustine
+Felicitas
+Fernande
+Fidele
+Fidèle
+Fiona
+Flavie
+Florentine
+Fortune
+Frederic
+Frieda
+Genevieve
+Genny
+Georgette
+Georgina
+Georgine
+Ghyslaine
+Ginette
+Giselle
+Gislaine
+Grâce
+Gwladys
+Halimatou
+Haman
+Hannah
+Harriet
+Hawa
+Heline
+Hiram
+Hortence
+Indira
+Ines
+Inna
+Irma
+Ivana
+Iza
+Jacquette
+James
+Janice
+Jasmine
+Jeanine
+Jennifer
+Jessy
+Jocelyne
+Johanna
+Jolene
+Jori
+Josée
+Joseph
+Josepha
+Josèphe
+Josette
+Josianne
+Josseline
+Josy
+Judithe
+Juliana
+Kaïssa
+Katherine
+Kendra
+Koyo
+Lamine
+Laureen
+Lauriane
+Léontine
+Leotine
+Leticia
+Lisa
+Lisane
+Loïc
+Lolita
+Lorina
+Louisette
+Luc
+Luce
+Lucrèce
+Lucy
+Maël
+Maeva
+Maëva
+Magalie
+Maïté
+Manette
+Manuela
+Margaret
+Maria
+Mariane
+Marianna
+Marie Solange
+Marie-Christine
+Marie-Félicité
+Marie-Gabrielle
+Marie-Inès
+Marie-Madeleine
+Marilyn
+Marina
+Marinette
+Marlène
+Maryline
+Maryse
+Mathilde
+Maximilienne
+Maybelle
+Melanie
+Melvine
+Mercedes
+Merveiline
+Merveille
+Michaela
+Michel
+Michele
+Micheline
+Mike
+Mikel
+Milly
+Mimi
+Mirabelle
+Miranda
+Mirette
+Miriam
+Missy
+Morgane
+Mounira
+Myra
+Nabila
+Nadia
+Nana
+Nicolasa
+Ninon
+Noël
+Nolwen
+Norah
+Noura
+Océane
+Okoro
+Olive
+Olivia
+Pam
+Pamela
+Pascale
+Patience
+Paulette
+Pilar
+Princess
+Prisca
+Priscilla
+Rabiatou
+Rachelle
+Rachida
+Ramses
+Rayssa
+Rébecca
+Regina
+Regine
+René
+Renée
+Richelle
+Rodrigue
+Roger
+Rolande
+Rosie
+Sabrina
+Safia
+Sally
+Salome
+Salomé
+Samantha
+Samira
+Sandie
+Scholastique
+Séraphine
+Shaila
+Sherilyn
+Sonya
+Sophy
+Soraya
+Stacey
+Stefany
+Sue
+Susanne
+Susie
+Suzie
+Sylvanie
+Sylvestre
+Sylvette
+Sylvia
+Tati
+Tatiana
+Theresa
+Therese
+Tia
+Tonia
+Ursule
+Uta
+Valentine
+Vénérande
+Vera
+Veronica
+Victoria
+Winnie
+Xaviera
+Yannick
+Yasmine
+Yaya
+Yohana
+Ysis
+Yvana
+Zenobia
+Zita

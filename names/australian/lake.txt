@@ -1,0 +1,3191 @@
+Salt	24
+White	15
+Red	14
+Swan	14
+The	13
+Green	12
+Blue	9
+Dry	8
+Victoria	8
+Horseshoe Lagoon	7
+Little	7
+Pine	7
+Reedy	7
+Surprise	7
+Deep	6
+Freshwater	6
+Mary	6
+Middle	6
+Pelican	6
+Round	6
+Brown	5
+Ellen	5
+Gregory	5
+Hope	5
+Long	5
+Pink	5
+Agnes	4
+Big	4
+Black	4
+Blanche	4
+Boggy	4
+Boundary	4
+Buchanan	4
+Clear	4
+Diamond	4
+Emu	4
+George	4
+Harris	4
+Jack	4
+Kangaroo	4
+King	4
+Moore	4
+Murphys	4
+Racecourse	4
+Ross	4
+Small	4
+Spectacle	4
+The Dry	4
+The Salt	4
+Twin	4
+Wallace	4
+Woods	4
+Arthur	3
+Avon	3
+Baker	3
+Barneys	3
+Basin	3
+Boomerang	3
+Broadwater	3
+Bull	3
+Camel	3
+Charles	3
+Chipping Norton	3
+Crystal	3
+Dora	3
+Duck	3
+Duck Hole	3
+Fox	3
+Francis	3
+Frome	3
+Gairdner	3
+Gilles	3
+Hanson	3
+Hidden	3
+Horseshoe	3
+Jessie	3
+Johnston	3
+Jones	3
+Jubilee	3
+Lagoon	3
+Louisa	3
+Macdonald	3
+Mackay	3
+Marion	3
+Miles	3
+Murphy	3
+Mystery	3
+North	3
+Paradise	3
+Pipe Clay	3
+Rotten	3
+Sandy	3
+Scrubby	3
+Serpentine	3
+Silver	3
+South	3
+Square	3
+Talbot	3
+Taylors	3
+The Broadwater	3
+William	3
+Wilson	3
+Ada	2
+Ainsworth	2
+Albert	2
+Alexander	2
+Alma	2
+Amadeus	2
+Amerarkoo	2
+Anderson	2
+Arthurs	2
+Atkinson	2
+Augusta	2
+Auld	2
+Ball	2
+Barracuta	2
+Barrolka	2
+Bedracoine	2
+Benje Benjenup	2
+Bennett	2
+Black Flag	2
+Bonney	2
+Boorokup	2
+Buck	2
+Budgewoi	2
+Buffalo	2
+Bulla	2
+Bullea	2
+Bunga	2
+Burrinjuck	2
+Cairlocup	2
+Callabonna	2
+Calvert	2
+Campbell	2
+Campion	2
+Carey	2
+Caringay	2
+Caroline	2
+Chain	2
+Chinocup	2
+Clarkes	2
+Clay	2
+Clover	2
+Cobham	2
+Como	2
+Conjola	2
+Coogee	2
+Coolamatong	2
+Coonarbine	2
+Cooninnie	2
+Coopers	2
+Cooreeappa	2
+Coorichina	2
+Corella	2
+Crawford	2
+Curloombacultie	2
+Cuttaberrie	2
+Daisy	2
+Dartmouth	2
+Dead	2
+Dempsey	2
+Denison	2
+Dione	2
+Dolly	2
+Dorothy	2
+Dundas	2
+East	2
+Echo	2
+Eckerboon	2
+Edward	2
+Eildon	2
+Eleanor	2
+Eliza	2
+Elizabeth	2
+Eucumbene	2
+Eva	2
+Everard	2
+Eyre	2
+Finniss	2
+Flora	2
+Florence	2
+Fresh Water	2
+Garry	2
+Gidgi	2
+Gilbert	2
+Gill	2
+Glenmaggie	2
+Goolgotha	2
+Goose Lagoon	2
+Gordon	2
+Grace South	2
+Grassmere Billabong	2
+Grassy	2
+Halbert	2
+Hamilton	2
+Hanging	2
+Harvey	2
+Hazlett	2
+Horse	2
+Horseshoe Billabong	2
+Hunters	2
+Ifould	2
+Irwin	2
+Isabella	2
+Julian	2
+Kabbamup	2
+Katherine	2
+Kellys	2
+Kia	2
+Koolymilka	2
+Koombekine	2
+Kwornicup	2
+Leaghur	2
+Leake	2
+Leech	2
+Ling	2
+Little Dip	2
+Little Prill	2
+Llangothlin	2
+Lonsdale	2
+Lucas	2
+Magenta	2
+Marrakoonamooka	2
+Mcdonald	2
+Mckenzie	2
+McKinlay	2
+Mejum Swamp	2
+Meramangye	2
+Mikany	2
+Minnie Water	2
+Miranda	2
+Mirranponga Pongunna	2
+Mitkacaldratillie	2
+Moira	2
+Moolionburrinna	2
+Morris	2
+Mowilyilip	2
+Muddy	2
+Mulyungarie	2
+Munda	2
+Mundooroounie	2
+Mungundi	2
+Murray Downs	2
+Nancy	2
+Nearie	2
+Needoonga	2
+Nerang Cowal	2
+New	2
+Newell	2
+Nicholls	2
+Nine Mile	2
+Nolans Chance	2
+Nonalling	2
+Nuchea	2
+Owen-Smyth	2
+Paddys	2
+Paroo Overflow	2
+Paterson	2
+Patterson	2
+Peera Mudla Yeppa	2
+Pelican Lagoon	2
+Percival	2
+Perry	2
+Peter	2
+Picton	2
+Pimpara	2
+Piniewirrinna	2
+Pirriepatchillie	2
+Poloko	2
+Popiltah	2
+Powell	2
+Pyramid	2
+Raeside	2
+Rebecca	2
+Reeve	2
+Richmond	2
+Rocky	2
+Ronnerup	2
+Ryans	2
+Saint Clair	2
+Samphire	2
+Samuel	2
+Sandhill	2
+Seppings	2
+Sheepwash	2
+Shell	2
+Short	2
+Somerset	2
+Spring	2
+St Clair	2
+The Back	2
+The Basin	2
+The Duck Hole	2
+The Sheepwash	2
+Thomas	2
+Thomas Moore	2
+Thompson	2
+Thomson	2
+Thomsons	2
+Tim Dunn	2
+Tobin	2
+Toms	2
+Toolbrunup	2
+Toorootoorannie	2
+Top	2
+Travellers	2
+Tuggeranong	2
+Two Mile	2
+Umaroona	2
+Vincent	2
+Wadmadingalinda	2
+Waitchie	2
+Wallis	2
+Walters Plains	2
+Wannamal	2
+Warramboo	2
+Watchiewatchina	2
+Waterloo	2
+Waukarlycarly	2
+Werta Wert	2
+West	2
+Whipstick	2
+White Water	2
+Wills	2
+Willson	2
+Windabout	2
+Windamere	2
+Windaunka	2
+Windermere	2
+Wirregatinginie	2
+Wongalara	2
+Wooley	2
+Wooroonook	2
+Wright	2
+Yandaroo	2
+Yelta	2
+Yenyening	2
+York	2
+Youngs	2
+A P M Aeration Pond
+Abbotts
+Abudda
+Ace
+Acraman
+Adam
+Adams
+Adela
+Adelaide
+Advancetown
+Aeacus
+Aerodrome
+Agars
+Agnew
+Ah Chees
+Ah Fat Dam
+Ajax Achilles
+Albacutya
+Albert Park
+Albina
+Alec
+Alexanders
+Alexandra
+Alexandrina
+Alice
+Allallina
+Allallinna
+Allen
+Alligator Billabong
+Allom
+Altham
+Altibouka
+Altiboulka
+Amagooranie
+Amarillo
+Amaroo
+Amphitheatre
+Ampire Waterhole
+Ampulla
+Amy
+Ana
+Anderson Lagoon
+Andree
+Andrews
+Androdumpa
+Andys
+Anec
+Angledool
+Angove
+Angurrkburna
+Angurrkwurrikba
+Angurugubira
+Annan
+Anne
+Anneen
+Anthony
+Antimony
+Antirripynancarinna
+Apachirie
+Apanburra
+Apatiarie
+Apawyilarranie
+Appadare
+Appleby Reservoir
+Arable
+Arannie
+Arawak
+Archer
+Arcoona
+Ardath
+Are
+Argadargada Billabong
+Argent Dam
+Argent Reservoir
+Argyle
+Ariel
+Arlette
+Arm of Yantara
+Armada
+Arndowana
+Arramall
+Arro
+Arrow
+Arrow Tarn
+Arrowsmith
+Arthur Dam
+Arthur Tarn
+Arubial Lagoon
+Arumpo
+Ashwood
+Askew
+Atakoornoo
+Auld Lagoon
+Aura Vale
+Austin
+Austral
+Austral Park Dam
+Australia Tarn
+Auwuri
+Avalon
+Avondale Clump
+Awaba
+Awonga
+Awoonga
+Ayr
+Ayrey
+Back
+Backhouse Tarn
+Backwater
+Bael Bael
+Baghdad
+Baillie
+Baird
+Baladjie
+Balaka
+Balgrillo
+Balicup
+Ballard
+Ballingall
+Balmanup
+Balmoral
+Balnagowan Dam
+Balpe
+Bamadjina Claypan
+Bambun
+Banana
+Banar
+Bancannia
+Bancanya
+Banimboola
+Banjup
+Banksiadale
+Bannitup
+Bantick
+Baragoot
+Baram-Nerrany
+Barambah
+Barbwire
+Barcoorah
+Barga
+Bargo
+Bargo Flat
+Barker
+Barkers
+Barkus
+Barlee
+Barley Field Lagoon
+Barmah
+Barmera
+Barnabas
+Barnato
+Barnes
+Barney Basin
+Barneys Basin
+Barnie Buloke
+Baronda
+Barooga Lagoon
+Baroon
+Barracup
+Barragoon
+Barrett
+Barrine
+Barrington
+Bathurst
+Battye
+Batyo Catyo
+Baylemup
+Beachport
+Beaconsfield Reservoir
+Beards
+Beasley Lagoon
+Beatle
+Beatrice
+Beatrix
+Beatties Tarn
+Becking
+Bedford
+Beeac
+Beehive Dam
+Beermullah
+Beetle
+Belah
+Belcher
+Bell
+Bell Camp Lagoon
+Bellambi
+Bellfield
+Bellinger
+Belmore
+Belton
+Belvedere
+Benagerie
+Benalla
+Benanee
+Benaroon
+Benjamin
+Bennelong Pond
+Berewombenia Lagoon
+Beridup
+Berringer
+Bessie
+Bethungra
+Betsey Tarn
+Betty
+Beviss
+Bewsher
+Beyondie
+Bibra
+Bidaminna
+Biddy
+Big Dip
+Big Jim
+Big Moonba
+Big Ootuk
+Big Punchbowl
+Big Salt
+Big Sandhill
+Big Swamp
+Big Waterhouse
+Bigfoot
+Bijijie
+Bill
+Billabong
+Billy
+Billyer
+Bimbijy
+Bindegolly
+Bindi
+Bingee
+Bingie
+Binjie
+Binney
+Bintullia
+Birrabeen
+Birroul
+Bitterang
+Black Cocky
+Black Swamp
+Blackburn
+Blair
+Blakers
+Blaksley Lagoon
+Blanchewater
+Blowah
+Blue Lagoon
+Blue Pool
+Blue Rock
+Blue Waters
+Bluff Tarn
+Blyth
+Bobs
+Boeill Lagoon
+Boemingen
+Boga
+Boiler
+Boinka
+Bokan
+Bokhara
+Bolac
+Bolghinup
+Bombah Broadwater
+Bomen Lagoon
+Bondi
+Bong Bong
+Bonney SE
+Boocaltaninna
+Boocathan
+Bookar
+Bookara
+Boolaboolka
+Boolathurla
+Boolenup
+Boolka
+Boolkaree
+Booloombayt
+Boolpoora
+Boomanjin
+Boonalarup
+Boonderoo
+Boondooma
+Booragoon
+Boort
+Booth
+Borah Dam
+Borang
+Boro
+Boronia
+Borrie
+Borumba
+Botany Dams
+Botsford
+Bottom Lila
+Bouchers
+Bouchies
+Boulder
+Boundary Billabong
+Boundary Dam
+Bouyel
+Bow
+Bowarrady
+Bowery
+Bowman
+Bowmans
+Bowson Waterhole
+Box Flat
+Boyd Lagoon
+Boylemup
+Brabazon
+Bradies Hole
+Bradys
+Bradys Reservoir
+Brambruk
+Brasswater
+Brazier
+Breaden
+Breakout Wetlands
+Brearley
+Breberle
+Bremner
+Brennans
+Brewery Hole
+Brewster
+Brick Kiln
+Bridgewater
+Brime Shrimp
+Brimin
+Brimpton
+Bring
+Bringalbert
+Briseis Dam
+Briseis Hole
+Britannia Waterhole
+Broadmeadows
+Broadwater Lagoon
+Brockie
+Brockman
+Bronto
+Brou
+Brown Lagoon
+Brown Salt
+Browne
+Browns
+Brumby
+Brummeys
+Brunderee
+Brush
+Bryde
+Buchan
+Buckleys
+Buddah
+Buggan
+Bukenerup
+Bulbi Plain
+Bulbugaroo
+Bulganyah
+Bulkil Narra
+Bullabool
+Bullanamang
+Bullawarra
+Bullen Merri
+Bullenbalong
+Bullenmerri
+Bullocks Head
+Bullocky Lagoon
+Bullogal
+Bulloo
+Bullrush
+Buloke
+Bulpaner
+Bulpanie
+Bumbarlow
+Bumbo
+Bumbunga
+Bunchie Hollow
+Bunda
+Bundaburra
+Bundacoola
+Bundamba Lagoon
+Bundoba Lagoon
+Bundoora
+Bundulla
+Bungana
+Bungarry
+Bungidup
+Bungil Dam
+Buninjon
+Bunning
+Bunumburt
+Burbury
+Burgess
+Burgh
+Burkanoko
+Burkett
+Burleigh
+Burley Griffin
+Burn
+Burnacoora
+Burnadgera
+Burns
+Burnside
+Buroona
+Burra
+Burra Burra
+Burrabajee Lagoon
+Burrabajeebar or The Muddy Lagoon
+Burrendong
+Burrill
+Burrillgabby
+Burrinjuck Dam
+Burrowan
+Burrumbeet
+Burruna
+Burton Road Wetland
+Butchers
+Butlers
+Buttabool
+Butters
+Byenup Lagoon
+Bywaters
+C Y O'Connor
+Cadibarrawirracanna
+Cadnite
+Caesar
+Caitup
+Cakora
+Caladenia
+Calamia
+Calder
+Callara
+Callide
+Camm
+Campsbourne Lagoon
+Canellan
+Cania
+Canna Canta-Jandide
+Canobolas
+Cantala
+Cantara North
+Cantara South
+Carabooda
+Carabundup
+Carbul
+Carchap
+Cardivallawarracurracurrieappalarndoo
+Cargelligo
+Cargoon
+Caribbean
+Carie
+Carinup
+Carle Thulka
+Carlet
+Carlisle
+Carmody
+Carnage
+Carnaging
+Carnanto
+Carnegie
+Carpolac
+Carpul
+Carree
+Carrolls
+Carrs Billabong
+Carrul
+Carruthers
+Carse
+Carses
+Carter
+Carter Tarn
+Cascade Dam
+Cask
+Cassencarry
+Catagunya
+Catalina
+Catambo
+Catambro
+Catani
+Catch A Monkey
+Catherine
+Cathie
+Cattaminnup
+Caulders
+Caulfields Lagoon
+Causeway
+Cawana
+Cawndilla
+Cecilia
+Cecily
+Cemetery
+Central
+Centre
+Cethana
+Chalice
+Chambers
+Champion
+Chandler
+Chapter
+Charam
+Charleygrark
+Charling
+Charm
+Charra
+Cheepanup
+Cheetup
+Cherry Swamp
+Chesney
+Chester Dam
+Chewruganie
+Chewrunganie
+Chibnalwood
+Chichester
+Chichester Storage Reservoir
+Chidnup
+Chigah
+Chimney Saddle Reservoir
+Chinamans
+Chipman
+Chisholm
+Chittering
+Choolalie
+Christopher
+Christropher
+Chummy
+Chundaria
+Cigalere
+Clabburn
+Claremont
+Clarence Dam
+Clarence Lagoon
+Clarendon
+Clay Hole Dam
+Clear Water
+Clemes Tarn
+Clifton
+Club
+Coalstoun
+Cobb
+Cobble Lagoon
+Cobbolar Lagoon
+Cobbora Waterhole
+Cobham or Gnurntah
+Cobinup
+Cobrico
+Cochrane
+Cockajemmy
+Cockatoo
+Codarup
+Coen
+Cogley
+Cogumbul
+Cohen
+Cohens
+Colac
+Cole Lagoon
+Colebrook Reservoir
+Coleman
+Coliban Pool
+Colins
+Collins
+Colongra
+Colongulac
+Colville
+Comayjong
+Companys Lagoon
+Concord
+Condah
+Condingup
+Condoulpe
+Congora
+Connecting
+Connewarre
+Connewarren
+Connolly Dam
+Conoble
+Constance
+Constant
+Conway
+Coobo
+Coocoran
+Coogiecooginna
+Coolah
+Coolilup
+Coolmunda
+Cooloola
+Cooloolabin Dam
+Cooloomera
+Cooloongup
+Coomaroop
+Coombabah
+Coombah
+Coomberianyah
+Coomboo
+Coomelberrup
+Coona Coona
+Coonamooranie
+Coonany
+Coonbilly
+Coonbimby
+Cooncoolie
+Coonee
+Coongie
+Coongy
+Coonong
+Coontayunta
+Cooper
+Cooragooggine
+Coorathilie
+Cooreeninnie
+Coori Coori Gillie
+Coori Coori Tillie
+Coorlay
+Cooroibah
+Coorong
+Coorpooka
+Cootabarlow
+Cootapatamba
+Cootharaba
+Cootralantra
+Cooyecappa
+Copago
+Cope Cope
+Copeton
+Copi Hollow
+Copper Colour
+Coppino
+Copulup
+Coradgill
+Coragulac
+Coranderrk
+Corangamite
+Cordeaux
+Corduroy
+Corega
+Corimup
+Corinup
+Corinya
+Corringle
+Costin
+Cottabidnya
+Cotters
+Coulton
+Cowal
+Cowal Lagoon
+Cowan
+Cowcowing
+Coxiella
+Coyrecup
+Cracroft
+Cranes
+Crater
+Craven
+Crescent
+Crescent Head
+Cressbrook
+Cricket Pitch
+Crinia
+Crishna
+Croaking
+Cronin
+Crooked
+Crosby
+Cuddapan
+Cudgeecudgena
+Cudoralcarra
+Cudye-Cudyena
+Culberta
+Culcadarra
+Culcurdoo
+Culla Culla
+Cullamallup Lagoon
+Cullamulcha
+Cullamun
+Cullens
+Cullewie
+Cullivel
+Cullulleraine
+Cultaberrie
+Cumberland
+Cumberland Tarn
+Cumbumbla
+Cundare Pool
+Cunjurong
+Cup Cup
+Cuppa
+Curalo
+Curlew
+Curlew Water
+Curlip
+Curly
+Curran
+Currans
+Currawananna Lagoon
+Curries Reservoir
+Cuthajery
+Cuthbert
+Cuthero
+Cuthro
+Cuttagee
+Cyane
+Cygnus
+Dalaroo
+Daley
+Dalrymple
+Damascus
+Damboring
+Dangars Lagoon
+Daphne
+Daringdella
+Darlot
+Davies
+Daylesford
+Dead Dog Cogie
+Dead End
+Dead Fish Billabong
+Dead Gum
+Dead Horse
+Dead Mans
+Dead Mans Hole
+Deane
+Deborah
+Deborah East
+Deborah West
+Debwabbin
+Deception
+Decouroy
+Deep Water
+Deepwater
+Denman
+Dennis
+Dennys
+Denton
+Devils Punch Bowl
+Dewabbin
+Dey-Dey
+Diamond Bog
+Diamond In The Bog
+Dick
+Dickadickinna
+Dicks
+Didilyamulka
+Dignams Swamp
+Ding A Ding
+Dingo
+Dinnys Dip
+Diprose Lagoon
+Disappearing Tarn
+Disappointment
+Dixon
+Djumbarana Claypan
+Dobbie
+Dobson
+Dock
+Dog Bite
+Doggerup
+Doherty
+Doling Doling
+Dollanoke
+Dolphin
+Doman
+Dombrovskis Tarns
+Don
+Doombup
+Doonella
+Dornducking
+Dorunda
+Douglas
+Dove
+Dowerin
+Dragon Cowal
+Dragonfly
+Dubban
+Duchembegarra
+Dudley
+Duggon
+Dukes
+Dulbining
+Dulcaruk Billabong
+Dulverton
+Dumbleyung
+Dundomallee
+Dunethin
+Dungeon Tarn
+Dunn
+Dunns Swamp
+Dunphy
+Durras Water
+Dusty
+Dutchmans
+Dutton
+Dyer
+Eacham
+Eagle
+Eagle Tarn
+Eaglehawk
+Eames
+Earl
+East Coona
+Eaton
+Eccles
+Eckerbon
+Eclipse
+Eda
+Edgar
+Edith
+Edith Withnell
+Edwardes
+Eganu
+Eighteen Mile Dam
+Eitel
+Elder
+Elephant
+Elingamite
+Ell
+Ellesmere Dam
+Elliott
+Ellis
+Elphinstone
+Elusive
+Elysia
+Emerald
+Emily Tarn
+Emma
+Emma Tarns
+Emmett
+Endeavour
+Eos
+Eppalock
+Epsom
+Eraring
+Ercildoun
+Ernie Lagoon
+Eros
+Errington Hole
+Erytheia
+Esperance
+Etamunbanie
+Eucalyptus
+Eucryphia
+Eugenana
+Eumara
+Eungella
+Euramoo
+Eurobilli
+Eurynome
+Eva Broadhurst
+Evans
+Eve
+Evella
+Ewans
+Ewart
+Ewen Maddock Dam
+Ewlyamartup
+Exclamation
+Explorer
+Eyang
+Eyre North
+Eyre South
+Eyrie
+Fairy Tarn
+Fane
+Fanny
+Farewell
+Farnham
+Fellmongery
+Fenton
+Fergus
+Fiddlers
+Fidler
+Field
+Figtree
+First Bar
+First Yarp
+Fishers
+Fishers Dam
+Fitzpatrick
+Five Duck Tarn
+Five Fingers
+Fivebough Swamp
+Flagstaff
+Flagstaff Gully Reservoir
+Flannigan
+Fleay
+Fletchers
+Floating
+Fly
+Flynn
+Flynns Tarn
+Fools Tarn
+Forbes
+Forgotten
+Forrest
+Forrestdale
+Fort Grey Basin
+Fortuna
+Fossil
+Four Mile
+Four Springs
+Fowler
+Franklin Tarns
+Franks
+Fraser
+Frazers
+Freestone Dam
+Frenchys
+Fresca
+Fresh Dip
+Friedmans Salt
+Frome Dam
+Frome Water
+Furmage
+Furnell
+Fyans
+Gage
+Galaxias
+Galilee
+Gambanca
+Gambier
+Ganaway
+Garagan
+Garawongera
+Garcia
+Garden
+Gardner
+Garnpung
+Gaston
+Gaye
+Geelanding
+Geeoong
+Geer
+Geeves
+Gellies
+Genoe
+George Howes
+Georges
+Gertrude
+Gewah Cowal
+Ghenteen
+Gherang
+Ghost
+Gibba
+Gidon
+Gidong
+Giles
+Gilgwapla
+Gilinganadum
+Gillawarna
+Gillen
+Gillon
+Gilman
+Gilmore
+Gilpoko
+Gilwapla
+Gingilup
+Ginninderra
+Gippsland
+Gladstone
+Glassworm Tarn
+Glenbawn
+Glenlyon
+Glenlyon Dam
+Glennie
+Glenroy
+Gnalinegurk
+Gnangara
+Gnarann
+Gnarimara
+Gnarpurt
+Gnotuk
+Goanna Billabong
+Gobba
+Gobell
+Godwin Tarn
+Goegrup
+Gogleys Bay
+Gol Gol
+Golden
+Goldsmith
+Gomalara
+Gongolgon Cowal
+Goodbo
+Googleys
+Goolangirie
+Goollelal
+Goonaghooheeny Billabong
+Goongarrie
+Goonimur
+Goorly
+Goran
+Gordonbrook Dam
+Gordons Reservoir
+Gore
+Gorrie
+Gounter
+Government House
+Gowah Cowal
+Goyder
+Grace North
+Graham
+Grass
+Grasswater
+Gratitude
+Gravity
+Great
+Great Spectacle
+Greaves
+Green Gorge Tarn
+Greenfields Wetland
+Greenhill
+Greenly
+Greens
+Gregory Salt
+Griselda
+Grout Lagoon
+Grub
+Gruszka
+Guide Reservoir
+Guises
+Guli
+Gull Rock
+Gully
+Gulson
+Gum
+Gum Lagoon
+Gum Yards Dam
+Gumley
+Gums
+Gunagie
+Gunbar
+Gundare
+Gundaring
+Gunjal
+Gunnaramby
+Gunns
+Gunyulka
+Guraga
+Gurra Gurra
+Guthridge
+Guy
+Gwendolen
+Gwendy
+Gwenneth
+Gwynne
+Hacks Swamp
+Hagboom
+Halinor
+Halkyard
+Hall Lagoon
+Hamersley
+Hamp
+Hancock
+Hannan
+Hardy
+Hardy Folly
+Harms
+Harrington Park
+Harry
+Harry Lees
+Harrys
+Hart
+Harts
+Hartz
+Harveys
+Hattah
+Haven
+Hawdon North
+Hawdon South
+Hawthorn
+Hayes
+Haystack
+Hayward
+Headley Tarn
+Heards
+Hearnes
+Hearns
+Heart Echo
+Heather Lagoon
+Hedley Tarn
+Helen
+Helms
+Henty
+Hepburn Lagoon
+Herbert
+Herdsman
+Hermione
+Herridges
+Herschel
+Heywoods
+Hiawatha
+Hickey
+Hidden Tarn
+High
+Highland Waters
+Hillier
+Hilliup
+Hillman
+Hindmarsh
+Hinds
+Hobbs Lagoon
+Hog
+Hogans
+Holland
+Hollands
+Hollow Basin
+Holmes
+Hopcroft Billabong
+Hope Campbell
+Hope Tarn
+Hopkins
+Horan
+Hordern
+Horn
+Horn Billabong
+Horse Lagoon
+Horse Shoe
+Horse Shoe Waterhole
+Horseshoe Pond
+Hot Water Billabong
+Houdraman
+How
+Howe
+Howell Reservoir
+Howitt
+Huffer
+Hume
+Hummock
+Huntley
+Hurleys Dam
+Hurlstone
+Hut
+Hutchinson
+Ibis
+Idamea
+Ila
+Illa Reservoir
+Ilma
+Ina
+Indoon
+Inga
+Ingra
+Ingrid
+Inkerman
+Inneston
+Intalpa
+Inverell
+Iraak
+Iris
+Ironbark
+Ironstone
+Irrigation
+Isabella Pond
+Isandula
+Ita
+Jackadder
+Jackie
+Jacks
+Jadliaura
+Jaie Jaie
+Jaka
+James
+James Baird
+James Tarn
+Jandabup
+Jandakot
+Janet
+Jarracteer
+Jasper
+Jaugle
+Jeavons
+Jebbs Pool
+Jeffries
+Jennings
+Jerdacuttup
+Jerilderie
+Jerrabomberra
+Jerriwirrup
+Jetty
+Jilakin
+Jillamatong
+Jims
+Jindabyne
+Joan
+Job
+Joes Lagoon
+Johnny
+Johnson
+Johnston Tarn
+Johnstone
+Jolimont
+Jollicum
+Joondalup
+Josceline
+Josephine
+Joy
+Jualbup
+Judd
+Judds Lagoon
+Julia
+Julius
+Julurupuluru
+Junction
+Kadgo
+Kadhi-Baerri
+Kadhiberri
+Kaimerndyip
+Kainka Wirra
+Kaitmerndyip
+Kajarabie
+Kakydra
+Kalamurra
+Kalaramultu
+Kaljee
+Kamerooka
+Kanagulk
+Kanbakoodnanie
+Kanchiemulanie
+Kara
+Karakin
+Karangie
+Karatta
+Karboora
+Kariah
+Karlamurina
+Karnak
+Karpi
+Karri Karri
+Karrinyup
+Kathleen
+Kati Thanda-Lake Eyre
+Kaurna Park Wetland
+Kay
+Kayinga
+Kearney
+Kee Lia
+Keepit
+Keerugulla
+Keewong
+Keilambete
+Kellatie
+Kelly
+Kemi Kemi
+Kennedy
+Kennedys
+Kennedys Lagoon
+Kenyon
+Kepalarup
+Kepwari
+Kerferd
+Kerkeri
+Kerrylyn
+Kertiecacoora
+Kertieyanta
+Kia Swamp
+Kiah
+Kieross
+Kieruss
+Killalpaninna
+Killamperpunna
+Killarney
+Killen
+Killick
+Kimberley
+Kimbolton
+Kinchant
+King William
+Kingower Billabong
+Kings Billabong
+Kings Plains
+Kirk
+Kita
+Kittakittaooloo
+Kitty
+Knight
+Knights Reservoir
+Knuckeys Lagoon
+Kogolup
+Kokokup
+Kolingngol
+Konardin
+Kondinin
+Koodnanie
+Koolatah
+Koolivoo
+Kooljarloo
+Koolkootinnie
+Koomarinna
+Koombooloomba
+Koonkera
+Koonoomoorinna
+Koonya
+Kooperekoppinna
+Koorka
+Koorkoordine
+Koornadingeranie
+Kopago
+Kopai
+Kopperamanna
+Kopperekoppinna
+Koreetnung
+Kounpee
+Koynock
+Kramen
+Kubitch
+Kudgee
+Kujabidni
+Kulti
+Kulunilup
+Kundanyimbo
+Kungie
+Kununka
+Kununurra
+Kurangk
+Kurrajong Lagoon
+Kurranging
+Kurrawang
+Kurrenkutten
+Kurwongbah
+Kuthajerri
+Kuturu
+Kuyabidni
+Kyeamba Lagoon
+Labyrinth
+Lachlan Swamps
+Ladies Tarn
+Lady
+Lady Blanche
+Lady Edith Lagoon
+Laidleys Chain of Ponds
+Lalbert
+Lambetts Lagoons
+Lanagan
+Lancaster
+Landers Billabong
+Langawirra
+Langdon
+Langlo
+Lapage
+Laroona Dam
+Larson
+Lascelles
+Laura
+Laurel
+Laurie Billabong
+Lauriston Reservoir
+Lavara Tarn
+Lawloit
+Lea
+Learmonth
+Learmouth
+Lefroy
+Leg of Mutton
+Lemoine
+Lenone
+Lenthall
+Leo
+Leonards Tarn
+Leonis
+Lepera
+Leriwa
+Leschenaultia
+Leslie
+Lettie
+Letty
+Leuce
+Lewis
+Lewis Lagoon
+Lexie
+Liapootah
+Liddell
+Liddelow
+Lightfoot
+Lignum
+Lilla
+Lilly Lagoon
+Lillydale
+Lily
+Lily Lagoon
+Limbra
+Limbury
+Lime
+Lime Kiln
+Limekiln Gully Reservoir
+Lina Tarn
+Lindon Tarns
+Lindsay
+Lindsay Gordon Lagoon
+Ling Roth
+Linke
+Linlithgow
+Linnhe
+Lintot
+Lipson
+Lismore
+Little Amphitheatre
+Little Bael Bael
+Little Bancannia
+Little Beatle
+Little Bellinger
+Little Blue
+Little Boort
+Little Brasswater
+Little Buloke
+Little Cask
+Little Cattaminnup
+Little Constance
+Little Cuttagee
+Little Dornducking
+Little Grasswater
+Little Hattah
+Little Hell Dam
+Little Llangothlin
+Little Mariginiup
+Little Monjingup
+Little Nedo
+Little Nerang Dam
+Little Norring
+Little Para Wetland
+Little Parkeyerring
+Little Peter
+Little Prion
+Little Puntawolona
+Little Rush
+Little Salt
+Little Sandhill
+Little Sister
+Little Spectacle
+Little Throne
+Little Unicup
+Little Waterhouse
+Littra
+Llewellyn
+Loane
+Lobster
+Lochan Swimming Pool
+Lockhart
+Lockie
+Lodge
+Logue
+London
+Lonely
+Lonely Tarns
+Long Tarns
+Lookout
+Loombah
+Loretta
+Lorne
+Lost
+Lost Hat Tarn
+Louise
+Low
+Lowden
+Lower
+Lower Boolambayte
+Lower Glenorchy Reservoir
+Lower Jukes
+Lucy
+Lucy Long
+Lukin
+Lula
+Lunka
+Lyle
+Lyndger
+Lyons
+Lysterfield
+MacDonnell
+MacFarlane
+Machattie
+MacKenzie
+MacKenzie Tarn
+Mackenzies
+Mackenzies Resevoir
+MacKintosh
+Macleud
+MacNamara
+Macommon
+Maconochie
+Macquarie
+Maddox
+Maffra
+Magdala
+Magdalen
+Magdhaba
+Magnet Dam
+Magpie Dam
+Main
+Main Yarp
+Maitland
+Major
+Malana
+Malata
+Malbena
+Malcolm
+Maldingo
+Maljanapa
+Malkyullumbo
+Mallanna
+Maloneys Dam
+Malseeds
+Malta
+Man Man
+Manaring
+Manchester
+Mangan
+Manies
+Mannaor
+Mannering
+Manning
+Manoolcoong
+Manrika
+Manton Dam
+Mappa
+Maraboon
+Maremley
+Margaret
+Margarette
+Maria
+Marian
+Marias
+Mariginiup
+Marilyn
+Marimley
+Maringup
+Mark
+Marma
+Marmal
+Marmion
+Marong
+Maroon
+Maroopootanie
+Marradibbadibba
+Marramook
+Marroocoolcannie
+Marroocutchanie
+Marroopootanie
+Martagallup
+Martha
+Martha Lavinia
+Marthas Bath
+Mary Ann
+Mary Kathleen
+Mary Tarn
+Maryabba Lagoon
+Maryvale Swamp
+Mason
+Massacre
+Matilda
+Mattaweara Lagoon
+Matthew
+Maurice
+Maxfield Tarn
+May
+McBean Pond
+Mccalla Dam
+McClures
+McCoy
+Mcdonnald
+McFarlane
+McHughes
+Mcinnes
+McIntyre Lagoon
+McKail
+Mckays
+Mclarty
+McLernon
+McMinns Lagoon
+Mcness
+McRae
+Meadowbank
+Mealup
+Meander
+Mears
+Medcalf
+Medlow
+Meenulup
+Meering
+Meginleys
+Meginleys Swamp
+Melanydra
+Melijinup
+Melpunga
+Menamatta Tarns
+Mends
+Menindee
+Meran
+Merapah Lagoon
+Mere
+Merimbula
+Meringo Cowal
+Meroo
+Merope
+Merran
+Merreti
+Merril
+Merrimajeel
+Merwin
+Meston
+Metcalf
+Metcalfe Pool
+Mettler
+Miami
+Miamiana
+Michael Tarn
+Mickwilly
+Midas Tarn
+Miga
+Miguel
+Mike
+Milangil
+Milarup
+Milka
+Milkapurda
+Milkengay
+Millar
+Mille Mille
+Millicent
+Milligan Lagoon
+Millyeewilpa
+Millyera
+Milyunup
+Mimas
+Minagoona
+Mindarie
+Mindona
+Miners
+Minerup
+Mingundie
+Minhamite
+Minigwal
+Minker
+Minnetonka
+Minnetunka
+Mipia
+Miraditchie
+Miripin
+Mirror Pool
+Mission
+Mitchell
+Mitchiepratchadillie
+Mitre
+Miwal Billabong
+Moates
+Mobla
+Model Hut
+Modewarre
+Moe Sewage Authority Settling Pond
+Moinalwar
+Moinmuick
+Moko
+Mollerin
+Mollyallup
+Molyelup
+Mombeong
+Monduran
+Mongala
+Monger
+Mongers
+Monica
+Monjingup
+Montbazin
+Moocha
+Moodemere
+Moodie
+Moogerah
+Moolcarpe
+Moolion-Dhurunnie
+Moolkra
+Moologa
+Moonachie Cowal
+Moonba
+Moonda
+Moondarra
+Moondiepitchnie Water
+Moonlight
+Moonta
+Mooramanna
+Mooranuah
+Mooratchia
+Moorayepe
+Moorilurrup
+Moorinup
+Moornanyah
+Moraine Tarn
+Morande
+Morea
+Morgan
+Morgans Lagoon
+Moriaty
+Mornington Reservoir
+Morrison
+Morrisons
+Morrudoo
+Mortigallup
+Mortijinup
+Mortons
+Mortons Lagoon
+Mortons Sanctuary
+Moseys
+Moss Bed
+Mournpall
+Mouroubra
+Moyanup
+Muck
+Muckadranie
+Muckee
+Muckenburra
+Mud
+Muddah
+Mueller
+Muir
+Muirhead
+Mulapula
+Mullangoree
+Mullet
+Mulligan
+Muloga
+Mulurulu
+Mulwala
+Mumbleberry
+Mumblin
+Mummuga
+Muncoonie East
+Muncoonie West
+Munda Lagoon
+Mundale
+Mundi
+Mundowy Lagoon
+Mundroorabunie
+Mungala
+Mungkuli
+Mungo
+Munkawurlie
+Munrillup
+Munya
+Murapin
+Murchison
+Murdeduke
+Murdocks
+Murdualmurrin
+Murrah
+Murray
+Murri Murri Ando
+Murrin
+Murtabunna
+Murtabunna or Blackfellos Waterhole
+Murteree
+Muutie
+Myall
+Myalla
+Mygoora
+Myra
+Myrtle
+Myrtle Bay
+Nabberu
+Naccowlah Billabong
+Nadgee
+Nadungamba
+Nadzab
+Nagambie
+Nallan
+Nalyerin
+Namabooka
+Namba
+Nambarup
+Nambling
+Nambung
+Nameless
+Namen
+Namendarra
+Namming
+Nanamullen
+Nangar
+Nangtree
+Naomi
+Nappanerica
+Naracoorte Swimming
+Nargal
+Naroolpilly
+Narowie
+Narran
+Nartooka
+Naryilco
+Natimuk
+Native Lass Dam
+Navarino
+Neale
+Neangar
+Nearana
+Nectar
+Nedo
+Neds
+Needle Rock Tarn
+Neerabub
+Neerabup
+Negri
+Nellies Lagoon
+Nelsons
+Nereid
+Nerramyne
+Nettlegoe
+New Year
+New Years
+Newdegate
+Newland
+Newnham
+Newry
+Newton
+Ngak Indau Wetland
+Ngapakaldi
+Ngarantjadu Claypan
+Ngartiminny
+Nialia
+Niche
+Nichebulka
+Nillahcootie
+Ninan
+Nine Mile Billabong
+Nip Nip
+Nips
+Nitchie
+Nive
+Nixon
+Noeyango 'Caringay
+Nomans
+Nongra
+Noobijup
+Nookamka
+Noolyeana
+Noonan
+Noondie
+Noonying
+Norman
+Normans
+Norring
+North Cantara
+Northam
+Nowergup
+Nowhere Else
+Nowie
+Nuga Nuga
+Nugara
+Nugetena
+Nukennullup
+Nulchara
+Nullan
+Nullewa
+Numalla
+Number One
+Nunan
+Nundedine
+Nunijup
+Nuniup
+Nurrari
+Nurrumbeet
+Nuttal
+Nutting
+Nyandyeetup
+Nyanga
+Nymphaea Lily
+O'Connor
+O'Dells
+O'Grady
+Oaljalup
+Oberon
+Ocean
+Odo Tarn
+Oenone
+Old Chum Dam
+Olive
+Olivers
+Omeo
+Ondit
+Ongerup
+Oolgoopiarie
+Ooze
+Ophion
+Orantjugurr
+Orb
+Ordula
+Orion
+Ormerod
+Ornamental
+Osborne
+Ottaway
+Oulilla
+Oundell
+Oval
+Overshot Dam
+Ovoid
+Owen
+Owens Tarn
+Oxbow
+Oyster
+Pabelup
+Packers
+Paddys Cowal
+Padrimookaninnie
+Padripooreninie
+Paget
+Paika
+Palankarinna
+Pallarup
+Pallas
+Palmer Lagoon
+Paloona
+Paluma
+Pamamaroo
+Pambula
+Panbula
+Pandanas Billabong
+Pando Penunie
+Pandruannie
+Pansy
+Pantoowarinna
+Pantu Warra-Bullana
+Paperbark
+Paracalmic
+Parakylia
+Parangana
+Pardelup Lagoon
+Paris Dam
+Parkeyerring
+Parquin
+Parramatta
+Partiari
+Parting
+Parupa
+Patagorah
+Patawalonga
+Pathraootara
+Patricia
+Patrick
+Pats Tarn
+Pattemore Lagoon
+Paul
+Pavy
+Pawleena Reservoir
+Payanna
+Payens
+Peachawarinna
+Pearse
+Pedder
+Peera Peera Poolanna
+Peery
+Pejar
+Pelora
+Penah
+Pencil Pine Tarn
+Peninsula
+Penny
+Penstock Lagoon
+Perch Hole
+Perched
+Percy
+Percys Billabong
+Perham
+Peri
+Perigundi
+Perin
+Perkolilli
+Perks
+Pernatty Lagoon
+Persephone
+Perseverance Dam
+Pertobe
+Pet Reservoir
+Peterjohn
+Petite
+Petrarch
+Phibbs
+Philip
+Philippi
+Phillipson
+Piacoonanie
+Pialpotingoona
+Piamincanie
+Piccaninnie Blue
+Pickford Tarn
+Picnic
+Picone
+Pidla-Wirra
+Pidlee-Wirra
+Pidleeomina
+Pieman
+Piggery
+Pillans
+Pillie
+Pinaroo
+Pindari
+Pindicup
+Pine Hut
+Pine Ornamental
+Pine Wetland
+Pingarnup
+Pingrup
+Pinjar
+Pinjarrega
+Pink Lagoon
+Pink Lily Billabong
+Pinnarie
+Pinpa
+Pinpira
+Pioneer
+Pioneer Dam
+Pirakuruari
+Pirillie
+Pitarpunga
+Pitikanta
+Pitt
+Plagianth
+Plattaway
+Platypus Tarn
+Playford
+Pleasant
+Pleasant View
+Pleiades
+Plimsoll
+Plover
+Plumridge
+Poa
+Poeppel
+Pogana
+Poison
+Polaris
+Police Lagoon
+Pollard
+Pollioillaluke
+Polpara
+Polteney
+Polycarp
+Polywoolkanie
+Pomanyie
+Pompapillinna
+Pool Of Memories
+Pool of Siloam
+Poolarranna
+Poolowanna
+Poolyeruninna
+Poomah
+Poomanyie
+Poon Boon
+Poona
+Poongkaliyarra
+Poopelloe
+Poorrarecup Lagoon
+Popio
+Porlell
+Port of Pelicans
+Porters
+Pothole Lagoon
+Poverty
+Powlathanga
+Poyina Tarn
+Prentice
+Prescott
+Preston
+Price
+Prill
+Princes
+Prion
+Profile
+Promontory
+Proserpine
+Prungle
+Puarimookaninnie
+Pud
+Pulchera
+Pulcura
+Pulpanee
+Pundalarrinna Salt Lagoon
+Pundalpa
+Punpundal
+Puntawolona
+Purcells
+Purdiguluc
+Pure
+Purple
+Purrumbete
+Putherajuloonie
+Puwanna
+Pysant
+Quadrio
+Quail
+Qualeup
+Quallilup
+Quarbing
+Quarderwardup
+Quart-Pot
+Queens
+Queerearrup
+Quindalup
+Quitjup
+Racecourse Billabong
+Rafa
+Raith
+Ranford Billabong
+Ranfurly
+Rapide
+Rason
+Ratcatchers
+Ratzcastle
+Rawleys
+Rayner
+Red Lily Billabong
+Red Lily Lagoon
+Redbank
+Redenville Break
+Redmond
+Reed Bed
+Reeves
+Regents
+Renyolds
+Repulse
+Reservoir
+Reward
+Reynolds
+Rhine Flat
+Rhona
+Richards
+Richardson
+Ricketson
+Riengeena
+Rileys Reservoir
+Rim
+Ringwood
+Risdon Reservoir
+Riveaux
+Robe
+Robert
+Robert Dam
+Robert Tarn
+Robertsons Dry
+Rocket
+Rodgers
+Rodway
+Roe
+Rolleston
+Romaine Reservoir
+Romani
+Ron Smith
+Ronnel
+Roonki
+Rooster Lagoon
+Rosa
+Rosanne
+Rose Lagoon
+Rosebery
+Rosedale
+Rosedale Reservoir
+Rosine
+Rostrevor Reservoir
+Rotuli
+Rouen Tarn
+Roulton
+Round Cowal
+Rowallan
+Rowlands
+Rowles
+Rowles Lagoon
+Roy
+Royston
+Rubble
+Ruby Billabong
+Rufus
+Rupert
+Rushy
+Ruth
+Sachses
+Sacramento
+Saddle
+Saide
+Saint Marys
+Salamander Bay
+Saldogoo
+Sales
+Salisbury
+Salisbury North Wetland
+Sally
+Sally Jane
+Salmon
+Salome
+Salty
+Salvatar
+Salvator
+Sambell
+Sames
+Samsonvale
+Sanamere Lagoon
+Sanatorium
+Sanctuary
+Sandover Floodout
+Sandra
+Sandys Hut
+Sapaginya
+Sappho
+Sarah
+Satellite
+Saxon Tarn
+Sayers
+Sceptre
+Scirpus Mere
+Scoble
+Scoparia
+Scotsman
+Scott
+Sea
+Seabrook
+Seal
+Second Bar
+Second Yarp
+Sedgwick
+Selina
+Seven Mile Dam
+Seven Mile Swamp
+Seymour
+Shackleton
+Shadbolts
+Shaded
+Shadow
+Shady Camp Billabong
+Shallow
+Shark
+Sharpe
+Shaster
+Shaw
+Shaws
+Shaws Bay
+Sheep Wash Lagoon
+Sheldrakes
+Shell Lagoon
+Shelldrakes
+Shepherds
+Shepherds Pool
+Shepperd
+Shrouded
+Sidon
+Silistria
+Silks Dam
+Sinclair
+Sinclare
+Single Forest
+Sir Richard
+Sirius
+Sirona
+Siva
+Sixteen Mile Billabong
+Skeahan Billabong
+Skeleton
+Skinner
+Skua
+Skua Tarn
+Slaney Weir Billabong
+Slaters
+Sleaford Mere
+Smith
+Smiths
+Smiths Tarn
+Smythe
+Snake
+Snow
+Snowdrift Tarns
+Soda Hole
+Solitude
+Solo Tarn
+Solomons Jewels
+Solveig
+Sonja
+Sonneman
+Sooley
+Sophie
+Sorell
+South Cantara
+Spade
+Spanner
+Speckman
+Speculation
+Spencer Dam
+Spicer
+Spider
+Splityard Dam
+Sprenger
+Springfield
+Square Tarn
+St George
+St Georges
+St Marys
+Stanley
+Starvation
+Station
+Steanes Tarn
+Steers
+Stennetts
+Stevens
+Stewarts
+Stony Lagoon
+Storm King Dam
+Strahan
+Strangways
+Straus Lagoon
+Stretcher
+Struan
+Stuart
+Stubbs
+Stump Billabong
+Stumps
+Sturt Floodout
+Sugar Basin
+Sulphur
+Sunday
+Sunrise Tarn
+Sunshine
+Supernmurra
+Surprise Tarn
+Surry
+Sutherlands
+Sutton
+Suttons Tarn
+Suttor
+Swallows Nest
+Swamp
+Swan Lagoon
+Swanee
+Sydney
+Sylvester
+Symonds Dam
+Symphony
+Taarblin
+Tabacco
+Tabberabbera
+Tabledo
+Tabourie
+Tacubah
+Tadpole
+Tahune
+Tala
+Talangkootra
+Talbetts
+Talc
+Taldora Lagoon
+Tali Karng
+Talinne
+Talinnie
+Tallacootra
+Tallebudgera Dam
+Tallegalla Dam
+Tallys
+Tallys Swamp
+Talpile
+Talyelwelup
+Tam O'Shanter
+Tamaton
+Tamblyn
+Tanbar Billabong
+Tandou
+Tandure
+Tankamarinna
+Tarblong
+Target
+Tarkarooloo
+Tarlakupa
+Tarn
+Tarourga
+Tarrabool
+Tartarus
+Tarwong
+Tatiara Water
+Tatutong
+Tay
+Taylor
+Taylors or Ballycastle
+Tchum
+Tea
+Tea Tree
+Teague
+Teal Bay
+Tearre
+Teatree
+Teeni Lagoon
+Teeswater
+Teeta
+Teetatobie
+Teilaka
+Teilta
+Telara
+Telephone Exchange
+Ten Mile
+Ten Mile Lagoon
+Tent Tarn
+Tepondinna
+Terang
+Terang Goodwitch
+Terangpom
+Terewah
+Terewah or Narran
+Termeil
+Terminal
+Terry Tarn
+Teryaweynya
+The Back or Lagoon
+The Basins
+The Big Dip
+The Billabong
+The Black Hole
+The Black Waterholes
+The Bullocky
+The Cobbler
+The Coorong
+The Curlew Water
+The Dry Lagoon
+The Duck Pond
+The Duck Splash
+The Font
+The Fresh
+The Honeysuckle
+The Horse
+The Horse Shoe
+The Horse Shoe Lagoon
+The Inkpot
+The Lagoon
+The Magpie
+The Moat
+The Morass
+The Muddies
+The Mutton Gut
+The Pub
+The Sheet of Water
+The Sisters
+The Stony
+The Washpool
+The West
+The Western Billabong
+Themis
+Theoga Lagoon
+Theresa
+Third
+Thirlmere
+Thoopoocoonallie
+Thor
+Thorlindah
+Thorombidgee Lagoon
+Three
+Three Arm
+Three Star
+Throssell
+Thubergal
+Thunda
+Thunderbird
+Thurbergal
+Thurumbidgee Lagoon
+Thurumbiggee Lagoon
+Tiberias
+Tiddler
+Tidnacoordooninna
+Tiger
+Tiger Snake
+Tilly
+Tilpilly
+Tiltagara
+Timboram
+Timk
+Timms
+Timonga
+Timperley
+Tin Hut
+Tin Tin
+Tinaroo
+Tingalpa Reservoir
+Tinkers
+Tinko
+Tiobunga
+Tipandranara
+Tiramina
+Titheropatchie Lower
+Titheropatchie Upper
+Tobacco
+Tolbra
+Tolbra Swamp
+Tom
+Tom South
+Tomaroo
+Tomato
+Tomato Dam
+Tommys
+Toms Lagoon
+Tongo
+Tongo Woolshed
+Toolibin
+Tooliorook
+Toomba
+Tooms
+Toontoowaranie
+Toora
+Toorah
+Tooroopinkanie
+Tooroopolinna
+Tordit Gurrup Lagoon
+Tori
+Torquinie
+Torrens
+Torrup
+Toubouree
+Toulba Lagoon
+Tower
+Towerrining
+Trailgang Cowal
+Tranquil Tarn
+Trap
+Travellers Rest
+Treganowan
+Trevallyn
+Triangle
+Tringadee
+Triton
+Trout
+Trunketabella
+Truslove Lagoon
+Tudor
+Tuggerah
+Tulangkootra
+Tulloch
+Tuna-midi
+Tungketta
+Tunney
+Tupe-Werripp Swamp
+Turangmoroke
+Tuross
+Turvilla
+Tutchewop
+Tutegong Swamp
+Twilight Tarn
+Twisted
+Twisted Tarn
+Two
+Tyers
+Tyndall
+Tyre
+Tyrrell
+Tyson
+Ulenia
+Uloowaranie
+Undine
+Ungani
+Ungurubuna
+Unicup
+Uppadae
+Upper Berry Jerry Lagoon
+Upper Boolambayte
+Upper Jukes
+Upper Sandhill
+Uramurdah
+Urana
+Uranagong
+Urow-Wa
+Utah
+Valley
+Van Der Linden
+Vancouver
+Varley
+Vasto
+Vaucluse Reservoir
+Vera
+Vermont
+Vesta
+Victoria Park
+Violet
+Wa Wu-I Billabong
+Waawor
+Wabarra
+Wabby
+Wadleys
+Wadoobiginie
+Waggaboonyah
+Wagin
+Wahpool
+Waigen
+Waikelongup Flat
+Wairuna
+Waite
+Walbyring
+Waldaira
+Waljeers
+Walker Tarn
+Walkers
+Walkers Lagoon
+Walkooanie
+Wallaga
+Wallambin
+Wallawalla
+Waloobiginie
+Walpayapeninna
+Walpaypeninna
+Walpeup
+Walton
+Walyormouring
+Walyungup
+Wanaaring Billabong
+Wancoocha
+Wandambo
+Wandary Lagoon
+Wandella
+Wandry or Muddy Lagoon
+Waneragup
+Wangary
+Wangine
+Wangoom
+Wanhar
+Wanna
+Wannah
+Wannamana
+Wanneary
+Want
+Wantabadgery Lagoon
+Wanwarrie
+Wapengo
+Wappa Dam
+Warburton
+Warden
+Wardering
+Wareenip
+Warra Warreenie
+Warrabulla
+Warracoocaree
+Warracoocarie
+Warrakalanna
+Warrandirinna
+Warrangarrana
+Warrawarrinna
+Warrawenia
+Warrayatkin Swamp
+Warren
+Warrewarrana
+Wartook
+Warwick
+Washing
+Washpool
+Washpool Dam
+Wat Wat
+Waterfall
+Waterlilly Pond
+Waterworks Reservoirs
+Watson Lagoon
+Watson Taylors
+Wattiecarroonie
+Wau Wauka
+Wauwauba
+Way
+Weatherstone
+Webb
+Webster
+Weddenjerry
+Weedy
+Weelawadgi
+Weelhamby
+Weemarrie
+Weeranganuk
+Weering
+Weerlara
+Weeroona
+Welcome
+Well
+Wellington
+Wells
+Wellums
+Wendouree
+Wentworth
+Wentworth Falls
+Werowrap
+Werrnathi
+Wessex Tarn
+West Basin
+Westons
+Westwood
+Wetherell
+Weyba
+Whale Rock
+Whinstone
+Whisky Pool
+Whistlers
+White Dam
+White Flag
+White Spur
+White Stone Lagoon
+Whiteleys Waterhole
+Whites
+Whites Lagoon
+Whites Road Wetland
+Whitham
+Whitton
+Whittons Swamp
+Whyjonta
+Whymoul
+Wicheura
+Wickham
+Wilawilaninna
+Wilbertroy Lagoon
+Wilderness
+Wilkinson
+Wilks
+Will
+Willara
+Willawilaninna
+Willeroo
+Willey
+William Hovell
+Williams Reservoir
+Williamup
+Willinga
+Willow Tree Camp Cowal
+Wilmot
+Wilsons
+Windamingle
+Windorah Billabong
+Windy
+Wingelbunna
+Wingilpin
+Wingoroo
+Winifred
+Winjabbie
+Winslow
+Winter
+Wintlow
+Wirnathy
+Wirra Wirra
+Wirrida
+Wittakilla
+Wivenhoe
+Wokabity
+Wolcot
+Wollare
+Wollumboola
+Wollundry Lagoon
+Wombah
+Wombat Billabong
+Womerrikoo
+Wonboyn
+Wonditti
+Wonga
+Wonga Mound Dam
+Wongan
+Wongitta
+Wongolarroo
+Wonjan
+Wonwarrie
+Woodada
+Woodbridge Lagoon
+Woodcroft
+Woodhouse Lagoon
+Woods Dam
+Woodstock
+Woody
+Woogoolga
+Woolcunda
+Wooleen
+Woolgoolga
+Woolkawoolkina
+Woolley
+Woolleys Lagoon
+Woolleys Tarn
+Wooloweyam Estuary
+Woolpolool
+Woolpool Swamp
+Woonjeel
+Woorabinda
+Woorong
+Wooyeo
+Woromur
+Woronora
+Woterap
+Woytchugga
+Wugata
+Wulgamilla
+Wurawina
+Wuruma
+Wyalla
+Wyangan
+Wyara
+Wyn Wyn
+Wynalkana
+Wyndonga
+Wyola
+Yaalup Lagoon
+Yakine
+Yalbanberup Pool
+Yalgorup
+Yalkalpo
+Yallakar
+Yalleena
+Yallourn Storage Dam
+Yallurnie
+Yalodinya
+Yambuk
+Yamma Yamma
+Yampitcha
+Yanatunkinna
+Yancy
+Yandal Lagoon
+Yandel'ora
+Yandiya
+Yando
+Yandra
+Yanga
+Yangebup
+Yanget
+Yangy
+Yaninee
+Yankee Jack
+Yanko Lagoon
+Yanneri
+Yannerpi
+Yantabangee
+Yantara
+Yantawena
+Yarle
+Yarli
+Yarowinie
+Yarra Billabong
+Yarra Yarra
+Yarrawonga Reservoir
+Yarrie
+Yartla
+Yatton-Loo
+Yeagarup
+Yealering
+Yeenan
+Yeerealup
+Yellanup
+Yellingbo
+Yellnif
+Yelpril Swamp
+Yeltacowie Bed
+Yelwell
+Yentabangee
+Yeo
+Yerang
+Yerrabi Pond
+Yeticup
+Yidney
+Yindana
+Yindarlgooda
+Yindeering
+Yonderup
+Youd
+Youl
+Youls Tarn
+Younadgina Lagoon
+Young
+Youngerina
+Younghusband
+Youngwoman
+Yourdamung
+Yuangmania
+Yudanah Lagoon
+Yumberarra
+Zecks
+Zig Zag

@@ -1,0 +1,5000 @@
+Nes	29
+Vik	28
+Berg	27
+Bø	27
+Haugen	23
+Berge	22
+Åsen	21
+Mo	21
+Dale	20
+Moen	20
+Rød	20
+Tveit	20
+Stranda	19
+Bakken	18
+Eide	18
+Sand	18
+Strand	18
+Breidvik	17
+Lunde	17
+Sandnes	16
+Vika	16
+Dalen	15
+Håland	15
+Tangen	15
+Åmot	14
+Helle	14
+Holmen	14
+Hovland	14
+Meland	14
+Haugland	13
+Nygård	13
+Våge	13
+Ås	12
+Fjell	12
+Kroken	12
+Leirvik	12
+Lund	12
+Neset	12
+Solberg	12
+Solheim	12
+Haug	11
+Lia	11
+Sande	11
+Sandvika	11
+Sletta	11
+Sund	11
+Valle	11
+Vollen	11
+Bogen	10
+Brekke	10
+Hauge	10
+Helland	10
+Li	10
+Rønningen	10
+Botn	9
+Brekka	9
+Bukta	9
+Hol	9
+Myre	9
+Selnes	9
+Straumen	9
+Vestby	9
+Øya	9
+Berger	8
+Bjelland	8
+Bjørnstad	8
+Eidet	8
+Enga	8
+Haga	8
+Holand	8
+Kvalnes	8
+Ramberg	8
+Straumsnes	8
+Sætre	8
+Valen	8
+Åse	7
+Bakka	7
+Bakke	7
+Bråtan	7
+Dal	7
+Eikeland	7
+Foss	7
+Fredheim	7
+Hagen	7
+Hamre	7
+Haugan	7
+Kleiva	7
+Kvalvik	7
+Leira	7
+Liland	7
+Løkka	7
+Myra	7
+Oppsal	7
+Rud	7
+Sem	7
+Steine	7
+Straume	7
+Sunde	7
+Våg	7
+Vassenden	7
+Vikan	7
+Voll	7
+Øye	7
+Øygarden	7
+Årnes	6
+Bergan	6
+Bjørge	6
+Breidvika	6
+Eik	6
+Eikjeland	6
+Espeland	6
+Fagernes	6
+Gjerde	6
+Gjerstad	6
+Gravdal	6
+Hagan	6
+Heimdal	6
+Hella	6
+Holm	6
+Holtet	6
+Hopen	6
+Huseby	6
+Lian	6
+Moi	6
+Nordby	6
+Rise	6
+Risnes	6
+Rørvik	6
+Sandvik	6
+Seim	6
+Solbakken	6
+Solli	6
+Steinsland	6
+Straum	6
+Støa	6
+Sæbø	6
+Søvik	6
+Tofte	6
+Tveiten	6
+Ødegården	6
+Austad	5
+Bråten	5
+Brattli	5
+Breivika	5
+Brenna	5
+Buvika	5
+Byrkjeland	5
+Dalsbygda	5
+Djupvik	5
+Eid	5
+Elvenes	5
+Engenes	5
+Finnes	5
+Frogner	5
+Furulund	5
+Førland	5
+Granheim	5
+Heggland	5
+Hernes	5
+Hestnes	5
+Hop	5
+Hope	5
+Horn	5
+Hov	5
+Hove	5
+Hovet	5
+Hovin	5
+Husvik	5
+Høyland	5
+Høyvik	5
+Krossen	5
+Kvalvåg	5
+Langenes	5
+Langnes	5
+Leirvåg	5
+Lunden	5
+Myklebostad	5
+Myklebust	5
+Myrvoll	5
+Nesheim	5
+Nordstrand	5
+Nyborg	5
+Nysætra	5
+Ramstad	5
+Rygg	5
+Skeie	5
+Solum	5
+Solvang	5
+Svingen	5
+Sæter	5
+Sørum	5
+Ulven	5
+Vatne	5
+Vinje	5
+Vollan	5
+Ørnes	5
+Østby	5
+Akkarfjord	4
+Åkre	4
+Alstad	4
+Åmli	4
+Åsheim	4
+Ask	4
+Aukland	4
+Aune	4
+Bekken	4
+Bjørndal	4
+Bjørndalen	4
+Bråstad	4
+Breidablikk	4
+Brua	4
+Engan	4
+Enger	4
+Eskeland	4
+Evjen	4
+Fagerli	4
+Fagervik	4
+Finnstad	4
+Fiskå	4
+Flå	4
+Flaten	4
+Framnes	4
+Furnes	4
+Førde	4
+Garder	4
+Gran	4
+Granly	4
+Grimstad	4
+Grinde	4
+Grønvoll	4
+Haddeland	4
+Halsen	4
+Hamna	4
+Hasle	4
+Haukland	4
+Heia	4
+Hjelmeland	4
+Holme	4
+Holstad	4
+Holt	4
+Holtan	4
+Hovde	4
+Husby	4
+Hægeland	4
+Høye	4
+Kleppe	4
+Kvam	4
+Lande	4
+Landsverk	4
+Lanes	4
+Langeland	4
+Langset	4
+Laukvik	4
+Lavangen	4
+Lavik	4
+Leitet	4
+Leknes	4
+Løding	4
+Mehus	4
+Moa	4
+Moan	4
+Mork	4
+Myrland	4
+Nordvika	4
+Nygard	4
+Odden	4
+Oldervik	4
+Osen	4
+Rabben	4
+Reistad	4
+Rustad	4
+Ryen	4
+Saga	4
+Sandum	4
+Sjølyst	4
+Skarstein	4
+Skjold	4
+Skog	4
+Skogly	4
+Snippen	4
+Solem	4
+Sollia	4
+Stamnes	4
+Stokke	4
+Storbukt	4
+Stornes	4
+Storsteinnes	4
+Storvik	4
+Sundby	4
+Sylte	4
+Teigen	4
+Tofta	4
+Totland	4
+Tveitan	4
+Vågan	4
+Vågen	4
+Vassvika	4
+Været	4
+Øygard	4
+Aa	3
+Ådland	3
+Åker	3
+Aksnes	3
+Åkvik	3
+Alvestad	3
+Åmland	3
+Amundrød	3
+Ånnerud	3
+Arneberg	3
+Årvik	3
+Åsa	3
+Askeland	3
+Askim	3
+Åsly	3
+Åsnes	3
+Austbø	3
+Bårdset	3
+Bekkelaget	3
+Bergset	3
+Berstad	3
+Birkjeland	3
+Bjerke	3
+Bjønnes	3
+Bjørgan	3
+Bjørke	3
+Bjørkli	3
+Bjørnerud	3
+Borgen	3
+Breivik	3
+Brennlia	3
+Brevik	3
+Bru	3
+Brunstad	3
+Buer	3
+Bøen	3
+Dalane	3
+Dalheim	3
+Dammen	3
+Djupdalen	3
+Dyrdal	3
+Dyrstad	3
+Egge	3
+Eidem	3
+Eidsberg	3
+Eikenes	3
+Elstad	3
+England	3
+Erdal	3
+Erstad	3
+Ervik	3
+Espeset	3
+Evje	3
+Fagerheim	3
+Fagerstrand	3
+Fallet	3
+Fardal	3
+Farstad	3
+Fauske	3
+Fidje	3
+Fjær	3
+Flata	3
+Folkestad	3
+Folkvang	3
+Fornes	3
+Fossan	3
+Fosse	3
+Fossen	3
+Fossheim	3
+Frydenberg	3
+Fuglevik	3
+Garnes	3
+Gavlen	3
+Gjerdet	3
+Glenne	3
+Grande	3
+Grava	3
+Grindheim	3
+Grov	3
+Gryte	3
+Grønland	3
+Grønlia	3
+Halland	3
+Hals	3
+Hamnes	3
+Haugerud	3
+Helleland	3
+Helleren	3
+Hellevik	3
+Hillestad	3
+Hjelle	3
+Hole	3
+Holla	3
+Holte	3
+Holvik	3
+Homme	3
+Horne	3
+Hoset	3
+Hovden	3
+Husøya	3
+Hvam	3
+Jerstad	3
+Jordet	3
+Jøvik	3
+Kalland	3
+Kilen	3
+Kirkebygda	3
+Kleiv	3
+Klungland	3
+Kolstad	3
+Kolvik	3
+Korsvegen	3
+Kråkstad	3
+Kringla	3
+Kvåle	3
+Kvamme	3
+Lakså	3
+Langerud	3
+Lauvhaugen	3
+Lauvrak	3
+Leirbukt	3
+Leirvika	3
+Lii	3
+Lyngdal	3
+Løken	3
+Løset	3
+Løvik	3
+Malnes	3
+Marka	3
+Måstad	3
+Medby	3
+Melen	3
+Myklebost	3
+Myren	3
+Nese	3
+Nessa	3
+Nordberg	3
+Nordbygdi	3
+Nordbø	3
+Nordheim	3
+Nordvik	3
+Nyland	3
+Nymoen	3
+Olsborg	3
+Oppdøl	3
+Os	3
+Osnes	3
+Otnes	3
+Pollen	3
+Rå	3
+Ramsvika	3
+Rasta	3
+Reine	3
+Reitan	3
+Risa	3
+Rosseland	3
+Rui	3
+Rundtom	3
+Rødland	3
+Røstad	3
+Røyrvik	3
+Røyseland	3
+Sagbakken	3
+Sagstua	3
+Salhus	3
+Sanddal	3
+Saupstad	3
+Sele	3
+Skadberg	3
+Skei	3
+Skjånes	3
+Skjeggestad	3
+Skjelnes	3
+Skjelvik	3
+Skor	3
+Skovly	3
+Småland	3
+Smestad	3
+Solstad	3
+Sommarset	3
+Sorgenfri	3
+Spetalen	3
+Steinberg	3
+Steinsdalen	3
+Steinsvik	3
+Steinvik	3
+Stien	3
+Stokka	3
+Stokkan	3
+Storvika	3
+Storvollen	3
+Strandvik	3
+Strømmen	3
+Stubberud	3
+Sundet	3
+Sundsbø	3
+Sævik	3
+Søreide	3
+Sørli	3
+Sørvika	3
+Torget	3
+Torp	3
+Torvik	3
+Toverud	3
+Træet	3
+Tunheim	3
+Tveitane	3
+Tveite	3
+Tverrå	3
+Tysse	3
+Ulland	3
+Valla	3
+Vang	3
+Vangen	3
+Vassdal	3
+Vatland	3
+Velle	3
+Verket	3
+Vestbygda	3
+Vestgard	3
+Veum	3
+Vikene	3
+Vikran	3
+Visnes	3
+Volla	3
+Øra	3
+Østerhus	3
+Øverås	3
+Øverby	3
+Øvrebø	3
+Øyan	3
+Åkra	2
+Akset	2
+Ål	2
+Ålen	2
+Alfheim	2
+Ålgård	2
+Allmenningen	2
+Almås	2
+Almlia	2
+Ålmo	2
+Alsvik	2
+Alvheim	2
+Ambjørnrød	2
+Åndal	2
+Andsnes	2
+Ånes	2
+Ånnstad	2
+Ansnes	2
+Ånstad	2
+Apalset	2
+Apeland	2
+Årak	2
+Årdal	2
+Århus	2
+Åros	2
+Årset	2
+Arstad	2
+Årstad	2
+Årøy	2
+Asak	2
+Åsan	2
+Åsane	2
+Åsgrend	2
+Askedalen	2
+Askvik	2
+Åsland	2
+Åslia	2
+Aspneset	2
+Åsvang	2
+Auklend	2
+Auna	2
+Aunegrenda	2
+Aunet	2
+Aurdal	2
+Aure	2
+Austrått	2
+Åvesland	2
+Bakkeby	2
+Bakkejord	2
+Bakkejorda	2
+Ballstad	2
+Bamle	2
+Belle	2
+Bellevue	2
+Bentsrød	2
+Berdal	2
+Berget	2
+Bergjord	2
+Berland	2
+Birkeland	2
+Birkenes	2
+Bjerknes	2
+Bjordal	2
+Bjørgen	2
+Bjørgo	2
+Bjørkan	2
+Bjørnestad	2
+Bjørnevåg	2
+Bjørnsund	2
+Blakstad	2
+Blindheim	2
+Blæstad	2
+Bolga	2
+Bones	2
+Borge	2
+Botnen	2
+Brakstad	2
+Brandal	2
+Bråte	2
+Brattbakken	2
+Bratten	2
+Brattland	2
+Brattlia	2
+Breide	2
+Breidland	2
+Breidstrand	2
+Brekkeåsen	2
+Breland	2
+Bremnes	2
+Brennelv	2
+Brimnes	2
+Briskebyen	2
+Bruflat	2
+Bruntveit	2
+Bruset	2
+Bruvoll	2
+Bryn	2
+Bryne	2
+Bua	2
+Bubakken	2
+Budal	2
+Buene	2
+Bugården	2
+Bunes	2
+Burstad	2
+Burud	2
+By	2
+Bygd	2
+Byskogen	2
+Bøle	2
+Børgen	2
+Børselvnes	2
+Bøvær	2
+Dagali	2
+Dalland	2
+Davik	2
+Digernes	2
+Digerud	2
+Disen	2
+Djupvika	2
+Dokka	2
+Dovreskogen	2
+Drange	2
+Egeland	2
+Eggan	2
+Eggedal	2
+Eiane	2
+Eidene	2
+Eidsfoss	2
+Eidsvåg	2
+Eidsvik	2
+Eigeland	2
+Eikås	2
+Eikeberg	2
+Eikelund	2
+Eikemo	2
+Eikje	2
+Eikrem	2
+Eineren	2
+Ekeberg	2
+Elde	2
+Elvebakken	2
+Elvemo	2
+Elverhøy	2
+Elvestad	2
+Elvevoll	2
+Enge	2
+Engene	2
+Engerud	2
+Eriksrud	2
+Erikstad	2
+Ersfjord	2
+Espe	2
+Espedal	2
+Espenes	2
+Espetveit	2
+Evensgård	2
+Evenstad	2
+Fåberg	2
+Fagerås	2
+Fagerholt	2
+Farnes	2
+Fen	2
+Fenes	2
+Ferkingstad	2
+Festvåg	2
+Fiane	2
+Finneid	2
+Finnset	2
+Finnsæter	2
+Fiske	2
+Fiskevollen	2
+Fjellborg	2
+Fjelldal	2
+Fjellestad	2
+Fjellskår	2
+Fjellstad	2
+Fjellvang	2
+Flaen	2
+Flåm	2
+Flatabø	2
+Flåtan	2
+Flateland	2
+Flåten Nordre	2
+Flatval	2
+Flatvoll	2
+Flesvik	2
+Fløttom	2
+Fløystad	2
+Forberg	2
+Formo	2
+Forra	2
+Forså	2
+Forset	2
+Forsland	2
+Fosnes	2
+Fossane	2
+Fossbakken	2
+Fosstveit	2
+Fossum	2
+Frikstad	2
+Frydenlund	2
+Frøland	2
+Frøysland	2
+Furuset	2
+Føre	2
+Gamlebyen	2
+Gammelsætra	2
+Gamvik	2
+Gåppi	2
+Gárgu	2
+Gaustad	2
+Gausvik	2
+Gile	2
+Gimle	2
+Gjengstøa	2
+Gjermundsnes	2
+Gjuv	2
+Gjælen	2
+Godli	2
+Gohppi	2
+Gon	2
+Granås	2
+Granli	2
+Granum	2
+Grefsrud	2
+Greipsland	2
+Greipstad	2
+Grevle	2
+Grimestad	2
+Grimsrud	2
+Grinder	2
+Grini	2
+Grorud	2
+Grotle	2
+Grova	2
+Grunnfjord	2
+Grytting	2
+Grøndalen	2
+Grønli	2
+Grønning	2
+Grønningen	2
+Grønset	2
+Grøsnes	2
+Grøtan	2
+Grøtåsen	2
+Grøttem	2
+Gubberud	2
+Gulen	2
+Gullhaug	2
+Gullset	2
+Gusland	2
+Gusland Store	2
+Gvammen	2
+Gøystdal	2
+Hagaløkka	2
+Hågån	2
+Hage	2
+Håkavik	2
+Hallan	2
+Hallset	2
+Halsa	2
+Halten	2
+Hamar	2
+Hamaren	2
+Hammaren	2
+Hammarsland	2
+Hammeren	2
+Hamn	2
+Hamna i Ryggefjord	2
+Hamnnes	2
+Hamran	2
+Handeland	2
+Hanestad	2
+Haraldstad	2
+Harstad	2
+Hårstad	2
+Haslum	2
+Hatlane	2
+Hatlestad	2
+Håtveit	2
+Haugo	2
+Haugtuft	2
+Haukås	2
+Haukåsen	2
+Hauknes	2
+Haukvik	2
+Håvik	2
+Hegg	2
+Hegge	2
+Heggem	2
+Heggtveit	2
+Hegna	2
+Heiås	2
+Heistad	2
+Heldal	2
+Helgaland	2
+Helgebostad	2
+Helgerød	2
+Helgøy	2
+Helldal	2
+Hellvik	2
+Helvik	2
+Hem	2
+Herland	2
+Herset	2
+Herstad	2
+Hesnes	2
+Hestad	2
+Hetlevik	2
+Hjellnes	2
+Hof	2
+Hofstad	2
+Hokstad	2
+Holdhus	2
+Holen	2
+Holmbukt	2
+Holmejordet	2
+Holmlia	2
+Holo	2
+Holsætra	2
+Holten	2
+Hommelstø	2
+Hopland	2
+Hornnes	2
+Hotvet	2
+Hovda	2
+Hovdan	2
+Hoven	2
+Hundstad	2
+Husebø	2
+Hustad	2
+Husvika	2
+Husøy	2
+Hvitstein	2
+Høgda	2
+Høgset	2
+Hørte	2
+Høvringen	2
+Høybråten	2
+Høydal	2
+Ila	2
+Indre Berg	2
+Indrefjord	2
+Innhavet	2
+Innset	2
+Iveland	2
+Jaren	2
+Jonsrud	2
+Jordal	2
+Juvik	2
+Juvika	2
+Jørstad	2
+Jøssund	2
+Kåfjord	2
+Kaland	2
+Kallerud	2
+Kalvik	2
+Kanstad	2
+Karlshus	2
+Karlstad	2
+Karlsøy	2
+Karstad	2
+Kåsa	2
+Kastellet	2
+Kastet	2
+Kaupanger	2
+Keila	2
+Kilan	2
+Kirkebakken	2
+Kirkvoll	2
+Kistrand	2
+Kjeldal	2
+Kjelleråsen	2
+Kjelsås	2
+Kjenn	2
+Kjerkevik	2
+Kjos	2
+Kjul	2
+Kjærstad	2
+Kjørstad	2
+Kjørsvik	2
+Klåstad	2
+Kleivi	2
+Klepp	2
+Kleveland	2
+Klopp	2
+Klæbu	2
+Kløfta	2
+Knappstad	2
+Knarrviki	2
+Knatten	2
+Knutsvik	2
+Kolbu	2
+Kolgrov	2
+Kolnes	2
+Kolsås	2
+Kolset	2
+Kolsrud	2
+Kongshavn	2
+Kopstad	2
+Kornstad	2
+Korshamn	2
+Korsvoll	2
+Kringsjå	2
+Kristiansand	2
+Krokstad	2
+Kroksund	2
+Kronstad	2
+Kvalsund	2
+Kvalsvik	2
+Kvalvågen	2
+Kvalvika	2
+Kvammen	2
+Kverndalen	2
+Kvernvika	2
+Kvikstad	2
+Kvisla	2
+Kvisle	2
+Kviting	2
+Kvitnes	2
+Kvitno	2
+Kyrkjebygdi	2
+Kyrkjebø	2
+Laberg	2
+Laberget	2
+Labukta	2
+Lahelle	2
+Lakselv	2
+Landøy	2
+Langevåg	2
+Langlo	2
+Langneset	2
+Lastad	2
+Laukeng	2
+Lauksletta	2
+Laukvika	2
+Laupstad	2
+Lauvdal	2
+Leangen	2
+Leikanger	2
+Leina	2
+Leines	2
+Leland	2
+Lervik	2
+Levdal	2
+Liabygda	2
+Liabøen	2
+Liagrenda	2
+Lien	2
+Lier	2
+Lilleby	2
+Lillesand	2
+Lina	2
+Lindås	2
+Lindeberg	2
+Lindland	2
+Linland	2
+Litledalen	2
+Ljosland	2
+Lofterød	2
+Lofthus	2
+Lona	2
+Lonkan	2
+Loshamn	2
+Lundan	2
+Lundeby	2
+Lunner	2
+Lutnes	2
+Løkken	2
+Løland	2
+Løvås	2
+Løyning	2
+Magnor	2
+Malm	2
+Manger	2
+Megarden	2
+Meldal	2
+Melem	2
+Melhus	2
+Meling	2
+Mellby	2
+Mesel	2
+Midbø	2
+Middelborg	2
+Midtbyen	2
+Midttun	2
+Minde	2
+Mjåvatn	2
+Mjelde	2
+Modalen	2
+Moelv	2
+Molde	2
+Molland	2
+Mongstad	2
+Movik	2
+Mule	2
+Munkerud	2
+Munkvoll	2
+Musken	2
+Myking	2
+Myran	2
+Myrane	2
+Myrdal	2
+Myrer	2
+Myrhaug	2
+Myrset	2
+Myrvang	2
+Mæland	2
+Mælum	2
+Mære	2
+Mørkved	2
+Møvik	2
+Naustdal	2
+Nerland	2
+Nerskogen	2
+Nomeland	2
+Nordaunet	2
+Nordbotn	2
+Norddal	2
+Nordeng	2
+Nordengen	2
+Nordfjord	2
+Nordlandet	2
+Nordli	2
+Nordmannset	2
+Nordseter	2
+Nordskaget	2
+Nordstraumen	2
+Norheim	2
+Nos	2
+Nydalen	2
+Nyheim	2
+Nyhus	2
+Nysætri	2
+Nøra	2
+Nørdstebø	2
+Ofte	2
+Oksevik	2
+Oland	2
+Olden	2
+Oldernes	2
+Oldervika	2
+Olstad	2
+Omdal	2
+Onarheim	2
+Oppdal	2
+Oppegård	2
+Oppheim	2
+Optedal	2
+Orebakken	2
+Orevika	2
+Ormestad	2
+Osa	2
+Prestegården	2
+Prærien	2
+Pytten	2
+Ramnes	2
+Ramsland	2
+Ramsli	2
+Ramsvik	2
+Ramsøy	2
+Råna	2
+Ranvik	2
+Råstad	2
+Raudsand	2
+Ravik	2
+Redalen	2
+Reina	2
+Reinelv	2
+Reinsvoll	2
+Rekvik	2
+Remmen	2
+Reppen	2
+Revsnes	2
+Rimstad	2
+Risberget	2
+Risdal	2
+Risøysund	2
+Rogne	2
+Rognskog	2
+Rokstad	2
+Roligheten	2
+Rollag	2
+Rong	2
+Roppestad	2
+Rosendal	2
+Rossnes	2
+Rudjord	2
+Rudsætra	2
+Rugland	2
+Rusta	2
+Rygge	2
+Røa	2
+Rødberg	2
+Rødsand	2
+Røra	2
+Røssnes	2
+Røssvoll	2
+Røvik	2
+Røydland	2
+Røyne	2
+Røyset	2
+Røysing	2
+Sagdalen	2
+Saltnes	2
+Saltneset	2
+Samkom	2
+Sandåker	2
+Sandbakken	2
+Sandbekk	2
+Sandbu	2
+Sandmoen	2
+Sandstrand	2
+Sandviga	2
+Sandvoll	2
+Sannan	2
+Sauar	2
+Seland	2
+Seljestad	2
+Selstad	2
+Selvåg	2
+Seter	2
+Setra	2
+Setre	2
+Sevik	2
+Siggerud	2
+Silsand	2
+Sinnes	2
+Sitter	2
+Sjauset	2
+Sjursvika	2
+Sjøstrand	2
+Skáidi	2
+Skåra	2
+Skard	2
+Skardsvåg	2
+Skare	2
+Skårer	2
+Skari	2
+Skarpnes	2
+Skarstad	2
+Skau	2
+Skavdalen	2
+Skiippagurra	2
+Skittenelv	2
+Skjeggedal	2
+Skjeljanger	2
+Skjelvåg	2
+Skjervik	2
+Skjervøy	2
+Skogen	2
+Skogn	2
+Skogstad	2
+Skogvik	2
+Skori	2
+Skorpa	2
+Skuvgi	2
+Skøelva	2
+Slåtten	2
+Slåttnes	2
+Slattum	2
+Sletten	2
+Slettnes	2
+Smedhaugen	2
+Smedland	2
+Smedstua	2
+Snørsvall	2
+Soland	2
+Solhaug	2
+Solvik	2
+Soløy	2
+Sommarøy	2
+Sommerset	2
+Songe	2
+Sortland	2
+Spangereid	2
+Spildra	2
+Stalheim	2
+Stange	2
+Stave	2
+Stavern	2
+Stein	2
+Steinnes	2
+Steinsrud	2
+Steiro	2
+Stokken	2
+Stokkland	2
+Stolsmo	2
+Stordal	2
+Store Sandnes	2
+Storeidet	2
+Storelva	2
+Storeng	2
+Storjorda	2
+Stormoen	2
+Storskog	2
+Storslett	2
+Storsvea	2
+Stranden	2
+Straumshamn	2
+Straumøy	2
+Strond	2
+Stuvland	2
+Styrkesnes	2
+Støkke	2
+Støle	2
+Stølen	2
+Støylen	2
+Sundbakken	2
+Sundnes	2
+Sundvoll	2
+Šuoššjohka	2
+Svarstad	2
+Svestad	2
+Svindal	2
+Svolvær	2
+Sætersgrenda	2
+Sætra	2
+Sævareid	2
+Søndersrød	2
+Sønsteby	2
+Sønstebø	2
+Sørby	2
+Sørbø	2
+Sørfjorden	2
+Sørgard	2
+Sørkjosen	2
+Sørland	2
+Sørlia	2
+Sørskaget	2
+Sørstraumen	2
+Sørvåg	2
+Sørvågen	2
+Sørvær	2
+Søyland	2
+Tasta	2
+Tautra	2
+Tegland	2
+Teien	2
+Tellnes	2
+Tengesdal	2
+Tenvik	2
+Tinden	2
+Tjernli	2
+To	2
+Tomter	2
+Tornes	2
+Torset	2
+Toven	2
+Tredal	2
+Trengereid	2
+Tretten	2
+Trones	2
+Tronstad	2
+Trovåg	2
+Tuft	2
+Tune	2
+Tunes	2
+Tuv	2
+Tuva	2
+Tveita	2
+Tveito	2
+Tysnes	2
+Tyssedal	2
+Tysso	2
+Tømmerås	2
+Tømmeråsen	2
+Tømmervik	2
+Tønsvik	2
+Tørkopp	2
+Udland	2
+Ulleren	2
+Ulvestad	2
+Ulvik	2
+Urda	2
+Utsikten	2
+Utstrand	2
+Vadla	2
+Våga	2
+Våje	2
+Våle	2
+Våler	2
+Valhalla	2
+Valler	2
+Valvik	2
+Valøya	2
+Varden	2
+Vassås	2
+Vassbotn	2
+Vassbygdi	2
+Vasshaug	2
+Vassli	2
+Vasstrand	2
+Vassvik	2
+Vaterland	2
+Vaulen	2
+Veidnes	2
+Vengsøya	2
+Vestbyen	2
+Vesterelva	2
+Vestli	2
+Vestnes	2
+Vestsida	2
+Vestvik	2
+Vevle	2
+Vige	2
+Vikane	2
+Vike	2
+Vikebygd	2
+Viker	2
+Viki	2
+Vikja	2
+Vindheim	2
+Vinnes	2
+Vinterstø	2
+Viste	2
+Volden	2
+Vollagrenda	2
+Vollebekk	2
+Vollo	2
+Vollstad	2
+Værnes	2
+Vølstad	2
+Ystrebø	2
+Ytre Ålvik	2
+Ytre Søndeled	2
+Ørbekk	2
+Øre	2
+Østborg	2
+Østbyen	2
+Øverbygda	2
+Øverland	2
+Øvstebø	2
+Øy	2
+Øyer	2
+Øyjorda	2
+Øyjordi	2
+Øynes	2
+Å i Åfjord
+Abelvær
+Åboren
+Abrahamsplassen
+Åbøgrend
+Ådalsbruk
+Ådalsvollen
+Adamsrød
+Adamstuen
+Ådlandsviki
+Ådneram
+Ådneskor
+Aen
+Åfarnes
+Aftræt
+Åg
+Aga
+Agdestein
+Aglapsvik
+Agle
+Agnefest
+Agnes
+Ågotnes
+Ågskardet
+Åheim
+Áhkávuonnjárgga
+Aidejavre
+Aker brygge
+Åkerstrømmen
+Åkervika
+Åkerøen
+Akkarvik
+Akkerhaugen
+Åkrehamn
+Åkvåg
+Åkvika
+Albretskjær
+Åleborg
+Ålesund
+Åletjønnstua
+Alfaset
+Ålfoten
+Algarheim
+Algrem
+Alm
+Almeløkka
+Alnes
+Ålset
+Alsgard
+Ålstad
+Alstahaug
+Alsvåg
+Ålsætra
+Alta
+Alvdal
+Alværn
+Åmelfot
+Åmotsdal
+Åna-Sira
+Åndalen
+Åndalsnes
+Andebu
+Andenes
+Andgard
+Andselv
+Andset
+Andslimoen
+Andvik
+Andvord
+Andørka
+Andøya
+Åneby
+Åneland
+Angen
+Ankenes
+Anvik Nedre
+Anvik Øvre
+Anvissætrane
+Åpåse
+Apenes
+Áppošborri
+Årås
+Årbogen
+Årdalstangen
+Are
+Åreberg
+Arefjord
+Åreklett
+Arendal
+Årfor
+Årkvisla
+Årland
+Årlifoss
+Arnadal
+Arnafjord
+Arnatveit
+Arnes
+Årsand
+Årsandøy
+Årsby
+Årsland
+Arveset
+Årø
+Årøyskogen
+Årøysund
+Ås-grenda
+Åsanfeltet
+Åsaunet
+Åsbø
+Åsegrendi
+Åset
+Åsgården
+Åsgårdstrand
+Asheim
+Åsjorda
+Åskal
+Askedalen Nedre
+Askenga
+Asker
+Askilt
+Askkroken
+Asland
+Aslandgrendi
+Asmundvåg
+Aspdalen
+Aspedammen
+Åssida
+Åsskard
+Åstebøl
+Åsvik
+Atna
+Atnbrua
+Atnosen
+Augedalsbru
+Augesætra
+Auklandshamn
+Aukra
+Aukrasanden
+Aulerød
+Auli
+Aulstad
+Aurland
+Aursfjordbotn
+Aursletta
+Aursmoen
+Ausevik
+Austadberget
+Austbygdi
+Austein
+Austerheim
+Austerøya
+Austevoll
+Austgard
+Austheim
+Austnes
+Austra Mosterhamn
+Austre Kaldvåg
+Austre Vatne
+Austvatn
+Austvoll
+Auten
+Avaldsnes
+Ávanuorri
+Avedal
+Åvedal
+Aven
+Avki
+Avskar
+Badderen
+Båddnå
+Badjenjárga
+Badstuvika
+Bagn
+Bagne
+Báhkiljohknjárga
+Bak
+Bakarvågen
+Bakås
+Bakkagrende
+Bakke Søndre
+Bakkehaug
+Bakkeland
+Bakko
+Bakstadgrenda
+Bakstevold Mellom
+Báktemohkenjárga
+Balestrand
+Ballangen
+Balteskaret
+Bangstad
+Bangsund
+Bårdshaug
+Bardufoss
+Barkåker
+Barkedalen
+Bårlog
+Barman
+Barmen Ytre
+Barsnes
+Barstadvik
+Barta
+Basberg
+Båsheim
+Bassebu
+Bastaneset
+Batnfjordsøra
+Båtsfjord
+Båtstø
+Baugerud
+Baukål
+Baustin
+Bede
+Begndal
+Beian
+Beisfjord
+Beitostølen
+Bekkeberga
+Bekkegrenda
+Bekkejordet
+Bekker
+Bekkesvea
+Bekkevika
+Bekkjarvik
+Belgefet
+Bellvika
+Belsvik
+Bentsnes
+Berås
+Berdalsbru
+Berfjorden
+Berg Mellom
+Bergabrøtin
+Bergangrendi
+Bergåsen
+Bergen
+Bergesiden
+Bergesætra
+Bergli
+Berglund
+Bergsbotn
+Bergsjøstølen
+Bergsneset
+Bergsviki
+Berkåk
+Berlevåg
+Bernvågen
+Berrvik
+Bersrudstrondi
+Bessaker
+Bevergrenda
+Bievrrá
+Bilbøn
+Bildán
+Billávuotna
+Billingstad
+Bilstad
+Bilto
+Bingen
+Bingene
+Birtavarre
+Bismoen
+Bitterstad
+Bjåen
+Bjår
+Bjarkøy
+Bjelkarøy
+Bjelle
+Bjerka
+Bjerkås
+Bjerkvik
+Bjertnes
+Bjoneroa
+Bjorbekk
+Bjugn
+Bjønnkuvvollan
+Bjøre
+Bjørga
+Bjørgesæter
+Bjørgja
+Bjørheimsbygda
+Bjørhusdalen
+Bjøringen
+Bjørkelangen
+Bjørkgrenda
+Bjørkhaug
+Bjørkmyr
+Bjørnalia
+Bjørnbærvika
+Bjørnevatn
+Bjørnhovd
+Bjørnli
+Bjørnvassdalen
+Bjørset
+Bjørvika
+Blåfjellet
+Blakset
+Bleik
+Bleikli
+Bleiknes
+Bleskestad
+Blikberget
+Blokken
+Blomli
+Blylaget
+Blæstern
+Blæstra
+Boavva
+Bodø
+Bodøgård
+Boftsa
+Bognelv
+Bolkesjø
+Bolle
+Bollermoen
+Bollerud
+Bondal
+Bondibråten
+Bondjord
+Bordvik
+Borgan
+Borgegrendi
+Borgestad
+Borgheim
+Borgund
+Borgvær
+Borkenes
+Borlo
+Borsholmen
+Borstuvollen
+Botngård
+Botnhamn
+Botten
+Bragernes
+Brandanger
+Brandsvika
+Brandsøy
+Brandval
+Brandvik
+Braskereidfoss
+Bråstein
+Bratland
+Bratsberg
+Brattåsen
+Brattekleiv
+Brattfjell
+Brattholmen
+Brattlund
+Brattrudgrenda
+Brattstølen
+Brattvåg
+Breannjá
+Breidal Nedre
+Breidsetstølan
+Breistrand
+Brekebygda
+Brekkhus
+Brekkom
+Brekstad
+Bremneset
+Bremsnes
+Brenmo
+Brenn
+Brenneriroa
+Brenngam
+Brennsdal
+Brennsundgårdan
+Brennvik
+Brettninga
+Brevikstranda
+Briksdalsbre
+Bringsjord
+Brinsdal
+Brobekk
+Broberg
+Brokskar
+Bronka
+Brosdal
+Brosvik
+Brotshaug
+Brotthenget
+Brottøya
+Bruås
+Brudalsåsen
+Bruhagen
+Brukroa
+Brumunddal
+Brunlanes Aldershjem
+Brusand
+Bryggeåsen
+Bryggesåk
+Bryggevik
+Bryggja
+Brynseng
+Brødbøl
+Brøderud
+Brødlaus
+Brødløs
+Brøgrenda
+Brønnstad
+Brønnøysund
+Brøskift
+Brøtsø
+Brøttem
+Brøttet
+Brøttum
+Bu
+Bud
+Budor
+Bugøynes
+Bukleiva
+Buktenes
+Buollánnjárga
+Burfjord
+Burkevellene
+Burøysund
+Busk
+Buskerud
+Busmoen
+Busnesgrenda
+Bustadtrøi
+Bustrand
+Buvarp
+Buvasstølen
+Byafossen
+Bygdøy
+Byggstøl
+Byglandsfjord
+Byhaugen
+Bykle
+Byneset
+Byrknes
+Bysheim
+Bærums verk
+Bø S
+Bøgrend
+Bøgrendi
+Bøkely
+Bøland
+Bølum
+Bømlo
+Bøn
+Børdal
+Børilden
+Børsjøhøgruve
+Børve
+Bøstranda
+Bøylestad
+Bøyum
+Charlottenlund
+Cicignon
+Čohkkugieddi
+Cohkolahka
+Colonien
+Cuobbugieddi
+Čuolovuotna
+Dagsvik
+Dakota
+Dalabygdi
+Dalan
+Dalby
+Dalgard
+Dalosen
+Dalsvåg
+Dalsøyra
+Danieljordet
+Danvik
+Darbu
+Dåvøy
+Degernes
+Demmahågen
+Denstad
+Deset
+Digermulen
+Digranes
+Dikemark
+Dilkestad
+Dimbarásvuodna
+Dimmelsvik
+Dirdal
+Disenå
+Djupedal
+Djønno
+Doaresgáddi
+Doglo
+Dokki
+Dokkmo
+Dolmset
+Dolstad
+Dolvik
+Dombås
+Domsbru
+Donavall
+Dorvonjárga
+Dorvær
+Dovre
+Drage Ytre
+Dragneset
+Dragsetmoen
+Dragsnes
+Dragøya
+Drammen
+Dramsås
+Drangeid
+Dravlaus
+Dreng Øvre
+Drevassbotnen
+Drevsjømoen
+Drevvatnet
+Drilen
+Drivenes
+Drivstua
+Dronninga
+Druktjørnhaugen
+Drøbak
+Dulpetorpet
+Dun
+Dunihagen
+Dunserudhagen
+Dypvåg
+Dyrkorn
+Dyrland
+Dyrnes
+Dyrrud
+Dyrøyhamn
+Dyrøyklauva
+Dysje
+Dyvastrø
+Dølemo
+Dølihagen
+Dølin
+Dønnestad
+Dønnyn
+Dønski
+Dørheim
+Dørremsgrenda
+Døvika
+Døvre
+Ebbesvik
+Ebru
+Eftedal
+Egddalen
+Egersund
+Eggalia
+Eggevåg
+Eggja
+Eggkleiva
+Egner
+Egså
+Eiby
+Eidemarken
+Eidemsvik
+Eidesvågen
+Eidfjord
+Eidsbukta
+Eidsbygda
+Eidsgrenda
+Eidsmoan
+Eidspjell Nordre
+Eidstod
+Eidstranda
+Eidsvågneset
+Eik Vestre
+Eike
+Eikelandsosen
+Eiketuft
+Eikevågen
+Eikja
+Eikjelandsdalen
+Eiknes
+Eikonrød
+Eikrol
+Eikvåg
+Eikvang
+Eina
+Einmoen
+Eiteråga
+Eiteråstrømmen
+Eivindvik
+Ekenes
+Ekkerøya
+Eklesbakken
+Eklisgrenda
+Eklund
+Ekne
+Ekra
+Ekren
+Ekset
+Eksingedal
+Eldholm
+Elenjorda
+Elgà
+Elgestad
+Elgsnes
+Eli
+Elle
+Ellefsrød
+Ellviki
+Elnan
+Elnesvågen
+Elset
+Eltdalen
+Elvejord
+Elverum
+Elvetun
+Elvik
+Emanuelfjell
+Engar
+Engelstad
+Engerdal
+Engerneset
+Engesland
+Engjane
+Engmoen
+Engrønningen
+Ensjø
+Eppeland
+Erseid
+Ersholmen
+Ersland
+Ersvika
+Ertlia
+Ertvåg
+Ervika
+Ese
+Eskedal
+Espa
+Espelid
+Espevik
+Etelänpuoli
+Etne
+Etterstad
+Evavollen
+Evenes
+Evenesmarka
+Evenskjer
+Evjegjerdet
+Evjemoen
+Exmark
+Fagerdalen
+Fagerhaugen
+Fagertun
+Fakkekeila
+Faleide
+Falkensten
+Fall
+Fallåsen
+Fallmoen
+Fanebustsjøen
+Fåneshavn
+Fannrem
+Farås
+Farestveit
+Farsund
+Farvollen
+Fauskan
+Feda
+Fedje
+Fedjesdal
+Fefor
+Feios
+Felle
+Festervik
+Festo
+Fet
+Fetsund
+Fevang
+Fevik
+Fiksdal
+Fillan
+Finnbekken
+Finnbråten
+Finneidet
+Finnelv
+Finnen
+Finnerud
+Finnestad
+Finnheim
+Finnjord
+Finnlandsvika
+Finnsådal
+Finnsnes
+Finnøya
+Finsand
+Finsrud
+Finstadbru
+Fiskebygda
+Fiskum
+Fiskvåg
+Fister
+Fitjan
+Fitjar
+Five
+Fivelsdal
+Fjeld
+Fjelestad
+Fjellanger
+Fjellbygda
+Fjellfoten
+Fjelli
+Fjellnes
+Fjellså
+Fjellskålnes
+Fjellsrud
+Fjellstrand
+Fjetland
+Fjordbukta
+Fjordvangen
+Fjotland
+Fjuk
+Fjæra
+Fjære
+Fjærestad
+Fjærland
+Flåbekk
+Fladmoen
+Flak
+Flakk
+Flakstadvåg
+Flaktveit
+Flaskebekkbråten
+Flasnes
+Flatås
+Flatbråtan
+Flatbygdi
+Flatdal
+Flateby
+Flatland
+Flatmoen
+Flatnes
+Flåttenmoen
+Flauet
+Flekke
+Flekkefjord
+Flekken
+Flekkos
+Flemma
+Flermoen
+Fleskhus
+Flesland
+Flikka
+Flikkeid
+Flisa
+Flisaker
+Floberg
+Flokenes
+Florø
+Flotene
+Flottorp
+Fluberg
+Fluguhaug
+Flø
+Fløgen
+Fløksand
+Fløtlia
+Fløtten
+Fløyrli
+Fokstad
+Fokstua
+Folde
+Folderøy
+Foldvika
+Folladalen
+Follafoss
+Folldal
+Follebu
+Follgøta
+Follseland
+Fon
+Fone
+Fonn
+For
+Forhaugan
+Forsand
+Forsmoen
+Forstranda
+Forus
+Fosen
+Fosnavåg
+Fossbergom
+Fossby
+Fossegrenda
+Fossekroa
+Fossem
+Fossenget
+Fosser
+Fossetsætra
+Fossgrenda
+Fossli
+Fossmoan
+Fossmoen
+Fossom
+Fosstøl
+Fossumberget
+Fotlandsstrandi
+Fotlandsvåg
+Frampåtra
+Franzefoss Bruk
+Fredagsvika
+Fredrikkested
+Fredriksberg
+Fredrikstad
+Fredtunfeltet
+Frekhaug
+Frengen
+Frenvik
+Fresjestien
+Frette
+Fridheim
+Fridstad
+Fritsø
+Frivik
+Frolands verk
+Frommereid
+Frosta
+Fryjordet
+Frøn
+Frøsendal
+Frøset
+Frøskeland
+Frøynes
+Frøyså
+Fuglevik nordre
+Fuglli
+Funningsland
+Furland
+Furset
+Furuflaten
+Furuhaug
+Furuhovde
+Furuvika
+Fykse
+Fylingsneset
+Fyllpå
+Fyran
+Fyresdal
+Færavåg
+Færvik
+Færøyna
+Førri
+Gåddevaggi
+Gahre
+Gakori
+Gålå
+Galåa
+Galåsen
+Galdesanden
+Galleberg
+Galta
+Galten
+Galterud
+Gambogen
+Gamlegrendåsen
+Gammeldøssætra
+Gammelgard
+Gammelgård
+Gammelheim
+Gandvik
+Gansås
+Gåra
+Gard
+Gårdbo
+Gardermoen
+Gardsenden
+Gardsknappen
+Gardsøya
+Gardvik
+Garen
+Gárgán
+Garnbakken
+Garnesgrenda
+Gartland
+Gåsbøl
+Gåseid
+Gåserud
+Gásluokta
+Gåsvika
+Gata
+Gaukelii
+Gauksum
+Gaupar
+Gaupen
+Gaupne
+Gausel
+Gaustadgrenda
+Gautefall
+Gautestad
+Geilo
+Geilo hyttegrend
+Geiranger
+Geitagårdan
+Geitaskjer
+Geitastrand
+Geitmyra
+Geitryggengruver
+Geitsjø
+Geitstad
+Geitung
+Gibostad
+Gieddi
+Gil
+Gilhus
+Gilja
+Gillesvåg
+Gimlekollen
+Gimra
+Gimsan
+Ginnasluokta
+Giranjárga
+Giskeli
+Giskemo
+Giøy
+Gjerdingen
+Gjerdset
+Gjerdsvika
+Gjerdvik
+Gjermshus
+Gjersrudhagen
+Gjersvika
+Gjersvollen
+Gjervik
+Gjervika
+Gjervollsætra
+Gjettum
+Gjeving
+Gjone
+Gjuvsgrendi
+Gjøljalia
+Gjølme
+Gjøveland
+Gjøvik
+Gladstad
+Glåmlia
+Glåmos
+Glassmesterløkka
+Glea
+Glemmen
+Gleng
+Glesvær
+Glette
+Glomfjord
+Glomsrud
+Gloppeåsen Øst
+Glufseodden
+Glypnes
+Glæstad
+Glømmesætra
+Gløstad
+Gløtvola
+Goarahat
+Godakerlia
+Godderstad
+Godheim
+Godvik
+Godøy
+Gol
+Golnes
+Gomsrud
+Gonsholt
+Goppollsætrene
+Gorgŋehat
+Gorsetgrenda
+Gossal
+Gottenborg
+Gråbpoe
+Grabu
+Granalia
+Granåsen
+Granberg
+Granberget
+Granmoen
+Grannes
+Granstad
+Granvin
+Grårud
+Grasdalen
+Grasmo
+Gråten
+Gråtenmoen
+Gravem
+Graven
+Gravningsund
+Greinveien
+Grelland
+Gren
+Grensen
+Grepslia
+Gressholmen
+Greverud
+Grimsby
+Grinda
+Grindrud
+Grindvika
+Grindvoll
+Grisetro
+Grodås
+Grong
+Grotsund
+Grottveit
+Groven
+Grua
+Grubben
+Gruemyra
+Grunge
+Grunnfjorden
+Grunnreisa
+Grunnvåg
+Gryllefjord
+Gryllingsætra
+Græe
+Grøa
+Grønhovd
+Grønhovdsroa
+Grønnebakke
+Grønnes
+Grønntjernstua
+Grønsfjord
+Grønstad
+Grønvikmoen
+Grønvollfoss
+Grønøya
+Grøsland
+Grøtte
+Grøtteland
+Grøttum
+Gubba
+Gudvangen
+Guhkesluovttadálut
+Guhkesnjárga
+Gukkesråtto
+Gullbrå
+Gullhaugsætra
+Gullhav
+Gullholmen
+Gulli
+Gullistua
+Gullsmedvika
+Gulsrud
+Gulstad
+Gumpedalen
+Gunnarnes
+Gunnes
+Gurskebotn
+Gurød
+Gusland Mellom
+Guslandsåsen
+Gussiås
+Gustugrenda
+Guttersrud
+Gutu
+Gutulvik
+Gvarv
+Gyllan
+Gylterud
+Gystad
+Gørrhaugen
+Gøytil
+Håar
+Haddal
+Hafslo
+Hafslund
+Hagafoss
+Hagavik
+Hagland
+Hakadal
+Hakavik
+Håkkadalen
+Håkonhals
+Håkøy
+Håkøybotn
+Halden
+Haldorstuen
+Hall
+Hålland
+Hallarøy
+Halldalstølen
+Halle
+Hallem
+Hallingby
+Hallsetaunet
+Hallvorsrud
+Halseid
+Hålsund
+Halsøyr
+Halvorsrud
+Hamarhaug
+Hamarvik
+Hamburglandet
+Hamkoll
+Hammerfest
+Hammernes
+Hammerstad
+Hammervik
+Hamnås
+Hamnbukt
+Hamneidet
+Hamningberg
+Hamnvik
+Hamnvika
+Hamnøya
+Hamsund
+Haneborg
+Haneval
+Hankø
+Hansnes
+Hansosen
+Hansvoll
+Haram
+Hårberg
+Hardbakke
+Harehøgda
+Hareid
+Harestua
+Harfjell
+Harkestad
+Harkmark
+Hårkollen
+Harpefoss
+Harran
+Hårtveit
+Hårvika
+Harøysundet
+Hasselbakken
+Hassingen
+Hasvik
+Hatleli
+Hatlen nedre
+Hatlestranda
+Hatlland
+Hattan
+Hatteng
+Hattvik
+Håtveitgrendi
+Hauan
+Hauen-Teien
+Hauerseter
+Haugåker
+Haugaland
+Haugantoppen
+Hauge i Dalane
+Haugebakke
+Haugeland
+Haugenstua
+Haugermåsan
+Haugesund
+Haughom
+Hauglandshella
+Haugsbygd
+Haugsland
+Haugstad
+Haugsvik
+Haugvik
+Haukali
+Haukeland
+Haukemyr
+Hause
+Hauskje
+Hauso
+Haustland
+Hausvik
+Håvika
+Havnarås
+Håvoll
+Havrå
+Havstad
+Havsteinen
+Heastanjárga
+Heddeland
+Hedeguohppi
+Heggehullet
+Heggeriset
+Heggja
+Heggmoen
+Hegra
+Heidal
+Heimre Kjølastølen
+Hektoen
+Helgen
+Helgenes
+Hell
+Hellandsbygda
+Hellandsjøen
+Hellem
+Hellemobotn
+Hellesfjorden
+Hellesøyni
+Hellfjellbygda
+Hellfjord
+Helnes
+Hem Vestre
+Hemmestad
+Hemmestveit
+Hemnes
+Hemnesberget
+Hemsedal
+Henningsvær
+Hennseid
+Hennung
+Henriksbø
+Henriksøy
+Hensgardane
+Herad
+Heradsbygd
+Herdla
+Herland Nord
+Hermansverk
+Herre
+Herrem
+Herrvoll
+Hertås
+Hertåsmyr
+Hervasstølen
+Herøysund
+Hesjaholten
+Hesjeberg
+Heskestad
+Hesseng
+Hest
+Hesteberget
+Hesthammar Nedre
+Hestun
+Hestvika
+Hette
+Higrav
+Hilland
+Hille
+Hillesjøen
+Hillevåg
+Hindaråvåg
+His
+Hisdal
+Hita
+Hitra
+Hjellestad
+Hjellvikvåg
+Hjelmelandsvågen
+Hjelset
+Hjuksevelta
+Hjølmo
+Hjøntvet
+Hodne
+Hodno
+Hoem
+Hof-Åsa
+Hoflesja
+Hogstad
+Hogståsen
+Hokksund
+Hola
+Holandsjøen
+Holandsvika
+Holdsætran
+Holevik
+Holhjem
+Holmefjord
+Holmemstranda
+Holmene Nedre
+Holmesletta
+Holmestrand
+Holmestranda
+Holmfoss
+Holmsbu
+Holmsnes
+Holmstad
+Holone
+Holseter
+Holstadsætra
+Holterønningen
+Holvika
+Holøya
+Homansbyen
+Homborsund
+Homle
+Homlei
+Hommelsund
+Hommelvik
+Hommersåk
+Hompland
+Homsbø
+Homsteane
+Hongsand
+Honndalssætra
+Honningsvåg
+Honstad
+Hopla
+Hoppestad
+Hopsjøen
+Hordnes
+Horg
+Hornaberg
+Hornes
+Hornsjøsætra
+Horsnes
+Hortemo
+Horten
+Horten Bryggeri
+Horv
+Horve
+Hosle
+Hoslemo
+Hostvet
+Houm
+Hovden hyttegrend
+Hovdevåg
+Hovedøya
+Hovi
+Hubroåsen
+Huddingslia
+Hugudalen
+Hulebak
+Hulebakk
+Hundbergan
+Hundbu
+Hundeid
+Hundersætra
+Hundhammeren
+Hundorp
+Hundstrand
+Hundven
+Hunnsebettet
+Hurdal
+Husebybakken
+Huseklepp
+Husjorda
+Hustadstranda
+Husvågen
+Hvalen
+Hvam Nordre
+Hvasser
+Hvem
+Hvidsten Sag
+Hvittingfoss
+Hyggen
+Hylkje
+Hylla
+Hylleråsen
+Hyllestad
+Hyllset
+Hyltbakken
+Hynni
+Hyttfossen
+Hægebostad
+Hægglien
+Hæjmma
+Hæmmugieddi
+Hæreid
+Hærland
+Høgli
+Høgmo
+Høibo
+Høle
+Hølen
+Hølera
+Hølervassætri
+Høllen
+Hølsætra
+Hønefoss
+Hønnebø
+Hønstad
+Hørtdalen
+Høvik
+Høvika
+Høyanger
+Høyerløkka
+Høyforsslett
+Høylandsbygda
+Høysæter
+Høyvågen
+Ibestad
+Iccemihásnjárga
+Igeland
+Igelkjøn
+Ikornnes
+Ilag
+Ilseng
+Ilstad
+Ime
+Imsen
+Indra Haga
+Indre Alsåker
+Indre Ålvik
+Indre Arna
+Indre Årnes
+Indre Flø
+Indre Hjartholm
+Indre Kårvik
+Indre Klubbenes
+Indre Kvarøya
+Indre Laukeng
+Indre Matre
+Indre Oppedal
+Indre Røksund
+Indre Standal
+Indre Tomasjord
+Indre Torhop
+Indrekvam
+Indresæter
+Ingdalen
+Ingvaldstad
+Innbjørg
+Innbygda
+Inndyr
+Inner-Steine
+Innerråksjøen
+Innersundsvoll
+Innluro
+Innvik
+Innvoll
+Innvorda
+Instebø
+Isane
+Ise
+Isfjorden
+Ivgobahta
+Jåberg
+Jakobsbakken
+Jåstad
+Jerpset
+Jerpvoll
+Jessheim
+Jessnes
+Jevnaker
+Jomfrubråten
+Jordtveit
+Josal
+Judaberg
+Julshamn
+Justvik
+Jøkelfjordeidet
+Jølstad
+Jønland
+Jønnevall
+Jørenstad
+Jørpeland
+Jørstadmoen
+Jøstølen
+Kabelvåg
+Kabretta
+Kåda
+Kåfjorddalen
+Kåfjordelva
+Kaggen
+Kalandseidet
+Kaldnes
+Kaldsletta
+Kaldtveit
+Kalfoss
+Kalsnes
+Kalstad
+Kalvåg
+Kalvaland
+Kalvatræd
+Kalveland
+Kalvetangen
+Kalvskinnet
+Kamben
+Kamfjord
+Kampen
+Kampesæter
+Kamøyvær
+Kannikeberg
+Kapelfjellet
+Kapp
+Kappstad
+Kárášjohka
+Kåravika
+Kårby
+Kårhamn
+Karihaugen
+Karlebotn
+Karlsebakken
+Kårvatn
+Kasfjord
+Kasperboden
+Kastneshamn
+Katlo
+Kattanakk
+Kaupang Søndre
+Kaupangåsen
+Kautokeino
+Kåvik
+Kaxrud
+Keianes
+Keisermarka
+Kiberg
+Kikkut
+Kikutstua
+Kil
+Kila
+Kilbotn
+Kili
+Killingmo
+Killingtveit
+Kinn
+Kinsarvik
+Kirkeåsen
+Kirkely
+Kirkemosætra
+Kirkemyren
+Kirkenes
+Kirkenær
+Kise
+Kismul
+Kiste
+Kjårrnes
+Kjelland
+Kjellasviki
+Kjellen
+Kjellestad
+Kjellmyra
+Kjellsund
+Kjelvene
+Kjerkevågen
+Kjerkreit
+Kjerresnes
+Kjerret
+Kjerrgarden
+Kjerringnes
+Kjerringvadåsen
+Kjerringvåg
+Kjerringvik
+Kjerringvollen
+Kjerrvika
+Kjervoll
+Kjomme
+Kjose
+Kjukkelmarka
+Kjærumbakken
+Kjøkkelvik
+Kjøligruva
+Kjøllefjord
+Kjønnås
+Kjøpstad
+Kjøpsvik
+Kjørestad
+Kjørholt
+Kjørkleiv
+Kjøsnes
+Kjøvangen
+Kjøya
+Klakegg
+Klakkjorda
+Klåstad Nedre
+Klauset
+Klauvnes
+Klavestadhaugen
+Kleivagrend
+Kleive
+Kleiveland
+Kleiverlendet
+Kleivfoss
+Klepland
+Kleppåker
+Kleppestø
+Kleppevik
+Kleppo
+Kleppstad
+Kletta
+Klette
+Klettsætra
+Klettvollan
+Klevia
+Klinga
+Klo
+Klokkarvik
+Klokkergården
+Klubben
+Klubbeneshamn
+Klubbukt
+Klubbvika
+Kluksdal
+Klungset
+Klypet
+Kløtterød
+Kløvstad
+Knai
+Knapper
+Knappskog
+Knardal
+Knarrberg
+Knarrevik
+Knarrlaget
+Knarvik
+Kne
+Knipestøl
+Knuten
+Knutshaug
+Kobbepollen
+Koflekken
+Koian
+Koksvik
+Kokvollen
+Kolavåg
+Kolbeinsvik
+Kolberg
+Kolbjørnsrud
+Kolbotn
+Kolbulia
+Kolbulien
+Kollstad
+Kolvereid
+Komagvær
+Komnes
+Kongsberg
+Kongsgård
+Kongsgårdmoen
+Kongshamn
+Kongsmarka
+Kongsmoen
+Kongsteigen
+Kongsvik øvre
+Kongsvinger
+Kontorsletta
+Kopervik
+Koppang
+Kopperå
+Kopseng
+Korgen
+Kornsjø
+Kornstauren
+Korsnes
+Korssund
+Korsvika
+Krabbeklova
+Kragerø
+Kråkererønningen
+Kråkhamar
+Kråkhella
+Kråknes
+Krampenes
+Kranstad
+Kranstad Nedre
+Kratorp
+Kravik
+Kriken
+Kringelås
+Kringlen
+Kristentrøa
+Kristiansund
+Kro
+Krokeide
+Krokenskogen
+Krokhaug
+Krokstadelva
+Krokvåg
+Krone
+Krosshamn
+Krøderen
+Kuli
+Kullebunn
+Kunes
+Kupa
+Kure
+Kurland
+Kurråsen
+Kvåfjord
+Kvål
+Kvaleim
+Kvalemoen
+Kvame
+Kvammadalen
+Kvamsvåg
+Kvanntoelva
+Kvarme
+Kvarstein
+Kvassneset
+Kvåvik
+Kveberg
+Kvelde
+Kvelia
+Kvelland
+Kvellestad
+Kvenvær
+Kvernnes
+Kverntangen
+Kverva
+Kvevli
+Kvignadal
+Kvikneplassen
+Kviltorp
+Kvina
+Kvinesdal
+Kvisler
+Kviteberg
+Kviteseid
+Kvithamar
+Kvitsand
+Kvitsandøyra
+Kvitstein
+Kvænangsbotn
+Kværnerbyen
+Kykkelsrud
+Kylstad
+Kyrkjemoen
+Kyrksæterøra
+Labbi
+Labråten
+Lade
+Lademoen
+Lågerødåsen
+Lågerødtoppen
+Laget
+Lággu
+Låke
+Låkedalen
+Lakketariusvollen
+Laksebubukta
+Lakseid
+Lakselvbukt
+Låkthaugen
+Lalm
+Landås
+Landrø
+Landøya
+Låne Nord
+Lanesbogen
+Langåker
+Langangen
+Langås
+Langdokk
+Langedrag
+Langerød
+Langestrand
+Langetangen
+Langfjorden
+Langfjordhamn
+Langhamn
+Langhaugane
+Langholt
+Langhus
+Langli
+Langnesbygda
+Langrygg
+Langstrand
+Langsætran
+Langvasseid
+Langøy
+Larkollen
+Larseng
+Larsnes
+Larsos
+Larvik
+Låtefoss
+Latræva
+Lauen øvre
+Laukhella
+Lauriniemi
+Lausland
+Lauveskogen
+Lauvmoa
+Lauvsnes
+Lauvstrand
+Lauvøy
+Låvan
+Lavangnes
+Lavollen
+Lebesby
+Lefsaker
+Lehovd
+Leikong
+Leinaåsen
+Leirangerfjord
+Leirbekkmoen
+Leiren
+Leiret
+Leirfall
+Leirfjord
+Leirfjordgård
+Leirsand
+Leirsund
+Leirvågen
+Leisterud
+Leistrudgardatn
+Leite
+Lekanger
+Leksvik
+Lekva
+Lena
+Lensvik
+Lenvik
+Ler
+Lerangen
+Lerdal
+Lerdalen
+Lerheim
+Lerungsand
+Lerøyna
+Lestestad
+Lesund
+Levanger
+Liabakken
+Liabru
+Liagrend
+Lialøkka
+Liaplassatn
+Liaset
+Lidaláddi
+Lie Vest
+Liholt
+Liknes
+Lille Eftang
+Lille Lerresfjord
+Lille O
+Lille Østby
+Lille-Molvik
+Lilleaker
+Lillehammer
+Lillestrøm
+Lillo
+Limstranden
+Linda
+Lindberget
+Lindefjell
+Lindern
+Linderud
+Lindhøy
+Lindsholm Nordre
+Lindøy
+Linnum
+Linstad
+Linvik
+Lisleherad
+Lislevatn
+Lisætra
+Litle Alteren
+Litle Altermark
+Litle Løkken
+Litle Moen
+Litlebergen
+Litleskardet
+Liverud
+Livoll
+Ljosheim
+Ljotegard
+Ljøner
+Ljønes
+Ljørdalen
+Loddefjord
+Loholt
+Lomnes
+Lonar
+Lonevåg
+Longum
+Longva
+Lono
+Loppa
+Losnegard
+Losnelia
+Lovund
+Luggens
+Luktvatnet
+Lundamo
+Lundebygda
+Lundersæter
+Lundevall
+Lundevik
+Lunheim
+Lunnerød
+Luster
+Lybekk
+Lyding
+Lyefjell
+Lyhus
+Lyngbø
+Lyngedal
+Lyngseidet
+Lyngsnes
+Lyngstad
+Lyngstranda
+Lyngværet
+Lynnevik
+Lysaker
+Lysbu
+Lyshaug
+Lysheim
+Lysnes
+Lystadskogen
+Lysthaugen
+Lysøysundet
+Lægereid
+Lærdalsøyri
+Løberg
+Lødingen
+Løkås
+Løkeberg
+Løkkeåsen
+Løkkemyr
+Løkken Verk
+Løksfjord
+Lømsland
+Løn
+Løning
+Lønlifallet
+Løno
+Løpsmarka
+Lørenfallet
+Løten
+Løtveit
+Løvall
+Løve Øvre
+Løvjomås
+Mafjord
+Magnetun
+Magnhildøyne
+Majorstua
+Målia
+Målsnes
+Malvik
+Måløy
+Mandal
+Måneset
+Mangersneset
+Manglerud
+Maningsætrin
+Mannåsgrend
+Manndalen
+Måno
+Månset
+Manstad
+Måremgrende
+Mariero
+Marikova
+Markebu
+Markegardlian
+Markenrud
+Markop
+Marnardal
+Marrskardet
+Marvik
+Marvika
+Marvoll
+Masfjorden
+Måsøy
+Måsøyvalen
+Maura
+Maurstad
+Mausund
+Medjå
+Medstraum
+Mehamn
+Meiland
+Meisingset
+Mek
+Meklenborg
+Melåen
+Melbu
+Melbybråten
+Melbybyen
+Melemsvika
+Mellomåsen
+Mellomhagen
+Mellomjorda
+Melskardet
+Melsomvik
+Melsosen
+Melsvik
+Melvær
+Meløysjøen
+Meløyskagen
+Menstad
+Meråker
+Merkeneset
+Meskelv
+Mevik
+Middagsbukta
+Midsund
+Midtbrød
+Midtbøen
+Midtgården
+Midtholmen
+Midtre Goppollen
+Midtstrand
+Mikkelvika
+Miland
+Milandgrende
+Milåsen
+Mindresunde
+Minnesund
+Misje
+Mistelteinen
+Misten
+Misvær
+Mjeldo
+Mjøa-grenda
+Mjømna
+Mjøndalen
+Mo i Rana
+Mobekk
+Modal
+Moe
+Mogane
+Mogreina
+Moholt
+Moksheim
+Molda
+Moldtua
+Molla
+Mollan
+Molvær
+Momarka
+Momrak
+Mona
+Moneset
+Monsetgrenda
+Monstadstranda
+Mora
+Morellåsen
+Moreppen
+Morki
+Mortsund
+Morvik
+Mosan
+Mosasida
+Moseng
+Mosjøen
+Moski
+Mosogn
+Moss
+Mostad
+Mosterhamn
+Mosterøya
+Mostranda
+Mostraum
+Mostugrenda
+Mulstranda
+Mundal
+Munkelv
+Munkerudsaga
+Muorral
+Muotki
+Muruvik
+Musgjerd
+Mustadroa
+Mydland
+Mykland
+Myrin
+Myrkdalen
+Myrmæl
+Myro
+Myrol
+Myrskardet
+Mysen
+Mæbø
+Mælem
+Mærvoll
+Møgedal
+Møkleby
+Møl
+Mølla
+Møllenberg
+Mølnbukt
+Mørk
+Mørkasselodden
+Mørsry
+Nabeita
+Nakkerud
+Nakkholmen
+Nålelv
+Nalum Nordre
+Namsos
+Nanset
+Narvik
+Natland
+Nattland
+Nattvik
+Natvik
+Naurstad
+Nausthaugan
+Naustvik
+Naustvollen
+Nautnes
+Nautsund
+Naversbor
+Nåvik
+Nebba
+Neby
+Nedra Grindeim
+Nedra Tverborgvika
+Nedre Buhagan
+Nedre Charlottenlund
+Nedre Eiker
+Nedre Fossum
+Nedre Helland
+Nedre Holhjem
+Nedre Jervan
+Nedre Lauen
+Nedre Malmø
+Nedre Standalen
+Nedre Tennel
+Nedre-Karto
+Negard
+Nelaug
+Nepedalen
+Nepstad
+Nerdrum
+Nervei
+Nervika
+Nesbyen
+Nesjestranda
+Neskil
+Neskollen
+Nesland
+Neslandsvatn
+Nesna
+Nesoddtangen
+Nessane
+Nesti
+Nesttun
+Nesvåg
+Nesvalen
+Nesvollberget
+Nesvollen
+Nevedal
+Neverli
+Nikkeby
+Nipe
+Nistad
+Njervesanden
+Njiđgu
+Njoaski
+Njøs
+Nodeland
+Noem
+Nogva
+Nomme
+Nord Måkerøy
+Nord-Bergvatn
+Nord-Hydalen
+Nordagutu
+Nordal
+Nordarnøya
+Nordås
+Norddyrøy
+Norderdal
+Nordervollen
+Nordfjordbotn
+Nordfjordeid
+Nordfjordnes
+Nordfold
+Nordgarda
+Nordgardan
+Nordgulen
+Nordhagen
+Nordhammaren
+Nordkisa
+Nordkjosbotn
+Nordlia
+Nordmannbo
+Nordmannvik
+Nordnes
+Nordnesøy
+Nordnesøya
+Nordre Agåssæter
+Nordre Bjørnåssætran
+Nordre Dal
+Nordre Fjellsætra
+Nordre Hamlagrø
+Nordre Hjartøy
+Nordre Koppangskjølen
+Nordremark
+Nordrom
+Nordstokke
+Nordstranda
+Nordtømme
+Nordvågen
+Nordøyvågen
+Nore
+Norem
+Noresund
+Norheimsund
+Norum
+Nosi
+Notodden
+Novelandet
+Nusfjord
+Nuvsvåg
+Nybergsund
+Nybu
+Nybygda
+Nygardene
+Nygrenda
+Nyke
+Nykirke
+Nykmarka
+Nyksund
+Nylo
+Nypan
+Nyrud
+Nyset
+Nystølen
+Nysætergrenda
+Nysætrin
+Nærbø
+Næverrøsten
+Nøkleberg
+Nøkleby
+Nøklejordet
+Nørdre Grunke
+Nørdre Smørlie
+Nørdrevåg
+Nørekalvatn
+Nøsterud
+Odals Verk
+Odda
+Oddan
+Odderås
+Offersøy
+Ofstad
+Oggevatn
+Ogna
+Oksdøl
+Oksfjordhamn
+Oksnes
+Oksneset
+Oksval
+Oksvoll
+Olavika
+Olavikhaugen
+Olderbakken
+Olderdalen
+Olderneset
+Olderskogen
+Olestad
+Olfinnvik
+Olnes
+Olsbakk
+Olsli
+Olsvika
+Oltedal
+Olterud
+Oltesvik
+Olvika
+Oma
+Omberg
+Omdalshamn
+Ongeltveit
+Onglavika
+Onstad
+Onøya
+Opedal
+Opeland
+Oppdalsøyra
+Oppeid
+Oppen
+Opphaug
+Opphus
+Oppløya
+Opstad
+Oreberg
+Orhaugen
+Orkanger
+Ormavik
+Ormer
+Ormheim
+Ormsætra
+Ormtjørnsætra
+Orra
+Orre
+Orrestad
+Orstad
+Orta
+Orvik
+Orvika
+Osbakk
+Oset
+Oshaugen
+Oshei
+Oslo
+Oslo sentrum
+Ospeglova
+Ospeteig
+Osvollane
+Otta
+Ottersbo
+Otterstad
+Ottersti
+Otterøy
+Ovenstadlia
+Ovlin
+Palestina
+Pålrønningen
+Pålsjorda
+Pandurnes
+Partan
+Pelleberg
+Persaunet
+Perteng
+Pilset
+Pippira sijda
+Pjonkerød
+Plantarhaugen
+Platået
+Polleidet
+Pollestad
+Porsgrunn
+Porsmyr
+Portebakken
+Poyla
+Pramhussæter
+Prestbakkan
+Presteid
+Presterødåsen
+Presterødkilen
+Prestestranda
+Prestfoss
+Pusrud
+Pyttene
+Rabban
+Raen
+Råen
+Rafoss
+Rafsbotn
+Raften
+Råggeluokta
+Råholt
+Raipasin-tausta
+Råk
+Råke
+Rakeljorda
+Rakeskjer
+Rakke
+Rakkestad
+Rakstang
+Rakvåg
+Råkvåg
+Rambergåsen
+Ramn
+Ramn Østre
+Ramnåa
+Ramnanger
+Ramsesletta
+Ramsevik
+Ramsund
+Rånåsfoss
+Randsfjord
+Randsverk
+Ranemsletta
+Rånerudåsen
+Rånes
+Rankleiv
+Ranum
+Raphamn
+Råsjøen
+Rassdal
+Rastaby
+Ratet
+Raudeberg
+Raudmyr
+Raudvika
+Raufoss
+Rausjø
+Ravlo
+Re
+Reahpen
+Rebbenes
+Rebbenesbotn
+Reed
+Refsholtmyra
+Refsland
+Refsnesbakken
+Reiakvam
+Reiervik
+Reilstad
+Reindalsvik
+Reines
+Reinforsheia
+Reinsletta
+Reinsnes
+Reinvika
+Reipå
+Reisete
+Reisjå
+Rekdal
+Rekkevikåsen
+Reksnes
+Remasvik
+Rena
+Rennestraum
+Rensvik
+Repp
+Retlo
+Revebåsen
+Revesand
+Revfossnes
+Revset
+Riddarset
+Riggesheim
+Riidonjárga
+Riksem
+Rindal
+Ringelia
+Ringsaker
+Ringsås
+Ringshaug
+Ringstad
+Ringvoll
+Ringøy
+Rinnan
+Riser
+Riska
+Rislå
+Risløkka
+Risvoll
+Risør
+Risørbank
+Risøyhamn
+Rjoo
+Rjukan
+Roald
+Roaldkvam
+Roberg
+Robøle
+Rodal
+Rodeløkka
+Rogla
+Rogn
+Rognaldsvåg
+Rognan
+Rognstranda
+Rokksøy
+Roland
+Rollnes
+Rollsløkka
+Rolvshus
+Romarheim
+Romedal
+Rommen
+Romnes
+Romslo
+Romsrønningen
+Romstad
+Romundstad
+Rongevær
+Ronsås
+Roresand
+Roseland
+Rosfjord
+Rossabø
+Rossneset
+Rostadmoen
+Rosti
+Rostøy
+Rotnes
+Rotvik
+Roverud
+Rubbestad
+Rubbestadneset
+Rudargrende
+Rudsmoen
+Rudstad
+Ruelsrud
+Rugland Østre
+Rugldalen
+Ruka
+Runnskogen
+Ruoššajåkka
+Rusdal
+Russehamn
+Russelv
+Russeskaret
+Russevåg
+Rustadhøgda
+Ryberg
+Ryggebyen
+Ryggeraet
+Rygi
+Rykene
+Rykkin
+Rypefjord
+Rysst
+Røamyr
+Røberg
+Rødbøl
+Rødkleivhytta
+Rødno
+Rødvet Sykehjem
+Røkenes
+Røkland
+Røldal
+Røllång
+Rølles
+Rølsås
+Rønnerud
+Rønning
+Rønningan
+Rønvik nedre
+Røren
+Røros
+Rørøya
+Røsfjæra
+Røsvik
+Røv
+Røvika
+Røvær
+Røyken
+Røyneberg
+Røynestad
+Røyrås
+Røyrbakken
+Røysan
+Sagen
+Saggrenda
+Sagkleiva
+Sågnes
+Sagvåg
+Sagvoll
+Sakkastad
+Sakstad
+Salbu
+Salmeli
+Salsnes
+Salt
+Salte
+Saltkopp
+Saltrød
+Sama
+Samlanes
+Sámmáljohnjálbmi
+Sandåga
+Sandane
+Sandbakkin
+Sandbo
+Sandefjord
+Sandeid
+Sandeidsjøen
+Sandelva
+Sander
+Sanderstua
+Sanderød
+Sandesund
+Sandlia
+Sandnessjøen
+Sandrip
+Sandsli
+Sandstad
+Sandstrak
+Sandtorg
+Sandvågen
+Sandve
+Sandvikberget
+Sandviknes
+Sandvikvær
+Sandvin
+Sandvollen
+Sandøra
+Sangefjell
+Sangesland
+Sannes
+Sappen
+Sarnes
+Sarpsborg
+Såsegg
+Såstad
+Såttåhaugen
+Sauda
+Sauhamn
+Saunes
+Saurbekkflot
+Sauro
+Savalen
+Searvegieddi
+Seberget
+Segalstad
+Segalstad bru
+Segard
+Seglheim
+Seglvik
+Seimsdal
+Seitikenttä
+Sekse
+Sela
+Selåsvatn
+Selbekken
+Selfjord
+Selfors
+Selje
+Seljeset
+Seljeskog
+Seljestokken
+Seljord
+Selleg
+Selsbakk
+Selset
+Selstø
+Selvågsætre
+Selvik
+Senneset
+Sennesvik gamle
+Sennomstad
+Senum
+Sesrud
+Sesvoll
+Setane
+Setenes
+Setergrenda
+Seterhytten
+Seterlandet
+Setermoen
+Setså
+Setskog
+Sida
+Siebe
+Sifjord
+Sigerfjord
+Sigurdsrud
+Sildavuohppi
+Sildevik
+Sildpollen
+Sildvika
+Sildviksætran
+Siljan
+Siljuberget
+Silset
+Simensbråten
+Simsøya
+Singsaker
+Singsås
+Singsåsaunet
+Singusdal
+Sinsenengen
+Sira
+Sirevåg
+Sistranda
+Sitjegrend
+Sivilvangan
+Sjautveit
+Sjoa
+Sjurdnes
+Sjuvenga
+Sjøen
+Sjøhagen
+Sjøholt
+Sjølshagen
+Sjølyststranda
+Sjønhalsen
+Sjøvegan
+Skaflestad
+Skafså
+Skaftå
+Skage
+Skåkåsen
+Skåland
+Skålbrekka
+Skålbunes
+Skålestrondi
+Skålevik
+Skalle
+Skålsvik
+Skålvær
+Skamdal
+Skammestein
+Skånevik
+Skansemyren
+Skårå
+Skaralia
+Skarbøvik
+Skardmunken
+Skarestad
+Skarnes
+Skarpeid
+Skarpenor
+Skarprud
+Skarsvåg
+Skartlibygda
+Skårvangen
+Skarvfjord
+Skasenden
+Skattøyra
+Skaun
+Skavanger
+Skavika
+Skeime
+Ski
+Skien
+Skiftenes
+Skilelva
+Skillebekk
+Skipparvik
+Skitnadal
+Skjåholmen
+Skjåstad
+Skjeberg
+Skjeggerød
+Skjeggestadfeltet
+Skjelbostad
+Skjeldbreia
+Skjeldestad
+Skjelfjord
+Skjelfoss
+Skjelldal
+Skjelsviksjøen
+Skjelviki
+Skjern
+Skjervauran
+Skjerve
+Skjetten
+Skjevik
+Skjolde
+Skjong
+Skjærhalden
+Skjæveland
+Skjøllungsstad
+Skjønvik
+Skodan
+Skodje
+Skoger
+Skogfoss
+Skoggård
+Skogholt
+Skogrand
+Skogsfjord
+Skogshamn
+Skogsheim
+Skogskroken
+Skogsvågen
+Skogvika
+Skolebukt
+Skollenborg
+Skomakareidet
+Skomsvoll
+Skoppum
+Skorilla
+Skorovatn
+Skotnes
+Skotten
+Skotterud
+Skrååsen
+Skramstad
+Skranstad
+Skredå
+Skreeros
+Skreia
+Skreppen
+Skretting
+Skrollsvika
+Skrova
+Skrukkerud
+Skrøyvestølan
+Skudalen
+Skudeneshavn
+Skui
+Skukkelvik
+Skulerudgrinda
+Skulestadmo
+Skullerud
+Skulstad
+Skurtveit
+Skutebakken
+Skutebo
+Skuteviken
+Skutle
+Skyer
+Skynndalen
+Skøyen
+Skøyenåsen
+Skøyenhagen
+Slangen
+Slangsvoll
+Slåttsven
+Sleipnes
+Sletring
+Slettebø
+Sletterød
+Slevdal
+Sleveland
+Slevik
+Slinningen
+Slottsfjellet
+Smågårdene
+Smalvatn
+Småværet
+Smedjordet
+Smedpersætra
+Smertu
+Smerud
+Smiberget
+Smiholen
+Smiodden
+Smokstad
+Smørbergrønningen
+Smørbølsmoen
+Smørfjord
+Smørklepp
+Smørlii
+Smørstein
+Snåase
+Snarhol
+Snarset
+Snartemo
+Sneiselii
+Snekvik
+Snildal
+Snillfjord
+Snorteland
+Soaenga
+Sofiemyr
+Sogge
+Sogn Hagekoloni
+Sogndal
+Sokna
+Sokndal
+Soknedal
+Soksenvik vestre
+Sola
+Solberg Østre
+Solbergelva
+Solborg
+Sole
+Sole Lokale
+Soleglad
+Solfjellsjøen
+Solfonn
+Solgjem
+Sollihøgda
+Sollsvika
+Solløkka
+Solnesåsen
+Solsiden
+Solvoll Pleiehjem
+Somma
+Sommarvika
+Sommero
+Songstad
+Sordal
+Sorknesfeltet
+Sparbu
+Speilmyr
+Spekdalssætra
+Spellemannsløkka
+Spiinniidgieddi
+Spikkestad
+Spikkset
+Spilda
+Spilding
+Spildo
+Spillum
+Spitengrenda
+Spitnes
+Spjotsodd
+Spokkeligrend
+Spongdal
+Sponvika
+Spro
+Spydeberg
+Stabbestad
+Stadheim
+Stai
+Stakenes
+Stakkeland
+Stallvika
+Stamnesgrenda
+Stamsund
+Stanghelle
+Stangvik
+Starum
+Stavang
+Stavanger
+Stavn
+Stefjordbotnen
+Steindal
+Steinfjord
+Steinkjer
+Steinneset
+Steinset
+Steinsgard
+Steinshamn
+Steinsjø
+Steinsli
+Steinsnes
+Steinsøynes
+Steintland
+Steinvika
+Steira
+Stemsrud
+Stenbakk
+Stenbjørnrød
+Stend
+Stengelsrud
+Stensalleen
+Sterringje
+Stiauren
+Stigen
+Stiger
+Stjernåsen
+Stjørdal
+Stjørdalshalsen
+Stoan
+Stokkebekken
+Stokkeskog
+Stokkvågen
+Stokmarknes
+Stong
+Stonga
+Stongfjorden
+Stonglandseidet
+Stor-Kvanndalen
+Storå
+Storås
+Storbugten
+Stordalstrand
+Store Alteren
+Store Brevik
+Store Granheia
+Store Skånland
+Store Torskefjord
+Store Vandve
+Storebru
+Storebukt
+Storebø
+Storesunde
+Storeviki
+Storfjord
+Storforshei
+Storhallaren
+Storhaug
+Storlegda
+Storli
+Storneve
+Storo
+Storrvikroe
+Storrød
+Storstenviken
+Storsula
+Stortrøen
+Straen
+Strai
+Strandå
+Straumsbukta
+Strengen
+Strindheim
+Strindmoen
+Strusshamn
+Stryker
+Stryn
+Stræte
+Strøket
+Strømhella
+Strømsåsgrenda
+Strømsbu
+Strømsfoss
+Strømsgodset
+Strømsnes
+Stubb
+Stuebrekk
+Stuenes
+Stuguneset
+Stulen
+Stumberg
+Stupseid
+Stølan
+Stølsvika
+Størjen
+Støtt
+Støver
+Suldalsosen
+Suleskard
+Sulisjielmmá
+Sumstad
+Sundbygda
+Sundbygdi
+Sundbø
+Sundegrenda
+Sundgot
+Sundshopen
+Sundskjør
+Sundvollen
+Sunnarvik
+Sunndalsøra
+Šuoššjavri
+Survik
+Svaland
+Svalenget
+Svanåsen
+Svandal
+Svanem
+Svardal
+Svartaksla
+Svartbæk
+Svartebekken
+Svarterud
+Svartlægda
+Svartskardet
+Svartvika
+Sveggen
+Svehaugen
+Sveio
+Svelgen
+Svelgfoss
+Svellingen
+Svellshamn
+Svelvik
+Svene
+Svenkerud
+Svennevik
+Svenningdal Øvre
+Svenskbyen
+Sverresborg
+Sverstad
+Sververen
+Svidalen
+Sviland
+Svinevik
+Svingholen
+Svinvik
+Svortland
+Svullrya
+Sværen
+Sydalen
+Syfteland
+Sykkylven
+Sylling
+Sylta
+Synes
+Synstnes
+Syre
+Syrtveit
+Systad
+Systrond
+Syvden
+Syvdsbotn
+Syvik
+Sæbøvik
+Sæsol
+Sæstad
+Sæterbygdi
+Sæterstølen
+Sætreskogen
+Sætveit
+Sæveland
+Sævrås
+Søberg
+Søgardan
+Søgne
+Sølsnes
+Sømnes
+Søndre Agåssæter
+Søndre Bjørnestad
+Søndre Eftang
+Søndre Fuglevik
+Søndre Holme
+Søndre Hovin
+Søndre Island
+Søndre Koppangskjølen
+Søndre Odden
+Søndre Oppegård
+Søndre Sverdstad
+Søndre Wåle
+Sønsterud
+Sør Bjørøy
+Sør Geita
+Sør Vignes
+Sør-Elnes
+Sør-Huglo
+Sør-Hydalen
+Sørby Mellom
+Sørbyøya
+Sørdal
+Søre Brekkom
+Søreid
+Søreidgrenda
+Søreng
+Sørerdal
+Sørfugløy
+Sørgjer
+Sørgjerdet
+Sørgrenda
+Sørgulen
+Sørhorsfjord
+Sørlenangen
+Sørlien
+Sørmela
+Sørmo
+Sørskogbygda
+Sørtveit
+Sørumsand
+Søvassli
+Søvika
+Tafjord
+Taftøya
+Tagtvet
+Taklo
+Tallåssætra
+Talvik
+Tamnes
+Tamre
+Tananger
+Tandbergløkka
+Tanem
+Tånevik
+Tangedal
+Tangene
+Tangenhavna
+Tangerud
+Tanggård
+Tangstad
+Tånnårvika
+Tannberg
+Taraldsvik
+Tasta Øvre
+Tau
+Tauning
+Teigebyen
+Teigland
+Teisen
+Teksnes
+Telle
+Tempe
+Tempelseter
+Tengelfjorden
+Tennebø
+Tennevika
+Tennevollen
+Tennskjer
+Tertnes
+Tessand
+Tevra
+Thorsåsenga
+Thorshaug
+Thorstein
+Tilleraune
+Time
+Timenes
+Tingberget
+Tinglem
+Tingvatn
+Tingvoll
+Tinne
+Tisland
+Titternes
+Tjaldal
+Tjaum
+Tjeldnes
+Tjeldstø
+Tjensvoll
+Tjensvoll Nedre
+Tjensvoll Øvre
+Tjernsligrenda
+Tjong
+Tjore
+Tjuvskjær
+Tjærhjellen
+Tjøme
+Tjønnåsbakken
+Tjønneland
+Tjønnemyr
+Tjørhom
+Tjørnberg
+Tjørvåg
+Tjøstolfvika Syd
+Tjøtta
+Tobru
+Tobøl
+Todal
+Todalen
+Toft
+Tofteland lier
+Toften
+Toftevågen
+Tofto
+Togstad
+Tokenes
+Tokerød
+Tokheim
+Tolga
+Toljelia
+Tollerud
+Tolsrud
+Tomaselv
+Tomasjorda
+Tomb
+Tomra
+Tomt
+Tomteråsen
+Tonnes
+Tonsen
+Tonstad
+Tonvall
+Toppelbukt
+Torgauten
+Torpo
+Torrud
+Torrudsetra
+Torsby
+Torsholt
+Torshus
+Torsken
+Torsli
+Torsnes
+Torsrudgrenda
+Torsvåg
+Torsvikvågen
+Torsøy
+Torvet
+Torvikbukt
+Tosebygda
+Toska
+Tovik
+Tråen
+Tråk
+Tranås
+Tranby
+Trandem
+Tråne
+Tranøya
+Trefjord
+Trehørningen
+Treungen
+Trofors
+Trogstad
+Trolla Bruk
+Trollahaugen
+Trollvika
+Trollykkja
+Tromsdalen
+Tromsø
+Tromvik
+Trondheim
+Trondsgard
+Tronsrød
+Tronteigen
+Trovatn
+Trulle
+Try
+Trydal
+Tryland
+Træland
+Trøim
+Trønnes
+Tu
+Tuen
+Tufthagen
+Tunestølane
+Tungesvik
+Tunsberg
+Turelv
+Turifit
+Turrvik
+Turøy
+Tuset
+Tuterud
+Tutodden
+Tuvnes
+Tvedestrand
+Tveitavoll
+Tveitgrendi
+Tveitsund
+Tvørsland
+Tyholmen
+Tyholt
+Tyinkrysset
+Tykkemark
+Tyldal
+Tyndrom
+Tynset
+Tyri
+Tyrigrava
+Tyrisholt
+Tyristrand
+Tysvær
+Tyttebærvik
+Tælavåg
+Tøa
+Tømmernes
+Tønsberg
+Tørberget
+Tørbustilen
+Tørnebysætra
+Tørring
+Tørvesgrenda
+Tørvikbygd
+Tøtlandsvik
+Tøyen
+Ualand
+Ubbeskjær
+Udsogn
+Uggdal
+Uggerud
+Uglenes
+Uglestad
+Ukleiv
+Ukshola
+Ula
+Ulbegiedde
+Ulefoss
+Ulla
+Ullandhaug
+Ullevål Hageby
+Ulshus
+Ulstadløkka
+Ulstein
+Ulsteinvik
+Ulvastad
+Ulvekula
+Uløybukta
+Undheim
+Undredal
+Unjárga
+Unndal
+Unneset
+Unsetbrenna
+Uppsal
+Uppstad
+Uran
+Urdalsgrend
+Urdaneset
+Ursvik
+Uskedalen
+Ust-Vognillsgrenda
+Ustad
+Ustjåren
+Utby
+Utfall
+Utgård
+Utgården
+Utgårdsbråten
+Uthaug
+Uthella
+Utkeila
+Utluro
+Utsira
+Uttian
+Uvåg
+Vad
+Vadsø
+Vadum
+Vågåmo
+Vågbø
+Vagnill
+Vågo
+Vågos
+Vågseidet
+Vågsvåg
+Vájamohkenjárga
+Vaksdal
+Vaktberg
+Valand
+Våland
+Valanhamn
+Vålaug
+Vålaugmoen
+Valberg
+Valberget
+Valderhaug
+Valderøy
+Valebjørg
+Vålebru
+Valebø
+Vålen
+Vålerenga
+Valestrand
+Valevåg
+Vallers
+Vallestad
+Valstad
+Valsøyfjord
+Valvatna
+Valvikja
+Vangli
+Vangshamn
+Vangssætra
+Vannareid
+Vannbu
+Vannholmen
+Vannøya
+Vanse
+Vanvik
+Vanvikan
+Var
+Varåa
+Vardaberg
+Vårdal
+Vardheia
+Vardø
+Varhaug
+Vårheim
+Vårhus
+Vårhusgrenda
+Vårkinn
+Varlo
+Varteig
+Vaset
+Vassbotn Vestre
+Vassbygda
+Vassjorda
+Vatlandsvåg
+Vatnan
+Vatnar
+Vatne østre
+Vatnfjord
+Vea
+Vedavågen
+Vedstøl
+Vegamot
+Vegen
+Vegge
+Veggjeland
+Veggli
+Vegset
+Vegsundet
+Veidene
+Veierud
+Veiholmen
+Veimannen
+Veines
+Veitastrond
+Veland
+Velbe
+Velsvik
+Velta
+Veltan
+Velvika
+Vemundvik
+Venabygd
+Venås
+Venås Nord
+Venna
+Vennesla
+Venneslamoen
+Vennesund
+Venset
+Verdal
+Vere
+Vergedal
+Verningen
+Verpen
+Verpet
+Verrabotn
+Versland
+Verven
+Vesleng
+Veslsætre
+Vestafor
+Vestbygd
+Vestertana
+Vestervågen
+Vestgarden
+Vestgården
+Vestgrenda
+Vestre Askerøy
+Vestre Ekeberg
+Vestre Gausdal
+Vestre Grefsen
+Vestre Jakobselv
+Vestre Sogn
+Vettås
+Vettavika
+Vettre
+Vevang
+Vevelstad
+Vian
+Viddal
+Vigeland
+Viggja
+Viglesdal
+Vigra
+Vigre
+Vigrestad
+Vikaleira
+Vikasjøen
+Vikdal
+Vikedal
+Vikeland
+Vikersund
+Vikeså
+Vikevåg
+Vikjorda
+Vikten
+Vikøyri
+Vilberg
+Villanger
+Villen
+Vindås
+Vindedalen
+Vindenes
+Vindfjelltunet
+Vindingstad
+Vines
+Vingejordet
+Vingelssætra
+Vingsand
+Vingvågen
+Vinknes
+Vinsnes
+Vinstra
+Vinterstad
+Virak
+Virik
+Vister
+Vitåsen
+Vitting
+Viulsrød
+Vivestad Skole
+Voan
+Voie
+Voksenlia
+Voktor
+Volda
+Volem
+Volfeltet
+Voll Nord
+Vollagjerdet
+Vollmogrenda
+Vollsgrenda
+Volsætra
+Vonngrova
+Vordnes
+Vorland
+Vormdal
+Vormedal
+Vormestrand
+Vormsund
+Vorpstranda
+Voss
+Vottestad
+Vrådal
+Vråliosen
+Vrålstad
+Vrangsund
+Vrengen
+Vullošnjárga
+Vullum
+Vuolle-Siebe
+Vuollesainjárga
+Vuonnabahta
+Vækerø
+Vækker
+Værøy
+Vøra
+Vøyen
+Vøyenenga
+Ydersbotn
+Yli
+Ypso
+Yset
+Ysneset
+Ystanes
+Ystebraut
+Ystheim
+Ystines
+Ytra Tysse
+Ytraland
+Ytre Åbotsvik
+Ytre Arna
+Ytre Åsen
+Ytre Berg
+Ytre Brattekleiv
+Ytre Byrte
+Ytre Fanbostad
+Ytre Hoddøy
+Ytre Igeldas
+Ytre Kvarøya
+Ytre Midsund
+Ytre Nordmannset
+Ytre Siem
+Ytre Straumen
+Ytre Torvund
+Ytre-Vårdal
+Ytrebyen
+Ytrebygda
+Ytrøygrend
+Ytter Levang
+Ytteren
+Ytterstad
+Yttersundsvoll
+Ytterøra
+Yttraheia
+Yxnøy
+Æli
+Æliløkken
+Æn
+Ænes
+Øgården
+Økernly
+Økset
+Øksfjord
+Øksneshamn
+Ølen
+Ølsholm
+Ølve
+Øn
+Ørbogen
+Ørebakke
+Ørehavna
+Ørekvam
+Ørje
+Ørnesmoen
+Ørsjødalen
+Ørsta
+Ørvella
+Østabø
+Østberg
+Østdal
+Østerå
+Østgård
+Østhusvik
+Østi
+Østli
+Østmarka
+Østre Bergan
+Østre Kølabonn
+Østre Lian
+Øver Seter
+Øverbygd
+Øvereng
+Øvergrende
+Øverlandet
+Øverli
+Øvra Skimmeland
+Øvraland
+Øvre Håland
+Øvre Kleivan
+Øvre Lavikdalen
+Øvre Neiden
+Øvre Ono
+Øvre Raknes
+Øvre Rossvoll
+Øvre Standalen
+Øvre Sørbygda
+Øvre Ultgård
+Øvre Øyna
+Øvre-Mo
+Øvrebyen
+Øvremølla
+Øvstabøstølen
+Øyekast
+Øyfjord
+Øygardsgrendi
+Øyjorden
+Øyre
+Øyslebø
+Øystese
+Øysætra

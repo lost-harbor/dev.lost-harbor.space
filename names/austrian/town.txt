@@ -1,0 +1,5000 @@
+Au	44
+Aigen	40
+Hart	39
+Berg	36
+Moos	35
+Reith	35
+Grub	34
+Stein	30
+Winkl	30
+Bach	29
+Dörfl	29
+Strass	28
+Dorf	26
+Hof	25
+Lehen	25
+Oberdorf	25
+Aich	24
+Baumgarten	24
+Neudorf	24
+Hub	22
+Edt	21
+Oberndorf	21
+Sonnberg	21
+Egg	20
+Hinterberg	20
+Steinbach	20
+Weinberg	20
+Pichl	19
+Greith	18
+Haid	18
+Mitterberg	18
+Wimm	18
+Graben	17
+Thal	17
+Weissenbach	17
+Gries	16
+Haslach	16
+Maierhof	16
+Mühlbach	16
+Buch	15
+Haag	15
+Haselbach	15
+Ramsau	15
+Furth	14
+Mitteregg	14
+Mitterndorf	14
+Wieden	14
+Bichl	13
+Brandstatt	13
+Eben	13
+Kirchberg	13
+Krottendorf	13
+Rettenbach	13
+Ried	13
+Schönberg	13
+Sonnleiten	13
+Unterberg	13
+Aichberg	12
+Altenberg	12
+Bergham	12
+Brunn	12
+Buchberg	12
+Eck	12
+Schwarzenbach	12
+Seebach	12
+Wald	12
+Brand	11
+Bruck	11
+Hundsdorf	11
+Kreuzberg	11
+Leiten	11
+Oed	11
+Rain	11
+Rohrbach	11
+Sankt Peter	11
+Schönau	11
+Anger	10
+Burgstall	10
+Dürnberg	10
+Edling	10
+Feistritz	10
+Göriach	10
+Gschwendt	10
+Kogl	10
+Leithen	10
+Neustift	10
+Pfaffing	10
+Roith	10
+Sankt Georgen	10
+Staudach	10
+Wies	10
+Wiesen	10
+Winkel	10
+Alm	9
+Ebersdorf	9
+Eichberg	9
+Goritschach	9
+Hochegg	9
+Hofing	9
+Kroisbach	9
+Matzelsdorf	9
+Mühlberg	9
+Neusiedl	9
+Parz	9
+Pfaffendorf	9
+Reitern	9
+Sankt Leonhard	9
+Steinberg	9
+Tiefenbach	9
+Aichet	8
+Altenhof	8
+Aschau	8
+Bergern	8
+Bergl	8
+Berndorf	8
+Breitenau	8
+Doppl	8
+Einöd	8
+Erlach	8
+Forst	8
+Gassen	8
+Gerersdorf	8
+Haslau	8
+Haus	8
+Hehenberg	8
+Hinteregg	8
+Hinterleiten	8
+Höf	8
+Klausen	8
+Kreuth	8
+Kulm	8
+Lanzendorf	8
+Lind	8
+Linden	8
+Mairhof	8
+Niederdorf	8
+Niederndorf	8
+Pesendorf	8
+Rauth	8
+Sand	8
+Sankt Stefan	8
+Schlag	8
+Sulzbach	8
+Tratten	8
+Unterrain	8
+Weinzierl	8
+Wiesing	8
+Winklern	8
+Wörth	8
+Achleiten	7
+Altendorf	7
+Auen	7
+Blumau	7
+Feichten	7
+Görtschach	7
+Guggenberg	7
+Holzing	7
+Königsberg	7
+Laas	7
+Langegg	7
+Maierhöfen	7
+Mayrhof	7
+Mitterdorf	7
+Mühldorf	7
+Neuhofen	7
+Oberberg	7
+Pirk	7
+Point	7
+Rosenberg	7
+Sankt Jakob	7
+Sankt Johann	7
+Sankt Margarethen	7
+Sankt Ulrich	7
+Schwaig	7
+Schwendt	7
+See	7
+Steindorf	7
+Steinwand	7
+Waasen	7
+Wegscheid	7
+Willersdorf	7
+Winden	7
+Angern	6
+Arndorf	6
+Aug	6
+Boden	6
+Burg	6
+Dellach	6
+Dobl	6
+Eggendorf	6
+Gaisberg	6
+Grubberg	6
+Grünau	6
+Heitzing	6
+Heuberg	6
+Himberg	6
+Hochstraß	6
+Holz	6
+Holzleiten	6
+Judendorf	6
+Kaltenbach	6
+Kaltenberg	6
+Kaltenbrunn	6
+Kienberg	6
+Kirchstetten	6
+Klamm	6
+Klaus	6
+Lengau	6
+Lichtenegg	6
+Limberg	6
+Mittelberg	6
+Neuhaus	6
+Neuhof	6
+Oberdörfl	6
+Oberhart	6
+Oedt	6
+Pöllau	6
+Pühret	6
+Purgstall	6
+Sankt Oswald	6
+Sankt Ruprecht	6
+Schachen	6
+Schmieding	6
+Steg	6
+Stockham	6
+Stötten	6
+Tal	6
+Unterbergen	6
+Unterwald	6
+Ursprung	6
+Uttendorf	6
+Wimpassing	6
+Windhag	6
+Windpassing	6
+Winkling	6
+Ach	5
+Albern	5
+Altenmarkt	5
+Baierdorf	5
+Buchet	5
+Dambach	5
+Dornach	5
+Dornbach	5
+Dürnbach	5
+Eggenberg	5
+Eisenberg	5
+Engelsdorf	5
+Felling	5
+Fohra	5
+Fraham	5
+Frauenberg	5
+Gasteig	5
+Glanz	5
+Griesbach	5
+Grünbach	5
+Gschwandt	5
+Gundersdorf	5
+Guttenbrunn	5
+Haiden	5
+Hainbach	5
+Haindorf	5
+Hartberg	5
+Hartl	5
+Hausleiten	5
+Heiligenkreuz	5
+Himmelreich	5
+Hofstetten	5
+Holzleithen	5
+Jetzing	5
+Kaindorf	5
+Kasten	5
+Kirchbach	5
+Kraßnitz	5
+Krottenthal	5
+Kühberg	5
+Lindach	5
+Maierhofen	5
+Mitterbach	5
+Moosbach	5
+Moosham	5
+Mühlau	5
+Mühlgraben	5
+Mühltal	5
+Nestelberg	5
+Neubau	5
+Neuberg	5
+Nußdorf	5
+Oberleiten	5
+Ort	5
+Pfaffenberg	5
+Pichlern	5
+Pölling	5
+Puch	5
+Ritzendorf	5
+Rosenau	5
+Rottenstein	5
+Sankt Andrä	5
+Sankt Lorenzen	5
+Sankt Wolfgang	5
+Schattenberg	5
+Schattseite	5
+Schlossberg	5
+Schmidham	5
+Schönfeld	5
+Schwarzenberg	5
+Stallhofen	5
+Stocket	5
+Sulz	5
+Thalham	5
+Thaling	5
+Thann	5
+Ufer	5
+Unterdorf	5
+Untergrub	5
+Unterholz	5
+Unternberg	5
+Vornholz	5
+Weg	5
+Weidach	5
+Wetzelsdorf	5
+Wimberg	5
+Wolkersdorf	5
+Zeil	5
+Althofen	4
+Anzenberg	4
+Arzberg	4
+Asten	4
+Atzing	4
+Auberg	4
+Auerbach	4
+Auhof	4
+Bachleiten	4
+Bärndorf	4
+Berging	4
+Bezirk	4
+Bodendorf	4
+Breitenberg	4
+Breitwies	4
+Brugg	4
+Buchegg	4
+Buchen	4
+Buchgraben	4
+Buchholz	4
+Buchleiten	4
+Burgfried	4
+Diendorf	4
+Dietersdorf	4
+Dobrowa	4
+Dörfla	4
+Dornau	4
+Edelhof	4
+Eden	4
+Edla	4
+Edlach	4
+Einsiedl	4
+Eitzenberg	4
+Emmersdorf	4
+Erdmannsdorf	4
+Etzelsdorf	4
+Feld	4
+Flatschach	4
+Forsthub	4
+Frankenberg	4
+Freiling	4
+Fürling	4
+Ganz	4
+Gersdorf	4
+Gmünd	4
+Götzendorf	4
+Grafendorf	4
+Grillparz	4
+Großau	4
+Gründberg	4
+Gstocket	4
+Gumping	4
+Gutenbrunn	4
+Habach	4
+Habersdorf	4
+Hadersdorf	4
+Hafendorf	4
+Hagenau	4
+Haging	4
+Haidach	4
+Harbach	4
+Harmannsdorf	4
+Hengstberg	4
+Hinterholz	4
+Hofern	4
+Höfling	4
+Hohenberg	4
+Hohenwarth	4
+Höll	4
+Hollenstein	4
+Holzhäuseln	4
+Innere Stadt	4
+Inzing	4
+Irlach	4
+Kager	4
+Katzelsdorf	4
+Katzenberg	4
+Kemating	4
+Kerschbaum	4
+Kirchdorf	4
+Kirchham	4
+Kleinberg	4
+Kleinreith	4
+Kohldorf	4
+Koth	4
+Kraß	4
+Kronau	4
+Kronberg	4
+Laab	4
+Lamberg	4
+Lamm	4
+Langau	4
+Latschach	4
+Lauterbach	4
+Lembach	4
+Liesing	4
+Limbach	4
+Lindau	4
+Loibersdorf	4
+Mannersdorf	4
+Mariahilf	4
+Matzing	4
+Mauer	4
+Maurach	4
+Mayerhofen	4
+Mayerhöfen	4
+Mühlfeld	4
+Mühlholz	4
+Neudörfl	4
+Neundling	4
+Neustadt	4
+Niederham	4
+Nußbaum	4
+Nußberg	4
+Oberaigen	4
+Oberau	4
+Oberbuch	4
+Obergrub	4
+Oberhaus	4
+Obermoos	4
+Ofenbach	4
+Penk	4
+Penzendorf	4
+Pernau	4
+Pischelsdorf	4
+Poppendorf	4
+Pyhra	4
+Rabenberg	4
+Rattenberg	4
+Rechberg	4
+Reintal	4
+Reit	4
+Ritzing	4
+Rödham	4
+Rödt	4
+Rohr	4
+Rohrberg	4
+Roitham	4
+Rosenthal	4
+Rossbach	4
+Sankt Anna	4
+Sankt Michael	4
+Sankt Nikolai	4
+Sankt Thomas	4
+Schattau	4
+Scheiben	4
+Schöndorf	4
+Schöneben	4
+Schönegg	4
+Schörgendorf	4
+Sittling	4
+Stadl	4
+Stadlberg	4
+Steinbruch	4
+Steinfeld	4
+Stuben	4
+Thalheim	4
+Thallern	4
+Tiefental	4
+Untereck	4
+Unterhaus	4
+Wagendorf	4
+Wagram	4
+Waidach	4
+Watzelsdorf	4
+Watzing	4
+Weng	4
+Wilhelmsdorf	4
+Windberg	4
+Winkeln	4
+Wolfsberg	4
+Zell	4
+Achleithen	3
+Aggsbach	3
+Ahorn	3
+Albersdorf	3
+Alpl	3
+Altach	3
+Altenburg	3
+Altenhofen	3
+Amberg	3
+Angerberg	3
+Annatsberg	3
+Arbing	3
+Arlsdorf	3
+Aschbach	3
+Atzelsdorf	3
+Atzesberg	3
+Audorf	3
+Aue	3
+Authal	3
+Bärnbach	3
+Baumgarting	3
+Bergen	3
+Bernau	3
+Blindendorf	3
+Brandhof	3
+Brandstetten	3
+Breitau	3
+Breitenbach	3
+Bruggen	3
+Brunngraben	3
+Bubendorf	3
+Buchau	3
+Burgau	3
+Dachberg	3
+Dielach	3
+Dietmanns	3
+Dietmannsdorf	3
+Dirnbach	3
+Dirnberg	3
+Döllach	3
+Dörfles	3
+Duel	3
+Dürnau	3
+Ebenthal	3
+Ecking	3
+Edelbach	3
+Edelsbach	3
+Egelsee	3
+Eggen	3
+Eibenstein	3
+Eitzing	3
+Ellmau	3
+Enzelsdorf	3
+Erb	3
+Erledt	3
+Erlet	3
+Eschenau	3
+Fischbach	3
+Fisching	3
+Forstau	3
+Frauendorf	3
+Frauenhofen	3
+Frauenstein	3
+Freinberg	3
+Freindorf	3
+Fresen	3
+Freudenthal	3
+Freundorf	3
+Frindorf	3
+Fuchsberg	3
+Fuchsgraben	3
+Furt	3
+Georgenberg	3
+Geretsdorf	3
+Getzing	3
+Gießhübl	3
+Glashütten	3
+Glatzberg	3
+Goldberg	3
+Göritz	3
+Gösting	3
+Grafenberg	3
+Grafenschlag	3
+Greuth	3
+Großdorf	3
+Grössing	3
+Gruben	3
+Grübl	3
+Grünbichl	3
+Grünburg	3
+Grund	3
+Gschaid	3
+Gschwend	3
+Gstetten	3
+Gunnersdorf	3
+Haberberg	3
+Hacking	3
+Hagen	3
+Hagenberg	3
+Hamberg	3
+Hardegg	3
+Harrau	3
+Hartmannsdorf	3
+Haselberg	3
+Hausbach	3
+Hausdorf	3
+Häusern	3
+Heiligenstadt	3
+Heinreichs	3
+Heinrichsberg	3
+Helmberg	3
+Henndorf	3
+Hetzendorf	3
+Hintenburg	3
+Hinterbichl	3
+Hinterburg	3
+Höch	3
+Hochenegg	3
+Hochfeld	3
+Hochleiten	3
+Hofamt	3
+Hofberg	3
+Höfen	3
+Hofkirchen	3
+Höflein	3
+Hohenstein	3
+Holzgassen	3
+Holzschlag	3
+Hötzing	3
+Huben	3
+Hueb	3
+Hütte	3
+Hütten	3
+Inn	3
+Innerberg	3
+Inzenhof	3
+Jebing	3
+Jochberg	3
+Kammer	3
+Kamp	3
+Karl	3
+Karlsdorf	3
+Kehrbach	3
+Kerschdorf	3
+Kicking	3
+Kirchenviertel	3
+Kitzing	3
+Kleinpertholz	3
+Kobl	3
+Kochberg	3
+Kohlstatt	3
+Koppl	3
+Kreuz	3
+Krobathen	3
+Krumbach	3
+Lacken	3
+Lahn	3
+Lambach	3
+Lang	3
+Langwiesen	3
+Lebing	3
+Lechen	3
+Lendorf	3
+Lichendorf	3
+Lichtenau	3
+Lichtenberg	3
+Litzldorf	3
+Loosdorf	3
+Lorenzenberg	3
+Lugendorf	3
+Mairing	3
+Marktl	3
+Matzendorf	3
+Mauterndorf	3
+Mayrhofen	3
+Mellach	3
+Micheldorf	3
+Mistelbach	3
+Mitterau	3
+Mitterfeld	3
+Möderndorf	3
+Mühlen	3
+Mühlthal	3
+Neubach	3
+Neuwald	3
+Niederberg	3
+Niederhof	3
+Niederhofen	3
+Nondorf	3
+Obereck	3
+Oberedt	3
+Oberegg	3
+Obergrünbach	3
+Oberhaag	3
+Oberham	3
+Oberhof	3
+Obernberg	3
+Oberneuberg	3
+Oberreith	3
+Oberried	3
+Oberrohrbach	3
+Oberthal	3
+Obertiefenbach	3
+Oberweg	3
+Oetz	3
+Ölling	3
+Ottenberg	3
+Ottenschlag	3
+Pabing	3
+Panholz	3
+Parzham	3
+Pellendorf	3
+Perndorf	3
+Pernegg	3
+Pernersdorf	3
+Petersberg	3
+Pfaffenschlag	3
+Pichling	3
+Pichlwang	3
+Pirka	3
+Platten	3
+Plon	3
+Pörtschach	3
+Pötting	3
+Puchet	3
+Rannach	3
+Rannersdorf	3
+Rappersdorf	3
+Raut	3
+Reichersberg	3
+Reichersdorf	3
+Reikersdorf	3
+Reinberg	3
+Reinthal	3
+Reisach	3
+Reisedt	3
+Reiset	3
+Reitbach	3
+Reiting	3
+Riedl	3
+Rinn	3
+Ritzersdorf	3
+Roggendorf	3
+Röhrenbach	3
+Rohrmoos	3
+Rojach	3
+Rosenbichl	3
+Rosenegg	3
+Rossberg	3
+Rottenbach	3
+Rudersdorf	3
+Ruprechtshofen	3
+Sankt Florian	3
+Sankt Kollmann	3
+Sankt Lorenz	3
+Sankt Magdalena	3
+Schacha	3
+Scharten	3
+Scheiblberg	3
+Schiltern	3
+Schlatt	3
+Schlatten	3
+Schober	3
+Schönbach	3
+Schönbichl	3
+Schützing	3
+Schwabegg	3
+Schwaighof	3
+Schwarzau	3
+Schwarzgrub	3
+Schweinegg	3
+Seeleiten	3
+Seibersdorf	3
+Siegersdorf	3
+Sierning	3
+Silberberg	3
+Sinzing	3
+Sommerau	3
+Sonndorf	3
+Sonnenberg	3
+Sonnleitn	3
+Spielberg	3
+Spital	3
+Staig	3
+Stegen	3
+Steingrub	3
+Stierberg	3
+Stockach	3
+Stranach	3
+Sulzberg	3
+Süssenbach	3
+Tannberg	3
+Tauchen	3
+Tautendorf	3
+Teufenbach	3
+Thalling	3
+Thaures	3
+Thomasberg	3
+Thörl	3
+Thurn	3
+Traundorf	3
+Ungerberg	3
+Ungerdorf	3
+Unterbuch	3
+Unterdörfl	3
+Unteredt	3
+Untereggen	3
+Untereichen	3
+Unterhaag	3
+Unterhart	3
+Unterlinden	3
+Untermoos	3
+Unterneuberg	3
+Unterort	3
+Unterried	3
+Vellach	3
+Vockenberg	3
+Volkersdorf	3
+Vorau	3
+Vorberg	3
+Vornbuch	3
+Vornwald	3
+Vorwald	3
+Wachtberg	3
+Walchen	3
+Waltendorf	3
+Walterschlag	3
+Warth	3
+Weeg	3
+Weidling	3
+Weigersdorf	3
+Weindorf	3
+Weireth	3
+Weissenberg	3
+Weissenstein	3
+Weitendorf	3
+Weitensfeld	3
+Wendling	3
+Wernersdorf	3
+Weyer	3
+Wiesenberg	3
+Wieshof	3
+Wildberg	3
+Wilding	3
+Willing	3
+Windhof	3
+Wipfing	3
+Wolfau	3
+Wolfgrub	3
+Wolfing	3
+Wölfnitz	3
+Wolfsbach	3
+Wölling	3
+Würting	3
+Zauchen	3
+Zaun	3
+Aberg	2
+Absdorf	2
+Aching	2
+Adelsberg	2
+Adenberg	2
+Admont	2
+Adriach	2
+Afling	2
+Aggstein	2
+Aham	2
+Ahrenberg	2
+Aichegg	2
+Aist	2
+Alberndorf	2
+Albertsham	2
+Alkersdorf	2
+Alla	2
+Allerheiligen	2
+Allersdorf	2
+Allerstorf	2
+Almdorf	2
+Alpen	2
+Althaus	2
+Altheim	2
+Altmanns	2
+Altmannsdorf	2
+Altstadt	2
+Am Berg	2
+Ameisberg	2
+Ameisbichl	2
+Amesbach	2
+Amesschlag	2
+Amlach	2
+Annaberg	2
+Annarotte	2
+Ansfelden	2
+Antiesen	2
+Anzberg	2
+Anzenbach	2
+Anzendorf	2
+Anzing	2
+Arling	2
+Arnberg	2
+Aschberg	2
+Asching	2
+Asing	2
+Aspach	2
+Asperding	2
+Attendorf	2
+Atzgersdorf	2
+Atzmannsdorf	2
+Aubach	2
+Auern	2
+Auersbach	2
+Außerreith	2
+Axberg	2
+Bachl	2
+Bäckenhof	2
+Baierberg	2
+Bärnthal	2
+Baumbach	2
+Baumkirchen	2
+Beistein	2
+Bergheim	2
+Berghof	2
+Bernhards	2
+Bernreith	2
+Besendorf	2
+Bichlach	2
+Bierbaum	2
+Bischofberg	2
+Bischofegg	2
+Blons	2
+Böckstein	2
+Bodensdorf	2
+Bogendorf	2
+Brandberg	2
+Brandhäuser	2
+Brandlegg	2
+Brandstätt	2
+Brandstätten	2
+Braunsberg	2
+Breitenaich	2
+Breitenbrunn	2
+Breitenbuch	2
+Breitenfeld	2
+Breitensee	2
+Breitenstein	2
+Bretstein vor der Kirche	2
+Bromberg	2
+Bruckhäusl	2
+Bruckmühl	2
+Bruderndorf	2
+Brunau	2
+Bründl	2
+Brunn am Gebirge	2
+Brunn bei Pitten	2
+Brunnern	2
+Brunning	2
+Buchach	2
+Buchbach	2
+Buchenberg	2
+Buchschachen	2
+Bühl	2
+Burgfeld	2
+Burgkirchen	2
+Buttendorf	2
+Dachsberg	2
+Damberg	2
+Deutschberg	2
+Dickenau	2
+Diepersdorf	2
+Diepolz	2
+Diesendorf	2
+Dietach	2
+Dietraching	2
+Dietrichschlag	2
+Dietrichstein	2
+Dillach	2
+Dippersdorf	2
+Distelberg	2
+Dobersberg	2
+Dobra	2
+Dolintschach	2
+Donaudorf	2
+Doppel	2
+Dorna	2
+Dornet	2
+Dornhof	2
+Draschen	2
+Drösiedl	2
+Dullach	2
+Dunzing	2
+Dürnfeld	2
+Dürntal	2
+Eberdorf	2
+Eberstein	2
+Ed	2
+Edern	2
+Edlitz	2
+Edthof	2
+Eggerding	2
+Eggersdorf	2
+Eglsee	2
+Ehrendorf	2
+Ehrgraben	2
+Eichet	2
+Eichhorn	2
+Eichleiten	2
+Eidenberg	2
+Eilmannsberg	2
+Einöden	2
+Eisbach	2
+Eisengraben	2
+Eitzendorf	2
+Eixendorf	2
+Elend	2
+Ellenbogen	2
+Elling	2
+Elmberg	2
+Elz	2
+Embach	2
+Emberg	2
+Endt	2
+Engelbrechts	2
+Engersdorf	2
+Enghagen	2
+Ennsberg	2
+Ennsdorf	2
+Entholz	2
+Enzendorf	2
+Enzing	2
+Erdberg	2
+Erlaa	2
+Erlau	2
+Eselberg	2
+Essling	2
+Etlas	2
+Etzen	2
+Etzersdorf	2
+Fading	2
+Fahl	2
+Fahrafeld	2
+Fahrenbach	2
+Falkendorf	2
+Falkenstein	2
+Falzberg	2
+Farcha	2
+Farrach	2
+Feichtenberg	2
+Feistenau	2
+Feistritzgraben	2
+Feitzing	2
+Feldbach	2
+Fellern	2
+Ferndorf	2
+Fernitz	2
+Filzmoos	2
+Flachau	2
+Fladnitzberg	2
+Flattachberg	2
+Fleiß	2
+Fluh	2
+Fluttendorf	2
+Föhrenhain	2
+Fölling	2
+Förolach	2
+Forstern	2
+Forsthof	2
+Fötschach	2
+Frankenreith	2
+Fraunhof	2
+Friedersdorf	2
+Friesach	2
+Fröhlichberg	2
+Frojach	2
+Froschau	2
+Fuchshub	2
+Fugging	2
+Fünfhaus	2
+Fünfling	2
+Fürth	2
+Gaaden	2
+Gaberling	2
+Gadenweith	2
+Gaisruck	2
+Gaißau	2
+Gallbrunn	2
+Gaming	2
+Gansberg	2
+Gappen	2
+Garmanns	2
+Gasselsdorf	2
+Gassing	2
+Gassl	2
+Gattern	2
+Geiersberg	2
+Geierschlag	2
+Gemersdorf	2
+Gerbersdorf	2
+Geretschlag	2
+Gerling	2
+Germanns	2
+Gerolding	2
+Getzersdorf	2
+Gferedt	2
+Gföll	2
+Giering	2
+Gigging	2
+Glanegg	2
+Glanhofen	2
+Glantschach	2
+Glein	2
+Globitsch	2
+Gmain	2
+Goldegg	2
+Gopperding	2
+Goritschitzen	2
+Gössering	2
+Göttelsberg	2
+Göttschach	2
+Gottsdorf	2
+Grabenberg	2
+Gradau	2
+Graden	2
+Gradenegg	2
+Gradnitz	2
+Grafenau	2
+Grafenbach	2
+Gramberg	2
+Grasbach	2
+Gray	2
+Greinsfurth	2
+Greit	2
+Gressenberg	2
+Griesenau	2
+Grillenberg	2
+Grintschach	2
+Grinzing	2
+Gröm	2
+Großa	2
+Grossegg	2
+Großen	2
+Großenegg	2
+Grosshart	2
+Großnondorf	2
+Grottendorf	2
+Grünberg	2
+Grunddorf	2
+Grünsbach	2
+Grüntal	2
+Grünwald	2
+Gschwandtnerberg	2
+Gstadt	2
+Gstötten	2
+Gulling	2
+Gumpenberg	2
+Gumperding	2
+Gumpling	2
+Gunzenberg	2
+Gunzing	2
+Günzing	2
+Gurk	2
+Gutendorf	2
+Guttaring	2
+Haberg	2
+Habruck	2
+Hackenbuch	2
+Hafenberg	2
+Hafning	2
+Haibach	2
+Haidberg	2
+Hainberg	2
+Hainbuch	2
+Hainfeld	2
+Hainsdorf	2
+Haitzendorf	2
+Halden	2
+Halltal	2
+Halt	2
+Hamet	2
+Hammergraben	2
+Hanging	2
+Harham	2
+Harland	2
+Harmersdorf	2
+Harruck	2
+Hartlberg	2
+Haschendorf	2
+Haselwand	2
+Hasendorf	2
+Haslach an der Stiefing	2
+Hasling	2
+Hatting	2
+Hattmannsdorf	2
+Hausberg	2
+Hausleithen	2
+Häusling	2
+Hausmanning	2
+Hautzendorf	2
+Heft	2
+Heiligenblut	2
+Heiligkreuz	2
+Henzing	2
+Hermannsdorf	2
+Herrnberg	2
+Hessendorf	2
+Hetzmannsdorf	2
+Heugraben	2
+Hiesbach	2
+Hilkering	2
+Hilpersdorf	2
+Hinteralm	2
+Hinterbuch	2
+Hinteredt	2
+Hinterstein	2
+Hinterthal	2
+Hinterwinkl	2
+Hirm	2
+Hirschau	2
+Hirschegg	2
+Hirschenschlag	2
+Hirschmanngraben	2
+Hitzendorf	2
+Hocheck	2
+Hochkuchl	2
+Hochmoos	2
+Hochwart	2
+Hochwolkersdorf	2
+Hofen	2
+Höflach	2
+Hofmanning	2
+Höh	2
+Hohenfeld	2
+Hohenreith	2
+Hollabrunn	2
+Höllberg	2
+Hollenburg	2
+Hollern	2
+Hollersbach	2
+Höllersberg	2
+Holzern	2
+Holzham	2
+Holzhausen	2
+Holzwiesen	2
+Hörmsdorf	2
+Hornberg	2
+Hörndl	2
+Hörstorf	2
+Hötzelsdorf	2
+Hötzlarn	2
+Hummelberg	2
+Hummersdorf	2
+Hundsheim	2
+Hütt	2
+Hutten	2
+Hüttenbichl	2
+Hüttendorf	2
+Im Dörfl	2
+Imberg	2
+Iming	2
+In der Au	2
+Innerleiten	2
+Innerwald	2
+Intenham	2
+Itzling	2
+Jassing	2
+Josefsdorf	2
+Josefsthal	2
+Jungberg	2
+Jungholz	2
+Kainraths	2
+Kainzing	2
+Kalch	2
+Kalchau	2
+Kalteneck	2
+Kaltenhausen	2
+Kalvarienberg	2
+Kammern	2
+Kapelln	2
+Kappl	2
+karlhof	2
+Karlsbach	2
+Kasbach	2
+Kasberg	2
+Kasern	2
+Katsdorf	2
+Katzbach	2
+Katzendorf	2
+Katzing	2
+Kaumberg	2
+Kepling	2
+Keppling	2
+Kerschenberg	2
+Kirchberg am Walde	2
+Kirchholz	2
+Kirchsteig	2
+Kirchweg	2
+Kittenegg	2
+Klapping	2
+Klausmühle	2
+Kleedorf	2
+Kleehof	2
+Klein Sankt Veit	2
+Kleinbergl	2
+Kleindorf	2
+Kleinegg	2
+Kleinhart	2
+Kleinnondorf	2
+Kleinschönau	2
+Kleinzell	2
+Kletschach	2
+Klösterle	2
+Knappenberg	2
+Kobledt	2
+Kobling	2
+Kogelberg	2
+Koglerau	2
+Kohlgraben	2
+Kolbing	2
+Kollersdorf	2
+Kollnitz	2
+Königsbrunn	2
+Königsdorf	2
+Königswiesen	2
+Korb	2
+Kornberg	2
+Korneredt	2
+Köstenberg	2
+Köstendorf	2
+Kracking	2
+Kramerberg	2
+Kranzing	2
+Kreith	2
+Kremsdorf	2
+Krennhof	2
+Kreuzen	2
+Krien	2
+Kritzing	2
+Kronegg	2
+Kronleiten	2
+Kropfling	2
+Kropfsdorf	2
+Kruckenberg	2
+Krumegg	2
+Kubing	2
+Kulmberg	2
+Kurzenkirchen	2
+Laach	2
+Laah	2
+Laasen	2
+Laggen	2
+Lähn	2
+Lahrndorf	2
+Lamperstorf	2
+Landersdorf	2
+Landertsberg	2
+Landl	2
+Landschach	2
+Langacker	2
+Langdorf	2
+Langen	2
+Langschlag	2
+Langwies	2
+Lanzing	2
+Lassen	2
+Lassenberg	2
+Lassendorf	2
+Lassing	2
+Lassnitz	2
+Laubenbach	2
+Lauterbrunn	2
+Lehmgrube	2
+Lehn	2
+Leibnitz	2
+Leifling	2
+Leitersdorf	2
+Lemberg	2
+Lend	2
+Lenzing	2
+Leoben	2
+Leopoldsdorf	2
+Leppen	2
+Lerchenfeld	2
+Lessach	2
+Leßnitz	2
+Letten	2
+Leutschach	2
+Lichtenwald	2
+Liebenau	2
+Liebenstein	2
+Lina	2
+Lindenhof	2
+Lindet	2
+Lindhof	2
+Lindl	2
+Linsberg	2
+Linz	2
+Litze	2
+Litzelsdorf	2
+Lobming	2
+Loch	2
+Loipersdorf	2
+Loitzendorf	2
+Loretto	2
+Lucka	2
+Ludersdorf	2
+Magersdorf	2
+Mahrersdorf	2
+Maiersdorf	2
+Maigen	2
+Maisling	2
+Maltschach	2
+Mandorf	2
+Manning	2
+Mannsberg	2
+Mannsdorf	2
+Manzing	2
+Marbach	2
+March	2
+Margarethen	2
+Markersdorf	2
+Markstein	2
+Markt	2
+Maßweg	2
+Matzleinsdorf	2
+Mauern	2
+Mauthbrücken	2
+Mayerhof	2
+Mayerling	2
+Mayersdorf	2
+Meidling	2
+Meierhöfen	2
+Melk	2
+Mellitz	2
+Merkendorf	2
+Merkersdorf	2
+Mettersdorf	2
+Michaelerberg	2
+Michlbach	2
+Miesenbach	2
+Miesenberg	2
+Mistlberg	2
+Mitteldorf	2
+Mitterleiten	2
+Mittermoos	2
+Mitterschlag	2
+Mitterspiel	2
+Mödring	2
+Moosau	2
+Moosheim	2
+Morsbach	2
+Mosern	2
+Mosing	2
+Mötschlach	2
+Motten	2
+Muggauberg	2
+Muggenau	2
+Muggendorf	2
+Mühlleiten	2
+Mühlreith	2
+Müllnern	2
+Münzbach	2
+Murau	2
+Müselbach	2
+Nadelbach	2
+Neder	2
+Neuaigen	2
+Neue Heimat	2
+Neumühl	2
+Neurath	2
+Niederaigen	2
+Niederau	2
+Niederbauern	2
+Niederbuch	2
+Niederleiten	2
+Niederranna	2
+Niederschöckl	2
+Niederwinkl	2
+Nölling	2
+Nonnersdorf	2
+Nopping	2
+Oberaching	2
+Oberaich	2
+Oberarnsdorf	2
+Oberbergen	2
+Oberbichl	2
+Oberbierbaum	2
+Oberboden	2
+Oberbuchberg	2
+Oberdambach	2
+Oberdoppl	2
+Oberdorfberg	2
+Oberdrosen	2
+Obereggen	2
+Obereichen	2
+Oberfeld	2
+Oberfladnitz	2
+Obergreith	2
+Obergrünau	2
+Obergschwendt	2
+Oberhausen	2
+Oberhöflein	2
+Oberhub	2
+Oberlembach	2
+Oberlindach	2
+Obermühl	2
+Obermühlbach	2
+Obern	2
+Oberneudorf	2
+Oberngrub	2
+Oberort	2
+Oberrain	2
+Oberrohr	2
+Oberrotte	2
+Oberschacher	2
+Obersdorf	2
+Obersonnberg	2
+Oberstraß	2
+Obertal	2
+Oberthalheim	2
+Oberthörl	2
+Obervellach	2
+Oberwagram	2
+Oberweinberg	2
+Oberweissenbach	2
+Oberwinden	2
+Oberzirknitz	2
+Oisching	2
+Olbersdorf	2
+Ossiachberg	2
+Osternach	2
+Ottendorf	2
+Ottenthal	2
+Pabenberg	2
+Pachern	2
+Palmsdorf	2
+Palt	2
+Pasching	2
+Passau	2
+Pattendorf	2
+Patzen	2
+Peherstorf	2
+Peigarten	2
+Peisching	2
+Pengersdorf	2
+Penning	2
+Penzing	2
+Pergern	2
+Perneck	2
+Pernerstorf	2
+Perschling	2
+Perwarth	2
+Pesenbach	2
+Petersdorf	2
+Petersham	2
+Pettenbach	2
+Pettendorf	2
+Pfaffenhofen	2
+Pfarrhof	2
+Pfenningbach	2
+Pflugern	2
+Pichla	2
+Pieberschlag	2
+Piereth	2
+Piesing	2
+Pilgersdorf	2
+Pirath	2
+Pircha	2
+Pisching	2
+Plain	2
+Planitzen	2
+Platz	2
+Plessberg	2
+Plöcking	2
+Pobersach	2
+Podlanig	2
+Pogöriach	2
+Pölla	2
+Pöllaberg	2
+Pöllauberg	2
+Pölsen	2
+Polsenz	2
+Ponigl	2
+Poppen	2
+Posern	2
+Pötschen	2
+Pötzling	2
+Präbichl	2
+Pram	2
+Pramerdorf	2
+Pratztrum	2
+Preding	2
+Preinreichs	2
+Preising	2
+Priel	2
+Prünst	2
+Punzing	2
+Purkersdorf	2
+Putzing	2
+Rabenstein	2
+Rad	2
+Radau	2
+Radelsdorf	2
+Radersdorf	2
+Rading	2
+Radlach	2
+Radweg	2
+Raffelsdorf	2
+Rafing	2
+Ragelsdorf	2
+Ragnitz	2
+Rainberg	2
+Raith	2
+Rajach	2
+Rametzberg	2
+Rammersdorf	2
+Rampersdorf	2
+Ramsberg	2
+Ranzenbach	2
+Rassing	2
+Rastenfeld	2
+Ratting	2
+Ratzenberg	2
+Ratzendorf	2
+Ratzling	2
+Rauchegg	2
+Raunach	2
+Redl	2
+Regau	2
+Rehbach	2
+Rehberg	2
+Reichenau	2
+Reichenbach	2
+Reifnitz	2
+Reinsberg	2
+Reisdorf	2
+Reisenberg	2
+Reitberg	2
+Reitering	2
+Reittern	2
+Rennersdorf	2
+Replach	2
+Reuthe	2
+Rieden	2
+Riedlbach	2
+Riegers	2
+Riegersburg	2
+Riegersdorf	2
+Riegl	2
+Rien	2
+Rindlberg	2
+Ritzenberg	2
+Rohrach	2
+Rohrbachgraben	2
+Roithen	2
+Roseldorf	2
+Rosenburg	2
+Rosendorf	2
+Rosenleiten	2
+Rosental	2
+Rossa	2
+Rossegg	2
+Röth	2
+Rothberg	2
+Rottenberg	2
+Rottenhof	2
+Rottenmann	2
+Rötz	2
+Rüben	2
+Rubland	2
+Ruckerlberg	2
+Rückersdorf	2
+Ruden	2
+Rudersberg	2
+Rührsdorf	2
+Rutzing	2
+Saag	2
+Saass	2
+Sachsenberg	2
+Sachsendorf	2
+Sajach	2
+Salaberg	2
+Sallach	2
+Sallegg	2
+Salling	2
+Salmannsdorf	2
+Sankt Agatha	2
+Sankt Bartlmä	2
+Sankt Gandolf	2
+Sankt Gotthard	2
+Sankt Josef	2
+Sankt Konrad	2
+Sankt Lambrecht	2
+Sankt Magdalen	2
+Sankt Marein	2
+Sankt Nikola	2
+Sankt Pantaleon	2
+Sankt Radegund	2
+Sankt Sigmund	2
+Sankt Urban	2
+Sankt Valentin	2
+Sankt Veit	2
+Sankt Willibald	2
+Sarning	2
+Sarstein	2
+Sauberg	2
+Sauerbrunn	2
+Sautern	2
+Schadendorf	2
+Schafberg	2
+Schalchen	2
+Schalchham	2
+Schallhof	2
+Schanz	2
+Schattberg	2
+Schatten	2
+Schaueregg	2
+Scheiblwies	2
+Scheifling	2
+Schickenedt	2
+Schildberg	2
+Schlögelsbach	2
+Schmelz	2
+Schmiding	2
+Schmidsberg	2
+Schmieden	2
+Schmiedsberg	2
+Schmitzberg	2
+Schnabling	2
+Schneeberg	2
+Schobersberg	2
+Schöckl	2
+Schönboden	2
+Schönweg	2
+Schrattenberg	2
+Schrattenbruck	2
+Schrems	2
+Schröck	2
+Schroffen	2
+Schrott	2
+Schützen	2
+Schwadorf	2
+Schwaigern	2
+Schwandt	2
+Schwarzach	2
+Schwarzen	2
+Schwarzenau	2
+Schwarzendorf	2
+Schwarzschachen	2
+Schweiber	2
+Schweighof	2
+Schweinberg	2
+Schwende	2
+Seeberg	2
+Seetal	2
+Seewalchen	2
+Seewiesen	2
+Seitling	2
+Senning	2
+Setzberg	2
+Siebenbrunn	2
+Siebenhirten	2
+Siebing	2
+Sieding	2
+Siegelsdorf	2
+Simling	2
+Simmering	2
+Sinnersdorf	2
+Sittendorf	2
+Sitzenhart	2
+Södingberg	2
+Sölling	2
+Sommerberg	2
+Sooss	2
+Sparbach	2
+Spiegelsberg	2
+Spielleiten	2
+Spöck	2
+Spraid	2
+Stadlhof	2
+Stadln	2
+Stadtrandsiedlung	2
+Stallhof	2
+Stambach	2
+Stammerdorf	2
+Stapfen	2
+Starzing	2
+Steeg	2
+Stefansberg	2
+Steinapiesting	2
+Steinbichl	2
+Steinbruck	2
+Steinbrücken	2
+Steinbrunn	2
+Steinbüchl	2
+Steindl	2
+Steinerberg	2
+Steingraben	2
+Steinholz	2
+Steinleiten	2
+Steinparz	2
+Steinpichl	2
+Steinpoint	2
+Steinstrass	2
+Stetten	2
+Stierling	2
+Stifting	2
+Stiftung	2
+Stock	2
+Stockedt	2
+Stocker	2
+Stockern	2
+Stögersbach	2
+Stollberg	2
+Straßhof	2
+Strebersdorf	2
+Streit	2
+Strengberg	2
+Strimitzen	2
+Sulzau	2
+Tanzenberg	2
+Tauchendorf	2
+Taxach	2
+Techendorf	2
+Techensdorf	2
+Thalgau	2
+Thall	2
+Thierberg	2
+Tiefenthal	2
+Tiefernitz	2
+Tobitsch	2
+Trabenig	2
+Trattenbach	2
+Treffelsdorf	2
+Treffen	2
+Treffling	2
+Tressdorf	2
+Trieblach	2
+Tschriet	2
+Türnau	2
+Turracherhöhe	2
+Türtsch	2
+Überfeld	2
+Ulrichsberg	2
+Ulrichschlag	2
+Umbach	2
+Unteraigen	2
+Unteralpe	2
+Unterbuchberg	2
+Unterburg	2
+Unterdambach	2
+Unterdoppl	2
+Untereggendorf	2
+Unterfeld	2
+Untergreith	2
+Untergrünau	2
+Untergschwendt	2
+Unterholzing	2
+Unterlamm	2
+Unterlaussa	2
+Unterleiten	2
+Unterlembach	2
+Unterlochen	2
+Unterneudorf	2
+Unterreith	2
+Unterrohr	2
+Unterrohrbach	2
+Untersonnberg	2
+Untertal	2
+Untertauern	2
+Untertiefenbach	2
+Unterweg	2
+Unterweinberg	2
+Unterweissenbach	2
+Unterwinden	2
+Unterzirknitz	2
+Urfahr	2
+Urschendorf	2
+Uttenthal	2
+Veitsberg	2
+Velm	2
+Viecht	2
+Viehausen	2
+Viehdorf	2
+Viehhaus	2
+Viehhausen	2
+Viertlbach	2
+Voglhub	2
+Vorderberg	2
+Vorderbrühl	2
+Vordereben	2
+Vorderschlag	2
+Vormarkt	2
+Vormoos	2
+Waging	2
+Wagnerberg	2
+Wagrain	2
+Wagrein	2
+Waidring	2
+Waitzendorf	2
+Waldberg	2
+Waldenstein	2
+Waldhausen	2
+Walding	2
+Waldreichs	2
+Walling	2
+Walpersdorf	2
+Waltersdorf	2
+Wängle	2
+Wannersdorf	2
+Wartberg	2
+Wasserburg	2
+Watzendorf	2
+Waxenegg	2
+Weichenberg	2
+Weichselbaum	2
+Weidenau	2
+Weidengraben	2
+Weiding	2
+Weigelsdorf	2
+Weikersdorf	2
+Weilbach	2
+Weilhart	2
+Weinbach	2
+Weingarten	2
+Weinzettl	2
+Weisching	2
+Weissach	2
+Weißbach	2
+Weißenkirchen im Attergau	2
+Weixelbaum	2
+Weixelberg	2
+Wels	2
+Wenns	2
+Wetzles	2
+Weyern	2
+Wiederschwing	2
+Wielands	2
+Wielandsberg	2
+Wiese	2
+Wiesenthal	2
+Wiesfleck	2
+Wildbach	2
+Wilfersdorf	2
+Wilhelmsedt	2
+Windau	2
+Windischberg	2
+Windorf	2
+Windschnur	2
+Winten	2
+Winterhof	2
+Wintersberg	2
+Winzendorf	2
+Witzelsberg	2
+Witzersdorf	2
+Witzling	2
+Wögern	2
+Wögersdorf	2
+Wolfegg	2
+Wolfenreith	2
+Wolfpassing	2
+Wolfsedt	2
+Wolfsegg	2
+Wolfsgraben	2
+Wolfsgrub	2
+Wöllersdorf	2
+Wollmannsberg	2
+Wollmersdorf	2
+Wollsdorf	2
+Wötzling	2
+Wühr	2
+Wurmbrand	2
+Würzberg	2
+Wurzen	2
+Würzenberg	2
+Zehethof	2
+Zeiringgraben	2
+Zeiselberg	2
+Zeltschach	2
+Ziegelstadl	2
+Zimmerau	2
+Zinken	2
+Zirknitz	2
+Zissersdorf	2
+Zwentendorf	2
+Zwerndorf	2
+Zwischenbergen	2
+Aalfang
+Abfaltersbach
+Absam
+Abtenau
+Abtissendorf
+Abtsdorf
+Abwinden
+Achau
+Achenkirch
+Achleit
+Ader
+Adlwang
+Adnet
+Adneter Riedl
+Affental
+Aflenz Kurort
+Afritz
+Aggsbach Dorf
+Agsdorf
+Aibl
+Aichdorf
+Aigen im Ennstal
+Aigen im Mühlkreis
+Ainet
+Aistersheim
+Aisting
+Alberndorf in der Riedmark
+Alberschwende
+Albrechts
+Albrechtsberg an der Grossen Krems
+Albrechtsberg an der Pielach
+Aldrans
+Alkoven
+Alland
+Allentsteig
+Allerheiligen bei Wildon
+Allerheiligen im Mühlkreis
+Allhaming
+Allhartsberg
+Alpbach
+Alsergrund
+Alt Lenzing
+Alt-Dietmanns
+Altaussee
+Altenberg bei Linz
+Altenfelden
+Altenhof am Hausruck
+Altenmarkt an der Triesting
+Altenmarkt bei Fürstenfeld
+Altenmarkt bei Riegersburg
+Altenmarkt bei Sankt Gallen
+Altenmarkt bei Wies
+Altenmarkt im Pongau
+Altirdning
+Altlengbach
+Altlichtenberg
+Altlichtenwarth
+Altmelon
+Altmünster
+Altnagelberg
+Altneudörfl
+Altruppersdorf
+Altschwendt
+Am Feuersang
+Amaliendorf
+Ambach
+Ameis
+Amering
+Amesleiten
+Ampass
+Ampflwang
+Amras
+Amstetten
+Andau
+Andelsbuch
+Andorf
+Andritz
+Angath
+Angerholz
+Angern an der March
+Anif
+Anitzberg
+Annaberg im Lammertal
+Annabichl
+Annenheim
+Anras
+Antau
+Anthering
+Antiesenhofen
+Apetlon
+Arbesbach
+Arbesthal
+Ardagger Markt
+Ardagger Stift
+Ardning
+Arnbach
+Arnfels
+Arnoldstein
+Arriach
+Artstetten
+Arzl
+Arzl im Pitztal
+Asberg
+Aschach an der Donau
+Aschach an der Steyr
+Aschau im Burgenland
+Aschau im Zillertal
+Aschbach Markt
+Aschbach-Dorf
+Aspang Markt
+Asparn
+Asparn an der Zaya
+Asperhofen
+Aspern
+Aspersdorf
+Aspeth
+Assach
+Attendorfberg
+Attersee
+Attnang
+Attnang-Puchheim
+Atzbach
+Atzenbrugg
+Au am Anzbach
+Au am Leithaberge
+Au an der Donau
+Au an der Traun
+Au bei Gaishorn am See
+Auersthal
+Auffach
+Auffang
+Aufhausen
+Auggenthal
+Augsdorf
+Aurach
+Aurach am Hongar
+Aurolzmünster
+Ausserbraz
+Äußere Kainisch
+Außerschmirn
+Aussertreffling
+Außervillgraten
+Ausserweg
+Axams
+Bachmanning
+Bachsdorf
+Bad Aussee
+Bad Bleiberg
+Bad Blumau
+Bad Deutsch-Altenburg
+Bad Dürrnberg
+Bad Eisenkappel
+Bad Erlach
+Bad Fischau
+Bad Gams
+Bad Gastein
+Bad Gleichenberg
+Bad Goisern
+Bad Hall
+Bad Häring
+Bad Hofgastein
+Bad Ischl
+Bad Kreuzen
+Bad Leonfelden
+Bad Mühllacken
+Bad Pirawarth
+Bad Radkersburg
+Bad Sankt Leonhard im Lavanttal
+Bad Sauerbrunn
+Bad Schallerbach
+Bad Schönau
+Bad Tatzmannsdorf
+Bad Traunstein
+Bad Vellach
+Bad Vigaun
+Bad Vöslau
+Bad Waltersdorf
+Bad Zell
+Badegg
+Baden
+Badersdorf
+Badhof
+Baierdorf-Umgebung
+Bairisch Kölldorf
+Baldramsdorf
+Bärnkopf
+Bartholomäberg
+Barwies
+Batschuns
+Baumgarten am Tullnerfeld
+Baumgarten im Burgenland
+Baumgartenberg
+Berg bei Rohrbach
+Bergland
+Bernardin
+Berndorf bei Salzburg
+Bernhardschlag
+Bernhardsthal
+Bernstein
+Berwang
+Beschling
+Bezau
+Biberbach
+Biberwier
+Bicheln
+Bichlbach
+Biedermannsdorf
+Bierbaum am Auersbach
+Bierbaum am Kleebühel
+Bildstein
+Birgitz
+Birkfeld
+Bisamberg
+Bischoffeld
+Bischofshofen
+Bischofstetten
+Bizau
+Blaiken
+Blaindorf
+Bleiberg-Kreuth
+Bleiburg
+Blindenmarkt
+Bludenz
+Bludesch
+Blumegg
+Bockfließ
+Bocksdorf
+Boder
+Bogenhofen
+Böheimkirchen
+Böhlerwerk
+Bolgenach
+Bramberg am Wildkogel
+Brandenberg
+Brandln
+Bräuhof
+Braunau am Inn
+Braunau Neustadt
+Bregenz
+Breitbrunn
+Breitenbach am Inn
+Breiteneich
+Breitenfeld an der Rittschein
+Breitenfurt bei Wien
+Breitenried
+Breitenschützing
+Breitenstein am Semmering
+Breitenwaida
+Breitenwang
+Breitstetten
+Bretstein
+Brigittenau
+Brixen im Thale
+Brixlegg
+Brodersdorf
+Brodingberg
+Bruck am Ziller
+Bruck an der Großglocknerstraße
+Bruck an der Leitha
+Bruck an der Mur
+Bruckbach
+Bruckberg
+Brückl
+Bruckneudorf
+Brunn an der Schneebergbahn
+Brunn an der Wild
+Brunn im Felde
+Brunnenthal
+Bsuch
+Bubing
+Buch in Tirol
+Buchkirchen
+Bullendorf
+Burgauberg
+Burgschleinitz
+Burgstall-Sankt Andrä
+Burk
+Bürmoos
+Bürs
+Bürserberg
+Christkindl
+Dafins
+Dalaas
+Damtschach
+Damüls
+Dauersdorf
+Davidschlag
+Debant
+Dechantskirchen
+Dellach im Drautal
+Desselbrunn
+Deuchendorf
+Deutsch Goritz
+Deutsch Griffen
+Deutsch Jahrndorf
+Deutsch Kaltenbrunn
+Deutsch Schützen-Eisenberg
+Deutsch Tschantschendorf
+Deutsch-Haslau
+Deutsch-Wagram
+Deutschbrodersdorf
+Deutschfeistritz
+Deutschkreutz
+Deutschlandsberg
+Dickerldorf
+Diemlach
+Dienersdorf
+Dienten am Hochkönig
+Diersbach
+Diesseits
+Dietachdorf
+Dietenberg
+Dietersdorf am Gnasbach
+Dietersdorf bei Fürstenfeld
+Dietmannsdorf bei Trieben
+Diex
+Dimbach
+Dobermannsdorf
+Dobersdorf
+Dobldorf
+Döbling
+Döbriach
+Döllerhof
+Dölsach
+Donaustadt
+Donawitz
+Donnersbach
+Donnersbachwald
+Donnerskirchen
+Doren
+Dorf Au
+Dorfbeuern
+Dorfgastein
+Dorfheim
+Dörfl an der Raab
+Dörfl im Burgenland
+Dorfviertel
+Dorfwerfen
+Dörnbach
+Dornbirn
+Dornleiten
+Drasenhofen
+Drassburg
+Drassmarkt
+Drautschen
+Dreistetten
+Drobollach am Faakersee
+Drosendorf
+Drösing
+Droß
+Düns
+Durchholzen
+Dürnbach im Burgenland
+Dürndorf
+Dürnkrut
+Dürnrohr
+Dürnstein
+Dürrenmoos
+Duttendorf
+Ebbs
+Eben im Pongau
+Ebendorf
+Ebene Reichenau
+Ebenfurth
+Ebensee
+Eberau
+Ebergassing
+Eberndorf
+Ebersberg
+Eberschwang
+Eberstalzell
+Ebreichsdorf
+Ebriach
+Eching
+Echsenbach
+Eckartsau
+Edelsbach bei Feldbach
+Edelschrott
+Edelsdorf
+Edelsgrub
+Edelstal
+Edelstauden
+Edlach an der Rax
+Edlbach
+Edramsberg
+Eferding
+Egelsdorf
+Eggartsberg
+Eggelsberg
+Eggenburg
+Eggendorf am Wagram
+Eggendorf im Traunkreis
+Eggern
+Eggersdorf bei Graz
+Ehenbichl
+Ehrenhausen
+Ehrenschachen
+Ehrwald
+Eibesthal
+Eibiswald
+Eichberg Arnfels
+Eichberg-Trautenburg
+Eichelwang
+Eichenberg
+Eichfeld
+Eichkögl
+Eisenberg an der Pinka
+Eisenerz
+Eisenstadt
+Eisentratten
+Eisenzicken
+Eisgarn
+Eitweg
+Elbigenalp
+Elixhausen
+Ellbögen
+Elmen
+Elsbach
+Elsbethen
+Elsenau
+Eltendorf
+Emmersdorf an der Donau
+Empersdorf
+Endach
+Engabrunn
+Engelhartstetten
+Engelhartszell
+Engelmannsbrunn
+Engerwitzdorf
+Englfing
+Enns
+Ennsbach
+Ennsling
+Entschendorf bei Gleisdorf
+Enzenkirchen
+Enzenreith
+Enzersberg
+Enzersdorf an der Fischa
+Enzersdorf bei Staatz
+Enzersfeld
+Eppenstein
+Erbersdorf
+Erdmannsiedlung
+Erl
+Erla
+Erlauf
+Erlendorf
+Erlsberg
+Ernstbrunn
+Ernsthofen
+Ernsting
+Erpersdorf
+Erpfendorf
+Ertl
+Esch
+Eselsbach
+Esternberg
+Etmißl
+Etsdorf am Kamp
+Ettenberg
+Ettendorf
+Ettendorf bei Stainz
+Etzelshofen
+Eugenbach
+Eugendorf
+Euratsfeld
+Ewitsch
+Faak am See
+Faggen
+Faistenau
+Falkenburg
+Favoriten
+Feffernitz
+Fehring
+Feichsen
+Feisternitz
+Feistritz am Kammersberg
+Feistritz am Wechsel
+Feistritz an der Drau
+Feistritz an der Gail
+Feistritz bei Knittelfeld
+Feistritz im Rosental
+Feistritz ob Bleiburg
+Felben
+Felberau
+Feld am See
+Feldkirch
+Feldkirchen an der Donau
+Feldkirchen bei Graz
+Feldkirchen in Kärnten
+Felgitsch
+Felixdorf
+Fels am Wagram
+Ferlach
+Ferschnitz
+Feuersbrunn
+Feyregg
+Fieberbrunn
+Fiecht
+Fiming
+Finkenberg
+Finkenstein
+Finkenstein am Faaker See
+Finklham
+Finsing
+Firsching
+Fischamend
+Fischamend-Markt
+Fischertratten
+Fischhorn
+Fischlham
+Fiss
+Fladnitz an der Teichalm
+Fladnitz im Raabtal
+Flamberg
+Flandorf
+Flattach
+Flattendorf
+Flatz
+Flaurling
+Fliess
+Flinsbach
+Flirsch
+Flöcking
+Floing
+Floridsdorf
+Föderlach I
+Fohnsdorf
+Föhrenau
+Fölz
+Forchtenau
+Forchtenstein
+Forstamt
+Forstviertel
+Frankenau
+Frankenburg
+Frankenfels
+Frankenmarkt
+Frantschach
+Franzensdorf
+Franzhausen
+Frastanz
+Frauenburg
+Frauendorf an der Schmida
+Frauenkirchen
+Fraunsdorf
+Fraxern
+Freidorf an der Laßnitz
+Freileiten
+Freistadt
+Frensdorf
+Fresach
+Fresing
+Fressnitz
+Freßnitzviertel
+Freudenstein
+Friedberg
+Friedburg
+Friedersbach
+Friedrichsdorf
+Fritzens
+Frohnhofen
+Frohnleiten
+Frohsdorf
+Frösau
+Fuchsenbigl
+Fügen
+Fügenberg
+Fulpmes
+Fünfing bei Sankt Ruprecht an der Raab
+Fürhappen
+Fürnitz
+Fürstenfeld
+Furth bei Göttweig
+Fuschl am See
+Fußach
+Gabersdorf
+Gablitz
+Gaflenz
+Gailitz
+Gainfarn
+Gaishorn
+Gallneukirchen
+Gallspach
+Gallusberg
+Gallzein
+Galtür
+Gamlitz
+Gamp
+Gampern
+Gams
+Gams bei Hieflau
+Gansbach
+Gänserndorf
+Garnei
+Garrach
+Gars am Kamp
+Garsten
+Garsten Nord
+Gaschurn
+Gaspoltshofen
+Gastern
+Gasthofberg
+Gattendorf
+Gaubitsch
+Gaumberg
+Gaweinstal
+Geboltskirchen
+Gedersdorf
+Geidorf
+Geinberg
+Gemeinlebarn
+Gemmersdorf
+Gendorf
+Geras
+Gerasdorf am Steinfelde
+Gerasdorf bei Wien
+Gerlos
+Gerlosberg
+Gersdorf an der Feistritz
+Gersdorf an der Mur
+Gfangen
+Gföhl
+Gföhleramt
+Gilgenberg am Weilhart
+Girm
+Glasenbach
+Glashütten bei Langeck im Burgenland
+Glaubendorf
+Gleichenberg Dorf
+Gleinkerau
+Gleinstätten
+Gleisdorf
+Gleißenfeld
+Glinzendorf
+Globasnitz
+Glödnitz
+Gloggnitz
+Gloxwald
+Gmunden
+Gnadenwald
+Gnaning
+Gnas
+Gneixendorf
+Gnesau
+Gniebing
+Gnies
+Gobelsburg
+Goberling
+Gödersdorf
+Gödnach
+Göfis
+Goggitsch in Steiermark
+Going
+Gois
+Goldgeben
+Goldwörth
+Göllersdorf
+Golling
+Golling an der Salzach
+Gols
+Gölsen
+Gonetsreith
+Gonowetz
+Göpfritz an der Wild
+Gortipohl
+Gosau
+Gosdorf
+Gösing
+Göss
+Gösselsdorf
+Gossendorf
+Gössendorf
+Gössl
+Göstling an der Ybbs
+Göttlesbrunn
+Göttsbach
+Götzendorf an der Leitha
+Götzens
+Götzis
+Grabersdorf
+Gradenberg
+Grades
+Grafendorf bei Hartberg
+Grafenschachen
+Grafenstein
+Grafenweg
+Grafenwörth
+Gralla
+Gramastetten
+Gramatneusiedl
+Grambach
+Grän
+Granitztal-Weißenegg
+Grasberg
+Graschuh
+Grassnitz
+Gratkorn
+Gratwein
+Graz
+Greifenburg
+Grein
+Greisdorf
+Gresten
+Gries am Brenner
+Gries bei Oberndorf
+Gries im Sellrain
+Grieselstein
+Grieskirchen
+Griffen
+Grimmenstein
+Grins
+Grinzens
+Gritschach
+Gröbming
+Grödig
+Grodnau
+Gröfelhof
+Groß Sankt Florian
+Groß Sierning
+Groß-Engersdorf
+Groß-Enzersdorf
+Groß-Gerungs
+Groß-Inzersdorf
+Groß-Schweinbarth
+Groß-Siegharts
+Grossarl
+Großebersdorf
+Grossendorf
+Grossenschwandt
+Grossglobnitz
+Grossgmain
+Großharras
+Grosshartmannsdorf
+Grosshöflein
+Großkadolz
+Großklein
+Großkrut
+Großkufhaus
+Großlobming
+Großmeiseldorf
+Großmugl
+Grosspertholz
+Grosspetersdorf
+Grossraming
+Großriedenthal
+Großrußbach
+Großrust
+Grossschönau
+Grosssöding
+Großsölk
+Grosssteinbach
+Großstelzendorf
+Großstübing
+Grosssulz
+Großvassach
+Grossveitsch
+Grossvolderberg
+Grosswarasdorf
+Großweikersdorf
+Großweinberg
+Großweißenbach
+Großwetzdorf
+Grosswilfersdorf
+Grub an der March
+Grubbauer
+Grubtal
+Grünau im Almtal
+Grünbach am Schneeberg
+Gschaid bei Birkfeld
+Gschmaier
+Gschnaidt
+Gschnitz
+Guggenthal
+Gugging
+Guggitzgraben
+Gumpoldskirchen
+Gundersheim
+Günselsdorf
+Gunskirchen
+Guntersdorf
+Guntramsdorf
+Gurgl
+Gurnitz
+Gurten
+Gusen
+Gussendorf
+Güssing
+Gusswerk
+Gutau
+Gutenstein
+Güttenbach
+Güttlfeld
+Haag am Hausruck
+Haag Dorf
+Hackerberg
+Hadersdorf am Kamp
+Haderswörth
+Hadres
+Hafeld
+Hafnerbach
+Hafning bei Trofaiach
+Hagenberg im Mühlkreis
+Hagenbrunn
+Haibach ob der Donau
+Haidershofen
+Haidl
+Haimburg
+Haiming
+Haimingerberg
+Hainburg an der Donau
+Hainersdorf
+Hainstetten
+Hainzenberg
+Halbenrain
+Halbturn
+Hall bei Admont
+Hall in Tirol
+Hallein
+Hallstatt
+Hallwang
+Hammersdorf
+Handberg
+Hanfthal
+Hannersdorf
+Hard
+Hargelsberg
+Haringsee
+Harl
+Hart bei Eggersdorf
+Hart bei Graz
+Hart im Zillertal
+Hartheim
+Hartkirchen
+Häselgehr
+Haselsdorf
+Haselsdorfberg
+Hasenufer
+Haslach an der Mühl
+Haslau an der Donau
+Haslau bei Birkfeld
+Hattendorf
+Hatzendorf
+Haugsdorf
+Haunoldstein
+Haus im Ennstal
+Hausbrunn
+Hauskirchen
+Hauslehen
+Hausmannstätten
+Hausmening
+Hausmoning
+Hautzenbichl
+Hefenscher
+Heidenreichstein
+Heiligeneich
+Heiligenkreuz am Waasen
+Heiligenkreuz im Lafnitztal
+Heimschuh
+Heinrichsbrunn
+Heissingfelding
+Heiterwang
+Helfenberg
+Helfenstein
+Hellmonsödt
+Helpfau
+Hemmerberg
+Henndorf am Wallersee
+Henndorf im Burgenland
+Hennersdorf
+Hermagor
+Hernals
+Hernstein
+Herrnbaumgarten
+Herzogenburg
+Herzogsdorf
+Hessenberg
+Hettmannsdorf
+Heuholz
+Hieflau
+Hiesendorf
+Hietzing
+Hilm
+Himmelberg
+Hintenberg
+Hinterbrühl
+Hinterglemm
+Hintersdorf
+Hinterstoder
+Hinterthiersee
+Hinzenbach
+Hippach
+Hippach-Schwendberg
+Hirnreit
+Hirnsdorf
+Hirschbach
+Hirschbach im Mühlkreis
+Hirschwang an der Rax
+Hirtenberg
+Hittisau
+Hitzing
+Höbenbach
+Höbersbrunn
+Höbersdorf
+Hochart
+Hochbau
+Hochfilzen
+Hochneukirchen
+Hochpoint
+Höchst
+Hochtregist
+Hof am Leithaberge
+Hof bei Salzburg
+Hof bei Straden
+Hofamt Priel
+Hoffeld
+Hofkirchen an der Trattnach
+Hofkirchen im Mühlkreis
+Hofkirchen im Traunkreis
+Höflein an der Donau
+Hofmark
+Hofmarkt
+Hofstätten an der Raab
+Höggen
+Hohenau an der March
+Hohenau an der Raab
+Hohenbrugg an der Raab
+Hoheneich
+Hohenems
+Hohenkogl
+Hohenruppersdorf
+Höhenstein
+Hohentauern
+Hohenweiler
+Hohenzell
+Hohlbach
+Höhnhart
+Holdernach
+Hollenbach
+Hollenstein an der Ybbs
+Hollenthon
+Hollersbach im Pinzgau
+Hölles
+Holzgau
+Hönigsberg
+Hönigthal
+Hopfau
+Hopfgarten im Brixental
+Hörbranz
+Hörersdorf
+Hörfarth
+Hörgas
+Horitschon
+Horn
+Hornstein
+Hörsching
+Hörtendorf
+Hörzendorf
+Hötschdorf
+Hötting
+Hühnersberg
+Hunnenbrunn
+Hürm
+Hüttau
+Hüttenberg
+Hüttschlag
+Hygna
+Ibm
+Igls
+Illmitz
+Ilz
+Imbach
+Immendorf
+Imming
+Imst
+Imsterberg
+Innerbraz
+Innermanzing
+Innerschwand
+Innertreffling
+Innervillgraten
+Innsbruck
+Inzersdorf im Kremstal
+Inzersdorf ob der Traisen
+Ipfdorf
+Irdning
+Irenental
+Irnfritz
+Irrsdorf
+Irschen
+Ischgl
+Iselsberg
+Itter
+Jabing
+Jadorf
+Jagenbach
+Jagerberg
+Jaidhof
+Jainzen
+Jakling
+Jakomini
+Jamm
+Jaritzberg
+Jauring
+Jedenspeigen
+Jenbach
+Jennersdorf
+Jenseits
+Jerzens
+Jesdorf
+Jettsdorf
+Jetzelsdorf
+Jois
+Jormannsdorf
+Josefstadt
+Jöss
+Judenau
+Judenburg
+Julbach
+Käferheim
+Kaibing
+Kainach bei Voitsberg
+Kainbach
+Kaindorf an der Sulm
+Kaisersberg
+Kaisersdorf
+Kalchberg
+Kalham
+Kalkgruben
+Kallham
+Kalsdorf bei Graz
+Kaltenleutgeben
+Kaltschach
+Kalwang
+Kammern im Liesingtal
+Kammersdorf
+Kaning
+Kapellen
+Kapfenberg
+Kapfenstein
+Kapfing
+Kappel am Krappfeld
+Kappel an der Drau
+Kappern
+Kaprun
+Karling
+Karlstein
+Karlstetten
+Karnabrunn
+Karnburg
+Karnerviertel
+Karres
+Karrösten
+Kartitsch
+Kasten bei Böheimkirchen
+Katsch an der Mur
+Kaufing
+Kaunerberg
+Kaunertal
+Kauns
+Kautendorf
+Kautzen
+Kefermarkt
+Kehlhof
+Kelchsau
+Kellau
+Kematen am Innbach
+Kematen an der Krems
+Kematen an der Ybbs
+Kematen in Tirol
+Kemeten
+Kemmelbach
+Kennelbach
+Kernhof
+Ketten
+Kettlasbrunn
+Keuschen
+Keutschach am See
+Kierling
+Kilb
+Kindberg
+Kinderdorf Sankt Isidor
+Kirchbach in Steiermark
+Kirchberg am Wagram
+Kirchberg am Wechsel
+Kirchberg an der Pielach
+Kirchberg an der Raab
+Kirchberg in Tirol
+Kirchberg ob der Donau
+Kirchbichl
+Kirchdorf an der Krems
+Kirchdorf in Tirol
+Kirchenlandl
+Kirchfidisch
+Kirchgöming
+Kirchschlag bei Linz
+Kirchschlag in der Buckligen Welt
+Kirnberg an der Mank
+Kittsee
+Kitzbühel
+Kitzladen
+Klaffer am Hochficht
+Klagenfurt am Wörthersee
+Klaus an der Pyhrnbahn
+Klausen-Leopoldsdorf
+Kleblach
+Kledering
+Klein Meiseldorf
+Klein Sankt Paul
+Klein-Engersdorf
+Klein-Harras
+Klein-Neusiedl
+Klein-Pöchlarn
+Kleinarl
+Kleinbaumgarten
+Kleinboden
+Kleinedling
+Kleingaisfeld
+Kleinhadersdorf
+Kleinhöflein
+Kleinhöflein im Burgenland
+Kleinkirchheim
+Kleinköstendorf
+Kleinlobming
+Kleinraming
+Kleinreifling
+Kleinrötz
+Kleinsemmering
+Kleinsöding
+Kleinsölk
+Kleinsöll
+Kleinsteinbach
+Kleinstübing
+Kleinvassach
+Kleinveitsch
+Kleinwarasdorf
+Kleinwolfstein
+Kleinwolkersdorf
+Kleinwöllmiss
+Kleinzell im Mühlkreis
+Kliening
+Klingenbach
+Klöch
+Klöchberg
+Klostermarienberg
+Klosterneuburg
+Knittelfeld
+Kobenz
+Kobersdorf
+Koblach
+Köflach
+Kohfidisch
+Kohlberg
+Kollerschlag
+Kollmitzberg
+Kollnbrunn
+Kolsass
+Kolsassberg
+Königsbrunn im Weinviertel
+Königstetten
+Konradsheim
+Kopfing bei Kaindorf
+Kopfing im Innkreis
+Köppel
+Köppelreith
+Köppling
+Korneuburg
+Korpitsch
+Kössen
+Kothvogel
+Kötschach
+Kottes
+Kottingbrunn
+Kottinghörmanns
+Kottingneusiedl
+Köttlach
+Köttmannsdorf
+Köttwein
+Krahof
+Kraig
+Krakaudorf
+Krakauhintermühlen
+Krakauschatten
+Kraubath an der Mur
+Kreilhof
+Krems an der Donau
+Kremsmünster
+Krenglbach
+Krennach
+Krensdorf
+Krenstetten
+Kresbach
+Kreutern
+Krieglach
+Krimml
+Kristein
+Kristen
+Kritzendorf
+Kroatisch Geresdorf
+Kroatisch Minihof
+Kroboteck
+Kroisbach an der Feistritz
+Kronnersdorf
+Kronstorf
+Kropfing
+Krössenbach
+Krottendorf bei Ligist
+Krumbach Markt
+Krummnußbaum an der Donauuferbahn
+Krumnussbaum
+Krumpendorf
+Krustetten
+Kuchl
+Kuffern
+Kufstein
+Kugelberg
+Kühnring
+Kühnsdorf
+Kukmirn
+Kulm am Zirbitz
+Kumberg
+Kundl
+Kürnberg
+Laa
+Laa an der Thaya
+Laab im Walde
+Laaben
+Laafeld
+Laahen
+Laakirchen
+Laboisen
+Labuch
+Lackenbach
+Lackendorf
+Ladau
+Ladendorf
+Ladis
+Lafnitz
+Laideregg
+Laim
+Laimach
+Laimbach am Ostrong
+Lainach
+Laintal
+Lambichl
+Lambrechten
+Lammertal
+Lamperstätten
+Lamprechtshausen
+Land-Übelbach
+Landeck
+Landegg
+Landscha an der Mur
+Landscha bei Weiz
+Landskron
+Landstraße
+Langenegg
+Längenfeld
+Langenlebarn-Oberaigen
+Langenlois
+Langenrohr
+Langenschönbichl
+Langenstein
+Langenwang
+Langenzersdorf
+Langholzfeld
+Langmannersdorf
+Langstraß
+Lannach
+Lans
+Lantschern
+Lanzenkirchen
+Lasberg
+Lasern
+Lassee
+Lassing-Kirchdorf
+Lassnitzhöhe
+Laßnitzthal
+Latschach ober dem Faakersee
+Laufnitzdorf
+Launsdorf
+Laussa
+Lauterach
+Lavamünd
+Lavant
+Laxenburg
+Lebern
+Lebring
+Lech
+Lechaschau
+Ledenitzen
+Lehenrotte
+Leiben
+Leibsdorf
+Leisach
+Leitendorf
+Leitersdorf bei Hartberg
+Leitersdorf im Raabtal
+Leithaprodersdorf
+Leitring
+Leitzersdorf
+Lembach bei Riegersburg
+Lembach im Mühlkreis
+Lemsitz
+Lengdorf
+Lengenfeld
+Lengfelden
+Leobendorf
+Leobersdorf
+Leogang
+Leombach
+Leonding
+Leonstein
+Leopersdorf
+Leopoldschlag
+Leopoldsdorf im Marchfelde
+Leppersdorf
+Lerchenreith
+Lermoos
+Lest
+Leumühle
+Leutasch
+Leutzmannsdorf
+Lichtenwörth
+Lichtersberg
+Liebenfels
+Liebensdorf
+Lieboch
+Lienz
+Lieschen
+Lieserbrücke
+Lieserhofen
+Liesfeld
+Liesingtal
+Liezen
+Ligist
+Lilienfeld
+Limbach im Burgenland
+Lind bei Scheifling
+Lind ob Velden
+Lindenthal
+Lingenau
+Linzerberg
+Litschau
+Lixlau
+Löbenau
+Lochau
+Lochen
+Lockenhaus
+Lödersdorf I
+Lofer
+Löffelbach
+Lohnau
+Lohnsburg
+Loibach
+Loidesthal
+Loimersdorf
+Loipersbach
+Loipersbach im Burgenland
+Loipersdorf bei Fürstenfeld
+Loipersdorf im Burgenland
+Lorüns
+Losenstein
+Losensteinleiten
+Ludesch
+Luftenberg an der Donau
+Lumplgraben
+Lungendorf
+Lunz am See
+Lupitsch
+Lustenau
+Lutschaun
+Lutzmannsburg
+Mäder
+Magdalensberg
+Magland
+Maidorf
+Maier
+Mailberg
+Mainburg
+Mainhartsdorf
+Mainsdorf
+Maisberg
+Maishofen
+Maissau
+Maitschern
+Mallnitz
+Malta
+Mandling
+Manhartsbrunn
+Mank
+Mannersdorf am Leithagebirge
+Mannersdorf an der March
+Mannersdorf an der Rabnitz
+Mannsdorf an der Donau
+Mannswörth
+Mantrach
+Mantscha
+Marchegg
+Marchtrenk
+Margareten
+Margarethen am Moos
+Maria Alm am Steinernen Meer
+Maria Buch
+Maria Elend
+Maria Ellend
+Maria Enzersdorf
+Maria Gail
+Maria Lankowitz
+Maria Lanzendorf
+Maria Neustift
+Maria Rain
+Maria Saal
+Maria Schmolln
+Maria-Anzbach
+Mariahof
+Mariapfarr
+Mariasdorf
+Mariastein
+Mariatal
+Mariatrost
+Mariazell
+Markersdorf an der Pielach
+Markgrafneusiedl
+Markt Allhau
+Markt Neuhodis
+Markt Piesting
+Marz
+Maschl
+Mathon
+Matrei am Brenner
+Matrei in Osttirol
+Mattersburg
+Mattighofen
+Mattsee
+Matzen
+Mauer bei Amstetten
+Mauer bei Melk
+Mauerbach
+Mauerkirchen
+Maustrenk
+Mautern
+Mautern in Steiermark
+Mauthausen
+Mauthen
+Mayerlehen
+Medraz
+Meggenhofen
+Mehrn
+Mehrnbach
+Meiningen
+Meiselding
+Mellau
+Metnitz
+Mettersdorf am Saßbach
+Mettmach
+Michaelbeuern
+Michaelnbach
+Michelbach Markt
+Micheldorf in Oberösterreich
+Michelhausen
+Mieders
+Mietzens
+Millstatt
+Mils bei Imst
+Mils bei Solbad Hall
+Minihof Liebau
+Mining
+Mischendorf
+Misselsdorf
+Mitterbach-Seerotte
+Mitterberghütten
+Mitterdorf im Mürztal
+Mitterfladnitz
+Mittergrabern
+Mitterhausleiten
+Mitterhofen
+Mitterland
+Mitterlimberg
+Mitterndorf an der Fischa
+Mitterndorf im Steirischen Salzkammergut
+Mitterperwend
+Mitterpullendorf
+Mittersill
+Mittertreffling
+Mittlern
+Mixnitz
+Möbersdorf
+Möderbrugg
+Mödlham
+Mödling
+Mogersdorf
+Möggers
+Mold
+Mollands
+Möllbrücke
+Möllersdorf
+Mollmannsdorf
+Molln
+Mollram
+Mönchdorf
+Mönchhof
+Mondsee
+Mönichkirchen
+Moosbrunn
+Moosburg
+Moosdorf
+Mooskirchen
+Mooslandl
+Moostal
+Mörbisch am See
+Mörtelsdorf
+Moschendorf
+Mösendorf
+Mötz
+Muckendorf an der Donau
+Mühl
+Mühlbach am Hochkönig
+Mühldorf bei Feldbach
+Mühlgang
+Mühlgrub
+Mühlheim
+Mühling
+Mühlwang
+Müllendorf
+Münchendorf
+Munderfing
+Münichreith am Ostrong
+Münichsthal
+Münster
+Muntigl
+Muntlix
+Münzkirchen
+Mureck
+Murstetten
+Mürzhofen
+Mürzzuschlag
+Musau
+Muthmannsdorf
+Muttendorf
+Mutters
+Naarn im Machlande
+Nachdemsee
+Naintsch
+Nappersdorf
+Nassereith
+Natschbach
+Natternbach
+Natters
+Nauders
+Nebersdorf
+Neckenmarkt
+Nenzing
+Nesselwängle
+Nestelbach bei Graz
+Nestelbach im Ilztal
+Nettingsdorf
+Neu-Anif
+Neu-Dietmanns
+Neu-Feffernitz
+Neu-Guntramsdorf
+Neu-Terfens
+Neualm
+Neuberg im Burgenland
+Neuda
+Neudau
+Neudauberg
+Neudorf an der Mur
+Neudorf bei Ilz
+Neudorf bei Parndorf
+Neudorf bei Sankt Ruprecht an der Raab
+Neudorf im Sausal
+Neudorf im Weinviertel
+Neufeld an der Leitha
+Neufelden
+Neufellach
+Neufisching
+Neufurth
+Neuhaus am Klausenbach
+Neuhofen an der Krems
+Neuhofen an der Ybbs
+Neuhofen im Innkreis
+Neukirchen
+Neukirchen am Großvenediger
+Neukirchen am Walde
+Neukirchen an der Enknach
+Neukirchen an der Vöckla
+Neulandskron
+Neulassing
+Neulengbach
+Neumarkt am Wallersee
+Neumarkt an der Ybbs
+Neumarkt im Hausruckkreis
+Neumarkt im Mühlkreis
+Neumarkt im Tauchental
+Neumarkt in Steiermark
+Neunkirchen
+Neurisshof
+Neuruppersdorf
+Neusiedl am See
+Neusiedl am Steinfelde
+Neusiedl an der Zaya
+Neußerling
+Neustadtl-Markt
+Neustift an der Lafnitz
+Neustift bei Altlengbach
+Neustift bei Güssing
+Neustift im Mühlkreis
+Neustift im Stubaital
+Neutal
+Neutillmitsch
+Neuwindorf
+Neuzeltweg
+Neuzeug
+Nickelsdorf
+Niederabsdorf
+Niederalm
+Niederarnsdorf
+Niederbreitenbach
+Niederfellabrunn
+Niederfladnitz
+Niedergams
+Niederhollabrunn
+Niederkappel
+Niederkreuzstetten
+Niederlaab
+Niederland
+Niederleis
+Niederneukirchen
+Niederneustift
+Niedernsill
+Niederöblarn
+Niederottensheim
+Niederperwend
+Niederrußbach
+Niederschleinz
+Niederschrems
+Niederstraß
+Niedersulz
+Niederthai
+Niederthalheim
+Niederthan
+Niederwaldkirchen
+Niederwölz
+Nikelsdorf
+Nikitsch
+Niklasdorf
+Nikolsdorf
+Nitscha
+Nitzing
+Nöchling
+Nöstach
+Nöstl
+Nöstlbach
+Nötsch
+Nötsch bei Bleiberg
+Nussbach
+Nussdorf am Attersee
+Nußdorf am Haunsberg
+Nussdorf ob der Traisen
+Nüziders
+Ob der Kirche
+Obdach
+Ober-Grafendorf
+Oberachmann
+Oberalm
+Oberamt
+Oberaschbach
+Oberbairing
+Oberbergern
+Oberbildein
+Oberdorf am Hochegg
+Oberdorf im Burgenland
+Oberdrauburg
+Oberdrum
+Obere Fellach
+Obere Klaus
+Oberfeistritz
+Oberfellabrunn
+Obergaimberg
+Obergänserndorf
+Obergäu
+Oberglan
+Obergnas
+Obergrossau
+Obergrünburg
+Obergurgl
+Oberhaid
+Oberhehenfeld
+Oberhochrenz
+Oberhofen im Inntal
+Oberkappel
+Oberkolbnitz
+Oberkreuzstetten
+Oberkrimml
+Oberlandshaag
+Oberlangbath
+Oberlangenberg
+Oberlangkampfen
+Oberlebing
+Oberleidenberg
+Oberletzen
+Oberlienz
+Oberloisdorf
+Obermarkersdorf
+Obermauern
+Obermieming
+Obermillstatt
+Obermühlham
+Obernalb
+Obernberg am Brenner
+Obernberg am Inn
+Oberndorf an der Melk
+Oberndorf bei Salzburg
+Oberndorf bei Schwanenstadt
+Oberndorf in der Ebene
+Oberndorf in Tirol
+Oberneukirchen
+Oberolberndorf
+Oberperfuss
+Oberperwend
+Oberpetersdorf
+Oberpiesting
+Oberpremstätten
+Oberpuchenau
+Oberpullendorf
+Oberpurkla
+Oberradlberg
+Oberrakitsch
+Oberrosenauerwald
+Oberrußbach
+Obersaifen
+Oberschauersberg
+Oberschöckl
+Oberschützen
+Obersiebenbrunn
+Oberstrahlbach
+Obersulz
+Obertilliach
+Obertrattnach
+Obertraun
+Obertressen
+Obertrum am See
+Obervogau
+Oberwaltersdorf
+Oberwang
+Oberwart
+Oberweiden
+Oberweißburg
+Oberwölbling
+Oberwölz Stadt
+Oberzeiring
+Öblarn
+Obritz
+Obritzberg
+Obsmarkt
+Obsteig
+Obtarrenz
+Ochsenburg
+Oedt bei Feldbach
+Oehling
+Oepping
+Oeynhausen
+Offenhausen
+Oftering
+Oggau
+Ohlsdorf
+Öhndorf
+Oisnitz
+Olbendorf
+Ölkam
+Ollern
+Ollersbach
+Ollersdorf
+Ollersdorf im Burgenland
+Olsa
+Ornding
+Ort im Innkreis
+Ortgraben
+Orth an der Donau
+Oslip
+Ossarn
+Östen
+Ostermiething
+Osternberg
+Ottakring
+Ottendorf an der Rittschein
+Ottenheim
+Ottensheim
+Otterthal
+Ottnang am Hausruck
+Ottstorf
+Ötztal-Bahnhof
+Paasdorf
+Pabneukirchen
+Pacher
+Pachfurth
+Pack
+Palbersdorf
+Paldau
+Palfau
+Palterndorf
+Pama
+Pamhagen
+Pankrazberg
+Panzendorf
+Parndorf
+Parschlug
+Partenen
+Passail
+Passering
+Paternion
+Patsch
+Pattigham
+Patzmannsdorf
+Paudorf
+Payerbach
+Pebering
+Peesen
+Peggau
+Peilstein im Mühlviertel
+Penningberg
+Penz
+Perbersdorf
+Perbersdorf bei Sankt Peter
+Perchau am Sattel
+Perchtoldsdorf
+Perg
+Pergkirchen
+Perlsdorf
+Pernegg an der Mur
+Pernitz
+Pernzell
+Persenbeug
+Pertisau
+Pertlstein
+Perwang am Grabensee
+Petersdorf II
+Petronell-Carnuntum
+Pettnau
+Pettneu
+Petzelsdorf bei Fehring
+Petzelsdorf in der Weststeiermark
+Petzenkirchen
+Peuerbach
+Peygarten
+Pfaffenschlag bei Waidhofen an der Thaya
+Pfaffstätt
+Pfaffstätten
+Pfalzau
+Pfarrdorf
+Pfarrerfeld
+Pfarrkirchen bei Bad Hall
+Pfarrkirchen im Mühlkreis
+Pflach
+Pfongau
+Pfons
+Pframa
+Pfunds
+Pians
+Piber
+Piberbach
+Piberschlag
+Pichl an der Raab
+Pichl bei Wels
+Pichl-Großdorf
+Pichling bei Köflach
+Pichling bei Mooskirchen
+Pichling bei Stainz
+Pielach
+Pielachberg
+Piesendorf
+Pill
+Pillichsdorf
+Pinggau
+Pinkafeld
+Pinsdorf
+Pirching am Traubenberg
+Pirching an der Raab
+Piregg
+Piringsdorf
+Pirkhof
+Pischeldorf
+Pischelsdorf am Engelbach
+Pischelsdorf in der Steiermark
+Pistorf
+Pitten
+Pittermann
+Pixendorf
+Plainfeld
+Plankenau
+Plankenberg
+Plankenwarth
+Platt
+Plesch
+Plesching
+Pöchlarn
+Pöckau
+Podersdorf am See
+Poggersdorf
+Pöggstall
+Pölfing
+Pöllach
+Pöllau bei Gleisdorf
+Pollheim
+Polling im Innkreis
+Polling in Tirol
+Pöls
+Poppendorf im Burgenland
+Pörtschach am Wörthersee
+Pössnitz
+Pöstlingberg
+Pöttelsdorf
+Pottenbrunn
+Pottendorf
+Pottenstein
+Pottschach
+Pöttsching
+Potzneusiedl
+Poysbrunn
+Poysdorf
+Präbach
+Pradl
+Prama
+Prambachkirchen
+Pramet
+Prätis
+Pratsdorf
+Prebensdorf
+Prebl
+Prebuch
+Predlitz
+Pregarten
+Pregartsdorf
+Prellenkirchen
+Prenning
+Pressbaum
+Pressguts
+Prinzendorf
+Prinzersdorf
+Probstdorf
+Proleb
+Pröselsdorf
+Prottes
+Pruggern
+Prutz
+Pubersdorf
+Puch bei Hallein
+Puch bei Weiz
+Puchbach
+Puchberg am Schneeberg
+Puchegg
+Puchen
+Puchenau
+Puchheim
+Puchkirchen am Trattberg
+Pucking
+Pulgarn
+Pulkau
+Pulst
+Punitz
+Puntigam
+Purbach am Neusiedler See
+Pusarnitz
+Pusterwald
+Putzleinsdorf
+Putzmannsdorf
+Raab
+Raaba
+Raabau
+Raabs an der Thaya
+Raasdorf
+Rabensburg
+Rabenstein an der Pielach
+Rabenwald
+Rabnitz
+Rachau
+Radenthein
+Radfeld
+Radlbrunn
+Radmer an der Stube
+Radstadt
+Raffelstetten
+Raggal
+Raggendorf
+Raglitz
+Raiding
+Raiming
+Rainbach im Mühlkreis
+Rainfeld
+Raipoltenbach
+Raitis
+Ramingdorf
+Ramingstein
+Ramplach
+Ramsau am Dachstein
+Ramsau im Zillertal
+Ramseiden
+Randegg
+Rangersdorf
+Ranggen
+Raning
+Rankweil
+Ranshofen
+Ranten
+Rapperswinkel
+Rappoltenkirchen
+Rappottenstein
+Raschala
+Rassach
+Ratsch an der Weinstraße
+Ratschendorf
+Rattendorf
+Rattersdorf
+Ratzersdorf an der Traisen
+Rauchenwarth
+Rauchwart im Burgenland
+Räuflach
+Rauris
+Ravelsbach
+Rax
+Raxendorf
+Reauz
+Rechnitz
+Reding
+Redlham
+Redlschlag
+Regelsbrunn
+Rehmen
+Reichenau an der Rax
+Reichenau im Mühlkreis
+Reichendorf
+Reichenfels
+Reichenthal
+Reichraming
+Reidling
+Rein
+Reinbach
+Reitdorf
+Reiterndorf
+Reith bei Kitzbühel
+Reith bei Seefeld
+Reith im Alpbachtal
+Reitlehen
+Rekawinkel
+Rengerberg
+Rennweg am Katschberg
+Rettenegg
+Rettenschöss
+Rettenstein
+Retz
+Retznei
+Reutte
+Ried am Riederberg
+Ried im Innkreis
+Ried im Oberinntal
+Ried im Traunkreis
+Ried im Zillertal
+Ried in der Riedmark
+Riedau
+Riedenthal
+Riederberg
+Riedersbach
+Riedlingsdorf
+Riefensberg
+Riegersbach
+Ries
+Rietz
+Riezlern
+Rindbach
+Ring
+Ringelsdorf
+Rinnegg
+Rodingersdorf
+Rofansiedlung
+Rohr an der Raab
+Rohr im Burgenland
+Rohr im Gebirge
+Rohr im Kremstal
+Rohrau
+Rohrbach am Kulm
+Rohrbach an der Gölsen
+Rohrbach an der Lafnitz
+Rohrbach bei Mattersburg
+Rohrbach in Oberösterreich
+Rohrbrunn
+Rohrendorf bei Krems
+Rollsdorf
+Romatschachen
+Röns
+Roppen
+Röschitz
+Rosegg
+Rosenau am Hengstpass
+Rosenau am Sonntagberg
+Rosenbach
+Rosenheim
+Rosental an der Kainach
+Rossatz
+Rotenturm an der Pinka
+Rotheau
+Rothenthurm
+Rothenthurn
+Röthis
+Rothleiten
+Rottenegg
+Rudersbach
+Rudmanns
+Rufling
+Rum
+Ruppersthal
+Russbachsaag
+Rust
+Rust im Tullnerfeld
+Rüstorf
+Rutzendorf
+Rutzenmoos
+Saak
+Saalbach
+Saalfelden am Steinernen Meer
+Saaz
+Sachsenburg
+Safenau
+Saggau
+Sallaberg
+Sallingberg
+Salvenberg
+Salzburg
+Sammersdorf
+Sandl
+Sankt Aegyd am Neuwalde
+Sankt Andrä am Zicksee
+Sankt Andrä an der Traisen
+Sankt Andrä im Lungau
+Sankt Andrä im Sausal
+Sankt Andrä vor dem Hagenthale
+Sankt Anton an der Jessnitz
+Sankt Anton im Montafon
+Sankt Bartholomä
+Sankt Bernhard
+Sankt Blasen
+Sankt Christophen
+Sankt Corona am Schöpfl
+Sankt Corona am Wechsel
+Sankt Donat
+Sankt Egyden
+Sankt Erhard
+Sankt Filippen
+Sankt Florian am Inn
+Sankt Gallen
+Sankt Gallenkirch
+Sankt Georgen am Leithagebirge
+Sankt Georgen am Steinfelde
+Sankt Georgen am Walde
+Sankt Georgen am Ybbsfelde
+Sankt Georgen an der Gusen
+Sankt Georgen an der Leys
+Sankt Georgen an der Stiefing
+Sankt Georgen bei Neumarkt
+Sankt Georgen bei Salzburg
+Sankt Georgen im Attergau
+Sankt Georgen in der Klaus
+Sankt Georgen ob Judenburg
+Sankt Georgen ob Murau
+Sankt Gertraud
+Sankt Gilgen
+Sankt Gotthard im Mühlkreis
+Sankt Jakob am Thurn
+Sankt Jakob in Haus
+Sankt Jakob-Breitenau
+Sankt Johann am Tauern Sonnseite
+Sankt Johann am Wimberg
+Sankt Johann bei Herberstein
+Sankt Johann im Pongau
+Sankt Johann im Saggautal
+Sankt Johann in der Haide
+Sankt Johann in Engstetten
+Sankt Johann in Tirol
+Sankt Johann ob Hohenburg
+Sankt Kanzian
+Sankt Kathrein am Hauenstein
+Sankt Kathrein am Offenegg
+Sankt Kathrein am Offenegg I Viertel
+Sankt Kathrein am Offenegg II Viertel
+Sankt Leonhard am Forst
+Sankt Leonhard am Hornerwald
+Sankt Leonhard am Wald
+Sankt Leonhard bei Freistadt
+Sankt Leonhard im Pitztal
+Sankt Lorenzen am Wechsel
+Sankt Lorenzen bei Knittelfeld
+Sankt Lorenzen bei Scheifling
+Sankt Lorenzen im Lesachtal
+Sankt Lorenzen im Mürztal
+Sankt Lorenzen im Paltental
+Sankt Lorenzen ob Murau
+Sankt Marein bei Graz-Markt
+Sankt Marein bei Graz-Umgebung
+Sankt Marein bei Knittelfeld
+Sankt Marein bei Neumarkt
+Sankt Marein im Mürztal
+Sankt Margarethen an der Raab
+Sankt Margarethen an der Sierning
+Sankt Margarethen bei Knittelfeld
+Sankt Margarethen bei Lebring
+Sankt Margarethen im Burgenland
+Sankt Margarethen im Lavanttal
+Sankt Margarethen im Lungau
+Sankt Marien
+Sankt Marienkirchen am Hausruck
+Sankt Marienkirchen an der Polsenz
+Sankt Marienkirchen bei Schärding
+Sankt Michael am Bruckbach
+Sankt Michael im Burgenland
+Sankt Michael im Lungau
+Sankt Michael in Obersteiermark
+Sankt Michael ob Bleiburg
+Sankt Nikolai im Sausal
+Sankt Nikolai im Sölktal
+Sankt Nikolai ob Draßling
+Sankt Oswald bei Freistadt
+Sankt Oswald bei Plankenwarth
+Sankt Oswald ob Eibiswald
+Sankt Pankraz
+Sankt Paul im Lavanttal
+Sankt Peter am Hart
+Sankt Peter am Kammersberg
+Sankt Peter am Ottersbach
+Sankt Peter am Wallersberg
+Sankt Peter am Wimberg
+Sankt Peter im Sulmtal
+Sankt Peter in der Au Dorf
+Sankt Peter in der Au Markt
+Sankt Peter in Tweng
+Sankt Peter ob Judenburg
+Sankt Peter-Freienstein
+Sankt Pölten
+Sankt Radegund bei Graz
+Sankt Ruprecht an der Raab
+Sankt Salvator
+Sankt Stefan im Rosental
+Sankt Stefan ob Leoben
+Sankt Stefan ob Stainz
+Sankt Ulrich am Pillersee
+Sankt Ulrich am Waasen
+Sankt Ulrich bei Steyr
+Sankt Ulrich im Mühlkreis
+Sankt Valentin-Landschach
+Sankt Veit am Vogau
+Sankt Veit an der Glan
+Sankt Veit an der Gölsen
+Sankt Veit im Mühlkreis
+Sankt Veit im Pongau
+Sankt Veit in der Gegend
+Sankt Wolfgang im Salzkammergut
+Sarasdorf
+Sarleinsbach
+Sarling
+Satteins
+Sattledt
+Sattlgai
+Saubersdorf
+Sauerfeld
+Sausal
+Sautens
+Saxen
+Schachen bei Vorau
+Schachendorf
+Schadneramt
+Schäffern
+Schaftal
+Schafwiesen
+Schalbach
+Schaldorf
+Schalkham
+Schamberg
+Schardenberg
+Schärding
+Schärding Innere Stadt
+Schärding Vorstadt
+Scharndorf
+Scharnitz
+Scharnstein
+Schattendorf
+Schauersberg
+Scheffau am Tennengebirge
+Scheffau am Wilden Kaiser
+Scheffsnoth
+Scheibbs
+Scheiblingkirchen
+Schenkenfelden
+Scherzboden
+Schiedlberg
+Schiefer
+Schiefling am See
+Schildbach
+Schildorn
+Schindau
+Schladming
+Schlag bei Thalberg
+Schlägl
+Schlaiten
+Schleedorf
+Schleifen
+Schleinbach
+Schleissheim
+Schlierbach
+Schlins
+Schlitters
+Schlüsslberg
+Schmidsdorf
+Schmitten
+Schnann
+Schneegattern
+Schnifis
+Schoberegg
+Schöder
+Schöfens
+Schölbing
+Schönau an der Triesting
+Schönau bei Pöllau
+Schönau im Mühlkreis
+Schönberg im Stubaital
+Schönberg-Lachtal
+Schönbühel an der Donau
+Schönering
+Schöngrabern
+Schöngumprechting
+Schönkirchen-Reyersdorf
+Schönwies
+Schoppernau
+Schörfling
+Schörgeneck
+Schottwien
+Schrambach
+Schrattenthal
+Schrems bei Frohnleiten
+Schrick
+Schrötten an der Laßnitz
+Schruns
+Schützen am Gebirge
+Schwaighofen
+Schwaigs
+Schwanberg
+Schwand im Innkreis
+Schwanenstadt
+Schwarzach im Pongau
+Schwarzau am Steinfeld
+Schwarzenbach an der Gölsen
+Schwarzenberg am Böhmerwald
+Schwaz
+Schwechat
+Schweiggers
+Schweinbach
+Schweinz
+Schweizersberg
+Schwemmberg
+Schwemmtratten
+Schwendau
+Schwerbachgegend
+Schwertberg
+Schwoich
+Sebersdorf
+Seckau
+Seebarn am Wagram
+Seebenstein
+Seeboden
+Seefeld in Tirol
+Seefeld Kadolz
+Seeham
+Seekirchen am Wallersee
+Seelach am Klopeinersee
+Seggauberg
+Seibersdorf am Hammerwald
+Seiersberg
+Seisenegg
+Seitenstetten Markt
+Seitzersdorf-Wolfpassing
+Sekull
+Sellrain
+Selpritsch
+Seltschach
+Selzthal
+Semmering
+Semriach
+Semslach
+Senftenberg
+Serfaus
+Seyring
+Sibratsgfäll
+Siebenhaus
+Siedlung
+Siegendorf im Burgenland
+Siegenfeld
+Siegersdorf bei Herberstein
+Sieggraben
+Sieghartskirchen
+Sierndorf
+Sierndorf an der March
+Siezenheim
+Siget in der Wart
+Sigharting
+Sigless
+Sigmundsherberg
+Silberbach
+Silberegg
+Silbertal
+Sillian
+Sillweg
+Silz
+Simmerlach
+Sinabelkirchen
+Sipbachzell
+Sistrans
+Sitzenberg
+Sitzendorf an der Schmida
+Soboth
+Söchau
+Soisgegend
+Sölden
+Söll
+Sollenau
+Sommer
+Sommerein
+Sommersgut
+Sonnental
+Sonnleitberg
+Sonnseite
+Sonntagberg
+Sonnwiesen
+Spannberg
+Spanswag
+Spatenhof
+Spattendorf
+Spielberg bei Knittelfeld
+Spielfeld
+Spillern
+Spital am Pyhrn
+Spital am Semmering
+Spittal an der Drau
+Spitz
+Spratzern
+St Agathen und Perau
+St Anton am Arlberg
+St Gerold
+St Sebastian
+St Veiter Vorstadt
+Staasdorf
+Stadelbach
+Stadl an der Mur
+Stadl-Hausruck
+Stadl-Traun
+Stadtbergen
+Stadtschlaining
+Stafflach
+Stainach
+Stainz
+Stall
+Stallehr
+Stammeregg
+Stams
+Stang bei Hatzendorf
+Stangental
+Stans
+Stanz bei Landeck
+Stanzach
+Stappitz
+Stattersdorf
+Statz
+Statzendorf
+Statzing
+Stegersbach
+Stein an der Donau
+Steinabrückl
+Steinach am Brenner
+Steinakirchen am Forst
+Steinbach am Ziehberg
+Steinbach an der Steyr
+Steinberg an der Rabnitz
+Steinberg bei Ligist
+Steindorf am Ossiacher See
+Steinebrunn
+Steinerkirchen an der Traun
+Steinhaus
+Steinhaus am Semmering
+Steinhäusl
+Steinreib
+Steinwandleiten
+Stephanshart
+Stetteldorf am Wagram
+Steyr
+Steyregg
+Steyrling
+Stiegl
+Stillfried
+Stinatz
+Stiwoll
+Stixenlehen
+Stixneusiedl
+Stöckelweingarten
+Stockerau
+Stocking
+Stögersdorf
+Stollhof
+Stollhofen
+Stoob
+Stöttera
+Stotzing
+Strallegg
+Straning
+Stranzendorf
+Strass im Zillertal
+Straß in Steiermark
+Straßburg-Stadt
+Strassen
+Strassengel
+Straßgang
+Strassham
+Strasshof an der Nordbahn
+Strasswalchen
+Stratzing
+Strem
+Strengen
+Strettweg
+Stribach
+Strienzing
+Stripfing
+Strobl
+Stroheim
+Strohmarkt
+Stronsdorf
+Stubenberg
+Studenzen
+Stuhlfelden
+Stumm
+Stummerberg
+Stumpten
+Stuppach
+Suben
+Suetschach
+Sukdull
+Sulb
+Sulz bei Gleisdorf
+Sulz im Burgenland
+Sulz im Wienerwald
+Summerau
+Tadten
+Tainach
+Taiskirchen im Innkreis
+Takern Eins
+Takern Zwei
+Tallach
+Tallesbrunn
+Tamsweg
+Tannheim
+Tarrenz
+Tarsdorf
+Tattendorf
+Taufkirchen an der Pram
+Taufkirchen an der Trattnach
+Taugl
+Tauka
+Tauplitz
+Taxenbach
+Techanting
+Teesdorf
+Teichstätt
+Teipl
+Telfes im Stubai
+Telfs
+Terfens
+Ternberg
+Ternitz
+Teufelhof
+Texing
+Thal-Aue
+Thalbach
+Thalgauberg
+Thalheim bei Wels
+Thanstetten
+Thaur
+Thaya
+Theiss
+Thening
+Thenneberg
+Theresienfeld
+Thernberg
+Thomasroith
+Thomatal
+Thondorf
+Thoneben
+Thor
+Thumersbach
+Thunau am Kamp
+Thüringen
+Thüringerberg
+Thürnau
+Thürnbuch
+Thurnharting
+Tiefbrunau
+Tiefgraben
+Tieschen
+Tigring
+Tillmitsch
+Tillmitsch Links der Laßnitz
+Tillmitsch Rechts der Laßnitz
+Timelkam
+Timmersdorf
+Tobadill
+Tobelbad
+Tobis
+Tobisegg
+Töbring
+Tolleterau
+Tombach
+Töplitsch
+Torren
+Tösens
+Totzenbach
+Traberg
+Traboch
+Tradigist Dorf
+Trag
+Tragwein
+Traidersberg
+Traisen
+Traiskirchen
+Traismauer
+Trasdorf
+Traun
+Traunfeld
+Traunkirchen
+Traunleiten
+Trausdorf an der Wulka
+Trautmannsdorf an der Leitha
+Trautmannsdorf in Oststeiermark
+Treglwang
+Treibach
+Tresdorf
+Treubach
+Tribuswinkel
+Trieben
+Trimmelkam
+Trins
+Tristach
+Trofaiach
+Tröpolach
+Trumau
+Tschagguns
+Tschedram
+Tschinowitsch
+Tschöran
+Tschurndorf
+Tuderschitz
+Tulbing
+Tulbingerkogel
+Tulfes
+Tulln
+Tullnerbach-Lawies
+Tumeltsham
+Tumpen
+Türkstetten
+Turnau
+Türnitz
+Tux
+Twimberg
+Übelbach
+Übersaxen
+Übersbach
+Uderns
+Ulmerfeld
+Ulrichskirchen
+Umberg
+Umhausen
+Unken
+Unter-Ferlach
+Unter-Oberndorf
+Unterach
+Unterachmann
+Unteramt
+Unterbergern
+Unterburg am Klopeiner See
+Untere Fellach
+Untereisenfeld
+Untereitzing
+Unterfahrenbach
+Unterfeistritz
+Unterfladnitz
+Unterfrauenhaid
+Unterfresen
+Unterfreundorf
+Unterfriesach
+Untergaimberg
+Untergaisbach
+Untergaumberg
+Untergrafendorf
+Untergroßau
+Untergrünburg
+Unterhautzental
+Unterhillinglah
+Unterhöflein
+Unterkolbnitz
+Unterland
+Unterlangenberg
+Unterlangkampfen
+Unterleins
+Unterleithen
+Unterloiben
+Unterlungitz
+Untermallebarn
+Untermarkersdorf
+Untermieming
+Unternalb
+Unterolberndorf
+Unterpetersdorf
+Unterpreitenegg
+Unterpremstätten
+Unterpuchenau
+Unterpullendorf
+Unterpurkla
+Unterrabnitz
+Unterradlberg
+Unterrettenbach
+Unterretzbach
+Unterschützen
+Untersee
+Untersiebenbrunn
+Unterstinkenbrunn
+Untertweng
+Unterwagram
+Unterwaltersdorf
+Unterwart
+Unterweitersdorf
+Unterwölbling
+Unterzögersdorf
+Unzmarkt
+Urgental
+Urreiting
+Urscha
+Utschtal
+Utzenaich
+Vals
+Vandans
+Vasoldsberg
+Veichter
+Veitsch
+Velden am Wörther See
+Vichtenstein
+Viechtwang
+Viehhofen
+Viehofen
+Vienna
+Viertelfeistritz
+Viktorsberg
+Viktring
+Viktringer Vorstadt
+Vill
+Villach
+Villach-Innere Stadt
+Villacher Vorstadt
+Vils
+Virgen
+Vitis
+Vöcklabruck
+Vöcklamarkt
+Vogau
+Voggenberg
+Voitsberg
+Voitsdorf
+Volders
+Volderwald
+Voldöpp
+Völkendorf
+Völkermarkt
+Völkermarkter Vorstadt
+Vollern
+Völs
+Vomp
+Vomperbach
+Vorchdorf
+Vorderbruck
+Vordermuhr
+Vordernberg
+Vorderschneeberg
+Vorderschroffenau
+Vordersdorf
+Vordersee
+Vorderstoder
+Vorderthiersee
+Vorderweissenbach
+Vorstadt
+Vorstandrevier
+Vösendorf
+Wabelsdorf
+Wachsenberg
+Wagenhub
+Wagerberg
+Wagna
+Wagnitz
+Wagrain-Mühltal
+Wagram am Wagram
+Wagram ob der Traisen
+Währing
+Waidendorf
+Waidhofen an der Thaya
+Waidhofen an der Ybbs
+Waidmannsfeld
+Waiern
+Waisenegg
+Waizenkirchen
+Walbersdorf
+Walchsee
+Wald am Arlberg
+Wald am Schoberpaß
+Wald im Pinzgau
+Waldburg
+Waldegg
+Waldhausen im Strudengau
+Waldlesberg
+Waldneukirchen
+Waldprechting
+Waldschach
+Waldzell
+Walkersdorf
+Wallendorf
+Wallern an der Trattnach
+Wallern im Burgenland
+Wallsee
+Walpersbach
+Wals
+Walserberg
+Walserfeld
+Walterskirchen
+Wampersdorf
+Wang
+Wanghausen
+Wankham
+Wanzenöd
+Warmbad-Judendorf
+Wartberg an der Krems
+Wartberg ob der Aist
+Wartmannstetten
+Wasenbruck
+Wasendorf
+Wasserhofen
+Wattenberg
+Wattens
+Weer
+Weerberg
+Weibern
+Weichstetten
+Weiden am See
+Weidenholz
+Weidlingbach
+Weifersdorf
+Weikendorf
+Weikersdorf am Steinfelde
+Weiler
+Weinberg an der Raab
+Weinburg
+Weinburg am Saßbach
+Weingraben
+Weins
+Weissbriach
+Weissenbach am Lech
+Weißenbach an der Enns
+Weissenbach an der Triesting
+Weißenbach bei Liezen
+Weißenkirchen in der Wachau
+Weisskirchen an der Traun
+Weißkirchen in Steiermark
+Weißpriach
+Weistrach
+Weiten
+Weitenbach
+Weitersfeld
+Weitersfeld an der Mur
+Weitersfelden
+Weitra
+Weiz
+Weizelsdorf
+Welgersdorf
+Welten
+Weng im Gesäuse
+Weng im Innkreis
+Weppersdorf
+Werfen
+Werfenweng
+Wernberg
+Werndorf
+Wernstein am Inn
+Westendorf
+Wettmannstätten
+Wetzawinkel
+Wetzelsdorfberg
+Weyerbach
+Weyregg
+Wiener Neudorf
+Wiener Neustadt
+Wiener Vorstadt
+Wienerherberg
+Wienersdorf
+Wieselburg
+Wieselsdorf
+Wiesenfeld
+Wiesersberg
+Wiesmath
+Wildalpen
+Wildenau
+Wildendürnbach
+Wildermieming
+Wildon
+Wildungsmauer
+Wilfersdorf bei Gleisdorf
+Wilfleinsdorf
+Wilhelmsburg
+Willendorf am Steinfelde
+Wilten
+Wimmsiedlung
+Wimpassing an der Leitha
+Wimpassing an der Pielach
+Wimpassing im Schwarzatale
+Wimsbach
+Winden am See
+Windhaag bei Freistadt
+Windhaag bei Perg
+Windigsteig
+Windisch-Minihof
+Windischgarsten
+Winklarn
+Winklern bei Oberwölz
+Wirts
+Wisperndorf
+Wispl
+Wittau
+Wittmannsdorf
+Wolfern
+Wolfgruben bei Gleisdorf
+Wolfpassing an der Hochleithen
+Wolfsberg im Schwarzautal
+Wolfsegg am Hausruck
+Wolfshoferamt
+Wolfsthal
+Wolfurt
+Wolkersdorf im Weinviertel
+Wölzing-Fischering
+Wopfing
+Wördern
+Wörgl
+Wörschach
+Wörterberg
+Wörth an der Lafnitz
+Wörth bei Kirchberg an der Raab
+Wörtherberg
+WÖS
+Wösendorf
+Wulkaprodersdorf
+Wullersdorf
+Wultendorf
+Wulzeshofen
+Wundschuh
+Wünschendorf
+Würflach
+Würmla
+Würmlach
+Würnitz
+Ybbs an der Donau
+Ybbsbachamt
+Ybbsitz
+Ysper
+Zagersdorf
+Zahling
+Zams
+Zankwarn
+Zarnsdorf
+Zaubertal
+Zaunhof
+Zederhaus
+Zehetner
+Zeierling
+Zeil-Pöllau
+Zeillern
+Zeiselmauer
+Zeitling
+Zell am Moos
+Zell am See
+Zell am Ziller
+Zell an der Pram
+Zell-Arzberg
+Zell-Markt
+Zellach
+Zellberg
+Zeller-Fusch
+Zellerndorf
+Zeltweg
+Zemendorf
+Zerlach
+Zetterei
+Zettling
+Zieglstadl
+Ziersdorf
+Zilling
+Zillingdorf
+Zillingdorf-Bergwerk
+Zillingtal
+Zirkitzen
+Zirl
+Zistersdorf
+Zlan
+Zlatten
+Zöbern
+Zöbing
+Zöbing an der Raab
+Zurndorf
+Zwaring
+Zweinitz
+Zwettl an der Rodl
+Zwettl Stadt
+Zwettl Stift
+Zwingendorf
+Zwölfaxing

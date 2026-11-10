@@ -1,0 +1,5000 @@
+Ostraya	183
+Lysaya	181
+Ploskaya	117
+Kruglaya	113
+Vysokaya	113
+Gorelaya	99
+Krutaya	99
+Kamennaya	86
+Medvezh'ya	78
+Golaya	74
+Berëzovaya	67
+Lesnaya	67
+Skalistaya	61
+Kamenistaya	59
+Belaya	58
+Chërnaya	53
+Pologaya	50
+Pereval'naya	47
+Otdel'naya	46
+Dubovaya	44
+Mayak	42
+Khrebtovaya	40
+Tumannaya	40
+Bol'shaya	38
+Kupol	38
+Dlinnaya	37
+Yagodnaya	37
+Otkrytaya	36
+Konus	35
+Krasnaya	34
+Dal'nyaya	33
+Malinovaya	33
+Obzornaya	32
+Otrog	32
+Uglovaya	32
+Kedrovaya	31
+Osinovaya	31
+Tsentral'naya	31
+Shirokaya	30
+Sosnovaya	30
+Srednyaya	30
+Stlanikovaya	30
+Chistaya	29
+Krestovaya	29
+Mezhdurechnaya	29
+Sinyaya	29
+Bezymyannaya	28
+Brusnichnaya	28
+Zmeinaya	28
+Lipovaya	27
+Ozërnaya	27
+Verblyud	27
+Sukhaya	26
+Dvoynaya	25
+Komandnaya	25
+Olen'ya	25
+Orlinaya	25
+Povorotnaya	25
+Yelovaya	25
+Granichnaya	24
+Kamen	24
+Stolovaya	24
+Mayachnaya	23
+Odinokaya	23
+Snezhnaya	23
+Zelënaya	23
+Mokhovaya	22
+Vesëlaya	22
+Svetlaya	21
+Vidnaya	21
+Obryv	20
+Severnaya	20
+Skal'naya	20
+Barachnaya	19
+Greben	19
+Shpil	19
+Nizkaya	18
+Orekhovaya	18
+Podkova	18
+Tolstaya	18
+Yuzhnaya	18
+Dolgaya	17
+Mayskaya	17
+Mezhdurech'ye	17
+Vostochnaya	17
+Ostantsovaya	16
+Oval'naya	16
+Sapun	16
+Sinyukha	16
+Skala	16
+Vodorazdel'naya	16
+Yasnaya	16
+Zolotaya	16
+Golets	15
+Kamenushka	15
+Klyuchevaya	15
+Listvennaya	15
+Peschanaya	15
+Plato	15
+Sedlo	15
+Tëmnaya	15
+Zarechnaya	15
+Kovrizhka	14
+Lis'ya	14
+Poperechnaya	14
+Shapka	14
+Utës	14
+Gorbataya	13
+Ostanets	13
+Rechnaya	13
+Signal'naya	13
+Soldatskaya	13
+Ugol'naya	13
+Zametnaya	13
+Beregovaya	12
+Dvugorbaya	12
+Kaban'ya	12
+Krestovka	12
+Shaman	12
+Solnechnaya	12
+Uzkaya	12
+Vstrechnaya	12
+Belyy Kamen	11
+Gar	11
+Mokhnataya	11
+Primetnaya	11
+Sakharnaya	11
+Storozhevaya	11
+Tëplaya	11
+Uzlovaya	11
+Verkhnyaya	11
+Volch'ya	11
+Zabytaya	11
+Dvuglavaya	10
+Kraynyaya	10
+Lagernaya	10
+Listvyanka	10
+Malaya	10
+Mysovaya	10
+Oblachnaya	10
+Orël	10
+Sokhatinaya	10
+Troynaya	10
+Vyshka	10
+Figurnaya	9
+Istok	9
+Kamennyy	9
+Kholodnaya	9
+Krasivaya	9
+Kurgan	9
+Obryvistaya	9
+Piramida	9
+Priozërnaya	9
+Shishka	9
+Sobolinaya	9
+Strelka	9
+Tayëzhnaya	9
+Tochil'naya	9
+Bolotnaya	8
+Dorozhnaya	8
+Glukhaya	8
+Granitnaya	8
+Gugda	8
+Ivanova	8
+Khvoynaya	8
+Klenovaya	8
+Kolokol'nya	8
+Krivaya	8
+Mokraya	8
+Mutnaya	8
+Osinovyy	8
+Pasechnaya	8
+Pikhtovaya	8
+Pridorozhnaya	8
+Rovnaya	8
+Sakharnaya Golova	8
+Sedaya	8
+Skalistyy	8
+Sredniy	8
+Staraya	8
+Tikhaya	8
+Udachnaya	8
+Verblyuzh'ya	8
+Vinogradnaya	8
+Zapadnaya	8
+Zarod	8
+Zarosshaya	8
+Zayach'ya	8
+Belka	7
+Birandya	7
+Blizhnyaya	7
+Bol'shoy Kamen	7
+Bystraya	7
+Dikaya	7
+Dva Brata	7
+Gladkaya	7
+Gorelyy	7
+Istochnaya	7
+Kamenka	7
+Kamyshovaya	7
+Kazach'ya	7
+Komsomol'skaya	7
+Konechnaya	7
+Kovriga	7
+Listvennichnaya	7
+Lokhmataya	7
+Mar	7
+Nebesnaya	7
+Novaya	7
+Ol'khovaya	7
+Pionerskaya	7
+Pleshivaya	7
+Ploskiy	7
+Pribrezhnaya	7
+Prirechnaya	7
+Pryamaya	7
+Rassypnaya	7
+Razdel'naya	7
+Razvilok	7
+Rossyp	7
+Rossypnaya	7
+Shikhan	7
+Studënaya	7
+Sypuchaya	7
+Tigrovaya	7
+Ustup	7
+Vetvistaya	7
+Vodorazdel	7
+Zubets	7
+Zverinaya	7
+Amba	6
+Baran'ya	6
+Barsuch'ya	6
+Bezvodnaya	6
+Blin	6
+Blizkaya	6
+Bogatyr	6
+Bugor	6
+Bugristaya	6
+Chalpan	6
+Dubovyy	6
+El'ga	6
+Gol'tsovaya	6
+Golubichnaya	6
+Gornaya	6
+Grusha	6
+Kabarga	6
+Karaul'naya	6
+Kholm	6
+Klin	6
+Kopna	6
+Koz'ya	6
+Krasnyy Kamen	6
+Kudryavaya	6
+Los	6
+Monakh	6
+Mramornaya	6
+Murav'inaya	6
+Nikolayeva	6
+Opasnaya	6
+Osyp	6
+Otlogaya	6
+Partizanskaya	6
+Pëstraya	6
+Petrovskaya	6
+Popova	6
+Povorot	6
+Rudnaya	6
+Saray	6
+Shakhan	6
+Shamanka	6
+Sokol	6
+Sokolinaya	6
+Sosnovka	6
+Sovetskaya	6
+Spornaya	6
+Stolby	6
+Surimyaki	6
+Talaya	6
+Tri Brata	6
+Troyka	6
+Vechernyaya	6
+Vetrenaya	6
+Veyer	6
+Vishnëvaya	6
+Yankan	6
+Zvezda	6
+Ararat	5
+Bambukovaya	5
+Belich'ya	5
+Belukha	5
+Berëzovyy	5
+Bliznetsy	5
+Bol'shoy	5
+Bomba	5
+Borovaya	5
+Burelomnaya	5
+Chayka	5
+Chaynaya	5
+Chërtova	5
+Chubataya	5
+Dalëkaya	5
+Domashnyaya	5
+Dozhdevaya	5
+Dozornaya	5
+Druzhba	5
+Glubokaya	5
+Griva	5
+Gryaznaya	5
+Gusinaya	5
+Izvestkovaya	5
+Karatash	5
+Kekurnaya	5
+Khmuraya	5
+Kholmistaya	5
+Konusnaya	5
+Kosaya	5
+Krasnaya Gorka	5
+Krepostnaya	5
+Kruglen'kaya	5
+Krylova	5
+Kurung	5
+Kvartsevaya	5
+Lunnaya	5
+Magnitnaya	5
+Mechta	5
+Mustamyaki	5
+Nakhodka	5
+Nepristupnaya	5
+Neudachnaya	5
+Okhotnich'ya	5
+Oriyentirnaya	5
+Ostrukha	5
+Ovrazhnaya	5
+Palomyaki	5
+Pervaya	5
+Piramidal'naya	5
+Podnebesnaya	5
+Pogranichnaya	5
+Poslednyaya	5
+Ramka	5
+Shirokiy	5
+Signal	5
+Siniy	5
+Sirotinka	5
+Solontsovaya	5
+Sovkhoznaya	5
+Spokoynaya	5
+Stanovik	5
+Stlanik	5
+Tala	5
+Trëkhglavaya	5
+Tri Sestry	5
+Trudnaya	5
+Ugryumaya	5
+Ulan-Khada	5
+Ulutau	5
+Ust'ye	5
+Utanak	5
+Uval	5
+Valun	5
+Vasil'yeva	5
+Vulkan	5
+Yamantau	5
+Yubileynaya	5
+Zaozërnaya	5
+Zhëltaya	5
+Akbiik	4
+Alekseyevskaya	4
+Ambon	4
+Arshan	4
+Artyk	4
+Ata	4
+Babushka	4
+Baranova	4
+Bayan	4
+Berëzka	4
+Berezovaya	4
+Berkut	4
+Bludnaya	4
+Bokovaya	4
+Bol'nichnaya	4
+Burgali	4
+Chërnaya Griva	4
+Chernichnaya	4
+Chërnyy	4
+Cherskogo	4
+Divnaya	4
+Dubrava	4
+Dvukhvershinnaya	4
+Dymchataya	4
+Evuri	4
+Geolog	4
+Glavnaya	4
+Glukharinaya	4
+Gnilaya	4
+Golubaya	4
+Gorodishche	4
+Gribnaya	4
+Gryada	4
+Igla	4
+Ivanovskaya	4
+Izyubrinaya	4
+Kaban	4
+Kamenistyy	4
+Kamennyye	4
+Kedrovka	4
+Khrustal'naya	4
+Kolkhoznaya	4
+Kolokol	4
+Komarinaya	4
+Korkeamyaki	4
+Kotimyaki	4
+Krasnyy Yar	4
+Krasnyye	4
+Krepost	4
+Krysha	4
+Kuznetsova	4
+Losinaya	4
+Lugovaya	4
+Lugovoy	4
+Lysukha	4
+Makit	4
+Malyutka	4
+Medved	4
+Medvezhiy	4
+Mel'nichnaya	4
+Mezhdurechnyy	4
+Monastyr	4
+Myakryamyaki	4
+Mys	4
+Nadezhda	4
+Neftyanaya	4
+Nenastnaya	4
+Nezametnaya	4
+Nosorog	4
+Obon	4
+Opornaya	4
+Orlova	4
+Ostryak	4
+Ostryy	4
+Otvesnaya	4
+Ozhidaniya	4
+Pervomayskaya	4
+Pesochnaya	4
+Petushok	4
+Pikovaya	4
+Polovinka	4
+Poperechnyy	4
+Postovaya	4
+Primorskaya	4
+Pritok	4
+Prosechnaya	4
+Razdol'naya	4
+Razluka	4
+Razrytaya	4
+Redkaya	4
+Romb	4
+Ryabaya	4
+Sablya	4
+Seraya	4
+Shamanskaya	4
+Shumnaya	4
+Skat	4
+Skrytaya	4
+Sokolova	4
+Sololi	4
+Sosnovyy	4
+Sovinaya	4
+Starukha	4
+Stlanikovyy	4
+Strazh	4
+Stupenchataya	4
+Stvornaya	4
+Sukhostoynaya	4
+Svistun	4
+Taryn	4
+Tatarka	4
+Tolstyy Mys	4
+Tropa	4
+Tumannyy	4
+Tupaya	4
+Tur	4
+Tura	4
+Ural'skaya	4
+Utinaya	4
+Uval'naya	4
+Valunnaya	4
+Velikaya	4
+Vesennyaya	4
+Vodopadnaya	4
+Vodorazdel'nyy	4
+Vysokiy	4
+Yagel'naya	4
+Zaoblachnaya	4
+Zavitaya	4
+Zimnyaya	4
+Zubchataya	4
+Aelita	3
+Ak-Dag	3
+Alatau	3
+Allara	3
+Antonova	3
+Antonovka	3
+Archikoy	3
+Arsen'yeva	3
+Astra	3
+Aykha	3
+Baran	3
+Baranikha	3
+Barka	3
+Barkhatnaya	3
+Barun	3
+Bashnya	3
+Baysa	3
+Baza	3
+Bazisnaya	3
+Belki	3
+Belkina	3
+Beregovoy	3
+Bereya	3
+Berëzhnaya	3
+Biket	3
+Blagodat	3
+Bogataya	3
+Boguchan	3
+Bol'shaya Griva	3
+Bolvanskaya	3
+Bori	3
+Borovskaya	3
+Bulka	3
+Bulochka	3
+Burnaya	3
+Burul	3
+Burunduk	3
+Byk	3
+Byuko	3
+Chalbuk	3
+Cheremshovaya	3
+Churin	3
+Chuvakan	3
+Daban	3
+Dal'niy	3
+Dedova	3
+Devyataya Pyatnitsa	3
+Dobraya	3
+Dozhdlivaya	3
+Duga	3
+Dulismar	3
+Dzhugdzhur	3
+Ezop	3
+Gari	3
+Giga	3
+Glinyanaya	3
+Glyaden	3
+Golodnaya	3
+Golova	3
+Golubinaya	3
+Golyy Mys	3
+Gorodok	3
+Gorokhovaya	3
+Goryachaya	3
+Groza	3
+Gugdan	3
+Guran	3
+Gurguli	3
+Igarna	3
+Ilikan	3
+Ispolin	3
+Izgib	3
+Kadaga	3
+Kamennik	3
+Kamenskaya	3
+Kameshek	3
+Kamni	3
+Kan	3
+Kana	3
+Kapcha	3
+Karakaya	3
+Karatau	3
+Karpinskogo	3
+Kavinka	3
+Kazan	3
+Khaptagay	3
+Kholbolokh	3
+Khoy	3
+Kit	3
+Klyuch	3
+Klyuchevskaya	3
+Klyuchi	3
+Koldun	3
+Komsomolka	3
+Kopanets	3
+Kopka	3
+Kozlinaya	3
+Kozmer	3
+Krasnaya Skala	3
+Krest	3
+Krivun	3
+Kropotkina	3
+Krucha	3
+Krutoy	3
+Krutyak	3
+Kryazh	3
+Kucheryavaya	3
+Kumroch	3
+Kurchan	3
+Kurdat	3
+Kurgannaya	3
+Kuropatka	3
+Kustarnik	3
+Kutsaya	3
+Kuznechnaya	3
+Lavlya	3
+Lazareva	3
+Ledovaya	3
+Leninskaya	3
+Lesistaya	3
+Lesnoy	3
+Linnamyaki	3
+Listvyanaya	3
+Lomonosova	3
+Loukhivara	3
+Luch	3
+Lukovaya	3
+Magan	3
+Makarova	3
+Malen'kaya	3
+Mar'yamyaki	3
+Mashak	3
+Mashuk	3
+May	3
+Mayorskaya	3
+Medovaya	3
+Medvedka	3
+Medvezhka	3
+Mevaya	3
+Mira	3
+Mogil'naya	3
+Morskaya	3
+Moskovskaya	3
+Naled	3
+Neizvestnaya	3
+Nikitina	3
+Nikol'skaya	3
+Nyut	3
+Obotuy	3
+Obrublennaya	3
+Ogorodnaya	3
+Ol'khovka	3
+Olen	3
+Oleniy	3
+Oriyentir	3
+Orlan	3
+Osennyaya	3
+Ostrets	3
+Oval	3
+P'yanaya	3
+Palanutmyaki	3
+Partizanskiy	3
+Peschanka	3
+Pestraya	3
+Pet'kina	3
+Petra	3
+Petra Shmidta	3
+Pikhtach	3
+Pirog	3
+Plekhan	3
+Pobeda	3
+Podkamennaya	3
+Polevaya	3
+Polosataya	3
+Polovinnaya	3
+Polyus	3
+Pribrezhnyy	3
+Primorskiy	3
+Prodol'naya	3
+Pronina	3
+Proseka	3
+Proshchal'naya	3
+Ptich'ya	3
+Puri	3
+Razlom	3
+Rebristaya	3
+Ritamyaki	3
+Riuttamyaki	3
+Rodnikovaya	3
+Russkaya	3
+Ryadovaya	3
+Ryzhaya	3
+Sadovaya	3
+Sakharnaya Golovka	3
+Saldys	3
+Sbornaya	3
+Sennaya	3
+Sergeyevka	3
+Sestra	3
+Shalash	3
+Shestaya	3
+Shkol'naya	3
+Shuluta	3
+Shutka	3
+Sirota	3
+Sirotka	3
+Sivukha	3
+Sizaya	3
+Slavy	3
+Sliyaniye	3
+Sluchaynaya	3
+Slyudyanaya	3
+Smol'naya	3
+Sobol	3
+Sokhatka	3
+Sopochnaya	3
+Sputnik	3
+Stanovaya	3
+Stol	3
+Stolbovaya	3
+Stopka	3
+Stozhok	3
+Strela	3
+Suntar-Khayata	3
+Sur'ya	3
+Surkh	3
+Surovaya	3
+Suslova	3
+Syrt	3
+Tabornaya	3
+Talakan	3
+Talovaya	3
+Tatarskaya	3
+Teplukha	3
+Terskiy	3
+Tolstukha	3
+Troitskaya	3
+Tsagan-Daban	3
+Tsagan-Undur	3
+Tundrovaya	3
+Tupik	3
+Turiy Rog	3
+Turuk	3
+Tyazhëlaya	3
+Udobnaya	3
+Ukikan	3
+Ul'yanovka	3
+Undur	3
+Ural	3
+Urkan	3
+Usmun	3
+Ustupnaya	3
+Utësnaya	3
+Utyug	3
+Uval Anuyskiy	3
+Vekha	3
+Venets	3
+Verkhov'ye	3
+Vernaya	3
+Vostochnyy	3
+Vostrukha	3
+Vtoraya	3
+Vyalimyaki	3
+Vyazovaya	3
+Vyrubka	3
+Vys	3
+Yakutskaya	3
+Yastrebinaya	3
+Yelan	3
+Yelban	3
+Yuzhnyy Otrog	3
+Zagadka	3
+Zakrytaya	3
+Zapadnyy	3
+Zapovednaya	3
+Zaval'naya	3
+Zelënaya Griva	3
+Zelënyy	3
+Zerkal'naya	3
+Zheleznaya	3
+Zmeyka	3
+Abdrakhmanova	2
+Abon	2
+Abrek	2
+Abua	2
+Achishkho	2
+Afanas'yeva	2
+Agachan	2
+Aishkha	2
+Aktash	2
+Akvilon	2
+Ala	2
+Alaglya	2
+Aleksandrovskaya	2
+Alekseyevskiy	2
+Almaznaya	2
+Alochka	2
+Alous	2
+Altdasar	2
+Ambarchan	2
+Ambarnaya	2
+Amkandya	2
+Ammonal'naya	2
+Ampardak	2
+Amuko	2
+Amurskaya	2
+Anikina	2
+Anna	2
+Ardakty	2
+Argaskit	2
+Argoley	2
+Arik	2
+Arka	2
+Arkhar	2
+Armeyskaya	2
+Atos	2
+Atykan	2
+Auliya	2
+Avalyak	2
+Avlan	2
+Avlandya	2
+Avlayakan	2
+Avsa	2
+Ayrak	2
+Baba	2
+Babushkina	2
+Badata	2
+Baklan'ya	2
+Balaganchik	2
+Balagannaya	2
+Baldinskiye Gol'tsy	2
+Banduk	2
+Baraniy Lob	2
+Baranovka	2
+Barkova	2
+Barza	2
+Bastylam	2
+Batareynaya	2
+Bay-Sultan	2
+Bazal	2
+Beket	2
+Bel'chir	2
+Bel'tsova	2
+Belen'kaya	2
+Belousova	2
+Belyy	2
+Belyye	2
+Berëzovka	2
+Berëzovyy Uval	2
+Berkhutlimeer	2
+Beshtau	2
+Bezlesnaya	2
+Bezymyannyy	2
+Bigil'da	2
+Biiktau	2
+Biktar	2
+Bira	2
+Blednaya	2
+Bogomol'naya	2
+Bogorodskiye	2
+Bol'shaya Karaul'naya	2
+Bol'shaya Shishka	2
+Bol'shevik	2
+Bol'shoy Anngachak	2
+Bol'shoy Golets	2
+Bol'shoy Khekhtsir	2
+Bol'shoy Otrog	2
+Bol'shoy Sayan	2
+Bol'shoy Shatak	2
+Bol'shoy Uval	2
+Bol'shoye Sedlo	2
+Bolbanskaya	2
+Bole	2
+Bom	2
+Borindzha	2
+Boriska	2
+Borodavka	2
+Borodinskaya	2
+Borogon	2
+Borovik	2
+Borshchovochnyy	2
+Bosko	2
+Botago	2
+Bravaya	2
+Britaya	2
+Brus	2
+Bryanskaya	2
+Budarka	2
+Budukan	2
+Bugar	2
+Bugdaya	2
+Bugdoya	2
+Bugor Dolgiy	2
+Bugor Kamennyy	2
+Bugundya	2
+Bukhta	2
+Bunya	2
+Bur	2
+Bura	2
+Burelom	2
+Burelomnyy	2
+Bureya	2
+Burgala	2
+Burlova	2
+Burpala	2
+Butakova	2
+Butsrakh	2
+Buyan	2
+Buyanikha	2
+Buynaya	2
+Byki	2
+Byrayy	2
+Bystrinskiy	2
+Bzych	2
+Chaban	2
+Chagidak	2
+Chaldonka	2
+Chan	2
+Chayatyn	2
+Cheborkan	2
+Chegembashi	2
+Chekhova	2
+Chelipsi	2
+Chelpan	2
+Cheremshanskaya	2
+Cherëmukhovyy	2
+Cherepakha	2
+Cherge	2
+Cherkes	2
+Cherkesovka	2
+Chernaya	2
+Chërnaya Skala	2
+Chernyshëva	2
+Chernyy Kamen	2
+Chërnyy Shakhan	2
+Chërtov Utës	2
+Chesnokova	2
+Chichikan	2
+Chkalova	2
+Chogar	2
+Chongyz-Tayga	2
+Chonkatau	2
+Chubandzha	2
+Chubukulakh	2
+Chugunka	2
+Chuk	2
+Chul'bat	2
+Chumakova	2
+Chumikachan	2
+Chuzhaya	2
+Dabata	2
+Dagdy	2
+Dal'zha	2
+Damalda	2
+Daneduk	2
+Danilova	2
+Dar	2
+Daur	2
+Dayany	2
+Daykan	2
+Ded	2
+Degi	2
+Demon	2
+Denisovka	2
+Dër	2
+Derbi	2
+Dikiy	2
+Dolgiy	2
+Dolinnaya	2
+Donskaya	2
+Drovyanaya	2
+Druza	2
+Druzhnaya	2
+Dubok	2
+Dul'kova	2
+Dulan-Khara	2
+Dulga	2
+Dumnaya	2
+Dvukhgorbaya	2
+Dvukhsopochnaya	2
+Dvurechnaya	2
+Dymnaya	2
+Dymni	2
+Dyrovatyy Kamen	2
+Dyukal'ke	2
+Dyul'tydag	2
+Dyvali	2
+Dzhagdy	2
+Dzhentu	2
+Dzhufudag	2
+Dzhyalmi	2
+Egden	2
+Eksan	2
+El'bashi	2
+El'gakan	2
+El'ge	2
+Elin	2
+Eran	2
+Faddeya	2
+Fartovaya	2
+Fëdorovka	2
+Fersmana	2
+Freyberga	2
+Gaburshi	2
+Gagomeer	2
+Galechnaya	2
+Gamchen	2
+Gavanskaya	2
+Gaylyar	2
+Gekan	2
+Geran	2
+Gerasimova	2
+Gerkules	2
+Germes	2
+Gilirgan	2
+Gimrinskiy	2
+Gipchan	2
+Gladnaya	2
+Gladukha	2
+Glavnyy	2
+Glinskaya	2
+Glyba	2
+Gogdakta	2
+Gol'chik	2
+Gol'tsy	2
+Golets Kirel'skiy	2
+Golets Ortsek	2
+Golets Skalistyy	2
+Golgofa	2
+Gomel'skaya	2
+Gorbatyy	2
+Gorbilya	2
+Gorbun	2
+Gorbun-Tologoy	2
+Gorbusha	2
+Gordeyevskaya	2
+Gorgundya	2
+Gorki	2
+Granit	2
+Granitsa	2
+Gremyakha	2
+Grib	2
+Griva Belaya	2
+Griva Berëzovaya	2
+Griva Popova	2
+Griva Prokhodnaya	2
+Gromada	2
+Gromova	2
+Gromovaya	2
+Grot	2
+Grozovaya	2
+Gryadovaya	2
+Gualkum	2
+Guama	2
+Guberlinskiye	2
+Gula	2
+Gur	2
+Gurbi-Daban	2
+Guseva	2
+Gustaya	2
+Gutarskiy	2
+Gvardeyskaya	2
+Gyrituy	2
+Igarka	2
+Ikondya	2
+Iktanda	2
+Il'inskaya	2
+Ilimskiy	2
+Imangda	2
+Inal	2
+Inzhenernaya	2
+Iren	2
+Irendyk	2
+Istoki	2
+Itsyl	2
+Ivan	2
+Iyegosh	2
+Iyul'skaya	2
+Izumrud	2
+Izvilistaya	2
+Kabanukha	2
+Kachkortash	2
+Kadar	2
+Kadaya	2
+Kakeuukekton-Tunup	2
+Kalancha	2
+Kalatau	2
+Kalinovaya	2
+Kalra	2
+Kamchatskogo Mysa	2
+Kamennaya Gryada	2
+Kamennyy Belok	2
+Kamennyy Greben	2
+Kamennyy Mys	2
+Kamennyy Venets	2
+Kamennyye Stolby	2
+Kamenukha	2
+Kamuy	2
+Kandakhar	2
+Kandyk	2
+Kantegirskiy	2
+Kar'yernaya	2
+Karabon	2
+Karagan	2
+Karakh	2
+Karatëbe	2
+Karatyube	2
+Karaul	2
+Karaultau	2
+Karaultyube	2
+Karkal'tuy	2
+Karlygan	2
+Karmashchuk	2
+Karpaty	2
+Kashkatau	2
+Kashkerlam	2
+Katun	2
+Kauravara	2
+Kavykta	2
+Kazachka	2
+Kazanskiy Kamen	2
+Kazënnaya	2
+Kedrach	2
+Kedrovyy	2
+Kekhkuy	2
+Kenkeren	2
+Ket-Kap	2
+Ketepana	2
+Khabsagay	2
+Khakchan	2
+Khalan	2
+Khalani	2
+Khamar-Daban	2
+Khan	2
+Khan-Burgut	2
+Khan-Ula	2
+Khanda	2
+Khansyn	2
+Khapchagay	2
+Khara-Khada	2
+Kharyyalakh	2
+Khastakh	2
+Khatyryk	2
+Khaukkavuori	2
+Khepomyaki	2
+Khetandya	2
+Khibiny	2
+Khinike	2
+Khitraya	2
+Khodvtsek	2
+Khok	2
+Khokhyurta	2
+Kholmy	2
+Kholodnyy	2
+Khomi	2
+Khoso	2
+Khukhe-Baysa	2
+Khurgabek	2
+Khurun	2
+Khushun	2
+Kinzelyukskiy	2
+Kiran	2
+Kires	2
+Kirillovka	2
+Kirioti	2
+Kirkkomyaki	2
+Kirpichnaya	2
+Kirsa	2
+Kitoy-Kinskiy	2
+Klinovaya	2
+Klubnichnaya	2
+Klyk	2
+Kobyla	2
+Kocherga	2
+Kokkosenmyaki	2
+Kolba	2
+Kolokol'naya	2
+Kolpak	2
+Kolyuchaya	2
+Komendantskaya	2
+Komsomol'skiy	2
+Kondi	2
+Konkuli	2
+Konnunmyaki	2
+Konovalovskiy Uval	2
+Konso	2
+Konstantin	2
+Korabl	2
+Korilam	2
+Korkeasel'kya	2
+Korolevskaya	2
+Korotkaya	2
+Koryagina	2
+Koshkina	2
+Kosmatskiye Sopki	2
+Kosogor	2
+Kostër	2
+Kostina	2
+Kotël	2
+Kozlova	2
+Krasnoarmeyskaya	2
+Krasnukha	2
+Kreml	2
+Krepkaya	2
+Kroshka	2
+Kruglik	2
+Kruglyy Kamen	2
+Krugovaya	2
+Kruten'kaya	2
+Krutobokaya	2
+Krutoyar	2
+Krylataya	2
+Kryuk	2
+Kukan	2
+Kuksha	2
+Kukul'bey	2
+Kukur	2
+Kukushka	2
+Kulakova	2
+Kulëmnaya	2
+Kuliga	2
+Kulimeer	2
+Kulinda	2
+Kultuchnaya	2
+Kumus	2
+Kunaleyskiy	2
+Kunduy	2
+Kur-Urmiyskiy	2
+Kura	2
+Kuren	2
+Kurgashka	2
+Kurkak	2
+Kurortnaya	2
+Kutu	2
+Kutuzovskaya	2
+Kuznets	2
+Kvadratnaya	2
+Kvarkush	2
+Kyabyaktepe	2
+Kysyl-Khaya	2
+Kyurelam	2
+Kyzyl-Tayga	2
+Kyzyltash	2
+L'vovskaya	2
+Lakeamyaki	2
+Landysh	2
+Landyshi	2
+Lapa	2
+Lapina	2
+Lednikovaya	2
+Ledyanaya	2
+Lenikort	2
+Lesosechnaya	2
+Levaya	2
+Levinsona-Lessinga	2
+Liman	2
+Linkir	2
+Lipovyye	2
+Lisichka	2
+Listvyannaya	2
+Lobnaya	2
+Lom	2
+Lopatina	2
+Lopatinka	2
+Lucha	2
+Lukina	2
+Lurikan	2
+Luvengskiye Tundry	2
+Luza	2
+Luzanova	2
+Lysen'kaya	2
+Lysyy Ded	2
+Lysyye	2
+Lyurchan	2
+Magisho	2
+Makarovskiy	2
+Maksimova	2
+Maksimovka	2
+Malakhay	2
+Malaya Karaul'naya	2
+Malinovskogo	2
+Malinovyy	2
+Malkhanskiy	2
+Maltan	2
+Malysh	2
+Malyshka	2
+Malyy Anngachak	2
+Malyy Taganay	2
+Malyy Ural	2
+Marina	2
+Markopidzh	2
+Masim	2
+Maslyanaya	2
+Mat	2
+Mayaktau	2
+Maymakan	2
+Maynatkhys	2
+Mayskiy	2
+Meduza	2
+Medvezhiy Bugor	2
+Medvezhiy Log	2
+Mërtvaya	2
+Metegyn	2
+Mevakan	2
+Mezha	2
+Mezhevaya	2
+Mikheyeva	2
+Mirnaya	2
+Mit'kina	2
+Mivaki	2
+Mizlakau	2
+Mnogoglavaya	2
+Mnogovershinnaya	2
+Moguchaya	2
+Mogul'tsak	2
+Mokhovoy	2
+Molennaya	2
+Monakino	2
+Monastyrskaya	2
+Mordlam	2
+Morennaya	2
+Morzhovaya	2
+Moshkovskaya	2
+Moskva	2
+Mrachnaya	2
+Mshistaya	2
+Mukhina	2
+Multamyaki	2
+Mus	2
+Musat-Cheri	2
+Mustavara	2
+Mustikkamyaki	2
+Myrgen	2
+Nablyudeniya	2
+Nachal'naya	2
+Nadporozhnaya	2
+Nagornykh	2
+Nagoy-Chuk	2
+Naklonnaya	2
+Nal'di	2
+Nal'gidyak	2
+Naldyndya	2
+Nalednaya	2
+Namchi	2
+Namundya	2
+Narcho	2
+Nedostupnaya	2
+Nekuchan	2
+Nelim	2
+Nemuykan	2
+Neozhidannaya	2
+Neroyka	2
+Nesterova	2
+Nët	2
+Nevel'skogo	2
+Ngeku	2
+Nikolayevka	2
+Nikolayevskiy	2
+Nimar	2
+Ninimyaki	2
+Niran	2
+Nirunda	2
+Nivukh	2
+Nizhnyaya	2
+Nochleg	2
+Nochnaya	2
+Nokhoni	2
+Nord	2
+Norka	2
+Nos	2
+Nukatl	2
+Nurmitunturi	2
+Obrucheva	2
+Odinochnaya	2
+Odnobokaya	2
+Okcho	2
+Okdosoko	2
+Okhotnikov	2
+Okhotskaya	2
+Oktyabr'skaya	2
+Ol'dini	2
+Olchan	2
+Olongro	2
+Olovyannaya	2
+Omal'skiy	2
+Opushka	2
+Orlovka	2
+Orogo	2
+Orta-Gidam	2
+Ostren'kaya	2
+Ostrushka	2
+Ostryy Shpil	2
+Osypnaya	2
+Otlogiy	2
+Otradnaya	2
+Otrogaya	2
+Otrogovaya	2
+Otstoy	2
+Ottokhtokh	2
+Otval	2
+Ovod	2
+Ovsyannikova	2
+Oykanër	2
+Palati	2
+Palenaya	2
+Panikha	2
+Panskaya	2
+Papinmyaki	2
+Parshina	2
+Parusnaya	2
+Pasmurnaya	2
+Pastbishchnyy	2
+Pastukhova	2
+Pavlova	2
+Pavlovicha	2
+Pchëlka	2
+Pemzovaya	2
+Perenosnaya	2
+Pereput'ye	2
+Pereval'nyy	2
+Peshchernaya	2
+Pestsovaya	2
+Petrova	2
+Petrovka	2
+Pikhtun	2
+Pil'vo	2
+Pinda	2
+Pindar	2
+Pirat	2
+Pitkyakallio	2
+Pitkyamyaki	2
+Pitkyavara	2
+Plakun	2
+Platforma	2
+Platon	2
+Plavnaya	2
+Ploshchadka	2
+Pobedy	2
+Podgornaya	2
+Podi	2
+Podichi	2
+Podsobnaya	2
+Pogorelaya	2
+Polkan	2
+Pologiy	2
+Polovinkina	2
+Poltavka	2
+Poludennaya	2
+Polyana	2
+Polyarnaya	2
+Popovka	2
+Porog	2
+Poroka	2
+Pravaya	2
+Predgor'ye	2
+Prigranichnaya	2
+Priisk	2
+Priiskovaya	2
+Pritochnaya	2
+Promadey	2
+Pshaf	2
+Pustaya	2
+Pustynnaya	2
+Pykhti	2
+Pyrkanay	2
+Pyrkanayyan	2
+Pyrkatagyn	2
+Radost	2
+Rasput'ye	2
+Rassokha	2
+Rassoshina	2
+Ratsitl	2
+Raukkianmyaki	2
+Razboy	2
+Razliv	2
+Razval	2
+Redkoles'ye	2
+Repomyaki	2
+Rikhimyaki	2
+Ristimyaki	2
+Rogachëva	2
+Rogataya	2
+Rok	2
+Romanovskaya	2
+Romashka	2
+Rossypi	2
+Rubin	2
+Rubtsy	2
+Rucheykovaya	2
+Rukhumeer	2
+Rybach'ya	2
+Rys	2
+Sadyrlyar	2
+Sagdy	2
+Sail	2
+Sakharbak	2
+Salali	2
+Salatau	2
+Saloli	2
+Samurskiy	2
+Sanga	2
+Sapaskallio	2
+Sapërnaya	2
+Sapog	2
+Saratovskaya	2
+Saraynaya	2
+Sarenmyaki	2
+Sargaya	2
+Saribaku	2
+Saryoba	2
+Savinskaya	2
+Sed'maya	2
+Sedlovataya	2
+Sedova	2
+Selemdzhinskiy	2
+Seliverstova	2
+Semendya	2
+Semënova	2
+Sen'kina	2
+Serebristaya	2
+Serekay	2
+Sergeyev Gay	2
+Sergeyevskaya	2
+Sernaya	2
+Serp	2
+Setan'ya	2
+Severnyy	2
+Shalib	2
+Shalygi	2
+Shara-Undur	2
+Shat	2
+Shatër	2
+Shatrovaya	2
+Shaytan	2
+Shcherbakova	2
+Shchëtka	2
+Shchit	2
+Shchuch'i	2
+Shchukina	2
+Shebunina	2
+Sheludivaya	2
+Sheptun	2
+Shestakova	2
+Shestopalova	2
+Shevchenko	2
+Shinyuka	2
+Shish	2
+Shishka Vtoraya	2
+Shiviya	2
+Shlem	2
+Shlyapa	2
+Shrenka	2
+Shuruga	2
+Shustraya	2
+Sibega	2
+Sidorovskaya	2
+Siniy Bugor	2
+Siniy Utës	2
+Sinyakha	2
+Sitomi	2
+Sivak	2
+Skalistyy Golets	2
+Slantsevaya	2
+Slyudyanka	2
+Smeshchënnaya	2
+Smezhnaya	2
+Snegovaya	2
+Snezhana	2
+Sobach'i	2
+Sokhatukha	2
+Sokol'i	2
+Sokol'ya	2
+Sokolinka	2
+Sokzhoy	2
+Soldat-Myl'k	2
+Solgonskiy Kryazh	2
+Solonechnaya	2
+Soloni	2
+Solyanaya	2
+Somnya	2
+Sonar	2
+Sopi	2
+Sopochka	2
+Sosna	2
+Sosnovyy Mys	2
+Sovetskiy	2
+Sprut	2
+Sredinnaya	2
+Stanovoy	2
+Storozh	2
+Strel'nikova	2
+Strelkovaya	2
+Strizhament	2
+Styk	2
+Sukhaya Gorka	2
+Sukhostoy	2
+Sukhoy	2
+Suleya	2
+Sunzhenskiy	2
+Suordakh	2
+Sura	2
+Suson	2
+Suvorova	2
+Svetlyy Konus	2
+Svintsovaya	2
+Sviridova	2
+Svobodnaya	2
+Svobody	2
+Svyazuyushchaya	2
+Sygynnyakh	2
+Syraya	2
+Syurekh-Tas	2
+Syurkum	2
+Tainstvennaya	2
+Taklik	2
+Talitsa	2
+Talman	2
+Taran	2
+Tarbagan'ya	2
+Tarbagashka	2
+Tarskaya	2
+Tarynnakh	2
+Tas	2
+Tashlysyrt	2
+Tastakh	2
+Taunga	2
+Tavyt-Dag	2
+Tayga	2
+Temen	2
+Tëplyy	2
+Terskaya	2
+Tey	2
+Tinovroso	2
+Tirs	2
+Tobr	2
+Togonokh	2
+Tolokero	2
+Tolstaya Griva	2
+Tolstik	2
+Topkaya	2
+Topografov	2
+Topolovka	2
+Topor	2
+Tordoki-Yani	2
+Travyanaya	2
+Travyanistaya	2
+Trëkhgorbaya	2
+Trëkhvershinnaya	2
+Tretiy Klyuch	2
+Treugol'nik	2
+Trezubets	2
+Tsagan-Chelotuy	2
+Tsar	2
+Tsentral'nyy	2
+Tserkovnaya	2
+Tsirk	2
+Tsirkovaya	2
+Tsoreylam	2
+Tuchnaya	2
+Tugurma	2
+Tuman	2
+Tumara	2
+Tunguska	2
+Tuonnakh	2
+Turameer	2
+Turan	2
+Turinge	2
+Tuytyube	2
+Tyl	2
+Tymkyney	2
+Tyuleniy	2
+Uanda	2
+Uaza	2
+Uaza-Ina	2
+Uchur	2
+Ud	2
+Udacha	2
+Udalaya	2
+Udarnaya	2
+Udel'naya	2
+Udyl	2
+Uesya	2
+Uk	2
+Ukolka	2
+Uktur	2
+Ukuri	2
+Ul'ma	2
+Ulakhan	2
+Ulakhan-Chistay	2
+Ulan	2
+Ulan-Baysa	2
+Ulan-Tologoy	2
+Ulkan	2
+Ulug-Khayyrakan-Dag	2
+Ulug-Tayga	2
+Unga	2
+Uraltau	2
+Uran	2
+Ure	2
+Uronay	2
+Uryum	2
+Ust'yevaya	2
+Uta	2
+Utrennyaya	2
+Utu	2
+Utukandya	2
+Uy	2
+Uyamkan	2
+Uyanker	2
+Uzkiy	2
+Val	2
+Valkeamyaki	2
+Vanga	2
+Varamyaki	2
+Vasil'yevskaya	2
+Vatutina	2
+Vega	2
+Vekhovaya	2
+Vekikan	2
+Velikan	2
+Verkh	2
+Vernadskogo	2
+Veselaya	2
+Vetrovaya	2
+Vetryanka	2
+Vinogradovka	2
+Visyachiy Kamen	2
+Vizirnaya	2
+Vkhodnaya	2
+Vladimirovka	2
+Vladimirskaya	2
+Vlastelin	2
+Vodyanaya	2
+Vogul'skiy Kamen	2
+Volch'ya Yama	2
+Volkova	2
+Vorob'inaya	2
+Vorob'yëva	2
+Vorob'yëvy	2
+Voron'ya	2
+Voznesenskaya	2
+Vspomogatel'naya	2
+Vstrecha	2
+Vyderka	2
+Vysota	2
+Vystup	2
+Vytyanutaya	2
+Yablochnaya	2
+Yaga	2
+Yagodka	2
+Yakona	2
+Yakut	2
+Yam-Alin	2
+Yan-Indya	2
+Yana	2
+Yanchan	2
+Yang	2
+Yang-Osiktachi	2
+Yanranay	2
+Yar	2
+Yelevaya	2
+Yelisey	2
+Yelovyy	2
+Yemelina	2
+Yerëmina	2
+Yernikovaya	2
+Yetara	2
+Yeuli	2
+Yezhovaya	2
+Yukha	2
+Yuna	2
+Yurma	2
+Yurtishkina	2
+Yuryakh	2
+Yuzhnyy	2
+Yuzovka	2
+Yzykh	2
+Zagadochnaya	2
+Zagrikha	2
+Zakharova	2
+Zalesënnaya	2
+Zamok	2
+Zaval	2
+Zavaly	2
+Zavaritskogo	2
+Zavetnaya	2
+Zemlyanichnaya	2
+Zgyarishi	2
+Zharkaya	2
+Zhelna	2
+Zhëltyy Yar	2
+Zherdeva	2
+Zhernovka	2
+Zhigzakozh	2
+Zhirnaya	2
+Zmeyëvka	2
+Zolotoy	2
+Zub	2
+Zusy	2
+Zvëzdnaya	2
+Zvëzdochka	2
+Aag
+Abadzesh
+Abatak
+Abatova
+Ablyay
+Aborigen
+Abotuy
+Abramovskiy
+Absaroka
+Aburgayskaya
+Acheshbok
+Achigsyrt
+Achilman
+Adar-Dash
+Adyakit
+Adzhirga
+Adzi
+Aekho
+Afa
+Afanas'yevka
+Africa
+Agdymtala
+Agnevskiy
+Agymavryn
+Agytydyak
+Ak
+Ak-Bedik-Dag
+Akademii
+Akan
+Akan'yutu
+Akaro
+Akbulyak'arka
+Akhami
+Akhmet-Irzau
+Akhonmyaki
+Akhtsu
+Akhtyrtseva
+Akhutsazukmeer
+Akhvenlammenmyaki
+Akhyzyrta
+Akkulyan
+Akkurta
+Akkusande
+Akkyr
+Aklakar
+Aksenikha
+Akta-Pukka
+Aktau
+Aktëbe
+Aktru
+Aktube
+Aku
+Akury
+Al'ma
+Al'piyskoye
+Alakhundag
+Aldaryndzha
+Alegich
+Alëkhina
+Alenguy-Sagan
+Alenuy
+Alëshinskiy
+Aleurskiy
+Alin
+Alitet
+Alla
+Almalykaya
+Almazinka
+Alonka
+Altakan
+Altyn
+Altyntu
+Aluachi
+Alzobey
+Amaltala
+Amanauzbashi
+Amandzha
+Amaykachan
+Ambartuy-Obo
+Amerika-Khaya
+Amerikantseva
+Amginskaya Gryada
+Amkhalga
+Amnuskan
+Amrachakh
+Amuka
+Amus
+Amuykan
+Amyskan
+Amzay
+Anakhoret
+Anangravnen
+Andomskaya Vozvyshennost
+Andrey-Tas
+Andyrtau
+Anfal
+Angarskiy Kryazh
+Angbi
+Angity
+Angliya
+Aninen-Murnu-Adyrnyn-Bazhynda
+Anitsa
+Ankakenygton
+Ankurikan
+Anmungda
+Anodyak
+Antuni
+Antykan
+Anyuyskoye Nagor'ye
+Aokerkolbashi-Tersak
+Apsak
+Apsat
+Arakmeer
+Araratskiye
+Araukhokh
+Arba-Sunkantau
+Arga
+Arga-Emneke
+Argalituy
+Argayuko
+Argo
+Argyt
+Arinina
+Arinkin Kurgan
+Arkay
+Arkhate-Tologoy
+Arkhipovskaya
+Arkhiy
+Arkhon
+Arlasor
+Arlekin
+Arsen'yëvka
+Artëm
+Artmakskaya
+Arvis-Musyur
+Arvyakryaz
+Ary-Dag
+Aryk
+Arzamazova
+Asakidis-Tavistsveri
+Asansufa
+Ashaba
+Ashirkhumara
+Askasay
+Askeychtundra
+Askhava
+Assara
+Astakho
+Astashikha
+Asu Tolga
+Asyrmirtar
+Atagagoy
+Atavrapel
+Atkacha
+Atlasov
+Atly-Tag
+Atlyboyun
+Atoa
+Atsapkan
+Atychan
+Atyr-Tey-Dag
+Aul-kud
+Auleppa
+Auliyetas
+Avalagada
+Avalgokh
+Avariynaya
+Avchandya
+Avdyrdak
+Avol'pal'virin
+Ayachinskaya
+Ayaktal
+Aykaga
+Ayman
+Aymante
+Ayrup
+Ayumkan
+Ayutash
+Ayutuzaklagan
+Azaubashi
+Azygin
+Babalo
+Babasanovskaya
+Babaytau
+Babintseva
+Babiy Kamen
+Babkaran
+Babkha
+Babuk
+Bachanchëva
+Bachinskaya
+Badan'ya
+Badantyube
+Badatay
+Badukskiy
+Baduli
+Badulochnaya
+Bagamuza
+Bagdarin
+Bagdrush
+Baikal
+Baim-Khara
+Bak-Chalogo
+Bakbagokh
+Bakhmur
+Bakhor-Biran
+Bakhty-Laparyrag
+Bakhyldeta
+Baklan
+Baktaraal
+Bal'za
+Bal'zatovaya
+Balaganskaya
+Balalayka
+Bandit
+Bandurina
+Barabashikha
+Baraf-Dou
+Baraftau
+Barak
+Baran'ya Iolga
+Barangul
+Barany
+Baras-Tayga
+Barashek
+Barbar
+Barok
+Barrikadnaya
+Barun-Chelota
+Barun-Davo
+Barun-Khada
+Barun-Khunduy
+Barun-Ula
+Bas
+Bashchelakskiy
+Bashtykyrsyrt
+Bashtyuz
+Bashukty
+Baskan
+Bastyirzu
+Batareya
+Batina
+Batorgoy
+Batoyskaya
+Batsilo
+Bayan-Kyzyl
+Bayan-Mandal
+Bayan-Ulan
+Bayan-Undur
+Baylyuk
+Bayshintu Ula
+Bazhay
+Bazhgar
+Bazyki
+Bedym
+Beitkit
+Bekel'deul
+Beketovo
+Bektrey
+Bel'chir-Manya
+Bel'skiye Gol'tsy
+Bel'sko-Dukhovshchinskiye Gryady
+Belaya Griva
+Bellinsgauzena
+Beloberëzovaya
+Belokamennaya
+Belyy Kameshek
+Benoylam
+Benshinkort
+Berendya
+Berezhnaya
+Bereznyak
+Berezovka Severnaya
+Berëzovskaya
+Berill
+Beris-Kort
+Berri
+Bestak
+Bettesuru
+Betti
+Bezhatalameer
+Bezlyudnaya
+Bezrodnyy Bugor
+Bezvodnyy
+Biaminskaya
+Bichevaya
+Biktimir
+Bikvitameer
+Bilimbay
+Binchirskaya
+Bir'yan
+Birakachan
+Birakan-Duli
+Birnau
+Birsalali
+Birushka
+Biryukova
+Bis
+Blinkova
+Blinnikova
+Blizhnyaya Kyrma
+Blokgauz
+Bo-Dzhausa
+Bobi
+Bobylëvskaya
+Bocharova
+Bochenkov
+Bodakh
+Bodata
+Bodzha
+Boena
+Bogachinskiy Golets
+Bogdal'ma
+Bogide
+Bokhilova
+Bokhusan
+Bokki
+Bokobiku
+Bokovykh
+Bokur
+Bol'shaya Aya
+Bol'shaya Beden
+Bol'shaya Borovaya
+Bol'shaya Dorozhkina
+Bol'shaya Ipel'ka
+Bol'shaya Iterma
+Bol'shaya Kanga
+Bol'shaya Karel'skaya
+Bol'shaya Khatipara
+Bol'shaya Kholi
+Bol'shaya Kurba
+Bol'shaya Kurtyazhnaya
+Bol'shaya Lëvgora
+Bol'shaya Lopatinskaya
+Bol'shaya Padeya
+Bol'shaya Parangalava
+Bol'shaya Skala
+Bol'shaya Tundrovaya
+Bol'shiye Kalty
+Bol'shoy Atalyk
+Bol'shoy Batur
+Bol'shoy Chir Kaylastuyevskiy
+Bol'shoy Iremel
+Bol'shoy Kymyney
+Bol'shoy Nilkotey
+Bol'shoy Orël
+Bol'shoy Pasynok
+Bol'shoy Pirog
+Bol'shoy Poperechnyy
+Bol'shoy Sail'urek
+Bol'shoy Savandey
+Bol'shoy Shelom
+Bol'shoy Taskyl
+Bol'shoy Tsygan
+Bol'shoy Ural
+Bol'shoy Uras
+Bol'shoy Ushumun
+Bol'shoy Van'kina
+Bol'shoye Chizhko
+Bolban-Musyur
+Bolban-Myl'k
+Bolgi
+Bolnukh
+Bondareva
+Bongo
+Borichi
+Borikan
+Borkulnauk
+Boron
+Borsoy
+Borus
+Borushmeer
+Boruyan
+Borzaya
+Borzova
+Boskuo-Khaya
+Botchi
+Botsagolkh
+Botskal
+Boyevik
+Boyunbash
+Boyur
+Boz-Depe
+Bozalaytau
+Bozhban
+Bozhenkina
+Brat Chirpoyev
+Brat'ya
+Bryus
+Budanova
+Budënovka
+Budu-Gorkhonskiy
+Bugalgor
+Bugargydyak
+Bugayskaya
+Bugi
+Buglo
+Bugor Berëzovyy
+Bugor Bzach
+Bugor Dolgaya Vereya
+Bugor Ivanovskiy
+Bugor Kremennyy
+Bugor Krutoy
+Bugor Kulikasan
+Bugor Kuzikhin
+Bugor Makarovskiy
+Bugor Mingetau
+Bugor Neudobniy
+Bugor Ostryy
+Bugor Pervyy Osetinskiy
+Bugor Pron'kin
+Bugor Romanov
+Bugor Sharyn
+Bugor Taun-Unchuk
+Bugor Tsagan-Tolga
+Bugor Tulumbay
+Bugor Tushkannyy
+Bugor Vertyachiy
+Bugor Yermolov
+Bugor Zakholod
+Bugor Zayachiy
+Bugutur
+Bukepka
+Buko
+Buku-Makit
+Bukukuya
+Bulagday
+Bulanikor
+Bulat
+Bulcha
+Bulgutuy
+Bulkunar
+Bulun-Talay
+Bundi-Tolgoy
+Bunskaya Podrossyp
+Buralkit
+Buraya
+Burdakova
+Buren'-Undur
+Bureni
+Burga
+Burgalekan
+Burgon
+Burkhan
+Burlak
+Burokha
+Buru
+Burukhul'skiy Golets
+Burunda
+Burzayeva
+Butuntay
+Buul'gen
+Buzhagar
+Buzurtash
+Byankina
+Bych'ya
+Bychek
+Byrranga
+Byysykhan
+Bzyalina
+Chaaza
+Chachogur
+Chadbakh
+Chadyrty
+Chafardag
+Chagdala
+Chakhtyr
+Chakra
+Chakulabek
+Chalbuch'ya
+Chalbygchan
+Challad
+Challyarin
+Chana
+Chankiya
+Chapayevskaya
+Chapchany
+Chapka
+Chapliya
+Chapskaya Shapka
+Chapskiy
+Chatalga
+Chatcha
+Chaura
+Chaykina
+Chaylyakhkanchi
+Chaz-Tayga
+Chebashmat
+Chechen-Salasu
+Chechëtka
+Ched
+Chekina
+Chekovskogo
+Chekryshchin Bugor
+Chelan
+Chëlki
+Chem-Auv
+Chemerni
+Chemyy
+Chën
+Chencha
+Chenotuy
+Cheovklekhalubarkh
+Cheptalon
+Cherbukde
+Cherikkol
+Chernomorskaya
+Chërnosliv
+Chernovskiy Kholm
+Chernyakinskaya
+Chërnyayeva
+Chërnyy Golets
+Chërnyy Mys
+Chërnyy Yagdyn
+Chërt
+Chërtova Gorka
+Chertovka
+Chibis
+Chichegur
+Chichimar
+Chikhnoy
+Chikhortuy
+Chilik-Skala
+Chimchikan
+Chimge
+Chimryney
+Chimukchin
+Chimulabaku
+Chimykintynup
+China
+Chineyney
+Chingandzha
+Chingitay
+Chirakhkend
+Chiraktopur
+Chirir
+Chirpoy
+Chiruney
+Chistyy
+Chita
+Chivalakovara
+Chizdzhinkhokh
+Chodoridag
+Chokh-Kommuna
+Chokket
+Cholokhsu
+Cholun-Khamur
+Chotlova
+Chubarova
+Chucheysyn
+Chuchridatl
+Chuchul'tinskaya Toksoka
+Chudnaya
+Chugas
+Chul'ty
+Chulkayeva
+Chulutay
+Chumikan
+Chumikandya
+Chunguzulmeer
+Chuprikha
+Churbukondya
+Churima
+Churno
+Chutien
+Chutkavar
+Chuvar
+Daarga
+Dabkhar
+Dachnaya
+Dainskiy
+Dakhal
+Dal'niy Batyr
+Dal'niy Gorodok
+Dan
+Dan'kova
+Dandie
+Danosmta
+Daratuy
+Darg-Kldun
+Dargotuyskaya
+Daria
+Darovatskiy Kamen
+Daryvdytau
+Dashikhokh
+Daunskiy
+Daut
+Davasu-Tolgoy
+Davydova
+Daylam
+Dedoli
+Dedushka
+Dedushkin Kolpak
+Dekabr'skaya
+Delegey
+Delimo
+Dëmkina
+Deni-Der
+Digatkan
+Dikaya Griva
+Dionisiya
+Dirga
+Ditriksona
+Divan
+Divizionnaya
+Dobryanka
+Dobrynina
+Dodon
+Dolismar
+Dolka-Shal
+Domashniy Kamen
+Donguznokhur
+Donkan
+Donnikov
+Dono-Medveditskaya Gryada
+Doob
+Doppakh
+Dorgotyn-Under
+Doribi
+Dorofeyeva Stopka
+Dorozhkina
+Doshidondok
+Dostupnaya
+Dovlan Tolga
+Dozhdeva
+Drevnyaya
+Drovyanukha
+Dubnyakovaya
+Dubulabag
+Duel
+Duginova Griva
+Dukchandzha
+Dul'mi
+Dulgalakh
+Dun'kin Pup
+Dunansungan
+Durymanskaya
+Dutovka
+Duy
+Duyskiy
+Dva Tura
+Dve Sestry
+Dvorets
+Dvoryatkin Bugor
+Dvoynaya-Gorka
+Dvugorbyy
+Dvurogaya
+Dyafargyrez
+Dymka
+Dymkan
+Dyrovataya
+Dyukkhokon
+Dyuna Podkova
+Dyuta
+Dzankalisi
+Dzartil
+Dzhaki Unakhta-Yakbyyana
+Dzhalovchat
+Dzhaltangra
+Dzhalukak
+Dzhar
+Dzharakan
+Dzhaur Pravyy
+Dzhavandag
+Dzhebashskiy
+Dzhegdakan
+Dzhekdakanskiy Bur
+Dzhelivtsek
+Dzhelona
+Dzhemyka
+Dzhende
+Dzhentanda
+Dzhigardak
+Dzhorashty
+Dzhuglymskiy
+Dzhuvurgen
+Dzhyubkogu
+Dzhyumay
+Dzichekish
+Dzin'lam
+Dzymkuburyl
+Ebel'iz
+Ed-Bika
+Edel
+Edomu
+Eke-Bulag
+Ekholot
+Ekug
+El'gyvulgyn
+El'kan
+El'larka
+El'mut
+Elbrus
+Elgoras
+Elinbor
+Emtykchan
+Enerda
+Enkhotyat
+Er-Obo
+Era
+Erycha
+Erzin
+Eselkit
+Espenberga
+Estonskaya
+Ettava
+Evangakich
+Evekan
+Evgavli
+Fainy
+Fakel
+Fassaurag
+Fatimatash
+Fëdorova
+Fekinkin Mys
+Feodorovskinmyaki
+Fetkhuz
+Figura
+Fitil
+Flagokh
+Flagovaya
+Flakovaya
+Fomkina
+Fort
+Frina
+Gabchikhkit
+Gadagandzha
+Gadakchan
+Gadzhioli
+Gagdaya
+Gairabilyakort
+Gakabaranin
+Gakkhaita-Irin
+Gal'chikha
+Gal'ganay
+Galadvus
+Galam
+Galishinskiy Kamen
+Galyutina
+Ganso-Khosotuy
+Garallybashi
+Garevaya
+Garevskaya
+Gargab
+Garus
+Garzigul
+Gasantyube
+Gashkalytyube
+Gavrilina
+Gaydakh
+Gedmysh
+Geodezicheskaya
+Geoni
+Gerba
+Gerbichi
+Geroinya
+Gersevanova
+Gestinkil
+Geunto
+Gezlam
+Giatama-Khure
+Gidali
+Gidimeer
+Gidyke
+Gil'magas
+Gilyak
+Gindarav-Givurogli
+Girag
+Girlyannaya
+Girshlyumeer
+Glavnyy Kavkazskiy
+Glavnyy Mys
+Glinyanskiy
+Glukhomanka
+Glukhoy Siver
+Glykdag
+Gneys
+Gobi
+Gobzhokson
+Gochapa
+Godul'gel
+Gogda
+Gokeztëbe
+Gol'dika
+Gol'tsy Khonin-Shulun
+Gol'tsy Ulan-Shulun
+Golaya Rossyp
+Golets Bil'chir
+Golets Bol'shoy Akutsiskiy
+Golets Bugutuy
+Golets Khalyinskiy
+Golets Khalyur
+Golets Malyy Akuinskiy
+Golets Pervyy
+Golets Pyatyy
+Golets Vtoroy
+Golets Yankanskiy
+Golets-Oblachnyy
+Golobokiy Churok
+Golubinyy Utës
+Golubitsnaya
+Golubka
+Golyak
+Golyn'zya
+Golyy
+Golyy Kryazh
+Golyy Tur
+Gomuzhan
+Gonchavara
+Gorb
+Gorbolysitsa
+Gorbunikha
+Gorbylënok
+Gorbylyakskiye
+Gorel'nik
+Gorelaya Shishka
+Gorevataya
+Gorgon'zha
+Gorivets
+Gorobets
+Gorodovaya
+Gortlatara
+Goryushka
+Gotsgor
+Gotsodatl
+Govenskiy
+Granataya
+Grebenochnaya
+Gremyachaya
+Grëzy
+Grigor'yev-Navolok
+Grigor'yevskaya
+Grishevka
+Griva Baganskaya
+Griva Bol'shaya
+Griva Bolchatkanskaya
+Griva Chaplykul'skaya
+Griva Dergunovskaya
+Griva Gorchanskaya
+Griva Konchina
+Griva Kuvyrkina
+Griva Lachinovskaya
+Griva Lepëshkina
+Griva Malinovaya
+Griva Mokhovaya
+Griva Pimshina
+Griva Pochtovaya
+Griva Pospelikha
+Griva Rechkova
+Griva Shorokhova
+Griva Tëmnaya
+Griva Tuba
+Griva Vertusheva
+Griva Vysokiy Uval
+Griva Yakoshikhina
+Griva Yezhova
+Griva Zmeyeva
+Griva Zolotaya Gorka
+Grob
+Grobnyukha
+Grobova
+Gromotukha
+Groznaya
+Groznyy
+Grushevaya
+Grushëvka
+Grushka
+Gryada Bilibina
+Gryada Chernyshëva
+Gryada Chumtyrg
+Gryada Kamenistaya
+Gryada Nenkat
+Gubenina
+Gudur
+Gudzeva
+Gugdakan
+Gul'gul'kil
+Gul'mamse
+Gul'penkala
+Gulandya
+Gulba-Tolgoy
+Gulu
+Gumbashi
+Gumbet
+Gungo
+Gunkan
+Guran'ya
+Guran-Undyr
+Gurgummeer
+Guriya
+Gurtsig
+Gus
+Gusarova
+Guseyn-Bekent
+Gustarikha
+Guylyum
+Gveri
+Gychekhen
+Gydanskaya Gryada
+Gyrman
+Gytygne
+Gyul'chi
+Gyunteymes
+Ibrayevskaya
+Ibygyl'te
+Icheregda
+Ichopova
+Igandya
+Iggu
+Iginga
+Iglyadey-Tey-Keu
+Igolka
+Ikhyovo
+Ikshima
+Ikutau
+Il'ichëvka
+Ilagan
+Ilata
+Ileykina
+Ilipoar
+Imalonkallio
+Impala
+Impoveyem
+Inchariga
+Ingaran
+Ingidyr
+Ingurskiy
+Inkali
+Innyaga
+Innyakh
+Inoiselekone-Tunup
+Intaynyn
+Intrikan
+Iokatel
+Ionova
+Iov
+Iputameer
+Irenkhada
+Irgitsik
+Iriktschatbaschi
+Irin
+Irkarkan
+Iruney
+Isakovskaya
+Isayeva Zaimka
+Iskey
+Islamchat
+Ismailtav
+Isosel'kya
+Isotunturi
+Istochnik
+Istok Nanaki
+Istok Ul'i
+Iuray
+Ivanovka
+Iyekyan
+Iyeryukimivara
+Iyvanankangas
+Izmena
+Juraktau
+Kabara
+Kabda
+Kachalbek
+Kachta
+Kachu
+Kadakchan
+Kaday
+Kadirkeni
+Kaftanova
+Kagatash
+Kainynynay
+Kakhantmuru
+Kakhtan
+Kakspersenmyaki
+Kakytu
+Kal'bi
+Kal'ma
+Kalach
+Kalan
+Kalanchovaya
+Kalgaya
+Kalmakar
+Kalpak
+Kalpersky
+Kalty
+Kalym
+Kamaga
+Kamatal
+Kambala
+Kamen' Markov
+Kamenistaya Griva
+Kamennaya Gorka
+Kamennyy Kurgan
+Kamennyy Stanovik
+Kamertash
+Kamni Podosinovyye
+Kamni Shinikhtinskiye
+Kamushek
+Kamyshevataya
+Kamza
+Kan'on
+Kanayepyrkat
+Kanchitl
+Kandebil
+Kandyl-Khokh
+Kandzhur
+Kanitlblyari-Gokh
+Kaoinskiye
+Kapkanskaya
+Kapkas
+Kapshchik
+Kapsol
+Kara-Gozogor
+Kara-Kan
+Kara-Khodyn
+Kara-Tyube
+Karabichinskiy
+Karabulak
+Karabut
+Karagastuba
+Karagastube
+Karaikhev
+Karakol
+Karakty
+Karakul'chan
+Karakutana
+Karan-Dag
+Karandash
+Karas'ya
+Karatebe
+Karatyanskiy Semashkho
+Karaul'skaya
+Kardygutau
+Karga
+Karga-Tas
+Kargi
+Kargyn-Ula
+Karhunpää
+Karitshal
+Kariukhokh
+Karkhuvuori
+Karkunduy Nizhniy
+Karniznaya
+Karovyy Massiv
+Karyn-Under
+Kas'yanova
+Kashkatav
+Kasilinnanmyaki
+Kaskadnaya
+Kaslinsko-Sysertskiy Kryazh
+Katan
+Katkova
+Katlani
+Kattegora
+Katyntau
+Kaugevara
+Kavchekla
+Kaverznaya
+Kavrol
+Kayakh
+Kayaula
+Kayda
+Kayduk
+Kaydus
+Kazachiy Piket
+Kazakova Shishka
+Kazych
+Kbdyndzhukh
+Kedonskiy
+Kedranskiy
+Kedrovaya Griva
+Kedrovyy Sloy
+Kegkhermeer
+Keibkkort
+Kekhtung
+Kekosel'kya
+Kekroso
+Kektolonku
+Kel'-Bukachan
+Kel'dukul
+Kel'enevyt
+Kel'ka
+Kel'tamyaki
+Kel'terskiy
+Kel'tovaara
+Kelil'khvun
+Kemskaya
+Ken'yelichi
+Kendeke
+Kengchat
+Kenune
+Kenurak
+Ker-Under
+Kerekh
+Kerosinnaya
+Keshum
+Kessym
+Kestinkort
+Keta
+Keykh
+Keyniyanragay
+Keynuvara
+Keynyney
+Keyvina
+Khaapalammenmyaki
+Khaapavaara
+Khabirokh
+Khachkhach
+Khadaban
+Khadarandzha
+Khadaya
+Khadykchan
+Khadzhibeybashi
+Khaimskiye Gol'tsy
+Khaiypikhlput
+Khakir
+Khakymychak
+Khalatsakh
+Khalkitoy
+Khalzanovskiy Golets
+Khanch
+Khaneku
+Khangilay-Shily
+Khangli
+Khankargol
+Khankhara
+Khanova
+Khantinur
+Khapamyaki
+Khapchigar
+Khar'kal
+Khara-Gozogor
+Khara-Khashun
+Khara-Tologoy
+Khara-Ula
+Khara-Under
+Kharadaban
+Kharaguimeer
+Kharasanila
+Kharasyur
+Kharauzskiy
+Kharbas
+Kharbuk
+Kharchenkova
+Kharchevka
+Khargalchi
+Khargana
+Kharginskiy
+Kharikit
+Kharishchen
+Khariusnyy Kamen
+Kharkandzha
+Kharkarazu
+Kharlik
+Kharlun
+Kharmagoty
+Khartalga
+Kharugata
+Kharysal
+Kharyucheymyl'k
+Kharyushkina
+Khasamtush
+Khasanka
+Khashun
+Khasynskiy
+Khatatey
+Khatipara
+Khatorandya
+Khatsavita
+Khauge
+Khaugglambi
+Khaya
+Khaybalyk
+Khayet
+Khaykhatinmyaki
+Khaytas
+Khazarova
+Khazyrgon
+Kheirakh
+Khel
+Khel-Urekchen
+Khememyaki
+Khentey
+Khërkhilyanmyaki
+Khetalyndya
+Khetinskaya
+Kheye
+Kheynyasuonmyaki
+Khidenvuori
+Khil'mi
+Khilimyaki
+Khilir
+Khilpankangas
+Khiral
+Khirkhag
+Khlamenka
+Khlebnaya
+Khlebushko
+Khobilampi
+Khodok
+Khoglokan
+Khogonyamnyan
+Khokhlatskaya Shishka
+Khokoroy
+Kholan
+Kholboy
+Kholdami
+Kholinskiy
+Kholm Ostraya
+Kholm Otkrytyy
+Kholm Popova
+Kholm Vysokaya Gorka
+Kholm Yanraponty
+Kholm-Vetryanka
+Kholmy Teakachin
+Kholotkan
+Kholzeren
+Khomutinskaya
+Khomyachevo
+Khonda-Dzhuglymskiy
+Khonokoy
+Khonton
+Khoperskiy
+Khor'kovaya
+Khoran-Duan
+Khoray
+Khorokhodala
+Khorolovakhu
+Khosomi
+Khotun
+Khovdayarvi
+Khoydur
+Khoyekva
+Khoygatka
+Khoylamyl'k
+Khoyto-Upsha
+Khoyunda
+Khubikta
+Khudan-Tsagan
+Khukhayta Pervyy
+Khukhayta Vtoroy
+Khukhe-Atkha
+Khukhe-Shulun
+Khukhu-Shelun
+Khukhur-Boldog
+Khuko
+Khukukitchan
+Khuluina
+Khulyuk
+Khummi
+Khunat
+Khundemeer
+Khundunay
+Khunevara
+Khungakan
+Khuntagel
+Khuracha
+Khuraka
+Khuralachi
+Khurete
+Khushty-Khaman
+Khutako
+Khutakulbarkh
+Khuzinskiy
+Khvalebnaya
+Khvoshchevaya
+Khyayukhnmyaki
+Khysekha
+Khyymyndya
+Kianmyaki
+Kikher
+Kil'deril'-Meerkanchitl
+Kilandya
+Kilganskiy Golets
+Kilunikha
+Kilyy
+Kimamyaki
+Kimnekit
+Kineva
+Kinikokh
+Kinzhal'naya
+Kionkhokh
+Kiparisovaya
+Kira
+Kiri
+Kiri-Lam
+Kirichgora
+Kirkkkomyaensel'kya
+Kirpina
+Kirsanova
+Kiryaki
+Kisearka
+Kiselëvka
+Kiselyakh-Tas
+Kislikha
+Kislovodnaya
+Kiteme-Yunikal
+Kitoyskiye Gol'tsy
+Kitsinmyaki
+Kitskaya
+Kivabu
+Kiver
+Kivimyaki
+Kivisyarkkya
+Kivitunturi
+Kivivara
+Kiyeng-Yuryakh
+Kla
+Klëpochnaya
+Kler
+Klinchin
+Klinsko-Dmitrovskaya Gryada
+Klokova
+Klubb
+Klyuch Berëzovyy
+Klyuchevskoy
+Klyuv
+Kobryv
+Kobyl'zhina
+Kochegarov
+Kochkanova
+Kochuy
+Kofeynaya
+Kogitanbashi
+Kogzemekhny
+Kok
+Kokhtmyaki
+Kokka-Yarvi
+Kokma
+Kokmadag
+Kokoravara
+Kokuy
+Kokzebmeer
+Kol'tsevoy
+Kolechko
+Koleshka
+Kolesnikova
+Kolgevara
+Kollikan
+Kolpaki
+Kolpino
+Koltan-Dzhur
+Kolva
+Kolymskoye Nagor'ye
+Kolyuchki
+Komandnaya Vershina
+Komarinnaya
+Komarovskaya
+Komel
+Komissarovskiy
+Komissarskaya
+Komoynmyaki
+Konakova
+Kondratov Mys
+Koniguni
+Konoilamyaki
+Konon
+Konopel'kina
+Kontiomyaki
+Konyukhi
+Konzhakovskiy Kamen
+Kopata
+Kopchik
+Kopytkina
+Koral'naya
+Korbendya
+Kordon
+Koren
+Koreykonmyaki
+Korikmeer
+Korkeakangas
+Korkeakoyvinko
+Korkina
+Korkkisvara
+Korkodono-Sugoiskaya Gryada
+Kormovaya
+Korne-Duk
+Korneyeva
+Korobitsa
+Korolevskiy Belok
+Korolikha
+Koron
+Korovino
+Korsikkovaara
+Kort-Tlyapa
+Korvindegi
+Korvoyva
+Korytnyye
+Koryushka
+Kos'vinskiy Kamen
+Kos-Myl'k
+Kosach
+Kosanrag
+Koshevaya
+Koshka
+Koshtantau
+Koskem-Uoza
+Kosmataya
+Kosogol'skaya
+Kostenkova
+Kostin
+Kostrominka
+Kosulya
+Kotanturu
+Kotikhina Griva
+Kotlovan
+Koulukangas
+Kovaya
+Koylakhdenmyaki
+Koyvikkomyaki
+Kozel'skaya
+Kozelka
+Kozhavara
+Kozhymiz
+Koziy
+Krasnogorka
+Krasnopol
+Krasnotymskiy
+Krasnoye Solnyshko
+Krasnushkin
+Krasulya
+Krasunkina
+Kravchuka
+Krayevaya
+Kraynova
+Kremen
+Kremenka
+Kremennaya
+Kremenskiye
+Kremlëvskaya
+Krest-Khomo-Khayata
+Krestonozhka
+Krestovyy Golets
+Kreyda
+Krinichnaya
+Krizenkova
+Krokhal
+Kronshtadskaya
+Krubera
+Kruglaya Kanga
+Kruglyy
+Kruglyy Mys
+Krutik
+Krutikha
+Krutishka
+Krutogoryy
+Krutosklonnaya
+Krutukha
+Krutyye Grivki
+Kruzenshterna
+Kryazh Burush-Syrt
+Kryazh Kanin Kamen
+Kryazh Vetrenyy Poyas
+Kryazhi
+Kryzhina
+Kubachi
+Kubadaygi
+Kubiyasskaya
+Kuchelinova
+Kuchintundra
+Kudashka
+Kudeyar
+Kudutl
+Kudyyap Shop
+Kukashka
+Kukerdu
+Kukhtuyskiy
+Kukisvumchorr
+Kukol'naya
+Kuku
+Kukurtbash
+Kukuya
+Kul
+Kul'gapakhk
+Kula
+Kulebakskaya
+Kulgakhtakh
+Kulik
+Kulikan Vtoroy
+Kulikova
+Kulindinskaya
+Kulinskiye Vysoty
+Kullumkol-Bashi
+Kultushnaya
+Kuluyanskaya
+Kulyuk
+Kum
+Kumardak
+Kumian
+Kunaylytau
+Kunbaku
+Kungur
+Kuni
+Kunzak
+Kunzefetl
+Kuolundzha
+Kuoppamyaki
+Kupkinskoye Melkogor'ye
+Kupol Tryox Ozyor
+Kupolok
+Kupriyana
+Kuragvantsala
+Kuraykandya
+Kurazhinskiy
+Kurgan Chepelëv
+Kurgan Shapkina Mogila
+Kurgaya
+Kurgush
+Kurkal
+Kurlyandskaya
+Kuropatkina
+Kurtas
+Kurtushibinskiy
+Kurtuyak
+Kurun
+Kusa
+Kush-Myl'k
+Kusimova
+Kut-Tayga
+Kutina
+Kutishino
+Kutsun
+Kutsygeytun
+Kutuzova Griva
+Kuvan
+Kuyazyk
+Kuytunskiy
+Kuzibil
+Kuzinskaya
+Kuzir
+Kuznechikha
+Kyala
+Kyatkevara
+Kydym
+Kyldoyarvi
+Kyllakhskiy
+Kylych-Karakaya
+Kymynan
+Kyndkymekha
+Kyrbas-Tas
+Kyrgikala
+Kyrma
+Kyrtyk
+Kystau
+Kystyk
+Kysyk
+Kyukbiya
+Kyunkyuy
+Kyur-Tepe
+Kyurenmyaki
+Kyutyur
+Kyzylkaya
+Kyzyrym
+Lakarilgi
+Lakshulampi
+Lamanon
+Lamkayling
+Lan'gdon
+Langr
+Lanka
+Lanok
+Lantsova
+Lapatti
+Lashbay
+Latsga
+Latsintsov Utës
+Lazar
+Ledi Kherbert
+Lednëva
+Lednik-Kant
+Lekhatsalu
+Lekhtosenkallio
+Lemmikinmyaki
+Lenivaya
+Lent'uayv
+Leonovskiye
+Leont'yevskiy Churon
+Lepentsanmyaki
+Lepeshinskaya
+Lesdeybuk
+Leskhoznaya
+Leskovskaya
+Lesoseka
+Letal
+Letkhoylam
+Letnik
+Letnyaya
+Levaya Bunksa
+Levaya El'byakh
+Levaya Kaban'ya
+Levaya Novaya
+Levenshterna
+Levyye Sololi
+Likhodeyevskaya
+Likhoslavl'skaya Gryada
+Lina
+Lino-Megi
+Lipasuvannonvara
+Lipkan
+Lipki
+Liposyuntyumya
+Lisaminova
+Listvennyy
+Littiäpää
+Liven
+Lobasa
+Lobovskan
+Loga
+Logarin
+Lomaki
+Longdor
+Lonzhekort
+Lopatinskaya
+Loshkina
+Loukhensel'kya
+Luchevaya
+Lugovka
+Lukinda
+Lukkarinmyaki
+Lukoshenkovo
+Lukovyye Kamni
+Lun'skaya
+Lunina
+Luptaki
+Lutsenina
+Lyagayak-Tasa
+Lyaglyaka
+Lyagunka
+Lyal'ver
+Lyalyk
+Lymamyl'k
+Lyspi
+Lysun
+Lyuginskiy
+Lyuguvalu
+Lyuguvu
+Lyuntuku
+Lyusinvara
+Machula
+Madalayarvi
+Magema-Ali
+Magistral'naya
+Mail
+Makal-Syrt
+Makar-Ruz
+Makartau
+Makedoniya
+Makhaina
+Mal'chigey-Musyur
+Mal'ma
+Mal'machan
+Malakhov Kamen
+Malan
+Malaya Chagoma
+Malaya Ipel'ka
+Malaya Izyubrinka
+Malaya Kadi
+Malaya Kavriga
+Malaya Kedrovka
+Malaya Korangovara
+Malaya Nevagli
+Malaya Plësovaya
+Malaya Razvalennaya
+Malaya Sinyaya
+Malaya Vuzikh
+Malkova
+Maloguminskaya
+Malorechenskiy
+Malyy Angochikan
+Malyy Babuk
+Malyy Bambak
+Malyy Bermamyt
+Malyy Biyak
+Malyy Dombay-Ul'gen
+Malyy Drem-Khed
+Malyy Kamen
+Malyy Khamar-Daban
+Malyy Khekhtsir
+Malyy Khingan
+Malyy Kvarkush
+Malyy Markotkh
+Malyy Nuumpal
+Malyy Pykhtun
+Malyy Salbat
+Malyy Talovskiy
+Malyy Yamantau
+Malyy Yankan
+Malyy-Musyur
+Malyye
+Malyye Gumady
+Mamay
+Mamenganskaya
+Mamontova
+Mamsa
+Man'chzhurskiy
+Man'khambo
+Man'yangtump
+Manita
+Mankitra
+Manokhin
+Manoma
+Manu
+Manuty
+Manyuk
+Margartson
+Margentuy
+Marikta
+Marka-Bikaus
+Markelova
+Markoing
+Markov Kamen
+Markram
+Martelevskaya
+Mashgurey
+Maslakan
+Maslovka
+Massiv Omgonskiy
+Mastirdzhi
+Matrosovskaya
+Matushkina
+Matveyevskiy
+Maya
+Mayakkanangas
+Maykhenskiy
+Maylata
+Maymachan
+Maymagun
+Maymavaara
+Maynskaya-Ostraya
+Maytosyarenkangas
+Mazavalu
+Mechty
+Medika
+Medvedevskaya
+Medvezh'ya Golova
+Medvezhiy Varak
+Mel'gin
+Mel'nitsa-Vara
+Mende-Vara
+Menzinskiy
+Merkur'yevskiy
+Merkushina
+Messo
+Meteosluzhba
+Mevachan
+Mevandzha
+Mezhdorozhnaya
+Mezhdugornaya
+Mezhduozërnaya
+Mezhzhelonsko-Revunskiy
+Mgotinskiy
+Michgisurom
+Migunikha
+Mikhaylovka
+Mikizhinskiy Mys
+Mikkelitunturi
+Mikkulanmyaki
+Mikly-Shop
+Millionnaya
+Milliony
+Milovskiy
+Minchangda
+Mineral'naya
+Minskaya
+Mironova
+Miroshikha
+Mishënnaya
+Mitra
+Mitseshta
+Mitsulevka
+Mitsulya
+Mityushëv Kamen
+Mivochan
+Mizerkort
+Mizinets
+Mladshiy Brat
+Mnogoruch'ye
+Mochalovskaya
+Mochankit
+Modotyy
+Modu
+Mogot
+Mogoyta
+Moisti
+Mokhnatukha
+Mokhnatyy Mys
+Moklikhan
+Moko
+Mokulay
+Mol'ka
+Molongdinskiy
+Moltonacha
+Monastoy
+Mongoli
+Monkino
+Monokey
+Monovara
+Moral
+Mordovskaya Shishka
+Morel
+Morshchinnaya
+Moto-Musyur
+Moyl
+Moysta
+Mozeyuga
+Mozir
+Muisak
+Mukalkaya
+Mukaltebe
+Mukdochik
+Mukdykan
+Muktana
+Mul'tamyaki
+Muleyka
+Muli
+Munaka
+Mungash-Kul
+Munintump
+Munkhan
+Munku-Sasan
+Muola
+Murashovskiy
+Murtydzhak
+Mus-Khaya
+Musostau
+Muy
+Muyachin
+Muyumyaki
+Muzhich'ya
+Muzuk-Tegey
+Myasel'kya
+Mygvarebarzond
+Myrmaseda
+Mystylybashu
+Myukryavara
+Mzy
+Nabat
+Nabil
+Nablyudatel'naya
+Nachaga
+Nad Oplyvnoy
+Nadezhdinskaya
+Nadëzhnaya
+Nadlesnaya
+Nadskal'naya
+Nadyrpe
+Nagay-Koshki
+Nagaya
+Nagor'ye Sangilen
+Nakhalovka
+Nakhshir
+Nakul
+Nalgimka
+Nalgimskaya Vershina
+Nalgumshivroko
+Nalim
+Nalipala
+Namalinga
+Namshuka
+Namtyn-Khayrkhan
+Namul'ga
+Namunksa
+Nangandya
+Nanivo
+Narin-Nyurgol
+Narkhiyakh
+Narne-Khada
+Narost
+Narpora
+Nasedkina
+Nasyp
+Natalka
+Nateyynryn
+Naurskaya
+Nay-Khabar-Musyur
+Nayboretskaya
+Naymekagan
+Naystryun
+Nazarovskiy
+Nazn-Tologoy
+Nedremannaya
+Nedrus
+Nedykta
+Negasimaya
+Neksis
+Nelayk
+Nemcha
+Nemkide
+Nemkuchenskiy
+Nemuy
+Nenget
+Nenichir
+Nepochutani
+Neprivetlivaya
+Neralakh-Opkata
+Nerchinsko-Kuenskiy
+Nerediga
+Nerundakan
+Nerundya
+Neruta-Selem-Koyd
+Nerysparma
+Neter
+Neustruyeva
+Nevan
+Nevel'skaya
+Nevidnaya
+Nevskaya
+Nevzrachnaya
+Nevzrachnyy
+Nezavidnaya
+Nezhdanka
+Nganosiseda
+Ngotoriseda
+Nigva
+Nika
+Nikiforova
+Nikitinskaya
+Nikolay
+Nikolaychan
+Nil'koba
+Nimi-Makit
+Ninivara
+Niolo
+Nivkhskaya
+Nizh Gusinaya
+Nizhegorodskaya
+Nizhnekalarskiy
+Nizhneye Shibe
+Nizhniy Bul'gin
+Nizhniy Kondër
+Nizhniy Salagat
+Nizhnyaya Bomba
+Nizhnyaya Dyagdana
+Nizhnyaya Khaymichi
+Nizhnyaya Tangukta
+Nizovka
+Nogokan
+Noni
+Novaya Grushëvka
+Novaya Listvennaya
+Novi
+Novokamenka
+Nuch'bira
+Nudnaya
+Nul'tundra
+Numskaya Tsep
+Nutovo
+Nyacha
+Nyadaly
+Nyadbaki
+Nyannaga
+Nyaruype
+Nyauli
+Nyaura
+Nygay
+Nykhytbashi
+Nynynga
+Nyri
+Nyubku
+Nyukhta
+Nyul'kachan
+Nyulik
+Nyurgastyy
+Nyurun
+Nyuyel'-Khayata
+Obeiz
+Obinskaya
+Obkoronda
+Obodnaya
+Obogur
+Oboyma
+Obuton
+Ochandakh
+Odinokiy Kamen
+Odui
+Odzhal-Gogda
+Ofitserskaya
+Ogdolok
+Ognë
+Ogolesova
+Ograda
+Ogurtsovo
+Okha
+Okhandya
+Okhchinskiy
+Okimiyama
+Okopnaya
+Oktachi
+Ol'dukhankhokh
+Ol'ginskiy
+Ol'vinskiy Kamen
+Olega-Ytabyt
+Olëkminskiy
+Olgomda
+Olgondo
+Olinda
+Olondokhon
+Olonoye
+Olyutorskiye
+Omchikskaya
+Omonikan
+Omor
+Omulat
+Omulëvaya
+Omut
+Onaki
+Onastere
+Onega
+Onezhskaya Gryada
+Onkon
+Onnenmyaki
+Onnetok
+Onor
+Onorskiy Shchit
+Ontonvaara
+Oongan
+Opottamyaki
+Opytnaya Gorka
+Orel
+Orion
+Oritvaranmyaki
+Orkhon
+Orkun'i
+Orlënok
+Orlik
+Orlikha
+Orlovskaya
+Orogo Zapadnyy
+Orolo
+Oron
+Orta-Gerish
+Ortaa-Semistey
+Ortodag
+Ortourek
+Ortyryk
+Orulgan
+Orzena
+Oscar
+Osetrovaya
+Osinovyy Greben
+Oskalennaya
+Oslyanka
+Ostashkovskaya Gryada
+Ostraya Vershina
+Ostrovnaya
+Otgolosok
+Otkroveniye
+Otnozhnaya
+Otramyaki
+Otrez
+Otrogi
+Otrub
+Otshel'nik
+Oumskaya
+Ovech'ya
+Overon
+Ovet
+Oviny
+Oyën
+Oyur
+Ozhidayushchaya
+Paarkov-Sarlopy
+Pagicha
+Paiddevedd
+Pakhachinskiy
+Pakhakallio
+Pakhasuonmyaki
+Pakhi
+Pakhotnyy
+Pal'vo
+Palakha
+Palatochnaya
+Palkankil
+Palovara
+Panfilova
+Panskiye Vysoty
+Panzarka-Musyur
+Papinvuoru
+Papkina
+Paravyseda
+Parayeta-Dag
+Parchib
+Parsanova
+Parshivyye
+Pashkina
+Pasmurchaya
+Patavuori
+Patyn
+Pavlovka
+Payulakhdenmyaki
+Payyermyl'k
+Pechal
+Pechorskaya Gryada
+Penzhinskiy
+Peremëtnaya
+Peremilovskiye
+Peretychikha
+Pereval'nyye
+Perevalovskiy
+Perevoznaya
+Peristaya
+Perm
+Persi
+Perttisel'kya
+Pervaya Kazanka
+Pervaya Kilami
+Pervyy Brat
+Peryalammenkangas
+Peryateyu
+Peshchery
+Peski
+Petrozuyevka
+Petruseva
+Pettyayakallio
+Pevek
+Pezha
+Piche-Pandra
+Pidukonskiye Vershiny
+Pieni Vohtastunturi
+Pikku-Nyatyavara
+Pikkutunturi
+Pikshuyev
+Pilengovskiy
+Pilomyaki
+Pimigli
+Pinachevskiy
+Piro
+Pirttivara
+Pisinmyaet
+Piskunovka
+Pitkov Kamen
+Piyeni-Mar'yakangas
+Piyeni-Pekkapolvenmyaki
+Pkhazdaktkhaku
+Pleshi
+Pleshok
+Ploskoverkhaya
+Ploskovershinnaya
+Pnyksun
+Pochepsukha
+Pochepta
+Pochinka
+Pochtarka
+Podgriva
+Podkamushki
+Podkhayan
+Podmogil'naya
+Podsolnechnaya
+Pokashtuaya
+Pokataya
+Pokruayv
+Polba
+Poletayevka
+Polkovoy Kurgan
+Polmos
+Poludennyy Bardym
+Polugorelaya
+Polyanka
+Pomidor
+Pon'yan
+Ponomarëva Griva
+Popad'ya
+Popova Shishka
+Poronay
+Poronayskaya Tsep
+Porrasvara
+Porsukh-Dakh
+Portevara
+Poruchikova
+Postantyube
+Potykalda
+Povarskaya
+Poyas'ye
+Pravaya Birushka
+Pravaya Kaban'ya
+Pravaya Starikova
+Pravyy Kuchulym
+Pravyy Nerkakchan
+Predok
+Pregrada
+Prival
+Prival'naya
+Privetlivaya
+Priyut
+Progon
+Prokop'yevka
+Prokopiya
+Proterebi
+Pryamaya Pad
+Pshekish
+Psif
+Psiti
+Ptich'i
+Puchi
+Pud'ya
+Pudov
+Pugachëva
+Pukkimya
+Pulkunmeer
+Pulla
+Pulya
+Pupok
+Purkikit
+Pustaskhyl
+Putanaya
+Putkil
+Pyakallomyaki
+Pyatachok
+Pyatnistaya
+Pykhtilovka
+Pylga
+Pyuëryavara
+Pyukalikko
+Pyukyalistenmyaki
+Radial'naya
+Raduga
+Rakovaya
+Ramochnaya
+Rampakonmyaki
+Rangina
+Rasatl
+Rasilanmyaki
+Rassomashnaya
+Razboynich'ya
+Razdol'ye
+Razreznaya
+Redkolesnaya
+Redkolesnyy
+Rekon
+Relochnaya
+Remazh
+Repinskaya
+Reponiyemi
+Reshetnikova
+Retusillanmyaki
+Revnyukha
+Reyeney
+Rifmanskiye
+Rik
+Rikabmeer
+Rintenvara
+Risk
+Risor
+Ritavara
+Ritsel'kya
+Riukuvara
+Rivassillanmyaki
+Rodan
+Roden'ga
+Rog
+Rogachen
+Rogdomeer
+Rogovka
+Roman
+Romashika
+Romazanova
+Rosa Khutor
+Rossomakha
+Roza
+Rozhdënnaya
+Rubka
+Rudakova
+Rugozerskaya
+Ruokovara
+Ruostenmyayet
+Ryabaya Strelka
+Ryabinikha
+Ryabinovka
+Ryabovara
+Ryazanova
+Ryazanovka
+Rylovskaya
+Ryndzhi-Age
+Rytsar
+Rytsarskaya
+Sabida
+Saduingra
+Saduziszferi
+Sagalkan
+Sagan-Khada
+Sagan-Kushun
+Sagan-Tolgoy
+Sagdzhemu
+Sakai Yama
+Sakastinmyaki
+Sakaytau
+Sakhar-Armuzi
+Sakmuil
+Sakpaly
+Saktymar
+Sal'dzhur
+Sal'nyye Tundry
+Salabeyseda
+Saladag
+Saladzhak
+Salatyube
+Salbakty
+Salbyk
+Salmiozero
+Salodka
+Salokachi
+Salolu
+Salyampe
+Samaldzha-Khayata
+Samka
+Sammakonsel'kya
+Samurkaya
+Sanatorskaya
+Sancharo
+Sanku
+Saplyushka
+Sar'yanova
+Sarabakannymeer
+Sarafannaya
+Sarakuntuy
+Sarkh'yat
+Sarkiyansyarkyat
+Sarminskiy Golets
+Sartygyr
+Saryg-Tayga
+Satarakh
+Sauli-Khanko
+Savinskiy
+Savkina
+Sayakor
+Sayanetskaya
+Sayenkova
+Sebikhoy
+Sech
+Seda
+Sedlukha
+Sekirnaya
+Sel'devaya
+Selemdzhinskaya
+Seliya
+Selotykort
+Semenikhina
+Semënovskaya
+Semënovskiy Bazar
+Semikolenka
+Sëmkina
+Sen'kin Stolb
+Sennaya Kurtyazhnaya
+Sepyanmyaki
+Serdauk
+Serebryakova
+Serebryanskiy Kamen
+Seregay
+Serezh
+Sergushkin Kamen
+Severnaya Khyymyndya
+Severnoye Pseashkho
+Severnyy Baseg
+Severnyy Dyryndinskiy
+Severnyy Lyavochorr
+Severnyy Tabatay
+Severnyy Ural
+Severnyye
+Severo-Vostochnyy
+Seykarga
+Seyvenduk
+Sezal'skaya
+Shakhre
+Shaktazh
+Shal'demar
+Shalbuzdag
+Shalupnyak
+Shan
+Shana-Sar'dag
+Shara
+Shara-Burta
+Sharaltau
+Sharbuyanta
+Sharilam
+Sharkum
+Shaukam
+Shaurtu
+Shavlitskaya
+Shayba
+Shaynayarvi
+Shaytanny
+Shchapino
+Shchedrovka
+Shchelkantau
+Shcheryabash
+Shek
+Shel'tinga
+Shelest
+Shelgon
+Sheludivyye
+Shenisytuy
+Shentavni
+Sherengituy
+Shergyl
+Shershiltau
+Shestiglavaya
+Shetykan
+Shevernya
+Sheykina
+Shidaktyub
+Shildigen
+Shilka Suglannaya
+Shimeroy
+Shipunova
+Shir
+Shishan
+Shishka Pervaya
+Shishki
+Shishna
+Shiskina
+Shitovskiy Tolstik
+Shmidta
+Shpil'-Tarbagannakh
+Shpilëva
+Shturm
+Shtykino
+Shtymbashi
+Shubnaya
+Shugun-Muodi
+Shumikha
+Shumikhinskiy
+Shun
+Shunchikha
+Shunut
+Shuraba
+Shurabatau
+Shuri-Vara
+Shutochnaya
+Shutova
+Shuururta
+Shuya
+Sibirtseva
+Sieltakh
+Sigbo
+Sigindak
+Sigovaya
+Sikashty
+Sikhote-Alin
+Simkina
+Simulyanak
+Sindzeb-Musyur
+Sinegory
+Sinepal'naya
+Singaseda
+Sinki
+Sinyy
+Siregnan
+Sirena
+Sirotskaya
+Sivakchan
+Sivara
+Siverka
+Sivseda
+Siyanskaya
+Siyetindenskiy
+Siziman
+Skala Novaya
+Skalistiy
+Skalka
+Skaly
+Skirda
+Skuchnaya
+Skupaya
+Skvortsovka
+Slam
+Slavutnyye
+Slavyanka
+Slezlivaya
+Sliuznovka
+Sludny
+Smagina
+Smirnova
+Smolivskaya Gryada
+Snake
+Snayper
+Sobolinka
+Sobor-Skala
+Sochuko
+Sof'ya
+Sokhatinyy Mys
+Sokhatyy
+Sokhondo
+Sokolik
+Sokolikha
+Sokolovka
+Sokolovskaya
+Sokto-Ula
+Solak
+Soldat
+Solomakhina
+Solomonova
+Solyanka
+Som
+Sommer
+Somnitel'naya
+Sonel
+Sopki Brevennyye
+Sopki Kol'dki
+Sopki Kon'kovskiye
+Sopki Kuz'minskiye
+Sora
+Sorakh
+Sorronmyaki
+Sosvane
+Soto
+Sovebek
+Soyn
+Sozim-Yura
+Sozol
+Spasskiy Bugor
+Splavnaya
+Sputnitsa
+Spytkova
+Sredniy Razdel
+Sredniy Safron
+Srednyaya Khetany
+Srednyaya Odola
+Stannakh
+Starikova
+Staritsy
+Starkovka
+Start
+Startseva
+Stena
+Stepanovka
+Steshkina
+Stlantsevaya
+Stokap
+Stolbovskiye
+Stolbyanaya
+Stolovyye
+Strazh Dzhugdzhura
+Strelitsa
+Stryyskaya
+Suakta
+Suariyarvi
+Suburgan
+Sud'ba
+Sudulungu
+Sukhanovka
+Sukhayta
+Sukhiye
+Sulavaara
+Sulen
+Sulimo
+Sulukhachan
+Sumanykaldy
+Sumbur
+Sumkkh
+Sumukanmyaki
+Sunikan
+Suol Khaya
+Suor-Dzhiyeta
+Suramakit
+Suribachi-yama
+Suricha
+Surkhkhokh
+Surmyaki
+Surtandy
+Sushchëva
+Suvalty
+Suyabimeer
+Suyekty
+Svechnikov
+Svinyachiy
+Svistukha
+Svistunikha
+Svyalik
+Syaryaslaki
+Sybyken
+Sygaryya
+Sykhek
+Sylbak
+Syltrankël'-Bashi
+Syndygra
+Syrkh
+Syroy
+Syuge-Khaya
+Syur'yavara
+Tadi
+Tadinskiy Solnopëk
+Tagarrag
+Tagul'skiy
+Takachin
+Takhimata-Undur
+Takhomo-Kkhe
+Takhu
+Talachinskiy
+Talan-Gozogor
+Taldyg-Tynkit
+Tambovka
+Tamunër
+Tamusakh
+Tanachenka
+Tannu-Ola
+Tapkhar
+Taprimyaki
+Taradanovskiy Uval
+Taragay
+Tarakanovskiy
+Taraskina
+Tarbagannakhskiye Gol'tsy
+Tarkaltuy
+Tarkhovskiy
+Tarur
+Tas-El'bekhskaya Gryada
+Tas-Kyuyel
+Tas-Tun-Bashi
+Tashelan
+Tashi-Kort
+Tashlytau
+Tashtuzyak
+Tashtyktau
+Taskyl
+Tatarikha
+Tattrimyaki
+Taulan
+Tausa
+Tavlinka
+Tavuvnan
+Taygonos
+Taykanskiy
+Tazagon
+Techin Bugor
+Tega
+Teglovskiy
+Teledzha
+Televizionnaya
+Ten'kovaya
+Tenkenskaya
+Tenkergynay
+Tepkhir
+Tepselitau
+Tepsey
+Terengul
+Terëshina
+Terpey-Musyur
+Tesovisna
+Teterevka
+Tetir-Tyz
+Tëtya Shura
+Teuravara
+Teve
+Tibiguty
+Tienpyayantunturi
+Tigir-Tayan
+Tigrinka
+Tigrovyy Dom
+Tikhon Shabuninskiy
+Tikhon Vostochnyy
+Tikhoretskaya
+Til'myg
+Timaiz
+Tinagameer
+Tinagu Meer
+Tingan
+Tirbey
+Tirekhtyakhskiy
+Tirippu San
+Titovskaya
+Tiutl
+Tkhalasi
+Tlimkapusli
+Tod
+Togan
+Togotuy
+Togulënok
+Tokarëva
+Tokhtinskiy
+Tokinets
+Toksoko
+Toksuk
+Tokuinka
+Tokun
+Tokunda
+Tolgoy
+Tollya
+Tolmachikha
+Tologoy
+Tolon
+Tolstikha
+Tolukha
+Toluyan
+Tom-Khalta
+Tomar
+Tomas
+Tomi
+Tomilova
+Tomskaya
+Tomtor-Tasa
+Tongon
+Tonnel
+Tonum
+Top of K lift
+Topkay
+Topolevaya
+Topty
+Toptycha
+Toptygin
+Tora
+Torgolkit
+Toriki Yama
+Torma
+Torom
+Toropetskiye Gryady
+Torreporreiz
+Toyon-Tasa
+Tozha
+Trans
+Tranzitnaya
+Trek
+Tret'yakova
+Tri Druga
+Tri Mara
+Trokinda
+Troll
+Tropnaya
+Trostnikovaya
+Truba
+Tsady-Rog
+Tsagan-Tsolotoy
+Tsagarnayrag
+Tsantatau
+Tsarevskaya
+Tsaskhy-Borzen
+Tsasyntuy
+Tsats
+Tsatskhirikhokh
+Tsebara
+Tseloval'nikova
+Tsentral'nyye
+Tsep' Balygychanskaya
+Tserkov
+Tsettikangas
+Tsibulikha
+Tsiokl
+Tsmiakomkhokh
+Tsobolgo
+Tsokul'dag
+Tsoronskiy Utës
+Tsugol'skiy-Khara-Tologoy
+Tsukhgartykom
+Tsvetnaya
+Tsygankova
+Tuarman
+Tuba
+Tuda
+Tugan
+Tugandy
+Tugluyskaya
+Tugumynk
+Tugurskiy
+Tukchasan
+Tuki
+Tukuidalyk
+Tulikan
+Tulppakhk
+Tumanson
+Tumenit
+Tumnin
+Tumumyn
+Tumusakh
+Tunkinskaya Griva
+Tunkinskiye Gol'tsy
+Turali
+Turanvara
+Turbat
+Turbuya
+Turdam
+Turka
+Turkhan-Ulan
+Turkmenskaya
+Turminskiy
+Turpay
+Turzlikh
+Tut-Khaltuy
+Tutkan
+Tutkhalta
+Tvërdaya
+Tverskaya Gryada
+Tygitkit
+Tyllakh-Khaya
+Tylya
+Tymygen'-Tunup
+Tyna
+Typkhey
+Typkuchi
+Typtyrga
+Tyrkuten
+Tyrminskiy
+Tytyl'ken
+Tyul'panovskaya
+Tyulen
+Tyurtoyva
+Uary
+Uba
+Ubin'su
+Ubyr-Khalzan
+Uchashchina
+Uchkaren
+Uchkhala
+Udaku
+Udi
+Udomi
+Ufa
+Ufaleyskiy
+Ugar
+Ugergi
+Uglegorskiy
+Uglevaya
+Uglovoy
+Uguktaki
+Ugutuy
+Ukha-Shulun
+Ukha-Tologoy
+Ukha-Under
+Ukhindag
+Ukhtomskogo
+Uksunsel'kya
+Ukturka
+Ukurunru
+Ukury
+Ul'guytuy
+Ul'inskiy
+Ul'zuytuy
+Ulagan
+Ulakhan-Bom
+Ulakhan-Sis
+Ulan-Buben
+Ulan-Burgasy
+Ulan-Nor
+Ulaya
+Ulaykan
+Ulike
+Ulikinskiy
+Ullukaya
+Ullukol
+Ullutin
+Ulu Baynas
+Ulug-Chinchilig
+Ulug-Kirba
+Ulugurtau
+Uluntyn-Bel'chir
+Uluyar
+Ulya-Gon
+Umkhana-Muza
+Umnym
+Umylynan
+Unal'din
+Unandya
+Unduk
+Undygen-Sinyaya
+Uneken
+Unerikan
+Uneshen-Sardyk
+Ung
+Unitsanlammenmyaki
+Untuvon
+Unty
+Uochat
+Uorgalakh
+Upryazhka
+Uradadag
+Uragalibek
+Uraridag
+Uratman
+Urda-Eren
+Uremi
+Uren'ga
+Urgal'skiy
+Urguyan
+Urkhayuk
+Urli
+Urlyadinskiye
+Ursa
+Urukhty
+Urul'tun
+Urunge-Kkhe
+Urunkiya
+Uryadnikova
+Uryumkanskiy
+Uryung-Khastakh
+Ushkanskaya
+Ushkort
+Ushmunskiy
+Usmuk
+Uspeniya
+Uspenskaya
+Ust
+Ust'-Avlandya
+Ust'-Ikindinsk
+Ust'-Ilin
+Ust'-Kivili
+Ust'-Purtov
+Ust'-Utanakh
+Ust'ye Karan
+Ust'ye Nalbondya
+Ust'ye Nyadbaki
+Ust'ye Nyury
+Ust'ye-Lyudyu
+Ustupchataya
+Ustyu-Kadynyk-Pazhi-Tayga
+Usuk-Tas
+Usutur
+Utak
+Utat
+Utkal'tash
+Utkin Bugor
+Utomitel'naya
+Uttunalu
+Uval Khondeymyl'k
+Uval Smolenskiy
+Uvarova
+Uybatskaya
+Uymuraysenmyaki
+Uyni
+Uzhum
+Uzhum Vtoroy
+Uzlek
+Uzyuktau
+V'yuchnaya
+Vaapalek
+Vagina
+Vagorskaya
+Vakhromikha
+Vakhtennaya
+Vakkovara
+Vakshelashvara
+Valentinovka
+Valetnaya
+Valkhanay
+Valunnyy
+Vampir
+Van'kin Belok
+Van'kova
+Vana
+Vanda
+Vangelen
+Vanyagurt
+Vara
+Varasma
+Varkhadag
+Varpasel'kya
+Varttisenmyaki
+Varvara
+Vava
+Vavilonskiye Stolby
+Vavilova
+Vekhkavara
+Vekhnyavara
+Velikiy Agar
+Velikiye Luzhki
+Velikoman
+Velolnyk
+Vengeri
+Venyukovo
+Veranda
+Veresovaya Strelka
+Verkhne-Urutukanskaya
+Verkhniy Chankar
+Verkhniy Chelasin
+Verkhniy Ogrod
+Verkhniy Taguzbarz
+Verkhniye Sololi
+Verkhnyaya Bomba
+Verkhnyaya Dyagdana
+Verkhnyaya Gaodaga
+Verkhnyaya Giga
+Verkhnyaya Khatyryk
+Verkhnyaya Pantovaya
+Verkhnyaya Struynaya
+Verkhnyaya Tangukta
+Verkhnyaya Uyni
+Verkhov'ye Chakataya
+Verkkomyaki
+Vershina Dzhelinda
+Vershina Sutary
+Vershina Tygdy
+Vershina Tymbyra
+Vershina Ulyuty
+Vershina Vodyanaya
+Vershina-Sanduga
+Vershinka
+Verti
+Vesëlyy Mys
+Veter
+Vetrov
+Videnka
+Viktoriya
+Vilesova
+Viliya
+Vilovataya
+Vilyuyka
+Vinagan
+Vinnaya
+Vinnovskiye
+Virda
+Vishennaya
+Visla
+Vislukha
+Vitchyavaara
+Vityazya
+Vivi-Khon
+Viyaynalkhan
+Vlasenkova
+Vodoley
+Voinmyaki
+Volnorez
+Volokvyneytkon
+Volov'i Luzhki
+Volshepakhk
+Vonda-Musyur
+Vorob'yëvskaya
+Vorona
+Voronina
+Vospolitochino
+Vostochnaya Karakty
+Vostochnyy Khakivdyak
+Vostochnyy Kinzhal
+Vostochnyy Tannu-Ola
+Votkamyaki
+Vozdvizhenka
+Vozvrashcheniya
+Vozvyshennost' Ondomozerskiye Keyvy
+Vozvyshennost' Pemboy
+Vozvyshennost' Vysokaya Zemlya
+Vozvyshennost' Ydzhyd-Parma
+Vozvyshennost' Yevseiyu-Bulgunnyakh
+Vozvyshennost' Zemlya Bunge
+Vstavnaya
+Vtoraya Amba
+Vtoraya Lipovaya
+Vulkan Kuntomintar
+Vulkan Leytungey
+Vulkan Severgina
+Vutelemsa
+Vyatskiy Uval
+Vyazovka
+Vydayushchayasya
+Vyltymyyentynup
+Vymsko-Vol'skaya Gryada
+Vynykynskaya
+Vyrbuduk
+Vysokaya Griva
+Vystup Litvintseva
+Vytavynay
+Vyyetchan
+Vyzhlya
+Vzrudzhekhokh
+Yaayakan
+Yablonovyy
+Yakan
+Yakhaya
+Yako
+Yakov
+Yakun'kin Kholm
+Yaltukhova
+Yamantash
+Yamov
+Yanbakhtova
+Yankovskogo
+Yantal'skiy Golets
+Yantul
+Yanu
+Yany-Kvot-N'yer
+Yanychan
+Yanygtump
+Yanyyanyy
+Yarku
+Yaroslavskaya
+Yaryshtau
+Yashchur
+Yashkin-Klyuch
+Yastchan
+Yasytay
+Yasytayskiy
+Yava
+Yaytso
+Yazgyyurt
+Yefimova
+Yegorovskaya
+Yegyuzlëruchu
+Yekhe-Bil'chir
+Yekhe-Gorkhon
+Yel'ga
+Yelga
+Yelkandaya
+Yellemyaki
+Yelochnaya
+Yelovskiy Belok
+Yemy
+Yenashimskiy Polkan
+Yenëk
+Yeniseyskiy Kryazh
+Yeniskey
+Yërga
+Yergalakh
+Yermilov
+Yermolaya
+Yermolinka
+Yernishnyy
+Yershovka
+Yevchen-Vara
+Yevzhivara
+Ygyrba
+Ynatnay
+Yrnyuuyvyn
+Yt-Ottuk
+Yuktolin
+Yulten
+Yunony
+Yunost
+Yunuyurseda
+Yur'yevy
+Yurkyanmyaki
+Yurmashka
+Yurovka
+Yurta
+Yurtovskaya
+Yuse
+Yusha
+Yuttumyaki
+Yuzhnaya Levada
+Yuzhno-Kamyshovyy
+Yuzhno-Muyskiy
+Yuzhnyy Dombay-Ul'gen
+Yuzhnyy Dyryndinskiy
+Yuzhnyye Khmeli
+Zaami
+Zabagyr
+Zabor
+Zabrodkin Kamen
+Zabroshennaya
+Zaganskiy
+Zaikina
+Zaimochnaya
+Zakhara
+Zakharov
+Zakkakhokh
+Zalman
+Zamanikha
+Zametnyy Kamen
+Zan'd'ya-Gozagor
+Zanguchay
+Zapadno-Lisyanskiy
+Zapadnyy Sayan
+Zapadnyy Tannu-Ola
+Zarad
+Zarakhoy
+Zarechnyy
+Zargaylam
+Zargol
+Zastol'naya
+Zatës
+Zauk
+Zaur
+Zaykina
+Zelenina
+Zerbo
+Zevs
+Zeya
+Zhalgan
+Zhamsaran-Undur
+Zhar
+Zharin Bugor
+Zharkovnyy Kamen
+Zheleznyy Kamen
+Zheltokamennaya
+Zherdoma
+Zherebtsovaya
+Zhnitsa
+Zhuk
+Zhuravl
+Zhuravlëva
+Zhurskaya
+Zhuzhova
+Zigfrid
+Ziminskiy Khariken
+Zinduk
+Zirgan
+Zizakh
+Zizdaaklita
+Zmeinyye
+Znamenskaya
+Zolotoy Kamen
+Zolotukha
+Zolu
+Zonova
+Zor'ka
+Zori
+Zrenkoro
+Zubarevskaya
+Zubrilova
+Zudyra
+Zum-Bortoy
+Zun-Ara
+Zun-Eriebey
+Zun-Undur
+Zuzi
+Zvanka
+Zvezdin

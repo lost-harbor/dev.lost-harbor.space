@@ -1,0 +1,958 @@
+Białe	11
+Czarne	11
+Długie	11
+Głębokie	8
+Wielkie	6
+Dołgie	4
+Krzywe	4
+Mielno	4
+Ostrowite	4
+Piaseczno	4
+Wielgie	4
+Chłop	3
+Dłużek	3
+Ostrowiec	3
+Skąpe	3
+Bialskie	2
+Ciche	2
+Czarny Staw	2
+Dębno	2
+Dobskie	2
+Duże	2
+Dłużec	2
+Gardno	2
+Jańsko	2
+Jeleń	2
+Jeziorak	2
+Jeziorko	2
+Karpino	2
+Kocioł	2
+Krzemień	2
+Lubiatowskie	2
+Lubie	2
+Małe	2
+Mokre	2
+Oczko	2
+Okunino	2
+Pakoskie	2
+Piaski	2
+Piaszno	2
+Płaskie	2
+Płotycze	2
+Sitno	2
+Sumin	2
+Świętajno	2
+Sławskie	2
+Trzemeszno	2
+Tuczno	2
+Węgorzyno	2
+Woświn	2
+Zawadzkie	2
+Łąkie	2
+Arklickie
+Babięty Małe
+Babięty Wielkie
+Bachotek
+Bądze
+Balewskie
+Barlewickie
+Barlineckie
+Bartężek
+Będargowo
+Będgoszcz
+Będzin
+Berzyńskie
+Betyń
+Bełdany
+Biała
+Białe Filipowskie
+Białe Sosnowickie
+Białokoskie
+Białoławki
+Biedowa Młaka
+Bielaway
+Bielskie
+Bielsko
+Bierzwnik
+Bikcze
+Binowskie
+Biskupickie
+Bitkowskie
+Blanki
+Bledzewskie
+Blizno
+Bnińnskie
+Bobięcińskie
+Boksze
+Bolesty
+Borak
+Borowe
+Borowno
+Borówno
+Borzymowskie
+Borzyszkowskie
+Brajnickie
+Branickie
+Brdowskie
+Brodno Niskie
+Brodno Wysokie
+Brody
+Brodzkie
+Brożane
+Brudno
+Brudzieniec
+Bryńskie
+Brzekoleńskie
+Brzeziczno
+Brzeźno
+Brzeżno
+Brzozolasek
+Bucierz
+Budziszewskie
+Budzisławskie
+Bukowe
+Bukowieckie
+Bukówno
+Bukowo
+Burgale
+Busko
+Buwełno
+Bystrzyno Małe
+Bystrzyno Wielkie
+Bytyńskie
+Błądzimskie
+Błotne
+Cechyńskie Wielkie
+Cekcyńskie
+Chalińskie
+Charzykowskie
+Chełmica
+Chełmżyńskie
+Chlop
+Chobienickie
+Choczewskie
+Chojno
+Chomiąskie
+Chotkowskie
+Chrzypskie
+Chudowo
+Ciborze
+Cichowo
+Ciecz
+Ciecza
+Ciemino
+Cieszęcino
+Cisie
+Cycowe
+Czajcze
+Czarne-Gościnieckie
+Czarny Dół
+Czartowo
+Czerniak
+Czerniakowskie
+Czeszewskie
+Czos
+Czyste Małe
+Czyste Wielkie
+Człuchowskie
+Dąbie
+Dąbrówka
+Dąbrowskie
+Dadaj
+Damaszka
+Dargiejmy
+Dargin
+Dębno Wielkie
+Deczno
+Dejguny
+Dgał Wielki
+Diabelskie
+Dobrąg
+Dobre
+Dobropolskie
+Dolskie
+Dolskie Wielkie
+Dominickie
+Dominikowskie
+Domysłowskie
+Dormowski
+Dołgie Wielkie
+Dratów
+Drawsko
+Dręstwo
+Druglin
+Drużno
+Drwęckie
+Drwina
+Drzeczkowskie
+Drzonowskie
+Dubeczyńskie
+Dubie
+Dudeckie
+Durowskie
+Duza Baruja
+Duże Żnińskie
+Dworackie
+Dybowskie
+Dybrzk
+Dymaczewskie
+Dziarg
+Dziedno
+Dzierżążno
+Dzierzgoń
+Dłagie
+Dłusko
+Ewingi
+Ełckie
+Falmierowskie
+Firlejowski
+Gagnowo
+Gant
+Garbaś
+Garczyn
+Gardyńskie
+Gardzień
+Gardzko
+Gąsawskie
+Gaudy
+Gawlik
+Gęgnowskie Wielkie
+Gielądzkie
+Gil
+Gil Wielki
+Gim
+Giżno
+Giłwa
+Glinki
+Glinno
+Glinowskie
+Godziszewskie
+Golubskie
+Gopło
+Gorbacz
+Góreckie
+Goryńskie
+Gorzuchowskie
+Gorzyńskie
+Gosciaz
+Gostyń
+Goszcza
+Gosławskie
+Gotuń
+Gowidlińskie
+Gołdopiwo
+Grabino
+Grabowskie
+Grądy
+Graniczne
+Grazymowskie
+Gremzdy
+Grodzieńskie
+Grojeckie
+Gromskie
+Grylewskie
+Grzybno
+Grzymisławskie
+Gugowo
+Gumienek
+Gumienko
+Gutno
+Gwiazdy
+Gwieżdziniec
+Głębiniec
+Głebokie
+Głębówko
+Głowińskie
+Głuche
+Głusza
+Głuszyńskie
+Hajka
+Hańcza
+Harsz
+Hołny
+Hutowe
+Ilińsk
+Ińsko
+Inulec
+Isąg
+Iławki
+Iławskie
+Iłgi
+Iłowatka
+Jagodne
+Jamno
+Jankowskie
+Janówko
+Januszewskie
+Jasień
+Jaśkowskie
+Jasne
+Jazy
+Jędzelek
+Jędzelewo
+Jegocin
+Jelenin
+Jesieńskie
+Jezierzyca
+Jezierzyckie
+Jeziora Juchacz
+Jeziora Skiertąg
+Jeziorka Duszatyńskie
+Jeziorsko
+Jezuickie
+Jeżysko
+Jełmuń
+Juksty
+Junno
+Kakaj
+Kalejty
+Kaliszańskie
+Kalwa
+Kamień
+Kamienica
+Kamienickie
+Kamieniczno
+Kamienieckie
+Kamienny Most
+Kamionkowskie
+Karaś
+Karkówko
+Karnickie
+Karpno
+Karsińskie
+Karskie Wielkie
+Kałebie
+Kępna
+Kęty
+Kiedrowickie
+Kielskie
+Kierskie
+Kiersztanowskie
+Kierwik
+Kierz
+Kierzlińskie
+Kiełbik
+Kiełpińskie
+Kikity
+Kinkajmskie
+Kisajno
+Klasztorne
+Klebarskie
+Klęckie
+Klępsko
+Kleszczów
+Kleszczyno
+Klipa
+Klukom
+Kochle
+Kociołek
+Koczalskie
+Kodno
+Kolno
+Komorze
+Konotop
+Konotopie
+Kopań
+Kopanickie
+Koprowo
+Kórnickie
+Koronowskie
+Kortowskie
+Korytowo
+Kościelne
+Koseniec
+Kosno
+Kośno
+Kownackie
+Kownatki
+Kozie
+Kozin
+Kołdrąbskie
+Kołomącie
+Krąg
+Krańsko
+Krasne
+Krasne-Krzczeń
+Kraśnik
+Krawno Małe
+Krawno Wielkie
+Kręcko
+Krępsko
+Kromszewickie
+Krosino
+Kruklin
+Kruszyńskie
+Kruteckie
+Krzemno
+Krzywa Kuta
+Krzywe Debsko
+Księżno
+Kuc
+Kuchnia
+Kucki
+Kukowino
+Kunowskie
+Kursko
+Kwiecko
+Kłączno
+Kłeckie
+Kłodno
+Kłosowskie
+Ląkowo
+Lampackie
+Laskie
+Laskowickie
+Lednica
+Legińskie
+Lekarty
+Leleskie
+Leńskie
+Leśno
+Lewinko
+Lgińskie
+Licheńskie
+Lichtajny
+Lidzbarskie
+Limajno
+Linciusz
+Linie
+Liniewskie
+Linówko
+Linowskie
+Lipie
+Lipienko
+Lipieńskie
+Lipno
+Liwia Łuża
+Liwieniec
+Lubiąź
+Lubich
+Lubicko Wielkie
+Lubicz
+Lubień
+Lubiewskie
+Lubikowskie
+Lubinieckie
+Lubińska Zapora Wodna
+Lubińskie
+Lubiszewskie
+Lubniewsko
+Lubotyn
+Lubowidzkie
+Lubowisko
+Lubowo
+Lubrza
+Lubstówskie
+Lucieńskie
+Lusowskie
+Luterskie
+Lutol
+Lutomskie
+Lutowskie
+Maciejak
+Majcz Wielki
+Makolno
+Mąkowarskie
+Malcz
+Mamry
+Margonińskie
+Marianowskie
+Marksoby
+Maróz
+Marwicko
+Marzkowo
+Maśluchowskie
+Mausz
+Małe Brodno
+Małe Sławno
+Małszewskie
+Mały Szelment
+Mętno
+Mełno
+Mialeczno
+Miedwie
+Miedzno
+Miejskie
+Mieliwo
+Mieruńskie Wielkie
+Mietkowskie
+Miełęcino
+Mikaszewo
+Mikorzyńskie
+Mikołajskie
+Milachowo
+Mildzie
+Mlewiskie
+Mochel
+Modla
+Modzerowskie
+Mój
+Morąg
+Morliny
+Morskie Oko
+Morzycko
+Mosąg
+Moszczonne
+Moszne
+Mszar
+Myśliborskie
+Mytycze
+Nadrybie
+Narie
+Narost
+Nawiady
+Necko
+Nicemino
+Nidzkie
+Niedackie
+Niedzięgiel
+Niedźwiedno
+Niegocin
+Niepruszewskie
+Nierybo
+Nierzostowo
+Niestobno
+Niesłysz
+Niewlino
+Niziel
+Nogat
+Notyst
+Nowodworskie
+Nowogardzkie
+Nożyce
+Obradowskie
+Obrzańskie
+Obłeskie
+Oćwieckie
+Ocypel Wielki
+Okmin
+Okole
+Okólnik
+Okonie
+Okonin
+Okonińskie
+Okrągłe
+Okret
+Okrzeja
+Oleckie Małe
+Oleckie Wielkie
+Omulew
+Oparzno
+Orchowe
+Orkusz
+Orle
+Orzyskie
+Orło
+Orłowskie
+Osa
+Osiek
+Ostrowickie
+Ostrowicko
+Ostrowieckie
+Ostrowieczno
+Ostrowin
+Ostrowo
+Ostrowskie
+Ostrzyckie
+Osuszyno
+Oświn
+Osłonińskie
+Otalżyno
+Ozero Krasnoye
+Paklickie Wielkie
+Paklicko Małe
+Pampowsee
+Papienko
+Paprocańskie
+Parzyn
+Pątnowskie
+Patulskie
+Pauzeńskie
+Pereszpa
+Pień
+Pierty
+Pierzchalskie
+Pile
+Piniewo
+Piotrkowskie
+Piskory
+Pisz
+Piżmacze
+Piłackie
+Piłwąg
+Pluszne
+Pobłędzie
+Pogubie Wielkie
+Polaszkowskie
+Polno
+Pomorze
+Popielewskie
+Postne
+Potegowskie
+Powidzkie
+Pozezdrze
+Pózrzadło
+Połcko Wielkie
+Probarskie
+Prostynia
+Przedecz
+Przemęckie
+Przepiórka
+Przerośl
+Przybiernowskie
+Przytoczno
+Przytonko
+Przytulskie
+Przywidzkie
+Pucołowski Stawek
+Płaczewo
+Pławno
+Płęsno
+Płociczno
+Płoń
+Płowęż
+Raczyńskie
+Radachowskie
+Radacz
+Radęcińskie
+Radno
+Radodzierz
+Radolne
+Radun
+Raduń
+Raduńskie
+Rajgrodzkie
+Rakutowskie Wielkie
+Rańskie
+Rąpino
+Ratno
+Recze
+Reczynek
+Rejowiec
+Renickie
+Resko Górne
+Rgielskie
+Robotno
+Rogowskie
+Rogoźno
+Rogóźno
+Rokita
+Rokitno
+Roś
+Rosnowskie
+Rospuda
+Rotcze
+Rożnowskie
+Rucewo Małe
+Rucewo Wielkie
+Ruda Woda
+Rudnickie
+Rudny Staw
+Rudusk
+Rudzieńskie
+Rumian
+Ruskie
+Rybnickie
+Rybojadło
+Rydwan
+Rydzówka
+Ryńskie
+Rzepinko
+Rzepsko
+Sajno
+Salęt
+Salińskie
+Salno
+Sambród
+Sandacznik
+Sarąg
+Sarbsko
+Sarcze
+Sasek Mały
+Sasek Wielki
+Sawinda Wielka
+Schodno
+Ściegienne
+Sędańskie
+Sejny
+Sejwy
+Seksty
+Selmęt Wielki
+Sępoleńskie
+Serwent
+Serwy
+Sianowskie
+Siecino
+Siemianowskie
+Siemieński Staw
+Sierakowo
+Silec
+Silm
+Skarlińskie
+Skomętno
+Skomielno
+Skrwilno
+Skrzynki
+Skulska Wieś
+Skulskie
+Ślepe
+Ślesińskie
+Smarzewskie
+Smiadowo
+Śniardwy
+Śniatowskie
+Sobiejuskie
+Solczyk
+Somińskie
+Sosna
+Sosno
+Sołtmany
+Śpierewnik
+Spólne
+Śremskie
+Sromowieckie
+Stackie
+Starzec
+Starzyc
+Staw Anielski
+Staw Hetman
+Staw Imielty Ług
+Staw Morawczyński
+Stawno
+Steklin
+Steklno
+Stelchno
+Stępuchowskie
+Stężyckie
+Stobno
+Stoczek
+Straduńskie
+Strażyn
+Stręgiel
+Stromek
+Strupino
+Stryjewo
+Strykowskie
+Strzeszowskie
+Stubnica
+Studnica
+Studzieniczne
+Studzieniec
+Sudomie
+Sulimierskie
+Sumino
+Sumińskie
+Sumówek
+Sumowo
+Sunia
+Sunowo
+Suskie
+Suszewskie
+Sułek
+Swarzędzkie
+Swidno
+Świdwie
+Święcajty
+Świerczyńskie
+Świerszczów
+Swięte
+Święte
+Swobnickie
+Symsar
+Szadzko
+Szarcz
+Szczuczarz
+Szczurze
+Szczutowskie
+Szczycienko
+Szczytno
+Szczytnowskie
+Szejpiszki
+Szeląg Wielki
+Szelment
+Szerzyna
+Szostak
+Szpitalne
+Szurpiły
+Szwałk Wielki
+Szydłowskie
+Szymbarskie
+Szymon
+Sławianowskie
+Słone
+Słowie
+Słupinko
+Słupino
+Słupowskie
+Tabórz
+Tajno
+Tajty
+Tarcżyńskie
+Tauty
+Tałtowisko
+Tałty
+Tejstymy
+Tomasznie
+Tonka
+Tonowskie
+Trazebomierz
+Trczienno
+Trupel
+Trzcinno
+Trzebidzkie
+Trzebiechowo
+Trzebielsk
+Trzebień
+Trzeboch
+Trzebuń
+Trzesiecko
+Trzygłowskie
+Tuchlin
+Tuchomskie
+Tumiańskie
+Turawskie
+Turowolskie
+Tylickie
+Tymień
+Tyrkło
+Ublik Wielki
+Udzierz
+Ukiel
+Urszulewskie
+Uścimowskie
+Uściwierz
+Uściwierzyk
+Ustrych
+Ułówki
+Velké Biele pleso
+Wadąg
+Wądół
+Wądzyńskie
+Wągiel
+Wągieł
+Wapińskie
+Warnickie
+Warnołty
+Waskie
+Wąsoskie
+Wąsosze
+Wąż
+Wałpusz
+Wdzydze
+Wędromierz
+Wełmick
+Wełtyńskie
+Wiartel
+Wicko
+Wicko Wielkie
+Widryńskie
+Wiecanowskie
+Więcborskie
+Wieckie
+Wieczno
+Wiejskie
+Wielatowo
+Wieleckie
+Wieleńskie
+Wielewskie
+Wielicko
+Wielimie
+Wielki Staw
+Wielkie Borzechowskie
+Wielkie Brodno
+Wielkie Dąbrowskie
+Wielkie Partęczyny
+Wierzbiczańskie
+Wierzchowo
+Wierzchucice
+Wierzchucinieckie Duże
+Wierzchucinieckie Małe
+Wigry
+Wikaryjskie
+Wilczkowo
+Wilczyńskie
+Wilkowskie
+Wilkus
+Witobelskie
+Witoczno
+Witoszewskie
+Witosławskie
+Wiżajny
+Wojnowo
+Wojnowskie
+Wojtowskie
+Wolickie
+Wolskie
+Woszczelskie
+Wołczyno
+Wrześno
+Wuksniki
+Wulpińskie
+Wydmińskie
+Wygonin
+Wyrówno
+Wytyckie
+Włókna
+Żabno
+Zaborsko
+Zabrzysko
+Zagnanie
+Zagłębocze
+Zalew Borki
+Zalew Kamieński
+Żalskie
+Zamecko
+Zamkowe
+Zarańskie
+Żarnowieckie
+Zarybinek
+Zaspowe
+Zawada
+Zbąszyńskie
+Zbiczno
+Zdbiczno
+Zdedy
+Zdrężno
+Zdrójek
+Zdrużno
+Zduńskie
+Zdworskie
+Żędowskie
+Żelewko
+Zelwa
+Zeńskie
+Żeńsko
+Żerdno
+Zienkowskie
+Zioło
+Żnińskie Małe
+Żołwin
+Zółwińskie
+Żubrowo
+Żukówko
+Zygmunta Augusta
+Zyzdrój Wielki
+Złotówskie
+Łabędź
+Łąckie
+Łąckie Wielkie
+Łagowskie
+Łąka
+Łąkorz
+Łąkosz
+Łańskie
+Łapalickie
+Łasińskie
+Łaśmiady
+Ławickie
+Łaźno
+Łebsko
+Łęguty
+Łękuk
+Łętowskie
+Łokacz
+Łoniewskie
+Łubie
+Łukcze
+Łukie
+Łukniańskie

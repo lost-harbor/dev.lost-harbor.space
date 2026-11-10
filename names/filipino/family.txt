@@ -1,0 +1,2364 @@
+Reyes	61
+Santos	56
+Cruz	53
+García	35
+Bautista	34
+Ramos	33
+Perez	32
+Lopez	30
+Padilla	30
+Mendoza	29
+Villanueva	29
+Aquino	24
+Castro	22
+Fernandez	22
+Rodriguez	22
+Diaz	21
+Gonzales	21
+del Rosario	18
+Lim	18
+Ocampo	18
+Flores	17
+Tan	17
+Morales	16
+Navarro	16
+Santiago	16
+Romuáldez	15
+Tolentino	15
+Bernardo	13
+Hernandez	13
+Soriano	13
+Sotto	13
+Delgado	12
+Francisco	12
+Gonzalez	12
+Guerrero	12
+Medina	12
+Moreno	12
+Rivera	12
+Rosales	12
+Torres	12
+Aguilar	11
+de Leon	11
+Dizon	11
+Garcia	11
+Laurel	11
+Ledesma	11
+Manalo	11
+Miranda	11
+Pangilinan	11
+Piccio	11
+Pineda	11
+Salvador	11
+Vargas	11
+Velasco	11
+David	10
+dela Cruz	10
+Marcos	10
+Marquez	10
+Revilla	10
+Uy	10
+Valdez	10
+Vergara	10
+Wilson	10
+Yap	10
+Zamora	10
+Arellano	9
+López	9
+Molina	9
+Romero	9
+Roxas	9
+Sanchez	9
+Abad	8
+Alejandro	8
+Araneta	8
+Atienza	8
+Domingo	8
+Duterte	8
+Elizalde	8
+Espinosa	8
+Estrada	8
+Gomez	8
+Mercado	8
+Ortega	8
+Pascual	8
+Ynares	8
+Acosta	7
+Aguinaldo	7
+Alcala	7
+Belmonte	7
+Benitez	7
+Blanco	7
+Castillo	7
+Dy	7
+Ferrer	7
+Fuentes	7
+Nepomuceno	7
+Parás	7
+Peralta	7
+Pimentel	7
+Sison	7
+Villegas	7
+Zobel	7
+Álvarez	6
+Arroyo	6
+Ballesteros	6
+Campos	6
+Co	6
+Cojuangco	6
+Cortez	6
+Daza	6
+de Castro	6
+de la Rosa	6
+de los Santos	6
+Díaz	6
+Ejército	6
+Enriquez	6
+Fernández	6
+Gamboa	6
+Gil	6
+Hontiveros	6
+Javier	6
+King	6
+Lacson	6
+Miller	6
+Neri	6
+Nieto	6
+Ochoa	6
+Ramirez	6
+Rivero	6
+Rosario	6
+Ruiz	6
+Sarmiento	6
+Sebastian	6
+Suarez	6
+Trinidad	6
+Tulfo	6
+Umali	6
+Velasquez	6
+Abellana	5
+Agoncillo	5
+Alonzo	5
+Alvarez	5
+Angeles	5
+Asistio	5
+Barretto	5
+Borja	5
+Briones	5
+Cabrera	5
+Cariño	5
+Carlos	5
+Cayetano	5
+Chavez	5
+Chua	5
+Concepcion	5
+Cuenco	5
+de Jesus	5
+Eigenmann	5
+Escudero	5
+Gómez	5
+Guevara	5
+Gutiérrez	5
+Herrera	5
+Jimenez	5
+Lápid	5
+Lazatin	5
+Macapagal	5
+Magsaysay	5
+Manuel	5
+Marcelo	5
+Nicolas	5
+Palma	5
+Pérez de Tagle	5
+Punò	5
+Ranillo	5
+Roman	5
+Salazar	5
+Salcedo	5
+Samonte	5
+Sy	5
+Teodoro	5
+Teves	5
+Torre	5
+Valencia	5
+Vera	5
+Villar	5
+Villareal	5
+Wong	5
+Yulo	5
+Agbayani	4
+Albert	4
+Alegre	4
+Alfonso	4
+Almario	4
+Amante	4
+Angara	4
+Antonio	4
+Arenas	4
+Bagatsing	4
+Binay	4
+Buencamino	4
+Bustamante	4
+Caballero	4
+Carpio	4
+Carvajal	4
+Cervantes	4
+Chan	4
+Chiu	4
+Conde	4
+Constantino	4
+Coronel	4
+Cortes	4
+Crisostomo	4
+de Guzman	4
+de la Cruz	4
+de León	4
+Defensor	4
+Diokno	4
+Esteban	4
+Eusebio	4
+Evangelista	4
+Fabella	4
+Fajardo	4
+Fernando	4
+Figueroa	4
+Gonzaga	4
+Gordon	4
+Gutierrez	4
+Hidalgo	4
+Hilario	4
+Ilagan	4
+Jacob	4
+Jones	4
+Joson	4
+Kirām	4
+Lee	4
+Legaspi	4
+Madrigal	4
+Magalona	4
+Manzano	4
+Mariano	4
+Muñoz	4
+Natividad	4
+Ong	4
+Panganiban	4
+Paredes	4
+Pérez	4
+Poe	4
+Puno	4
+Quisumbing	4
+Quizon	4
+Rama	4
+Raymundo	4
+Razon	4
+Robles	4
+Roces	4
+Rodríguez	4
+Romulo	4
+Rómulo	4
+Sánchez	4
+Singson	4
+Solis	4
+Taylor	4
+Valenciano	4
+Webb	4
+Zaragoza	4
+Zubiri	4
+Abad-Santos	3
+Abalos	3
+Abaya	3
+Aboitiz	3
+Acuña	3
+Adams	3
+Afable	3
+Agarao	3
+Alba	3
+Alberto	3
+Alonte	3
+Amor	3
+Arnaiz	3
+Austria	3
+Avelino	3
+Ayala	3
+Bayot	3
+Bello	3
+Bennett	3
+Bernal	3
+Bondoc	3
+Bonifacio	3
+Brosas	3
+Buenaventura	3
+Buendía	3
+Cabral	3
+Canlás	3
+Carreon	3
+Casiño	3
+Catalan	3
+Collantes	3
+Colonia	3
+Comendador	3
+Contreras	3
+Corrales	3
+Cuenca	3
+Custodio	3
+de Guzmán	3
+de los Reyes	3
+del Mar	3
+Espino	3
+Estanislao	3
+Feleo	3
+Feliciano	3
+Flor	3
+Fortich	3
+Gabriel	3
+Galang	3
+Gatchalian	3
+Go	3
+Guingona	3
+Ibarra	3
+Ignacio	3
+Ilustre	3
+Imperial	3
+Jacinto	3
+Jalosjos	3
+Jiménez	3
+Jose	3
+Jurado	3
+Kapunan	3
+Kramer	3
+La Torre	3
+Lacaba	3
+Lagman	3
+Lastimosa	3
+Lazaro	3
+Legarda	3
+Leonardo	3
+Leviste	3
+Linda	3
+Locsín	3
+Lucero	3
+Magdangal	3
+Magno	3
+Mapa	3
+Marco	3
+Maristela	3
+Márquez	3
+Matias	3
+McDaniel	3
+Miguel	3
+Mitra	3
+Montano	3
+Montes	3
+Moran	3
+Morris	3
+Nakpil	3
+O'Hara	3
+Olivares	3
+Ongpín	3
+Orosa	3
+Pacquiao	3
+Pamintuan	3
+Panlilio	3
+Pardo de Tavera	3
+Ponce-Enrile	3
+Prieto	3
+Quezon	3
+Quimbo	3
+Quinto	3
+Ramírez	3
+Reynoso	3
+Rizal	3
+Roco	3
+Rodrigo	3
+Rojas	3
+Romualdez	3
+Roque	3
+Salonga	3
+Samson	3
+San Pedro	3
+Sandoval	3
+Sevilla	3
+Smith	3
+Solomon	3
+Sumulong	3
+Tagle	3
+Tañada	3
+Taruc	3
+Tecson	3
+Tirona	3
+Tiu-Laurel	3
+Tuason	3
+Valenzuela	3
+Velez	3
+Veloso	3
+Ventura	3
+Vidal	3
+Villafuerte	3
+Villamayor	3
+White	3
+Williams	3
+Yanga	3
+Young	3
+Zulueta	3
+Ábalos	2
+Abayon	2
+Abelardo	2
+Abella	2
+Abueg	2
+Abuel	2
+Achacoso	2
+Acop	2
+Adriano	2
+Adriatico	2
+Advíncula	2
+Africa	2
+Agassi	2
+Agcaoíli	2
+Aglipay	2
+Aguirre	2
+Agustin	2
+Alano	2
+Alarcon	2
+Albano	2
+Albo	2
+Alcalá	2
+Alejandrino	2
+Alejano	2
+Alejar	2
+Alfafara	2
+Alicante	2
+Almazan	2
+Alvarado	2
+Alviola	2
+Amoroso	2
+Amorsolo	2
+Amos	2
+Andalio	2
+Andam	2
+Andaya	2
+Anderson	2
+Andres	2
+Ang	2
+Anson	2
+Apacible	2
+Apostol	2
+Arana	2
+Arcangel	2
+Arcilla	2
+Aristorenas	2
+Arrastia	2
+Asuncion	2
+Avanceña	2
+Avanzado	2
+Avila	2
+Baccay	2
+Bade	2
+Baldo	2
+Balingit	2
+Balmori	2
+Baltazar	2
+Banal	2
+Baracael	2
+Barbosa	2
+Barrion	2
+Barrios	2
+Bartolome	2
+Barzaga	2
+Bayani	2
+Baylon	2
+Bella	2
+Belo	2
+Beltrán	2
+Benedict	2
+Bermejo	2
+Billones	2
+Bobis	2
+Borbon	2
+Borromeo	2
+Bravo	2
+Brillantes	2
+Buensuceso	2
+Bugas	2
+Burgos	2
+Cabilete	2
+Cagas	2
+Cajes	2
+Calalang	2
+Calvo	2
+Camacho	2
+Cañete	2
+Canoy	2
+Canseco	2
+Capili	2
+Casas	2
+Castaneda	2
+Castañeda	2
+Castelo	2
+Castrillo	2
+Catalla	2
+Cayabyab	2
+Chaves	2
+Chávez	2
+Chen	2
+Ching	2
+Christiansen	2
+Cipriano	2
+Clarin	2
+Clemente	2
+Climaco	2
+Cobarrubias	2
+Colmenares	2
+Concepción	2
+Confesor	2
+Corpus	2
+Cortés	2
+Cristobal	2
+Danao	2
+Davao	2
+De Belen	2
+de la Fuente	2
+de la Paz	2
+de la Viña	2
+De Vera	2
+Dean	2
+Decena	2
+Dee	2
+del Carmen	2
+Del Castillo	2
+Dela Torre	2
+Deloso	2
+Dimaporo	2
+Dominguez	2
+Domínguez	2
+Doria	2
+Dormitorio	2
+Duaita	2
+Duenas	2
+Dulay	2
+Duque	2
+Duran	2
+Durano	2
+Duval	2
+Eala	2
+Escalona	2
+Escueta	2
+Esguerra	2
+Espaldon	2
+Espina	2
+Espíritu	2
+Evasco	2
+Fegidero	2
+Felipe	2
+Fonacier	2
+Forbes	2
+Fortuna	2
+Franco	2
+Gadi	2
+Gatmaitán	2
+Geisler	2
+Generoso	2
+Gerona	2
+Gibbs	2
+Giese	2
+Godino	2
+Gómez de Liaño	2
+Gozon	2
+Granada	2
+Gray	2
+Gregorio	2
+Groseclose	2
+Guaves	2
+Guevarra	2
+Guico	2
+Hábito	2
+Harn	2
+Hawkins	2
+Hayes	2
+Henry	2
+Henson	2
+Hernaez	2
+Hernández	2
+Hilario del Pilar	2
+Hizon	2
+Honasan	2
+Hong	2
+Hubalde	2
+Iglesias	2
+Illi	2
+Inocencio	2
+Isaac	2
+Israel	2
+Jalandoni	2
+Jaranilla	2
+Jaworski	2
+Johnson	2
+Jordan	2
+Katsumata	2
+Kintanar	2
+Ko	2
+Labajo	2
+Lacalle	2
+Lagmay	2
+Lane	2
+Lauchengco	2
+Lava	2
+Lhuillier	2
+Li	2
+Lingad	2
+Lising	2
+Locsin	2
+Lopue	2
+Lorenzana	2
+Lozada	2
+Lozano	2
+Lubiano	2
+Maceda	2
+Machado	2
+Macuja	2
+Madrid	2
+Magbanua	2
+Malapitan	2
+Malay	2
+Mallari	2
+Malvar	2
+Mamba	2
+Manahan	2
+Mandac	2
+Mangudadatu	2
+Maniego	2
+Manótoc	2
+Marasigan	2
+Marquicias	2
+Matba	2
+Medel	2
+Medrano	2
+Meily	2
+Mendez	2
+Mendiola	2
+Miles	2
+Millington	2
+Mina	2
+Montenegro	2
+Monteverde	2
+Morada	2
+Morán	2
+Morató	2
+Nava	2
+Navarra	2
+Nazari	2
+Nievera	2
+Noble	2
+Nograles	2
+Novales	2
+Olaso	2
+Oliva	2
+Oliveros	2
+Oracion	2
+Oreta	2
+Ortigas	2
+Osmeña	2
+Pacana	2
+Padolina	2
+Pagdanganan	2
+Page	2
+Paglinawan	2
+Pagulayan	2
+Pangantihon	2
+Panopio	2
+Pantig	2
+Papa	2
+Pardo	2
+Paterno	2
+Patrimonio	2
+Paule	2
+Paz	2
+Pedrosa	2
+Peña	2
+Perfecto	2
+Pfister	2
+Pinto	2
+Plaza	2
+Ponce	2
+Pons	2
+Portacio	2
+Prado	2
+Puyat	2
+Que	2
+Quiambao	2
+Quijano	2
+Quimpo	2
+Quirino	2
+Rancés	2
+Rapadas	2
+Recto	2
+Redondo	2
+Reid	2
+Remo	2
+Remulla	2
+Remullá	2
+Rica	2
+Rigor	2
+Robinson	2
+Robredo	2
+Romanillos	2
+Romano	2
+Romeo	2
+Rosal	2
+Roy	2
+Sabio	2
+Salgado	2
+Saloma	2
+San José	2
+San Miguel	2
+Sandejas	2
+Santamaria	2
+Santos-Ocampo	2
+Sato	2
+Saunders	2
+Sembrano	2
+Serapio	2
+Serrano	2
+Severino	2
+Silayan	2
+Silos	2
+Silva	2
+Singh	2
+So	2
+Solano	2
+Soliven	2
+Sonsona	2
+Sonza	2
+Surban	2
+Taduran	2
+Taguiwalo	2
+Tallado	2
+Tanco	2
+Tapiru	2
+Tayag	2
+Teehankee	2
+Teng	2
+Termulo	2
+Thompson	2
+Tiglao	2
+Timoner	2
+Ting	2
+Tinio	2
+Toledo	2
+Torralba	2
+Trillo	2
+Trono	2
+Tumulak	2
+Tupas	2
+Urbano	2
+Valderrama	2
+Veneracion	2
+Vicente	2
+Villa	2
+Villaflor	2
+Villamor	2
+Vinzon	2
+Virata	2
+Woods	2
+Wright	2
+Yabut	2
+Yatco	2
+Younghusband	2
+Zabala	2
+Zafra	2
+Zaldívar	2
+Zhang	2
+Ziga	2
+Abada
+Abadilla
+Aban
+Abando
+Abante
+Abarquez
+Abat
+Abay
+Abcede
+Abdul
+Ábe
+Abellanosa
+Abello
+Abenojar
+Abera
+Abiera
+Abis
+Ablan
+Abraham
+Abrahamsen
+Abrahan
+Abrenica
+Abrera
+Abu
+Abueva
+Acebedo
+Aceron
+Acháy
+Aclan
+ad-Din
+Adam
+Adan
+Adea
+Adiong
+Adlawan
+Ador
+Adrados
+Aduana
+Advincula
+Agama
+Agana
+Agapito
+Agcaoili
+Agcaracar
+Agrava
+Aguas
+Aguillo
+Aguilos
+Al-Alawi
+Alanes
+Alas
+Albani
+Alberastine
+Albero
+Alcantara
+Alcántara
+Alcaraz
+Alcasid
+Alcos
+Alcover
+Aldana
+Aldea
+Aldecoa
+Aledo
+Alexander
+Alfarero
+Alger
+Alino
+Allado
+Allera
+Allie
+Almalbis
+Almeda
+Almedilla
+Almendras
+Almonte
+Alo
+Alva
+Alvano
+Alvaro
+Alvero
+Alviar
+Alzona
+Amador
+Amahit
+Amantillo
+Amon
+Amora
+Ampil
+Amurao
+Anacan
+Anacleto
+Ancheta
+Andales
+Andanar
+Andersson
+Andrade
+Andrews
+Ang-Siy
+Angelo
+Aniceto
+Anido
+Anjos
+Anthony
+Antolin
+Antonino
+Anuran
+Apigo
+Apolinario
+Aquilizan
+Aragon
+Aragón
+Arbison
+Arbizo
+Arboleda
+Arce
+Arceo
+Ardina
+Arespacochaga
+Arévalo
+Argel
+Arguelles
+Argüelles
+Arguilla
+Arida
+Arigo
+Arnedo
+Arnold
+Aro
+Arquiza
+Arranz
+Arre
+Arreza
+Arriola
+Arrojo
+Arteche
+Artigas
+Arvisu
+Asenjo
+Asensio
+Aseo
+Asis
+Aspiras
+Astals
+Asunción
+Atayde
+Atchison
+Atkins
+Augirre
+Auza
+Ave
+Avellana
+Aycardo
+Ayuban
+Azarcon
+Azcuna
+Azucena
+Azurín
+Bacale
+Bacani
+Bacareza
+Bachmann
+Badana
+Baes
+Baguílat
+Baguio
+Bailen
+Baja
+Balagtas
+Balboa
+Balcells
+Baldemor
+Baldisimo
+Baldoz
+Baldwin
+Balete
+Balili
+Balindong
+Balita
+Balmaceda
+Banaag
+Banchero
+Banlaoi
+Banquiles
+Bantag
+Bantigue
+Bantolo
+Banzuelo
+Baquero
+Baradi
+Baranda Ferrán
+Barba
+Barbarona
+Barber
+Barbers
+Barcelo
+Barcelona
+Barcena
+Barcenas
+Barcenilla
+Barefield
+Baria
+Baron
+Barredo
+Barrera
+Barri
+Barrientos
+Barroga
+Barros
+Baruelo
+Barva
+Basa
+Basmayor
+Bastes
+Bates
+Bauzon
+Baviera
+Bay
+Bayle
+Bayola
+Beard
+Bediones
+Beech
+Bejasa
+Belarmino
+Bélgica
+Beltran
+Benedicto
+Bengzon
+Benigno
+Benin
+Benipayo
+Berberabe
+Berdin
+Bermudez
+Bernabé
+Bernardino
+Bersabal
+Bersamin
+Bersola
+Biazon
+Bichara
+Bien
+Bienes
+Bigornia
+Biyo
+Black
+Blaesi
+Blake
+Blanca
+Blancaflor
+Boatwright
+Bobadilla
+Bocobo
+Bohol
+Bolaños
+Bolden
+Bolick
+Bolos
+Bolton
+Bond
+Bondad
+Bonnevie
+Bono
+Bonoan
+Bonta
+Bonus
+Boquiren
+Borboran
+Borck
+Bordador
+Bordon
+Bordonada
+Borlongan
+Bornea
+Bosch
+Bosque
+Bowen
+Boyd
+Bradborn
+Braun
+Brauner
+Brawner
+Braza
+Brickman
+Brin
+Brion
+Britten
+Brocka
+Brownlee
+Bruce
+Budol
+Buenafe
+Bueno
+Bughao
+Buhain
+Buiza
+Bulanadi
+Bulosan
+Bumatay
+Bumgarner
+Bunao
+Buscaino
+Bustos
+Butel
+Buzon
+Cabajog
+Cabal
+Cabaluna
+Cabangbang
+Cabarroguis
+Cabatingan
+Cabellon
+Cabigon
+Cabiles
+Cabonegro
+Cabras
+Cabredo
+Cacho
+Cadena
+Cadiao
+Caguíoa
+Cainglet
+Cajandig
+Cajayon
+Cajucom
+Calagui
+Calasanz
+Calbes
+Calderon
+Calderón
+Calimag
+Calimlim
+Calixto
+Calizo
+Calleja
+Callen
+Calloway
+Calma
+Calo
+Caluya
+Caluza
+Calzado
+Camat
+Camba
+Cambronero
+Camiña
+Camomot
+Campomanes
+Camus
+Candazo
+Canlog
+Cantiveros
+Capalla
+Capistrano
+Capri
+Capucao
+Carandang
+Carbonell
+Cardenas
+Cardona
+Cari
+Cariaso
+Carillo
+Carling
+Carlson
+Carmelo
+Carmona
+Carolina
+Carolino
+Carr
+Carranza
+Carrera
+Carretas
+Carrigan
+Carter
+Casambre
+Castiglione
+Castillejo
+Castilo
+Catalán
+Cavill
+Cayanan
+Caymo
+Cayzer
+Cea
+Cedeno
+Celebre
+Celerio
+Celeste
+Celestino
+Celis
+Cenizal
+Cenon
+Centenera
+Centeno
+Cepeda
+Cezar
+Chabet
+Charalampous
+Chatto
+Cheung
+Cheveh
+Chia
+Chico
+Chiong
+Cho
+Choi
+Choinière
+Chong
+Chouinard
+Chu
+Chupungco
+Cielo
+Cimatu
+Cinches
+Cinco
+Cinense
+Circa
+Citron
+Clarito
+Clarkson
+Claudio
+Claver
+Cleofas
+Cloma
+Coakley
+Colcol
+Collado
+Collins
+Coloma
+Columna
+Comia
+Concha
+Concio
+Conejero
+Convocar
+Cooper
+Cordero
+Cornejo
+Cornelio
+Cornley
+Corona
+Corpuz
+Corsiga
+Cortesi
+Coseteng
+Cósim
+Coson
+Costantino
+Cowart
+Crab
+Crame
+Crawford
+Cray
+Crisano
+Crisólogo
+Cristóbal
+Cruzada
+Cruzado
+Cuadrado
+Cuevas
+Cui
+Cui-Perales
+Cuizon
+Cunanan
+Cunningham
+Curran
+Curtis
+D'Angelo
+Da Silva
+Daa
+Daan
+Dacanay
+Dael
+Daez
+Daga
+Dagooc
+Dagpin
+Dalrymple
+Damoth
+Dancel
+Dandan
+Danganan
+Daniels
+Danley
+Danon
+Dantes
+Darren
+Datu
+Davidson
+Davies
+Davila
+de Ayala
+De Francesco
+de Jesús
+de la Peña
+de la Riva
+de la Torre
+De Lima
+de Ovando
+De Rossi
+de Santos
+de Vega
+De Venecia
+De Veyra
+De Villa
+De Zalameda
+Dechavez
+del Campo
+del Moral
+del Río
+del Valle
+Dela Fuente
+Delizo
+Dellosa
+Delos
+Demuynck
+Deocampo
+Dery
+des Calimlim
+Dialogo
+Diamond
+Diego
+Dillinger
+Dimayuga
+Dino
+Divinagracia
+Diwa
+Dolor
+Domagoso
+Domogan
+Doña
+Dorado
+Doronila
+Dosado
+Douthit
+Drigo
+Drillon
+Drilon
+Du
+Dujali
+Dull
+Dumas
+Dumaual
+Dúmdum
+Dumlao
+Dumol
+Dumpit
+Duncil
+Dunn
+Durias
+Earnshaw
+Echarri
+Echegaray
+Echiverri
+Edaño
+Edralin
+Eduardo
+Ehrhard
+Einsiedel
+Ejercito
+Eleazar
+Elgar
+Elias
+Elliott
+Ellis
+Elorde
+Elson
+Emery
+Enaguas
+Enaje
+Endrinal
+Enrile
+Enrique
+Enríquez
+Enverga
+Erice
+Escabel
+Escalante
+Escaler
+Escano
+Escario
+Escobal
+Escoses
+Esmeralda
+Espanol
+Esperon
+Espiritu
+Estela
+Estoque
+Estrella
+Eubra
+Eugenio
+Eulin
+Evans
+Faberes
+Fabito
+Fabregas
+Fábregas
+Falcon
+Falcone
+Fariñas
+Farr
+Faulkerson
+Faustino
+Felix
+Félix
+Feria
+Fermin
+Fernan
+Ferro
+Field
+Figueras
+Fina
+Finnegan
+Finnemann
+Fisher
+Flanigan
+Florcruz
+Florencio
+Florentino
+Floro
+Fontanilla
+Foo
+Forés
+Fornier
+Forrester
+Forteza
+Fortun
+Fox
+Francia
+Frederiksen
+Frondosa
+Fuentebella
+Fuentespina
+Fulgencio
+Fullón
+Gacis
+Gadón
+Gaerlan
+Gaida
+Gaines
+Gaitan
+Galano
+Galbines
+Gale
+Galeno
+Galeos
+Galido
+Galla
+Gallarde
+Gallman
+Galut
+Gálvez
+Gamalinda
+Gamero
+Gan
+Ganal
+Gancayco
+Ganuelas
+Ganzon
+Garcera
+Garces
+Garcés
+Garianod
+Garin
+Garrido
+Garrucho
+Garvida
+Gascón
+Gasser
+Gaston
+Gatdula
+Gaviola
+Gemperle
+Genato
+Gentz
+Geron
+Geronimo
+Gerónimo
+Gervacio
+Gesmundo
+Getalado
+Geva
+Geverjuan
+Gier
+Giganto
+Gill
+Girado
+Glazer
+Gloria
+Goc-ong
+Godin
+Goff
+Golla
+Goodwin
+Gordoncillo
+Gorordo
+Gosiengfiao
+Gould
+Gourlay
+Goyena
+Graham
+Grajales
+Grant
+Grape
+Graversen
+Gravidez
+Green
+Grey
+Guanlao
+Guanzón
+Guardian
+Guarin
+Guck
+Guerra
+Guhiting
+Guiao
+Guidicelli
+Guilledo
+Guillou
+Guimarães
+Guinto
+Guirado
+Gullas
+Gumabao
+Gungon
+Guo
+GUPTA
+Gustin
+Gutoc
+Guttierez
+Guzman
+Guzmana
+Hagedorn
+Halili
+Ham
+Hampshire
+Hang
+Hansen
+Haramel
+Harp
+Harper
+Harrison
+Hart
+Hatch
+Hatfield
+Hau
+Haw
+He
+Heading
+Hedblom
+Hermida
+Hermosa
+Herrell
+Herrero
+Heydarian
+Heyn
+Hilman
+Hipolito
+Hobayan
+Hodge
+Hofer
+Hollnsteiner
+Holmes
+Holstein
+Hoshina
+Hrabak
+Huang
+Huey
+Huggins
+Hugo
+Hunt
+Ian
+Ibasco
+Icasa
+Igot
+Igut
+Ilao
+Ildefonso
+Inay
+Ingersoll
+Íñiguez
+Inlayo
+Inocentes
+Inzon
+Irvine
+Iseppi
+Isidro
+Isip
+Itcuas
+Itliong
+Jaboneta
+Jalnaiz
+James
+Jamili
+Jamito
+Jamora
+Jaraula
+Jardeleza
+Jaucian
+Javellana
+Jefferson
+Jennings
+Jeppsson
+Jingco
+Joaquin
+John
+Joper
+José
+Jover
+Joy
+Joya
+Juan
+Jubáhib
+Jugálbot
+Junio
+Kalaw
+Kammeraad
+Kanaan
+Kane
+Kaneko
+Karlsson
+Katigbak
+Kay
+Keithley
+Kempter
+Kent
+Kho
+Knight
+Kodaka
+Kok
+Krapf
+Krishnan
+Kristiansen
+Kvamme
+Kyle
+La Viña
+Labadlabad
+Laban
+Labayen
+Labella
+Labios
+Labog
+Labra
+Labrusca
+Lachey
+Lacsamana
+Lacuesta
+Lagahit
+Lagdameo
+Lagos
+Lagusad
+Lake
+Lamagna
+Lambino
+Lamentillo
+Lampon
+Lana
+Langit
+Lapeña
+Lapid
+Lapus
+Lara
+Lariba
+Lariosa
+Larrañaga
+Larrazabal
+Lasa
+Lassiter
+Laure
+Laureano
+Laurente
+Laurio
+Laus
+Lauson
+Lavarias
+Lavery
+Law
+Lawrence
+Laxa
+Laxamana
+Laya
+Layaguin
+Laygo
+Lazo
+Lehmann
+Lehnert
+Leonardía
+Leonen
+Leonio
+Lewis
+Leyba
+Lichauco
+Lieh-Mak
+Ligot
+Limba
+Lin
+Linares
+Liongoren
+Lisa
+Lit
+Liwag
+Llamas
+Llanes
+Llegado
+Lloce
+Llorico
+Lluch
+Lobregat
+Lofamia
+Logan
+Lokko
+Lomboy
+Long
+Lorenzo
+Love
+Loyola
+Loyzaga
+Lualhati
+Lucas
+Lucena
+Lucio
+Lugay
+Luistro
+Lukban
+Lumanlan
+Lumbreras
+Luo
+Lupas
+Lustre
+Lutz
+Luy
+Luz
+Luzadas
+Luzuriaga
+Lyngbø
+Lynn
+Maata
+Mabini
+Mabóloc
+Mabutas
+Macanás
+Macaraeg
+Macaraíg
+Macario
+Macasaet
+MacFarland
+Macias
+Maclang
+Maddela
+Madriaga
+Maerina
+Magallanes
+Magallano
+Magalong
+Magcalas
+Magdayao
+Magnaye
+Magundayao
+Mahmood
+Maierhofer
+Makalintal
+Makhoul
+Malabonga
+Malicdem
+Malindog
+Malon
+Mamuyac
+Mana
+Manabat
+Manalac
+Manalang
+Manansala
+Manapul
+Mance
+Mandani
+Mandin
+Mangahas
+Mangondato
+Mangubat
+Manio
+Manlapaz
+Manrique
+Mapanao
+Mapua
+Maqui
+Maralit
+Maramag
+Maramba
+Marbil
+Marcaida
+Marcial
+Marcoleta
+Maria
+Marini
+Mariño
+Marques
+Marrero
+Marro
+Martyn
+Maruya
+Masa
+Masangkay
+Mata
+Matsunaga
+Matula
+Maturan
+Matute
+Maúte
+Maxílom
+May
+Mayer
+Mayo
+McCartney
+McDermott
+McGarry
+McKenzie
+McMicking
+Medalla
+Medialdea
+Mejia
+Melanio
+Melchor
+Melendres
+Mellana
+Melo
+Melton
+Meneses
+Menk
+Mente
+Mesa
+Mia
+Milby
+Millán
+Millan-Windorski
+Millar
+Millare
+Minami
+Minnillo
+Miro
+Misalucha
+Mische
+Mohagan
+Monasterio
+Mondéjar
+Montejo
+Montemayor
+Montesa
+Montilla
+Moore
+Moral
+Morata
+Morelli
+Morelos
+Morente
+Mori
+Morrison
+Mortiz
+Moser
+Moto
+Mouzon
+Moya
+Muhlach family
+Mulders
+Murakami
+Nablo
+Nacianceno
+Nacino
+Nadal
+Nadres
+Nakamura
+Nakar
+Napiere
+Naranja
+Nase
+Nathanielsz
+Natori
+Navarrete
+Nazareno
+Nazario
+Nebres
+Nelson
+Neumann
+Newsome
+Ng
+Nguyen
+Nielsen
+Nilmar
+Nino
+Niño
+Noel
+Nolan
+Nolasco
+Nono
+Norwood
+Nubla
+Nuñez
+Núñez
+O'Doherty
+O'Donnell
+Obispo
+Obligacion
+Obordo
+Obviar
+Occiano
+Oconer
+Odchimar
+Oeymo
+Ofilada
+Ojeda
+Oka
+Ola
+Olalia
+Olea
+Oli
+Olivera
+Olivier
+Olmedo
+Olvidado
+Omphroy
+Ongkingco
+Ongtioco
+Opiaza
+Ordona
+Ordonez
+Ordóñez
+Orlina
+Orme
+Oropesa
+Osio
+Ossorio
+Oteyza
+Ōtomo
+Ott
+Ouano
+Ozámiz
+Ozar
+Paalam
+Pabillo
+Pablo
+Pacheco
+Paduano
+Paez
+Pagarigan
+Pagdilao
+Paje
+Pala
+Palacios
+Palanca
+Palang
+Palatino
+Paloma
+Palparán
+Pamilya Zobel de Ayala
+Pancho
+Panelo
+Paner
+Pangan
+Pantoja
+Papin
+Paradis
+Parayno
+Parcon
+Parel
+Parial
+Park
+Parks
+Parladé
+Parmisano
+Parreño
+Parrish
+Parsons
+Pasamonte
+Pasion
+Pasricha
+Pastor
+Pastrana
+Pate
+Patricio
+Patron
+Patrone
+Paulino
+Payo
+Pechera
+Pecson
+Pedregosa
+Pedroche
+Peek
+Peláez
+Peñaflorida
+Peñaranda
+Pennisi
+Penson
+Peralejo
+Peregrina
+Periquet
+Perkins
+Perlas
+Pernia
+Perry
+Peters
+Petilla
+Phillips
+Piamonte
+Picache
+Pichay
+Piencenaves
+Pijuan
+Pilapil
+Pingris
+Piñol
+Plana
+Planas
+Po
+Poblete
+Policarpio
+Pomar
+Pomoy
+Ponte
+Ponti
+Poon
+Porter
+Portes
+Posada
+Posadas
+Postigo
+Pressman
+Presto
+Preysler
+Primavera
+Pringle
+Publico
+Pulido
+Punongbayan
+Purificación
+Purisima
+Purugganan
+Querubin
+Quesada
+Quevedo
+Quezada
+Quiboloy
+Quierez
+Quigaman
+Quintos
+Quiros
+Quiroz
+Quita
+Quitáin
+Rabat
+Racelis
+Rafael
+Rago
+Raj
+Raman
+Ramas
+Ramel
+Ramento
+Ramp
+Ramsey
+Rangel
+Rañola
+Ranollo
+Raspadori
+Rasul
+Raval
+Rayos
+Razón
+Rebucas
+Reeves
+Regis
+Regueiro
+Regullano
+Rei
+Reichelt
+Relova
+Rems
+Repuyan
+Rey
+Rhodes
+Ricarte
+Rice
+Richards
+Richardson
+Ricketts
+Rico
+Rieta
+Rigonan
+Rigotti
+Rillera
+Rillo
+Rillon
+Río
+Rissler
+Ritter
+Rival
+Rivas
+Roa
+Roberto
+Robes
+Roca
+Rocero
+Roda
+Roden
+Roeland
+Rogación
+Roldan
+Romana
+Romoff
+Romualdo
+Rosanes
+Rosano
+Rosca
+Rose
+Rosell
+Ross
+Rosser
+Rota
+Royeca
+Rustia
+Ryan
+Sabate
+Saco
+Sadorra
+Sager
+Saguísag
+Sala
+Salak
+Salamanca
+Salandanan
+Salangsang
+Salceda
+Saldaña
+Sales
+Sali
+Salinas
+Salud
+Saludar
+Saludares
+Saludo
+Salumbides
+Salvanera
+Sampayan
+Samper
+San Diego
+Sancho
+Sand
+Sandico
+Sangalang
+Sangiao
+Sanidad
+Santa Romana
+Santana
+Sarte
+Sasō
+Sasot
+Saut
+Savellano
+Scherrer
+Schmit
+Schmitz
+Schneider
+Schnittke
+Schoultze
+Schröck
+Schubert
+Schulze
+Schumacher
+Schweighart
+Scofield
+Seguí
+Segundo
+Seifert
+Seigle
+Sena
+Señeres
+Senoron
+Serantes
+Sergio
+Sharma
+Shegog
+Shelley
+Shoaf
+Shugg
+Siazon
+Sibug
+Silverio
+Sin
+Sinsuat
+Sipalay
+Sitoy
+Siy
+Snyder
+Soberano
+Sobrepena
+Sobreviñas
+Solidum
+Solís
+Sollano
+Solon
+Sonora
+Sorra
+Soto
+Soy
+Spafford
+Spencer
+Spyke
+Starke
+Stern
+Steuble
+Stevens
+Stolk
+Strachan
+Su
+Suárez
+Suello
+Sugiyama
+Sui
+Sulaiman
+Sulit
+Sumaya
+Súplico
+Supsup-Lee
+Swainston
+Syjuco
+Szijarto
+Taa
+Taberna
+Tabora
+Tabudlo
+Tabujara
+Tabuzo
+Tadeo
+Tagura
+Tajanlangit
+Talag
+Talamayan
+Talbo
+Tallo
+Tamayo
+Tambunting
+Tanaquin
+Tanghal
+Taniguchi
+Tarriela
+Tasci
+Tashiro
+Tatlonghari
+Tejada
+Tenorio
+Teodosio
+Tesfamariam
+Thiele
+Thoss
+Thraitscka
+Tiamzon
+Tima
+Timberlake
+Timbol
+Tiongco
+Tiongson
+Tiquía
+Tiu
+Tobias
+Toda
+Toh
+Tomas
+Tompkins
+Topacio
+Toral
+Tordesillas
+Toribio
+Torrecampo
+Torreón
+Touton
+Townsend
+Trápaga
+Trias
+Tristan
+tsismis
+Tsuper
+Tuazon
+Tugade
+Tuquib
+Ualerio
+Ubaldo
+Ugarte
+Unabia
+Upchurch
+Ureta
+Urgel
+Urra
+Usón
+Utleg
+Valdellon
+Valdes
+Valera
+Valerio
+Valero
+Valiente
+Vallarta
+Vallejo
+Valles
+van Ruyven
+Varela
+Varona
+Varquez
+Vasquez
+Vega
+Vela
+Velarde
+Velasques
+Velazco
+Vélez
+Ver
+Vergeire
+Vergel
+Versoza
+Verzosa
+Vicario
+Viceral
+Victa
+Victoria
+Vicuña
+Videla
+Viernes
+Vigor
+Vilar
+Villa-Abrille
+Villafranca
+Villaluz
+Villamin
+Villaran
+Villarica
+Villarin
+Villaroel
+Villaruz
+Villasis
+Villavert
+Villena
+Viray
+Visaya
+Vito
+Vitug
+Vivas
+Wahleithner
+Walsh
+Walter
+Wang
+Ward
+Washington
+Watanabe
+West
+Winsett
+Winston
+Witheridge
+Wolff
+Wood
+Worrell
+Woulfe
+Wurtzbach
+Xu
+Yalung
+Yamamoto
+Yambao
+Yamsuan
+Yangco
+Yango
+Ye
+Yee
+Yengko
+Yenko
+Yldefonso
+Yllana
+Ynchausti
+Ýñiguez
+Yparraguirre
+Yu
+Yuchengco
+Yuzna
+Zabarte
+Zahir
+Zaldivar
+Zapanta
+Zarate
+Zárate
+Zialcita
+Zimmerman
+Zoleta
+Zúñiga
+Zurbano
+Zyrus

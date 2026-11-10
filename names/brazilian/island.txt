@@ -1,0 +1,2329 @@
+Grande	64
+Comprida	26
+Meio	22
+Jacaré	15
+Redonda	15
+Nova	13
+Conceição	12
+Papagaio	12
+Nazaré	11
+Rasa	11
+Capivara	10
+Pequena	10
+São José	10
+Coco	9
+Santa Rosa	9
+Santo Antônio	9
+São Pedro	9
+Camaleão	8
+Guará	8
+Mutum	8
+Samaúma	8
+Santana	8
+São João	8
+Cajueiro	7
+Capitari	7
+Cemitério	7
+Santa Cruz	7
+Santa Maria	7
+São Domingos	7
+Breu	6
+Caldeirão	6
+Coqueiro	6
+Duas Irmãs	6
+Jurupari	6
+Machado	6
+Mucura	6
+Santa Rita	6
+São Francisco	6
+Trindade	6
+Urubu	6
+Veado	6
+Araújo	5
+Boa Vista	5
+Cardoso	5
+Farol	5
+Gavião	5
+Jacitara	5
+Limão	5
+Periquito	5
+Rato	5
+Santa Luzia	5
+Santarém	5
+Tamanduá	5
+Tracuá	5
+Três	5
+Vitória	5
+Açaí	4
+Arara	4
+Bananal	4
+Barra	4
+Boi	4
+Cabrito	4
+Cachimbo	4
+Campo	4
+Capim	4
+Estreito	4
+Fazenda	4
+Floresta	4
+Frade	4
+Francês	4
+Jararaca	4
+Jurema	4
+Mariana	4
+Paquetá	4
+Pinto	4
+Pontal	4
+Preguiça	4
+Raimundo	4
+Rebojo	4
+São Bento	4
+Saracura	4
+Saudade	4
+Surubim	4
+Tabuleiro	4
+Tucano	4
+Tucunaré	4
+Alegre	3
+Anamã	3
+Anta	3
+Arapari	3
+Arroz	3
+Assunção	3
+Bacaba	3
+Balaio	3
+Batista	3
+Bela Vista	3
+Bode	3
+Bom Jardim	3
+Caieira	3
+Caju	3
+Carapanã	3
+Carapanatuba	3
+Carrapato	3
+Cascalho	3
+Castelo	3
+Cavaco	3
+Comandaí	3
+Criminosa	3
+Curupira	3
+Dois Irmãos	3
+Espírito Santo	3
+Feia	3
+Ferro	3
+Figueira	3
+Fortaleza	3
+Fumaça	3
+Gado	3
+Gaivota	3
+Gato	3
+Guariba	3
+Ilhinha	3
+Inajatuba	3
+Jaburu	3
+Jacu	3
+Jamari	3
+Japó	3
+Jatobá	3
+Javari	3
+Jenipapo	3
+Juçara	3
+Junco	3
+Jurubaíba	3
+Limoeiro	3
+Longa	3
+Macaco	3
+Madeira	3
+Mandi	3
+Manguinho	3
+Maracujá	3
+Marimari	3
+Maruim	3
+Mel	3
+Mimosa	3
+Mucuim	3
+Onça	3
+Paciência	3
+Palheta	3
+Paraíso	3
+Pedreira	3
+Peixe-Boi	3
+Pescaria	3
+Pinheiro	3
+Piquiá	3
+Piranha	3
+Pombeba	3
+Ponta Pelada	3
+Porto	3
+Providência	3
+Queimada	3
+Raimunda	3
+Restinga	3
+Santa Bárbara	3
+Santa Helena	3
+São Miguel	3
+Sapo	3
+Sapucaia	3
+Segredo	3
+Serraria	3
+Sororoca	3
+Sul	3
+Tapera	3
+Tatu	3
+Tupinambarana	3
+Veneza	3
+Abade	2
+Água Boa	2
+Alemão	2
+Algodão	2
+Algodoal	2
+Amendoim	2
+Amparo	2
+Anajás	2
+Araçari	2
+Aranaí	2
+Arvoredo	2
+Atalaia	2
+Aturiá	2
+Baixio	2
+Barreira Branca	2
+Barreiro	2
+Barro	2
+Barro Branco	2
+Barroso	2
+Batata	2
+Bateria	2
+Batuque	2
+Beija-Flor	2
+Bela	2
+Belo	2
+Biguá	2
+Boa Esperança	2
+Bom Jesus	2
+Bonita	2
+Botafogo	2
+Boto	2
+Braço Forte	2
+Branca	2
+Brandão	2
+Brás	2
+Buiuçu	2
+Buzina	2
+Cabari	2
+Cachoeira	2
+Cachoeirinha	2
+Cananéia	2
+Cantagalo	2
+Capão	2
+Capitão	2
+Cará	2
+Caranguejo	2
+Carro	2
+Caruara	2
+Casca	2
+Casqueiro	2
+Castanha	2
+Chapéu	2
+Cipó	2
+Cipoteua	2
+Cipotuba	2
+Clemência	2
+Coelho	2
+Coité	2
+Corisco	2
+Coroa Grande	2
+Cotia	2
+Cruz	2
+Cruzinha	2
+Curral	2
+Curuá	2
+Deserta	2
+Desgraça	2
+Duarte	2
+Enseada	2
+Envira	2
+Esperança	2
+Faustino	2
+Favela	2
+Fora	2
+Forno	2
+Fortinho	2
+Fundão	2
+Furo	2
+Furo Grande	2
+Gabriel	2
+Galo	2
+Graça	2
+Gravatá	2
+Guajará	2
+Guariúba	2
+Icaraí	2
+Inácia	2
+Independência	2
+Inferno	2
+Itacolomi	2
+Itamaracá	2
+Itanduba	2
+Itu	2
+Jabuti	2
+Jacaretinga	2
+Japonês	2
+Japurá	2
+Jatobal	2
+Jauari	2
+Jauarituba	2
+Javarimirim	2
+Jipioca	2
+Joari	2
+Julião	2
+Laje	2
+Largo	2
+Leopoldina	2
+Maçaranduba	2
+Macaúba	2
+Machadinho	2
+Mangabal	2
+Maracá	2
+Maracajá	2
+Marará	2
+Maria	2
+Mariteua	2
+Marreca	2
+Marrecão	2
+Mata-fome	2
+Matapi	2
+Matinha	2
+Meru	2
+Miguel	2
+Militão	2
+Mirim	2
+Miritituba	2
+Missão	2
+Morcego	2
+Moreira	2
+Muratu	2
+Murici	2
+Mutuca	2
+Mutunquara	2
+Najá	2
+Nana	2
+Natal	2
+Norte	2
+Novo Destino	2
+Olaria	2
+Pacu	2
+Padre	2
+Palmas	2
+Panema	2
+Panorama	2
+Paraná	2
+Paredão	2
+Pasto	2
+Pavão	2
+Pedra	2
+Pescada	2
+Piraquê	2
+Pólvora	2
+Ponta	2
+Ponta Grossa	2
+Posto	2
+Praia	2
+Praia Alta	2
+Praia Grande	2
+Prata	2
+Quati	2
+Queimada Grande	2
+Queimada Pequena	2
+Ramos	2
+Rapada	2
+Raposa	2
+Recreio	2
+Ressaca	2
+Rita	2
+Roberta	2
+Roberto	2
+Roçado	2
+Romão	2
+Rosário	2
+Saí	2
+Salitre	2
+Salvador	2
+Santa Fé	2
+São Benedito	2
+São Brás	2
+São Gonçalo	2
+São Luís	2
+São Raimundo	2
+São Romão	2
+Sapeca	2
+Seca	2
+Sérgio	2
+Severino	2
+Silva	2
+Sobradinho	2
+Socó	2
+Soldado	2
+Sucuri	2
+Sucuriju	2
+Sumaúma	2
+Tabatinga	2
+Tapinimbas	2
+Taquari	2
+Tartaruga	2
+Tauá	2
+Tauaru	2
+Teixeira	2
+Tigre	2
+Todos-os-Santos	2
+Tracajá	2
+Travessão	2
+Tumbira	2
+Uaruma	2
+Uruá	2
+Urubianu	2
+Vai-Quem-Quer	2
+Vapor	2
+Verde	2
+Vieira	2
+Vila Nova	2
+Vinte e Quatro de Maio	2
+Abacate
+Abacaxi
+Abará
+Abaxi
+Abobral
+Abraão
+Abreu
+Acaburu
+Açacu
+Açaituba
+Acampamento
+Acapori
+Acapu
+Acará
+Acaraí
+Acarapereira
+Açougua
+Açougue
+Acucuaqui
+Açuí
+Acutiacanga
+Adaíde
+Adécio
+Agostinho
+Água da Prata
+Água Limpa
+Aguiar
+Aio
+Ajaratuba
+Ajurá
+Alagadiço
+Alamulo
+Albano
+Alcatrazes
+Alci
+Alegrete
+Aleijado
+Alelbu
+Alelu
+Alencar
+Alenquer
+Alfavaca
+Alfredo
+Aliança
+Aliaqui
+Almeida
+Almeirim
+Altair
+Alvarenga
+Ama
+Amador
+Amajari
+Amaral
+Amarelo
+Amargoso
+Amarra Couro
+Amarração
+Amatachiro
+Amatari
+Amautaurá
+Amazonas
+Ambé
+América
+Amola
+Amolar
+Amor
+Ananaí
+Ananas
+Anauá
+Anavilhana
+Anchieta
+Âncora
+Andirá
+Andorinhas
+Andrade
+Angapijó
+Angico
+Anhatomirim
+Ano Bom
+Antônia
+Antonio Pedro
+Antônio Rosa
+Apapari
+Apeú
+Apeùzinho
+Apuã
+Apui
+Apuí
+Apuquital
+Arabó
+Araçá
+Aracajá
+Aracapa
+Araçatiba
+Araçatuba
+Araçu
+Aramaçá
+Arambipe
+Aranapé
+Aranapu
+Aranha
+Arapará
+Arapiranga
+Arapiri
+Arapiuns
+Arapuaca
+Araraim
+Araraquara
+Araraquarinha
+Arariá
+Araripirá
+Araruna
+Aratu
+Arauaca
+Araxical
+Arco
+Areado
+Areal
+Areia
+Areião
+Areinha
+Aricurá
+Arioca
+Ariosto
+Aripuanã
+Arituaú
+Armador
+Aroeira
+Arpoador
+Arquipélago das Anavilhanas
+Arquipélago das Cagarras
+Arquipélago das Graças
+Arquipélago de Alcatrazes
+Arquipélago de Fernando de Noronha
+Arquipélago do Tarumã
+Arquipélago dos Abrolhos
+Arquipélago dos Chavantes
+Arquipélago Goiás
+Arquipélago Jurupari
+Arquipélago Pacu
+Arquipélago Três Irmãs
+Arraia
+Arroio Grande
+Aruanã
+Arumanduba
+Arumanzal
+Aruti
+As
+Assacaio
+Assoalho
+Atamásia
+Atatá
+Aterrado
+Atibaia
+Atim
+Atravessado
+Atuá
+Aturiá-Mirim
+Auai
+Audi
+Aurora
+Aviamento
+Axinim
+Azaraca
+Azeite
+Babaquara
+Bacabal
+Bacava
+Bacupari
+Bacuri
+Badejo
+Baependi
+Bagre
+Bagre Assado
+Baía
+Baía das Perdidas
+Baiano
+Baião de Peia
+Bailique
+Baixo
+Bala
+Baleia
+Baleias
+Baleias da Ponta Grossa
+Balisa
+Bambu
+Banana Come
+Bandeira
+Baquiá
+Bararuá
+Barba Negra
+Barbosa
+Bariguí
+Barnabé
+Barquinha
+Barra do Crepori
+Barra do Cubatão
+Barra do Pombo
+Barra Nova
+Barraca
+Barreira do Caboclo
+Barreto
+Barro Alto
+Barro Vermelho
+Barroca
+Bartira
+Baturité
+Batuta
+Baunilha
+Bedo
+Belisário
+Beliscado
+Belo Horizonte
+Belo Sonho
+Bem Vindo
+Bem-Bom
+Bemba
+Bené
+Benedita
+Benito
+Benta
+Benvindo
+Bernardinho
+Bernardino
+Bernardo
+Bexiga
+Bicho Grande
+Bicho Pequena
+Bicuaua
+Biguazal
+Bimbarras
+Bininho
+Bispo
+Biuá
+Boa Distância
+Boa Ventura
+Boa Viagem
+Boa Vista do São João
+Boca
+Bôca do Furo
+Boca do Machupo
+Boca do Rato
+Bocuí
+Bode Verde
+Boiaçu
+Boipeba
+Boiuçucanga
+Bola
+Bola Branca
+Bolpeba
+Bom Abrigo
+Bom Futuro
+Bom Intento
+Bom Princípio
+Bom Sossego
+Bom-Que-Dói
+Bonaparte
+Bonde
+Bonfim
+Bonitinha
+Boqueirão
+Borá-Cavalo
+Borba
+Borrachudo
+Bota
+Botija
+Braga
+Bragança
+Brasileira
+Bráulio
+Brigadeira
+Brígida
+Brigue
+Brilhantina
+Brocoió
+Buenos Aires
+Bugio
+Buibui
+Bulica
+Butuí Pequena
+Caapiranga
+Cabaçal
+Cabaceira
+Cabeça do Boi
+Cabeçuda
+Cabeluda
+Cabo Frio
+Cabo Verde
+Caboclo
+Caboré
+Caçacueira
+Cação
+Cacau
+Cachimbão
+Cachoeira da Fumaça
+Cachoeira Grande
+Cachorro
+Cachorro Sentado
+Cacoal
+Caçonete
+Cacuanda
+Caçula
+Caçumba
+Caetés
+Cagarra
+Caiambé
+Caiçaras
+Caiman
+Caimbé
+Caiobá
+Cair dos Pretos
+Cairu
+Cairucu das Pedras
+Caititu
+Caituca
+Cajaíbas de Dentro
+Cajari
+Cajazeira
+Cajàzeira
+Cajual
+Cajubins
+Cajutuba
+Cajuúba
+Cajuúna
+Cal
+Calama
+Calango do Meio
+Calango Grande
+Calanguinho
+Caldereiro
+Calessa
+Caliango
+Califórnia
+Camaião
+Camaleões
+Camará Açu
+Camarão
+Camata
+Camboriú
+Cameleão
+Cametá
+Campeche
+Campelo
+Campina
+Campo da Missa
+Campo Santo
+Campo Verde
+Campopema
+Campos
+Camunaim
+Camuqual
+Cana Brava
+Cana-Brava
+Canal
+Canavial
+Canavieiras
+Cândido Marques
+Candinha
+Candiru
+Cangata
+Cangatara
+Canguçu
+Canhumã
+Caninana
+Canindé
+Canivete
+Canoa Velha
+Canuaru
+Canubam
+Canuto
+Capão Queimado
+Capial
+Capim de Cima
+Capimpuba
+Capinarana
+Capinzal
+Capítulo
+Capivari
+Capixete
+Capote
+Capri
+Caquira
+Cará-Açu
+Cará-Cará
+Caracaraí
+Caraguata
+Caraíbas de Fora
+Carajari
+Caramujo
+Caramuru
+Carão
+Carapanãtuba
+Carapanãzinha
+Carapeba
+Carapebas
+Carapuça
+Cararaim
+Cardosa
+Careiro
+Carioca
+Caripuna
+Carlinda
+Carmão
+Carmelo
+Carmem
+Carmo
+Carnapijó
+Carneiro
+Caroba
+Caroçal
+Caroço
+Carolina
+Carrapatal
+Carrapatinho
+Carum
+Carunã
+Carvaxi
+Casa da Pólvora
+Casa de Pedras
+Casca da Ostra
+Cascalho Branco
+Cascavel
+Casco
+Cassiano
+Castanheiro
+Castanho
+Castilho
+Cataguás
+Catalão
+Catarina
+Catimbau
+Catingueiro
+Catita
+Catita de Dentro
+Catrimani
+Catuá Grande
+Catulé
+Caturiá
+Caturrita
+Caua
+Cauá
+Cauda da Cachoeira
+Cauima
+Cauxi
+Cavala
+Cavalo
+Cavalo Marinho
+Cavaquinho
+Caviana de Dentro
+Caviana de Fora
+Caxinduba
+Cearense
+Cearurni
+Cedra
+Cedro
+Celina
+Celita
+Centopeia
+Centro
+Cerradas
+Chapada
+Chapecó
+Chapéu de Palha
+Chapéu de Sueste
+Chapéu Virado
+Chapeuzinho
+Charapucu
+Chave
+Chaves
+Chegada Franco Amaral
+Chica
+Chico
+Chico Capim
+Chico Cosme
+Chico Doido
+Chico Inglês
+Chico Marques
+Chico Pedro
+Chico Preto
+Chimeriocu
+Chiqueiro
+Chiquita
+Chiriri
+Chivico
+Chupa
+Cicice
+Cidade
+Cigano
+Cinco
+Cinil
+Cintra
+Cinzeiro
+Cipriano
+Cirspim
+Cisne
+Cisqueiro
+Clara
+Cleto
+Clube
+Coanapiti
+Cobre
+Cocal
+Codajás
+Colares
+Coleto
+Colodina
+Colorada
+Comandante
+Comaru
+Comissão Geográfica
+Comprida do Boqueirão
+Concórdia
+Congueiro
+Contrabandista
+Convivência
+Coração
+Corais
+Coral
+Corina
+Corneta
+Coró
+Coroa
+Coroá
+Coroa de Ferro
+Coroa de Lama
+Coroa do Avião
+Coroa Vermelha
+Coroatá
+Coroatá de Dentro
+Corococó
+Correão
+Córrego Fundo
+Correinha
+Correnteza
+Cortezinho
+Corvo
+Costa
+Costa do Massueira
+Costa Júnior
+Costa Santana
+Cotejipe
+Cotejuba
+Cotindiba
+Cotinga
+Cotovelo
+Cotunduba
+Crato
+Cravo
+Crepu
+Criminoso
+Cristo
+Crui
+Crumara
+Cruzador
+Cubiú
+Cuchiara
+Cucuiari
+Cuequinha
+Cuera
+Cuiamucú
+Cuianari
+Cuiarana
+Cujuba
+Culharal
+Cumá
+Cumaru
+Cumbu
+Cunha
+Cunhã
+Cunhambebe Grande
+Cunhambebe Mirim
+Cunimaru
+Cupiara
+Curaça
+Curaçatuba
+Curari
+Curiaú
+Curicaca
+Curidiqui
+Curimã
+Curimaú
+Curituba
+Curral Alto
+Curralinho
+Curuaú
+Curubaru
+Curuça
+Curumiuara
+Curumu
+Curupaiti
+Curupeté
+Curupu
+Cururu
+Cuscus
+Cutiatá-Açu
+Cutinho
+Cuxiauia
+Cuxiú
+Cuxuará
+Dade
+Damiçã
+Darura
+Darurazinha
+Degas
+Dendê
+Desengano
+Diá
+Didi
+Dimas
+Dinorá
+Divisa
+Dois Morros
+Dolomina
+Dolores
+Dom Carlos
+Domingos
+Domingos Lopes
+Dorneles
+Doutor
+Doutor Carlos Botelho
+Dumbá
+Duro
+Égua
+Elba
+Eliseu
+Elsa
+Emerenciano
+Emílio
+Encabulosa
+Encantada
+Enceada
+Encrenca
+Eneure
+Enforcado
+Engenho
+Engrácia
+Envira Preta
+Epifânia
+Escalvada
+Escapole
+Escondido
+Esmeralda
+Espinho
+Ester
+Estirão
+Estragado
+Etelvino
+Eucalipto
+Eufrásia
+Eustáquio
+Extrema
+Facão
+Fanfa
+Fantasia
+Farinha Grande
+Farinhazinha
+Farol do Papagaio
+Fato
+Fausto
+Fava
+Fazenda Boianga
+Fazenda Gigante
+Fazendinha
+Feijão
+Feijoal
+Feitoria
+Feliz
+Fernandes Braga
+Fernando
+Fernando de Noronha
+Ferrador
+Ferradura
+Ferreira
+Ferrugem
+Fidélis
+Figa
+Figuerinha
+Filhote
+Filipe
+Filomeno
+Fincão
+Firmo Dias
+Fiscal
+Fitinha
+Flechal
+Flexal
+Flor de Maio
+Flor do Ouro
+Fogo
+Fome
+Fomim
+Fonseca
+Fonte
+Fonte Boa
+Formiga
+Fortaleza da Oléria
+França
+Franceses
+Francisco Antônio
+Francisco Feitosa
+Francisco Manoel
+Francisco Neto
+Franco
+Frango
+Frei Fabiano
+Frio
+Funil
+Furado
+Furaga
+Furo Cerrado
+Furo das Mortes
+Furo Seco
+Furtada
+Gado Bravo
+Gaio
+Galdino
+Galé
+Galego
+Galheta
+Galheta de Dentro
+Galheta de Fóra
+Galinha
+Gama Serqueira
+Gambá
+Gameleira
+Ganhoão
+Garça
+Garrafão
+Gasolina
+Gasparina
+Gato Bravo
+Gaúcha
+Geese
+Gelo
+Geni
+Gervário
+Gigóia
+Gilo
+Gino
+Girimanduba
+Givura
+Godinho
+Godoi
+Goiaba
+Goiabal
+Goiânia
+Gorgon
+Governador
+Governo
+Gracilia
+Gracinda
+Grande da Eva
+Grande de Gurupá
+Grande de Itacaruaré
+Grande de Santa Isabel
+Grande do Caranã
+Grande do Cuminá
+Grande do Cururu
+Grande do Iriri
+Grande do Jacaré
+Grande do Manuel Gomes
+Grande do Miná
+Grande do Outeiro
+Grande do Paulino
+Grande do Soriano
+Grande do Tapará
+Grande dos Marinheiros
+Grande Jacaré
+Grande Jutaí
+Grandes
+Gravataís
+Gritador
+Guabeira
+Guaiá Grande
+Guaiá Pequena
+Guaianã
+Guaíba
+Guaibinha
+Guamiranga de Baixo
+Guamiranga de Dentro
+Guamiranga de Fora
+Guanabi
+Guandu
+Guaraguaçu
+Guarani
+Guarapari
+Guarapira
+Guaraqueçaba
+Guaraú
+Guaraz Pequeno
+Guaribas
+Guaribinha
+Guarida
+Guarita
+Guaxini
+Guaxuma
+Guirindó
+Gulosa
+Guloseima
+Guriri
+Gurupaí
+Gurupatuba
+Gurupi
+Hanau-Iru
+Haroldo
+Hebreia
+Hildefonso
+Humaitá
+Iade
+Iara
+Içana
+Igarapé
+Igarapé Areal
+Igarapé de Pedro
+Igarapé Grande
+Igarapé Puru
+Igarité
+Igoronhon
+Iguape
+Îlet Alice
+Îlet Anawa
+Îlet Barbosa
+Îlet Capouri
+Îlet Galion
+Îlet Gros Indien
+Ilêt Jacquot
+Ilêt Jonc
+Îlet Kouaman
+Îlet Mémora
+Ilêt Pêcheur
+Îlet Titicolé
+Ilêt Youmino
+Îlets Bois Déraciné
+Îlets Groslexandre
+Ilêts Portugais
+Ilêts Taparabou
+Îlets Toïlopiké
+Ilhéu Grande
+Ilheuzinho
+Ilhota
+Ilhota Aroeiras
+Ilhota Cagarra
+Ilhota da Ferradura
+Ilhota da Maloca Aroni
+Ilhota da Ponta Escura
+Ilhota das Emerenças
+Ilhota de Fora
+Ilhota do Meio
+Ilhota do Sul
+Ilhota do Turuna
+Ilhota dos Meros
+Ilhota Garruchas
+Ilhota Grande
+Ilhota Pequena
+Ilhota Redonda
+Ilhota São Luis
+Ilhotas Santo Isidro
+Ilhote das Cabras
+Ilhote do Areal
+Ilhote do Boqueiro
+Ilhote do Ouvidor
+Ilhote do Siriú
+Ilhote do Sul
+Ilhote do Tipiti
+Ilhote Goianã
+Ilhote Pau a Pino
+Ilhote Praia Grande
+Ilusão
+Imagina
+Imbaubal
+Imboacica
+Imburana
+Imperador
+Inajá
+Inajaz
+Inamaru
+Inambu
+Inglaterra
+Inglês
+Inhambá
+Inhanhum
+Intento
+Inveja
+Ioia
+Ioiazinho
+Iolanda
+Ipadu
+Ipanema
+Ipemonga
+Ipiaçava
+Ipixuna
+Ipomonga
+Irá
+Iradauaú
+Iraiti
+Irapujá
+Irene
+Irmã de Fora
+Irmã do Meio
+Irmã Pequena
+Irmãos
+Isabel
+Isaura
+Isla Arara
+Isla Butuhy Grande
+Isla Pedro II
+Isolada
+Ita
+Itaboca
+Itaca
+Itacolomis
+Itacupim
+Itacuruçá
+Itaici
+Itaiteva
+Itaitis
+Itanhangá
+Itaoca
+Itaoquinha
+Itapacis
+Itaparica
+Itapera
+Itapessoca
+Itapeva
+Itapimerum
+Itapina
+Itapoã
+Itapucu
+Itaquatiara
+Itaquatiba
+Itarana
+Itatiaia
+Itaubinha
+Itaúna
+Itiuiti
+Ituí
+Ituquara
+Ituqui
+Iuacauá
+Iui
+J Venancio
+Jabaroca
+Jaboti
+Jabuti Maior
+Jabuti-Açu
+Jacaminhoca
+Jacinto
+Jaciparaná
+Jacó
+Jacundá
+Jacuraru
+Jacurutu
+Jadica
+Jaguanum
+Jamarizinho
+Janaucu
+Jandiatuba
+Jangada
+Jangadeiro
+Japacari
+Japacuá
+Japão
+Japariquara
+Japariz
+Japecanga
+Japeju
+Japichaua
+Japirica
+Japu
+Japurá Grande
+Jaracuera
+Jaraqui
+Jararaquinha
+Jardim
+Jaribatuba
+Jaru
+Jauarapá
+Jauaretê
+Jauarizal
+Javaruna
+Jererê de Dentro
+Jererê de Fora
+Jerimé
+Jerimum
+Jerimum Grande
+Jibóla
+Jipií Seco
+Jipóia
+Joana
+João Barbosa
+João Bastos
+João Cabelo
+João Cândido
+João da Cunha
+João Francisco
+João Grande
+João Inglês
+João Maia
+João Monteiro
+João Pereira
+João Queiroz
+João Vaz
+Joaquim Duarte
+Jonas
+Jorge Grego
+Joroca
+Jorocazinho
+José André
+José Bispo
+José Bravo
+José dos Santos
+José Gomes
+José João
+José Pessati
+José Resende
+José Torres
+Josefa
+Juá Novo
+Juari
+Jucurupe
+Júlia
+Júlio
+Juncal
+Jundiá
+Jupari
+Jupatituba
+Juputituba
+Juriezé
+Juruá
+Jurumirim
+Juruparipacu
+Juruvaúva
+Justino
+Jutica
+Jutuba
+Kararahô
+Knaesel
+Lacerda de Almeida
+Lagode
+Laguinho
+Laguna
+Laje Alagada
+Laje Branca
+Laje de Fora
+Laje do Sono
+Laje Preta
+Laje Preta da Comprida
+Laje Preta do Cedro
+Lajedo
+Lajeiro
+Lajes
+Lamin
+Laranjal
+Laranjeira
+Laranjeiras
+Lata
+Latão
+Lauara
+Laurentino
+Lava
+Leão
+Leia
+Lélia
+Lençóis
+Leonídio
+Leopoldo Metzger
+Lessa
+Lila
+Liliosa
+Limo
+Lindolfo
+Linguado
+Lino
+Liverpool
+Livramento
+llha Comprida
+llha das Pombas
+Lobato
+Lobisomen
+Lombo Branco
+Lourival
+Lua
+Lua Cheia
+Lua Nova
+Luanda
+Lucena
+Lúcia
+Lucilia
+Lucínio
+Lúcio
+Lui
+Luísa
+Luisinho
+Macaca
+Macacoari
+Macaianim
+Maçangana
+Macapá
+Macapimirim
+Macaquinho
+Maçarico
+Macaumirim
+Macedo
+Machantaria
+Maciel
+Macuapanim
+Macuca
+Macuco
+Macucunã
+Macuguaçu
+Macujubim
+Macuro
+Madalena
+Madame
+Mãe
+Mãe Maria
+Mãe-d'Água
+Mãe-Quer
+Maia
+Maiandeua
+Maiau
+Maicá
+Majari
+Majauzinho
+Major Cezário
+Mala
+Malambá
+Malineza
+Maloca
+Malta
+Malvão
+Mamanguava
+Mamão
+Mamoeiro
+Mamori
+Mamoriá
+Mamoriá Grande
+Maná
+Manacapuru
+Manapi
+Manaus
+Manbuaí
+Mandigituba
+Mandirituba
+Manduacari
+Manduca
+Manelito
+Mangaí
+Mangal
+Mangue Alto
+Mangue Seco
+Mangueiral
+Mangunça
+Manicoré
+Maniva
+Manoéis de Dentro
+Mansinha
+Mantimento
+Manuel
+Manuel Anastácio
+Manuel Calhau
+Manuel Firmino
+Manuel Gomes
+Manuel João
+Mapará Grande
+Mapari
+Mapariá
+Mapeua
+Mapita
+Mapixari
+Mapuaru
+Maqui
+Mar Casado
+Mar Virado
+Maracaçu
+Maracaçumé
+Maracanã
+Marajá
+Marajó
+Marajozinha
+Marambaia
+Maranduva
+Maranhão
+Marapazinha
+Marapiaçu
+Marapiti
+Marari
+Mararia
+Maratuba
+Marauiá
+Marcelino
+Marco
+Maré
+Marechal Deodoro
+Margarida
+Mari
+Maria Araújo
+Maria Guarda
+Mariano
+Maricás
+Maricota
+Marimatuba
+Marimbondo
+Marinho
+Marinzal
+Mário Bonifácio
+Mário Boto
+Mariquinha
+Marisco
+Maritiapina
+Marituba
+Marizal
+Marmatubinha
+Maroins
+Marrecona
+Marrequinha
+Maruaru
+Maruins
+Maruins Pequena
+Maruizinho
+Mascote
+Massangana
+Mastro
+Mata Coral
+Matada
+Matamatá
+Matarandiba
+Matari
+Matins Sales
+Mato
+Mato Grande
+Matupiri
+Maturé
+Mauá
+Mauaná
+Maúba
+Mauixi
+Maximiliano
+Medo
+Mêdo
+Meio Mundo
+Meiruça
+Melancieira
+Melgaço
+Mem de Sá
+Mendes
+Menina
+Mercedes
+Mergulhão
+Meriti
+Meruim
+Merum
+Mestre
+Mestre Rodrigues
+Mexerico
+Mexiana
+Mexingueiro
+Miguel Henrique
+Milho
+Mineira
+Mineiro
+Mineral
+Mingu
+Miraci
+Miradouro
+Mirapirera
+Miriam
+Miriti
+Miru
+Mocajuba
+Mocanguê Grande
+Mocanguê Pequeno
+Modesto
+Moela
+Mojó
+Molha Mala
+Mona
+Monsaraz
+Montanha
+Montanha Russa
+Montão de Trigo
+Monteiro
+Moquém
+Morada Nova
+Morcegão
+Morengo
+Moreninha
+Morosa
+Morreanho
+Morto
+Morumbi
+Mosqueiro
+Mourão
+Mouratuba
+Móvel
+Mucajaí
+Mucambo do Vento
+Mucum
+Muçum
+Mucunandiba
+Mucurás
+Mucuripe
+Mugura
+Muiraçutuba
+Mujirum
+Mulata
+Mumbuca
+Mundica
+Munguba
+Mureru
+Muriaquitã
+Muricizal
+Muriçoca
+Murituba
+Murucutu
+Murumuru
+Mutucal
+Mutuoca
+Mututi
+Nabileque
+Namaú
+Nanico
+Narciso
+Natividade
+Navalha
+Nazária
+Nhanquetá
+Niterói
+Nossa Senhora
+Nossa Senhora da Penha
+Nova Caledônia
+Nova da Nazária
+Nova do Camará
+Nova Lua
+Nova Olinda
+Nova Paratari
+Nova Vida
+Novo Mundo
+Oipotuba
+Olho Amarelo
+Oliveira
+Onofre
+Onze Horas
+Oriboca
+Ourique
+Ouro
+Ovos
+Paca
+Pacoca
+Pacomurema
+Pacová
+Pacovão
+Pacuí
+Padeiro
+Padre Nicolino
+Paga Conta
+Pagão
+Pai
+Pai José
+Pai Mané
+Paiçandu
+Paiol
+Paiva
+Pajica
+Palha
+Palhão
+Palmatória
+Palmer
+Paná
+Panacarica
+Panamim
+Pancaraiba
+Panela
+Panumã
+Papa Arroz
+Papaconha
+Papagaio Cacau
+Papagaio de Cima
+Paquetá-Açu
+Pará
+Pará da Lama
+Paracanatuba
+Parada
+Paraiso
+Paraíso Grande
+Paranaguá-Mirim
+Paranapará
+Paranaquara
+Paranoá
+Paratari
+Paratarizinho
+Parati
+Paratinga
+Paratudal
+Parauá
+Parauacara
+Parauaquara
+Parauari
+Parcel do Aleijado
+Paricá
+Parintins
+Paruru
+Pascoal
+Passagem
+Passarão
+Passeur
+Pasto Grande
+Patauá
+Pau a Pino
+Pau Grande
+Pau Grosso
+Pau Sêco
+Pau-a-Pique
+Pau-de-óleo
+Pau-mulato
+Paula e Silva
+Paulino
+Paulista
+Paulo
+Paulo Mendonça
+Pavoçá
+Paz
+Pederneira
+Pedra Branca
+Pedra do Pontal
+Pedra Grande
+Pedra Preta
+Pedro Barros
+Pedro Fernandes
+Pedro Rico
+Pelada
+Pelada Grande
+Pelada Pequena
+Peniquinho
+Pepino
+Pequena do Catuá
+Pequiá
+Perdição
+Pereira
+Perequê
+Periniqui
+Pernambuco
+Perneta
+Perseverança
+Peruíbe
+Peruzzi
+Pervana
+Pesca
+Pescoço
+Pesqueiro
+Piaçaguera
+Picada
+Piloto França
+Pimenta
+Pimental
+Pindaré
+Pinheirinho
+Pinica-Pau
+Pinima
+Pintada
+Pinto Flores
+Piracuí
+Piraim
+Pirajauana
+Piramirim
+Piranhaquara
+Piraruaia
+Pirarucu
+Pirata
+Piratinga
+Pirauara
+Pirica
+Piripiri
+Pita
+Pitiu
+Pitiú
+Pituã
+Pituna
+Piúmas
+Piunquara
+Pixe
+Poana
+Poção
+Pocidônio
+Poço de Mel
+Polícia
+Pombal
+Ponta das Cavalas
+Ponta das Pedras
+Ponta Grande
+Ponta Rasa
+Pontal do Sul
+Ponto Novo
+Pontuda
+Popoca
+Poraquê
+Porchat
+Porquinhos
+Porre
+Porrete
+Porteira
+Portilha
+Porto Alegre
+Porto Carreiro
+Pôrto Cemitério
+Porto do Meio
+Porto Escondido
+Porto Seguro
+Português
+Posse
+Povo
+Povoçá
+Pracajuba
+Pracubinha
+Pracuúba
+Praia da Mina
+Praia do Curupaiti
+Praia do Gado
+Praia do Meio
+Praia do Vento
+Prainha
+Prainha Branca
+Prego
+Preprioca
+Presidente Tibiriçá
+Preto
+Primavera
+Primeira
+Primo
+Princesa
+Procópio
+Profiro
+Prosperança
+Prudente
+Prumirim
+Pucu
+Pupona
+Pupunhas
+Pureza
+Purita
+Pururé
+Purus
+Quadrada
+Quanaru
+Quarena
+Quarenta
+Quebra
+Quebra Linho
+Quebra Mar
+Quebra Pote
+Quebra-Cabo
+Quebra-Costela
+Quebra-linha
+Quebrada
+Queimadas
+Queimadinha
+Queimado
+Quiepe
+Quintanau
+Quiri
+Rabelo
+Racha
+Raimundinho
+Raimundo Gomes
+Raimundo Ramos
+Ramada
+Rasa da Cotinga
+Rasa das Três Casas
+Rasa de Guaratiba
+Rata
+Raton Chico
+Raton Grande
+Rebeca
+Rebelde
+Rebojinhas
+Rebojinho
+Recife
+Redenção
+Regalo
+Rema
+Remansinho
+Remanso
+Remédio
+Rendenção
+Resolve
+Retiro
+Retorcida
+Reunião
+Riachuelo
+Ribeira
+Ribeiro
+Rica
+Ricardo
+Rijo
+Rimes
+Risco
+Rodado
+Rodeador
+Roma
+Roquete
+Rosa
+Rosália
+Rosalina
+Rosarinho
+Rumão
+Ruru
+Sá e Faria
+Sabá
+Sabino
+Sacada
+Sacado
+Sacaí
+Saci
+Saco
+Sacurema
+Sai-Cinza
+Saí-Guaçu
+Saiaçu
+Salamaleque
+Salina
+Salino
+Salomão
+Saltinho
+Salvadora
+Samambaia
+Samanajós
+Samaúna
+Sambaqui
+Sambito
+Sampaio
+Samuel
+Sandri
+Sangradouro
+Sanguessuga
+Santa Catarina
+Santa Clara
+Santa Isabel
+Santa Izabel
+Santa Joana
+Santa Maria do Baiaçu
+Santa Marta
+Santa Mônica
+Santa Quitéria
+Santa Teresinha
+Santana de Dentro
+Santaninha
+Santarenzinho
+Santíssimo
+Santo Alberto
+Santo Aleixo
+Santo Amaro
+Santo Inácio
+São Bento Ponta
+São Bernardo
+São Carlos
+São Felipe
+São Guilherme
+São João das Asas
+São João Mirim
+São Joãozinho
+São Joaquim
+São Jorge
+São Lourenço
+São Lucas Pequena
+São Luis
+São Marçal
+São Marcos
+São Miguelzinho
+São Patrício
+São Paulo
+São Rafael
+São Raimundo da Meditação
+São Rica
+São Salvador
+São Sebastião
+São Silvestre
+São Vicente
+São Xavier
+Sapata
+Sapateiro
+Sapé
+Sapioeira
+Saracá
+Saracurinha
+Saragonha
+Saraíba
+Saraiva
+Saravatá
+Sargento
+Sateiro
+Sauiá
+Sautá
+Sebastiana
+Sebastião
+Sela Gineta
+Sepultura
+Seputá
+Serafim Araújo
+Serena
+Seringal
+Sernambi
+Serpa
+Serrado
+Serragem
+Serrão
+Serrote
+Serviço-Quero
+Sete de Setembro
+Sibaru
+Silva Rodrigues
+Silvia
+Siqueira
+Siri Pestana
+Siriba
+Sirituba
+Sítio do Mato
+Só
+Sobrado
+Sobral
+Solteira
+Sombrero
+Sooerama
+Sororoca Grande
+Sororoca Pequena
+Sossêgo
+Sovaco da Velha
+Stela
+Suaçuita
+Sucesso
+Sucuba
+Sucuriú
+Sueste
+Sugado
+Sumítica
+Sundara
+Sunta
+Superagui
+Supiá
+Surubi
+Suruquaí
+Sururu
+Sutambique
+Tabalo
+Tabaratá
+Taboão
+Taboca
+Tabocal
+Taboleiro
+Tabuleirinho
+Tacami
+Taiaçuí
+Taiaçutuba
+Taiamã
+Taicis
+Taipu-Mirim
+Tajá
+Talamã
+Tamandaré
+Tamanquaré
+Tamaquaré
+Tambaqui
+Tambor
+Tamboretes
+Tamboril
+Tamborim
+Tambuaçu
+Tanauã
+Tanhangá
+Tapagem
+Tapaiúna
+Tapará
+Tapequé
+Tapiranga
+Tapuamas de Dentro
+Tapuamas de Fora
+Tapuia
+Taquaras
+Taquarí
+Taracuá
+Tarará
+Tarará-Mirim
+Tararazinho
+Tartaruguinha
+Tassiquara
+Tatapunia
+Tatuoca
+Tauatu
+Tauninha
+Tauri
+Tavares
+Teimoso
+Teles
+Tem-Tem
+Teodoro
+Terçado
+Teresa
+Termisa
+Teso
+Testa Branca
+The Barn
+The Turks Cap
+Tiaracá
+Tigelas
+Tijela
+Tijucal
+Tijucas
+Timbaubal
+Timboatuba
+Tinharé
+Tiocari
+Tipitinga
+Tira Catinga
+Tiririca
+Tista
+Toca da Onça
+Tocantins
+Tonantins
+Tonu
+Toque-Toque
+Toró
+Torocana
+Torotama
+Torreza
+Traição
+Traíra
+Trairão
+Tralhoto
+Trava
+Travessão dos Índios
+Travessão Pesqueirão
+Trepa-Pau
+Três Barras de Cima
+Três Botelhos
+Três Irmãos
+Três Quedas
+Trinta Réis
+Trinta-Réis
+Triunfo
+Trocaris
+Trovão
+Tubarão
+Tubibo
+Tucum
+Tucum de Dentro
+Tucumaipijó
+Tucunarequara
+Tucunzal
+Tucupi
+Tuiuiú
+Tuivié
+Tumba
+Tupé
+Tupenduba
+Tupi
+Turaca
+Tureba
+Turimã
+Turumã
+Tutóia
+Uabetuba
+Uacurizal
+Uaiapiçá
+Uanacá
+Uariau
+Uatama
+Ubim
+Uevadon
+Uiaruaçu
+Umarani
+Umbaubal
+Umburana
+Umeri
+União
+Universo
+Untoba
+Uquiri
+Urubuéua
+Urubuquara
+Urucuricaia
+Urucurituba
+Urucurizinho
+Urumaru
+Urupirupi
+Urutaí
+Urutuba
+Usina
+Uxi
+Valaca
+Valente
+Valentim
+Valha-Me-Deus
+Valparaíso
+Vará
+Varal
+Várzea
+Veiga
+Velha
+Velho Chico
+Velocípede
+Venda
+Ventura
+Vereda dos Peixes
+Versales
+Viana
+Vianez
+Vicência
+Vicente
+Viçosa
+Vidico
+Vidraça
+Vigia Grande
+Vigia Pequena
+Villegagnon
+Vinte-e-um
+Vira-Mundo
+Viração
+Viraponga
+Virgínia
+Visagem
+Visanha
+Vista Alegre
+Vítor
+Viúva
+Wilson
+Xateturu
+Xavier
+Xibeco
+Xibinga
+Xiborena
+Ximaio
+Ximari
+Ximbuva
+Xingu
+Xixá
+Zama
+Zazá
+Zé Grande
+Zé Ivo
+Zimlich
+Zoraido

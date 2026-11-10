@@ -1,0 +1,1173 @@
+Alcohol	2921
+Ibuprofen	1149
+Acetaminophen	1093
+Menthol	1001
+Nicotine	769
+Lidocaine	707
+Gabapentin	580
+Oxygen	570
+Pregabalin	542
+Hydrocortisone	492
+Benzocaine	414
+Aspirin	407
+Loratadine	370
+Famotidine	358
+Dimethicone	336
+Guaifenesin	323
+Prednisone	319
+Tolnaftate	310
+Levetiracetam	305
+Topiramate	303
+Minoxidil	300
+Petrolatum	291
+Lamotrigine	287
+Amoxicillin	279
+Omeprazole	278
+Lisinopril	274
+Aripiprazole	269
+Estradiol	254
+Tadalafil	254
+Chloroxylenol	240
+Celecoxib	238
+Oatmeal	234
+Baclofen	233
+Clotrimazole	231
+Furosemide	221
+Olanzapine	219
+Methocarbamol	214
+Fenofibrate	209
+Glycopyrrolate	193
+Acyclovir	188
+Cephalexin	184
+Spironolactone	182
+Metronidazole	177
+Naproxen	176
+Risperidone	176
+Carvedilol	174
+Allopurinol	171
+Hydrochlorothiazide	170
+Fluconazole	164
+Lacosamide	164
+Haloperidol	163
+Phenobarbital	160
+Simvastatin	160
+Carbamazepine	157
+Meloxicam	153
+Dexamethasone	151
+Lorazepam	146
+Clonazepam	145
+Glipizide	145
+Valsartan	145
+Mirtazapine	144
+Alprazolam	141
+Nitrogen	140
+Benzonatate	139
+Nifedipine	133
+Capsaicin	131
+Sennosides	131
+Atenolol	129
+Diazepam	129
+Oxcarbazepine	129
+Bumetanide	127
+Sulfur	127
+Water	127
+Bisacodyl	126
+Levofloxacin	124
+Nitroglycerin	124
+Epinephrine	123
+Lansoprazole	121
+Glycerin	119
+Lenalidomide	114
+Doxycycline	109
+Dasatinib	108
+Octinoxate	108
+Tacrolimus	106
+Chlorthalidone	105
+Glimepiride	105
+Etodolac	104
+Ondansetron	99
+Isotretinoin	97
+Progesterone	97
+Deferasirox	94
+Eszopiclone	92
+Nystatin	92
+Ofloxacin	88
+Temazepam	88
+Cyclophosphamide	87
+Indomethacin	86
+Everolimus	85
+Tretinoin	85
+Irbesartan	83
+Telmisartan	80
+Erythromycin	78
+Allantoin	77
+Docosanol	76
+Cefdinir	75
+Ketoconazole	75
+Nitrofurantoin	73
+Perphenazine	73
+Temozolomide	73
+Budesonide	72
+Finasteride	72
+Lovastatin	72
+Sucralfate	70
+Paliperidone	69
+Ramipril	69
+Acetazolamide	65
+Caffeine	64
+Levonorgestrel	64
+Nabumetone	64
+Metaxalone	63
+Pirfenidone	63
+Torsemide	63
+Brivaracetam	62
+Metolazone	62
+Mesalamine	60
+Digoxin	59
+Adenosine	58
+Deflazacort	58
+Phenol	58
+Ticagrelor	58
+Adapalene	57
+Voriconazole	57
+Modafinil	56
+Cyanocobalamin	55
+Carisoprodol	54
+Clarithromycin	54
+Glyburide	54
+Methimazole	54
+Tirzepatide	54
+Daptomycin	53
+Felodipine	53
+Methylprednisolone	53
+Nadolol	53
+Ranolazine	53
+Fluocinonide	52
+Dapsone	51
+Fluorouracil	51
+Ursodiol	51
+Zonisamide	51
+Adalimumab	50
+Testosterone	50
+Cyclosporine	49
+Tobramycin	49
+Clozapine	48
+Colchicine	48
+Captopril	47
+Meropenem	47
+Pomalidomide	47
+Zolmitriptan	46
+Droxidopa	45
+Febuxostat	45
+Buprenorphine	44
+Paclitaxel	44
+Primidone	44
+Rivaroxaban	44
+Gemfibrozil	43
+Lubiprostone	43
+Urea	43
+Calcitriol	42
+Ezetimibe	42
+Oxaliplatin	42
+Pectin	42
+Anastrozole	41
+Ivermectin	41
+Ramelteon	41
+Ustekinumab	41
+Carboplatin	40
+Cefadroxil	40
+Leflunomide	40
+Linezolid	40
+Perampanel	40
+Sirolimus	40
+Cholestyramine	39
+Paricalcitol	39
+Phytonadione	39
+Propofol	39
+Dapagliflozin	38
+Dofetilide	38
+Ergocalciferol	38
+Armodafinil	37
+Copper	37
+Lactulose	37
+Posaconazole	37
+Treprostinil	37
+Chlorzoxazone	36
+Cimetidine	36
+Clobazam	36
+Desoximetasone	36
+Fentanyl	36
+Silver	36
+Teriflunomide	36
+Acetylcysteine	34
+Capecitabine	34
+Dimenhydrinate	34
+Docetaxel	34
+Esomeprazole	34
+Rivastigmine	34
+Azathioprine	33
+Bortezomib	33
+Gold	33
+Mitomycin	33
+Mupirocin	33
+Roflumilast	33
+Rosuvastatin	33
+Ammonia	30
+Thyroid	30
+Bacitracin	29
+Desonide	29
+Lamivudine	29
+Silodosin	29
+Bimatoprost	28
+Etomidate	28
+Iodine	28
+Iron	28
+Wormwood	28
+Azacitidine	27
+Isoniazid	27
+Selexipag	27
+Ambrisentan	26
+Epoetin	26
+Famciclovir	26
+Goldenseal	26
+Ipecac	26
+Misoprostol	26
+Tolvaptan	26
+Clonidine	25
+Fulvestrant	25
+Graphite	25
+Piroxicam	25
+Zinc	25
+Acitretin	24
+Atovaquone	24
+Capsicum	24
+Filgrastim	24
+Labetalol	24
+Letrozole	24
+Levomenthol	24
+Niacin	24
+Phosphorus	24
+Rufinamide	24
+Semaglutide	24
+Tetrabenazine	24
+Vigabatrin	24
+Amphetamine	23
+Cefprozil	23
+Ciclopirox	23
+Entecavir	23
+Mirabegron	23
+Nitisinone	23
+Aprepitant	22
+Denosumab	22
+Dutasteride	22
+Felbamate	22
+Liraglutide	22
+Scopolamine	22
+Tazarotene	22
+Tocilizumab	22
+Decitabine	21
+Dexlansoprazole	21
+Eplerenone	21
+Eptifibatide	21
+Flumazenil	21
+Gadobutrol	21
+Griseofulvin	21
+Hydroxyurea	21
+Methotrexate	21
+Tin	21
+Causticum	20
+Cisplatin	20
+Flucytosine	20
+Kerosene	20
+Lead	20
+Methazolamide	20
+Methylphenidate	20
+Niacinamide	20
+Podophyllum	20
+Repaglinide	20
+Vasopressin	20
+Zaleplon	20
+Latanoprost	19
+Maraviroc	19
+Pindolol	19
+Rifampin	19
+Apixaban	18
+Argatroban	18
+Atorvastatin	18
+Cilostazol	18
+Etoposide	18
+Hydroquinone	18
+Iloperidone	18
+Nateglinide	18
+Norethindrone	18
+Tioconazole	18
+Travoprost	18
+Acarbose	17
+Allylthiourea	17
+Cinnamon	17
+Guanfacine	17
+Indapamide	17
+Iohexol	17
+Levocarnitine	17
+Nilotinib	17
+Onion	17
+Permethrin	17
+Scandium	17
+Thiotepa	17
+Boron	16
+Diamond	16
+Digitalis	16
+Dipyridamole	16
+Estriol	16
+Etravirine	16
+Helium	16
+Iomeprol	16
+Nutmeg	16
+Oxazepam	16
+Strontium	16
+Tiopronin	16
+Valerian	16
+Bivalirudin	15
+Darunavir	15
+Desloratadine	15
+Dill	15
+Doxercalciferol	15
+Dronabinol	15
+Itraconazole	15
+Macitentan	15
+Nebivolol	15
+Nelarabine	15
+Pegfilgrastim	15
+Phenytoin	15
+Sevoflurane	15
+Vancomycin	15
+Air	14
+Bosentan	14
+Brexpiprazole	14
+Bromine	14
+Cytarabine	14
+Entacapone	14
+Gadopiclenol	14
+Imiquimod	14
+Iopamidol	14
+Lonapegsomatropin	14
+Sulfasalazine	14
+Sulindac	14
+Trandolapril	14
+Triazolam	14
+Bevacizumab	13
+Calomel	13
+Platinum	13
+Plerixafor	13
+Radish	13
+Sitagliptin	13
+Thiothixene	13
+Tinidazole	13
+Aloe	12
+Antimony	12
+Cabergoline	12
+Cadmium	12
+Cefixime	12
+Ethosuximide	12
+Exemestane	12
+Ifosfamide	12
+Lanolin	12
+Lomustine	12
+Mesna	12
+Nickel	12
+Palladium	12
+Penicillamine	12
+Prednisolone	12
+Regadenoson	12
+Saffron	12
+Sucrose	12
+Sumatriptan	12
+Terconazole	12
+Zafirlukast	12
+Aluminum	11
+Arsenic	11
+Asenapine	11
+Aztreonam	11
+Calcipotriene	11
+Chlorine	11
+Dalfampridine	11
+Danazol	11
+Deutetrabenazine	11
+Dextromethorphan	11
+Difluprednate	11
+Dulaglutide	11
+Empagliflozin	11
+Gadoquatrane	11
+Kaolin	11
+Oxytocin	11
+Ranibizumab	11
+Ribavirin	11
+Triamterene	11
+Triclosan	11
+Aflibercept	10
+Albendazole	10
+Alprostadil	10
+Beryllium	10
+Bexarotene	10
+Bicalutamide	10
+Biotin	10
+Cobalt	10
+Deferiprone	10
+Garlic	10
+Isoflurane	10
+Magnesium	10
+Manganese	10
+Milsaperidone	10
+Montelukast	10
+Oxaprozin	10
+Riluzole	10
+Riociguat	10
+Ritonavir	10
+Ruxolitinib	10
+Tellurium	10
+Asafetida	9
+Busulfan	9
+Carbidopa	9
+Ceftazidime	9
+Clofarabine	9
+Ensulizole	9
+Ginger	9
+Glucagon	9
+Lithium	9
+Mannitol	9
+Niobium	9
+Palbociclib	9
+Pentoxifylline	9
+Sarsaparilla	9
+Teriparatide	9
+Thallium	9
+Trastuzumab	9
+Tropicamide	9
+Amoxapine	8
+Atropine	8
+Bromoethane	8
+Chromium	8
+Citalopram	8
+Cladribine	8
+Clindamycin	8
+Coriander	8
+Dysprosium	8
+Efavirenz	8
+Erbium	8
+Europium	8
+Gadolinium	8
+Gallium	8
+Gamboge	8
+Germanium	8
+Hafnium	8
+Holmium	8
+Indigo	8
+Indium	8
+Iridium	8
+Lanthanum	8
+Lutetium	8
+Miconazole	8
+Nevirapine	8
+Nisoldipine	8
+Osmium	8
+Praseodymium	8
+Propylthiouracil	8
+Rituximab	8
+Sage	8
+Samarium	8
+Silicon	8
+Somatropin	8
+Terbium	8
+Tetrabromomethane	8
+Tigecycline	8
+Vanadium	8
+Vanilla	8
+Wheat	8
+Ytterbium	8
+Yttrium	8
+Zidovudine	8
+Ziprasidone	8
+Zirconium	8
+Asparagus	7
+Buspirone	7
+Canagliflozin	7
+Chloroform	7
+Ciprofloxacin	7
+Cresol	7
+Desflurane	7
+Diflunisal	7
+Disulfiram	7
+Emapalumab	7
+Ether	7
+Fidaxomicin	7
+Fomepizole	7
+Ginkgo	7
+Halcinonide	7
+Ioversol	7
+Ketoprofen	7
+Larotrectinib	7
+Levmetamfetamine	7
+Levodopa	7
+Mercaptopurine	7
+Miglustat	7
+Naphtha	7
+Nizatidine	7
+Omalizumab	7
+Pamabrom	7
+Probenecid	7
+Ruthenium	7
+Tavaborole	7
+Abrocitinib	6
+Brinzolamide	6
+Cariprazine	6
+Cenobamate	6
+Cholesterol	6
+Colchiceine	6
+Cosyntropin	6
+Dibucaine	6
+Emicizumab	6
+Epoprostenol	6
+Estazolam	6
+Fluorometholone	6
+Flurandrenolide	6
+Follitropin	6
+Ibrutinib	6
+Ivacaftor	6
+Letermovir	6
+Melatonin	6
+Meprobamate	6
+Micafungin	6
+Midazolam	6
+Miglitol	6
+Pimecrolimus	6
+Pralatrexate	6
+Pyrimethamine	6
+Rifabutin	6
+Risankizumab	6
+Rotigotine	6
+Selinexor	6
+Selpercatinib	6
+Sorafenib	6
+Spesolimab	6
+Theophylline	6
+Zileuton	6
+Alcaftadine	5
+Alpelisib	5
+Avapritinib	5
+Bosutinib	5
+Calcium	5
+Carboxymethylcellulose	5
+Cefaclor	5
+Corticotropin	5
+Crizotinib	5
+Dactinomycin	5
+Daprodustat	5
+Enzalutamide	5
+Estrone	5
+Etanercept	5
+Evolocumab	5
+Gefitinib	5
+Glutamine	5
+Infliximab	5
+Iodixanol	5
+Isradipine	5
+Lenvatinib	5
+Mifepristone	5
+Mirikizumab	5
+Mitapivat	5
+Nimodipine	5
+Oxycodone	5
+Palovarotene	5
+Penciclovir	5
+Pyrazinamide	5
+Quetiapine	5
+Ropinirole	5
+Spinosad	5
+Tafluprost	5
+Tasimelteon	5
+Trimethoprim	5
+Tryptophan	5
+Abatacept	4
+Abemaciclib	4
+Acetaldehyde	4
+Aficamten	4
+Alirocumab	4
+Alvimopan	4
+Amantadine	4
+Axatilimab	4
+Axitinib	4
+Baricitinib	4
+Besifloxacin	4
+Betaine	4
+Bimekizumab	4
+Bupivacaine	4
+Dacarbazine	4
+Desvenlafaxine	4
+Dextroamphetamine	4
+Dichlorphenamide	4
+Diphenhydramine	4
+Dupilumab	4
+Edaravone	4
+Emtricitabine	4
+Erenumab	4
+Exenatide	4
+Flurbiprofen	4
+Hexylresorcinol	4
+Ichthammol	4
+Iopromide	4
+Ixekizumab	4
+Linaclotide	4
+Mavacamten	4
+Methyldopa	4
+Metyrosine	4
+Morphine	4
+Mosunetuzumab	4
+Nitazoxanide	4
+Nivolumab	4
+Norgestrel	4
+Odevixibat	4
+Olaparib	4
+Orlistat	4
+Osimertinib	4
+Patiromer	4
+Pemetrexed	4
+Pimozide	4
+Pitavastatin	4
+Prucalopride	4
+Quercetin	4
+Rifaximin	4
+Rozanolixizumab	4
+Salsalate	4
+Sarilumab	4
+Secukinumab	4
+Selumetinib	4
+Sepiapterin	4
+Sincalide	4
+Sofosbuvir	4
+Sonrotoclax	4
+Stiripentol	4
+Suvorexant	4
+Taurine	4
+Tavapadon	4
+Thalidomide	4
+Tofacitinib	4
+Trofinetide	4
+Ubrogepant	4
+Upadacitinib	4
+Vardenafil	4
+Vepdegestrant	4
+Acalabrutinib	3
+Afatinib	3
+Amcinonide	3
+Anidulafungin	3
+Apremilast	3
+Atogepant	3
+Avanafil	3
+Belimumab	3
+Benralizumab	3
+Benzgalantamine	3
+Betiatide	3
+Bexagliflozin	3
+Bismuth	3
+Brigatinib	3
+Burosumab	3
+Carfilzomib	3
+Chamomile	3
+Ciclesonide	3
+Clevidipine	3
+Concizumab	3
+Crotamiton	3
+Dacomitinib	3
+Diazoxide	3
+Droperidol	3
+Eculizumab	3
+Elranatamab	3
+Enalaprilat	3
+Entrectinib	3
+Erdafitinib	3
+Fezolinetant	3
+Finerenone	3
+Floxuridine	3
+Flunisolide	3
+Fluorescein	3
+Gadoteridol	3
+Galcanezumab	3
+Glycine	3
+Golimumab	3
+Guselkumab	3
+Hetastarch	3
+Homosalate	3
+Honey	3
+Hypromelloses	3
+Isatuximab	3
+Lifitegrast	3
+Linagliptin	3
+Lorlatinib	3
+Lumateperone	3
+Lusutrombopag	3
+Mecasermin	3
+Mepolizumab	3
+Methyltestosterone	3
+Mirdametinib	3
+Nepafenac	3
+Norepinephrine	3
+Nusinersen	3
+Palopegteriparatide	3
+Panthenol	3
+Pasireotide	3
+Pegvaliase	3
+Pemigatinib	3
+Phenylalanine	3
+Pioglitazone	3
+Plazomicin	3
+Prasterone	3
+Prochlorperazine	3
+Resmetirom	3
+Rimabotulinumtoxinb	3
+Romiplostim	3
+Romosozumab	3
+Selegiline	3
+Siponimod	3
+Somapacitan	3
+Sotorasib	3
+Talc	3
+Tetracaine	3
+Tolcapone	3
+Tripelennamine	3
+Tromethamine	3
+Vadadustat	3
+Valganciclovir	3
+Vedolizumab	3
+Venetoclax	3
+Vericiguat	3
+Vimseltinib	3
+Voxelotor	3
+Zilucoplan	3
+Zuranolone	3
+Adenine	2
+Aldesleukin	2
+Alemtuzumab	2
+Alfalfa	2
+Amlodipine	2
+Anifrolumab	2
+Apalutamide	2
+Arginine	2
+Atezolizumab	2
+Auranofin	2
+Basiliximab	2
+Baxdrostat	2
+Benzene	2
+Benznidazole	2
+Bisabolol	2
+Brensocatib	2
+Brincidofovir	2
+Calcifediol	2
+Cangrelor	2
+Cantharidin	2
+Capivasertib	2
+Cefotetan	2
+Cetuximab	2
+Chenodiol	2
+Cidofovir	2
+Clopidogrel	2
+Cyproheptadine	2
+Daratumumab	2
+Daraxonrasib	2
+Daridorexant	2
+Dasiglucagon	2
+Dexmedetomidine	2
+Diclofenac	2
+Dinoprostone	2
+Dopamine	2
+Doravirine	2
+Dronedarone	2
+Durvalumab	2
+Duvelisib	2
+Eflapegrastim	2
+Elacestrant	2
+Elotuzumab	2
+Eluxadoline	2
+Epcoritamab	2
+Eplontersen	2
+Eteplirsen	2
+Eugenol	2
+Farnesol	2
+Ferumoxytol	2
+Fitusiran	2
+Flutamide	2
+Formaldehyde	2
+Fostamatinib	2
+Frankincense	2
+Fremanezumab	2
+Fruquintinib	2
+Futibatinib	2
+Gatifloxacin	2
+Glasdegib	2
+Glofitamab	2
+Glutathione	2
+Granisetron	2
+Hydroxocobalamin	2
+Hydroxyethylcellulose	2
+Idelalisib	2
+Inavolisib	2
+Ipilimumab	2
+Istradefylline	2
+Lanadelumab	2
+Lasmiditan	2
+Lazertinib	2
+Lebrikizumab	2
+Lecanemab	2
+Lemborexant	2
+Lerodalcibep	2
+Letibotulinumtoxina	2
+Lincomycin	2
+Lonafarnib	2
+Luliconazole	2
+Luspatercept	2
+Lysine	2
+Lysozyme	2
+Macimorelin	2
+Malathion	2
+Malvin	2
+Margetuximab	2
+Mebrofenin	2
+Menadione	2
+Methionine	2
+Methsuximide	2
+Metyrapone	2
+Miltefosine	2
+Mitotane	2
+Mometasone	2
+Naphthalene	2
+Natalizumab	2
+Natamycin	2
+Nerandomilast	2
+Nifurtimox	2
+Nipocalimab	2
+Nirogacestat	2
+Nirsevimab	2
+Octisalate	2
+Octreotide	2
+Oliceridine	2
+Omadacycline	2
+Opicapone	2
+Oxybutynin	2
+Panitumumab	2
+Pazopanib	2
+Pegcetacoplan	2
+Pegloticase	2
+Pegzilarginase	2
+Perflutren	2
+Phenoxyethanol	2
+Phenylephrine	2
+Phlorizin	2
+Pirtobrutinib	2
+Podofilox	2
+Polidocanol	2
+Ponesimod	2
+Praziquantel	2
+Ramucirumab	2
+Ravulizumab	2
+Repotrectinib	2
+Rifapentine	2
+Risdiplam	2
+Satralizumab	2
+Serotonin	2
+Sildenafil	2
+Silica	2
+Siltuximab	2
+Solriamfetol	2
+Somatrogon	2
+Sorbitol	2
+Sotagliflozin	2
+Sparsentan	2
+Succimer	2
+Sulfadiazine	2
+Sunvozertinib	2
+Suzetrigine	2
+Tafasitamab	2
+Tafenoquine	2
+Tallow	2
+Talquetamab	2
+Teclistamab	2
+Tetrofosmin	2
+Tezepelumab	2
+Timolol	2
+Tislelizumab	2
+Trabectedin	2
+Tralokinumab	2
+Tremelimumab	2
+Treosulfan	2
+Tucatinib	2
+Turpentine	2
+Tyrosine	2
+Ursadiol	2
+Valine	2
+Valrubicin	2
+Vandetanib	2
+Verteporfin	2
+Vorasidenib	2
+Zanamivir	2
+Zanubrutinib	2
+Zenocutuzumab	2
+Zidesamtinib	2
+Zolbetuximab	2
+Abaloparatide
+Acoltremon
+Adagrasib
+Afamelanotide
+Alitretinoin
+Alteplase
+Ambergris
+Amifostine
+Amikacin
+Amisulpride
+Amivantamab
+Anakinra
+Ansuvimab
+Apitegromab
+Aprocitentan
+Asparaginase
+Atacicept
+Avacopan
+Avelumab
+Avobenzone
+Baicalin
+Bakuchiol
+Becaplermin
+Belatacept
+Belinostat
+Belumosudil
+Belzutifan
+Beractant
+Bezlotoxumab
+Binetrakin
+Binimetinib
+Boscalid
+Brodalumab
+Brolucizumab
+Calfactant
+Camizestrant
+Canakinumab
+Cannabidiol
+Carbachol
+Carmustine
+Casimersen
+Cemiplimab
+Cenegermin
+Ceritinib
+Cetirizine
+Chlorambucil
+Chlorothiazide
+Clascoterone
+Clesrovimab
+Clofazimine
+Cobicistat
+Cortisone
+Cosibelimab
+Coumarin
+Crisaborole
+Crizanlizumab
+Crofelemer
+Crovalimab
+Cyclomethicone
+Cycloserine
+Cysteine
+Danicopan
+Darolutamide
+Deacetylbisacodyl
+Deanol
+Delgocitinib
+Depemokimab
+Deucravacitinib
+Dexpanthenol
+Dextrose
+Diethyltoluamide
+Difamilast
+Dinutuximab
+Donanemab
+Dordaviprone
+Dostarlimab
+Ecallantide
+Efinaconazole
+Elafibranor
+Elapegademase
+Eliglustat
+Elinzanetant
+Encorafenib
+Ensifentrine
+Ensitrelvir
+Eptinezumab
+Etonogestrel
+Etripamil
+Faricimab
+Fenbendazole
+Fenfluramine
+Fexinidazole
+Finafloxacin
+Fingolimod
+Flibanserin
+Fluoxetine
+Gadodiamide
+Galsulfase
+Ganaxolone
+Ganciclovir
+Garadacimab
+Garetosmab
+Gedatolisib
+Gemcitabine
+Ginsenosides
+Givinostat
+Glucarpidase
+Golodirsen
+Gozetotide
+Hemin
+Histamine
+Histidine
+Hyaluronidase
+Ibalizumab
+Icotrokinra
+Idarucizumab
+Idursulfase
+Iloprost
+Imiglucerase
+Imlunestrant
+Inebilizumab
+Isocarboxazid
+Ivosidenib
+Laronidase
+Lenograstim
+Leucine
+Levacetylleucine
+Levoketoconazole
+Levothyroxine
+Linerixibat
+Lotilaner
+Loxapine
+Lurbinectedin
+Maribavir
+Mavorixafor
+Mebendazole
+Mechlorethamine
+Methoxsalen
+Methylpropanediol
+Metreleptin
+Midostaurin
+Mint
+Mogamulizumab
+Moxidectin
+Narsoplimab
+Naxitamab
+Nemolizumab
+Nicardipine
+Nilutamide
+Nonathymulin
+Obiltoxaximab
+Obinutuzumab
+Ocrelizumab
+Octocrylene
+Octopamine
+Ofatumumab
+Olutasidenib
+Omaveloxolone
+Oritavancin
+Orthoclase
+Ospemifene
+Oteseconazole
+Oxitriptan
+Oxogestone
+Oxymetazoline
+Ozone
+Pacritinib
+Palifermin
+Pegaspargase
+Pegulicianine
+Pembrolizumab
+Pemivibart
+Penpulimab
+Pentostatin
+Peppermint
+Perfluorohexyloctane
+Pertuzumab
+Piperine
+Plecanatide
+Plozasiran
+Policresulen
+Povidone
+Pozelimab
+Pralsetinib
+Pretomanid
+Prezatide
+Propanediol
+Propylhexedrine
+Quazepam
+Raxibacumab
+Regorafenib
+Relugolix
+Remdesivir
+Remibrutinib
+Reslizumab
+Retifanlimab
+Revefenacin
+Rezafungin
+Rilonacept
+Rilzabrutinib
+Ripretinib
+Romidepsin
+Rosemary
+Rutin
+Sacrosidase
+Salsolinol
+Santonin
+Sargramostim
+Sebetralstat
+Secnidazole
+Setmelanotide
+Sevabertinib
+Sibeprenlimab
+Sinecatechins
+Sinusitisinum
+Sloe
+Streptozocin
+Sutimlimab
+Tafamidis
+Tagraxofusp
+Tapinarof
+Tebentafusp
+Tecovirimat
+Teduglutide
+Teplizumab
+Teprotumumab
+Terbinafine
+Terlipressin
+Thioguanine
+Threonine
+Thyrotropin
+Tildrakizumab
+Tiratricol
+Tirbanibulin
+Tofersen
+Topotecan
+Toripalimab
+Tovorafenib
+Tradipitant
+Triclabendazole
+Trifarotene
+Trifluridine
+Triheptanoin
+Tripe
+Ubidecarenone
+Ublituximab
+Velafermin
+Veligrotug
+Vemurafenib
+Vibegron
+Vilobelimab
+Viltolarsen
+Vismodegib
+Voclosporin
+Vorinostat
+Zanidatamab
+Ziftomenib
+Zoliflodacin
+Zongertinib

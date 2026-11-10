@@ -1,0 +1,5000 @@
+Alto	20
+Croce	19
+Rotondo	17
+Calvo	14
+Cavallo	14
+Castello	13
+Corno	13
+Cucco	13
+Nero	12
+Acuto	10
+Belvedere	10
+Rossa	8
+Sella	8
+Maggiore	7
+Rosso	7
+Sant'Angelo	7
+Aguzzo	6
+Mezzo	6
+Serra	6
+Camino	5
+Castelletto	5
+Civitella	5
+Cornetto	5
+Faito	5
+Grande	5
+Il	5
+Penna	5
+Rocca	5
+San Pietro	5
+Santa Maria	5
+Stella	5
+Alta	4
+Aquilone	4
+Bello	4
+Caruso	4
+Cimone	4
+Corona	4
+Corvo	4
+Cristallo	4
+Dodici	4
+Guardia	4
+Hühnerspiel	4
+La Montagnola	4
+Laste	4
+Montalto	4
+Moro	4
+Nera	4
+Palon	4
+Pedrosu	4
+Rosa	4
+San Nicola	4
+Santa Croce	4
+Santo	4
+Telegrafo	4
+Termine	4
+Undici	4
+Valbona	4
+Valle	4
+Vecchio	4
+Altissimo	3
+Bandiera	3
+Bianco	3
+Bruncu Mannu	3
+Caccia	3
+Cadin	3
+Calvello	3
+Campana	3
+Cappello	3
+Castellone	3
+Castelluccio	3
+Castiglione	3
+Ceraso	3
+Chiesa	3
+Croda Rossa	3
+Dosso	3
+Dosso Alto	3
+Ferru	3
+Forno	3
+Fratta	3
+Gennargentu	3
+Giove	3
+Grosso	3
+La Rocca	3
+La Rocchetta	3
+Ladu	3
+Lattari	3
+Madonna	3
+Maio	3
+Massa	3
+Megna	3
+Meta	3
+Mezzano	3
+Mezzodì	3
+Montagna Grande	3
+Mora	3
+Motola	3
+Nieddu	3
+Nuda	3
+Olia	3
+Pagano	3
+Pala	3
+Piano	3
+Poggio Alto	3
+Rocchetta	3
+Rossola	3
+Rothorn	3
+Rua	3
+Ruiu	3
+S Angelo	3
+S Croce	3
+San Giacomo	3
+San Giovanni	3
+San Michele	3
+Sant'Elia	3
+Saraceno	3
+Sasso di Mezzodì	3
+Sasso Rosso	3
+Selva	3
+Stanga	3
+Tesoro	3
+Tondo	3
+Toro	3
+Torre	3
+Tovo	3
+Tre Vescovi	3
+Vicima	3
+Agnellezze	2
+Agnello	2
+Albano	2
+Altacroce	2
+Amaro	2
+Amula	2
+Aquila	2
+Argentario	2
+Balzo	2
+Battaglia	2
+Baus	2
+Becco	2
+Bedole	2
+Bellocca	2
+Bianca	2
+Bo	2
+Bocco	2
+Bruncu Abruzzedu	2
+Bruncu Casidargiu	2
+Bruncu Maoro	2
+Bruncu Tiria	2
+Busazza	2
+Cadi	2
+Cadino	2
+Camarda	2
+Camin	2
+Campaccio	2
+Campanile	2
+Canale	2
+Capenardo	2
+Carbonara	2
+Cardito	2
+Carmo	2
+Carnizza	2
+Casale	2
+Casteddu	2
+Castel	2
+Castellaccio	2
+Castellazzo	2
+Castelvecchio	2
+Catino	2
+Cazzola	2
+Cece	2
+Ciapè	2
+Cimon	2
+Citerna	2
+Civetta	2
+Col Croce	2
+Col Moscher	2
+Col Santo	2
+Colombo	2
+Coppetto	2
+Corda	2
+Cornacchia	2
+Cornizzolo	2
+Corno Alto	2
+Corno Grande	2
+Corno Gries	2
+Corno Nero	2
+Corno Rosso	2
+Corno Stella	2
+Corno Vecchio	2
+Coro	2
+Corongiu	2
+Corvara	2
+Costa	2
+Costabella	2
+Coste	2
+Costone	2
+Crasta	2
+Crocetta	2
+Croda Alta	2
+Croda Marcora	2
+Croda Nera	2
+Cuar	2
+Dos Alt	2
+Dosso dei Morti	2
+Dragone	2
+Eccas	2
+Entu	2
+Faden	2
+Faete	2
+Farano	2
+Ferro	2
+Filone	2
+Finestra	2
+Fiore	2
+Forato	2
+Forcellone	2
+Formenton	2
+Fornace	2
+Forte	2
+Fortezza	2
+Fratte	2
+Freddo	2
+Froppa	2
+Frusciu	2
+Fumaiolo	2
+Gallo	2
+Ganda	2
+Giovi	2
+Giovo	2
+Hohe Wand	2
+Hohe Warte	2
+Il Castello	2
+Il Motto	2
+Kreuzkofel	2
+La Croce	2
+La Falconara	2
+La Roda	2
+La Serra	2
+Laghetto	2
+Lama	2
+Laura	2
+Lausa	2
+Levante	2
+Lobbia	2
+Luco	2
+Lungo	2
+M te Nero	2
+Maddalena	2
+Madone	2
+Maggio	2
+Malpasso	2
+Mandron	2
+Mannu	2
+Margherita	2
+Maria	2
+Mario	2
+Marrone	2
+Martello	2
+Mater	2
+Matto	2
+Mela	2
+Mesola	2
+Mezzana	2
+Mont'Arbu	2
+Mont'Arrubiu	2
+Montagnola	2
+Montebello	2
+Montenero	2
+Monticello	2
+Montone	2
+Morrone	2
+Mosca	2
+Motto Alto	2
+Motto Rotondo	2
+Nava	2
+Neve	2
+Orrubiu	2
+Orsa	2
+Orsaro	2
+Ortles	2
+Padru	2
+Pagliaro	2
+Palla	2
+Pallone	2
+Palone	2
+Palù	2
+Pantano	2
+Paradiso	2
+Payer	2
+Pellegrino	2
+Peloso	2
+Pennino	2
+Pera	2
+Perazzi	2
+Perdas de Fogu	2
+Perdedu	2
+Petrella	2
+Petroso	2
+Pian	2
+Piana	2
+Picco di Mezzodì	2
+Pietra Bianca	2
+Pietrafitta	2
+Pilastro	2
+Pilato	2
+Pin	2
+Pioda	2
+Piz Sella	2
+Pizzoc	2
+Pizzon	2
+Pizzu Geddai	2
+Pizzuto	2
+Poggio del Castelluccio	2
+Poggio del Diavolo	2
+Quadro	2
+Raione	2
+Redentore	2
+Riccio	2
+Rione	2
+Rocca Busambra	2
+Roma	2
+Rotwand	2
+Rozzo	2
+Ruju	2
+S Andrea	2
+Sacro	2
+Saldura	2
+San Bartolo	2
+San Croce	2
+San Lorenzo	2
+San Primo	2
+San Vito	2
+Sant'Anna	2
+Sant'Antonio	2
+Santa Barbara	2
+Santa Vittoria	2
+Santo Stefano	2
+Sasso	2
+Sasso Piatto	2
+Savina	2
+Schönberg	2
+Secco	2
+Serauta	2
+Serrone	2
+Sibilla	2
+Sole	2
+Spina	2
+Spino	2
+Stablel	2
+Strega	2
+Sughero	2
+Tabor	2
+Tamer	2
+Testa Grigia	2
+Tinzosu	2
+Ton	2
+Torricella	2
+Trappola	2
+Trento	2
+Trubinasca	2
+Tudaio	2
+Tuvera	2
+Unturzu	2
+Vallaccia	2
+Vallazza	2
+Vallon	2
+Vallone	2
+Valsorda	2
+Vas	2
+Venezia	2
+Vento	2
+Verde	2
+Wagner	2
+Zinsnock	2
+Abbalata
+Abe
+Accrone
+Accu Linnaru
+Acero
+Acetella
+Achsel
+Achternock
+Acquanera
+Acquaviva
+Adalicu
+Adamello
+Addenza
+Adula
+Agner
+Ago di Nardis
+Ago Mingo
+Agudo
+Aiera
+Aiguille Noire de Peuterey
+Aiguilles de Trélatête
+Aineri
+Aiona
+Aja delle Serre
+Al Mat
+Ala
+Alastria
+Alberelli
+Albergian
+Albiona
+Alburno
+Aldu
+Alfeo
+Alfieri
+Allegru
+Alma
+Almleitenkofel
+Alom
+Alpe di Catenaia
+Alpe Figarolo
+Alpe Meggiana
+Alpi
+Alpi Apuane
+Alpi Graie
+Alpi Orobie
+Alpi Pennine
+Alpicella del Cimone
+Alpisella
+Alta San Egidio
+Altar
+Altberg
+Altemberg
+Altes Weib
+Altesina
+Altino
+Altissimo di Nago
+Alto alla Croce
+Alto di Pelsa
+Alvaro
+Am Hohen
+Amandola
+Amariana
+Ambrusogn
+Ameno
+Amiata
+Ammoradu
+Amolo
+Amperspitze
+Ampola
+Anchetta
+Ander
+Angerli
+Anna Maria
+Annamunna
+Annaru
+Ansino
+Antelao
+Antenna
+Antennamare
+Antermoiakogel Croda dei Cirmei
+Anticima del Fregasoga
+Anticima NE Catinaccio
+Antico
+Antola
+Antoni Panni
+Antoniera
+Apennines
+Aperto
+Appennino Calabrese
+Appennino Campano
+Appennino Lucano
+Appennino Marchigiano
+Appennino Meridionale
+Appennino Napoletano
+Appennino Sannita
+Appennino Settentrionale
+Appennino Siculo
+Appennino Tosco-Emiliano
+Aquilaia
+Ara Salere
+Aratola
+Arbus
+Arcano
+Arcese
+Arco
+Arcóglio
+Arcu Tuliercu
+Arcuentu
+Ardizio
+Arena
+Arera
+Argentella
+Argentiera
+Arignu
+Arile
+Arioso
+Armario
+Armelio
+Armetta
+Armidda
+Armiddosu
+Arnata
+Arpagna
+Arqua
+Arqueri
+Arrestino
+Artanieddu
+Artent
+Arvenis
+Arventalspitze
+Arviganu
+Arzanadolu
+Aserei
+Asinara
+Aspra
+Asprino
+Aspromonte
+Asta Soprana
+Asta Sottana
+Astagno
+Astili
+Atene
+Aufhofner Kofl
+Augustella
+Aurunci
+Ausserbrunner
+Äusserer Grüne Platte
+Äusserer Nockenkopf
+Äusserer Sattelnock
+Äusserer Speikkofel
+Austidu
+Aut da Monzon
+Auto
+Autore
+Avanza
+Avena
+Aventino
+Averau
+Avez
+Avio
+Badde Urbara
+Baddedu
+Baddemanna
+Baffelan
+Baghella
+Bagioletto
+Bagni
+Bagno
+Bagnolo
+Baldo
+Baldo Nord
+Ball
+Balle
+Balze degli Spicchi
+Balzoni
+Banca
+Banchetta
+Barba d'Orso di fuori
+Barbacan
+Barbano
+Barbari
+Barbariga
+Barcaglione
+Bärenbadegg
+Bärenluegspitze
+Bärentalerspitze
+Barigazzo
+Barma
+Barmerspitze
+Barone
+Baroni
+Barra
+Barra della Siula
+Barro
+Bascazzu
+Bassa
+Basset
+Bassetta
+Bastion
+Bate
+Battel
+Bau Asinari
+Bau Camedda
+Bavarione
+Bazzano
+Bec Baral
+Bec delle Strie
+Bec di Nona
+Bec Renon
+Becca d'Aver
+Becca des Noires
+Becca di Guin
+Becca di Luseney
+Becca di Nona
+Becca di Torche
+Becca di Viou
+Becca di Vlou
+Becca du Lac
+Becca France
+Becca Vannetta
+Beccazzittu
+Becco Alto d'Ischiator
+Becco della Ceriola
+Becco di Beccara
+Becco di Filadonna
+Beccola
+Beccu
+Becher
+Bechit
+Beigua
+Bel
+Bel Motto
+Bel Pra
+Belardinu
+Belfiore
+Bellara
+Bellavista
+Bellino
+Belmonte
+Belpla
+Beltovo di Dentro
+Beltovo di Fuori
+Beralspitze
+Bergkastelspitze
+Bergl
+Berici
+Berlinghera
+Berro
+Bersano
+Bertona
+Besimauda
+Beta
+Bettaforca
+Bettelmatthorn
+Biaena
+Biaina
+BIancadino
+Bianco di Courmayeur
+Bicco
+Bidda
+Bidisone
+Bignone
+Bila Pec
+Bilanciere
+Bimbois
+Binazia
+Birbone
+Bisorte
+Blais di Prato
+Blauspitze
+Blauwand
+Bleis
+Blossberg
+Blumone
+Boai
+Boazzolo
+Boccareccio
+Bocche
+Bocchetta dei Camosci
+Bocchetta dell'Encarni
+Bochetta di Vale Bruna
+Bochtehorn
+Boia
+Boimannu
+Bojareddu
+Bolenga
+Boletto
+Bolettone
+Bombiano
+Bon
+Bondala
+Bondala della Mora
+Bondasca
+Bondolo
+Bondone
+Bonghi
+Boni
+Bonom
+Borel
+Borghetto
+Borgognone
+Boria
+Boris
+Bors
+Borta Melone
+Boscars
+Botasi
+Bottigli
+Bourel
+Bove Nord
+Bove Sud
+Bracco
+Bragagnina
+Braiola
+Brallisteris
+Bramstall
+Branca
+Brancastello
+Braulio
+Brealone
+Breccioso
+Bregagno
+Breiter Kopf
+Brenta
+Brenta Alta
+Brenta Bassa
+Brente
+Brento
+Brentoni
+Bresciadega
+Breuil
+Bric Castea
+Bric Castellaccio
+Bric Castiglione
+Bric Costa Rossa
+Bric Cupazzolo
+Bric Dato
+Bric de Rubren
+Bric dei Brasi
+Bric dell'Omo
+Bric della Croce
+Bric di Saliera
+Bric di Tejolo
+Bric Froid
+Bric Mondo
+Bric Praioli
+Bric Strambe
+Briccas
+Bricco Bubo
+Bricco del Canale
+Bricco di Ciotti
+Bricco Resciotto
+Bricco Spagnole
+Brignola
+Brioschi
+Brizzia
+Brocan
+Bronzo
+Bronzone
+Bruffione
+Bruggnspitze
+Brugnol
+Brugnolo
+Bruncu 'e
+Bruncu 'e Cuili Abbruxiau
+Bruncu 'e Lassina
+Bruncu 'e s'Arzalei
+Bruncu 'e s'Asta
+Bruncu 'e s'Era
+Bruncu 'e sa Cresiedda
+Bruncu 'e su Calavrigu
+Bruncu 'e su Predi
+Bruncu 'e Su Standartu
+Bruncu 'e Trudu
+Bruncu Addiscazzu
+Bruncu Anterazza
+Bruncu Antoni Spertzì
+Bruncu Aradorgiu
+Bruncu Arbutzu
+Bruncu Arrascialei
+Bruncu Baccu Eloi
+Bruncu Barrili
+Bruncu Bingia Arrubia
+Bruncu Braccaxius
+Bruncu Cadixione
+Bruncu Campulongu
+Bruncu Candelazzu
+Bruncu Cani Prandiu
+Bruncu Cannas
+Bruncu Capriolu
+Bruncu Casteddu
+Bruncu Cerasia
+Bruncu Cerina
+Bruncu Cintoni
+Bruncu Cinus
+Bruncu Cogonis
+Bruncu Corda
+Bruncu Corritundu
+Bruncu Corummedos
+Bruncu Crisaone
+Bruncu Cummide Melone
+Bruncu de Gossin
+Bruncu de Leutzu
+Bruncu de Nuxis
+Bruncu de su Banditu
+Bruncu de su Soli
+Bruncu de su Trigu
+Bruncu Deirassiali
+Bruncu Èvane
+Bruncu Fogaies
+Bruncu Furau
+Bruncu Grutta de is Baccas
+Bruncu Is Fruccas
+Bruncu is Pedduris
+Bruncu is Tuvareddas
+Bruncu Isfogaias
+Bruncu Lacce
+Bruncu Ladu
+Bruncu Lareri
+Bruncu Linna 'e Cresia
+Bruncu Luas
+Bruncu Ludu Orruibiu
+Bruncu Maometto
+Bruncu Masedu
+Bruncu Matzeu
+Bruncu Mezzodi
+Bruncu Murrone
+Bruncu Nieddu
+Bruncu Nurampei
+Bruncu Orgiolassinu
+Bruncu Orrubiu
+Bruncu Peldraba
+Bruncu Perdoseddu
+Bruncu Prunicristi
+Bruncu s'Ingirau
+Bruncu s'Iscova
+Bruncu sa Brecca
+Bruncu sa Menta
+Bruncu sa Mura Gessa
+Bruncu Saigiones
+Bruncu Sanili
+Bruncu Scala Manna
+Bruncu Scandelazzu
+Bruncu Scusogiu
+Bruncu Seilatzu
+Bruncu Seulesus
+Bruncu Sittilighe
+Bruncu Sitzo
+Bruncu Sòbiga
+Bruncu Soidustru
+Bruncu Sorriu
+Bruncu Spina
+Bruncu Spinavrasa
+Bruncu Strecorì
+Bruncu su Cuaddu
+Bruncu su Liugiu
+Bruncu su Murgueu
+Bruncu su Pinno
+Bruncu su Pirastu
+Bruncu su Scrianu
+Bruncu su Strerzu
+Bruncu Tiriarxiu
+Bruncu Titionargiu
+Bruncu Tittie
+Bruncu Tittione
+Bruncu Unturgiu
+Bruncu Zippiri
+Bruncu Zoli
+Brunette
+Brunnerleitenspitze
+Brusa
+Brusada
+Brutto Passo
+Bubenbühel
+Bucciana
+Buceto
+Buciaga Sud
+Buco
+Budello
+Bue
+Buefanaro
+Bufala
+Bulgheria
+Buon Curato
+Burgkofl
+Burgstall
+Bürgstallkopf
+Burlat
+Burotto
+Burrano
+Busa Alta
+Busa Brodeghera
+Busa del pecà
+Busasca
+Buso
+Bussaia
+Bustaccio
+Butzenspitze
+Cacamillo
+Cacchile
+Cacume
+Cadelle
+Cadìn
+Cadin di Toro
+Cadinel
+Cadinel Bass
+Cadini
+Cadini di San Lucano
+Cadinon
+Cadria
+Cafornia
+Cagapicchio
+Caio
+Caire Ciamberline
+Calamita
+Calbiga
+Calcarone
+Caldarosa
+Caldera
+Caldiera
+Caldrolon
+Caliello
+Calighè
+Calisio
+Calmoreggio
+Calmuz
+Calo
+Calvana
+Calvarina
+Calvarino
+Calvario
+Calvelluzzo
+Calvi
+Calvilli
+Calzolari
+Calzolera
+Camberlino
+Cambio
+Camerozzo
+Camicia
+Cammarata
+Camoscie
+Campacci
+Campagnaccia
+Campalto
+Campanella
+Campanile Alto
+Campanile Basso
+Campanile di Focobon
+Campanile di Val Grande
+Campanile di Val Montanaia
+Campanile di Vallesinella
+Campanile Stek
+Camparient
+Campedelle
+Camperi
+Campese
+Campetto
+Campi Elisi
+Campiano
+Campigolet
+Campill
+Campisol
+Campo
+Campo d'Avanti
+Campo Dei Fiori
+Campo dei Fiori di Varese
+Campo Lupino
+Campoduro
+Campogrosso
+Campolatte
+Campolon
+Camposauro
+Canalaccio
+Canali
+Canali Enna
+Canate
+Candlea
+Cane
+Canelle
+Caneto
+Canfedin
+Canino
+Cannafusto
+Cannisones
+Cannitello
+Canogia
+Cantari
+Cantiere
+Canto
+Cantone
+Canu
+Canzenagol
+Capanne
+Capelluzzo
+Capezzone
+Capio
+Capita
+Caplone
+Capo
+Capo d'Acero
+Capo di Serre
+Capo la Serra
+Cappelletta
+Cappellone
+Capraro
+Caprignano
+Capriole
+Carameto
+Caramola
+Caramolo
+Caravagli
+Carbonaro
+Carbone
+Carbonè
+Carbonil
+Carcina Manna
+Cardinal
+Cardine
+Carè Alto
+Caré Alto
+Carega
+Careser
+Careste
+Carevolo
+Cargadursi
+Cargiolo
+Cariadoxiu
+Carmine
+Carmo di Brocchi
+Carnale
+Carnevale
+Carnia
+Carone
+Caroso
+Carovello
+Carpano
+Carpasina
+Carpellone
+Carpinero
+Carpineta
+Carpinoso
+Carradore
+Carrel
+Carreri
+Carrito
+Carro
+Carru
+Carso
+Carzen
+Carzolano
+Cas
+Casalecchio
+Casalvecchio
+Casana
+Casarola
+Cascata
+Cascetto
+Cascinaccia
+Caselle Iannitti
+Casera Pidocchio
+Caserine Alte
+Caserine Basse
+Caset
+Casia Grande
+Casinei
+Cassa Del Ferro
+Cassandra
+Castagnareto
+Castel Camosci
+Castel Fraiano
+Castel Giudeo
+Castel Manardo
+Castel Pagan
+Castelberto
+Castellana
+Castellar dela Groa
+Castellaro
+Castellat
+Castellazzu
+Castelle
+Castelletto Inferiore
+Castelletto Superiore
+Castellier
+Castellin
+Castello dei Camosci
+Castello di Gaino
+Castello di Gavala
+Castello di Moschesin
+Castello di Vallesinella
+Castello Regina
+Castellonchio
+Castelnovo
+Castelnuovo
+Castiglion Maggio
+Castrale
+Catabio
+Catafolle
+Catena della Renga
+Catena di Lagorai
+Catirina
+Catria
+Caucaso
+Caulana
+Cauriol
+Cava
+Cavaglia
+Cavaion
+Cavaione
+Cavalbianco
+Cavalcorto
+Cavallina
+Cavallo di Fosse
+Cavalmurone
+Cavè
+Cavislone
+Cavo
+Cecco d'Antonio
+Ceda Occidentale
+Ceda Orientale
+Cedro
+Cefalo
+Cefalone
+Celànt
+Celenton
+Celio
+Cella
+Cembra
+Cengia
+Cengio
+Cengla
+Cengledino
+Cenon
+Censi
+Centaurino
+Centrale di Valrossa
+Centrone
+Ceppo
+Cerano
+Cerasa
+Cerasulo
+Cerbiolo
+Cercen
+Cerchiara
+Ceri
+Cerighetto
+Cernera
+Cero
+Cerreto
+Cerro
+Cerro del Ruccolo
+Certen
+Cervarola
+Cervati
+Cervialto
+Cervina
+Cesalarga
+Cesana
+Cesen
+Cesima
+Cesola
+Cesola Piana
+Cesta
+Cesto del Lupo
+Cetona
+Cetrognola
+Ceva
+Cevedale
+Cevedale II
+Château des Dames
+Chegul
+Chiadin
+Chiaine
+Chiamossero
+Chiancate
+Chianiello
+Chianti
+Chiappa
+Chiappo
+Chiarescons
+Chiavalli
+Chiavals
+Chiavaz
+Chiavino
+Chidoi
+Chiodo
+Chiunzi
+Chiusia
+Chiuso
+Cialancia
+Cialancias
+Ciamberline
+Ciamineias
+Ciamp
+Ciampons
+Ciapa Liscia
+Ciappi
+Ciarforon
+Ciarido P ta Nord-Est
+Ciarido P ta Sud-Ovest
+Ciaudierona
+Ciaupa
+Ciccia
+Cidneo
+Cielo
+Cifalco
+Ciglio di Cervinara
+Cigolade
+Cilara
+Cilento
+Cimadors Alto
+Cimadors Basso
+Cimara
+Cimaron del Giura
+Cimarone del Villaneto
+Cimaroni
+Cime Baremone
+Cime Bianche Laghi
+Cime Cadine
+Cime Campestrin Nord
+Cime Cocore
+Cime del Musi
+Cime dell'Auta
+Cime della Montagnetta
+Cime delle Merdarola
+Cime di Bosco Nero
+Cime di Campo
+Cime di Ceremana
+Cime di Chiareggio
+Cime di Città
+Cime di Grom
+Cime di Musella
+Cime di Plator
+Cime di Rognedo
+Cime di San Francesco
+Cime di Ventrar
+Cime Mezzodi
+Cime Monfret
+Cime Redasco
+Cime Rocchetta
+Cime Scotter
+Cimerlo
+Cimini
+Cimino
+Cimitelle
+Cimon dei Furlani
+Cimon Del Froppa
+Cimon del To della Trappola
+Cimon del Tres
+Cimon della Gere
+Cimon della Pala
+Cimon della Piella
+Cimon della Roa
+Cimon della Stia
+Cimon delle Rocchette
+Cimon di Cadinello
+Cimon di Cresole
+Cimon di Lasteolo
+Cimon di Palantina
+Cimon di Val Moena
+Cimon Rava
+Cimone di Pra Secco
+Cimonega
+Cimoni
+Cingolo Rosso
+Cinquegna
+Ciotto Mien
+Cipolla
+Cipollara
+Circello
+Circeo
+Circhio
+Cirio
+Cisa
+Cismon
+Ciste
+Cistella
+Citernella
+Citta
+Città di Fallera
+Ciucis
+Civitelle
+Cladis
+Clamer
+Clap Forat
+Clap Forât
+Clap Varmost
+Clevet
+Clivio
+Clogstafel
+Co dal Lé
+Coa 'e Serra
+Coa de s'Abile
+Coca
+Coccio
+Coccovello
+Coculo
+Cocusso
+Cocuzzo
+Cocuzzo dele Puglie
+Coel
+Cofano
+Cogolmai
+Cogolo
+Col
+Col Alto
+Col Baion
+Col Bechei Di Sopra
+Col Bel
+Col Botei
+Col Brombolo
+Col Burgiou
+Col Caneva
+Col Cervera
+Col Cervèra
+Col Cornier
+Col Cornon
+Col d'Astiago
+Col da le Baranchie
+Col de Ciaval
+Col de Frea
+Col de la Puina
+Col de Moi
+Col dei Mughi
+Col del Cuc
+Col del Puez
+Col del Vento
+Col della Boia
+Col della Saltregna
+Col delle Fezeres
+Col delle Pitte
+Col delle Vizze
+Col di Arnieri
+Col di Castion
+Col di Courtil
+Col di Lana
+Col di Pera
+Col di Quaira
+Col di Rioda
+Col di San Giovanni
+Col di Sopra
+Col di Sotto
+Col di Tenna
+Col di Varnada
+Col di Vezza
+Col dla Vedla
+Col Duro
+Col Falalto
+Col Gallina
+Col Gentile
+Col Grande
+Col Manzòn
+Col Maor
+Col Marende
+Col Mongarda
+Col Negro
+Col Nudo
+Col Ombert
+Col Pasanova
+Col Paurion
+Col Perre
+Col Plagna
+Col Quaterna
+Col Rodella
+Col Rosson
+Col San Angelo
+Col Santino
+Col Sarenede
+Col Sentinella
+Col Starezza
+Col Vallon
+Col Vida
+Col Vidàl
+Col Visentin
+Cola
+Colbricon
+Coldai
+Colesel Val dell'Acqua
+Coll Mai
+Coll'a To
+Colla
+Collaccio
+Collalto
+Colleluce
+Collere
+Collerotondo
+Colletta
+Colli Albani
+Colli Alti
+Colli Bassi
+Colli di Santa Passera
+Colli Neri
+Collina di Posillipo
+Colline Metallifere
+Collo
+Colma
+Colma del Balmello
+Colma della Quara
+Colma di Mombarone
+Colma Masset
+Colma Soglia
+Colmetto di Scotto
+Colmine di Crevola
+Colmo
+Colmo Valghilada
+Colmone
+Colodri
+Colombera
+Colonna
+Colonnello
+Colonnetta
+Colrosolo
+Colrotondo
+Coltellaccio
+Combolo
+Comer
+Comero
+Comparsa
+Conca
+Conca 'e Sorroali
+Conca 'e su Cauli
+Conca d'Oru
+Conca de Mesu
+Conca Mele
+Conca Moio
+Conca su Oe
+Conca su Porcu
+Conca Zerfalius
+Concosu
+Conero
+Confinale
+Conocchiola
+Consolino
+Contra 'a Limmas
+Contra La Liccia
+Contralta
+Contrario
+Cop di Breguzzo
+Copola
+Coppa Ferrata
+Coppolo
+Cor
+Corales
+Corbernas
+Corchia
+Corgnul
+Corma
+Cormelano
+Corna Blacca
+Corna Camozzera
+Corna Cavalli
+Corna Del Sonclino
+Corna Maria
+Corna Rossa
+Corna Trentapassi
+Corna Vecchia
+Cornates
+Cornato
+Corne di Radisca
+Cornera
+Corneta
+Cornetto di Mugon
+Corni Bruciati
+Corni di Cevole
+Corni di Nefelgiù
+Corni di Nibbio
+Cornicoletto
+Cornicolo
+Corno alle Scale
+Corno Baitone
+Corno Basso
+Corno Bianco
+Corno Brunni
+Corno Brusadella
+Corno Carro
+Corno Creil
+Corno d'Ega
+Corno dei Becchi
+Corno dei Giu
+Corno del Camoscio
+Corno del Colino
+Corno del Palone
+Corno del Sole
+Corno dell' Omacciolo
+Corno delle Pecore
+Corno di Ban
+Corno di Barbione
+Corno di Boèro
+Corno di Campo
+Corno di Capra
+Corno di Cavento
+Corno di Cramec
+Corno di Dosdè
+Corno di Faller
+Corno di Mezzo
+Corno di Pichea
+Corno di Pra Grande
+Corno di Profa
+Corno di Scarpignano
+Corno di Scuro
+Corno di Senaso
+Corno di Slúder
+Corno di Vigo
+Corno Dombastone
+Corno Grosso
+Corno Guzza
+Corno la Resa
+Corno Mara
+Corno Miller
+Corno Mud
+Corno Mutt
+Corno Piccolo
+Corno Plazza
+Corno Sinigaglia
+Corno Spezzato
+Corno Talli
+Corno Tremoncelli
+Cornon
+Cornone di Blumone
+Cornuto
+Cornuvolo
+Coromedus
+Corona Alta
+Corona di Groppo
+Corona Majore
+Corona Ruia
+Corona sa Guardia
+Corona Troggi
+Coroncina
+Corongiarbu
+Corongiu Ladu
+Corongiu Mela
+Corongiu Senes
+Corra
+Corrasi
+Cortafon
+Corte
+Corte Cerbos
+Corte Cerino
+Corte Lorenzo
+Cortebuono
+Cortefreddo
+Corteianas
+Corungiu
+Corvia
+Corzes
+Cosce
+Cosfrone
+Cossu
+Costa Capra
+Costa Ceraso
+Costa Crareu
+Costa del Cavallo
+Costa del Dente
+Costa del Dosso
+Costa delle Mine
+Costa delle Segate
+Costa Rondino
+Costa sa Mela
+Costa Scarone
+Costaccia
+Costara
+Costazza
+Coste Sant'Angelo
+Costerina
+Coston di Slavaci
+Costone del Bregagno
+Cote
+Cotento
+Cougn
+Cougourda
+Covecada
+Cozzo del Mangano
+Cozzo del Pellegrino
+Cozzo di Barbalonga
+Cozzo Spadaro
+Crampiolo sud
+Crapene
+Crast'Agüzza
+Crastu Carias
+Crastu Nieddu
+Crastu Ruju
+Crastu Zulurias
+Cravedu
+Cravile
+Creggio
+Cregnedul
+Creino
+Crene
+Creo
+Crep
+Crep di Casamatta
+Crep Nudo
+Crepa Alta
+Crepa Bassa
+Crepe de Val da Rin
+Crepe di Larsec
+Crepedel
+Creper di Stracciola
+Crescia
+Cresole
+Cresta
+Cresta Albertini
+Cresta Azzurra
+Cresta Bel Pra
+Cresta Bianca
+Cresta Cecilia
+Cresta Cimeta
+Cresta dei Draghi
+Cresta del Calcagnolo
+Cresta del Piano
+Cresta del Toro
+Cresta delle Masenade
+Cresta di Castiglione
+Cresta di Enghe
+Cresta di Madéi
+Cresta di Moriming
+Cresta Gratella
+Cresta Ravetta
+Cresto
+Crestoso
+Cret di Pil
+Creta Forata
+Creta Grauzaria
+Crete dal Crons
+Crete di Palasecca
+Cridola
+Crispiniano
+Cristalliera
+Cristallino
+Cristu
+Crivo
+Croccia
+Croce Colt
+Croce del Cavallo
+Croce della Torriggia
+Croce di Fana
+Croce Di Muggio
+Croce di Nozarego
+Croce di Pratomagno
+Croce di Rotondo
+Croce di Serra
+Croce Garei
+Crocefisso
+Crocette
+Croci
+Crociglia
+Crocione
+Croda
+Croda Alta di Sompràde
+Croda Banco
+Croda Bassa
+Croda Bianca
+Croda Corvara
+Croda Cuz
+Croda da Campo
+Croda Da Rin
+Croda dei Baranci
+Croda Dei Toni
+Croda del Forno
+Croda del Forno disotto
+Croda della Pala
+Croda della Ruoiba
+Croda della Spia
+Croda di Cengles
+Croda di Paterna
+Croda di Re Laurino
+Croda Grigia
+Croda Jenne
+Croda Marcia
+Croda Mescolo
+Croda Rondoi
+Croda Vallone Bianco
+Crodarotta
+Crode Larice
+Crode Longerin
+Crogna
+Crognolo
+Croix Rousse
+Crona Vecchia
+Crosara del Fibbion
+Croseraz
+Crostis
+Crot nord
+Crot sud
+Crotta
+Croz de le Scalete
+Croz del Re
+Croz del Rifugio
+Croz delle Pozze
+Croz delle Selvate
+Croz di Primalunetta
+Croz di Selvata
+Crozzon dei Mandrini
+Crozzon della Spora
+Crozzon di Folgorida
+Crozzon di Lares
+Cuc
+Cucal
+Cucca
+Cuccaro
+Cuccetta
+Cucchetto
+Cuccio
+Cuccumaxiu Acuzzu
+Cuccuna
+Cuccur 'e Mufloni
+Cuccureddu
+Cuccureddus
+Cùccuru Àrtulu
+Cuccuru D'Elias
+Cuccuru de Acutzadorzu
+Cuccuru de Crabosu
+Cùccuru Donna Maria
+Cuccuru Dottori
+Cuccuru Ella
+Cuccuru Feuredda
+Cùccuru Longu
+Cuccuru Malucca
+Cuccuru Mandareddu
+Cuccuru Mannu
+Cùccuru Maore
+Cùccuru Marusu
+Cuccuru Matta Masonis
+Cuccuru Pirastu
+Cùccuru Regiabis
+Cuccuru S Gabriele
+Cuccuru Tundu
+Cuccuru Zinnibiri
+Cuccurubia Noa
+Cucullai
+Cucuzzone
+Cùddia Attàlora
+Cuesta Spioleit
+Cuga
+Cugnacorta
+Cugnana
+Cugno della Pica
+Cugno Notaro
+Cugurutu
+Cullar
+Culumeo
+Cumolo
+Cuna alta
+Cuntrasta
+Cunturines
+Cupetti
+Cupoli
+Cupolicchio
+Curenzi
+Curie
+Curòn
+Curzalma
+Cuscullai
+Cuscusone
+Cusiglio
+Cusna
+Cust
+Cute
+Cuvaccadda
+Cuvil
+Cuzzer
+Cuzzo
+D Vista
+D'Accia
+Daino
+Dante
+Dantersass
+Danzebell
+Dasdana
+Dauda
+Davanti
+Defenza
+Defereggengebirge
+Dego
+Della Croce
+Delle Tane
+Demanio
+Demurtas
+Denervo
+Dengelstein
+Dent d'Herens
+Dent de Mezdi
+Dent du Géant
+Dente della Cipolla
+Denti di Cavallo
+Denti di Gavala
+Dents des Bouquetins Sud
+Dernal
+Desen
+Deu
+Diamante
+Diavolo di Tenda
+Dieci
+Difensa
+Dil
+Dimon
+Dinavolo
+Dion
+Disgrazia
+Dociurill
+Dof
+Dogana
+Doglia
+Dolada
+Dolomiti
+Domini
+Dominigu
+Domino
+Don Marco
+Donnerschlag
+Dordera
+Dos d'Arnal
+Dos de Cala
+Dos de la Bagola
+Dos de la Cros
+Dos de la Mot
+Dos de le Morf
+Dos de Santa Cros
+Dos dei Cirmi
+Dos dei Maregi
+Dos del Lach
+Dos del Longo
+Dos del Massalon
+Dos del Sas
+Dos del Tès
+Dos delle Saette
+Dos Galina
+Dos Moroi
+Dos Negro
+Dos Ronco
+Dosaip
+Doscopa
+Doss Alto
+Dòss Barindelli
+Doss Capello
+Doss Castion
+Doss Corno
+Doss de Trat
+Doss dei Cirmi
+Doss dei Corvi
+Doss dei Pini
+Doss del Bue
+Doss del Ghirlo
+Doss del Praton
+Doss del Sabion
+Doss della Rocchetta
+Doss di Dalun
+Doss di Mezzodì
+Doss di Paion
+Doss Negro
+Doss San Rocco
+Doss Trent
+Dossa
+Dossi de Rava
+Dosso Arlate
+Dosso Branchi
+Dosso Camoscio
+Dosso Campesello
+Dosso Cornin
+Dosso d'Abramo
+Dosso dei Brusadi
+Dosso del Cuvolin
+Dosso del Robiom
+Dosso del Sommo
+Dosso del Zatter
+Dosso dell' Oca
+Dosso dell'Asino
+Dosso della Clinga
+Dosso della Fame
+Dosso della Foppa
+Dosso della Piera
+Dosso della Rocca
+Dosso della Torta
+Dosso di Cengles
+Dosso di Costalta
+Dosso di Miola
+Dosso di Penedallo
+Dosso di Puel
+Dosso di S Agata
+Dosso di San Mauro
+Dosso di Sant'Anna
+Dosso di Seaoi
+Dosso di Segonzano
+Dosso di Tabaretta
+Dosso Grigio
+Dosso Liscio
+Dosso Oveche
+Dosso Pagano
+Dosso Pasò
+Dosso Pode
+Dosso Resaccio
+Dosso Rotondo
+Dosso S Giacomo
+Dosso Sabbione
+Dosso Santa Cristina
+Dosso Torriola
+Dosso Zucchero
+Dossobello di dentro
+Dossobello di fuori
+Dosson
+Dragonet
+Dreieckelenock
+Dreieckerspitze
+Dreieckspitze
+Dreifingerspitze
+Dreisprachenspitze
+Dubasso
+Due Fratelli
+Due Mani
+Due Pizzi
+Due Torri
+Dumella
+Dura
+Duranno
+Durmont
+Duron
+Durrer-Spitze
+Duso
+e Cuccu
+e Geranule
+e Giuannantoni
+e s'Ebba
+e su Caddu
+Ebro
+Eidechsspitze
+Eisengabel
+Elci
+Elfernock
+Elferscharte
+Elgio
+Elias
+Elmo
+Elveddu
+Emilius
+Ena
+Enfola
+Entosu
+Erbano
+Ercole
+Erdorru
+Eremita
+Eri
+Ermada
+Esoli
+Estidu
+Etra
+Euringer Euringer
+Eva
+Eyehorn
+Facciano
+Fadenkopf
+Faderhorn
+Fadner
+Faè
+Faèit
+Faeti
+Faeto
+Faggiola
+Faggitella
+Faghitello
+Fagiolano
+Faiatella
+Faierone
+Falasca
+Falerio
+Falkner
+Fallascoso
+Falterona
+Fammera
+Fanis di Mezzo
+Fanis Nord
+Fanis Sud
+Fano
+Fara
+Farnesiana
+Farno
+Faroma
+Farrizza
+Fasce
+Faserno
+Faudo
+Fauri Sud
+Faurras
+Favella
+Faverghera
+Felcito
+Feldscharte
+Felik
+Feltraio
+Fema
+Femmina Morta
+Fenarbu
+Fenestrelle
+Fenore
+Ferlette
+Ferramaggiu
+Ferrara
+Ferrario
+Ferrazzano
+Ferrè
+Ferrizza
+Fertazza
+Ferulargiu
+Festa
+Festo
+Festons
+Feuraxi
+Fiammes
+Fibbion
+Fico
+Fiegni
+Fieno
+Fierollo
+Figa Rànzica
+Figogna
+Figulada
+Fil da Salarsa
+Filau
+Filiacoro
+Filmoorhöhe
+Filo dell'Arpa
+Filone del Mot
+Finale
+Fine
+Finocchio
+Finocciu
+Fiocca
+Fionchi
+Fiorelli
+Fiori
+Fischietto
+Fizzo
+Flagel
+Flatschkofel
+Flavona
+Flemm
+Flim
+Florisa
+Fo
+Foce
+Focobon
+Focolle
+Fogu
+Fojorina
+Folletto
+Follettoso
+Follia
+Fontana
+Fontana Bianca
+Fontanalba
+Fontanalunga
+Fontanella
+Fontanelli
+Fontanini
+Fontecellese
+Fop
+Fopél
+Foppa
+Foppabona
+Forame Zurlong
+Forca
+Forcella
+Forcella Sarentina
+Forcelle Guazza
+Forcellina
+Forcello
+Forcellona
+Forchia
+Forchidda
+Forcino
+Forcola
+Forcolaccia
+Forcoletta
+Forcolotta
+Forcone
+Forcula
+Formalicchi
+Formalone
+Formentone
+Formiche di Grosseto
+Formico
+Formin
+Formion
+Formiosu
+Fornaletti
+Fornalino
+Forni Alti
+Forzano
+Forzellina
+Foscagno
+Fossa del Santo
+Fossa Felci
+Fosse di sopra
+Fracinglo
+Frade Mannu
+Frade Minore
+Frades
+Fradusta
+Framont
+Francesco Stero
+Franciscu Loriga
+Franco
+Franza
+Frasassi
+Frascola
+Frassinetto
+Frate
+Fratone
+Fratto
+Fraulocci
+Fravort
+Freddi
+Freddolin
+Fregasoga
+Freghera
+Frerone
+Friello
+Frioland
+Friscec
+Frisozzo
+Frisson
+Fromma
+Frontè
+Fronza
+Frugna
+Frumento delle Concazze
+Frumento Supino
+Fugo
+Fumo
+Fungaia
+Funtana Cungiada
+Funtana e Figu
+Furcheta
+Furgggrat
+Furros
+Gabbia
+Gabbiolo
+Gabelspitze
+Gabiet
+Gabrendo
+Gac
+Gaddine
+Gais
+Gaishörndl
+Galdeddu
+Galia
+Galloro
+Gamba de Moro
+Gamsburg
+Gamslahnernock
+Gamsspitzl
+Gamstod
+Garbella
+Garda
+Gargaruso
+Garin
+Garofalo
+Garofano
+Garone
+Garzolet
+Gastaldi
+Gastea
+Gatternock
+Gavardina
+Gaviola
+Gazza
+Geige
+Gelas di Lourousa
+Gelato
+Gelenknock
+Gellino
+Gelo
+Gelttalspitze
+Genis
+Genna 'e Ruxi
+Genna Arredelu
+Genna Aussa
+Genna Cussa
+Genna Lioni
+Genna Maiori
+Genna Oliana
+Gennaro
+Genova
+Genuardo
+Genzana
+Genziana
+Getzenberg
+Gfallenspitze
+Gfallwand Croda del Tovale
+Ghello
+Ghenna 'e Creccu
+Ghenna Braida
+Gherra
+Ghez
+Ghiacciato
+Ghiliè
+Ghisciera Mala
+Giaf
+Giano
+Giapin
+Giarolo
+Gibele
+Gibilmesi
+Giesgia
+Giezza
+Gifarco
+Giner
+Gino
+Gioco
+Giogo
+Giogo Alto
+Giogo Basso
+Giogo del Covolo
+Giogo Secchetta
+Giorba
+Giordani
+Giosolette
+Giovarello
+Giovello
+Gioveretto
+Giovine
+Girella
+Giu de sa Domu
+Giucantinu
+Giuep
+Giumella
+Giunchi
+Giunnalias
+Giusto
+Glere
+Gli Orli
+Glievizza
+Glockenkarkopf
+Glockhauser
+Glorenza
+Gobba di Rollin
+Goleitkopf
+Gombaro
+Gonio
+Gorelle
+Gorgia Cagna
+Gorgona
+Gorzano
+Grabara
+Grabspitze
+Gramigna
+Gramolon
+Grampielhorn
+Gran
+Gran Cront
+Gran Odla
+Gran Pala
+Gran Sasso d'Italia
+Gran Serra
+Gran Vernel
+Grand Assaly
+Grand Blanchen
+Grand Tournalin
+Granda
+Grande Aiguille Rousse
+Grande Arête
+Grande Fermeda
+Grande Tête de By
+Granero
+Granzoline
+Grappa
+Grasleitenkopf
+Grassino
+Grasso del Gallo
+Grattacul
+Grattaculo
+Graunock
+Grawand
+Greco
+Gregorio
+Griesscharte
+Grifone
+Grignetta
+Grignone
+Grinth
+Grisa
+Grivoletta
+Grober
+Grolla
+Gronlait
+Groppa d'Anzi
+Groppera
+Groppetti del Lupo
+Groppi Lavezzera
+Groppo
+Groppo del Vescovo
+Groppo Rosso
+Gross Schinhorn
+Gross Tartscherkopf
+Große Ohrenspitze
+Grosse Windschar
+Grosser Fensterlekofel
+Grosser Gabler
+Grosser Nock
+Grosser Rauchkofel
+Grosser Reinhard
+Grosser Rotstein
+Grosses Fillarhorn
+Grosses Mandl
+Grossfadnler
+Groste
+Grugno di Porco
+Grumu Orgiastu
+Gruppo
+Gruppo del Cristallo
+Gruppo dell'Adamello
+Gruppo delle Grigne
+Gruppo di Brenta
+Gruppo di Sella
+Gschirn
+Guaidone
+Guardadocio
+Guardia Alta
+Guardia Antiogu Desogus
+Guardia Barracca
+Guardia Braccaxius
+Guardia Bue
+Guardia Conca Egattu
+Guardia de Campus
+Guardia de su Turcu
+Guardia del Turco
+Guardia Frori Morisco
+Guardia Manna
+Guardia Nadali
+Guardia Preposti
+Guardia Rosmarino
+Guardia sa Mura
+Guardia Vecchia
+Guardiello
+Guardiola
+Guardiolo
+Guareo
+Guggenberg
+Guglie d'Altare
+Guglie di Cornera
+Guglielma
+Guglielmo
+Gurca
+Gurlo
+Gusela del Vescovà
+Gusella
+Gutturgios
+Hantigenklammspitz
+Hasenohrl
+Haupentalerhöhe
+Heiligkreuzkofel
+Helgenhorn
+Helm
+Henne
+Hennesiegelspitzen
+Herbetet
+Hinterbergkofel
+Hirbernock
+Hireli
+Hirzer
+Hoamonder
+Hochalpenkopf
+Hochfeiler
+Hochfeld
+Hochferner
+Hochgewänd
+Hochgrubbach
+Hochhorn
+Hochspitz
+Hohe Angelus Spitze
+Hohe Weiße Bianca Grande
+Hoher Lorenzenberg
+Hoher Mann
+Hohsandhorn
+Hollenzkofel
+Hollenzkopf
+Hörndle
+Hörtlanerspitze
+Hühner-Spiel
+I Campanili di Cherle
+I Dossi
+I Dossoni
+I Fornelli
+I Hornspitze
+I Pisoui
+I Ronci
+I Rossati
+Iacotenente
+Iameddari
+Iano
+Iato
+Iauer
+Iazzo
+Iba Cronta
+Iblei
+Idolo
+Ienca
+II Hornspitze
+Il Badile
+Il Bastione
+Il Becco
+Il Capro
+Il Cavallo
+Il Ciglio
+Il Cimaio
+Il Colazzo
+Il Cornetto
+Il Corno
+Il Cupolino
+Il Dosso
+Il Figliuolo
+Il Gran Zebrù
+Il Montello
+Il Montino
+Il Mottolino
+Il Palone
+Il Piz
+il Poggio
+Il Pratone
+Il Pulpito
+Il Pulpito di Flim
+Il Rocadin
+Il Telegrafo
+Il Torrione
+Il Vetrice
+Illirio
+Ilmspitz degli Olmi
+Immink
+Indren
+Inero
+Innerer Sattelnock
+Innerer Speikkofel
+Innerrodelkunke
+Ioànaz
+Iof
+Iôf di Montasio
+Iovet
+Irone
+Ironi
+Irsi
+Is Tuvos
+Isara
+Ischia
+Ischietto
+Ischizzarolu
+Iscoba
+Iscrivani
+Isidoro
+Istidu
+Istolargiu
+Iudica
+Iulio
+Iuribrutto
+Jafaut
+Jägerhorn
+Jakobskopf
+Jakobsspitze
+Jazzi
+Jechl
+Jôf di Miezegnot
+Jouf
+Kahlgeifel
+Kalberhorn
+Kalmegg
+Kanin
+Karbacherberg
+Karnspitz
+Karspitze
+Kaserkopf
+Kaserspitze
+Kasseler Nock
+Kastelhorn
+Katzenkofel
+Kellerkopf
+Kempspitz
+Kesselkogel Catinaccio d'Antermoia
+Kienberg
+Kl Nock
+Klausnock
+Klein Tartscherkopf
+Kleine Fermeda
+Kleine Grubbachspitze
+Kleine Ohrenspitze
+Kleine Windschar
+Kleiner Fensterlekofel
+Kleiner Magstein
+Kleiner Möseler
+Kleiner Nock
+Kleiner Rauchkofel
+Kleiner Rotstein
+Kleiner Terner Nock
+Kleines Fillarhorn
+Kleines Grieshorn
+Kleines Jöchl
+Kleines Mandl
+Kleines Schinhorn
+Kleinfadnler
+Klopaier Spitze
+Knapphenne
+Knebelstein
+Knospe
+Knuttennock
+Kočerič
+Kompfoss Spitze
+Königswand
+Kopfkraxe
+Korb
+Kraxentrager
+Krinnerkopf
+Kuhberg
+Kühbergl
+Kühwiesenkopf
+L'Agugliassa
+L'Altissima
+L'Amoroso
+L'Androna
+L'Angelo Piccolo
+L'Omasca
+L'Omenet
+La Bandiera
+La Bannera
+La Becchetta
+La Brada
+La Calotta
+La Cerchiara
+La Cesta
+La Chiaia
+La Clava
+La Colla
+La Colma
+La Colmetta
+La Colmine Piana
+La Crepa Neigra
+La Cresta
+La Crocetta
+La Croda Grande
+La Crona
+La Cugola
+La Cupola
+La Fontanella
+La Forcella
+La Galera
+la Gengla
+La Gorsa
+La Grande Aiguillette
+La Grivola
+La Lasta
+La Lechere
+La Madrutta
+La Maielletta
+La Marzola
+La Monna
+La Montagna
+La Montea
+La Mula
+La Muletta
+La Mutta
+La Pala
+La Palazza Alto
+La Palla
+La Pare
+La Pesse
+La Petta
+La Piatta
+La Piota
+La Pizzetta
+La Porcella
+La Pozza
+La Raia del Pedale
+La Rochetta
+La Romana
+La Rosta
+La Sentinella
+La Sila
+La Singla
+La Spedla
+La Teisa
+la Uzza
+La Varella
+La Vecchia
+La Vierge
+La Zagagnola
+Lac
+Laccu sa Vitella
+Lacerone
+Lachesos
+Lägh
+Laghetta
+Laghiacciola
+Lagoni
+Lahnerschneide
+Laione
+Lame
+Lana
+Lanaro
+Lancebranlette
+Lancia
+Landro
+Lanzwiesenkopf
+Lapanu
+Lapera
+Largo
+Larone
+Laroussa
+Laste di Verdins
+Lastei d'Agner
+Lastei Grande
+Lastei Piccolo
+Lastroni
+Latemar
+Latous
+Lattai
+Lattenhorn
+Laugera
+Lauro
+Lausetto
+Lavachel
+Lavanech
+Làvara
+Lavazze
+Lavino
+Le Calanche
+Le Ciazze
+Le Crone
+Le Filicaie
+Le Forfes
+Le Masse di Siena
+Le Pain de Sucre
+Le Pezze
+Le Piagge
+le Piaggete
+Le Piazze
+Le Rese di Scorluzzo
+Le Rocchette
+Le Tofane
+Le Tose del Stioi
+Le Tose II
+Le Tose III
+Leano
+Lebendun
+Lecinone
+Leco
+Ledis
+Ledù
+Lefre
+Legnà
+Legnoncino
+Legnone
+Lejen
+Lemma
+Lemperperg
+Lenno
+Leoni
+Lepini
+Leposu
+Lepre
+Lepri
+Lerno
+Les Grandes Jorasses
+Les Jumeaux
+Les Petites Jorasses
+Lesima
+Lesimina
+Lesino
+Lestesti
+Letegge
+Lettica
+Leucio
+Levico
+Levis
+li Cavallaie
+Licciardi
+Licinici
+Licino
+Lidesh
+Ligoncio
+Limbara
+Limbo
+Linas
+Lingora
+Lionitzos
+Lioy
+Lira
+Listino
+Littigheddu
+Livournea
+Lo Stocher
+Lobbia alta
+Loccarì
+Loccia del Robbi
+Loccia di Peve
+Locciastesa
+Loccie del Forgnone
+Lolloine
+Lombrica
+Lonas
+Longano
+Longhede
+Longino
+Lonzina
+Lora
+Loranzola
+Lorio
+Losa
+Losanna
+Losetta
+Lothener Köpfl
+Lotzi
+Loverdina
+Loydon
+Lozzo
+Luab
+Luas
+Lucchetti
+Luco di mezzo
+Luco Grande
+Lugherres
+Lugo
+Luigi Amadeo
+Lumirano
+Luro
+Lusei
+Luta
+Lutterkopf
+Lyfihorn
+M Losco
+M Moraglio
+M Porcile
+Macchia Carrara
+Macchia del Cacio
+Macchia Gelata
+Macchialaveta
+Macchie
+Macchione
+Macciacciu
+Maccioni
+Macio del Podano
+Madre di Dio
+Madritschen
+Madritschspitze
+Maestra
+Maestra Fornelli
+Maestra Serre
+Maestrino
+Magazon
+Maggiasone
+Maggiorasca
+Magnaghi
+Magnola
+Magro
+Magsteinwipfel
+Maierriedl
+Maimoi
+Maiore
+Maiori
+Maj
+Majella
+Majore
+Mala
+Maladrummì
+Malaina
+Malanotte
+Malbe
+Maledia
+Malenco
+Malerba
+Mallevona
+Malomo
+Malta
+Malvano
+Malvedello
+Malvueric
+Mamaor
+Mamas
+Mammine
+Mancucco
+Mandela
+Mandelspitz Ometto
+Màndola di Ptèif
+Mandra Noisca
+Mandra Puzzone
+Mandriccione
+Manfriana
+Manghen
+Mangiapane
+Manias
+Manicola
+Maniga
+Manna
+Manno
+Manos
+Manzo
+Manzol
+Marafilada
+Marano
+Marc
+Marca
+Marchetta
+Marciano
+Marcio
+Marcone
+Marcusa
+Marcutza
+Marcutzeddu
+Mare
+Margarello
+Margini Cani
+Marguareis
+Marigosu
+Marina
+Marine
+Marino
+Maritime Alps
+Marmagna
+Marmarole
+Marmolada
+Marmontana
+Marmora
+Marmotta
+Maro
+Marogna
+Marona
+Maronia
+Marraggi Mannu
+Marta
+Martano
+Marugeni
+Maruggio
+Marzano
+Marzell di Mezzo
+Marzell Ovest
+Marzio
+Marzo
+Marzola Sud
+Masana
+Masare
+Mascioni
+Masiennera
+Massaro
+Massico
+Massimo
+Massoncello
+Massone
+Mastaccio
+Mastaun
+Mastrangelo
+Masuccio
+Matanna
+Mataun
+Matiano Freguleda
+Matigge
+Mattanieddu
+Mattaroni
+Matteatu
+Mattignale
+Mattone
+Maurerkopf
+Maurignino
+Mauro
+Mavrus
+Mazza dell' Inferno
+Mazzarone
+Meana
+Medaccio
+Meddaris
+Meduce
+Meidassa
+Melas
+Melignone
+Mellasc
+Melonta
+Menicigolo
+Mentino
+Merbspitze
+Mercantelli
+Mercori
+Mereu
+Meri
+Meris
+Merro
+Mescolino
+Meseddu de Texili
+Mesole
+Messer
+Mesu
+Mesu 'e Serra
+Mesu e Roccas
+Mésule
+Metano
+Mezzena
+Mezzola
+Mia
+Miale Ispina
+Michele
+Michelis
+Micheluccio
+Miglio
+Migliori
+Mignano
+Milchegger
+Miletto
+Miliosa
+Minisfreddo
+Minniminni
+Minoia
+Minore
+Minudo
+Miola
+Mislkopf
+Misone
+Mitola
+Mittelberg
+Mittl Pederspitz
+Mittlebärg
+Mittlere Ohrenspitze
+Mladesena
+Modeon del Buinz
+Modighina
+Modino
+Moggio
+Moia
+Moiazza
+Moiazza Sud
+Moiazzetta
+Moio
+Moitzus
+Molina
+Molinatico
+Molveno
+Monaco di Gioia
+Monarco
+Monastero
+Moncader
+Moncucco
+Monderoi
+Mondeval
+Mondini
+Mondolè
+Mondragon
+Mònega
+Moneta
+Monfalcon
+Mongioie
+Monna
+Monna di Rosa
+Monoccola
+Mont Avic
+Mont Avril
+Mont Blan
+Mont Brignon
+Mont Charve
+Mont Crou de Blainze
+Mont d'Ars
+Mont de la Tza
+Mont de Posseueil
+Mont Fallère
+Mont Flassin
+Mont Fourchon
+Mont Fraitève
+Mont Gelé
+Mont Greume
+Mont Lega
+Mont Levanna
+Mont Pere Laurent
+Mont Pietravecchia
+Mont Rognosa
+Mont Torrage
+Montaccio
+Montaccio di Pennes
+Montagna dei Cavalli
+Montagna del Caperino
+Montagna della Maiella
+Montagna di Marzo
+Montagna Ronda
+Montagna Rossa
+Montagne del Marrone
+Montagnone
+Montaldo
+Montanello
+Montarlone
+Montarveddu
+Monteano
+Montecassino
+Montefiolo
+Monteforte
+Montemaggiore
+Monteròdes
+Monterone
+Montescudo
+Montesel
+Montetto
+Monteur
+Monticchio
+Monticello di Mezzo
+Montigiu Abes
+Montigiu de Chessa
+Montigiu Florensu
+Montigu Onu
+Montilongu
+Montino
+Montirozzo
+Montixeddu
+Montoni di Agùmes
+Moore
+Moosener Berg
+Mopnt de Beuby
+Morasco
+Morcia
+Moregallo
+Moregna
+Morgenkofel
+Morgia Palombara
+Moriana
+Morionera
+Morissolo
+Moro di Frabosa
+Moro Pass
+Morra
+Morro
+Moschesin
+Moschiaturo
+Moscio
+Möselekopf
+Möselenock
+Mot del Ciò
+Môt Grande
+Mote s'Otzu
+Motette
+Motin
+Motta
+Motta di Campo
+Motta Grande
+Motta Secca
+Mottàc
+Mottarone
+Motti del Laghetto
+Motto del Belvedere
+Motto della Scala
+Motto di Bondeno
+Motto di Levén
+Motto di Paraone
+Mottone
+Mottone della Tappa
+Mottone di Giumello
+Muanda
+Mucrone
+Mudaccio
+Mudregu
+Muffetto
+Mughera
+Mugoni
+Mularo Alto
+Mulat
+Mulaz
+Mulle
+Mundugia
+Murano
+Muretto
+Murge di Castelmezzano
+Murge Salentine
+Murge Tarantine
+Murgia Ceraso
+Murmenta
+Muro
+Murone
+Muroni
+Murro Marro
+Murta 'e Pettene
+Murtarous
+Musi
+Musinè
+Muslahnerkopf
+Mutennock
+Mutri
+Muttenock
+Muttnelle
+Muvrone
+Na Precnichi
+Nae
+Nai
+Naiarda
+Nambino
+Nambrone
+Namlen
+Nana
+Naole
+Napfspitz
+Napfspitze
+Nardis
+Narumal
+Nasse Wand
+Nasta
+Navone
+Nebbia
+Nebbiali
+Nebbiano
+Nebbiello
+Neblnock
+Nebria
+Nebrodi
+Nemesis
+Nerone
+Nesci
+Nesili
+Neue Weisstorspitze
+Neunerkofel
+Nevoso
+Niavo
+Nibbio
+Nicola
+Niederer Weisszint
+Ninna
+Nipoti
+Nischivarch
+Norbello
+Nord Argentera
+Nord San Sebastiano
+Nordend
+Nove
+Novegno
+Novesso
+Nudo
+Nuovo
+Nuraghe
+Nuraxis
+Nurietta
+Nurra
+Nuschele
+Nuvolau
+Nuvolo
+Oberkofel
+Obermosskopf
+Obersteiner Holm
+Obré
+Obwasserer
+Ochiazzanu
+Ochsenfelder
+Ochsenlenke
+Ochsenstand
+Oddeu
+Ode
+Oe
+Offermo
+Ogna
+Olbe
+Olda
+Olinie
+Olivazzo
+Olivo
+Ollastra
+Oloccia
+Oltreviso
+Ombretta
+Ombrettola
+Omene
+Ometto
+Onnichedda
+Onsberg
+Oramara
+Orbetta
+Orbidu
+Orbieso
+Orditano
+Oreddu
+Orello
+Orfano
+Orgel Spitze
+Orguda
+Ori
+Oriolo
+Orlando
+Orneti
+Ornito
+Oro
+Oro dell'Asino
+Orra
+Orsara
+Orsello
+Orsera
+Orsetti
+Ortigara
+Ortighera
+Ortigiu
+Ortlkopf
+Ortobene
+Ortone
+Orulò
+Orzili
+Osbarino
+Oschiri
+Oscivart
+Oseli
+Osero
+Ospedale
+Ossoni
+Östliche Floitenspitze
+Östliche Hochwarth
+Östliches Zwillingsköpfl
+Oten
+Ottiosa
+Oultóir
+Ovago
+Ovest Di Plator
+Ozol
+Ozzastru
+P zi Deneri
+Pacciano
+Pacifico
+Padaiola
+Padaiola Bassa
+Padiglione
+Padon
+Padrio
+Paentinos
+Paganica
+Paganini
+Pagarì
+Pagarì Est
+Pagliarone
+Pagliartana
+Paglione
+Paimaroni
+Pain de Sucre
+Pala 'e Nuraxi
+Pala d'Altei
+Pala de la Madòna
+Pala del Rifugio
+Pala della Chiaccia
+Pala della Donzella
+Pala di Cherle
+Pala di Vernel
+Pala e Pedru
+Pala Fontana
+Pala Frearzu
+Pala Grande
+Pala Meduce
+Pala Pardu
+Palabione
+Palagalchera
+Palai
+Palantarins
+Palanuda
+Palanzone
+Palatino
+Palazzo Borghese
+Palazzolo
+Pale delle Buse
+Pale di Menotto
+Pale Rabbiose
+Palinegra
+Palinferno
+Palino
+Palla 'e is Ebbas
+Pallano
+Pallanzana
+Palloroso
+Palmas
+Palmavera
+Palmeto
+Palon de la Mare
+Palone di Sopressa
+Palosso
+Palvario
+Panaro
+Panarotta
+Panco
+Pania della Croce
+Panno Bianco
+Pano
+Panormo
+Pantacreus
+Paolino
+Paparella
+Paramont
+Parata
+Parco
+Parentile
+Pareti di Longir
+Pari
+Paris Giega
+Parmesan
+Parmolaio
+Parolet
+Pasolin
+Pasquale
+Passennock
+Passero
+Passet
+Passione
+Passo dei Salati
+Passo del Lupo
+Pastenese
+Pastenza
+Patada
+Patalecchia
+Patscherspitze
+Paularo
+Pauliara
+Pavione
+Pazul
+Pecol
+Pecoraia
+Pedenolo
+Peder di Fuori
+Péder di mezzo
+Pedra Affilata
+Pedra Ettori
+Pedra Fitta
+Pedra Pertusa
+Pedraba
+Pedranzini
+Pedras de Fogu
+Pedras Frittas
+Pedrone
+Pedroz
+Pedru
+Pedru Ghisu
+Pedrulongu
+Pedulu
+Peglia
+Pegolara
+Pellecchia
+Peller
+Pelmetto
+Pelmo
+Pelone
+Peloritani
+Pelpi
+Pendente
+Penegal
+Penice
+Pennacchio
+Pennello
+Pennone
+Penser Weißhorn
+Pentime
+Pera Ruja
+Peralba
+Peralora
+Perd'aira
+Perda 'e Sestu
+Perda Canuda
+Perda de Aira
+Perda e Maore
+Perda Focu
+Perda is Furonis
+Perda Lasinosa
+Perda Lettu Piccinnu
+Perda Lu Stincu
+Perda Morigadura
+Perda Morta
+Perda Ollastu
+Perda Orrubia
+Perdarba
+Perdas Urias
+Perdera
+Perdu Zoppu
+Pericoli
+Pernice
+Peron
+Perone
+Persico
+Peschio
+Pescino
+Pesco della Messa
+Pesco Falcone
+Pesco Lombardo
+Pesconfio
+Petano
+Petit Bouquetin
+Petit Mont Blanc
+Petrano
+Petria
+Petricelle
+Petrito
+Petrosu
+Pettenassa
+Pettinascura
+Pettini
+Pettino
+Pettorina
+Pez
+Pezza Comune
+Pezze
+Pezzocucco
+Pfannhorn
+Pfannspitze
+Pfeifer Spitzen
+Pfeifholderspitze
+Pflangerkopf
+Pflaurenzerkopf
+Piada
+Pian Cavallone
+Pian dei Buoi
+Pian dei Petricci
+Pian del Brigo
+Pian delle Vergini
+Pian di Nappa
+Pian Munè
+Pian Real
+Pian Sulè
+Piana del Calcinone
+Pianaccetto
+Pianaccio
+Pianalto
+Pianar
+Pianard
+Pianedda
+Piano del Conolo
+Piano del Pozzo
+Piano Rosso
+Piantangeli
+Piantarosa
+Piatto
+Piazza
+Piazzi
+Pic
+Pic d'Asti
+Pic du Grand Plaiza
+Piccas
+Picchetto
+Piccinu
+Picciola
+Piccioli
+Picco della Croce
+Picco di Grubia
+Picco di Mezzodi
+Picco di Roda
+Picco di Vallandro
+Picco Ivigna Grande
+Picco Palù
+Piccola Civetta
+Piccola Fermeda
+Piccolo
+Piccolo Lagazuol
+Piccolo Roite
+Piccolo Settsass
+Piccolo Similaun
+Piccolo Vernel
+Piccone
+Pice
+Picentini
+Pico Montone
+Picosta
+Pidaggia
+Pidiacca
+Pidocchina
+Pidrosu
+Piduel
+Piedo
+Pièltinis
+Pierfaone
+Pierno
+Pietena
+Pietra
+Pietra Aspra
+Pietra da Rasoio
+Pietra di Bismantova
+Pietra di S Stefano
+Pietra Grande
+Pietra Parcellara
+Pietra Perduca
+Pietra Pertusa
+Pietra Rossa
+Pietraborga
+Pietraccia
+Pietramarina
+Pietrereie
+Pietro
+Pietroso
+Piezza
+Piglio
+Pila Rocca
+Pilli
+Pilose
+Piluccas
+Pim Pum
+Pincaldo
+Pincio
+Pinerol
+Pinu
+Pinzat
+Pioda di Crana
+Piogera
+Piombada
+Piova
+Pira 'e Liminis
+Piramide Vincent
+Piri Pirastu
+Pisanino
+Pisanu Mele
+Piscadu
+Pischinaris
+Pischiu Dalias
+Pisgana
+Pisimoni
+Pissousa
+Pissu 'e Nartanarto
+Pissu Colombus
+Pissu Isili
+Pitreddu
+Pitrighinosu
+Pittada
+Pittu
+Pitz
+Pitza Sinai
+Pitzu e'Pranu
+Pitzu Erului
+Piz Alto
+Piz Argient
+Piz Badilet
+Piz Bianch
+Piz Cancan
+Piz Cancian
+Piz Canfinal
+Piz Cavregasco
+Piz Chavalatsch
+Piz Ciavazes
+Piz Croce
+Piz Cunfin
+Piz da l'Acqua
+Piz da la Fuorcla
+Piz da Lec
+Piz da Peres
+Piz de Corda
+Piz de Sagron
+Piz de Setag
+Piz dei Muss
+Piz dei Rossi
+Piz della Forcola
+Piz della Palù
+Piz di Mede
+Piz Duleda
+Piz Gallino
+Piz Gelato
+Piz Glüschaint
+Piz Gralba
+Piz La Ila
+Piz Lad
+Piz Miara
+Piz Minschuns
+Piz Murtarous
+Piz Papalin
+Piz Paradisin
+Piz Popena
+Piz Saliente
+Piz Scerscen
+Piz Schumbreida
+Piz Somplunt
+Piz Spadolazzo
+Piz Starlex
+Piz Tamborello
+Piz Tea Fondada
+Piz Tremoggia
+Piz Tri
+Piz Trupchun
+Piz Ursaregls
+Piz Val Nera
+Pizasc
+Pizi
+Pizmeda
+Pizza
+Pizza Bottacello
+Pizzancae
+Pizzeta di Brumei
+Pizzi
+Pizzi del Busin
+Pizzi del Ferro
+Pizzi dell' Oro
+Pizzi della Satta
+Pizzi Gemelli
+Pizzinnu
+Pizzocco
+Pizzocolo
+Pizzolu
+Pizzone
+Pizzu 'e Muletta
+Pizzu 'e s'Ilixi
+Pizzu 'e Taccu Arba
+Pizzu Andriottu
+Pizzu Cucculoi
+Pizzu de Grontas
+Pizzu de Toni
+Pizzu Ilixi Longa
+Pizzu is Abis
+Pizzu Lioni
+Pizzu Nusaunu
+Pizzu s'Inferru
+Pizzu Tagliaferru
+Plagabella
+Plai
+Plaie
+Plaies
+Plamorder Spitze
+Plamorderspitze
+Plan Maison
+Plat
+Platte
+Platthorn
+Plauris
+Pleng
+Pleros
+Plische
+Plisser
+Plombs
+Pluderspitz
+Pockshorn
+Poddigas
+Poggia
+Poggio Acerone
+Poggio ai Colli
+Poggio al Chiecco
+Poggio all'Oro
+Poggio alla Carraie
+Poggio alle Guardie
+Poggio alle Sassa
+Poggio allo Spillo
+Poggio Anzano
+Poggio Ballone
+Poggio Baracca
+Poggio Bastione
+Poggio Batteria
+Poggio Bello
+Poggio Bruno
+Poggio Brunorio
+Poggio Campagna
+Poggio Canino
+Poggio Capel Rosso
+Poggio Carlo
+Poggio Casalone
+Poggio Cascino
+Poggio Castellare
+Poggio Castello
+Poggio Castiglione
+Poggio Castro
+Poggio Cattarelle
+Poggio Cavallari
+Poggio Cavolo
+Poggio Cesi
+Poggio Cicialbo
+Poggio Corbolone
+Poggio Cucco
+Poggio dei Lagoni
+Poggio dei Sette Faggi
+Poggio dei Venti
+Poggio del Casino
+Poggio del Cavallo
+Poggio del Comune
+Poggio del Giro
+Poggio del Molino
+Poggio del Papa
+Poggio del Passino
+Poggio del Ritiro
+Poggio del Sarto
+Poggio del Serrone
+Poggio Dell 'Incontro
+Poggio della Chiusa
+Poggio della Ciuffa
+Poggio della Lombardona
+Poggio della Pagana
+Poggio della Rustica
+Poggio della Sorgente
+Poggio delle Caldaie
+Poggio delle Campane
+Poggio delle Civitelle
+Poggio delle Colline
+Poggio delle Crocine
+Poggio delle Piastre
+Poggio delle Serre
+Poggio di Celso
+Poggio di Chiusoli
+Poggio di Cupo
+Poggio di Furia
+Poggio di Iavello
+Poggio Di Mezzaluna
+Poggio di Montieri
+Poggio di Ricavo
+Poggio di Valcapratica
+Poggio Evangelista
+Poggio Feliciano
+Poggio Ferrato
+Poggio Fino
+Poggio Fuso
+Poggio Genzana
+Poggio Ginestrino
+Poggio la Biffa
+Poggio la Cupa
+Poggio la Ripaccia
+Poggio La Zucca
+Poggio le Corsicchie
+Poggio le Guaine
+Poggio le Soline
+Poggio Lecceta
+Poggio Macchia Casella
+Poggio Mandrioli
+Poggio Marmare
+Poggio Massa Nera
+Poggio Mazzucchina
+Poggio Meletone
+Poggio Mezzana
+Poggio Montecchi
+Poggio Montione
+Poggio Monzone
+Poggio Moscona
+Poggio Mosconcino
+Poggio Nebbia
+Poggio Orticaia
+Poggio Ospedaletto
+Poggio Pastorale
+Poggio Pian di Betto
+Poggio Pian Tombesi
+Poggio Piazza dei Tori
+Poggio Pocorno
+Poggio Polveriera
+Poggio Pozzarello
+Poggio Querceto
+Poggio Raso
+Poggio Ripa
+Poggio Roncomannaio
+Poggio Santa Petronilla
+Poggio Scali
+Poggio Selva
+Poggio Sentinella
+Poggio Serra la Croce
+Poggio Sodo dei Conti
+Poggio Sorbo
+Poggio Spadino
+Poggio Stefanieri
+Poggio Sugello
+Poggio Talamonaccio
+Poggio Terneti
+Poggio Tondo
+Poggio Tre Vescovi
+Poggio Vougher
+Poggio Zuffolone
+Poggiobello
+Poggioreale
+Pointe Aouillette
+Pointe Barnes
+Pointe Chaligne
+Pointe Chenal
+Pointe de Drone
+Pointe de Fréjus
+Pointe de la Pierre
+Pointe de Lenaie
+Pointe de Metz
+Pointe del Forno
+Pointe Helbronner
+Pointe Léchaud
+Pointe Rousse
+Pointes d'Oren
+Pojala
+Polesco
+Pollino
+Pollore
+Polpi
+Polveracchio
+Poncastello
+Ponente
+Ponsin
+Pontara
+Ponte Impiso
+Pontica
+Popera
+Poppe
+Porcellizzo
+Porche
+Porchia
+Porciano
+Porcignano
+Porcu
+Pore
+Poro
+Porta Molina
+Portella
+Portiole
+Pòrtles
+Portofino
+Portule
+Porze
+Posar
+Posasso
+Posola
+Postal
+Póstel
+Postiglione
+Postòncicco
+Pota
+Poverello
+Pozza
+Pozze
+Pozzin
+Pozzo
+Pozzo d'Ussi
+Pozzo del Bagno
+Pozzola
+Pozzoni
+Pozzu d'Ussi
+Pra Becchei
+Pradidali
+Prado
+Pral
+Pramaggiore
+Pranedda Ollastu
+Pranu Margiani
+Pranu Staddas
+Prasnig
+Prati di Massa
+Pratiglio
+Prato alla Penna
+Prato del Re
+Prato della Bascióta
+Prato Fiorito
+Prato Piazza
+Pratobello
+Pratomagno
+Preda Cerina
+Preja
+Prelà
+Prenestini
+Presa
+Presolana
+Prezza
+Priafora
+Prima Lina
+Principe
+Priore
+Prochill'e Mindas
+Profa alta
+Proman
+Prosl
+Provagna
+Provinaccio
+Provolaro
+Pubulema
+Puglie
+Puntaccia
+Puntali Cuccuru
+Puntali sa Siligurguia
+Punte di Campigio
+Punte Rolle
+Punte San Quirino
+Punziuda
+Pupera Valgrande
+Pupo
+Purga
+Puria
+Puro
+Purtscheller
+Putzberg
+Putzenhöhe
+Putzernock
+Puzzillo
+Puzzu
+Quadra
+Quadri
+Quaira
+Quarnan
+Quartaccio
+Quarto
+Quarto dell'Inviolatella
+Quarto San Lorenzo
+Quasigu
+Quattro Bricchi
+Querciabella
+Quirinale
+Rabbi
+Racco Giovannello
+Rachenbichl
+Radisca
+Rafray
+Raga
+Raggio
+Ragno
+Ragnolo
+Ragogna
+Ragola
+Raia della Licina
+Raiangilillo
+Raingrube
+Rainhard
+Raistulo
+Rammelstein
+Ramudla
+Rancolin
+Randelino
+Raparello
+Raparo
+Rapina
+Rasciesa di Dentro
+Rasciesa di Fuori
+Rasella
+Rasica
+Rassu
+Rastentalnock
+Rauchkofel
+Rauchkopf
+Raut
+Rauterkopf
+Ravinella
+Ravino
+Ray
+Re
+Re di Castello
+Reale
+Redasega
+Redival
+Redola
+Regelspitze
+Regola Brusada
+Reisa
+Reisnock
+Réit
+Remes
+Remetanea
+Remoluzza
+Rena
+Resegone
+Rest
+Resverde
+Retaia
+Revellone
+Revole
+Ricciola
+Ricoletta
+Ridont
+Rieserferner Gruppe
+Riesernock
+Righi
+Rigorio
+Rinalpi
+Ringelstein
+Ringspitz
+Rinzaturo
+Riondo
+Riparteddu
+Rite
+Ritorto
+Rittia
+Rittner Horn
+Ritzberg
+Riva
+Rizzetti
+Robinet
+Roc del Boucher
+Roc di Fenestrelle
+Rocca Arcoulon
+Rocca Barbis
+Rocca Borri
+Rocca d'Entella
+Rocca d'Orel
+Rocca de sa Pattada
+Rocca Dei Baranci
+Rocca del Prete
+Rocca dell'Argimonia
+Rocca della Bastera
+Rocca di Morro
+Rocca di Valmiana
+Rocca Garner
+Rocca la Paur
+Rocca Pagana
+Rocca Pendice
+Rocca Piana
+Rocca Romana
+Rocca Rossa
+Rocca sa Tiria
+Rocca Sottana di San Giovanni
+Rocca Vaccaria
+Rocca Vanciarampi
+Roccabruna
+Roccaccia
+Rocce Alte
+Rocce Platasse
+Rocchette
+Rocchi de San Nicola
+Roccia Campei
+Roccia Nera
+Rocciamelone
+Rocciavrè
+Rochetta
+Roda de Mulon
+Roda di Diavolo
+Roda di Scandole
+Roen
+Roite
+Rolla
+Rollspitze
+Romasino
+Rombo
+Romilla
+Romito
+Roncalla
+Roncon
+Ronconovo
+Ronda
+Rondanara
+Rondinaio
+Rondo
+Roppa Buffon
+Rosaio
+Rosano
+Rosato
+Rosello
+Rosengartenspitze Catinaccio
+Rosetta
+Rosole
+Rossa di Saent
+Rosshuf
+Rosskarspitze
+Rosso del Croso
+Rossruggspitze
+Rotberg
+Rote Nase
+Rote Riffl
+Roteck
+Rotella
+Rotentalhorn
+Roter Grat
+Rötspitze
+Rotteri
+Roux
+Rovaia
+Rovale
+Rovella
+Rovoleit
+Rozes
+Rozzi
+Rubello
+Rübespitze
+Ruda
+Rufeno
+Rufer
+Ruga
+Ruggia
+Rugginosu
+Rughe
+Ruia
+Ruioch
+Rumasinu
+Ruppenstein
+Rusca
+Ruscello
+Russu
+Ruta
+Ruzza
+S Maria
+S Michele
+S Moro
+S Paolo
+S Sisto
+s'Enna is Antas
+s'Orgiola Antoni Cocco
+sa Casida
+Sa Corona De Su Crabi
+sa Corte Beccia
+Sa de Su Scopagliu
+sa Guardia de su Turcu
+sa Palafrida
+sa Palla 'e s'Ossiga
+sa Perda Morta
+Sa RoccaPestrosa
+Sa Scala de Sa Canna
+Sa Scrocchita
+Sa Senega
+Sa Tacca 'e Montumarci
+Sa Turra
+Saas da Gimpac
+Sabatini
+Sabbia
+Saben
+Sabini
+Sacro Gelbison
+Saent
+Sagro
+Salarioli
+Salattu
+Saldura di dentro
+Salena
+Saler
+Salice
+Salici
+Salinchiet
+Saline
+Salubio
+Salzköpfl
+Sambock
+Sambucaro
+Sambuco
+Sambuga
+Samoditzi
+San Calógero
+San Cassiano
+San Costanzo
+San Floriano
+San Francesco
+San Franco
+San Fratello
+San Giorgio
+San Giusto
+San Leonardo
+San Liberatore
+San Marco
+San Matteo
+San Nicolao
+San Padre
+San Pancrazio
+San Pantaleone
+San Paolo
+San Pio
+San Rocco
+San Simeone
+San Zio
+Sangiatto
+Sant Agostino
+Sant Angelo
+Sant'Angeli
+Sant'Angelo a Tre Pizzi
+Sant'Angelo Altissimo
+Sant'Angelo in Arcese
+Sant'Enoc
+Sant'Isidoro
+Sant'Onofrio
+Santa Giulia
+Santa Luca
+Santa Miai
+Santa Trinità
+Santi
+Santner
+Sapigno
+Saracino
+Saraloi
+Sarena
+Sarri
+Sarta
+Sas Aut
+Sass da l'Ega
+Sass da Lec
+Sass Dai Ciamorces
+Sass de Moles
+Sass de Mura
+Sass Maor
+Sass Pordoi
+Sass Rigais
+Sassara
+Sassetto
+Sassicari
+Sasso Alto
+Sasso Arso
+Sasso Becce
+Sasso Bianco
+Sasso Bodengo
+Sasso Bruciato
+Sasso Calosso
+Sasso Campedello
+Sasso Canale
+Sasso del Duran
+Sasso del Gazzo
+Sasso delle Dieci
+Sasso delle Lede
+Sasso delle Nove
+Sasso di Bosconero
+Sasso di Conca
+Sasso di Mezzodi
+Sasso di Pale
+Sasso di Rocca
+Sasso di Stria
+Sasso di Tasca
+Sasso di Valfredda
+Sasso Levante
+Sasso Lungo
+Sasso Maurigno
+Sasso Maurone
+Sasso Moro
+Sasso Para
+Sasso Regina
+Sasso Rotto
+Sasso San Giovanni
+Sasso Simone
+Sasso Tetto
+Sasso Tondo
+Sasso Vernale
+Sassoforte
+Sassofreddo
+Sassolungo di Cibiana
+Sassone
+Sassongher
+Sassu
+Sassuma
+Sattelleite
+Sattelspitze
+Sauspitzl
+Sautron
+Sauwipfel
+Savi
+Sboada
+Scaglieret
+Scala
+Scala Barralis
+Scala de Malta
+Scala e s'Ebba
+Scalandro
+Scalino
+Scalpe
+Scalpello
+Scarafano
+Scaravini
+Scarpaco
+Scarrone di Mezzo
+Scassella
+Scatta
+Scatta d'Orogna
+Schafbretterspitz
+Schaflahner
+Schaflahnernock
+Scharhaggen
+Schaufler
+Scheggia
+Scheibe
+Schenone
+Scherbadung
+Schiavo
+Schiena Rasa
+Schienal del Bec
+Schierano
+Schlivlalai Spitz
+Schlüsseljoch
+Schönbergspitze
+Schönbichl
+Schornspitze
+Schreckwand
+Schüttalkopf
+Schwarze Riffl
+Schwarzenbachspitze
+Schwarzer Kopf
+Schwarzerspitz
+Scindarella
+Scingino
+Scinuz
+Sclapa
+Scoccioni
+Scoglio dell'Aquila
+Scomunica
+Scopa
+Scopiccio
+Scorluzzo
+Scuncole
+Scuro
+Sebera
+Sebòl
+Secine
+Seda Oro
+Sedd'Abruzzo
+Sedda 'e sa Era
+Sedda Campanilis
+Sedda sos Campos
+Sedda su Barone
+Sedda su Pirastu
+Sedole
+Seekofel
+Seekopf
+Seewassernock
+Seewischhorn
+Sega
+Segnale
+Seirasso
+Seleron
+Sella del Freddolin
+Sellaro
+Selvapiana
+Selvata
+Sèmida
+Semprevisa
+Senalonga
+Senna su
+Sentinella
+Sera
+Serano
+Serenità
+Serima
+Serla
+Serosine
+Seroti
+Serpeddi
+Serra 'e Crabas
+Serra 'e sa Furca
+Serra 'e sa Senega
+Serra Acqua Fredda
+Serra Ambruna
+Serra Bau is Condinas
+Serra Campana
+Serra Carianu
+Serra Castagna
+Serra Colcone
+Serra Comune
+Serra Conroneddu
+Serra Cortiaccas
+Serra Cuparelli
+Serra d'Orotelli
+Serra De Is Porcus
+Serra de Mauro
+Serra de Mesu
+Serra dei Cianci
+Serra dei Pastori
+Serra del Carpine
+Serra del Cearo
+Serra del Parco
+Serra della Monna
+Serra della Prima Croce
+Serra delle Ciavole
+Serra delle Vigne
+Serra di Calvello
+Serra di Crispo
+Serra di Fagallo
+Serra di Montemurro
+Serra di Paola
+Serra di Specchia
+Serra Draxiu
+Serra Enna 'e Lua
+Serra Fana
+Serra is Feurras
+Serra Is Tres Portus
+Serra la Neviera
+Serra la Vraita
+Serra Lattarusi
+Serra Maggio
+Serra Mandra
+Serra Maori
+Serra Meccaglia
+Serra Minnai
+Serra Montillo
+Serra Nanìo
+Serra Orpoli
+Serra Orroene
+Serra Orticosa
+Serra Perd'aira
+Serra Perdu Isu
+Serra Piliri
+Serra Pirastu
+Serra Puddargiu
+Serra s'Arcu is Eras
+Serra s'Ascova
+Serra s'Istevene
+Serra sa Nerbiazza
+Serra Santa
+Serra Santa Caterina
+Serra Serbissi
+Serra Situs
+Serra su Pirastu
+Serra Tecchete
+Serra Tonnai
+Serra Toppai
+Serra Trelleca
+Serra Tule
+Serra Tuoppo
+Serra Uàsi
+Serra Vereto
+Serra Veticara
+Serradroxiu
+Serraglio
+Serralta di San Vito
+Serralunga
+Serrange
+Serrato
+Serrazasilla
+Serre di Campo Soprano
+Serretella
+Serripola
+Sertori
+Serva
+Servatun
+Sesilis
+Sessa
+Sestier
+Setaggiolo di Fuori
+Sette Selle
+Settsass
+Sevo
+Sforcelloni
+Sfornioi
+Siareddu
+Sibillini
+Sicaderba
+Siesa
+Sila Piccola
+Silana
+Siliolo
+Sillano
+Sillara
+Siltri
+Simauz
+Simoncello
+Simone
+Siola
+Sione
+Sirai
+Sirente
+Sirino
+Siseri
+Sisiddò
+Sissone
+Sistu
+Slenza
+Slimber
+Slúder
+Sobretta
+Soel
+Soglio
+Soleron
+Solone
+Solvia
+Somator
+Sommele Alto
+Sommi
+Sonnenburgerkopf
+Sonnklar
+Sonntaggabel
+Sonovich
+Sopra Conella
+Soprachiesa
+Soprano
+Soprasasso
+Soran
+Sorano
+Sorapis
+Soratte
+Sorbo
+Soreli
+Sorgente de Dentro
+Sorgente di Fuori
+Sornadello
+Sossennock
+Sotto
+Souffi
+Spaccato
+Spada
+Spadalone
+Spaduro
+Spalavera
+Spalla
+Spalla Est
+Spalla Nord
+Spalla Sud
+Spallone dei Massodi
+Spalmo
+Spano
+Sparago
+Sparaveri
+Sparone
+Sparviere
+Spe
+Specchi
+Specchio
+Spedros
+Speggia
+Speikboden
+Speiker
+Speikwand
+Spelano
+Spessa
+Spiaggi
+Spich
+Spigno
+Spigolino
+Spil
+Spina Santa
+Spinarolo
+Spinosa
+Spitzhorn
+Spiz
+Spiz de Zuel
+Spiz del Doch
+Spiz San Piero
+Spizo
+Spluga
+Srednji vršič
+Stabbiello
+Stabet
+Stadel
+Stange
+Starkspitze
+Starling
+Starnina
+Stavei
+Stefano
+Stegener Berg
+Steger Otschn
+Steiner Holm
+Steinkarspitze
+Steinstraichen
+Stelle delle Sute
+Stena
+Sternai
+Sternai Meridionale
+Sterpara
+Stevia
+stones of the Greeks
+Stornade
+Storta
+Stosskofl
+Strabût
+Strahlgrät
+Stramondin
+Strighet
+Stutennock
+Su Casteddu
+Su Concali
+Su Contu
+Su Cruccuri
+Su Estrali
+Su Prammittu
+Su Toni de Girgini
+Suana
+Subasio
+Succhio
+Sud
+Sud Argentera
+Suldenspitze
+Sullinarbu
+Sulzkogel
+Sumbra
+Summano
+Superga
+Sveti Mihel
+Tabià d'Ambata
+Taburno
+Taccone
+Tachuy
+Taddi
+Tagewaldhorn
+Tagliaferro
+Tagliata
+Tagliate
+Tagliola
+Taiet
+Talamone
+Talesi
+Tambone
+Tambura
+Tamierhorn
+Tancia
+Taniga
+Tanzonia
+Tardia levante
+Tardia ponente
+Tarè
+Taront
+Tàrres
+Tasso
+Tatschöchl
+Tauffi
+Tavernaro
+Taversa
+Tavola
+Teccio al sole
+Tedesca
+Tedili
+Teglia
+Teialone
+Tellere
+Temola
+Tempa Capriolo
+Tempa dei Felci
+Tempa del Lupo
+Tempa dell'Irti
+Tempa della Falasca
+Tempa delle Rose
+Tempa Lata
+Tempalta
+Tenchia
+Tenetra
+Tentale
+Teresa
+Terlo
+Terme
+Termini
+Terminilletto
+Terminillo
+Terminio
+Terminuto
+Termoncello
+Terne
+Terner Nock
+Terre Fredde
+Tersadia
+Tersiva
+Terza
+Terza Grande
+Terza Media
+Terza Piccola
+Terzo
+Testa
+Testa Cordella
+Testa dei Rossi
+Testa del Gargano
+Testa del Leone
+Testa del Mater
+Testa del Parise
+Testa del Rutor
+Testa dell' Orso
+Testa della Costabella del Piz
+Testa di Crevacol
+Testa di Menta
+Testa di Tablasses
+Testa Fontai
+Testa Malinvern
+Testa Mercera
+Testa Serena
+Testaccio
+Testo
+Tète de Cou
+Tête de Valpelline
+Tête des Roèses
+Tête du Pelvas
+Teti
+Teverone
+Texelspitze Tessa
+Tezio
+Tiarfin
+Tiberio
+Tibet
+Tifata
+Tigliano
+Tignaga
+Tignolino
+Tignoso
+Tilia
+Timidone
+Timpa d'Albano
+Timpa di Cassano
+Timpa di Porace
+Timpa di San Lorenzo
+Timpa Scazzariddo
+Timpone del Pino
+Timpone del Principe
+Timpone del Vaccaro
+Timpone della Magara
+Timpone della Neviera
+Timpone della Rotondella
+Timpone Malazza
+Timpone Scifarello
+Tintionargiu
+Tiriaxeddu
+Tirlo
+Tito
+Toa
+Tobbio
+Tobenna
+Toc
+Tocco
+Todano
+Todesca
+Tofana di Dentro
+Tofana di Mezzo
+Tofana di Rozes
+Toff
+Tofino
+Togano
+Tolagna
+Tolargo
+Tolentino
+Tolfa
+Tolfaccia
+Tolforoso
+Tollgrube
+Tomatico
+Tomba
+Tombea
+Tomeabru
+Tonale
+Tonale Occidentale
+Tonale Orientale
+Tonneri
+Tonoco
+Topera
+Toppa Barrata
+Toppa Carbone
+Toppa della Faragna
+Toppa di Castelgrande
+Toppa Giampietro
+Toppa Nauro
+Toppa San Silvestro
+Toppo del Castello
+Tor San Giovanni
+Toraro
+Torena
+Toresella
+Torre Coldai
+Torre dei Camosci
+Torre del Giove
+Torre del Gran San Pietro
+Torre di Brenta
+Torre di Lavina
+Torre di Toblin
+Torre di Val Grande
+Torre di Veglia
+Torre Fanis
+Torre Maggiore
+Torre Pian dei Buoi
+Torre Rizzi
+Torre Sabbioni
+Torre San Lorenzo
+Torrecane
+Torretta
+Torri del Vaiolet
+Torrigia
+Torrinara
+Torrione
+Torrione d'Albiolo
+Torrione di Porro
+Torrione di Qualido
+Torrione di Vallesinella
+Torrone Centrale
+Torrone Occidentale
+Torrone Orientale
+Torru
+Tortonzero
+Torwand
+Tosa
+Totila
+Totoga
+Tour de Créton
+Tourano
+Toval
+Tradalei
+Traessu
+Tramalitt
+Tramontana
+Trassiuari
+Trassone
+Tràunig
+Traversole
+Trazzonara
+Tre Abati
+Tre Amici
+Tre Cime di Lavaredo
+Tre Cime di Lavaredo Grande
+Tre Cime di Lavaredo Occidentale
+Tre Cime di Lavaredo Piccola
+Tre Croci
+Tre Denti
+Tre Mogge
+Tre Scarperi
+Trebbio
+Trebinalonga
+Trebuse
+Tremalzo
+Tremezzo
+Tremoggia
+Tremol
+Tremoncelli
+Trentin
+Tres Corogna
+Tres Montes
+Tresca
+Tresero
+Trevigno
+Trevisan
+Tribulaun
+Tricoli
+Tripides
+Trippachspitze
+Tristennöckl
+Tristenspitze
+Trivera
+Trocchio
+Tronale
+Tronetta
+Truba Manna
+Trubbio
+Truc Berengero
+Trudda
+Truggetta
+Trumes
+Truzzo
+Tschigat
+Tuckett
+Tudai di Razzo Est
+Tullen
+Tului
+Tumbarino
+Tumbaro
+Tuonaco
+Tuoralto
+Tuoro
+Turchio
+Turco
+Turi
+Turiggia
+Turlon
+Turno
+Turres Crabinas
+Turrion Alto
+Turritta
+Turruneri
+Tusorgia
+Tuss
+Tutoglio
+Tuttavista
+Tuvonari
+Uccari
+Ucia
+Udine
+Udulu
+Ulloru
+Ultia
+Umberto
+Unter Schinhorn
+Untermooskopf
+Unterrothorn
+Uomo
+Upi
+Urano
+Uri
+Urpas
+Urpino
+Urtigu
+Urto
+Usello
+Utero
+Uttari
+V Hornspitze
+Vacalizza
+Vaccargiu
+Vadà
+Vado del Piesco
+Vadretta
+Vagliamenti
+Vagliana
+Vagliotta
+Vago
+Vaiolet
+Vairano
+Val Benair
+Val di Togno
+Val di Varri
+Val Fontana
+Val Rossa
+Val Scura
+Val Strangola
+Valbonspitz Valbona
+Valcalda
+Valcuca
+Valdes
+Valegino
+Valetta
+Valinis
+Vallar
+Vallatrone
+Valle Carnera
+Vallecetta
+Vallelunga
+Valles
+Valletta
+Valletta Grande
+Valletta Piccola
+Vallina
+Vallunga
+Valmontagnana
+Valnappe
+Valon
+Valoria
+Valrossa Nord
+Valrossa Sud
+Valsolaro
+Valva
+Valvasseto
+Valvell
+Vanclava
+Vangelex
+Varella
+Vatican
+Vedorchia
+Vedretta d'Ambiez
+Vedretta Nera
+Vedrettine
+Veduta
+Velino
+Vena di Varano
+Venale
+Venda
+Vendevolo
+Vene S Pietro
+Venegiotta
+Venere
+Venerocolo
+Ventabren
+Ventasso
+Ventina
+Ventolaro
+Ventoloro
+Ventosa
+Ventrino
+Verda
+Verdi
+Verdignana
+Verdone
+Verena
+Verga Mouga
+Vergine
+Vergozze
+Vermenone
+Vermiglio
+Vernà
+Vernun
+Verosso
+Verro
+Verro Croce
+Verrutoli
+Vertainspitze
+Vertosan
+Veruca
+Verva
+Verzegnis
+Vese
+Vesso
+Veticoso
+Vetta Blesaccia
+Vetta del Vallone
+Vetta delle Buse
+Vetta di Ron
+Vetta Orientale del Corno Grande
+Vetta Settentrionale d'Intermesoli
+Vette Grandi
+Vette Piccole
+Vezzana
+Vico Alvano
+Vies
+Viezzena
+Vigese
+Vignola
+Vignoli
+Vignone
+Vigolana
+Villandro
+Villico
+Viminale
+Vincenzo
+Viola
+Vioz
+Virgo
+Virgolo
+Viridio
+Visolotto
+Vittoria
+Vivo
+Voggia
+Voghel
+Volsini
+Vomero
+Vordere Weissspitze
+Vorderplattspitze
+Vuturo
+Vytae
+Wasserfalleck
+Wasserfallspitz
+Watles
+Wechselkopf
+Weiss Spitz
+Weisse Wand
+Weissgrat
+Weißhorn Corno Bianco
+Weisskofl
+Westliche Floitenspitze
+Westliche Hochwarth
+Westliches Zwillingsköpfl
+Wilder Pfaff
+Wildgall
+Wildseespitze
+Wilma
+Windbachspitze
+Windeck
+Winkelkopf
+Wolfebeskopf
+Wolfendorn
+Wolfeskofel
+Wollbachspitze
+Wurmtalerspitze
+Zaccarelli
+Zaiàur
+Zandila
+Zappacenere
+Zatlkopf
+Zatta
+Zebrù
+Zeda
+Zehnerkofel
+Zembrasca
+Zenevri
+Zerbion
+Zevola
+Ziccher
+Zigole
+Zigolon
+Zimmara
+Zingla
+Zinglo Bernù
+Zinorado
+Ziolera
+Zirra
+Zirulia
+Ziu Bennero
+Zocca
+Zoccane
+Zoccone
+Zogo
+Zoncolan
+Zouf Plan
+Zovallo
+Zovo
+Zuc dal Bor
+Zuc di Santins
+Zuc Torondo
+Zucca
+Zuccarello
+Zuccaro
+Zuccherino
+Zuccherodante
+Zucchetto
+Zucco
+Zucco di Desio
+Zuccone
+Zughero
+Zugna Torta
+Zumsteinspitze
+Zwilcher
+Zwölferspitz

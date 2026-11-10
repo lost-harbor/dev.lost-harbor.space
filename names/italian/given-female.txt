@@ -1,0 +1,2330 @@
+Maria	1280
+Francesca	862
+Anna	813
+Elena	732
+Laura	679
+Paola	609
+Chiara	532
+Silvia	512
+Giulia	486
+Elisa	457
+Alessandra	439
+Valentina	357
+Daniela	352
+Sara	331
+Giovanna	329
+Federica	313
+Lucia	312
+Cristina	304
+Barbara	293
+Elisabetta	286
+Stefania	280
+Claudia	278
+Antonella	265
+Roberta	261
+Angela	251
+Marina	251
+Patrizia	232
+Carla	231
+Gabriella	229
+Ilaria	222
+Eleonora	219
+Simona	214
+Valeria	213
+Monica	197
+Luisa	194
+Caterina	189
+Margherita	189
+Marta	189
+Alessia	188
+Rita	172
+Giorgia	167
+Alice	165
+Beatrice	165
+Manuela	164
+Giuseppina	154
+Michela	154
+Serena	150
+Emanuela	144
+Franca	144
+Donatella	143
+Anna Maria	142
+Giuliana	140
+Rosa	140
+Irene	133
+Teresa	127
+Cecilia	124
+Tiziana	123
+Veronica	123
+Adriana	122
+Cinzia	120
+Isabella	120
+Annalisa	119
+Bianca	119
+Vittoria	119
+Raffaella	112
+Emma	110
+Luciana	107
+Sofia	104
+Nicoletta	103
+Sabrina	102
+Benedetta	100
+Rossella	100
+Silvana	95
+Arianna	93
+Maria Grazia	88
+Rosanna	88
+Simonetta	88
+Sonia	88
+Annamaria	86
+Carlotta	86
+Carmen	86
+Nadia	86
+Grazia	85
+Marisa	84
+Maria Teresa	83
+Renata	83
+Sandra	83
+Marcella	81
+Ada	80
+Clara	80
+Enrica	78
+Adele	77
+Loredana	76
+Camilla	75
+Maria Luisa	75
+Letizia	74
+Susanna	74
+Flavia	73
+Gloria	73
+Liliana	73
+Mara	73
+Antonietta	72
+Carolina	72
+Lisa	71
+Graziella	70
+Erika	69
+Eva	69
+Virginia	68
+Lidia	67
+Ida	66
+Gianna	65
+Matilde	65
+Giada	63
+Linda	62
+Lina	59
+Anita	58
+Maddalena	58
+Carmela	57
+Marianna	57
+Antonia	55
+Emilia	55
+Cristiana	54
+Mirella	54
+Nicole	53
+Rossana	53
+Vera	53
+Agnese	50
+Lia	50
+Ornella	50
+Maria Cristina	49
+Marzia	49
+Milena	49
+Pia	49
+Costanza	47
+Ludovica	47
+Aurora	46
+Mariangela	46
+Olga	46
+Concetta	45
+Elvira	45
+Livia	45
+Alba	44
+Bruna	44
+Miriam	44
+Angelica	43
+Amalia	42
+Greta	42
+Lara	42
+Lorenza	42
+Maria Pia	42
+Katia	41
+Piera	41
+Rachele	41
+Eugenia	40
+Jessica	40
+Mariella	40
+Elenora	39
+Erica	39
+Fernanda	39
+Ivana	39
+Debora	38
+Elsa	38
+Noemi	38
+Vanessa	38
+Viviana	38
+Gina	37
+Maria Rosaria	37
+Sabina	37
+Marilena	36
+Deborah	35
+Fabiana	35
+Lucrezia	35
+Rosaria	35
+Assunta	34
+Fiorella	34
+Rosalba	34
+Vincenza	34
+Maria Antonietta	33
+Daria	32
+Ester	32
+Luigia	32
+Pina	32
+Sarah	32
+Stella	32
+Wanda	32
+Clelia	31
+Romina	31
+Tatiana	31
+Flora	30
+Ines	30
+Lavinia	30
+Adelaide	29
+Filomena	29
+Gemma	29
+Luana	29
+Maura	29
+Amelia	28
+Donata	28
+Gilda	28
+Ginevra	28
+Lea	28
+Lorena	28
+Rebecca	28
+Elda	27
+Elettra	27
+Licia	27
+Denise	26
+Dora	26
+Fulvia	26
+Giuditta	26
+Maria Chiara	26
+Marinella	26
+Melissa	26
+Eliana	25
+Fiorenza	25
+Liana	25
+Lucilla	25
+Alberta	24
+Ilenia	24
+Luisella	24
+Natalia	24
+Tania	24
+Ambra	23
+Augusta	23
+Germana	23
+Gisella	23
+Marika	23
+Pamela	23
+Rina	23
+Rosalia	23
+Fausta	22
+Gioia	22
+Magda	22
+Mariagrazia	22
+Tina	22
+Viola	22
+Andrea	21
+Annarita	21
+Carola	21
+Edda	21
+Lorella	21
+Maria Rita	21
+Samantha	21
+Bice	20
+Dina	20
+Gigliola	20
+Jolanda	20
+Loretta	20
+Luigina	20
+Rosa Maria	20
+Rosetta	20
+Alda	19
+Diletta	19
+Maria Giovanna	19
+Nina	19
+Oriana	19
+Agata	18
+Fabiola	18
+Floriana	18
+Giusy	18
+Jole	18
+Marica	18
+Micol	18
+Nella	18
+Petra	18
+Romana	18
+Alexandra	17
+Celeste	17
+Corinna	17
+Enza	17
+Erminia	17
+Evelina	17
+Fabrizia	17
+Fiammetta	17
+Flaminia	17
+Giusi	17
+Micaela	17
+Nunzia	17
+Andreina	16
+Azzurra	16
+Brunella	16
+Delia	16
+Ileana	16
+Iolanda	16
+Jennifer	16
+Orietta	16
+Patricia	16
+Regina	16
+Tamara	16
+Domenica	15
+Esther	15
+Giuseppa	15
+Jenny	15
+Kamilla	15
+Karin	15
+Olivia	15
+Rosella	15
+Vanna	15
+Adalgisa	14
+Adelina	14
+Allegra	14
+Clotilde	14
+Fiamma	14
+Gaja	14
+Maria Laura	14
+Mariarosaria	14
+Marie	14
+Morena	14
+Angiola	13
+Aurelia	13
+Christine	13
+Clarissa	13
+Clementina	13
+Doriana	13
+Isa	13
+Maria Carmela	13
+Maria Gabriella	13
+Rosita	13
+Tullia	13
+Wilma	13
+Albertina	12
+Alida	12
+Anastasia	12
+Anna Rita	12
+Asia	12
+Cesarina	12
+Edith	12
+Francesca Romana	12
+Gabriela	12
+Iris	12
+María	12
+Mariateresa	12
+Maurizia	12
+Norma	12
+Pierina	12
+Yvonne	12
+Ana	11
+Astrid	11
+Biancamaria	11
+Danila	11
+Emily	11
+Florinda	11
+Irma	11
+Isabel	11
+Lydia	11
+Maria Elena	11
+Maria Letizia	11
+Maria Paola	11
+Marija	11
+Marilù	11
+Mary	11
+Melania	11
+Myriam	11
+Nerina	11
+Olimpia	11
+Ottavia	11
+Ramona	11
+Serenella	11
+Verena	11
+Veronika	11
+Annarosa	10
+Christina	10
+Dolores	10
+Elisabeth	10
+Immacolata	10
+Jasmine	10
+Leda	10
+Mafalda	10
+Maria Concetta	10
+Maria Giuseppina	10
+Maria Rosa	10
+Maria Vittoria	10
+Marialuisa	10
+Novella	10
+Tea	10
+Ylenia	10
+Albina	9
+Alma	9
+Annunziata	9
+Carmelina	9
+Charlotte	9
+Consuelo	9
+Emiliana	9
+Gaetana	9
+Georgia	9
+Giorgina	9
+Graziana	9
+Ingrid	9
+Mariarosa	9
+Marion	9
+Melanie	9
+Mercedes	9
+Mila	9
+Miranda	9
+Monika	9
+Nathalie	9
+Nives	9
+Nora	9
+Nuccia	9
+Orsola	9
+Sveva	9
+Tilde	9
+Vania	9
+Agostina	8
+Anna Rosa	8
+Antonina	8
+Armida	8
+Bianca Maria	8
+Catia	8
+Chantal	8
+Dalila	8
+Ebe	8
+Egle	8
+Eloisa	8
+Fanny	8
+Giordana	8
+Giustina	8
+Guendalina	8
+Isotta	8
+Ketty	8
+Leila	8
+Lilia	8
+Magdalena	8
+Maria Stella	8
+Mariachiara	8
+Mariolina	8
+Mia	8
+Michaela	8
+Michelle	8
+Milvia	8
+Natasha	8
+Ombretta	8
+Paula	8
+Perla	8
+Sabine	8
+Tanja	8
+Victoria	8
+Vita	8
+Angelika	7
+Camila	7
+Candida	7
+Clizia	7
+Domitilla	7
+Edvige	7
+Ermelinda	7
+Ernestina	7
+Ersilia	7
+Evelyn	7
+Felicia	7
+Giselda	7
+Giulietta	7
+Guia	7
+Helga	7
+Isabelle	7
+Jana	7
+Katja	7
+Maristella	7
+Ofelia	7
+Rosina	7
+Simone	7
+Sophie	7
+Ursula	7
+Vanda	7
+Violetta	7
+Aida	6
+Alfonsina	6
+Alina	6
+Angelina	6
+Anna Laura	6
+Annabella	6
+Annie	6
+Attilia	6
+Bettina	6
+Brenda	6
+Brigitte	6
+Dafne	6
+Dalia	6
+Danielle	6
+Doris	6
+Elide	6
+Felicita	6
+Frida	6
+Gea	6
+Giannina	6
+Heidi	6
+Karméla	6
+Larissa	6
+Lella	6
+Luce	6
+Margot	6
+Maria Caterina	6
+Maria Maddalena	6
+Mariana	6
+Martha	6
+Matilda	6
+Mimma	6
+Mina	6
+Moira	6
+Nada	6
+Nadine	6
+Natalie	6
+Natalina	6
+Nicla	6
+Pasqualina	6
+Renate	6
+Sharon	6
+Sonja	6
+Sophia	6
+Susy	6
+Tecla	6
+Ulrike	6
+Vincenzina	6
+Virna	6
+Alessandro	5
+Alexia	5
+Amina	5
+Annachiara	5
+Arabella	5
+Aura	5
+Catherine	5
+Consiglia	5
+Corinne	5
+Damiana	5
+Delfina	5
+Desirée	5
+Enrichetta	5
+Ernesta	5
+Fedora	5
+Franziska	5
+Genoveffa	5
+Gessica	5
+Gioconda	5
+Helena	5
+Iole	5
+Irina	5
+Itala	5
+Italia	5
+Jone	5
+Josephine	5
+Julia	5
+Karen	5
+Katharina	5
+Leyla	5
+Lilian	5
+Lilli	5
+Lucy	5
+Margarita	5
+Marguerite	5
+Maria Cecilia	5
+Maria Francesca	5
+Maria Lucia	5
+Maria Piera	5
+Maria Serena	5
+Mariacristina	5
+Mariagiovanna	5
+Mariapaola	5
+Michele	5
+Monia	5
+Nancy	5
+Nicol	5
+Odette	5
+Palma	5
+Raffaela	5
+Renée	5
+Rosalinda	5
+Samanta	5
+Scilla	5
+Sebastiana	5
+Serafina	5
+Siria	5
+Thea	5
+Tosca	5
+Vilma	5
+Waltraud	5
+Zita	5
+Albarosa	4
+Aleksandra	4
+Alia	4
+Amanda	4
+Angela Maria	4
+Angiolina	4
+Ania	4
+Anna-Maria	4
+Annalaura	4
+Annalena	4
+Anne	4
+Béatrice	4
+Carina	4
+Caroline	4
+Celestina	4
+Christiane	4
+Clio	4
+Cosetta	4
+Cosima	4
+Cynthia	4
+Dania	4
+Edi	4
+Evi	4
+Fiore	4
+Fioretta	4
+Fortunata	4
+Françoise	4
+Franka	4
+Giacoma	4
+Giancarla	4
+Guglielmina	4
+Iaia	4
+Ilona	4
+Imma	4
+Jacqueline	4
+Johanna	4
+Kathrin	4
+Kelly	4
+Lauretta	4
+Lena	4
+Leonarda	4
+Leonella	4
+Libera	4
+Lida	4
+Lily	4
+Lodovica	4
+Lola	4
+Lucina	4
+Lukrécia	4
+Marella	4
+Marga	4
+Margaret	4
+Margareth	4
+Maria Adelaide	4
+Maria Alessandra	4
+Maria Anna	4
+Maria Assunta	4
+Maria Ausilia	4
+Maria Beatrice	4
+Maria Elisa	4
+Maria Giulia	4
+Maria Silvia	4
+Maria Sole	4
+Marialaura	4
+Marianne	4
+Mariapia	4
+Mariuccia	4
+Mathilde	4
+Maya	4
+Milly	4
+Mimì	4
+Miryam	4
+Natascia	4
+Nelly	4
+Neva	4
+Nicola	4
+Norina	4
+Orsetta	4
+Paolina	4
+Pierangela	4
+Pilar	4
+Priscilla	4
+Rosamaria	4
+Rosangela	4
+Rosellina	4
+Samuela	4
+Santina	4
+Stefanie	4
+Stephanie	4
+Susan	4
+Susanne	4
+Tessa	4
+Titti	4
+Tonia	4
+Verdiana	4
+Violante	4
+Vittorina	4
+Zaira	4
+Zoe	4
+Zora	4
+Addolorata	3
+Adelia	3
+Adonella	3
+Aisha	3
+Aldina	3
+Alicia	3
+Anaïs	3
+Angelamaria	3
+Anila	3
+Ann	3
+Anna Lisa	3
+Annagrazia	3
+Annapaola	3
+Annette	3
+Ariella	3
+Asja	3
+Asumpta	3
+Ausilia	3
+Ave	3
+Beatriz	3
+Bernadette	3
+Berta	3
+Bona	3
+Bonaria	3
+Brigida	3
+Brunetta	3
+Brunilde	3
+Carol	3
+Cesira	3
+Christa	3
+Claretta	3
+Cleo	3
+Colomba	3
+Concita	3
+Consolata	3
+Dagmar	3
+Daisy	3
+Desdemona	3
+Desideria	3
+Désirée	3
+Desy	3
+Dianella	3
+Didi	3
+Diomira	3
+Dominique	3
+Domizia	3
+Donella	3
+Dorina	3
+Dorotea	3
+Dorothea	3
+Drusilla	3
+Edmea	3
+Edwige	3
+Egidia	3
+Ekaterina	3
+Elizabeth	3
+Elvina	3
+Ema	3
+Emi	3
+Emy	3
+Eufemia	3
+Fabia	3
+Fatima	3
+Fede	3
+Felice	3
+Fides	3
+Filippa	3
+Florencia	3
+Fortuna	3
+Fosca	3
+Gabriele	3
+Gelsomina	3
+Giacinta	3
+Gianfranca	3
+Giliola	3
+Ginetta	3
+Giorgetta	3
+Giovannella	3
+Grazia Maria	3
+Hanna	3
+Hannah	3
+Herta	3
+Igea	3
+Ignazia	3
+Ilary	3
+Ilde	3
+Ilva	3
+Iva	3
+Jeanne	3
+Jo	3
+Joy	3
+Joyce	3
+Judith	3
+Katy	3
+Kiara	3
+Laila	3
+Lalla	3
+Lelia	3
+Leonetta	3
+Leonia	3
+Leonora	3
+Leopolda	3
+Lilla	3
+Lilly	3
+Louise	3
+Lucie	3
+Lyda	3
+Maia	3
+Maila	3
+Majda	3
+Manila	3
+Marcela	3
+Maresa	3
+Margareta	3
+Margit	3
+Maria Antonella	3
+Maria Carla	3
+Maria Claudia	3
+Maria Clotilde	3
+Maria Elisabetta	3
+Maria Emanuela	3
+Maria Franca	3
+Maria Ida	3
+Marianella	3
+Mariantonietta	3
+Mariasilvia	3
+Mariassunta	3
+Mariastella	3
+Marida	3
+Marilina	3
+Marilisa	3
+Mascia	3
+Medea	3
+Meri	3
+Meris	3
+Michèle	3
+Michelina	3
+Mikaela	3
+Mirka	3
+Mirta	3
+Nicky	3
+Nietta	3
+Nilde	3
+Ortensia	3
+Osvalda	3
+Palmina	3
+Pavla	3
+Pinella	3
+Pinuccia	3
+Prisca	3
+Raissa	3
+Romilda	3
+Rosario	3
+Rose	3
+Ruth	3
+Sandy	3
+Santa	3
+Sára	3
+Saskia	3
+Selina	3
+Selvaggia	3
+Silva	3
+Silvija	3
+Sonya	3
+Speranza	3
+Sylvia	3
+Sylvie	3
+Tat'jana	3
+Teresina	3
+Teresita	3
+Terry	3
+Tindara	3
+Titina	3
+Ughetta	3
+Valentine	3
+Velia	3
+Vivien	3
+Xenia	3
+Yasmina	3
+Achillina	2
+Adria	2
+Alejandra	2
+Alessandrina	2
+Alex	2
+Aline	2
+Alison	2
+Allison	2
+Amarilli	2
+America	2
+Amy	2
+Ana Maria	2
+Andreea	2
+Angie	2
+Angioletta	2
+Anja	2
+Anna Lucia	2
+Annapia	2
+Annarella	2
+Annita	2
+Anthea	2
+Antonija	2
+Arcangela	2
+Argentina	2
+Arjola	2
+Armanda	2
+Ashley	2
+Assia	2
+Astra	2
+Beatrix	2
+Benedicta	2
+Bibiana	2
+Birgit	2
+Brigitta	2
+Camelia	2
+Carmina	2
+Carole	2
+Cathy	2
+Catiuscia	2
+Cécile	2
+Celina	2
+Céline	2
+Chanel	2
+Chelsea	2
+Christiana	2
+Civita	2
+Clarice	2
+Claude	2
+Claudio	2
+Clorinda	2
+Colette	2
+Cornelia	2
+Cristian	2
+Dacia	2
+Daiana	2
+Dajana	2
+Dalma	2
+Daniella	2
+Danika	2
+Deanna	2
+Desiree	2
+Diane	2
+Dirce	2
+Domiziana	2
+Doretta	2
+Dorica	2
+Dunja	2
+Edera	2
+Edgarda	2
+Edoarda	2
+Edy	2
+Eleanor	2
+Eletta	2
+Elica	2
+Elina	2
+Elisabeta	2
+Elisea	2
+Elke	2
+Ellen	2
+Emanuele	2
+Emanuella	2
+Emilie	2
+Emmanuela	2
+Ermanna	2
+Erna	2
+Esmeralda	2
+Ethel	2
+Etta	2
+Evangelina	2
+Evelin	2
+Evita	2
+Fara	2
+Fiona	2
+Fiora	2
+Flaviana	2
+Frances	2
+Francesca Maria	2
+Francine	2
+Friederike	2
+Gabrielle	2
+Gala	2
+Gerarda	2
+Gerardina	2
+Gerda	2
+Gertraud	2
+Gertrud	2
+Giacomina	2
+Giaele	2
+Giannella	2
+Gilberta	2
+Ginestra	2
+Giorgiana	2
+Gisela	2
+Giuseppe	2
+Glenda	2
+Gudrun	2
+Helene	2
+Hersylia	2
+Hilary	2
+Hilde	2
+Ifeoma	2
+Ilda	2
+Imelda	2
+Ina	2
+Ippolita	2
+Ira	2
+Irena	2
+Irmgard	2
+Isadora	2
+Iskra	2
+Ivanka	2
+Ivanna	2
+Izabella	2
+Jade	2
+Jadranka	2
+Jane	2
+Janet	2
+Jitka	2
+Jocelyn	2
+Jožica	2
+Judit	2
+Juliana	2
+Julie	2
+Julieta	2
+Justine	2
+Jutta	2
+Karina	2
+Karoline	2
+Katiuscia	2
+Katrin	2
+Kiki	2
+Klaudia	2
+Kristen	2
+Kristin	2
+Kristina	2
+Ksenija	2
+Larisa	2
+Leonilde	2
+Leontina	2
+Leopoldina	2
+Leslie	2
+Leticia	2
+Letícia	2
+Liberata	2
+Lietta	2
+Liviana	2
+Loriana	2
+Lotte	2
+Lou	2
+Lucetta	2
+Lucía	2
+Luisanna	2
+Luise	2
+Lyana	2
+Macrina	2
+Maggie	2
+Maja	2
+Malika	2
+Malvina	2
+Margarethe	2
+Margie	2
+Maria Amalia	2
+Maria Amata	2
+Maria Augusta	2
+Maria Benedetta	2
+Maria Bianca	2
+Maria Carolina	2
+Maria Clara	2
+Maria Costanza	2
+Maria Elvira	2
+Maria Enrica	2
+Maria Flavia	2
+Maria Giuseppa	2
+Maria Immacolata	2
+Maria Italia	2
+Maria Luigia	2
+Maria Michela	2
+Maria Novella	2
+María Teresa	2
+Mariacarmela	2
+Mariaelena	2
+Marialucia	2
+Mariasole	2
+Mariela	2
+Marinka	2
+Maruzza	2
+Masha	2
+Massimina	2
+Mattea	2
+Melina	2
+Melita	2
+Menita	2
+Mercédesz	2
+Michella	2
+Mietta	2
+Milan	2
+Milli	2
+Mimosa	2
+Minnie	2
+Mirca	2
+Moana	2
+Monique	2
+Morgana	2
+Nadja	2
+Naike	2
+Nanda	2
+Nastassja	2
+Nausica	2
+Nausicaa	2
+Neda	2
+Nedda	2
+Neera	2
+Nevia	2
+Nike	2
+Nikita	2
+Ninì	2
+Noa	2
+Noemí	2
+Noémi	2
+Oksana	2
+Ol'ga	2
+Oliva	2
+Ondina	2
+Onorina	2
+Oria	2
+Orsina	2
+Oxana	2
+Palmira	2
+Paoletta	2
+Pasqua	2
+Penelope	2
+Petronilla	2
+Pier	2
+Pietrina	2
+Raphaela	2
+Reka	2
+Riccarda	2
+Rino	2
+Rosana	2
+Rosemarie	2
+Rosmarie	2
+Roswitha	2
+Rubina	2
+Saba	2
+Salvina	2
+Samira	2
+Saveria	2
+Sheila	2
+Sibilla	2
+Silia	2
+Sofía	2
+Soraya	2
+Talisa	2
+Tana	2
+Tara	2
+Tatjana	2
+Teodora	2
+Valerie	2
+Vega	2
+Venera	2
+Vida	2
+Viktoria	2
+Viktorija	2
+Vira	2
+Wally	2
+Wendy	2
+Yana	2
+Yoko	2
+Yolanda	2
+Yole	2
+Zeudi	2
+Zhanna	2
+Zina	2
+Živa	2
+Aba
+Abiola
+Abra
+Adachiara
+Adalberta
+Adalinda
+Adalisa
+Adela
+Adelinda
+Adeline
+Adelisa
+Adelita
+Adia
+Adina
+Adine
+Adionilla
+Adji
+Afaf
+Afra
+Agar
+Agáta
+Agatina
+Agda
+Aglae
+Aglaia
+Agnes
+Ágnes
+Agneta
+Agustina
+Aide
+Aidée
+Aina
+Aisling
+Aitana
+Albarica
+Albi
+Alcesti
+Aldesia
+Alearda
+Alenka
+Alexa
+Alexandrina
+Alfonsa
+Alfredina
+Alga
+Algerina
+Ali
+Alide
+Alisa
+Alisia
+Alissa
+Almamaria
+Almerina
+Almut
+Alvisa
+Alyson
+Alyssa
+Amabile
+Amal
+Amalija
+Amaranta
+Amata
+Amber
+Ambrosia
+Amelita
+Amie
+Amilda
+Aminata
+Amneris
+Ana Carolina
+Ana Paula
+Anahi
+Anahid
+Anastasija
+Anastassia
+Ancilla
+André
+Andreana
+Andrée
+Anfisa
+Angélique
+Angheli
+Anica
+Anika
+Anikó
+Anna Antonia
+Anna Clara
+Anna Kuliscioff
+Anna Luisa
+Anna Marie
+Anna Paola
+Anna Sonia
+Anna-Lisa
+Annalia
+Annalina
+Annalucia
+Annantonia
+Annarena
+Annastella
+Anne Marie
+Annelisa
+Annetta
+Annika
+Annina
+Annunciata
+Anouck
+Anselma
+Antilai
+Antinisca
+Antje
+Antoinetta
+Antonieta
+Antonilla
+Anželika
+Anzhelika
+Argia
+Ariadna
+Ariel
+Aristea
+Arjuna
+Arlena
+Arlette
+Armenia
+Arzachena
+Asha
+Asya
+Athina
+Atte
+Attiliana
+Audrey
+Aureliana
+Aurore
+Autilia
+Aviana
+Avrelija
+Awa
+Awosika
+Ayomide
+Ayşe
+Babette
+Balda
+Bambi
+Bärbel
+Barbora
+Bea
+Beata
+Beate
+Bella
+Belle
+Bellina
+Ben
+Benita
+Berardina
+Berenice
+Bernarda
+Bertina
+Betti
+Betty
+Bïa
+Biagia
+Bibi
+Bintou
+Brianna
+Brooke
+Camélia
+Camilia
+Camille
+Candia
+Candy
+Carla Maria
+Carlina
+Carmel
+Carmelo
+Carmencita
+Carmençita
+Cassandra
+Catalina
+Catarina
+Catena
+Caterina-Giovanna
+Catrin
+Catuscia
+Caty
+Caylin
+Céleste
+Celia
+Celine
+Cesara
+Cettina
+Cetty
+Chadia
+Chandra
+Charlène
+Chetro
+Chiara Micol
+Chiarastella
+Chiaretta
+Chloe
+Chloé
+Cia
+Cindy
+Cintia
+Claire
+Cleis
+Clemen
+Clementine
+Cléo
+Cleopatra
+Clinzia
+Cloe
+Cloris
+Concha
+Conchita
+Connie
+Conny
+Constantina
+Coralina
+Cordelia
+Corradina
+Corrado
+Cosmary
+Costantina
+Crescenza
+Crescenzia
+Csaba
+Curzia
+Dafnae
+Daila
+Dala
+Dalide
+Dana
+Danae
+Daniele
+Danièle
+Danna
+Dany
+Daouia
+Daphna
+Daphne
+Daphné
+Dar'ja
+Darija
+Darina
+Darinka
+Darya
+Dayana
+Dayane
+Dea
+Della
+Delma
+Delphina
+Deniz
+Deonilla
+Desirè
+Desireè
+Desirèe
+Deva
+Dharma
+Diamante
+Diandra
+Dianora
+Dijana
+Dil
+Dilada
+Dione
+Divine
+Dominga
+Donia
+Donna
+Doralice
+Dorella
+Dorena
+Dori
+Dorian
+Dory
+Draga
+Dubravka
+Duccia
+Duccio
+Dunia
+Dušana
+Eco
+Edina
+Edit
+Edmonda
+Edoardo
+Edona
+Egea
+Egida
+Egizia
+Eirene
+Eleanora
+Electra
+Elèna
+Elenoire
+Elfriede
+Elia
+Elianora
+Elis
+Élisa
+Elisabet
+Elisiana
+Elissa
+Elivia
+Eliza
+Ella
+Elle
+Ellis
+Elly
+Elodie
+Élodie
+Elody
+Elsbeth
+Elsina
+Eluana
+Elvezia
+Elvi
+Elvia
+Elvinia
+Ely
+Emanuelle
+Emerenziana
+Emeri
+Emidia
+Emilía
+Emília
+Emmina
+Ena
+Enif
+Enus
+Erice
+Erisia
+Erzsébet
+Esa
+Espérance
+Esperia
+Estefanía
+Estella
+Esterina
+Estilla
+Eszter
+Ettorina
+Euride
+Euridice
+Evangelia
+Evangelista
+Eveline
+Évelyne
+Evgenija
+Evila
+Ezelinda
+Ezia
+Fabrizio
+Falchi
+Fani
+Fanika
+Fanni
+Farida
+Fatma
+Faustina
+Febe
+Fedra
+Felicetta
+Feliciana
+Felicina
+Femi
+Ferdinanda
+Feriana
+Ferruccia
+Fetiye
+Fey
+Fida
+Fiorangela
+Fiorisa
+Flaminio
+Flávia
+Floraleda
+Florence
+Florida
+Foscarina
+Fotini
+Franci
+Franciska
+Frederike
+Frieda
+Fucsia
+Gabi
+Gaby
+Gaëlle
+Gaetanina
+Galatea
+Galdina
+Geltrude
+Gena
+Gennarina
+Genny
+Georgina
+Georgine
+Geraldina
+Germaine
+Gerti
+Gevisa
+Gia
+Giacomella
+Giacomo
+Giampiera
+Giana
+Gianantonio
+Giannapia
+Giannetta
+Gianpaola
+Gigetta
+Giglia
+Gila
+Ginette
+Gini
+Giò
+Giorgio
+Giosetta
+Giovambattista
+Giovannina
+Girolama
+Gitta
+Giulianella
+Giusella
+Giusta
+Gizela
+Gladia
+Gledis
+Glelany
+Glòria
+Gloriana
+Goretta
+Grace
+Graciela
+Graziamaria
+Grazietta
+Grażyna
+Gretchen
+Grete
+Gretel
+Gretha
+Gritta
+Guadalupe
+Gualda
+Guerriera
+Guidetta
+Guidina
+Gulia
+Gundi
+Guya
+Haia
+Halina
+Hazel
+Hedda
+Hedi
+Hedvig
+Helen
+Hélène
+Helle
+Henriete
+Herma
+Hilda
+Honey
+Hovirag
+Huda
+Hugo
+I-jin
+Iari
+Idelma
+Idina
+Iduna
+Ifigenia
+Igiaba
+Ildegarda
+Ildegarde
+Ildikó
+Ilene
+Ilia
+Ilide
+Ilvana
+Ilze
+Ima
+Imane
+Imelde
+Immaculata
+Imperiera
+Incoronata
+Indre
+Inés María
+Inge
+Ingeborg
+Inna
+Ioli
+Ione
+Ionela
+Iréne
+Iride
+Isaline
+Iska
+Isobel
+Isolde
+Isolina
+Iulia
+Ivan
+Ivanne
+Ivy
+Izabel
+Jacky
+Jadwiga
+Jaele
+Jagoda
+Jami
+Janina
+Janine
+Janira
+Januaria
+Jarmila
+Jasmin
+Jasna
+Javotte
+Jeannette
+Jelica
+Jenifer
+Jenna
+Jinny
+Joan
+Joelle
+Joey
+Jolena
+Jordan
+José
+Josefa
+Joselita
+Josepha
+Joséphine
+Josiane
+Josipina
+Juana
+Juanita
+Judita
+Juliane
+Julija
+July
+Jun
+Kally
+Kára
+Karima
+Karine
+Karla
+Karola
+Karole
+Kashetu
+Katalin
+Katarina
+Katarína
+Katarzyna
+Kateřina
+Katherine
+Katya
+Katyna
+Katyuscia
+Kay
+Kayla
+Kety
+Kim
+Kiri
+Klara
+Krista
+Kwanza
+Kylie
+Laeticia
+Laetitia
+Laia
+Laryssa
+Laudomia
+Laurana
+Laureana
+Laurentia
+Laurentina
+Layla
+Léa
+Leana
+Leandra
+Leandrina
+Lélia
+Léna
+Leonie
+Léonie
+Lerina
+Levi
+Libania
+Lidija
+Lieselotte
+Lighea
+Lila
+Liletta
+Lili
+Liliosa
+Lilith
+Lionella
+Lis
+Liselotte
+Liuba
+Lívia
+Liviya
+Liz
+Ljudmilla
+Loana
+Lojzka
+Lolita
+Lora
+Lore
+Loren
+Loreta
+Loretana
+Lori
+Lorraine
+Lotti
+Lourdes
+Loveth
+Luba
+Lučana
+Luchina
+Lucia Maria
+Lucianna
+Lucietta
+Lucinda
+Lucinia
+Lučka
+Lucrecia
+Luigi
+Luminosa
+Lunella
+Lunetta
+Lya
+Lycia
+Lynne
+Mabel
+Macarena
+Madel
+Madia
+Mado
+Maela
+Maëlle
+Magali
+Maggiorina
+Magnolia
+Magui
+Maide
+Maïmouna
+Majdouline
+Malca
+Mammola
+Man
+Manola
+Manon
+Marah
+Marc
+Marcelina
+Marcelle
+Marcia
+Maree
+Maren
+Maresita
+Margret
+Mária
+Maria Adele
+Maria Adriana
+Maria Agata
+Maria Angela
+Maria Antonia
+Maria Armanda
+Maria Aurora
+Maria Barbara
+Maria Bastiana
+Maria Brigida
+Maria Bruna
+Maria Carmen
+Maria Carmenta
+Maria Celeste
+Maria Clelia
+Maria Consiglia
+Maria Cristiana
+Maria da Graça
+María de las Mercedes
+Maria Dolores
+Maria Edgarda
+María Elisa
+Maria Emilia
+Maria Eugenia
+María Eugenia
+Maria Federica
+Maria Fernanda
+Maria Filippa
+Maria Fiore
+Maria Flora
+Maria Fosca
+Maria Gabriela
+Maria Gilda
+Maria Ignazia
+Maria Ildegarde
+Maria Ines
+Maria Itala
+Maria Jole
+María José
+Maria Josepha
+Maria Katja
+María Laura
+Maria Leonarda
+Maria Licia
+Maria Lidia
+Maria Linda
+Maria Lisa
+Maria Lodovica
+Maria Lorenza
+Maria Ludovica
+María Luisa
+Maria Matilde
+Maria Monica
+Maria Nevilla
+Maria Oliva
+Maria Onorina
+Maria Penelope
+Maria Perla
+Maria Pietronilla
+Maria Raffaella
+Maria Rigel
+Maria Romana
+Maria Rosalba
+Maria Stefania
+Maria Tommasa
+Maria-Beatrice
+Maria-Laura
+Maria-Luisa
+MariaAntonia
+Mariacarla
+Mariaclara
+Mariaconcetta
+Mariadelaide
+Mariadomenica
+Mariaevelina
+Mariafelicia
+Mariafilomena
+Mariafrancesca
+Mariagabriella
+Mariagiorgia
+Mariagiulia
+Mariagnese
+Marialba
+Marialibera
+Marialisa
+Marialuigia
+Mariam
+Mariamelia
+Marian
+Mariane
+Mariannita
+Mariantonia
+Mariapompea
+Mariarenata
+Mariarita
+Mariavaleria
+Marichela
+Marie-Françoise
+Marie-Louise
+Marielisa
+Marietta
+Marilda
+Marilde
+Marilì
+Marilyn
+Marine
+Mariny
+Mario
+Marit
+Marivana
+Mariza
+Marja
+Marjorie
+Marla
+Marlen
+Marlena
+Marlene
+Marlisa
+Marte
+Marva
+Mary Anne
+Maryam
+Marylène
+Marzena
+Massima
+Massimiliana
+Massimilla
+Massimo
+Matejka
+Mattia
+Maud
+Maureen
+Maurella
+Maurina
+Maurizio
+Mavi
+Mavie
+May
+Maybritt
+Mayra
+Meganne
+Megumi
+Melani
+Mélanie
+Melinda
+Melisa
+Meme
+Mercede
+Merete
+Merit
+Michael
+Michaelangiola
+Michelangela
+Midori
+Miki
+Milagros
+Milica
+Milla
+Milva
+Mimi
+Mimmi
+Mini
+Mira
+Mirena
+Miretta
+Mireya
+Miria
+Miriam Rita
+Mirian
+Miriana
+Mirjam
+Mirna
+Miroslava
+Mirza
+Mita
+Mite
+Mitzi
+Miuccia
+Modesta
+Momo
+Momolina
+Mónica
+Morella
+Myrta
+Nadeesha
+Nadir
+Nadiyah
+Nadya
+Naila
+Nana
+Naomi
+Narcisa
+Natacha
+Natalija
+Nathania
+Nazarena
+Nazzarena
+Neja
+Nela
+Nelida
+Nelli-Elena
+Nellina
+Nena
+Nera
+Nereide
+Neria
+Neris
+Nica
+Nicolai
+Nicolina
+Nicosetta
+Nidia
+Nika
+Niki
+Nikki
+Nikol
+Nikoleta
+Nilsine
+Ninetta
+Nini
+Ninina
+Nino
+Nirvana
+Niva
+Noha
+Norah
+Nori
+Nory
+Noura
+Nunu
+Nunziatina
+Nuria
+Nydia
+Nynfa
+Octavia
+Oleandra
+Oleksandr
+Olena
+Omaima
+Orchidea
+Oretta
+Ori
+Oriane
+Oriella
+Orsolina
+Orsolya
+Osanna
+Ottonella
+Ottorina
+Paco
+Paloma
+Panfilia
+Paolo
+Pasquarosa
+Pat
+Patty
+Pauline
+Peppi
+Philomena
+Pierangelo
+Pierluigi
+Pietra
+Pietro
+Pinetta
+Pirkko
+Plautilla
+Pompea
+Porpora
+Prassede
+Primarosa
+Prosperina
+Pura
+Rachel
+Rada
+Rae
+Rafaela
+Raffaele
+Raffaelina
+Raina
+Rajka
+Rania
+Rausy
+Rawia
+Rebekka
+Renae
+Resi
+Ria
+Rica
+Ricciarda
+Ritamaria
+Ritanna
+Ritza
+Robertina
+Roberto
+Rodolfo
+Rolla
+Romaine
+Rosabianca
+Rosalda
+Rosalía
+Rosalina
+Rosamartina
+Rosanina
+Roselina
+Rosi
+Rossa
+Rosy
+Roxana
+Roxanne
+Rula
+Rut
+Sacha
+Saffo
+Sahara
+Saida
+Salvatore
+Salvatorica
+Salvatrice
+Samaritana
+Samya
+Sandrina
+Sanela
+Sanja
+Santuzza
+Sara Eco
+Saretta
+Sasha
+Saška
+Saula
+Savina
+Savita
+Scolastica
+Sebastiano
+Secondina
+Selma
+Semira
+Semire
+Serenita
+Settimia
+Sevgi
+Shaila
+Shaira
+Shams
+Shania
+Shari
+Shazia
+Shelly
+Sherin
+Sheyla
+Shira
+Shirin
+Sibyl
+Siddhartha
+Sidorela
+Siegrid
+Sierra
+Sigrid
+Silene
+Silke
+Silvestra
+Silvina
+Sira
+Siriana
+Sirine
+Sista
+Sistiana
+Sistina
+Sita
+Smeralda
+Smilla
+Soave
+Soccorsa
+Sofiia
+Sole
+Soleil
+Solidea
+Solveig
+Solvejg
+Sondra
+Sonig
+Sotera
+Souad
+Souzan
+Stamatia
+Stana
+Stefanella
+Steliana
+Stéphanie
+Stevka
+Susi
+Suzanne
+Swamy
+Sybil
+Sydne
+Sydney
+Sylva
+Syria
+Tahnee
+Taina
+Talia
+Talita
+Tamar
+Tamiko
+Tanya
+Tarita
+Tarquinia
+Tathiana
+Taylor
+Tekla
+Teresilla
+Tereza
+Terezina
+Terryana
+Tess
+Thaira
+Therese
+Thereza
+Tihana
+Tijana
+Tita
+Titta
+Tonina
+Tony
+Topazia
+Tori
+Touria
+Tracey
+Tracy
+Trebisonda
+Tressa
+Trisha
+Tuscia
+Tyra
+Ubaldina
+Uga
+Uliana
+Ulli
+Umberta
+Una
+Urania
+Urbana
+Valbona
+Valerià
+Valéria
+Valérie
+Valerija
+Valery
+Valesca
+Valia
+Valnea
+Vanesa
+Vannetta
+Vannia
+Velise
+Velleda
+Venere
+Verita
+Verónica
+Veronique
+Vicki
+Vicky
+Victorina
+Vija
+Viktória
+Viktoriya
+Vincenzo
+Vini
+Vinzia
+Violaine
+Violeta
+Violette
+Virgilia
+Virginie
+Vissia
+Vitulia
+Viveca
+Vivetta
+Vivi
+Vivian
+Viviane
+Vivienne
+Vivina
+Vladimir
+Walkiria
+Wandisa
+Wendel
+Wera
+Wilhelmine
+Winni
+Xandra
+Yanina
+Yara
+Yasemin
+Yasmine
+Yelena
+Yllka
+Ylva
+Yoshiko
+Yu Yu
+Yuki
+Yura
+Yuriko
+Yvana
+Zahira
+Zahra
+Zanetta
+Zaynab
+Zelia
+Zelina
+Zena
+Zenia
+Zimi
+Zlata
+Zubaydah
+Łucja

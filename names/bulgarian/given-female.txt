@@ -1,0 +1,557 @@
+Maria	66
+Elena	64
+Mariana	38
+Daniela	32
+Anna	29
+Milena	28
+Vera	28
+Maya	27
+Desislava	26
+Teodora	26
+Mariya	25
+Petya	25
+Valentina	25
+Nadezhda	24
+Margarita	23
+Yordanka	23
+Ekaterina	22
+Rositsa	21
+Dora	20
+Raina	20
+Stefka	18
+Galina	17
+Kristina	17
+Lyudmila	17
+Irina	16
+Nina	16
+Svetlana	16
+Yelena	16
+Albena	15
+Ana	15
+Gabriela	15
+Tsvetelina	15
+Evgenia	14
+Gergana	13
+Mara	13
+Aleksandra	12
+Anastasiya	12
+Ivanka	12
+Olga	12
+Penka	12
+Simona	12
+Sofia	12
+Violeta	12
+Antoaneta	11
+Irena	11
+Lidiya	11
+Lora	11
+Mihaela	11
+Viktoriya	11
+Monika	10
+Adriana	9
+Christina	9
+Emilia	9
+Iliana	9
+Julia	9
+Lilyana	9
+Marija	9
+Nevena	9
+Vesela	9
+Aneliya	8
+Anka	8
+Antonina	8
+Bistra	8
+Catherine	8
+Emiliya	8
+Eva	8
+Katya	8
+Magdalena	8
+Milka	8
+Pavlina	8
+Radostina	8
+Rosa	8
+Rumyana	8
+Svetla	8
+Vania	8
+Dobrinka	7
+Eugenia	7
+Ina	7
+Iskra	7
+Iva	7
+Kalina	7
+Mila	7
+nerea	7
+Radka	7
+Ralitsa	7
+Silvia	7
+Sonya	7
+Zhanna	7
+Eleonora	6
+Elitsa	6
+Elizabeth	6
+Ivana	6
+Ivelina	6
+Magda	6
+Marina	6
+Mina	6
+Natalia	6
+Sonia	6
+Tsvetana	6
+Veronika	6
+Aneta	5
+Antonia	5
+Darya	5
+Dimitrinka	5
+Elka	5
+Evelina	5
+Galya	5
+Katia	5
+Katja	5
+Katrin	5
+Liliana	5
+Liuba	5
+Mimi	5
+Mira	5
+Nadia	5
+Nora	5
+Paraskeva	5
+Polina	5
+Snezhina	5
+Tania	5
+Tanja	5
+Todorka	5
+Vanya	5
+Vasilka	5
+Velislava	5
+Veneta	5
+Yuliya	5
+Zlatka	5
+Zornitsa	5
+Alexandra	4
+Asya	4
+Boriana	4
+Borislava	4
+Boryana	4
+Denitsa	4
+Emma	4
+Fani	4
+Inna	4
+Jana	4
+Katerina	4
+Kristin	4
+Laura	4
+Lidia	4
+Margaret	4
+Miroslava	4
+Nadja	4
+Olya	4
+Paulina	4
+Stefani	4
+Tatiana	4
+Tsvetanka	4
+Victoria	4
+Vyara	4
+Yana	4
+Aksiniya	3
+Angelina	3
+Ani	3
+Anita	3
+Anzhela	3
+Biliana	3
+Biljana	3
+Bogdana	3
+Bonka	3
+Delyana	3
+Evdokiya	3
+Hristiana	3
+Joana	3
+Joanna	3
+Lena	3
+Liana	3
+Liliya	3
+Lina	3
+Lisa	3
+Lydia	3
+Magdalina	3
+Malina	3
+Manuela	3
+Michelle	3
+Nedyalka	3
+Nikoleta	3
+Nona	3
+Petia	3
+Rada	3
+Renata	3
+Reni	3
+Rumiana	3
+Slavena	3
+Slavka	3
+Tonka	3
+Tsveta	3
+Vangeliya	3
+Vanja	3
+Vela	3
+Yanka	3
+Zoya	3
+Anna-Maria	2
+Betina	2
+Binka	2
+Bisera	2
+Bojana	2
+Darina	2
+Denica	2
+Denka	2
+Dilyana	2
+Dina	2
+Dolores	2
+Donka	2
+Dzhena	2
+Elina	2
+Elisabeth	2
+Elisaveta	2
+Emanuela	2
+Emel	2
+Ewelina	2
+Filipa	2
+Galia	2
+Gina	2
+Gloria	2
+Greta	2
+Ida	2
+Ilka	2
+Irene	2
+Iveta	2
+Izabela	2
+Jeanne	2
+Jordanka	2
+Juliana	2
+Juliya	2
+Kina	2
+Klara	2
+Klio	2
+Lalka	2
+Lea	2
+Lili	2
+Lilia	2
+Lilija	2
+Lily	2
+Linda	2
+Ljudmila	2
+Lubomira	2
+Lyubomira	2
+Mariela	2
+Marta	2
+Matilda	2
+Mirela	2
+Neli	2
+Nelly	2
+Neva	2
+Nikol	2
+Petrana	2
+Radmila	2
+Rozalia	2
+Ruska	2
+Selma	2
+Silva	2
+Silvana	2
+Snežana	2
+Sonja	2
+Sophia	2
+Stanimira	2
+Stanislava	2
+Stefania	2
+Stela	2
+Stella	2
+Svoboda	2
+Sylvia	2
+Tamara	2
+Tereza	2
+Theo dors là	2
+Tinka	2
+Totka	2
+Venera	2
+Vesa	2
+Vesselina	2
+Viktoria	2
+Virginia	2
+Yeva	2
+Yevdokiya	2
+Zdravka	2
+Zhulieta	2
+Zorka	2
+Adela
+Adelina
+Adlen
+Afrodita
+Aglaia
+Aksinia
+Aleksa
+Alex
+Alexandrina
+Alexandrova
+Aliaksandra
+Alison
+Alissa
+Alma
+Amalia
+Amaliya
+Amira
+Ana María
+Anastasia
+Andelina
+Andriana
+Anelia
+Anife
+Anina
+Antonija
+Antoniya
+Anushka
+Anya
+Asena
+Atanaska
+Aysel
+Ayşenur
+Bianca
+Bianka
+Blaga
+Bogdan
+Bogdanka
+Bojka
+Boris
+Borjana
+Boya
+Božidara
+Branimira
+Brunilda
+Carla
+Chiara
+Claudia
+Cornelia
+Cristal
+Daisy
+Dakota
+Dalia
+Dália
+Dani
+Danila
+Dara
+Darinka
+Dea
+Deborah
+Deliana
+Dessislava
+Deyana
+Dia
+Dimitria
+Dimitrichka
+Dimitriika
+Dorita
+Doroteia
+Dorothea
+Dragomira
+Ece
+Eda
+Edit
+Efrosina
+Eleni
+Eleonore
+Eliana
+Elis
+Eliza
+Elvira
+Ema
+Emilija
+Erika
+Erten
+Filiz
+Flore
+Francisca
+Ghena
+Giovanna
+Gita
+Goritsa
+Gülsim
+Gyurga
+Helena
+Helene
+Henrieta
+Hilda
+Hristina
+Hristomira
+Iglika
+Ilza
+İmren
+Indira
+Ira
+Iris
+Isabella
+Iwa
+Jacqueline
+Janina
+Jenny
+Julija
+Justine
+Kadriye
+Kalinka
+Kaloyana
+Kamelia
+Karin
+Karina
+Karolin
+Karolina
+Klavdiya
+Korneliya
+Krasimira
+Kremena
+Kristalina
+Kristen
+Kristiana
+Květa
+Lada
+Larisa
+Leda
+Leonora
+Lia
+Lidija
+Liya
+Ljuba
+Lorena
+Lorina
+Lotte
+Louise
+Lucia
+Lucy
+Luisa
+Luise
+Lyoubomira
+Lyubov
+Madlen
+Madlena
+Maja
+Malena
+Manya
+Marcelle
+Margita
+Margret
+María del Rosario
+Maria Luisa
+Marietta
+Marijana
+Marika
+Marinela
+Mariola
+Márta
+Mary
+Melis
+Meltem
+Mia
+Michaela
+Mikaela
+Militsa
+Mirolyuba
+Miroslawa
+Nadiya
+Najwa
+Nansi
+Natalie
+Nataliia
+Nataliya
+Nedelya
+Nedret
+Neri
+Nica
+Nicole
+Nika
+Nikita
+Nikolina
+Noelle
+Nuriye
+Oda
+Olimpia
+Pamela
+Paola
+Parashkeva
+Paula
+Pelahiia
+Pepa
+Poli
+Pravoslava
+Rachel
+Radina
+Radoslava
+Radost
+Ralya
+Raya
+Rayna
+Rita
+Rositza
+Rozita
+Ruth
+Sabina
+Sanem
+Sarah
+Sasha
+Savely
+Sesil
+Sevda
+Sevdalina
+Sibela
+Sílvia
+Slava
+Snejina
+Snezhana
+Sofi
+Sonija
+Sophie
+Stanisława
+Stanka
+Stefana
+Stefanie
+Stefaniia
+Stefany
+Stephanie
+Stiliana
+Sultana
+Suzana
+Sylvie
+Tanya
+Tea
+Temenuzhka
+Teodóra
+Teodorina
+Thea
+Tina
+Tsenka
+Tsvetina
+Tzebete
+Uliana
+Valerie
+Vaska
+Vassia
+Veli
+Verka
+Veselina
+Viktorija
+Vilma
+Viola
+Vivian
+Vlada
+Vladislava
+Wera
+Wioleta
+Yaneva
+Yaroslava
+Yiota
+Yoana
+Yoanna
+Yonne
+Yulia
+Zaharina
+Zara
+Zdenka
+Zefira
+Zhivka
+Zinaida
+Zoja
+Zorica
+Zornitza

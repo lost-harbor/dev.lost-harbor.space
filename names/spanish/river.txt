@@ -1,0 +1,3096 @@
+Salado	35
+Vega	27
+Grande	25
+Valle	17
+Santa María	13
+Tamujoso	13
+Molinos	11
+Seco	11
+Dehesa	9
+Frío	9
+Hoz	9
+Madre	9
+Tamujar	8
+Nava	7
+Parrilla	7
+San Juan	7
+San Pedro	7
+Batán	6
+Prados	6
+Rivera	6
+Venta	6
+Verde	6
+Cañada	5
+Cerezo	5
+Chico	5
+Gato	5
+Hondo	5
+Molinillo	5
+Moro	5
+Sotillo	5
+Álamo	4
+Blanco	4
+Cañamares	4
+Cañas	4
+Cubillo	4
+Cueva	4
+Cuevas	4
+Fresneda	4
+Garganta	4
+Higuerón	4
+Horcajo	4
+Mayor	4
+Mijares	4
+Pequeno	4
+Pequeño	4
+Pontón	4
+Puerco	4
+Santos	4
+Vegas	4
+Viejo	4
+Alhama	3
+Arenoso	3
+Bañuelos	3
+Caballo	3
+Cantarranas	3
+Casas	3
+Castillo	3
+Castro	3
+Chorro	3
+Cubo	3
+Don Gil	3
+Frailes	3
+Fuensanta	3
+Fuente	3
+Fuente Vieja	3
+Gargantilla	3
+Guadarranque	3
+Henar	3
+Jara	3
+Linares	3
+Magdalena	3
+Manzanares	3
+Mao	3
+Molina	3
+Moraleja	3
+Moros	3
+Navas	3
+Negro	3
+Pajares	3
+Parroso	3
+Pedro	3
+Pedroso	3
+Porto	3
+Pradillo	3
+Raya	3
+Real	3
+Retortillo	3
+Rey	3
+Ribera	3
+Robledillo	3
+Saladillo	3
+Saltillo	3
+San Miguel	3
+Santiago	3
+Sequillo	3
+Términos	3
+Torres	3
+Truchas	3
+Tuerto	3
+Val	3
+Valdefuentes	3
+Víbora	3
+Villa	3
+Villar	3
+Viñuelas	3
+Agrio	2
+Alameda	2
+Álamos	2
+Albanchez	2
+Alberite	2
+Albuera	2
+Algarrobo	2
+Amarguillo	2
+Arandilla	2
+Ardales	2
+Arroio da Ribeira	2
+Assureira	2
+Astillero	2
+Atalaya	2
+Avellanar	2
+Avión	2
+Balsa	2
+Bárcena	2
+Barranco	2
+Barranco de la Hoz	2
+Barranco del Agua	2
+Barranco del Infierno	2
+Bejarano	2
+Bermejo	2
+Bodión	2
+Boedo	2
+Bonilla	2
+Bosque	2
+Brazo de la Torre	2
+Bubal	2
+Cabañas	2
+Cabra	2
+Cabrera	2
+Camba	2
+Cambrones	2
+Cañada Honda	2
+Canaleja	2
+Canchal	2
+Carboneras	2
+Carpio	2
+Casal	2
+Casillas	2
+Cea	2
+Chozas	2
+Ciruelos	2
+Concejo	2
+Corbones	2
+Couso	2
+Cubilar	2
+Cueza	2
+Culebras	2
+Dehesilla	2
+Deva	2
+el Boix	2
+el Llobregat	2
+el Ter	2
+Escorial	2
+Ferreira	2
+Fraga	2
+Fragoso	2
+Fresnedoso	2
+Fresno	2
+Fuentes	2
+Galapagar	2
+Gallego	2
+Gállego	2
+Gamonal	2
+Garona	2
+Granada	2
+Guadahortuna	2
+Guadalbarbo	2
+Guadalefra	2
+Guadalentín	2
+Guareña	2
+Helechoso	2
+Henares	2
+Herrerías	2
+Herreros	2
+Higuera	2
+Horcajos	2
+Huertas	2
+Isuela	2
+Jalón	2
+Judío	2
+Labrada	2
+Lobo	2
+Lobos	2
+Louro	2
+Lugar	2
+Madera	2
+Madroñal	2
+Maillo	2
+Manzano	2
+Marchenilla	2
+Matilla	2
+Matriz	2
+Mediano	2
+Membrillo	2
+Mera	2
+Mesta	2
+Miel	2
+Molino	2
+Monjas	2
+Moral	2
+Morales	2
+Moreras	2
+Morisco	2
+Morón	2
+Mulas	2
+Odra	2
+Ojuelo	2
+Omecillo	2
+Oro	2
+Ortiga	2
+Palancar	2
+Palomero	2
+Parada	2
+Parra	2
+Payo	2
+Peces	2
+Peña	2
+Perales	2
+Piedra	2
+Piedras	2
+Pilas	2
+Pinar	2
+Piojo	2
+Piqueras	2
+Poveda	2
+Pozas	2
+Pozo	2
+Pozuelo	2
+Prado	2
+Puebla	2
+Quejigal	2
+Quejigo	2
+Quintanar	2
+Rambla Salada	2
+Regato	2
+Reguera	2
+Revilla	2
+riu Núria	2
+Rivera de los Molinos	2
+Rivera del Villar	2
+Rojo	2
+Romera	2
+Salar	2
+Salón	2
+San Andrés	2
+San Cristóbal	2
+San Francisco	2
+San Julián	2
+Segura	2
+Sella	2
+Serpis	2
+Solana	2
+Sosa	2
+Soto	2
+Tejada	2
+Tejadilla	2
+Tejar	2
+Tejas	2
+Tera	2
+Tinte	2
+Tinto	2
+Tocón	2
+Toconar	2
+Toriles	2
+Torrejón	2
+Tortillo	2
+Umbría	2
+Urbión	2
+Vadillo	2
+Valdecañas	2
+Valdeinfierno	2
+Valdejudíos	2
+Valdelagrana	2
+Valladares	2
+Valseco	2
+Vaquero	2
+Vélez	2
+Vendoval	2
+Víboras	2
+Vid	2
+Xévora	2
+Yedra	2
+Yeguas	2
+Zorita	2
+Abades
+Abedes
+Abejón
+Abejuela
+Abella
+Abelleira
+Abioncillo
+Ablanquejo
+Abroñigal
+Abuín
+Acebrón
+Acebuchal
+Acheiro
+Aciscar
+Acueducto
+Adaja
+Adelfa
+Adjuntos
+Adra
+Adrroyo de Ponte Nova
+Agadón
+Agadones
+Agres
+Agro
+Agua
+Aguaderilla
+Agualora
+Aguamía
+Aguamulas
+Aguanal
+Aguas
+Aguas Blancas
+Aguas Limpias
+Aguascebas Chico
+Aguascebas Grande
+Aguasvivas
+Agudo
+Agüeira
+Agüera
+Aguijón
+Águila
+Aguilón
+Aguisejo
+Aguzadera
+Ahio
+Ahogaborricos
+Ahogarratones
+Aigua de Valls
+Alagón
+Alamedal
+Alamedilla
+Alaminos
+Albadalejo
+Albahacar
+Albaida
+Albalá
+Albalate
+Albardado
+Albardana
+Albarrega
+Alberche
+Albercos
+Albuñuelas
+Alburrel
+Alcalá
+Alcalfe
+Alcanadre
+Alcañizo
+Alcantud
+Alcarayón
+Alcaraz
+Alcazaba
+Alcazabilla
+Alchozasa
+Alcobilla
+Alcolea
+Alcollarín
+Alcóntar
+Alcubillete
+Alcudia
+Aldehuela
+Aldobara Honda
+Aldobareta
+Aldobarilla
+Alén
+Alfambra
+Alfonso
+Alforzo
+Algar
+Algarbe
+Algarín
+Algarra
+Algodor
+Alhambra
+Alhándiga
+Aliaga
+Aliende
+Aliseda
+Aliserilla
+Aliste
+Aljama
+Aljaraque
+Aljucén
+Aller
+Almachar
+Almachares
+Almagrero
+Almanzora
+Almar
+Almarchal
+Almigonde
+Almodabara
+Almodóvar
+Almofrei
+Almonte
+Alocaz
+Alpartir
+Alpotrel
+Alpuébrega
+Alquería
+Altarejos
+Altube
+Amadorio
+Amarguilla
+Ampudia
+Añales
+Añamaza
+Añarbe
+Ancares
+Anchuelo
+Anchuras
+Andarax
+Andilucha
+Andresillo
+Ángel
+Ángeles
+Angorrilla
+Anguijón
+Anguilas
+Ánimas
+Anllóns
+Antas
+Anzur
+Ara
+Arabell
+Aragón
+Aragón Subordán
+Aranda
+Arandos
+Aranzuelo
+Araquil
+Aravalle
+Araviana
+Araxes
+Arazas
+Arba
+Arba de Biel
+Arba de Luesia
+Arbaiguito
+Arbancón
+Arbillas
+Arbuniel
+Arcos
+Ardachón
+Arenal
+Arenales
+Arenosillo
+Arenteiro
+Arevalillo
+Arga
+Argallón
+Argaño
+Argañoso
+Arganza
+Argos
+Arija
+Arisgotas
+Arlanza
+Arlanzón
+Arlas
+Arnego
+Arnoya
+Arochete
+Arquillo
+Árrago
+Arrocampo
+Arroio da Oraña de Ameneiro
+Arrollo del Villar
+Arróns
+Arroyovil
+Arteixo
+Artibai
+Artiñuelo
+Arto
+Artziniega
+Arzoá
+Arzobispo
+Asabon
+Asín
+Asma
+Asneiro
+Asno
+Asón
+Asua
+Audaza
+Aulencia
+Aullo
+Auñón
+Aurín
+Ausines
+Avellaneda
+Averno
+Avia
+Ayuda
+Ayuela
+Az
+Azanaque
+Azuer
+Azúmara
+Baá
+Bacarés
+Baia
+Bailón
+Bajarones
+Bajo
+Bajoz
+Balado
+Balartias
+Baldriz
+Balisa
+Ballesteros
+Ballinar
+Balneria
+Balozano
+Bálsamo
+Bamba
+Baños
+Bañuelo
+Baos
+Barada
+Barbacal
+Barbacena
+Barbadun
+Barbaña
+Barbantiño
+Barbanza
+Barbaón
+Barbaoncillo
+Barbate
+Barbeira
+Barbellido
+Barbera
+Barcala
+Barcés
+Barchell
+Barcheta
+Barcia Longa
+Barcience
+Bardal
+Bardoso
+Bargo
+Barja
+Barquero
+Barragán
+Barranc d'Esplugafreda
+Barranc de Coma de Vacas
+Barranc de l'Argentera
+Barranc de la Vall
+Barranc de les Ortogues
+Barranc de Peranera
+Barranc de Sant Magí
+Barranc del Molí del Pubill
+Barranc del Pont
+Barranc del Pont d'Erta
+Barranc Sec
+Barranco da Loba
+Barranco de Agua Larga
+Barranco de Aguas Buenas
+Barranco de Allabacal
+barranco de Anas
+Barranco de Bacamorta
+Barranco de Ballibierna
+Barranco de Barbaruens
+Barranco de Barranquer
+Barranco de Berasti
+Barranco de Campo de Rey
+Barranco de Caregné
+Barranco de Castro
+Barranco de Cervera
+Barranco de Comas de Maldá
+Barranco de Compte
+Barranco de Delqué
+Barranco de Dos Torres
+Barranco de Durón
+Barranco de Entrefort
+Barranco de Forés
+Barranco de Garnafate
+Barranco de Greixa
+Barranco de Guíndano
+Barranco de Juan Gotera
+Barranco de L'Ull L'Asma
+Barranco de la Chacoca
+Barranco de la Cuenca
+Barranco de la Extremedera
+Barranco de la Font del Aliga
+Barranco de la Fuenfría
+Barranco de la Garona
+Barranco de la Mata
+Barranco de la Parra
+Barranco de la Tosquilla
+Barranco de la Truchela
+Barranco de la Veguilla
+Barranco de las Azadillas
+Barranco de las Murtiguillas
+Barranco de las Sierpes
+Barranco de las Vacas
+Barranco de Llebreta
+Barranco de Lobras
+Barranco de los Álamos
+Barranco de los Azares
+Barranco de los Bastanes
+Barranco de los Cubos
+Barranco de los Hierros
+Barranco de los Moriscos
+Barranco de los Pozos
+Barranco de los Tejos
+Barranco de Montsant
+Barranco de Novés
+Barranco de Olid
+Barranco de Orés
+Barranco de Pinarets
+Barranco de Piniés
+Barranco de Pirro
+Barranco de Ponquerisa
+Barranco de Prado Redondo
+Barranco de Racas
+Barranco de Rané
+Barranco de Riscos Pardos
+Barranco de San Julián
+Barranco de San Vicente
+Barranco de Serradillo
+Barranco de Topete
+Barranco de Triste
+Barranco de Umbrizo
+Barranco de Val
+Barranco de Valdabra
+Barranco de Valdaricus y Villalba
+Barranco de Valdecanales
+Barranco de Valdecristo
+Barranco de Valdesotella
+Barranco de Valdiello
+Barranco de Vega Lucera
+Barranco de Vila
+Barranco de Víu
+Barranco del Acebuche
+Barranco del Arch
+Barranco del Arlo
+Barranco del Aserador
+Barranco del Barcal
+Barranco del Beso
+Barranco del Boquerón
+Barranco del Burro
+Barranco del Cucharero
+Barranco del Currucán
+Barranco del Escorial
+Barranco del Estrecho
+Barranco del Fresno
+Barranco del Gallego
+Barranco del Horcajo
+Barranco del Mas de Arcos
+Barranco del Monasterio
+Barranco del Mulato
+Barranco del Mulo
+Barranco del Origuillo
+Barranco del Peral
+Barranco del Pueblo
+Barranco del Regajo
+Barranco del Renegado
+Barranco del Saladillo
+Barranco del Torcilo
+Barranco del Toro
+Barranco del Trueno
+Barranco del Turull
+Barranco del Val del Agua
+Barranco del Villar
+Barranco el Cuibas
+Barranco Gonzalo
+Barranco Hondo
+Barranco Hornillos
+Barranco Induzi
+Barranco la Frenera
+Barranco La Rambla
+Barranco Loya
+Barranco Malo
+Barranco Ríofrío
+Barranco Santiago
+Barranco Valtrimuñoz
+Barrancos
+Barrancoso
+Barrio
+Barrios
+Basa
+Batuecas
+Baxoi
+Bayas
+Bayones
+Bayoto
+Bayubas
+Bayuelo
+Beas
+Beato
+Beba
+Becea
+Beceda
+Becedas
+Becedillas
+Bedija
+Bedmar
+Bedón
+Béjar
+Belagua
+Belbis
+Belelle
+Bellfort
+Beloy
+Bembézar
+Benajarafe
+Benajima
+Benalup
+Benamor
+Benaras
+Benavente
+Benavota
+Benazaire
+Benquerencia
+Benuza
+Benzú
+Berbellido
+Bercho
+Berciana
+Berco
+Bergantes
+Berlana
+Bermaña
+Bernabé
+Bernal
+Bernesga
+Bernuza
+Berzocana
+Besaya
+Besteburiz
+Bibey
+Bidasoa
+Blancos
+Bocatinajas
+Bodega
+Bodión Chico
+Bodón
+Boente
+Boeza
+Bogarra
+Boixero
+Bombas
+Bonagil
+Bonhabal
+Boquerón
+Boquerón del Rivero
+Borbén
+Bordón
+Bornova
+Borosa
+Borox
+Borrachuelo
+Borriol
+Bosqueral
+Bota
+Botafuegos
+Botella
+Botijas
+Botoz
+Bouzas
+Brácana
+Bragadas
+Brama
+Brandelos
+Bravos
+Brazo de los Jerónimos
+Brazo del Este
+Brazomar
+Brea
+Brecial
+Breja
+Bretónica
+Bribones
+Brieva
+Briján
+Briña
+Brovales
+Brozquez
+Brugent
+Brullés
+Bruñel
+Bubin
+Buenas Yerbas
+Buey
+Buga
+Bugones
+Buho
+Buitrera
+Buitrero
+Bujalance
+Bujardo
+Bullaque
+Bullarquejo
+Bullón
+Bullones
+Buñol
+Burbia
+Burdalo
+Burejo
+Burga
+Burgo
+Burguillos de los Gatos
+Burriana
+Burro
+Butarque
+Butroe
+Cabá
+Cabalar
+Cabaleiros
+Caballejos
+Caballeros
+Caballeruelo
+Caballón
+Cabe
+Cabeiro
+Cabeza
+Cabezamalo
+Cabezo
+Cabo
+Cabreja
+Cabriel
+Cabrilla
+Cabrillas
+Cabrito
+Cabrón
+Cachimonte
+Cacín
+Cadabal
+Cadagua
+Cadones
+Caia
+Cainos
+Cala
+Calabazar
+Calabazas
+Calabazón
+Calamantio
+Calamocarro
+Calaña
+Calancha
+Calares y de Fuente Fría
+Calcón
+Calderas
+Calderitos
+Calderona
+Caldés
+Caldo
+Calero
+Caliente
+Calle de Francos
+Calleja
+Callobre
+Callones
+Calvache
+Calvar
+Calvelo
+Calvo
+Calzadas de Ledín
+Calzas Anchas
+Calzones
+Camaces
+Camarala
+Cámaras
+Camarenilla
+Camarmilla
+Cambil
+Camesa
+Campana
+Campanillas
+Campillejo
+Campillo
+Campillos
+Campo
+Campos
+Cana
+Cañada de la Estaca
+Cañada de la Traviesa
+Cañada de los Hornos
+Cañada de Ubeda
+Cañada del Canto Hincado
+Cañada del Salar
+Cañada Honda de la Torrecilla
+Cañada La Corte
+Cañadas
+Cañahonda
+Canaleta
+Canaletas
+Canalijas
+Cañaveral
+Cañaveroso
+Canda
+Cándalo
+Candanco
+Candín
+Candis
+Candón
+Candoncillos
+Canencia
+Cañetejo
+Canillas
+Canito
+Cañizar
+Caño
+Caño de la Herrera
+Caño de la Rivera de Niebla
+Caño de las Nuevas
+Caño de Poca Agua
+Caño del Burro Chico
+Caño del Fraile
+Caño del Retamar
+Caño Peguerillas
+Caño Travieso
+Cañón
+Cañones
+Caños
+Canrayado
+Cantaelgallo
+Cantavieja
+Canto
+Canto Grande
+Cañuelo
+Caparra
+Caparrosa
+Carabán
+Carabidas
+Caracena
+Caracuesta
+Caramel
+Caravaca
+Carbajo
+Carballeda
+Carboneros
+Cárcaba
+Cárcava
+Carchena
+Cardanosa
+Cardelle
+Cardeña
+Cardeñadijo
+Cárdenas
+Cares
+Carlilla
+Carmonilla
+Carnerera
+Carneros
+Carraadrados
+Carral
+Carralafuente
+Carrascales
+Carrasco
+Carretero
+Carreteros
+Carril
+Carrión
+Carris
+Carriza
+Carrizal
+Carrizas
+Carromarmellar
+Carvallo
+Casa Blanca
+Casarabonela
+Casarejo
+Casas Novas
+Casatejada
+Caselas
+Casilla
+Casoio
+Castaña
+Castañas
+Castelo
+Castilleja
+Castillejo
+Castillería
+Castor
+Castril
+Castromayor
+Castrón
+Cauche
+Caudal
+Cautaban
+Caz
+Caz de Valdemedina
+Cazorla
+Cazuma
+Cebal
+Cebollón
+Cedena
+Cedrillas
+Cedrón
+Cega
+Cejos
+Celemín
+Cenza
+Cepera
+Cercos
+Cerecala
+Cereceda
+Cerezal
+Cerezuelo
+Cerneja
+Cerquilla
+Cerrada
+Cerralbos
+Cerrato
+Cerratón
+Cervigona
+Cexo
+Chabriño
+Chaín
+Chamora
+Chaparral
+Charchuelas
+Charco
+Charco de la Cañada
+Charco de Lavanderas
+Charcón
+Charcones
+Charcos
+Charre
+Chiclana
+Chillán
+Chillar
+Chiquero
+Chiva
+Chorranco
+Chorrera
+Chorrillo
+Chorrillos
+Chorrito
+Chortal
+Chucena
+Chupón
+Cidacos
+Ciernes
+Ciervas
+Cieza
+Cifuentes
+Cigüeña
+Cigüeñuela
+Ciguiñuela
+Cilla
+Cilleruelo
+Ciloria
+Cinca
+Cinqueta
+Cinsa
+Cinta Vieja
+Ciruelo
+Ciudadeja
+Ciurana
+Clamó
+Clamor de Fornillos
+Clariano
+Clarina
+Clarines
+Claro
+Clérigo
+Cobisa
+Cobo
+Cobos
+Codes
+Codos
+Cofio
+Cogollos
+Cohete
+Colambre
+Collados
+Collarín
+Collas
+Colmena
+Colmenar
+Colmenares
+Colmenas
+Colodrero
+Colomera
+Colunga
+Combos y de la Reguera
+comportes de la Mitjana
+Con
+Concha
+Condomiñas
+Conejero
+Conejo
+Confrentes
+Conilete
+Conques
+Conquista
+Conso
+Contadero
+Convento
+Corbalán
+Corchero
+Córcoles
+Corcomé
+Corcos
+Cordovín
+Cordubilla
+Cores
+Corneja
+Cornoncillo
+Corp
+Corps
+Corral
+Correchouso
+Corredera
+Corregidora
+Cortella
+Cortes
+Cortes de Arenoso
+Cortiella
+Corumbel
+Corzán
+Corzo
+Corzos
+Cosa
+Coscoja
+Coso
+Coto
+Cotos
+Crespos
+Cristo
+Cristóbal
+Cruces
+Crucetas
+Cua
+Cuartillo
+Cuatro Aguas
+Cuba
+Cubas
+Cubelo
+Cubeta
+Cubillas
+Cucarrete
+Cuco
+Cuerno
+Cuerpo de Hombre
+Cuervo
+Cuesta Bermeja
+Cueza de Cabañas
+Culebra
+Culebrín
+Cúllar
+Curueño
+Cuzarejo
+Cuzna
+Dañador
+Darro
+Deba
+Deo
+Derramadero de Turra
+Despeñadero
+Despeñaperros
+Deza
+Dezas
+Dilar
+Din
+Dobra
+Domingo
+Don Juan
+Don Lucas
+Dor
+Dornillo
+Drada
+Dubra
+Duerna
+Duje
+Dulce
+Duratón
+Dúrcal
+Ebo
+Ebrillos
+Ebro
+Ebrón
+Edo
+Ega
+Eifonso
+El Arroyuelo
+el Besòs
+el Cardener
+el Daró
+el Farfanya
+el Fluvià
+el Francolí
+el Freser
+el Ges
+el Gurri
+el Llierca
+el Llobregós
+el Manol
+el Matarranya
+el Rialb
+el Ripoll
+el Segre
+el Sió
+el Terri
+Ellas
+Elorz
+Encin
+Encina
+Encinar
+Encinas
+Endrinales
+Endrinar
+Engaña
+Enmedio
+Entretérminos
+Entrín
+Entrín Verde
+Eo
+Eras
+Erecia
+Eresma
+Erges
+Eria
+Erletxetako errekea
+Ermito
+Erréka Idorra
+Erro
+Erviñóu
+Esba
+Esca
+Escabas
+Escádebas
+Escaleras
+Escalona
+Escalote
+Escoznar
+Escudo
+Escuriza
+Esera
+Esgueva
+Esla
+Eslobán
+España
+Espardaña
+Espasa
+Espearaban
+Espeja
+Espiñarcao
+Espinazo
+Espinea
+Espinoso
+Espuña
+Estacadilla
+Estarrún
+Esteban
+Estena
+Estenilla
+Estepera
+Estepilla
+Esteras
+Estercuel
+Estero Carlata
+Estero de Cajarias
+Estero de Cantaya
+Estero de Doña Sancha
+Estero de los Caños
+Estero del Colmenar
+Estero del Rincón
+Estomiza
+Estrecho
+Eume
+Euredaderos
+Extremera
+Ezcurra
+Facina
+Faeda
+Fahala
+Faramontaos
+Farasdués
+Fardes
+Femosa
+Fervedoira
+Figueiras
+Figueral
+Flamisell
+Flumen
+Fofán
+Foix
+Foloso
+Font del Moratell
+Fontalba
+Fontano
+Fontirin
+Fontunica
+Forcas
+Formiga
+Formigueiro
+Fortes
+Fos
+Fragas
+Fraja
+Francia
+Franco
+Fray Bermuz
+Freijo
+Fresnadillo
+Fresnedillas
+Friegamuñoz
+Fronteta
+Fuengirola
+Fuente Blanca
+Fuente Cubierta
+Fuente de la Lana
+Fuente de la Reina
+Fuente de los Morales
+Fuente de los Moros
+Fuente de los Señores
+Fuente del Berrato
+Fuente del Berro
+Fuente del Consejo
+Fuente del Roble
+Fuente del Villar
+Fuente Palacios
+Fuente Salada
+Fuente Seca
+Fuente Vega
+Fuentehornos
+Fuentelarraya
+Fuentelviejo
+Fuentepinilla
+Fuentequeril
+Fuentidueña
+Fuloma
+Furelos
+Furna
+Gabellar
+Gabino
+Gachasmigas
+Gadea
+Gaduares
+Gaén
+Gaijo
+Gaiteira
+Gajeta
+Galapagares
+Galavis
+Galera
+Galindo
+Galindón
+Galizano
+Galleguillos
+Gallo
+Galvés
+Gamo
+Ganado
+Gandarilla
+Gandariña
+Gandesa
+Garabato
+Garbanzuelo
+Garciaz
+Gargáligas
+Garganta Blanca
+Garganta Cuernacabras
+Garganta de Alardos
+Garganta de Arnaos
+Garganta de Bohoyo
+Garganta de Chilla
+Garganta de Cuacos
+Garganta de Cuartos
+Garganta de Diego Díaz
+Garganta de Gámbara
+Garganta de Gargüera
+Garganta de Gredos
+Garganta de Gualtamino
+Garganta de Jaranda
+Garganta de la Balsa
+Garganta de la Luz
+Garganta de la Mora
+Garganta de la Pulga
+Garganta de la Serra
+Garganta de la Yedra
+Garganta de Lanzahita
+Garganta de las Torres
+Garganta de los Caballeros
+Garganta de los Infiernos
+Garganta de Minchones
+Garganta de Navalacruz
+Garganta de Navamediana
+Garganta de Pedro Chate
+Garganta de San Gregorio
+Garganta de Santa Lucía
+Garganta de Santa María
+Garganta de Tejeda
+Garganta de Torinas
+Garganta del Collado de la Vegua
+Garganta del Cubo
+Garganta del Pizarroso
+Garganta Grande
+Garganta Júcar
+Garganta Lóbrega
+Garganta Mayor
+Garganta Tejea
+Gargantafría
+Gargantas
+Gargüera
+Garigay
+Garios
+Garita
+Garonne
+Garzachuela
+Gatón
+Gavilanes
+Gayá
+Gaznata
+Gébalo
+Gemional
+Genal
+Genil
+Genilla
+Gera
+Geroa
+Gibranzos
+Gigüela
+Gimeno
+Ginel
+Gira
+Giraldo
+Girona
+Gironda
+Gitano
+Glera
+Glorieta
+Gobela
+Golopón
+Golosa
+Gontán
+Gor
+Gordo
+Gorgos
+Govia
+Grama
+Granadilla
+Grañal
+Grandal
+Grande del Molinillo
+Granizo
+Granja
+Gredales
+Gredera
+Griegos
+Grijuela
+Grilo
+Grío
+Groba
+Gromejón
+Guadacortes
+Guadaira
+Guadairilla
+Guadaiza
+Guadajira
+Guadajoz
+Guadalaviar
+Guadalbaida
+Guadalbarcar
+Guadalbullón
+Guadalcázar
+Guadalcopacin
+Guadalcotón
+Guadalén
+Guadalest
+Guadalete
+Guadalfeo
+Guadalhorce
+Guadalimar
+Guadalín
+Guadalix
+Guadalmansa
+Guadalmazán
+Guadalmedina
+Guadalmena
+Guadalmesí
+Guadalmez
+Guadalmina
+Guadalmoral
+Guadalobón
+Guadalope
+Guadalopillo
+Guadalora
+Guadalporcún
+Guadalquivir
+Guadalupejo
+Guadalvacarejo
+Guadamajud
+Guadamanil
+Guadamatilla
+Guadamellato
+Guadamez
+Guadamora
+Guadancil
+Guadanuño
+Guadarín
+Guadarnillos
+Guadarrama
+Guadarramilla
+Guadarromán
+Guadarroyo
+Guadateba
+Guadazaón
+Guadiamar
+Guadiana Menor
+Guadiaro
+Guadiatillo
+Guadiato
+Guadiel
+Guadiela
+Guadiloba
+Guadiloca
+Guadix
+Guadyerbas
+Guajaras
+Guajaraz
+Gualavisa
+Gualemar
+Gualija
+Guardainfantilla
+Guardal
+Guares
+Guarga
+Guarnón
+Guaro
+Guarranque
+Guarrizas
+Guatel Primero
+Guatel Segundo
+Guaten
+Guatizalema
+Guazujeros
+Guazulema
+Gudín
+Guerra
+Guerrero
+Guijar de las Conchas
+Guijo
+Guisande
+Guruñana
+Gútar
+Hacinas
+Hantihuela
+Harina
+Haro
+Hato
+Haza
+Hidalgo
+Higuereja
+Híjar
+Hinojales
+Hocecilla
+Hoces
+Hociquilla
+Homino
+Hondillo
+Hondo de la Rambla
+Hormaza
+Hormazuela
+Hornacinos
+Hornija
+Hornos
+Hoyas
+Hoyo
+Hoyo del Bote
+Hoyos de Pinilla
+Hoyuelas
+Hoz de Terrinches
+Hoz Seca
+Hozgarganta
+Huebra
+Huécar
+Huecha
+Huecos
+Huélago
+Huerga
+Huerna
+Huerta Quemada
+Huerva
+Huéscar
+Huevo
+Hurdano
+Ibias
+Ibor
+Indusi
+Infierno
+Iraty
+Iregua
+Iruela
+Irués
+Isábena
+Isbor
+Iso
+Isuala
+Izalde
+Izana
+Izarilla
+Izcala
+Jabalón
+Jaén
+Jaitzubiko ubidea
+Jambrina
+Jamuz
+Jándula
+Jandulilla
+Janilla
+Jarama
+Jaramiel
+Jaramillos
+Jardín
+Jares
+Jariguela
+Jarrama
+Jauro
+Jautor
+Javier
+Jerea
+Jerga
+Jerte
+Jimena
+Jituero
+Jogina
+Jordana
+Jorge
+Jualón
+Juan Delgado
+Juana la Mala
+Juana Ruíz
+Jubera
+Júcar
+Jugalez
+Jumadiel
+Juncal
+l'Aigua d'Ora
+l'Alguerri
+l'Onyar
+la Muga
+la Noguera de Tor
+la Noguera Ribagorçana
+La Rivera
+la Tordera
+la Valira
+Labradillos
+Lácara
+Lacarón
+Laderas
+Lador
+Ladra
+Ladrillar
+Lagarto
+Lágina
+Lagunilla de la Vega
+Lagunillos
+Laisa
+Lajoso
+Lalorín
+Lamas
+Lamasón
+Lambre
+Lañas
+Lanchar
+Landoeira
+Landro
+Languanvieja
+Lanjarón
+Lantiscoso
+Lanz
+Lanzón
+Lapa
+Lapaúl
+Laprima
+Laroles
+Larrodrigo
+Laurel
+Lavadero
+Lavapes
+Lavapiés
+Lavieja
+Lea
+Ledesma
+Leira
+Leizarán
+Lengüelle
+Lentiscar
+Leonís
+Leoz
+Lérez
+Levantes
+Leza
+Lezuza
+Liendre
+Ligos
+Lillas
+Liñares
+Linchero
+Lisca
+Lladorre
+Llamas
+Llanera
+Llano
+Llanos
+Llémana
+Loaji
+Loberas
+Lodoselo
+Loña
+Lor
+Lorianilla
+Lorito
+Loureiro
+Lourido
+Louzara
+Lovios
+Lozoya
+Lucena
+Luchena
+Lucio
+Ludey
+Lupión
+Macharracao
+Machorro
+Machuco
+Maderano
+Madrazos
+Madre de Fuentes
+Madre de las Marismas del Rocío
+Madre de Rejas
+Madre del Aviator
+Madre Vieja
+Madroño
+Magaña
+Magasca
+Magasquilla
+Magro
+Magros
+Mahoma
+Mahomalejo
+Maimón
+Maior
+Maiteno
+Majaberraque
+Majaceite
+Majadilla
+Majatayegua
+Majeco
+Majuela
+Majuelo
+Malabrigo
+Malagón
+Malapasada
+Malaviejas
+Malo
+Malos
+Malucas
+Malvellido
+Mampolín
+Manco
+Mandeo
+Manga
+Maniel
+Manilva
+Manina
+Manubles
+Marbella
+Marcelín
+Marchal
+Mardapresa
+Marea
+Margañán
+Margansal
+María Fernández
+Mariana
+Mariano
+Marieles
+Marigarcia
+Marinejo
+Marineta
+Mariz
+Marola
+Marquesa
+Marrupalejo
+Maruzo
+Masacán
+Masegoso
+Masma
+Mata
+Mata de la Chorrera
+Mata del Fresno
+Mataborricos
+Matachel
+Matadero
+Matalashaces
+Matanza
+Matapán
+Matapuerca
+Matarrubia
+Matavacas
+Mataverde
+Mataviejas
+Matayeguas
+Matillas
+Maya
+Mayas
+Mayo
+Mayor de Sotoca
+Mayor del Molinillo
+Mazo
+Mazuelo
+Mecina
+Mediana
+Medio
+Menajo
+Mencal
+Mendo
+Merdancho
+Merdero
+Merendilla
+Mero
+Mesa
+Mesas
+Mesegar
+Mestas
+Mesto
+Mezquín
+Micena
+Miera
+Mierdanchel
+Milagro
+Milanillos
+Milano
+Mimbral
+Mimbre
+Minas
+Mingo López
+Mingues
+Minho
+Minine
+Miñor
+Mira
+Miraflores
+Mirón
+Mironcillo
+Mitj Jorn
+Mochas
+Mojapiés
+Mojonera
+Mojones
+Molar
+Molinillos
+Molino Alto
+Monachil
+Monardilla
+Mondera
+Monegrillo
+Monegro
+Monigón
+Monjía
+Monreal
+Monroyo
+Montan
+Montaña
+Montemayor
+Montera
+Montero
+Monterroso
+Montesillo
+Montesina
+Montizón
+Montoro
+Montoya
+Montrueque
+Montsant
+Mora
+Moralejo
+Moralejos
+Moras
+Morasverdes
+Moreda
+Morenillo
+Morgaez
+Moriana
+Morillas
+Morles
+Morollón
+Morrón
+Moscas
+Mosquil
+Mosquilón
+Mostajares
+Moucide
+Mougás
+Moyuela
+Mozas
+Muela
+Mujer
+Mula
+Mulhacén
+Mundo
+Muradiel
+Mures
+Muriel Viejo
+Murtas
+Muta
+Nablin
+Nabón
+Nacimiento
+Nadinos
+Najerilla
+Nájima
+Nalón
+Nansa
+Nantón
+Narcea
+Narla
+Nata
+Nau
+Navacerrada
+Navacervera
+Navalajeta
+Navalazarza
+Navalcuervo
+Navalengua
+Navaltablado
+Navarredonda
+Navazamplón
+Navea
+Navelgas
+Navero
+Navia
+Ñazre
+Nechite
+Negra
+Negros
+Neila
+Neira
+Nela
+Nerbioi
+Névalo
+Nevera
+Noa
+Nocedo
+Nogales
+Noguera de Vall Farrera
+Noguera Pallaresa
+Noguera Ribagorçana
+Noniles
+Nora
+Ñora
+Noreña
+Notaría
+Nueva
+Nueveveces
+Nuevo
+O Arroio de Ramos
+Obejo
+Obispillo
+Oblea
+Oca
+Odiel
+Odrón
+Oiartzun
+Oitavén
+Ojailén
+Ojeda
+Ojén
+Olivenza
+Ollegoso
+Olmedilla
+Olmos
+Omañas
+Ompolveda
+Onsares
+Onsella
+Onza
+Oraque
+Órbigo
+Orce
+Orcera
+Orden
+Oregón
+Orgaz
+Oria
+Orille
+Orio
+Ormazal
+Oroncillo
+Ortiz
+Osera
+Osia
+Ouro
+Outeiro
+Outón
+Oviedo
+Oza
+Padrón
+Paeque
+Pájaras
+Pajarilla
+Pajarito
+Pajaroncillo
+Pajarrón
+Palancares
+Palancia
+Palancones
+Palas
+Palla
+Palmas
+Palomarejas
+Palomas
+Palomeras
+Palomillas
+Palomita
+Pambre
+Panchía
+Pancrudo
+Pantueño
+Papeles
+Paracuellos
+Paradasolana
+Paraísos
+Páramo
+Pardillo
+Parga
+Parralejo
+Partido
+Pas
+Pasada Blanca
+Pasada Honda
+Pasaderas
+Pata de la Mora
+Patana
+Patanco
+Paulejas
+Payalo
+Pazo
+Pedrajas
+Pedrazas
+Pedrazuela
+Pedregosa
+Pedregoso
+Pedreza
+Pedrique
+Pedro Gómez
+Pedro Mora
+Pedroche
+Pedrogordo
+Pedrona
+Pedrosillo
+Pedrouzos
+Pedrueco
+Pedruégano
+Pego
+Peguera
+Peinado
+Pelacudillos
+Pelayo
+Peloche
+Pelochejo
+Pelona
+Peñ
+Pena
+Peña del Chorro
+Peña Escrita
+Peña Negra
+Peña Tejada
+Peñaflor
+Penáguila
+Peñahora
+Peñalara
+Penillas
+Peñón
+Peñuela
+Pepín
+Peral
+Perazancas
+Percherías
+Perdigón
+Perdiz
+Pereilas
+Pereira
+Perejiles
+Perenique
+Perosín
+Perrero
+Perú
+Pescafrailes
+Pesebre
+Pesquera
+Pez
+Picachos
+Picamijo
+Pícaro
+Pichos
+Picón del Cuervo
+Picuezo
+Pigueña
+Pilar
+Pilar de la Sal
+Pilde
+Pilero
+Piles
+Piletas
+Piloña
+Piloncillo
+Piñar
+Pinarejos
+Pinares
+Pincheira
+Pinedillo
+Piñeira
+Piñeiro
+Pinilla
+Pinto
+Piquillo
+Pirón
+Pisones
+Pisueña
+Pisuerga
+Pitanza
+Pizarrosa
+Pizarroso
+Plano
+Plantío
+Pliego
+Polendos
+Poleo
+Polmediana
+Polop
+Ponte da Pedra
+Ponte de Boicalvo
+Ponte Nova
+Pontepedra
+Pontones
+Porcía
+Porcos
+Porma
+Porquerizos
+Porqueros
+Porrilla
+Porro Paramos
+Portalage
+Portela
+Portelano
+Portigo de Villasenín
+Portillo
+Portiño
+Porto do Cabo
+Porto do Rei
+Porto Souto
+Potoria
+Povedilla
+Pozaliño
+Pozo Hoces
+Prada
+Pradal
+Prádena
+Prado de la Higuera
+Pradovera
+Presa
+Priego
+Principal
+Prior
+Pucherueta
+Pudio
+Pueblo
+Puente Canto
+Puentecillas
+Puentevilla
+Puercas
+Puercos
+Puerta Alta
+Puerto
+Puerto Rey
+Punta Umbría
+Purón
+Pusa
+Quebradas
+Queiles
+Quejigales
+Quejigos
+Quejola
+Quijorna
+Quintana
+Quintanas
+Quintanilla
+Quintas
+Quipar
+Quivisa
+Rabal
+Rabaldea
+Rabanales
+Rabanillo
+Rabia Vacas
+Rabosera
+Raco de Patorrat
+Racons
+Radón
+Raíces
+Raigadas
+Ramacastañas
+Rambla
+Rambla Albosa
+Rambla Alcázar
+Rambla Balata
+Rambla Castañar
+Rambla Chartera
+Rambla de Algimia
+Rambla de Almedíjar
+Rambla de Alquife
+Rambla de Argongeña
+Rambla de Benejar
+Rambla de Benito
+Rambla de Bosna
+Rambla de Canalejas
+Rambla de Gaibiel
+Rambla de Gruelos
+Rambla de la Alcantarilla
+Rambla de La Hoz
+Rambla de la Molinera
+Rambla de la Virgen
+Rambla de los Amanaderos
+Rambla de los Cuartos
+Rambla de los Vaquerizos
+Rambla de Mal Burgo
+Rambla de Mayes
+Rambla de Murell
+Rambla de Peña
+Rambla de Ribota
+Rambla de Riodeva
+Rambla de Seco
+Rambla de Somal
+Rambla de Tobarra
+Rambla de Valcabra
+Rambla de Villarrosano
+Rambla del Ajangue
+Rambla del Albujón
+Rambla del Aljibe
+Rambla del Baúl
+Rambla del Carrizalejo
+Rambla del Pinar
+Rambla del Riajuelo
+Rambla del Romeroso
+Rambla del Sabinar
+Rambla del Saltador
+Rambla del Val
+Rambla Granada
+Rambla Honda
+Rambla la Carchulina
+Rambla Pampanera
+Rambla Perca
+Rambla Redovan
+Ramblas
+Rancero
+Rande
+Rao
+Rasa de Pira
+Razón
+Razoncillo
+Rebedul
+Rechiceruelo
+Recomba
+Recombo
+Reconco
+Redondela
+Reduvia
+Regacho
+Regadera
+Regajo
+Regajo de Camarena
+Regajo del Barrancal
+Regallo
+Regamón
+Regata de Landarbaso
+Regata Urrizate
+Regato da Cova
+Regato da Fervenza
+Regato da Ribeira
+Regato de Carmeldo
+Regato de Ferreiros
+Regato de Figueiro
+Regato de la Ribera
+Regato de Leixa
+Regato de los Toriles de Berrocal
+Regato de Rioboo
+Regato de Rubioso
+Regato de San Xoan
+Regato de Valdesauce
+Regato de Vegamorena
+Regato del Alcor
+Regato del Valle Abubilla
+Regato do Teixugo
+Regato Furafolla
+Regato Sanfitoiro
+Rego Arnos
+Rego da Armenteira
+Rego da Portela
+Rego da Ribeira
+Rego da Trapa
+Rego de Bans
+Rego de Barrañan
+Rego de Castéligo
+Rego de Espindre
+Rego de Forcadas
+Rego de Gobias
+Rego de Orbán
+Rego de Payal
+Rego de Peixeiros
+Rego de Pontiga
+Rego de Ramallás
+Rego de Sante
+Rego de Teilán
+Rego de Xundeiro
+Rego do Armental
+Rego do Batán
+Rego do Bousazu
+Rego do Samai
+Rego do Torneiros
+Rego do Viceso
+Rego do Viso
+Rego dos Caínzos
+Rego Ferreiroa
+Rego Lameiras
+Rego Matabois
+Rego Palanca
+Regomillos
+Regueiro Lacal
+Regueiro Perral
+Regüelo
+Reguer de la Foradada
+Reguera del Guareña
+Regueras
+Reguero
+Regus Salad
+Rehana
+Rejas
+Reláchigo
+Remonicio
+Renales
+Rencules
+Renegadero
+Reolista
+Repaul
+Requeixo
+Requejo
+Respenda
+Resquicio
+Retín
+Retuerta
+Revinuesa
+Rezmondo
+Riacho de los Esparragones
+Riacho de los Tembladeros
+Riacho de Nava
+Riachuelo
+Riaguas
+Rialvo
+Riánsares
+Riatillo
+Riaza
+Ribadil
+Ribeira
+Ribeira de Cuncos
+Ribeira de Fezes
+Ribeira de Guadramil
+Ribeira do Inferno
+Ribeira Grande
+Ribeira Pequena
+Ribeiro dos Saus
+Ribera Aurela
+Ribera Avid
+Ribera Cotadilla
+Ribera de Alcorneo
+Ribera de Canalda
+Ribera de Chanza
+Ribera de Cibanal
+Ribera de Jola
+Ribera de los Molinos
+Ribera de Malagón
+Ribera de Salcé
+Ribera del Fraile
+Ribera Salada
+Riberica
+Riego
+Riel
+Rielves
+Riera d'Arbúcies
+Riera de Arenys
+Riera de Bianya
+Riera de Calders
+Riera de Carme
+Riera de Freixenet
+Riera de Guardiola
+Riera de Lluçanès
+Riera de Manlleu
+Riera de Merlès
+Riera de Merola
+Riera de Navel
+Riera de Pontons
+Riera de Rajadell
+Riera de Riudaura
+Riera de Rubí
+Riera de San Cugat
+Riera de Sant Vicenç
+Riera de Santa Coloma
+Riera de Teià
+Riera de Tiana
+Riera de Viloví
+Riera Marmella
+Rierol del Pont de la Fusta
+Rigueira
+Riguel
+Rigüelo
+Ríocerezo
+Riocoja
+Riodeva
+Rioeliche
+Ríofresno
+Ríofrío
+Ríomane
+Ríoseco
+Ríosequino
+Ríoseras
+Risco Blanco
+Risquillo
+Rituerto
+Riu Anguera
+Riu Anoia
+Riu Brugent
+Riu Caldes
+Riu Congost
+Riu d'Algars
+Riu d'Arnera
+Riu d'Odèn
+Riu d'Oix
+Riu de Beget
+Riu de Cabó
+Riu de Canoves
+Riu de Carreu
+Riu de la Llosa
+Riu de la Torre
+Riu de Manyanet
+Riu de Mola
+Riu de Perles
+Riu de Queixigar
+Riu de Querol
+Riu de Sallent
+Riu de Tost
+Riu del Coscó
+Riu dels Estrets
+Riu Fred
+Riu Guart
+riu Merdàs
+Riu Mogent
+Riu Pedrissa
+Riu Ridaura
+riu Rigat
+Riu Saldes
+Riu Ser
+Riu Tenes
+Riu Tort
+Riu Vaca Desembocadura
+Riu Valiri
+Riu Vallverd
+Riudevitlles
+Rivera Atarja
+Rivera Cachén
+Rivera Cobica
+Rivera de Albarragena
+Rivera de Alcalaboza
+Rivera de Amor
+Rivera de Araya
+Rivera de Azaba
+Rivera de Belén
+Rivera de Benalija
+Rivera de Cadozos
+Rivera de Cala
+Rivera de Calatrucha
+Rivera de Campeán
+Rivera de Cañedo
+Rivera de Carbajo
+Rivera de Casa de Valverde
+Rivera de Cerotello
+Rivera de Chicaspiernas
+Rivera de Dos Casas
+Rivera de Fadoncino
+Rivera de Fresnedosa
+Rivera de Froya
+Rivera de Fuentes Luengas
+Rivera de Gallegos
+Rivera de Gata
+Rivera de Gavilanes
+Rivera de Gudino
+Rivera de Hierro
+Rivera de Hinojales
+Rivera de Huelva
+Rivera de Huesna
+Rivera de la Bárcena
+Rivera de la Cabeza
+Rivera de la Dehesa
+Rivera de la Fresnera
+Rivera de la Huerta
+Rivera de la Lanchita
+Rivera de la Mata
+Rivera de la Nicoba
+Rivera de la Panera
+Rivera de la Viguera
+Rivera de la Viña
+Rivera de Lácara
+Rivera de Lara
+Rivera de las Navas
+Rivera de Linares
+Rivera de los Casales
+Rivera de Los Ciries
+Rivera de los Limonetes
+Rivera de los Pinos
+Rivera de María
+Rivera de Meca
+Rivera de Montemayor
+Rivera de Moraleja
+Rivera de Múrtiga
+Rivera de Nogales
+Rivera de Palanco
+Rivera de Pierna Seca
+Rivera de Pinilla
+Rivera de Pizarra
+Rivera de Riofrío
+Rivera de Ríofrío
+Rivera de Salvatierra
+Rivera de Santa Ana la Real
+Rivera de Santa Cruz
+Rivera de Santa Eulalia
+Rivera de Sobradillo
+Rivera de Táliga
+Rivera de Usagre
+Rivera de Valmuza
+Rivera de Zapatón
+Rivera del Agua Agria
+Rivera del Bronco
+Rivera del Campo
+Rivera del Castaño
+Rivera del Guadajira
+Rivera del Jarrama
+Rivera del Manzano
+Rivera del Muleto
+Rivera del Playón
+Rivera del Tamujoso
+Rivera del Vado
+Rivera Escalada
+Rivera Grande de Santa Catalina
+Rivera Olivargas
+Rivera Pelada
+Rivera Seca
+Rivera Trevejana
+Robledo
+Robledosa
+Robles
+Roca
+Rocañal
+Roche
+Rocina
+Rocinejo
+Rodastillo
+Rodil
+Rodís
+Rodoro
+Rois
+Rojos
+Rollo del Salado
+Rolloso
+Román
+Romeán
+Roñas
+Ropereza
+Rosal
+Rosales
+Rosende
+Rovite
+Rozalejo
+Rozas
+Rubagón
+Rubiales
+Rubielos
+Rubio
+Rucabia
+Ruda
+Rudrón
+Ruecas
+Rumblar
+Rus
+Ruyales
+Saá
+Sabar
+Saceda
+Sacedilla
+Sacedón
+Saja
+Sal
+Salada
+Salado de Gilena
+Salado de Jarda
+Salado de Medina
+Salado de Paterna
+Salado de Pedrera
+Salas
+Salazar
+Salceda
+Salcedal
+Salgueiro
+Salgüero
+Salina
+Salinas
+Salineta
+Salitrales
+Salobral
+Salobre
+Salograr
+Salor
+Samaso
+Samo
+San Antón
+San Benito
+San Gil
+San Giraldo
+San Isidro
+San Lázaro
+San Mamed
+San Marcos
+San Mauricio
+San Medel
+San Millán
+San Moral
+San Nicolás
+San Quirce
+San Vicente
+Sancha
+Sanche
+Sandiales
+Sangrera
+Sangüeno
+Sangusín
+Santa
+Santa Águeda
+Santa Ana
+Santa Bárbara
+Santa Casilda
+Santa Engrazia
+Santa María del Campo
+Santa Marina
+Santapudia
+Santillana
+Santillón
+Santo
+Santo Domingo
+Saona
+Sapillo
+Sapo
+Sar
+Sardiñeira
+Sardinilla
+Sarria
+Sarroca
+Sauceda
+Saucedilla
+Saucera
+Saugel
+Sed
+Sedano
+Segre
+Segundera
+Seixedo
+Seixo
+Sellent
+Selmo
+Señora
+Sequilla
+Serna
+Serradillas
+Serranos
+Serranova
+Serrecín
+Serrezuela
+Seseña
+Sestil de Maillo
+Sestiles
+Sierpe
+Sierro
+Sierro de la Cañada
+Siete Arroyos
+Siete Revueltas
+Sietearroyos
+Sijuela
+Sil
+Sillar
+Sillo
+Silvadillo
+Silván
+Simplón
+Sionlla
+Siruela
+Sisera
+Sobreros
+Soldado
+Soldón
+Solecho
+Soledad
+Somiedo
+Sonella
+Sonsaz
+Sor
+Sorbe
+Sorbijo
+Sotón
+Sotuélamos
+Souteliño
+Soutochao
+Sucio
+Susana
+Susia
+Tablillas
+Taibilla
+Tajuña
+Talamillo
+Talanda
+Talegones
+Tallisca
+Tallón
+Tamarit
+Tambre
+Támoga
+Tamohoso
+Tamuja
+Tamujo
+Tamujosillo
+Tanea
+Tarajal
+Taray
+Tariquejo
+Tastavins
+Tavizna
+Te
+Tea
+Tejadillos
+Tejedas
+Tejuela
+Tella
+Templarios
+Temple
+Tenebrilla
+Tercio
+Termes
+Término
+Ternillo
+Terreros
+Terrilla
+Testillos
+Tezosa
+Tiétar
+Tijeras
+Tinaja
+Tinajas
+Tioira
+Tiradero
+Tirón
+Tirteafuera
+Tobarejo
+Tobia
+Toja
+Toma
+Tomilloso
+Torcas
+Torcón
+Tordea
+Tordillos
+Torete
+Torija
+Toril
+Torío
+Tormes
+Tornadizos
+Torneros
+Tornes
+Tornillos de Gualay
+Tornos
+Torón
+Torote
+Torralba
+Torre
+Torre Juan Gil
+Torre Tejada
+Torrecilla
+Torremocha
+Torrent de Vallmoll
+Torrent dels Jueus
+Torrente
+Torrente Claret
+Torrente de Bescarán
+Torrente de Falps Biure
+Torrente de Renau
+Torrente de Ribona
+Torrente de Sola
+Torrente Esblada
+Torrente Riudebosch
+Torrijas
+Torrox
+Torrubias
+Torto
+Tórtolas
+Torvisca
+Toya
+Tozo
+Trabancos
+Trabaque
+Tralgas
+Tramposo
+Tranco
+Trancoso
+Tras da Serra
+Trasierra
+Trasmiras
+Travieso
+Trazo
+Trebejil
+Trefacio
+Trema
+Tremor
+Trevélez
+Triguera
+Trillo
+Trimaz
+Trinidad
+Trinidades
+Trodia
+Trofa
+Troncoso
+Trubia
+Truchillas
+Trueba
+Trujala
+Trujillo
+Tuéjar
+Tumbafrailes
+Tuña
+Turia
+Turienzo
+Turilla
+Turón
+Turruchel
+Tus
+Tuvillas
+Ubierna
+Ubrique
+Uceiral
+Ucero
+Ucés
+Uchuria
+Ucieza
+Udondoerrekea
+Ugalde
+Ulla
+Ullaque
+Ulldemó
+Ulzama
+Uma
+Umbral
+Umia
+Uncín
+Ungria
+Urbel
+Urdanta
+Urola
+Urraul
+Urrio
+Urrobi
+Urumea
+Uso
+Vaca
+Vacas
+Vadillos
+Vado Blanco
+Val de Horca
+Valbona
+Valborraz
+Valcasao
+Valcorba
+Valcuende
+Valdalla
+Valdanzuelo
+Valdavia
+Valdeaguilera
+Valdeajuelos
+Valdealguis
+Valdeancas
+Valdeangostillo
+Valdearazo
+Valdeayuela
+Valdeazogues
+Valdecaballos
+Valdecabras
+Valdecanales
+Valdecarros
+Valdecas
+Valdecheras
+Valdeconejos
+Valdecorrales
+Valdecuriada
+Valdedemente
+Valdefajas
+Valdegallinas
+Valdegarón
+Valdeginate
+Valdehigueras
+Valdehombre
+Valdehornos
+Valdeirueca
+Valdeladrillas
+Valdeladrones
+Valdelaguna
+Valdelahigal
+Valdelazadón
+Valdellano
+Valdemeca
+Valdemedel
+Valdemino
+Valdemorato
+Valdemoro
+Valdemundarra
+Valdenovillos
+Valdeoliva
+Valdeolmeña
+Valdepadilla
+Valdepeñas
+Valdeperal
+Valdepinilla
+Valdepuerco
+Valderaduey
+Valderate
+Valderromero
+Valdesalce
+Valdesalices
+Valdesamario
+Valdesanjuán
+Valdesomo
+Valdespino
+Valdeveinte
+Valdeyerno del Duque
+Valdileja
+Valdivia
+Valdorcas
+Valduérguinas
+Valga
+Valhondillo
+Valhondo
+Valimón
+Valiñas
+Vall de Carratalà
+Vall de Cervera
+Vall de Los Masos
+Vallanca
+Vallarna
+Vallarta
+Valle Candamo
+Valle de Arriba
+Valle de Atrás
+Valle de Huebras
+Valle de Peña
+Valle Frías
+Valle Horadado
+Valle Prado
+Vallegordo
+Vallehondo
+Vallejo
+Valles
+Vallfogona
+Vallico
+Vallosera
+Valmayor
+Valmayorejo
+Valor
+Valparaiso
+Valparaíso
+Valquemado
+Valsecas
+Valtabuyo
+Valtajar
+Valtorno
+Valvanera
+Valvedillo
+Valverde
+Vansa
+Vao
+Vaqueriza
+Vaquerizas
+Varas
+Veduido
+Vedut
+Vega del Caballo
+Vegarroyo
+Veguilla
+Veguillas
+Velerín
+Velillas
+Vellos
+Vena
+Vencherque
+Vendul
+Venero
+Venta de la Cruz
+Venta de la Inés
+Ventálama
+Ventas Nuevas
+Ventilla
+Ventogil
+Ventosa
+Ventrosa
+Veo
+Verderón
+Verdugo
+Vero
+Vertiente Ciporro
+Vexo
+Viaña
+Viar
+Viarejo
+Vidrio
+Vidueiro
+Viejas
+Viguera
+Vilanos
+Villacorta
+Villacortilla
+Villalobón
+Villalvilla
+Villamoure
+Villanueva de la Fuente
+Villapalos
+Villarino
+Villarrodrigo
+Villavega
+Viloria
+Viñadero
+Vinalopó
+Viñao
+Viñas
+Vindel
+Virga
+Vizcaína
+Voltoya
+Xuanceda
+Xubia
+Xunco
+Yalde
+Yeltes
+Yera
+Yesa
+Yeso
+Yñola
+Yuso
+Zadorra
+Zafrilla
+Zagrilla
+Zalla
+Zaloya
+Zamáns
+Zambra
+Zambriana
+Zamprón
+Zancadillas
+Záncara
+Zanjar
+Zapardiel
+Zapatón
+Zardón
+Zarra
+Zarza
+Zarzo
+Zarzosillo
+Zarzoso
+Zarzuela
+Zidacos
+Zocorejo
+Zubialde
+Zújar
+Zumel
+Zumeta

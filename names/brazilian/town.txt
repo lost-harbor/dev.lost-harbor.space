@@ -1,0 +1,5000 @@
+Boa Vista	400
+Santo Antônio	279
+São José	262
+São João	178
+Sítio São José	168
+Bela Vista	164
+São Pedro	160
+Sítio Santo Antônio	158
+São Francisco	147
+Santa Maria	142
+Boa Esperança	141
+Santa Cruz	129
+Santa Rosa	120
+Cachoeira	119
+Santa Luzia	118
+Santana	115
+Sítio São João	111
+Santa Rita	107
+São Bento	106
+Retiro	103
+São Sebastião	102
+São Domingos	100
+Bom Jardim	94
+Sítio Nossa Senhora Aparecida	93
+Conceição	88
+Vista Alegre	88
+Barra	85
+Serrinha	84
+Gameleira	81
+São Miguel	80
+Sítio São Pedro	78
+Monte Alegre	77
+Barreiro	75
+Boqueirão	75
+Cachoeirinha	74
+Jatobá	74
+Sítio São Sebastião	74
+Vila Nova	74
+Lagoinha	73
+Paraíso	72
+São Roque	72
+Tapera	72
+Sítio São Francisco	71
+Bom Jesus	70
+Ôlho d'Água	68
+São Vicente	68
+Lagoa	67
+Caldeirão	65
+São Joaquim	65
+Cajueiro	63
+Campo Alegre	63
+Floresta	60
+São Luís	60
+Brejinho	59
+Bonfim	58
+Fortaleza	58
+Pedra Branca	56
+Cedro	54
+Limoeiro	53
+Palmeiras	53
+Mulungu	52
+Santa Bárbara	51
+Campestre	50
+Curralinho	50
+Esperança	50
+Santa Clara	50
+Sítio Boa Vista	50
+Mocambo	49
+São Lourenço	49
+Bom Sucesso	48
+Estiva	48
+Riachão	48
+Boa Sorte	47
+Fazendinha	47
+Jenipapo	47
+Nazaré	47
+São Paulo	47
+Sítio São Benedito	47
+Sítio São Luís	47
+Espírito Santo	46
+Jacaré	46
+São Raimundo	46
+Sítio Bela Vista	46
+Vargem Grande	46
+Caiçara	45
+Recreio	45
+Varginha	45
+Novo Horizonte	44
+Saco	44
+São Benedito	44
+Alegre	43
+Campo Grande	43
+Estreito	43
+Mundo Novo	43
+Barro Vermelho	42
+Centro	42
+Lagoa Grande	42
+Nova Esperança	42
+Pedras	42
+Santa Helena	42
+Forquilha	41
+Pitombeira	41
+Santa Fé	41
+Tabuleiro	41
+Barro Branco	40
+Morada Nova	40
+Palmeira	40
+Santa Teresa	40
+São Gonçalo	40
+Sapucaia	40
+Sítio Boa Esperança	40
+União	40
+Bonito	39
+Coqueiro	39
+Laranjeiras	39
+Sítio São Jorge	39
+Água Branca	38
+Cruzeiro	38
+Ipiranga	38
+Lajes	38
+São Geraldo	38
+Sobradinho	38
+Areias	37
+Buriti	37
+Palmital	37
+Bom Retiro	36
+Primavera	36
+Salgado	36
+Santa Terezinha	36
+Sítio Santa Maria	36
+Angico	35
+Queimadas	35
+Barrinha	34
+Jardim	34
+Jurema	34
+Lajeado	34
+Prata	34
+Quilombo	34
+Alto Alegre	33
+Angical	33
+Baixa Grande	33
+Barreiros	33
+Belo Horizonte	33
+Dois Irmãos	33
+Morrinhos	33
+Passagem	33
+Sítio	33
+Sítio Santa Luzia	33
+Tamanduá	33
+Tanque	33
+Várzea	33
+Água Fria	32
+Aroeira	32
+Belém	32
+Campinas	32
+Lagoa Nova	32
+Olaria	32
+Santa Isabel	32
+São Jorge	32
+Três Barras	32
+Brejão	31
+Brejo	31
+Malhada	31
+Sertãozinho	31
+Tamboril	31
+Figueira	30
+Laje	30
+Morro Grande	30
+Palestina	30
+Serra	30
+Vitória	30
+Bananal	29
+Carnaúba	29
+Formosa	29
+Macacos	29
+Pedrinhas	29
+Veneza	29
+Aldeia	28
+Cipó	28
+Jacutinga	28
+Juá	28
+Livramento	28
+Logradouro	28
+Pau d'Arco	28
+Bacuri	27
+Barra Grande	27
+Bonsucesso	27
+Liberdade	27
+Mandacaru	27
+São Félix	27
+São Tomé	27
+Serraria	27
+Sítio Novo	27
+Sítio São Joaquim	27
+Umbuzeiro	27
+Volta Grande	27
+Água Limpa	26
+Cana Brava	26
+Cocal	26
+Jacu	26
+Lajinha	26
+Matinha	26
+Olhos d'Água	26
+Riacho Fundo	26
+Santa Teresinha	26
+Sítio São Roque	26
+Tanquinho	26
+Taquaral	26
+Alegria	25
+Angelim	25
+Caraíbas	25
+Colônia	25
+Jenipapeiro	25
+Juazeiro	25
+Mangueira	25
+Oriente	25
+Pau Ferro	25
+Remanso	25
+Salgadinho	25
+Samambaia	25
+Santa Catarina	25
+Sítio São Paulo	25
+Aparecida	24
+Buritizinho	24
+Catolé	24
+Chapada	24
+Coqueiros	24
+Engenho	24
+Flores	24
+Malhada Grande	24
+Maravilha	24
+Nova Olinda	24
+Oiticica	24
+Pontal	24
+Saquinho	24
+Serrote	24
+Soledade	24
+Vera Cruz	24
+Barreiras	23
+Campina	23
+Cantagalo	23
+Caraíba	23
+Cruz	23
+Ipueira	23
+Junco	23
+Mangabeira	23
+Melancia	23
+Palmeirinha	23
+Papagaio	23
+Prainha	23
+Quixaba	23
+Recanto	23
+Rosário	23
+Salinas	23
+Santa Lúcia	23
+Taquari	23
+Triunfo	23
+Alagadiço	22
+Baixão	22
+Bom Futuro	22
+Campos	22
+Cantinho	22
+Duas Barras	22
+Fazenda Nova	22
+Guarani	22
+Guaribas	22
+Humaitá	22
+Limeira	22
+Mata	22
+Nossa Senhora Aparecida	22
+Riacho do Meio	22
+Rio Branco	22
+Sítio Santa Teresinha	22
+Tucuns	22
+Altamira	21
+Areia Branca	21
+Bocaina	21
+Cacimbas	21
+Cajazeiras	21
+Campinho	21
+Castelo	21
+Engenho Velho	21
+Estrema	21
+Gavião	21
+Ilha	21
+Nova Vida	21
+Patos	21
+Ponta da Serra	21
+Quilômetro	21
+São Cristóvão	21
+São Luiz	21
+Sapé	21
+Sítio Alvorada	21
+Araçá	20
+Areal	20
+Barriguda	20
+Gravatá	20
+Ingá	20
+Massapê	20
+Olho-d'Água	20
+Pilões	20
+Poço	20
+Riacho	20
+Ribeirão	20
+Rio Bonito	20
+Santo Amaro	20
+São Marcos	20
+Sítio Santa Cruz	20
+Trindade	20
+Vereda	20
+Volta	20
+Alto Bonito	19
+Alvorada	19
+Aroeiras	19
+Bebedouro	19
+Cabeceira	19
+Cafundó	19
+Gangorra	19
+Laranjal	19
+Macaco	19
+Mato Grosso	19
+Nova	19
+Nova Brasília	19
+Planalto	19
+Poção	19
+Poços	19
+Roseira	19
+São Bernardo	19
+Sítio Santa Rita	19
+Taboca	19
+Timbaúba	19
+Umburana	19
+Vargem	19
+Várzea Grande	19
+Água Boa	18
+Alagoinha	18
+Alecrim	18
+Angicos	18
+Araras	18
+Bandeira	18
+Barro	18
+Batalha	18
+Campo Novo	18
+Canabrava	18
+Encruzilhada	18
+Macambira	18
+Mutum	18
+Olho d'Água	18
+Onça	18
+Penha	18
+Piedade	18
+Pouso Alegre	18
+Progresso	18
+Salto	18
+São Caetano	18
+Sítio Bom Jesus	18
+Tapuio	18
+Trapiá	18
+Açude	17
+Águas Claras	17
+Baixa Verde	17
+Barro Preto	17
+Califórnia	17
+Canafístula	17
+Capivara	17
+Carmo	17
+Casa Branca	17
+Faxinal	17
+Formiga	17
+Independência	17
+Lagoa de Dentro	17
+Lagoa do Mato	17
+Lagoa Seca	17
+Machado	17
+Picada	17
+Pinhalzinho	17
+Rio Novo	17
+Saltinho	17
+Santa Tereza	17
+Santiago	17
+São Brás	17
+São Manuel	17
+Sítio São Bento	17
+Sítio São Miguel	17
+Socorro	17
+Sumidouro	17
+Travessão	17
+Varjota	17
+Almas	16
+Arara	16
+Areia	16
+Baixio	16
+Bananeira	16
+Barreira	16
+Beira Rio	16
+Boa Fé	16
+Boca da Mata	16
+Canudos	16
+Capão	16
+Curral Velho	16
+Escondido	16
+Grotão	16
+Penedo	16
+Poço Comprido	16
+Riachinho	16
+Santa Cecília	16
+Santa Inês	16
+São Carlos	16
+Sítio Dois Irmãos	16
+Sítio São Manuel	16
+Sítio São Vicente	16
+Sítio Velho	16
+Umari	16
+Vila São José	16
+Bacabal	15
+Bálsamo	15
+Benfica	15
+Betânia	15
+Buritizal	15
+Cajazeira	15
+Candeias	15
+Capelinha	15
+Capoeira	15
+Chapadinha	15
+Colocação Quilômetro	15
+Fundão	15
+Glória	15
+Lagoa Sêca	15
+Lajedo	15
+Limão	15
+Malhadinha	15
+Muquém	15
+Ouricuri	15
+Pinheiros	15
+Ponte Alta	15
+Ressaca	15
+Santo André	15
+Saudade	15
+Sítio do Meio	15
+Sítio Santa Helena	15
+Sítio Santa Rosa	15
+Soares	15
+Sossego	15
+Tabatinga	15
+Tabocal	15
+Tabocas	15
+Tábua	15
+Tanque Novo	15
+Taquara	15
+Timbó	15
+Três Irmãos	15
+Vila União	15
+Boa Hora	14
+Bom Princípio	14
+Canoas	14
+Canto	14
+Cardoso	14
+Castanhal	14
+Cercado	14
+Cigana	14
+Conquista	14
+Contendas	14
+Corrente	14
+Fátima	14
+Funil	14
+Jordão	14
+Mimoso	14
+Monjolinho	14
+Monte Belo	14
+Ouro Verde	14
+Pajeú	14
+Pé de Serra	14
+Pedra	14
+Pinhal	14
+Pôrto Alegre	14
+Riacho Grande	14
+Rio Claro	14
+Serra Grande	14
+Sítio São Carlos	14
+Sítio Vista Alegre	14
+Sossêgo	14
+Taquaruçu	14
+Tigre	14
+Vila Rica	14
+Aldeia Velha	13
+Algodões	13
+Aliança	13
+Arapuá	13
+Barracão	13
+Barroca	13
+Baú	13
+Belmonte	13
+Bom Lugar	13
+Botafogo	13
+Caititu	13
+Cajá	13
+Camará	13
+Campo Limpo	13
+Caracol	13
+Extrema	13
+Furnas	13
+Gado Bravo	13
+Goiabal	13
+Ilha Grande	13
+Iracema	13
+Jibóia	13
+Macuco	13
+Monte Castelo	13
+Morros	13
+Murici	13
+Nossa Senhora de Fátima	13
+Palmares	13
+Pau Branco	13
+Picos	13
+Pinheiro	13
+Poço Grande	13
+Posse	13
+Praia Grande	13
+Queimada	13
+Riachuelo	13
+Ribeira	13
+Rocinha	13
+Sabonete	13
+Samaúma	13
+Sambaíba	13
+Santo Agostinho	13
+Santo Inácio	13
+São Mateus	13
+Sítio das Palmeiras	13
+Sítio Primavera	13
+Sítio Santa Isabel	13
+Sobrado	13
+Tiradentes	13
+Triângulo	13
+Amparo	12
+Baixinha	12
+Barbosa	12
+Barra Nova	12
+Barreirinha	12
+Barrocão	12
+Boa Nova	12
+Brejo Grande	12
+Caboclo	12
+Cacimbinha	12
+Caju	12
+Calumbi	12
+Capim	12
+Capim Grosso	12
+Capivari	12
+Carnaubinha	12
+Casa Nova	12
+Cocais	12
+Córrego	12
+Currais	12
+Fartura	12
+Fazenda Boa Vista	12
+Horizonte	12
+Itapicuru	12
+Jabuti	12
+Lagoa da Pedra	12
+Mirador	12
+Miranda	12
+Mocó	12
+Monjolo	12
+Monte Sinai	12
+Moreira	12
+Nova União	12
+Pacheco	12
+Pé do Morro	12
+Pereira	12
+Piripiri	12
+Poço Verde	12
+Poções	12
+Porteira	12
+Porto Alegre	12
+Pouso Alto	12
+Prazeres	12
+Queimados	12
+Repartimento	12
+Rio das Pedras	12
+Rio Grande	12
+Rodeador	12
+Salobro	12
+Serra Vermelha	12
+Sítio Santa Bárbara	12
+Sítio Santana	12
+Sítio São Geraldo	12
+Sucupira	12
+Tingui	12
+Turvo	12
+Umburanas	12
+Vila São João	12
+Agrovila	11
+Águas Belas	11
+Arapari	11
+Arraial	11
+Atalaia	11
+Bananeiras	11
+Barraca	11
+Beleza	11
+Boa União	11
+Bom Nome	11
+Brasília	11
+Buriti Grande	11
+Caeté	11
+Campo do Meio	11
+Campo Largo	11
+Campo Verde	11
+Cana-Brava	11
+Canaã	11
+Carrapato	11
+Cascavel	11
+Conceicão	11
+Cordeiro	11
+Croatá	11
+Cumaru	11
+Deserto	11
+Diamantina	11
+Espinheiro	11
+Feijão	11
+Guariba	11
+Ipanema	11
+Jacarandá	11
+Jaqueira	11
+Laranjeira	11
+Mato Verde	11
+Mendes	11
+Mocambinho	11
+Monteiro	11
+Morro Vermelho	11
+Nossa Senhora das Graças	11
+Paciência	11
+Paiol	11
+Palma	11
+Panelas	11
+Pavão	11
+Pederneiras	11
+Peixe	11
+Pimenta	11
+Ponte Nova	11
+Pôrto	11
+Providência	11
+Queimada Grande	11
+Rancharia	11
+Rio do Peixe	11
+Roça Grande	11
+Roça Velha	11
+Roncador	11
+Santa Filomena	11
+Santa Mônica	11
+São Felipe	11
+São Gabriel	11
+São Romão	11
+São Salvador	11
+Serra Negra	11
+Sítio Ouro Verde	11
+Sítio São Domingos	11
+Sucuri	11
+Tiririca	11
+Todos os Santos	11
+Vargem Alegre	11
+Vertentes	11
+Vila Progresso	11
+Zumbi	11
+Agreste	10
+Água Clara	10
+Água Quente	10
+Altos	10
+Anta Gorda	10
+Antas	10
+Assunção	10
+Aurora	10
+Baixa Fria	10
+Barra Bonita	10
+Barra Mansa	10
+Barroso	10
+Boa Ventura	10
+Bom Destino	10
+Caçador	10
+Cacimba	10
+Carnaubal	10
+Cascata	10
+Concórdia	10
+Cristo Rei	10
+Divisa	10
+Dois Riachos	10
+Engenho Novo	10
+Estrela	10
+Faveira	10
+Feira Nova	10
+Gamboa	10
+Goiabeira	10
+Guajará	10
+Itaúna	10
+Jaburu	10
+Ladeira	10
+Lagamar	10
+Lagoa Comprida	10
+Lagoa do Barro	10
+Lagoão	10
+Lambari	10
+Lapa	10
+Marrecas	10
+Matão	10
+Monte Verde	10
+Montevidéu	10
+Morrinho	10
+Mosquito	10
+Muribeca	10
+Natal	10
+Olinda	10
+Oliveira	10
+Paiol Velho	10
+Pedra Grande	10
+Pedra Lisa	10
+Pedra Preta	10
+Pedreira	10
+Pereiras	10
+Pindoba	10
+Piranhas	10
+Pocinho	10
+Pratinha	10
+Quati	10
+Redenção	10
+Riacho Verde	10
+Ribeirão Grande	10
+Rio Verde	10
+Rio Vermelho	10
+Salina	10
+São Jerônimo	10
+São Rafael	10
+Sarandi	10
+Serra Branca	10
+Serrota	10
+Sítio Boa Sorte	10
+Sítio Nossa Senhora de Fátima	10
+Sítio Três Irmãos	10
+Tatu	10
+Telha	10
+Traíras	10
+Vazante	10
+Veados	10
+Vila Maria	10
+Vila São Francisco	10
+Algodão	9
+Alto	9
+Alto da Boa Vista	9
+Arrozal	9
+Atoleiro	9
+Bandeirantes	9
+Barro Alto	9
+Campo Redondo	9
+Cocalinho	9
+Coité	9
+Colina	9
+Cruz das Almas	9
+Cruzeiro do Sul	9
+Descanso	9
+Diamante	9
+Dourado	9
+Engano	9
+Entre Rios	9
+Estrêla	9
+Fazenda São João	9
+Gato	9
+Gomes	9
+Grossos	9
+Itinga	9
+Jardim Primavera	9
+Jundiá	9
+Jutaí	9
+Lagoa Bonita	9
+Lagoa do Boi	9
+Lagoa Redonda	9
+Lajedinho	9
+Lamarão	9
+Lopes	9
+Malhada Vermelha	9
+Manga	9
+Mato-Dentro	9
+Minador	9
+Monte Cristo	9
+Nossa Senhora de Nazaré	9
+Nova Conquista	9
+Nova Vista	9
+Novo Oriente	9
+Pacas	9
+Pantanal	9
+Passagem Funda	9
+Patrimônio	9
+Paulista	9
+Pedra d'Água	9
+Pindorama	9
+Pitombeiras	9
+Poço da Pedra	9
+Porteiras	9
+Ramada	9
+Riacho Sêco	9
+Rio Preto	9
+Riozinho	9
+Rodeio	9
+Rua Nova	9
+Santa Júlia	9
+Santa Quitéria	9
+Santo Antonio	9
+Santos Dumont	9
+São Simão	9
+São Valentim	9
+Serra Verde	9
+Sertão	9
+Sítio Paraíso	9
+Sítio Santa Lúcia	9
+Sítio São Judas Tadeu	9
+Sítio Serrinha	9
+Stio So Jos	9
+Tabajara	9
+Taboquinha	9
+Tancredo Neves	9
+Torrões	9
+Tucum	9
+Urubu	9
+Vaca Morta	9
+Vargem Alta	9
+Vassouras	9
+Venda	9
+Vila Formosa	9
+Água Preta	8
+Amapá	8
+Arroz	8
+Baião	8
+Baixas	8
+Baraúna	8
+Barranco Alto	8
+Barreirinho	8
+Barreto	8
+Batatal	8
+Borges	8
+Brito	8
+Brotas	8
+Buritirana	8
+Cágado	8
+Caieira	8
+Camaçari	8
+Cambuí	8
+Canadá	8
+Capanema	8
+Capela	8
+Capoeirão	8
+Capuava	8
+Cariri	8
+Carrapateira	8
+Catingueira	8
+Centenário	8
+Cercadinho	8
+Cerrado	8
+Cidade Nova	8
+Condado	8
+Consolação	8
+Coqueiral	8
+Cristal	8
+Cumbe	8
+Cutia	8
+Ema	8
+Entroncamento	8
+Erval	8
+Facão	8
+Fagundes	8
+Farias	8
+Favela	8
+Fazenda Velha	8
+Fernandes	8
+Frade	8
+Frecheiras	8
+Grajaú	8
+Grama	8
+Ingazeira	8
+Ipueiras	8
+Japão	8
+Jardim Paulista	8
+Juçaral	8
+Lagoa da Cruz	8
+Lagoa do Canto	8
+Lagoa Funda	8
+lagoas	8
+Linha Gaúcha	8
+Linha Salete	8
+Macaúbas	8
+Maloca	8
+Maracanã	8
+Marajá	8
+Mariana	8
+Massaranduba	8
+Mata Escura	8
+Mato Dentro	8
+Medeiros	8
+Melancias	8
+Mombaça	8
+Monte Alto	8
+Monte Azul	8
+Monte Santo	8
+Mutuca	8
+Neves	8
+Nova Descoberta	8
+Nova Fátima	8
+Nova Veneza	8
+Novo Paraíso	8
+Oitis	8
+Paineiras	8
+Palmas	8
+Pau de Colher	8
+Pau-d'Arco	8
+Pau-Ferro	8
+Pedra de Amolar	8
+Pedra Redonda	8
+Pedra Vermelha	8
+Pereiros	8
+Pilar	8
+Pindaíba	8
+Pinhão	8
+Pinheirinho	8
+Pinhões	8
+Pirajá	8
+Pitanga	8
+Piúva	8
+Poço Fundo	8
+Poço Redondo	8
+Pôrto Novo	8
+Posses	8
+Raizama	8
+Rancho Alegre	8
+Renascença	8
+Ribeirão das Pedras	8
+Ribeirãozinho	8
+Rio da Prata	8
+Rio do Meio	8
+Sangradouro	8
+Santa Ana	8
+Santa Rita de Cássia	8
+Santarém	8
+São Luis	8
+Sem Denominação	8
+Sítio Esperança	8
+Sítio Oliveira	8
+Sítio Santa Teresa	8
+Sítio São Luis	8
+Souza	8
+Suçuarana	8
+Sumaúma	8
+Tambor	8
+Tanques	8
+Tavares	8
+Três Lagoas	8
+Treze de Maio	8
+Una	8
+Varzinha	8
+Viçosa	8
+Vila Aparecida	8
+Vila Paraíso	8
+Vila Velha	8
+Açudinho	7
+Água Doce	7
+Alívio	7
+Almeida	7
+Anchieta	7
+Andaraí	7
+Areado	7
+Areão	7
+Areial	7
+Arizona	7
+Arroio Grande	7
+Arvoredo	7
+Bacaba	7
+Bairro Alto	7
+Bairro Areia Branca	7
+Bairro Bela Vista	7
+Baixa	7
+Baixa Funda	7
+Bandarra	7
+Barra Velha	7
+Barragem	7
+Barro Prêto	7
+Barrocas	7
+Belo Monte	7
+Braúna	7
+Brilhante	7
+Bugre	7
+Caatinga	7
+Cabaceira	7
+Cacimba Nova	7
+Caiana	7
+Cajàzeira	7
+Campos Novos	7
+Canto Grande	7
+Capão Alto	7
+Capão Bonito	7
+Capoeira Grande	7
+Carnaíba	7
+Carneiro	7
+Cerro Azul	7
+Cidade Alta	7
+Cocos	7
+Colocação São José	7
+Colorado	7
+Córrego Fundo	7
+Cristóvão	7
+Espigão	7
+Espraiado	7
+Fazenda São José	7
+Figueiredo	7
+Formigueiro	7
+Formoso	7
+Fortuna	7
+Galiléia	7
+Garcia	7
+Garrafão	7
+Garrote	7
+Gramado	7
+Graminha	7
+Guajiru	7
+Iguaçu	7
+Iguatemi	7
+Imbé	7
+Indaiá	7
+Inhuma	7
+Itacolomi	7
+Itaguaçu	7
+Itapema	7
+Itapeva	7
+Jacarezinho	7
+Jangada	7
+Jardim América	7
+Jequitibá	7
+Jitirana	7
+Jurubeba	7
+Lagoa das Pedras	7
+Lagoa do Meio	7
+Lagoa Preta	7
+Lagoa Verde	7
+Lapinha	7
+Linha Aparecida	7
+Linha Bonita	7
+Lourenço	7
+Maceió	7
+Malhada da Areia	7
+Mandaçaia	7
+Maniçoba	7
+Maracajá	7
+Maracujá	7
+Marcelino	7
+Maribondo	7
+Marimbondo	7
+Mata Grande	7
+Matadouro	7
+Matões	7
+Mauá	7
+Medianeira	7
+Mineiro	7
+Mirante	7
+Monte Negro	7
+Mororó	7
+Morro Branco	7
+Muriçoca	7
+Niterói	7
+Nova Floresta	7
+Novo Destino	7
+Olhos-d'Água	7
+Ouro Preto	7
+Outeiro	7
+Paiol Grande	7
+Panorama	7
+Pau Ferrado	7
+Pedregulho	7
+Pedreiras	7
+Pensamento	7
+Pernambuco	7
+Peroba	7
+Perobas	7
+Perseverança	7
+Pesqueiro	7
+Piranha	7
+Pitangueiras	7
+Placas	7
+Pombal	7
+Ponte	7
+Porcos	7
+Porto Novo	7
+Porto Seguro	7
+Pulador	7
+Quatis	7
+Quixabeira	7
+Regalo	7
+Restinga	7
+Riacho Fechado	7
+Riacho Seco	7
+Ribeirão do Meio	7
+Rio da Areia	7
+Rio Pequeno	7
+Rio Prêto	7
+Sabiá	7
+Saco Grande	7
+Salvador	7
+Santa Marta	7
+Santa Vitória	7
+Santo Aleixo	7
+Santos	7
+São Bartolomeu	7
+São Braz	7
+São Cristovão	7
+São João Batista	7
+São Judas Tadeu	7
+São Nicolau	7
+São Tiago	7
+Serra Dourada	7
+Sítio Cachoeira	7
+Sítio Nossa Senhora do Carmo	7
+Sítio Três Marias	7
+Sororoca	7
+Stio So Benedito	7
+Tabuão	7
+Taperinha	7
+Tauá	7
+Tauari	7
+Trapiche	7
+Três Pinheiros	7
+Tronco	7
+Tucumã	7
+Utinga	7
+Valério	7
+Valparaíso	7
+Vargem Bonita	7
+Velha	7
+Ventania	7
+Veredinha	7
+Vermelha	7
+Vermelho	7
+Viana	7
+Vila da Paz	7
+Vila Esperança	7
+Vila Ipiranga	7
+Vila São Paulo	7
+Xavier	7
+Abóbora	6
+Água Azul	6
+Água Comprida	6
+Água Santa	6
+Água Vermelha	6
+Alegrete	6
+Aleixo	6
+Aman	6
+Amazonas	6
+Ambrósio	6
+Andiroba	6
+Angico Branco	6
+Anil	6
+Áreas	6
+Babilônia	6
+Baguaçu	6
+Bairro Morro Grande	6
+Barra da Cruz	6
+Barra Funda	6
+Barra Verde	6
+Batinga	6
+Beija-Flor	6
+Boa Esperanca	6
+Bom Gosto	6
+Bonita	6
+Borda da Mata	6
+Cabaceiras	6
+Cachimbo	6
+Cadoz	6
+Cafelândia	6
+Campanha	6
+Campo Formoso	6
+Canela	6
+Canindé	6
+Canta Galo	6
+Caraibeiras	6
+Caraúbas	6
+Carnaúbas	6
+Carvoeiro	6
+Castanha	6
+Castanheira	6
+Catete	6
+Caxingó	6
+Central	6
+Chácara	6
+Chapadão	6
+Chapéu	6
+Coelho	6
+Colocação São Francisco	6
+Comunidade Nossa Senhora Aparecida	6
+Comunidade São Pedro	6
+Congonhas	6
+Coroatá	6
+Cotia	6
+Covanca	6
+Cruzeirinho	6
+Cubatão	6
+Cujubim	6
+Curral Novo	6
+Custódio	6
+Destêrro	6
+Distrito Industrial	6
+Eldorado	6
+Fazenda Jurema	6
+Ferreira	6
+Firmino	6
+Flamengo	6
+Flecheira	6
+Flor da Serra	6
+Flora	6
+Fonseca	6
+Forte	6
+Fumaça	6
+Galheiro	6
+Getúlio Vargas	6
+Grota	6
+Grota Funda	6
+Guanabara	6
+Harmonia	6
+Icó	6
+Igrejinha	6
+Imburana	6
+Inhumas	6
+Itamarati	6
+Itaporanga	6
+Itaúba	6
+Jacuba	6
+Jaracatiá	6
+Jaraguá	6
+Jataí	6
+Jerimum	6
+Jerônimo	6
+Jerusalém	6
+Jirau	6
+José Alves	6
+Jundiacanga	6
+Lagoa de Cima	6
+Lagoa de Pedra	6
+Lagoa dos Patos	6
+Lagoa Velha	6
+Lajeiro	6
+Lameiro	6
+Largo	6
+Lavras	6
+Linha Tigre	6
+Lôbo	6
+Loreto	6
+Macapá	6
+Mangue Seco	6
+Manguinhos	6
+Maranhão	6
+Mari	6
+Marmeleiro	6
+Mata Limpa	6
+Mato Alto	6
+Maxixe	6
+Mendonça	6
+Mimosa	6
+Mirandópolis	6
+Miriti	6
+Moinho	6
+Montes Claros	6
+Morretes	6
+Morro Agudo	6
+Morro Alto	6
+Morro Azul	6
+Morro Redondo	6
+Mourão	6
+Mucambo	6
+Mundo Nôvo	6
+Muritiba	6
+Nossa Senhora do Carmo	6
+Nova América	6
+Nova Aurora	6
+Nova Canaã	6
+Nova Jerusalém	6
+Novo Mundo	6
+Paraguai	6
+Pau Prêto	6
+Pé da Serra	6
+Peba	6
+Pedras Brancas	6
+Pedroso	6
+Pequizeiro	6
+Perdizes	6
+Periquito	6
+Petrópolis	6
+Piabas	6
+Pilão	6
+Pimentel	6
+Pintado	6
+Pintos	6
+Piquizeiro	6
+Piraí	6
+Pirapetinga	6
+Pirapora	6
+Piratininga	6
+Poço d'Anta	6
+Poço da Onça	6
+Poço de Pedra	6
+Ponta d'Água	6
+Ponta Grossa	6
+Pontão	6
+Pontinha	6
+Portão	6
+Porto	6
+Prosperidade	6
+Raiz	6
+Realeza	6
+Rebojo	6
+Remédio	6
+Riacho Doce	6
+Riacho dos Cavalos	6
+Ribeirão Bonito	6
+Ribeiro	6
+Rio Azul	6
+Rio das Antas	6
+Rio Fundo	6
+Rocha	6
+Rodrigues	6
+Rondinha	6
+Roque	6
+Salitre	6
+Sampaio	6
+Santa Margarida	6
+Santo Onofre	6
+São Diogo	6
+Saúde	6
+Serra Azul	6
+Sete de Setembro	6
+Sítio Água-Branca	6
+Sítio Alto Alegre	6
+Sítio Bom Jardim	6
+Sítio Capão Bonito	6
+Sítio Floresta	6
+Sítio Jabuticabal	6
+Sítio João Moreira	6
+Sítio Nova Esperança	6
+Sítio Palmeiras	6
+Sítio Pedra Grande	6
+Sítio Pica-Pau	6
+Sítio Santa Inês	6
+Sítio Santo Agostinho	6
+Sítio São Lázaro	6
+Sítio São Marcos	6
+Solidão	6
+Stio Santo Antnio	6
+Surubim	6
+Sussuarana	6
+Taboão	6
+Taboleiro	6
+Tabuleirinho	6
+Talhado	6
+Tataíra	6
+Tijuco Preto	6
+Tijuco Prêto	6
+Três Bocas	6
+Três Marias	6
+Três Poços	6
+Uirapuru	6
+Uruçu	6
+Usina	6
+Várzea Comprida	6
+Várzea da Cruz	6
+Vereda Grande	6
+Vieiras	6
+Vila Conceição	6
+Viração	6
+Xaxim	6
+Abreu	5
+Acará	5
+Agostinho	5
+Água Bela	5
+Água Verde	5
+Alagoas	5
+Alagoinhas	5
+Alto da Serra	5
+Alves	5
+Amargosa	5
+Anastácio	5
+Antinha	5
+Aquidabã	5
+Araçás	5
+Araticum	5
+Atalho	5
+Bairro Boa Vista	5
+Bairro da Lagoa	5
+Bairro das Palmeiras	5
+Bairro Santo Antônio	5
+Baixa Alegre	5
+Baliza	5
+Baronesa	5
+Barra Alegre	5
+Barras	5
+Barreirão	5
+Barreiro Grande	5
+Barro Duro	5
+Barros	5
+Batoque	5
+Baturité	5
+Bela Aurora	5
+Benedito	5
+Boa Paz	5
+Boa Viagem	5
+Bocaiúva	5
+Boi	5
+Bolandeira	5
+Bom Sossêgo	5
+Bom Tempo	5
+Bom Viver	5
+Borborema	5
+Bracinho	5
+Brandão	5
+Bravo	5
+Brejal	5
+Brumado	5
+Buenos	5
+Buracão	5
+Buraco D'Água	5
+Buri	5
+Cabaças	5
+Cabeça de Boi	5
+Cabuçu	5
+Cachoeira Grande	5
+Cacimba de Baixo	5
+Café	5
+Caité	5
+Cajuí	5
+Caldeirãozinho	5
+Caldeirões	5
+Camarão	5
+Cambará	5
+Campo Comprido	5
+Candeia	5
+Canoa	5
+Canto Alegre	5
+Capão Grande	5
+Capão Redondo	5
+Capinal	5
+Capinzal	5
+Capoeirinha	5
+Caramuru	5
+Carapina	5
+Carioca	5
+Carnaùbinha	5
+Carneiros	5
+Carqueija	5
+Carrapicho	5
+Carretão	5
+Carro Quebrado	5
+Casa de Pedra	5
+Cascalho	5
+Castanho	5
+Catarina	5
+Cavaco	5
+Caxambu	5
+Charqueada	5
+Chiqueiro	5
+Cidade de Deus	5
+Cipoal	5
+Cobra	5
+Coimbra	5
+Colônia Nova	5
+Comunidade São José	5
+Comunidade São Sebastião	5
+Congo	5
+Corredeira	5
+Córrego Grande	5
+Correias	5
+Corumbá	5
+Costa	5
+Costas	5
+Criciúma	5
+Crioli	5
+Cruz Alta	5
+Curral	5
+Curral de Pedra	5
+Curral Queimado	5
+Curuçá	5
+Curva	5
+Descoberta	5
+Descoberto	5
+Desterro	5
+Dias	5
+Divinópolis	5
+Divisão	5
+Dois Córregos	5
+Dom Bosco	5
+Douradinho	5
+Duas Lagoas	5
+Encantado	5
+Entre-Rios	5
+Espinho	5
+Espinilho	5
+Esplanada	5
+Estivado	5
+Estivas	5
+Estrela do Norte	5
+Exu	5
+Fazenda Cachoeira	5
+Fazenda Santa Rosa	5
+Fazenda São Paulo	5
+Fé em Deus	5
+Felicidade	5
+Felipe	5
+Ferrugem	5
+Filadélfia	5
+Flexal	5
+Flexeiras	5
+Flôres	5
+Floriano Peixoto	5
+Florianópolis	5
+França	5
+Frecheira	5
+Gameleiras	5
+Gentil	5
+Gentio	5
+Gonçalo	5
+Grande	5
+Guará	5
+Guararapes	5
+Guararema	5
+Guarujá	5
+Horto	5
+Horto Florestal	5
+Ibicuí	5
+Igarapé Grande	5
+Igarapé-Açu	5
+Imbuial	5
+Inajá	5
+Indaiatuba	5
+Ingàzeira	5
+Inhaúma	5
+Invernada	5
+Ipueirinha	5
+Itabaiana	5
+Itaí	5
+Itaipu	5
+Itapeti	5
+Ivaí	5
+Jaboticaba	5
+Jacareí	5
+Jacobina	5
+Jaguari	5
+Jaguaribe	5
+Jamari	5
+Jararaca	5
+Jatuarana	5
+Jucá	5
+Juremal	5
+Lages	5
+Lagoa Azul	5
+Lagoa Cercada	5
+Lagoa de Baixo	5
+Lagoa do Arroz	5
+Lajeadinho	5
+Lajeado Bonito	5
+Lajeado Grande	5
+Lavrinha	5
+Lima	5
+Linda Vista	5
+Linha Progresso	5
+Linha São João	5
+Lontra	5
+Lorena	5
+Maçaranduba	5
+Macaúba	5
+Macedônia	5
+Machados	5
+Maciel	5
+Maguari	5
+Malvinas	5
+Mamoeiro	5
+Marilândia	5
+Marques	5
+Mata Fresca	5
+Mata Verde	5
+Matias	5
+Mato Grande	5
+Mazagão	5
+Meio	5
+Mineiros	5
+Mirim	5
+Monte Carmelo	5
+Monte Sião	5
+Morcego	5
+Mota	5
+Mumbuca	5
+Nogueira	5
+Nossa Senhora da Conceição	5
+Nossa Senhora do Livramento	5
+Nova Betânia	5
+Nova Roma	5
+Novo Jardim	5
+Novo Planalto	5
+Oiti	5
+Oitizeiro	5
+Ouro	5
+Ouro Branco	5
+Ouro Fino	5
+Pântano	5
+Paraná	5
+Paredão	5
+Parelhas	5
+Paricatuba	5
+Pati	5
+Pau-d'Alho	5
+Paulicéia	5
+Pedra de Fogo	5
+Pedrão	5
+Pedrinha	5
+Pequiá	5
+Pereiro	5
+Periperi	5
+Pião	5
+Pimentas	5
+Pimenteira	5
+Pinheirinhos	5
+Pintada	5
+Pio X	5
+Piraporinha	5
+Pires	5
+Pitinga	5
+Pituba	5
+Pocinhos	5
+Poço da Cruz	5
+Ponta Alegre	5
+Ponto Novo	5
+Porto Velho	5
+Presidente Kennedy	5
+Raposa	5
+Região III Bento Ferreira	5
+Reserva	5
+Rio Acima	5
+Roça	5
+Roçado	5
+Roma	5
+Sacramento	5
+Salão	5
+Salto Grande	5
+Sanharó	5
+Santa Amélia	5
+Santa Efigênia	5
+São João do Paraíso	5
+Sao Jose	5
+São Lázaro	5
+São Lucas	5
+São Roberto	5
+Sapezal	5
+Segrêdo	5
+Serra Nova	5
+Serrote Branco	5
+Sete Lagoas	5
+Silvânia	5
+Sítio Antônio Alves	5
+Sítio Antônio Pereira	5
+Sítio Beija-Flor	5
+Sítio Belo Horizonte	5
+Sítio Cachoeirinha	5
+Sítio Fernandes	5
+Sítio João Rodrigues	5
+Sítio Lagoa	5
+Sítio Laranjal	5
+Sítio Limoeiro	5
+Sítio Matão	5
+Sítio Nossa Senhora de Lourdes	5
+Sítio Pedra Branca	5
+Sítio Pinhalzinho	5
+Sítio Pinheirinho	5
+Sítio Pinheiro	5
+Sítio Santa Cecilia	5
+Sítio Santa Cecília	5
+Sítio São Lourenço	5
+Sítio São Salvador	5
+Sítio Uirapuru	5
+Sítio União	5
+Soroca Mirim	5
+Stio Santa Rita	5
+Sucuriju	5
+Surrão	5
+Tabuleiro Grande	5
+Tamandaré	5
+Tapagem	5
+Tapira	5
+Tarumã	5
+Teixeira	5
+Teresinha	5
+Tijuca	5
+Timbauba	5
+Timorante	5
+Tirol	5
+Toca	5
+Tombador	5
+Torres	5
+Torta	5
+Tranqueira	5
+Três Bôcas	5
+Três Pontes	5
+Ubatuba	5
+Unha de Gato	5
+Urucurituba	5
+Uruguai	5
+Vaca Brava	5
+Vale Verde	5
+Valentim	5
+Valinhos	5
+Vaquejador	5
+Vargem Limpa	5
+Várzea Alegre	5
+Velame	5
+Vertente	5
+Vila Bandeirantes	5
+Vila Isabel	5
+Vila Operária	5
+Vila Santa Maria	5
+Vila Santo Antônio	5
+Vila São Pedro	5
+Vista Nova	5
+Vitorino	5
+Volta do Rio	5
+Xingu	5
+Xiquexique	5
+Zabelê	5
+Abelha	4
+Acampamento	4
+Açu	4
+Açude Velho	4
+Adrianópolis	4
+Aeroporto	4
+Água Suja	4
+Águas Brancas	4
+Alambique	4
+Albuquerque	4
+Alemão	4
+Altinho	4
+Alto da Bela Vista	4
+Alto Formoso	4
+Alto Lindo	4
+Alto Paraíso	4
+Amaro	4
+Amazônia	4
+América	4
+Amolar	4
+Anajá	4
+Andirobal	4
+Anhumas	4
+Antonina	4
+Antônio Gonçalves	4
+Antônio Pereira	4
+Apolinário	4
+Apuí	4
+Araça	4
+Araponga	4
+Armazém	4
+Arroio Bonito	4
+Atafona	4
+Aterradinho	4
+Avencal	4
+Azevém	4
+Bacurau	4
+Bagre	4
+Baía	4
+Baianópolis	4
+Bairro Dúvida	4
+Bairro Estreitinho	4
+Bairro Pimentas	4
+Baixão do Cedro	4
+Baixão Grande	4
+Baixão II	4
+Baixo	4
+Balança	4
+Bambu	4
+Bandeirante	4
+Bandeirinha	4
+Baraúnas	4
+Barcelos	4
+Barra da Forquilha	4
+Barra de Santana	4
+Barra do Brejo	4
+Barra do Limoeiro	4
+Barra do Rio	4
+Barra Seca	4
+Barroca Funda	4
+Bastiões	4
+Baú do Centro	4
+Baús	4
+Bela União	4
+Benjamin Constant	4
+Bentos	4
+Bernardo	4
+Besouro	4
+Boa Água	4
+Boa Lembrança	4
+Boca do Mato	4
+Boi Morto	4
+Boiadeiro	4
+Bola	4
+Bom Despacho	4
+Bom Pastor	4
+Bom Será	4
+Bosque	4
+Braço Feio	4
+Braga	4
+Bragança	4
+Brejaúba	4
+Buraco Quente	4
+Cabaceiro	4
+Cabeça da Onça	4
+Cabeça de Vaca	4
+Cabeceiras	4
+Cabiúna	4
+Cabral	4
+Cacaré	4
+Cacimba do Meio	4
+Cacimbão	4
+Caetés	4
+Cafezal	4
+Caiçarinha	4
+Cairu	4
+Caixa d'Água	4
+Cajaíba	4
+Cajàzeiras	4
+Camaratuba	4
+Cametá	4
+Campelo	4
+Campina Bonita	4
+Campinhos	4
+Campo	4
+Campo Belo	4
+Campo Santo	4
+Camurupim	4
+Cananéia	4
+Canas	4
+Cancã	4
+Cancela	4
+Candeal	4
+Canindezinho	4
+Capão Verde	4
+Capim-Angola	4
+Caraça	4
+Carandá	4
+Carandàzal	4
+Carapanã	4
+Caratuva	4
+Caraúba	4
+Carlos Gomes	4
+Carolina	4
+Carrasco	4
+Carvalho	4
+Carvão	4
+Castro Alves	4
+Catinga	4
+Catingueiro	4
+Catumbi	4
+Ceará	4
+Cerquinha	4
+Cervo	4
+Céu Azul	4
+Chalé	4
+Chaves	4
+Cidade Universitária	4
+Coco	4
+Cohab	4
+Colégio	4
+Colinas	4
+Colocação São Pedro	4
+Colombo	4
+Contenda	4
+Convento	4
+Coração de Jesus	4
+Cordilheira	4
+Coroa	4
+Coroado	4
+Córrego do Ouro	4
+Córrego Novo	4
+Costa Rica	4
+Cotovelo	4
+Coutinho	4
+Cruzes	4
+Cruzinha	4
+Cunhas	4
+Cupim	4
+Cupins	4
+Curimatá	4
+Curral do Meio	4
+Curral Falso	4
+Curumu	4
+Curupira	4
+Dendê	4
+Despraiado	4
+Diamantino	4
+Divino	4
+Divino Espírito Santo	4
+Dourados	4
+Duas Pontes	4
+Duque de Caxias	4
+Embaúba	4
+Engenho d'Água	4
+Enxu	4
+Estação	4
+Estância	4
+Estância Velha	4
+Estrada Nova	4
+Falcão	4
+Farol	4
+Faustino	4
+Fazenda Alegre	4
+Fazenda Bonfim	4
+Fazenda Boqueirão	4
+Fazenda Canafistula	4
+Fazenda Cipó	4
+Fazenda Lajes	4
+Fazenda Pau Branco	4
+Fazenda Saco	4
+Fazenda Salgado	4
+Fazenda Santa Fé	4
+Fazenda Santa Maria	4
+Feirinha	4
+Feital	4
+Feitoria	4
+Félix	4
+Filipe	4
+Flechas	4
+Florestal	4
+Floriano	4
+Flórida	4
+Fragoso	4
+Freguesia	4
+Freitas	4
+Frutal	4
+Fundo	4
+Gama	4
+Garapa	4
+Garganta	4
+Gaúcha	4
+Graciosa	4
+Gravata	4
+Grosso	4
+Guabiraba	4
+Guabiroba	4
+Guadalupe	4
+Guaíra	4
+Guaporé	4
+Guaraú	4
+Guariroba	4
+Guedes	4
+Gurupá	4
+Hidrolândia	4
+Horácio	4
+Ibó	4
+Icaraí	4
+Iguape	4
+Indianópolis	4
+Inga	4
+Inveja	4
+Ipê	4
+Ipixuna	4
+Ipuaçu	4
+Itaboca	4
+Itaíba	4
+Itaoca	4
+Itaparica	4
+Itapiranga	4
+Itapoã	4
+Itapuca	4
+Itaqui	4
+Itararé	4
+Itaubal	4
+Itoupava	4
+Jabaquara	4
+Jaborandi	4
+Jabuticaba	4
+Jacuípe	4
+Jacundá	4
+Jaguara	4
+Jaguarari	4
+Jaguaripe	4
+Jambeiro	4
+Jardim Laranjeiras	4
+Jardim Paraíso	4
+Jardim Santa Cruz	4
+Jardim Tropical	4
+Jardinópolis	4
+Jatoba	4
+Jericó	4
+João Pedro	4
+João Vieira	4
+Juàzeirinho	4
+Juçara	4
+Jucurutu	4
+Julião	4
+Juncal	4
+Jurumirim	4
+Jussara	4
+Lageado	4
+Lagoa Branca	4
+Lagoa da Porta	4
+Lagoa de Fora	4
+Lagoa dos Cavalos	4
+Lagoa Queimada	4
+Lambedor	4
+Lava-Pés	4
+Lemos	4
+Linha Brasil	4
+Linha São José	4
+Linha São Paulo	4
+Linha São Pedro	4
+Linha União	4
+Loteamento Bougainville	4
+Lourdes	4
+Lúcios	4
+Macajuba	4
+Madalena	4
+Malhada do Meio	4
+Mandioca	4
+Mandu	4
+Mangue	4
+Mantiqueira	4
+Maquiné	4
+Maratuã	4
+Marcação	4
+Marcos	4
+Margarida	4
+Maringá	4
+Marinheiro	4
+Marmelo	4
+Mata Burro	4
+Mata Pasto	4
+Mato Branco	4
+Mato Queimado	4
+Mato Seco	4
+Melado	4
+Menino Deus	4
+Milagre	4
+Milagres	4
+Miramar	4
+Moema	4
+Moenda	4
+Mofumbo	4
+Monguba	4
+Monte	4
+Monte Serrat	4
+Moquém	4
+Morais	4
+Morro	4
+Morro da Cruz	4
+Moura	4
+Mucuri	4
+Mucuripe	4
+Mundaú	4
+Munguba	4
+N Núcleo Habitacional	4
+Nascente	4
+Nossa Senhora da Aparecida	4
+Nova Aliança	4
+Nova Estrela	4
+Nova Glória	4
+Nova Holanda	4
+Novo Brasil	4
+Onças	4
+Oratório	4
+Pacatuba	4
+Pacu	4
+Paiçandu	4
+Pajuçara	4
+Palhal	4
+Palheta	4
+Palmira	4
+Palmito	4
+Papanduva	4
+Pará	4
+Parafuso	4
+Parque Alvorada	4
+Passa Quatro	4
+Passagem de Pedra	4
+Passagem Velha	4
+Passarinho	4
+Passo Fundo	4
+Patis	4
+Pau de Leite	4
+Pedra Azul	4
+Pedregal	4
+Pendência	4
+Pequi	4
+Perpétuo Socorro	4
+Pessegueiro	4
+Piçarra	4
+Pimenteiras	4
+Pindobal	4
+Pinheiral	4
+Piracema	4
+Pirapó	4
+Piratuba	4
+Pitangueira	4
+Poço Dantas	4
+Poço das Pedras	4
+Pombos	4
+Pompéia	4
+Pompeu	4
+Ponta	4
+Ponta da Areia	4
+Ponta do Morro	4
+Ponte de Pedra	4
+Ponte Velha	4
+Porangaba	4
+Porteirinha	4
+Porto Franco	4
+Pôrto Quinze de Agôsto	4
+Pôrto Seguro	4
+Pôrto Velho	4
+Potreiro	4
+Povoação	4
+Prado	4
+Preguiça	4
+Presidente Castelo Branco	4
+Presidente Dutra	4
+Presidente Juscelino	4
+Presídio	4
+Primeiro de Maio	4
+Promissão	4
+Quatro Bocas	4
+Quebra-Coco	4
+Queimada Nova	4
+Queiroz	4
+Queixada	4
+Querência	4
+Quilômetro Doze	4
+Quinze de Novembro	4
+Quixabá	4
+Quixadá	4
+Raimundo	4
+Rajada	4
+Ramadinha	4
+Ramalho	4
+Ranchinho	4
+Rancho do Povo	4
+Rancho Queimado	4
+Raposo	4
+Recife	4
+Repartição	4
+República	4
+Retirinho	4
+Riacho da Cruz	4
+Ribeirão Claro	4
+Rincão	4
+Rio Abaixo	4
+Rio das Flores	4
+Rio do Norte	4
+Rio do Salto	4
+Rio dos Bugres	4
+Rio dos Patos	4
+Rio Manso	4
+Rio Negro	4
+Rio Pardo	4
+Rio Sêco	4
+Rochedo	4
+Rondolândia	4
+Rubim	4
+Rui Barbosa	4
+Rumo	4
+Saboeiro	4
+Sabugueiro	4
+Saco da Onça	4
+Sagrada Família	4
+Saguim	4
+Sales	4
+Salgada	4
+Salvaterra	4
+Sambaqui	4
+Sant'Ana	4
+Santa Emília	4
+Santa Eugênia	4
+Santa Joana	4
+Santa Rosa de Lima	4
+Santa Sofia	4
+Santo Antônio da Barra	4
+Santo Cristo	4
+Santo Hilário	4
+Santo Isidoro	4
+Santo Isidro	4
+Santos Reis	4
+São Clemente	4
+São Cosme	4
+São Filipe	4
+São Francisco de Assis	4
+São Francisco Xavier	4
+São Gotardo	4
+São Gregório	4
+São João da Mata	4
+São Manoel	4
+São Pedro de Alcântara	4
+São Sebastião da Barra	4
+Sapateiro	4
+Sapê	4
+Saracura	4
+Saraiva	4
+Segredo	4
+Sereno	4
+Serra Bonita	4
+Serra d'Água	4
+Serra Pelada	4
+Serra Velha	4
+Serragem	4
+Serrote Verde	4
+Sete Voltas	4
+Silvestre	4
+Sítio Alegre	4
+Sítio Antônio Carlos	4
+Sítio Bom Retiro	4
+Sítio Bonanza	4
+Sítio Boqueirão	4
+Sítio Casa Grande	4
+Sítio Cinco Irmãos	4
+Sítio do Pica-Pau-Amarelo	4
+Sítio dos Pinheiros	4
+Sítio Esmeralda	4
+Sítio Estrela	4
+Sítio Ferreira	4
+Sítio Figueira	4
+Sítio Jequitibá	4
+Sítio João Pedro	4
+Sítio João Pereira	4
+Sítio José Rodrigues	4
+Sítio Monjolinho	4
+Sítio Nossa Senhora das Graças	4
+Sítio Palmital	4
+Sítio Pedro Cardoso	4
+Sítio Posse	4
+Sítio Rancho Alegre	4
+Sítio Recreio	4
+Sítio Rio Acima	4
+Sítio Santa Amélia	4
+Sítio Santa Catarina	4
+Sítio Santa Clara	4
+Sítio Santa Mônica	4
+Sítio Santo Inácio	4
+Sítio São Bernardo	4
+Sítio São Gabriel	4
+Sítio São Jerônimo	4
+Sítio São Manoel	4
+Sítios Novos	4
+Sobral	4
+Sonhém	4
+Sousa	4
+Stio Nossa Senhora Aparecida	4
+Stio So Pedro	4
+Stio So Sebastio	4
+Tabua	4
+Tabuleiro de Dentro	4
+Tamarindo	4
+Tambaqui	4
+Tapuia	4
+Tartaruga	4
+Tatajuba	4
+Tejuco	4
+Tenório	4
+Titaras	4
+Toledo	4
+Tororó	4
+Torrão	4
+Tôrres	4
+Tremembé	4
+Três Pedras	4
+Três Vendas	4
+Trincheira	4
+Tupinambá	4
+Turiaçu	4
+Ubim	4
+Umarituba	4
+Vacaria	4
+Vale do Paraíso	4
+Vale dos Pinheiros	4
+Varadouro	4
+Varjão	4
+Varzea	4
+Várzea Nova	4
+Várzea Redonda	4
+Vassoura	4
+Verde	4
+Vida Nova	4
+Vieira	4
+Vigia	4
+Vila Alice	4
+Vila Branca	4
+Vila de Fátima	4
+Vila Madalena	4
+Vila Mariana	4
+Vila Nazaré	4
+Vila Nova Esperança	4
+Vila Palmares	4
+Vila Primavera	4
+Vila São Jorge	4
+Vila São Sebastião	4
+Vila São Vicente	4
+Vila Verde	4
+Vinhático	4
+Volta Redonda	4
+Xique-Xique	4
+Xiririca	4
+Zé Gomes	4
+Abacate	3
+Abadia	3
+Abóboras	3
+Abolição	3
+Abreus	3
+Acapu	3
+Acaraí	3
+Acari	3
+Acauã	3
+Afonso	3
+Agricolândia	3
+Agrovila Cinco	3
+Agrovila do Projeto de Assentamento Acoci	3
+Agrovila do Projeto de Assentamento Antônio Conselheiro	3
+Agrovila do Projeto de Assentamento Arizona	3
+Agrovila do Projeto de Assentamento Bom Jesus	3
+Agrovila do Projeto de Assentamento Modelo	3
+Agrovila do Projeto de Assentamento Nova Esperança	3
+Agrovila do Projeto de Assentamento Novo Horizonte	3
+Agrovila do Projeto de Assentamento Santa Maria	3
+Agrovila do Projeto de Assentamento São Francisco	3
+Agrovila do Projeto de Assentamento Serrote-Serra Branca	3
+Agrovila do Projeto de Assentamento Zumbi dos Palmares	3
+Agrovila Quatro	3
+Água Branca de Cima	3
+Água Negra	3
+Água Parada	3
+Água-Branca	3
+Aguaí	3
+Aguapé	3
+Águas Frias	3
+Águas Lindas	3
+Agudo	3
+Airi	3
+Alegre de Cima	3
+Alphaville	3
+Alto Feliz	3
+Alto Grande	3
+Alto Santa Terezinha	3
+Alto São José	3
+Alto Vermelho	3
+Alvação	3
+Amaralina	3
+Amendoim	3
+Amianto	3
+Anajatuba	3
+Anajazal	3
+Ananás	3
+Anapurus	3
+Andradas	3
+Andrade	3
+Andreza	3
+Angélica	3
+Ângelo	3
+Angico Torto	3
+Angola	3
+Aninga	3
+Aningas	3
+Anta	3
+Antônio	3
+Antônio Borges	3
+Antônio Carlos	3
+Antunes	3
+Apolônia	3
+Aprazível	3
+Araçatiba	3
+Araçatuba	3
+Araci	3
+Araraquara	3
+Araripe	3
+Araruna	3
+Arataca	3
+Arauá	3
+Araújo	3
+Araxá	3
+Arco Verde	3
+Área Verde	3
+Areadinho	3
+Areias Brancas	3
+Areinhas	3
+Argentina	3
+Aricanduva	3
+Arinos	3
+Aripuanã	3
+Ariri	3
+Arraia	3
+Arrojado	3
+Arruda	3
+Assentamento Nova Esperança	3
+Assentamento São José	3
+Assis Brasil	3
+Aterrado	3
+Auxiliadora	3
+Avaí	3
+Avenida	3
+Bacia	3
+Bacupari	3
+Bailique	3
+Bairro Barra das Provas	3
+Bairro Barra Grande	3
+Bairro Cachoeira	3
+Bairro da Cachoeirinha	3
+Bairro da Paz	3
+Bairro das Andorinhas	3
+Bairro do Tanque	3
+Bairro dos Alves	3
+Bairro dos Canudos	3
+Bairro Guaraú	3
+Bairro Jardim Bela Vista	3
+Bairro Ocorrência	3
+Bairro Ponte Alta	3
+Bairro Ribeirão	3
+Bairro Rio Acima	3
+Bairro Santa Rita	3
+Bairro Três Canais	3
+Baixa da Lagoa	3
+Baixa da Onça	3
+Baixada Fluminense	3
+Baixão Velho	3
+Baleia	3
+Bambuí	3
+Bananas	3
+Barão	3
+Barbacena	3
+Barbado	3
+Barra da Estiva	3
+Barra da Onça	3
+Barra da Prata	3
+Barra do Cedro	3
+Barra do Ingá	3
+Barra do Mendes	3
+Barra do Ouro	3
+Barra do Riachão	3
+Barracas	3
+Barradas	3
+Barreiro Branco	3
+Barretos	3
+Barrigudo	3
+Barroquinha	3
+Bastos	3
+Batateira	3
+Batelão	3
+Baú de Cima	3
+Baú Velho	3
+Baunilha	3
+Beija Flor	3
+Beira-Rio	3
+Bela Aliança	3
+Bela Cruz	3
+Bela Flor	3
+Belchior	3
+Belenzinho	3
+Belo Jardim	3
+Bem-te-vi	3
+Benjamim	3
+Bertioga	3
+Betel	3
+Bezerro Morto	3
+Bezerros	3
+Biboca	3
+Bica	3
+Bicudo	3
+Bicuíba	3
+Biriricas	3
+Boa Fortuna	3
+Bôca da Mata	3
+Bois	3
+Bolívia	3
+Bom Conselho	3
+Bom Gôsto	3
+Bom Sossego	3
+Bomba	3
+Borracha	3
+Borrachudo	3
+Bracatinga	3
+Braço Forte	3
+Brancos	3
+Branquinha	3
+Brás	3
+Brasil	3
+Brasilândia	3
+Brejo Alegre	3
+Brejo Novo	3
+Brejo Velho	3
+Buraco	3
+Buraco Fundo	3
+Buriti Seco	3
+Buritirama	3
+Buritizeiro	3
+Cabana	3
+Cabeça	3
+Cabeceira do Pindaúva	3
+Cabeceira Grande	3
+Cabeceirinha	3
+Cabeleira	3
+Cabo do Campo	3
+Caçadorzinho	3
+Cachoeira Alegre	3
+Cachoeira Seca	3
+Cachoeirão	3
+Cachoeiras	3
+Cacimba de Cima	3
+Cacoal	3
+Caetano	3
+Cafèzal	3
+Cágados	3
+Caiaué	3
+Caicara	3
+Caieiras	3
+Caipora	3
+Caixeta	3
+Cajueiros	3
+Calçada	3
+Caldas	3
+Caldeirão Grande	3
+Calixto	3
+Camacho	3
+Camanducaia	3
+Camargo	3
+Camboatá	3
+Cambuquira	3
+Caminho Novo	3
+Campanário	3
+Campina Grande	3
+Campininha	3
+Campo Alegre de Minas	3
+Campos Elísios	3
+Campos Verdes	3
+Camurugi	3
+Canal	3
+Canamari	3
+Canápolis	3
+Canarana	3
+Canarinho	3
+Canavieira	3
+Canavieiras	3
+Candelária	3
+Candói	3
+Canelinha	3
+Cangalha	3
+Cangati	3
+Cantão	3
+Canto Bom	3
+Canto da Lagoa	3
+Canto da Serra	3
+Canto do Engenho	3
+Capão da Onça	3
+Capela Velha	3
+Capetinga	3
+Capim Açu	3
+Capim Puba	3
+Capim-Grosso	3
+Capitão de Campos	3
+Capitão Mor	3
+Capituva	3
+Capote	3
+Capuavinha	3
+Caraguatá	3
+Carangola	3
+Caranguejo	3
+Caratateua	3
+Caravaggio	3
+Caravágio	3
+Cardosa	3
+Caridade	3
+Caripi	3
+Carnaiba	3
+Carnaíbas	3
+Carnaúbinha	3
+Caroba	3
+Carreiras	3
+Casa Grande	3
+Cascatinha	3
+Cascudo	3
+Castanheiro	3
+Castro	3
+Catalão	3
+Catanduvas	3
+Catimbau	3
+Catinga de Porco	3
+Catolèzinho	3
+Catu	3
+Cavaleiro	3
+Caxangá	3
+Caxias	3
+Cedral	3
+Centro dos Ferreiras	3
+Centro Novo	3
+Cerro Lindo	3
+Chafariz	3
+Chagas	3
+Charco	3
+Chesf	3
+Chorão	3
+Cidade	3
+Cidade dos Meninos	3
+Cigano	3
+Cipriano	3
+Cláudio	3
+Clemente	3
+Cochos	3
+Côcos	3
+Coelho Neto	3
+Colocação Bela Vista	3
+Colocação Centrinho	3
+Colocação São Sebastião	3
+Comercinho	3
+Comércio	3
+Companhia	3
+Comum	3
+Comunidade Santa Luzia	3
+Comunidade Santo Antônio	3
+Comunidade São João	3
+Comunidade São João Batista	3
+Concha	3
+Conde	3
+Congonha	3
+Conselho	3
+Consoladora	3
+Contagem	3
+Contrato	3
+Copacabana	3
+Coqueirinho	3
+Coração de Maria	3
+Corcovado	3
+Corcunda	3
+Corisco	3
+Coroa Grande	3
+Corredor	3
+Córrego do Barro	3
+Córrego do Franco	3
+Córregos	3
+Correia	3
+Correntes	3
+Correnteza	3
+Correntinho	3
+Cortado	3
+Cortume	3
+Coruja	3
+Corumbiara	3
+Costeira	3
+Cotó	3
+Cotovêlo	3
+Coxilha	3
+Coxo	3
+Cravo	3
+Cristalândia	3
+Cristalina	3
+Cristo Redentor	3
+Croata	3
+Cruzeta	3
+Cuiabá	3
+Cuité	3
+Curicaca	3
+Curitiba	3
+Currais Novos	3
+Curral dos Bois	3
+Curral Grande	3
+Curtume	3
+Curuzu	3
+Cutias	3
+Damião	3
+Davinópolis	3
+Demétrio Ribeiro	3
+Depósito	3
+Descalvado	3
+Descampado	3
+Desengano	3
+Dique	3
+Divinéia	3
+Dois de Julho	3
+Dom Aquino	3
+Dom Quintino	3
+Dona Francisca	3
+Duas Passagens	3
+Emparedado	3
+Encanto	3
+Encruzo	3
+Envira	3
+Ermo	3
+Ervalzinho	3
+Escada	3
+Esmeralda	3
+Esmeril	3
+Esperantina	3
+Espirito Santo	3
+Estaleiro	3
+Estância São Francisco	3
+Esteio	3
+Estirão	3
+Eucalipto	3
+Evaristo	3
+Exú	3
+Faria Lemos	3
+Farinha	3
+Farinhas	3
+Farroupilha	3
+Faval	3
+Fazenda Aroeira	3
+Fazenda Baixa Grande	3
+Fazenda Barra Nova	3
+Fazenda Boa Esperanca	3
+Fazenda Cacimbinha	3
+Fazenda Cajazeira	3
+Fazenda Canaã	3
+Fazenda Carnaúba	3
+Fazenda Mocambo	3
+Fazenda Morrinhos	3
+Fazenda Ôlho d'Água	3
+Fazenda Pedra Branca	3
+Fazenda Pitombeira	3
+Fazenda Primavera	3
+Fazenda Riacho	3
+Fazenda Santana	3
+Fazenda Santo Antônio	3
+Fazenda São Francisco	3
+Fazenda São Luis	3
+Fazenda Vista Alegre	3
+Feliciano	3
+Fernão Dias	3
+Ferrão	3
+Ferraz	3
+Ferreiras	3
+Fervedouro	3
+Figueiras	3
+Figueirinha	3
+Flecha	3
+Flechal	3
+Flecheiras	3
+Florestinha	3
+Florida	3
+Folha Larga	3
+Fonte Nova	3
+Forninho	3
+Foz do Jordão	3
+Francisco	3
+Friburgo	3
+Frio	3
+Fundação	3
+Futuro	3
+Galdino	3
+Galeão	3
+Galvão	3
+Gambá	3
+Gameleira de São Sebastião	3
+Garça	3
+Gaspar Simões	3
+General Carneiro	3
+General Osório	3
+Genipapeiro	3
+Gigante	3
+Glicério	3
+Glorinha	3
+Goiabeiras	3
+Gonçalves	3
+Gramadinho	3
+Granada	3
+Gregório	3
+Gruta	3
+Guaçu	3
+Guaiaca	3
+Guaraná	3
+Guaratiba	3
+Guarda Velha	3
+Guardado	3
+Guriri	3
+Herval	3
+Ibiporanga	3
+Ibitira	3
+Ibura	3
+Içara	3
+Igarapé do Meio	3
+Igreja Nova	3
+Iguatu	3
+Ilha das Flores	3
+Ilha de Santana	3
+Imbuí	3
+Imburi	3
+Imperatriz	3
+Inácio	3
+Inácios	3
+Indaial	3
+Invernada Grande	3
+Invernadinha	3
+Ipanema de Cima	3
+Ipanema do Meio	3
+Ipatinga	3
+Ipiabas	3
+Irajá	3
+Irani	3
+Irapuá	3
+Iraque	3
+Irati	3
+Iriri	3
+Isabel	3
+Itaici	3
+Itaimbé	3
+Itaipava	3
+Itaipavas	3
+Itaituba	3
+Itajubá	3
+Itamaracá	3
+Itambé	3
+Itangua	3
+Itans	3
+Itapeúna	3
+Itapitanga	3
+Itaporã	3
+Itapuã	3
+Itapura	3
+Itati	3
+Itatiaia	3
+Itiquira	3
+Itiúba	3
+Itororó	3
+Itumirim	3
+Itupeva	3
+Jaboti	3
+Jacinto	3
+Jacuí	3
+Jacumã	3
+Jaguarão	3
+Jaguaré	3
+Japira	3
+Japurá	3
+Jardim Alvorada	3
+Jardim Atlântico	3
+Jardim Bela Vista	3
+Jardim Botânico	3
+Jardim das Oliveiras	3
+Jardim Eldorado	3
+Jardim Esperança	3
+Jardim Fortaleza	3
+Jardim Guanabara	3
+Jardim Imperial	3
+Jardim Independência	3
+Jardim Petrópolis	3
+Jardim Progresso	3
+Jardim Santa Luzia	3
+Jardim Santo Antônio	3
+Jardim São Domingos	3
+Jardim São Paulo	3
+Jari	3
+Jatobàzinho	3
+Jaú	3
+Jauru	3
+Jequi	3
+Jequitaia	3
+Jeribá	3
+Jiquiri	3
+Joá	3
+Joana Peres	3
+João Paulo	3
+João Pessoa	3
+João Ribeiro	3
+João Rodrigues	3
+Joaquim Antônio	3
+Jorge	3
+José Bonifácio	3
+Joselândia	3
+Jucurupava	3
+Juerana	3
+Juliana	3
+Júlio Borges	3
+Jundiaí	3
+Jundiaquara	3
+Juruá	3
+Juruena	3
+Jurupari	3
+Juscelândia	3
+Juvêncio	3
+Ladeira Grande	3
+Lagarto	3
+Lage	3
+Lago	3
+Lagoa d'Água	3
+Lagoa da Barra	3
+Lagoa da Onça	3
+Lagoa da Serra	3
+Lagoa da Vaca	3
+Lagoa do Mel	3
+Lagoa do Rancho	3
+Lagoa do Saco	3
+Lagoa do Serrote	3
+Lagoa dos Bois	3
+Lagoa dos Porcos	3
+Lagoa Formosa	3
+Lagoa Vermelha	3
+Lagoinhas	3
+Laje Grande	3
+Laranja	3
+Lauro Sodré	3
+Lavadeira	3
+Lavrinhas	3
+Leblon	3
+Leites	3
+Lençóis	3
+Letreiro	3
+Licuri	3
+Limpeza	3
+Lindeza	3
+Linha Bela Vista	3
+Linha Cachoeira	3
+Linha Central	3
+Linha Esperança	3
+Linha Fátima	3
+Linha Formosa	3
+Linha Glória	3
+Linha Lambari	3
+Linha Limeira	3
+Linha Nova	3
+Linha Santa Catarina	3
+Linha Santa Lúcia	3
+Linha São Roque	3
+Linha Trevisan	3
+Linha Vitória	3
+Liso	3
+Lobo	3
+Loteamento Jardim Ana Maria	3
+Lua Nova	3
+Luanda	3
+Lucas	3
+Lucianos	3
+Luís Antônio	3
+Lusitânia	3
+Macaco Branco	3
+Maçarico	3
+Mãe dos Homens	3
+Magalhães	3
+Maia	3
+Malacacheta	3
+Malhada Bonita	3
+Malhada da Aroeira	3
+Malhada de Pedra	3
+Malhada Redonda	3
+Malhador	3
+Malícia	3
+Mamonas	3
+Manaquiri	3
+Mandaguari	3
+Manduca	3
+Mangaba	3
+Mangueiras	3
+Manhoso	3
+Manoel Ribeiro	3
+Mansinha	3
+Mansinho	3
+Manuel Pereira	3
+Manuelzinho	3
+Marambaia	3
+Maratá	3
+Marçal	3
+Marcelândia	3
+Marcelo	3
+Marco	3
+Marfim	3
+Marianópolis	3
+Marias Pretas	3
+Maristela	3
+Marituba	3
+Marreca	3
+Marrocos	3
+Marruá	3
+Marruás	3
+Mata Velha	3
+Materlândia	3
+Matinho	3
+Mato Preto	3
+Mel	3
+Melos	3
+Membeca	3
+Menino Jesus	3
+Mercês	3
+Mesquita	3
+Milhã	3
+Milho	3
+Mina	3
+Mingote	3
+Mirassol	3
+Mocós	3
+Moitas	3
+Moleque	3
+Mombuca	3
+Mondubim	3
+Mônica	3
+Monjolos	3
+Monte Café	3
+Monte Claro	3
+Monte das Oliveiras	3
+Montes Altos	3
+Montevidéo	3
+Morato	3
+Moreiras	3
+Morena	3
+Morro do Meio	3
+Morro Verde	3
+Mossoró	3
+Mucambinho	3
+Mucugê	3
+Mulunguzinho	3
+Mundurucus	3
+Muriti	3
+Murundu	3
+Mutamba	3
+Nascença	3
+Navegantes	3
+Navio	3
+Nereu Ramos	3
+Nicolau	3
+Nossa Senhora da Glória	3
+Nossa Senhora da Guia	3
+Nossa Senhora da Paz	3
+Nossa Senhora de Lourdes	3
+Nova Alegria	3
+Nova Aparecida	3
+Nova Brasilia	3
+Nova Cruz	3
+Nova Galiléia	3
+Nova Granada	3
+Nova Iorque	3
+Nova Itália	3
+Nova Londrina	3
+Nova Santa Cruz	3
+Nova Santa Rita	3
+Novais	3
+Novo Sarandi	3
+Oiteiro	3
+Oiteiros	3
+Ôlho d'Água Grande	3
+Olivença	3
+Ondina	3
+Oralina	3
+Oriental	3
+Orion	3
+Osvaldo Cruz	3
+Ouro Prêto	3
+P V	3
+Pacoval	3
+Padilha	3
+Padre Cícero	3
+Pai João	3
+Pai Paulo	3
+Pai Pedro	3
+Pains	3
+Palanque	3
+Palha	3
+Palmeiral	3
+Panasco	3
+Pão de Açúcar	3
+Papuã	3
+Paquetá	3
+Paracatu	3
+Parada	3
+Paraguaçu	3
+Paraiso	3
+Paraisópolis	3
+Parazinho	3
+Pari	3
+Parnamirim	3
+Parque São Miguel	3
+Parque São Vicente	3
+Pascoal	3
+Passa Três	3
+Passa Vinte	3
+Passagem Nova	3
+Passo da Areia	3
+Passo das Antas	3
+Passo das Pedras	3
+Pastinho	3
+Pastos Bons	3
+Patrocínio	3
+Pau Amarelo	3
+Pau d'Óleo	3
+Pau dos Ferros	3
+Pau Seco	3
+Pau Sêco	3
+Pau Vermelho	3
+Paulo	3
+Paus Brancos	3
+Pavuna	3
+Paz	3
+Pé-da-Ladeira	3
+Pé-do-Morro	3
+Pedra Alta	3
+Pedra do Rumo	3
+Pedra Furada	3
+Pedra Negra	3
+Pedro	3
+Pedro Velho	3
+Pedrosa	3
+Peixoto	3
+Pelado	3
+Pelo Sinal	3
+Pelotas	3
+Peritoró	3
+Pernambuquinho	3
+Perus	3
+Piaçaba	3
+Piauí	3
+Piaus	3
+Pilão de Pedra	3
+Pinduri	3
+Pinga Fogo	3
+Pinheiro Marcado	3
+Pintadas	3
+Pinto	3
+Piqui	3
+Piquiá	3
+Piquiri	3
+Pirá	3
+Piranema	3
+Piraquara	3
+Piriá	3
+Pirituba	3
+Pirizal	3
+Pitangui	3
+Pitimbu	3
+Pito Aceso	3
+Pium	3
+Planaltina	3
+Platina	3
+Poaia	3
+Poço d'Água	3
+Poço de Pedras	3
+Poço do Boi	3
+Poço do Mato	3
+Poço do Meio	3
+Poço Rico	3
+Poço Salgado	3
+Poeira	3
+Pombas	3
+Pombinhas	3
+Ponta Negra	3
+Ponte Funda	3
+Ponte Preta	3
+Pontes	3
+Ponto Alegre	3
+Ponto Chique	3
+Portela	3
+Portelinha	3
+Porto Feliz	3
+Pôrto Franco	3
+Porto Real	3
+Pôrto Rico	3
+Posto FUNAI	3
+Potengi	3
+Pracinha	3
+Praia	3
+Praia Vermelha	3
+Prensa	3
+Preta	3
+Procópio	3
+Quadra	3
+Quarenta	3
+Queimadinha	3
+Queimado	3
+Rabeca	3
+Raiz da Serra	3
+Ramos	3
+Rancho	3
+Rangel	3
+Recurso	3
+Redonda	3
+Reduto	3
+Reforma	3
+Registro	3
+Remédios	3
+Renascer	3
+Represa	3
+Resende	3
+Retiro Saudoso	3
+Retiro Velho	3
+Revolta	3
+Riacho da Areia	3
+Riacho da Serra	3
+Riacho das Pedras	3
+Riacho dos Negros	3
+Riacho Salgado	3
+Ribeirão Branco	3
+Ribeirão de Cima	3
+Ribeirão do Salto	3
+Ribeirão Fundo	3
+Rio do Cedro	3
+Rio do Poço	3
+Rio do Tigre	3
+Rio Doce	3
+Rio dos Índios	3
+Rio dos Porcos	3
+Riqueza	3
+Rita	3
+Roça Nova	3
+Roçadinho	3
+Rodrigues Alves	3
+Romão	3
+Russinha	3
+Saboó	3
+Saco dos Bois	3
+Saco Fundo	3
+Salete	3
+Salgueiro	3
+Salobra	3
+Salomé	3
+Salva Vida	3
+Santa Cecilia	3
+Santa Cruz da Boa Vista	3
+Santa Elisa	3
+Santa Etelvina	3
+Santa Gertrudes	3
+Santa Izabel	3
+Santa Laura	3
+Santa Lucia	3
+Santa Luz	3
+Santa Luzia do Norte	3
+Santa Paula	3
+Santa Úrsula	3
+Santana Velha	3
+Santarém Novo	3
+Santo Afonso	3
+Santo Antônio do Pinhal	3
+Santo Antônio do Porto	3
+Santo Antônio dos Milagres	3
+Santo Estêvão	3
+Santo Isídio	3
+Santo Izídio	3
+São Camilo	3
+São Donato	3
+São Fernando	3
+São Francisco das Chagas	3
+São Francisco de Paula	3
+São Gonçalo do Amarante	3
+São Guilherme	3
+São João Bosco	3
+São João da Serra	3
+São João do Sul	3
+São José da Bela Vista	3
+São José da Boa Vista	3
+São José do Barreiro	3
+São Paulino	3
+Sao Pedro	3
+São Pedro da Serra	3
+São Silvestre	3
+São Tomás	3
+São Vendelino	3
+Sariema	3
+Saudades	3
+Sempre Viva	3
+Senhor dos Passos	3
+Seringal Anari	3
+Seringal Bananal	3
+Seringal Boa Esperança	3
+Seringal São Francisco	3
+Seringal São João	3
+Seringal São Sebastião	3
+Serra Alta	3
+Serra das Almas	3
+Serra do Meio	3
+Serra Redonda	3
+Serrania	3
+Serrotinho	3
+Sertão de Mambucaba	3
+Sesmaria	3
+Sete Barras	3
+Sete Ranchos	3
+Silvado	3
+Simão	3
+Simões	3
+Sítio Aloísio Almeida	3
+Sítio Alto	3
+Sítio Álvaro M Filho	3
+Sítio Antônio	3
+Sítio Antônio D dos Santos	3
+Sítio Antônio de Oliveira	3
+Sítio Antônio Ferreira	3
+Sítio Antônio Marques	3
+Sítio Areia Branca	3
+Sítio Barbosa	3
+Sítio Barra Grande	3
+Sítio Barracão	3
+Sítio Barreirinho	3
+Sítio Barreiro	3
+Sítio Barro Branco	3
+Sítio Batista	3
+Sítio Benedito	3
+Sítio Benedito Mendes	3
+Sítio Benedito Ribeiro	3
+Sítio Bonito	3
+Sítio Bulha	3
+Sítio Capuava	3
+Sítio Casa Branca	3
+Sítio da Barra	3
+Sítio da Serra	3
+Sítio da Vovó	3
+Sítio das Flores	3
+Sítio das Oliveiras	3
+Sítio das Pedras	3
+Sítio do Português	3
+Sítio Dois Lagos	3
+Sítio dos Coqueiros	3
+Sítio Fazendinha	3
+Sítio Fortaleza	3
+Sítio Grande	3
+Sítio Iguatemi	3
+Sítio Ipê	3
+Sítio João Batista	3
+Sítio João Cardoso	3
+Sítio João Maria	3
+Sítio João Marques	3
+Sítio João Siqueira	3
+Sítio José A da Silva	3
+Sítio José Carlos	3
+Sítio José Maria	3
+Sítio José Pereira	3
+Sítio Lavrinha	3
+Sítio Lençol	3
+Sítio Lisboa	3
+Sítio Logradouro	3
+Sítio Luiz Ribeiro	3
+Sítio Maracanã	3
+Sítio Marques	3
+Sítio Monjolo	3
+Sítio Morro Grande	3
+Sítio Nossa Senhora da Guia	3
+Sítio Nossa Senhora do Rosário	3
+Sítio Nosso Recanto	3
+Sítio Nôvo	3
+Sítio Ôlho d'Água	3
+Sítio Olho de Água	3
+Sítio Olho-de Água	3
+Sítio Paiol Velho	3
+Sítio Palmeira	3
+Sítio Panorama	3
+Sítio Parafuso	3
+Sítio Paulo Lopes	3
+Sítio Pavão	3
+Sítio Pedro Ferreira	3
+Sítio Progresso	3
+Sítio Quilombo	3
+Sítio Recanto	3
+Sítio Recanto Feliz	3
+Sítio Riacho Grande	3
+Sítio Ribeirão Bonito	3
+Sítio Ribeirão Grande	3
+Sítio Sabiá	3
+Sítio Sant'Ana	3
+Sítio Santa Fé	3
+Sítio Santa Filomena	3
+Sítio Santa Júlia	3
+Sítio Santa Mariana	3
+Sítio Santa Marta	3
+Sítio Santa Rita de Cássia	3
+Sítio Santo André	3
+Sítio Santo Antônio de Pádua	3
+Sítio São Joáo	3
+Sítio São Judas	3
+Sítio São Lucas	3
+Sítio São Raimundo	3
+Sítio Sapatu	3
+Sítio Sertãozinho	3
+Sítio Soroca Mirim	3
+Sítio Três Meninas	3
+Sítio Vale Verde	3
+Sítio Varginha	3
+Sítio Veiga	3
+Sítio Vera Cruz	3
+Sobreiro	3
+Sombrio	3
+Sorocaba	3
+Stio So Joo	3
+Stio So Jorge	3
+Stio So Lus	3
+Subida	3
+Suçuapara	3
+Sucuriú	3
+Sul Mineira	3
+Sumaré	3
+Suzana	3
+Tabela	3
+Taboa	3
+Taim	3
+Taió	3
+Talismã	3
+Tamborilzinho	3
+Tamburi	3
+Tanque Grande	3
+Tanque Velho	3
+Tapará	3
+Taquaraçu	3
+Taraquá	3
+Tatupeba	3
+Temerante	3
+Teotônio Vilela	3
+Testa Branca	3
+Tijuco	3
+Timbaúva	3
+Timóteo	3
+Tinguis	3
+Toledos	3
+Tomé	3
+Torre	3
+Tôrre	3
+Touro	3
+Trairi	3
+Tranqueiras	3
+Travessia	3
+Três Casas	3
+Três Cruzes	3
+Três Figueiras	3
+Três Morros	3
+Três Palmeiras	3
+Três Passos	3
+Três Pontas	3
+Três Rios	3
+Tubarão	3
+Tubiacanga	3
+Tucunaré	3
+Tupanci	3
+Tupi	3
+Ubá	3
+União da Serra	3
+Universo	3
+Urtiga	3
+Uru	3
+Uruguaiana	3
+Urupema	3
+Vale do Selke	3
+Valença	3
+Valência	3
+Vargem Comprida	3
+Vargem Pequena	3
+Várzea da Ema	3
+Várzea de Baixo	3
+Várzea do Meio	3
+Veado	3
+Venâncio	3
+Vencedor	3
+Vendinha	3
+Venezuela	3
+Ventura	3
+Vereda Comprida	3
+Vereda do Meio	3
+Veredão	3
+Vidéu	3
+Vila Bela	3
+Vila Boa Esperança	3
+Vila Boa Vista	3
+Vila Brasil	3
+Vila Camargo	3
+Vila Cardoso	3
+Vila Cruzeiro	3
+Vila Feliz	3
+Vila Flor	3
+Vila Guarani	3
+Vila Lima	3
+Vila Maranhão	3
+Vila Matias	3
+Vila Militar	3
+Vila Nossa Senhora Aparecida	3
+Vila Planalto	3
+Vila Renascer	3
+Vila Santa Cruz	3
+Vila Santa Terezinha	3
+Vila Santana	3
+Vila São Cristóvão	3
+Vila Seca	3
+Vila Vitória	3
+Vilela	3
+Vinte e Cinco de Março	3
+Visconde do Rio Branco	3
+Vista Bela	3
+Vitória da Conquista	3
+Wenceslau Braz	3
+Xarqueada	3
+Acarape	2
+Acorizal	2
+Acrelândia	2
+Adolfo	2
+Adolfo Konder	2
+Afogados	2
+Agrovila do Projeto de Assentamento Chico Mendes II	2
+Agrovila do Projeto de Assentamento Espírito Santo	2
+Agrovila do Projeto de Assentamento Lagoa Nova II	2
+Agrovila do Projeto de Assentamento Margarida Alves	2
+Agrovila do Projeto de Assentamento Rosário	2
+Agrovila do Projeto de Assentamento Santo Antônio	2
+Agrovila do Projeto de Assentamento São Luís	2
+Agrovila do Projeto de Assentamento São Pedro	2
+Agrovila do Projeto de Assentamento Três Irmãos	2
+Agrovila Oito	2
+Agrovila Seis	2
+Agrovila Três	2
+Água Amarela de Baixo	2
+Água Azul do Norte	2
+Agua Branca	2
+Água Branca de Baixo	2
+Água Fina	2
+Água Fria de Goiás	2
+Águas Negras	2
+Agudos	2
+Aimorés	2
+Ajudante	2
+Alagoa	2
+Alagoa Grande	2
+Alagoinha do Piauí	2
+Alambari	2
+Albertina	2
+Alcântara	2
+Alcantil	2
+Aldeia Bacaeri	2
+Alegrete do Piauí	2
+Alfredo Chaves	2
+Algodão de Jandaíra	2
+Almécegas	2
+Almofala	2
+Alpercata	2
+Alta Floresta d'Oeste	2
+Altaneira	2
+Alterosa	2
+Alto Bela Vista	2
+Alto Boa Vista	2
+Alto Caparaó	2
+Alto da Boa Esperança	2
+Alto da Cabeceira	2
+Alto da Cruz	2
+Alto das Pedras	2
+Alto do Bode	2
+Alto dos Coelhos	2
+Alto Jequitibá	2
+Alto Santa Maria	2
+Alto Santo	2
+Alto São João	2
+Alto São Sebastião	2
+Alto Taquari	2
+Alvarenga	2
+Alvorada do Gurguéia	2
+Amapá do Maranhão	2
+Amargoso	2
+Amaro Leite	2
+Amélia Rodrigues	2
+Anápolis	2
+Andaiá	2
+Andes	2
+Andrelândia	2
+Andrequicé	2
+Angatuba	2
+Angolinha	2
+Angustura	2
+Anhanguera	2
+Anita Garibaldi	2
+Antônio Dias	2
+Antônio João	2
+Antônio Olinto	2
+Antônio Prado de Minas	2
+Antônio Rocha	2
+Aparecida d'Oeste	2
+Apiacás	2
+Aprígio	2
+Apucarana	2
+Aracaju	2
+Aracati	2
+Aracati de Minas	2
+Araçoiaba	2
+Araguanã	2
+Araguatins	2
+Araioses	2
+Arame	2
+Arantina	2
+Arapiraca	2
+Arapua	2
+Arari	2
+Araruama	2
+Aratuba	2
+Araújos	2
+Arcoverde	2
+Areia Vermelha	2
+Areias Pequenas	2
+Areinha	2
+Ariquemes	2
+Ariranha	2
+Armação	2
+Arraial d'Ajuda	2
+Arraias	2
+Arroio Fundo	2
+Aruanã	2
+Assentamento Bela Vista	2
+Assis	2
+Associação	2
+Assunção do Piauí	2
+Augusto Pestana	2
+Áurea	2
+Avencas	2
+Axixá	2
+Axixá do Tocantins	2
+Azambuja	2
+Babaçu	2
+Bacabeira	2
+Bacurituba	2
+Bacurizeiro	2
+Baía dos Pássaros	2
+Baía Formosa	2
+Bairro Areado	2
+Bairro Arixiguana	2
+Bairro Aroeira	2
+Bairro Barro Branco	2
+Bairro Cateto	2
+Bairro da Estação	2
+Bairro das Pedras	2
+Bairro do Carmo	2
+Bairro do Jacarandá	2
+Bairro dos Fernandes	2
+Bairro dos Pereiras	2
+Bairro dos Rodrigues	2
+Bairro Jardim Cruzeiro	2
+Bairro Jardim Jaraguá	2
+Bairro Limoeiro	2
+Bairro Manuel Gomes	2
+Bairro Nova Cidade	2
+Bairro Pirucaia	2
+Bairro Santa Inês	2
+Bairro Tapera Grande	2
+Bairro Taquaruçu	2
+Baixa da Carnaúba	2
+Baixa de Areia	2
+Baixa do Feijão	2
+Baixa Sêca	2
+Baldim	2
+Balneário Arroio do Silva	2
+Balneário Gaivota	2
+Baluarte	2
+Barão de Melgaço	2
+Barão do Triunfo	2
+Barigui	2
+Barra Alta	2
+Barra das Pombas	2
+Barra de Guabiraba	2
+Barra de São Francisco	2
+Barra de São Miguel	2
+Barra de São Pedro	2
+Barra do Gavião	2
+Barra do Jacaré	2
+Barra do Mamanguape	2
+Barra do Prata	2
+Barra do Rio Azul	2
+Barra do Rocha	2
+Barra Fria	2
+Barreira Vermelha	2
+Barrento	2
+Barro Verde	2
+Barroca da Onça	2
+Barrocão II	2
+Barrolândia	2
+Bartolomeu	2
+Batedor	2
+Batovi	2
+Beberibe	2
+Beco	2
+Bedengó	2
+Bela Joana	2
+Belágua	2
+Belarmino	2
+Belas Águas	2
+Belo Campo	2
+Belvedere	2
+Beneditinos	2
+Benjamim Constant	2
+Bentevi	2
+Bexiga	2
+Bicas	2
+Biquinhas	2
+Biriba	2
+Boa Esperança d'Oeste	2
+Boa Ventura de São Roque	2
+Boa Vereda	2
+Boa Vista do Caxitoré	2
+Boa Vista do Tupim	2
+Boa Vista dos Andradas	2
+Boa Vista I	2
+Boa Vitória	2
+Boaventura	2
+Bodoquena	2
+Bom Jesus de Goiás	2
+Bom Jesus do Oeste	2
+Bom Jesus do Sul	2
+Bom Jesus do Tocantins	2
+Bom Princípio do Piauí	2
+Bom Sucesso de Itararé	2
+Bom Sucesso do Sul	2
+Bonfim do Piauí	2
+Bonfinópolis de Minas	2
+Bonito de Minas	2
+Bonópolis	2
+Borá	2
+Borba	2
+Borba Gato	2
+Borboleta	2
+Bossoroca	2
+Botelho	2
+Braço	2
+Braço do Norte	2
+Brasil Novo	2
+Brasilândia de Minas	2
+Brasília Temosa	2
+Brasnorte	2
+Braúnas	2
+Brazlândia	2
+Brejo da Cruz	2
+Brejo de São Félix	2
+Brejo do Piauí	2
+Brejo Santo	2
+Brejões	2
+Brejolândia	2
+Breu Branco	2
+Brumadinho	2
+Brunópolis	2
+Bueno	2
+Buraco da Coruja	2
+Buriti Redondo	2
+Buriticupu	2
+Buritis	2
+Butiá	2
+Caapiranga	2
+Cabaçal	2
+Cabeça Dantas	2
+Cabeceira do Sana	2
+Cabeceiras do Piauí	2
+Cabeço	2
+Cabo de Santo Agostinho	2
+Cabo Verde	2
+Cabreúva	2
+Cabuqueiro	2
+Cacau	2
+Cachoeira Alta	2
+Cachoeira da Prata	2
+Cachoeira de Minas	2
+Cachoeira de Pajeú	2
+Cachoeira Dourada	2
+Cachorro Sentado	2
+Cacimbinhas	2
+Cadete	2
+Caetanos	2
+Caetê	2
+Cafarnaum	2
+Caiçara do Norte	2
+Caicó	2
+Caixa Prego	2
+Cajari	2
+Cajati	2
+Cajual	2
+Cajubim	2
+Cajuri	2
+Cajuru	2
+Calçado	2
+Calçados	2
+Calcilândia	2
+Caldas Brandão	2
+Caldeirão Grande do Piauí	2
+Camalaú	2
+Camaquã	2
+Camaragibe	2
+Camboa	2
+Cambota	2
+Cambuci	2
+Camburi	2
+Caminho da Serra	2
+Campina do Simão	2
+Campina Verde	2
+Campinápolis	2
+Campinas de Pirajá	2
+Campo Alegre de Lourdes	2
+Campo Alegre do Fidalgo	2
+Campo Alto	2
+Campo Bom	2
+Campo Grande do Piauí	2
+Campo Largo do Piauí	2
+Campo Maior	2
+Campo Novo de Rondônia	2
+Campo Novo do Parecis	2
+Campo Real	2
+Campos Belos	2
+Campos de Júlio	2
+Campos Gerais	2
+Campos Lindos	2
+Camurcim	2
+Camurim	2
+Cana	2
+Canaan	2
+Canarana II	2
+Canavial	2
+Candeal Pequeno	2
+Candiba	2
+Cangas	2
+Cangote	2
+Canhotinho	2
+Canivete	2
+Canoinhas	2
+Cansanção	2
+Canteiro	2
+Canto da Siriema	2
+Canto do Feijão	2
+Canutama	2
+Caovi	2
+Capão Comprido	2
+Capão do Meio	2
+Capão Seco	2
+Capela do Alto	2
+Capela Nova	2
+Capim Branco	2
+Capitão	2
+Capitão Andrade	2
+Capitólio	2
+Capixaba	2
+Capoeiras	2
+Caporanga	2
+Capunga	2
+Caputira	2
+Caraibinha	2
+Carandaí	2
+Carandàzinho	2
+Carapebus	2
+Carás	2
+Caravelas	2
+Cariré	2
+Caririmirim	2
+Carnaubalzinho	2
+Carnaubeira da Penha	2
+Carneirinho	2
+Carobinha	2
+Carpina	2
+Carrasco Bonito	2
+Carrazedo	2
+Caruaru	2
+Caruru	2
+Carutapera	2
+Carvalhópolis	2
+Casa Verde	2
+Casimiro	2
+Casinhas	2
+Casquilho	2
+Casserengue	2
+Castanheiras	2
+Castelândia	2
+Catas Altas	2
+Catavento	2
+Catingal	2
+Catuaba	2
+Catuana	2
+Caubi	2
+Cava	2
+Cavalcante	2
+Cavinha	2
+Caxambu do Sul	2
+Caxias do Sul	2
+Caxinauá	2
+Cego	2
+Celma	2
+Centrinho	2
+Centro do Guilherme	2
+Centro Novo do Maranhão	2
+Cepilho	2
+Cerejeira	2
+Cerejeiras	2
+Cerqueira César	2
+Cerro Branco	2
+Cerro Negro	2
+Chã Grande	2
+Chapada de Areia	2
+Chapada do Norte	2
+Chapadão do Céu	2
+Charneca	2
+Charrua	2
+Chicão	2
+Chuí	2
+Cidade Ocidental	2
+Cidreira	2
+Coari	2
+Cocal do Sul	2
+Cocal II	2
+Cocão	2
+Coelhos	2
+Coivaras	2
+Colares	2
+Colatina	2
+Colniza	2
+Colocação Esperança	2
+Colômbia	2
+Colônia Miranda	2
+Coluna	2
+Combinado	2
+Comunidade São Roque	2
+Conceição da Barra de Minas	2
+Conchas	2
+Congonhal	2
+Conjugado Habitação Companhia de Habitação do Paraná	2
+Cordeiros	2
+Corguinho	2
+Coroados	2
+Coronel José Dias	2
+Coronel Xavier Chaves	2
+Corredores	2
+Córrego d'Anta	2
+Córrego da Bica	2
+Córrego dos Fernandes	2
+Corrego Grande	2
+Corte Grande	2
+Costa Azul	2
+Costa do Gabriel	2
+Costão	2
+Cotegipe	2
+Couto de Magalhães de Minas	2
+Coutos	2
+Craíbas	2
+Cravolândia	2
+Cristais	2
+Cristais Paulista	2
+Cristália	2
+Cristianópolis	2
+Cristópolis	2
+Crucilândia	2
+Cruzeiro do Norte	2
+Cruzmaltina	2
+Cubati	2
+Cumati	2
+Cumbaru	2
+Cumbuco	2
+Cunha	2
+Cupira	2
+Curitibanos	2
+Curralinha	2
+Curralinhos	2
+Curuá	2
+Cururu	2
+Curva Grande	2
+Curvelândia	2
+Curvelo	2
+Darcinópolis	2
+Delta	2
+Deodoro	2
+Desempenho	2
+Diadema	2
+Diamante do Sul	2
+Dionísio	2
+Dirceu	2
+Dirceu Arcoverde	2
+Divinésia	2
+Divino de São Lourenço	2
+Divinolândia de Minas	2
+Divisa Alegre	2
+Dix-sept Rosado	2
+Do Céu	2
+Dois de Novembro	2
+Dom Eliseu	2
+Dom Inocêncio	2
+Dom Joaquim	2
+Dom Pedrito	2
+Dom Pedro	2
+Dona Emma	2
+Dona Inês	2
+Doresópolis	2
+Dormida	2
+Douradina	2
+Dracena	2
+Duas Antas	2
+Egito	2
+Eldorado do Sul	2
+Elesbão	2
+Emas	2
+Encano Central	2
+Engenheiro Caldas	2
+Entre Morros	2
+Equador	2
+Escalvados	2
+Espera	2
+Esperança do Sul	2
+Espigão Alto do Iguaçu	2
+Espigão das Antas	2
+Euclides da Cunha Paulista	2
+Eusébio	2
+Ewbank da Câmara	2
+Extremas	2
+Fama	2
+Faria	2
+Faro	2
+Faxina	2
+Faxinal dos Ferreiras	2
+Faxinal dos Pintos	2
+Faxinalzinho	2
+Fazenda Barragem	2
+Fazenda Barriga	2
+Fazenda Casa de Pedra	2
+Fazenda Coité	2
+Fazenda Curral Velho	2
+Fazenda da Mata	2
+Fazenda Extrema	2
+Fazenda Jatobá	2
+Fazenda Lagoa do Mato	2
+Fazenda Nova Olinda	2
+Fazenda Pau Ferro	2
+Fazenda Pedra Redonda	2
+Fazenda Riacho Fundo	2
+Fazenda Santa Luzia	2
+Fazenda São Joaquim	2
+Fazenda Serrinha	2
+Fazenda Tapera	2
+Fazenda Umburana	2
+Feijó	2
+Feliz	2
+Fernandes Pinheiro	2
+Fernandes Tourinho	2
+Ferreiros	2
+Flores da Cunha	2
+Floresta do Piauí	2
+Flórida Paulista	2
+Formosa da Serra Negra	2
+Forquilhinha	2
+Fortuna de Minas	2
+Francisco Sá	2
+Franco	2
+Francos	2
+Frechal	2
+Frexeiras	2
+Fronteira	2
+Fronteira dos Vales	2
+Gafanhoto	2
+Gaivotas	2
+Galinhos	2
+Gangorrinha	2
+Garcias	2
+Garibaldi	2
+Gaúcha do Norte	2
+Gemilina	2
+General Dutra	2
+Genipapo	2
+Geral	2
+Godinhos	2
+Goiandira	2
+Golfos	2
+Gonzaga	2
+Gouveia	2
+Gouvelândia	2
+Governador Jorge Teixeira	2
+Governador Mangabeira	2
+Graça	2
+Graças	2
+Graças a Deus	2
+Grande Oriente	2
+Granja	2
+Grotinha	2
+Guaíba	2
+Guaiúba	2
+Guamiranga	2
+Guamium	2
+Guanandi	2
+Guapiara	2
+Guarabira	2
+Guarabu	2
+Guaraci	2
+Guaraciaba	2
+Guaraí	2
+Guaramiranga	2
+Guarantã	2
+Guarantã do Norte	2
+Guarapiranga	2
+Guaratinga	2
+Guarita	2
+Guarulhos	2
+Guatapará	2
+Guimarães	2
+Gurupi	2
+Gustavo	2
+Herculândia	2
+Higienópolis	2
+Hortolândia	2
+Hungria	2
+Ibaté	2
+Ibicaba	2
+Ibipeba	2
+Ibirama	2
+Ibitirama	2
+Ibitiúra de Minas	2
+Icaraí de Minas	2
+Icatu	2
+Igarapé Açu	2
+Igarapé do Lago	2
+Iguira	2
+Ilha Amarela	2
+Ilha Comprida	2
+Ilhéus	2
+Imaculada	2
+Imbaú	2
+Imbé de Minas	2
+Imbuia	2
+Imigrante	2
+Índio	2
+Inema	2
+Inhangapi	2
+Ipameri	2
+Ipituna	2
+Ipoeira	2
+Ipojuca	2
+Iporanga	2
+Ipu	2
+Ipueiras dos Gomes	2
+Iraí	2
+Iramaia	2
+Iraquara	2
+Irará	2
+Itaberaba	2
+Itabira	2
+Itacarambi	2
+Itacoatiara	2
+Itacorubi	2
+Itacurubi	2
+Itagimirim	2
+Itaguá	2
+Itaguaçu da Bahia	2
+Itaipé	2
+Itajá	2
+Itajaí	2
+Itajobi	2
+Itamarati de Minas	2
+Itamira	2
+Itaobim	2
+Itapecerica	2
+Itaperuçu	2
+Itaperuna	2
+Itapeti do Salto	2
+Itapetinga	2
+Itapirapuã Paulista	2
+Itapoá	2
+Itapuranga	2
+Itaquaquecetuba	2
+Itaquara	2
+Itatiba do Sul	2
+Itaú	2
+Jaçanã	2
+Jacó	2
+Jacuecanga	2
+Jafa	2
+Jaguaruna	2
+Jaíba	2
+Jandaíra	2
+Janiópolis	2
+Japecanga	2
+Japona	2
+Jaramataia	2
+Jardim Alegre	2
+Jardim Brasil	2
+Jardim Helena	2
+Jardim Leonor	2
+Jardim Santa Teresa	2
+Jardim Virginia	2
+Jardim Vitoria	2
+Jazidas	2
+Jenipaúba	2
+Jequié	2
+Jequitaí	2
+Jesuítas	2
+Jiju	2
+João Alfredo	2
+João Dias	2
+João Dourado	2
+João Pinheiro	2
+João Pires	2
+José Cândido	2
+José Mariano	2
+José Otávio	2
+José Pedro	2
+Juá dos Vieiras	2
+Juazeiro do Piauí	2
+Jucás	2
+Jucu	2
+Júlia	2
+Jumirim	2
+Junco do Maranhão	2
+Jupiá	2
+Juranda	2
+Juriti	2
+Juruti	2
+Lacerdinha	2
+Lacre	2
+Lago da Pedra	2
+Lago do Junco	2
+Lago Norte	2
+Lago Sul	2
+Lagoa Clara	2
+Lagoa d'Anta	2
+Lagoa da Boa Vista	2
+Lagoa da Eugênia	2
+Lagoa de Pedras	2
+Lagoa de São Francisco	2
+Lagoa do Barro do Piauí	2
+Lagoa do Carro	2
+Lagoa do Coco	2
+Lagoa do Espinho	2
+Lagoa do Lajedo	2
+Lagoa do Ouro	2
+Lagoa do Peixe	2
+Lagoa do Sítio	2
+Lagoa Grande do Maranhão	2
+Lagoa Rasa	2
+Lagoa Santa	2
+Lagoinha do Piauí	2
+Laguna	2
+Lajeado Alto	2
+Landim	2
+Laurentino	2
+Lavagem	2
+Lavouras	2
+Leme	2
+Leque	2
+Letras	2
+Lima Campos	2
+Lindóia	2
+Linha Cotovelo	2
+Linha Gramado	2
+Linha Jataí	2
+Linha Pinhal	2
+Linha Santo Antão	2
+Linha São Brás	2
+Linha São Miguel	2
+Loanda	2
+Lobato	2
+Lombas	2
+Londrina	2
+Loteamento Ilha Bela	2
+Loteamento Ponte Nova	2
+Loteamento Recanto das Estrelas	2
+Lua Cheia	2
+Lucena	2
+Lucrécia	2
+Luís	2
+Luiz Alves	2
+Lustosa	2
+Luz	2
+Luzia	2
+Luzilândia	2
+Macaíba	2
+Maçambara	2
+Macapazinho	2
+Macapuana	2
+Macau	2
+Machadinho	2
+Machadinho d'Oeste	2
+Madeiro	2
+Madressilva	2
+Mãe d'Água	2
+Mairinque	2
+Major Gercino	2
+Maleta	2
+Mamede	2
+Manari	2
+Manaus	2
+Mar Vermelho	2
+Maraã	2
+Marabá	2
+Maraguá	2
+Marau	2
+Marcílio Dias	2
+Marcolândia	2
+Marcolino	2
+Marcos Parente	2
+Marechal Floriano	2
+Maria Preta	2
+Mariápolis	2
+Maricá	2
+Marília	2
+Maripá de Minas	2
+Marmelópolis	2
+Marmelos	2
+Marquinho	2
+Maruim	2
+Marumbi	2
+Marzagão	2
+Massapé	2
+Massapê do Piauí	2
+Mata Nova	2
+Mata-Cachorro	2
+Matinhas	2
+Matinhos	2
+Mato Sêco	2
+Matozinhos	2
+Matriz	2
+Maués	2
+Medina	2
+Melgaço	2
+Melquíades	2
+Mercedes	2
+Meruoca	2
+Messias Targino	2
+Miguel Pereira	2
+Milton Belo	2
+Milton Brandão	2
+Minas do Leão	2
+Mingu	2
+Mira	2
+Miracema	2
+Miradouro	2
+Miraíma	2
+Miranda do Norte	2
+Miraselva	2
+Mirindiba	2
+Mirinduba	2
+Mocajuba	2
+Mococa	2
+Moeda	2
+Moisés	2
+Monte Alegre de Goiás	2
+Monte Belo do Sul	2
+Monte Formoso	2
+Monte Horebe	2
+Monte Pio	2
+Monte Real	2
+Montividiu do Norte	2
+Morcegão	2
+Moreilândia	2
+Moreno	2
+Morro Cabeça no Tempo	2
+Morro da Lagoa	2
+Morro da Onça	2
+Morro de Pedra	2
+Morumbi	2
+Mostardas	2
+Mucajaí	2
+Mucunã	2
+Mundo Novo da Anháia	2
+Mundo Novo de Minas	2
+Muqui	2
+Muri	2
+Nacip Raydan	2
+Narandiba	2
+Natividade	2
+Nazareno	2
+Nazário	2
+Negras	2
+Neópolis	2
+Nicácio	2
+Nilo Peçanha	2
+Nilópolis	2
+Nonoai	2
+Nordestina	2
+Normandia	2
+Nortelândia	2
+Nossa Senhora das Dores	2
+Nossa Senhora do Rosário	2
+Nova Belém	2
+Nova Brasilândia	2
+Nova Candelária	2
+Nova Castilho	2
+Nova Cinta	2
+Nova Esperança do Sul	2
+Nova Friburgo	2
+Nova Guarita	2
+Nova Hartz	2
+Nova Independência	2
+Nova Lacerda	2
+Nova Lima	2
+Nova Marilândia	2
+Nova Monte Verde	2
+Nova Nazaré	2
+Nova Olímpia	2
+Nova Palestina	2
+Nova Palma	2
+Nova Petrópolis	2
+Nova Ponte	2
+Nova Ramada	2
+Nova Redenção	2
+Nova Roma do Sul	2
+Nova Santa Bárbara	2
+Nova Santa Helena	2
+Nova Santa Rosa	2
+Nova Ubiratã	2
+Nova Xavantina	2
+Nôvo	2
+Novo Alegre	2
+Novo Barreiro	2
+Novo Cabrais	2
+Novo Horizonte do Norte	2
+Novo Horizonte do Oeste	2
+Novo Marotinho	2
+Novo Oriente do Piauí	2
+Novo Progresso	2
+Novo Repartimento	2
+Novo Santo Antônio	2
+Novo Treviso	2
+Novo Triunfo	2
+Nunes	2
+Óleo	2
+Olho d'Água das Cunhãs	2
+Olho d'Água de Dentro	2
+Olho d'Água Grande	2
+Ôlho d'Água Preta	2
+Orobó	2
+Orocó	2
+Orós	2
+Osório	2
+Osório da Fonseca	2
+Ouro Verde do Oeste	2
+Ourolândia	2
+Pacajá	2
+Pacaraima	2
+Pacoti	2
+Padre Bernardo	2
+Paiano	2
+Palmeira do Piauí	2
+Palmeirândia	2
+Palmeirópolis	2
+Palmitinho	2
+Panamá	2
+Panambi	2
+Papagaios	2
+Paquevira	2
+Paracambi	2
+Paradé	2
+Paraibano	2
+Paraibuna	2
+Paraíso do Sul	2
+Paramirim	2
+Paranaguaçu	2
+Paranapuã	2
+Paranatinga	2
+Parari	2
+Paraúna	2
+Parecis	2
+Paripueira	2
+Parnaíba	2
+Parque dos Pássaros	2
+Parque Florestal	2
+Parque São Francisco	2
+Parque Verde	2
+Passa Sete	2
+Passa Tempo	2
+Passa-Três	2
+Passagem do Tó	2
+Passos Maia	2
+Patu	2
+Pau-Santo	2
+Paulistânia	2
+Paulo Lopes	2
+Paus Branco	2
+Pedra Bonita	2
+Pedra d'Agua	2
+Pedra Dourada	2
+Pedra Gomes	2
+Pedra Menina	2
+Pedra Roxa	2
+Pedras Altas	2
+Pedras Grandes	2
+Pedrinhas Paulista	2
+Pedro Alexandre	2
+Pedro Canário	2
+Pedro Osório	2
+Peixe Gordo	2
+Peixoto de Azevedo	2
+Peperi	2
+Perigoso	2
+Perobal	2
+Pérola	2
+Petrolândia	2
+Petrolina	2
+Piancó	2
+Piatã	2
+Piau	2
+Pica Pau	2
+Picada Café	2
+Piçarreira	2
+Piedade de Caratinga	2
+Pilão Arcado	2
+Pindaival	2
+Pinga	2
+Pinhais	2
+Pinheira	2
+Pinheiro Machado	2
+Pinheiro Preto	2
+Piracicaba	2
+Piraju	2
+Pirajú	2
+Pirajuba	2
+Pirapitinga	2
+Piratini	2
+Planalto da Serra	2
+Poço Branco	2
+Poço Cercado	2
+Poço dos Cavalos	2
+Poço Escuro	2
+Poconé	2
+Pojuca	2
+Pompéu	2
+Ponta de Pedra	2
+Ponta de Pedras	2
+Pontal do Araguaia	2
+Ponte Alta de Minas	2
+Ponte Branca	2
+Pontões	2
+Poranga	2
+Porto Alegre do Piauí	2
+Pôrto Bela Vista	2
+Porto da Roça	2
+Porto de Cima	2
+Porto Ferreira	2
+Porto Grande	2
+Pôrto Marinho	2
+Porto Murtinho	2
+Pôrto Oculto	2
+Pôrto Quinze de Novembro	2
+Porto Rico	2
+Pôrto Santa Rosa	2
+Pôrto São Domingos	2
+Pôrto Vitória	2
+Poté	2
+Praia Norte	2
+Prata II	2
+Pratápolis	2
+Presidente Bernardes	2
+Presidente Lucena	2
+Presidente Médici	2
+Presidente Tancredo Neves	2
+Presidente Vargas	2
+Princesa	2
+Projeto de Assentamento Santa Rosa	2
+Propriá	2
+Prudente de Morais	2
+Pugmil	2
+Puraquequara	2
+Pureza	2
+Putinga	2
+Puxinanã	2
+Quadro	2
+Quaraí	2
+Quartel	2
+Quatro Irmãos	2
+Quebra Côco	2
+Quedas do Iguaçu	2
+Queluz	2
+Quilômetro Trinta e Cinco	2
+Quinta	2
+Quitandinha	2
+Quixabinha	2
+Quixelô	2
+Quixeramobim	2
+Rafael Jambeiro	2
+Raposo Tavares	2
+Recanto das Emas	2
+Recanto dos Borás	2
+Recanto dos Pássaros	2
+Recanto dos Sonhos	2
+Redenção do Gurguéia	2
+Regeneração	2
+Regina	2
+Remígio	2
+Reserva do Cabaçal	2
+Reserva do Iguaçu	2
+Residência	2
+Retirada	2
+Riacho da Barra	2
+Riacho da Onca	2
+Riacho de Santana	2
+Riacho dos Porcos	2
+Riacho Santo	2
+Ribeira do Piauí	2
+Ribeirão do Tigre	2
+Ribeirão Vermelho	2
+Rio Bananal	2
+Rio Bonito do Iguaçu	2
+Rio Casca	2
+Rio das Almas	2
+Rio do Sul	2
+Rio dos Canoas	2
+Rio dos Veados	2
+Rio Fortuna	2
+Rio Grande do Piauí	2
+Rio Mar	2
+Rio Negrinho	2
+Rio Preto da Eva	2
+Rio Quente	2
+Rio Sagrado	2
+Rio Seco	2
+Riolândia	2
+Ritápolis	2
+Rodoviária	2
+Rolador	2
+Rolantinho	2
+Roldão	2
+Rolim de Moura	2
+Rosal	2
+Rosário do Ivaí	2
+Roteiro	2
+Ruínas	2
+Rurópolis	2
+Russas	2
+Ruy Barbosa	2
+Sabão	2
+Sabino	2
+Saco Verde	2
+Sagrado	2
+Saicã	2
+Salem	2
+Salgado Filho	2
+Salinópolis	2
+Salto Veloso	2
+Sambra	2
+Sangão	2
+Sanguessuga	2
+Sanharão	2
+Santa Albertina	2
+Santa Bárbara de Cima	2
+Santa Bárbara de Goiás	2
+Santa Bárbara do Leste	2
+Santa Branca	2
+Santa Carmem	2
+Santa Efigênia de Minas	2
+Santa Fé de Minas	2
+Santa Helena de Minas	2
+Santa Leopoldina	2
+Santa Luísa	2
+Santa Luzia do Paruá	2
+Santa Maria do Tocantins	2
+Santa Monica	2
+Santa Paz	2
+Santa Rita d'Oeste	2
+Santa Rita do Araguaia	2
+Santa Rita Durão	2
+Santa Rosa do Piauí	2
+Santa Tereza de Goiás	2
+Santa Tereza do Oeste	2
+Santa União	2
+Santana do Deserto	2
+Santana do Mundaú	2
+Santana do Riacho	2
+Santo Ângelo	2
+Santo Antão	2
+Santo Antônio da Boa Vista	2
+Santo Antônio das Missões	2
+Santo Antônio de Lisboa	2
+Santo Antônio do Canaã	2
+Santo Antônio do Monte	2
+Santo Antônio do Paraíso	2
+Santo Antônio do Pontal	2
+Santo Antônio do Retiro	2
+Santo Antônio dos Palmares	2
+Santo Eduardo	2
+Santo Expedito	2
+Santo Inácio do Piauí	2
+São Benedito do Sul	2
+São Bentinho	2
+São Bento Abade	2
+São Bonifácio	2
+São Borja	2
+São Braz do Piauí	2
+Sao Carlos	2
+São Conrado	2
+São Domingos do Norte	2
+São Félix de Minas	2
+São Fidélis	2
+São Francisco de Itabapoana	2
+São Francisco de Sales	2
+São Francisco do Oeste	2
+São Gabriel da Palha	2
+São Geraldo do Salto	2
+São Germano	2
+São Gonçalo do Rio Preto	2
+São Jacó	2
+São João da Barra	2
+São João da Boa Vista	2
+São João da Lagoa	2
+São João da Varjota	2
+São João do Arraial	2
+São João do Ivaí	2
+São João do Norte	2
+São João do Oeste	2
+São João dos Queirozes	2
+São José da Lapa	2
+São José das Missões	2
+São José das Palmeiras	2
+São José de Princesa	2
+São José do Divino	2
+São José do Jacuípe	2
+São José do Maratá	2
+São José do Peixe	2
+São José do Rio Claro	2
+São José do Rio Grande	2
+São José do Vale do Rio Preto	2
+São José dos Ausentes	2
+São José dos Campos	2
+São José dos Ramos	2
+São Julião	2
+São Leopoldo	2
+São Lourenço do Piauí	2
+São Ludgero	2
+São Luís de Mutuca	2
+São Luiz Gonzaga	2
+São Mamede	2
+São Manoel do Paraná	2
+São Miguel da Baixa Grande	2
+São Miguel da Serra	2
+São Miguel do Fidalgo	2
+São Miguel do Tocantins	2
+São Paulo de Olivença	2
+São Pedro da Cipa	2
+São Pedro do Florido	2
+São Pedro Velho	2
+São Sebastião da Bela Vista	2
+São Sebastião da Boa Vista	2
+São Sebastião de Campolide	2
+São Sebastião de Lagoa de Roça	2
+São Sebastião do Tocantins	2
+São Valentim do Sul	2
+Sapeaçu	2
+Sapiranga	2
+Sapó	2
+Sapopemba	2
+Sapucaia do Sul	2
+Saquarema	2
+Sarapiá	2
+Sardinha	2
+Saxônia	2
+Seabra	2
+Segundo Passa-Dois	2
+Senador La Rocque	2
+Senador Modestino Gonçalves	2
+Senador Salgado Filho	2
+Senhor do Bonfim	2
+Sentinela do Sul	2
+Sento Sé	2
+Sepultura	2
+Seringal América	2
+Seringal Liberdade	2
+Seringal Novo Porto	2
+Seringal Sobral	2
+Seringueiras	2
+Serra Azul de Minas	2
+Serra Preta	2
+Serranópolis	2
+Serranópolis de Minas	2
+Serrinha Velha	2
+Serrito	2
+Serrolândia	2
+Serrote Redondo	2
+Sete Fogões	2
+Sete Quedas	2
+Setubinha	2
+Severo	2
+Sigefredo Pacheco	2
+Silêncio	2
+Silva Jardim	2
+Silveiras	2
+Silvolândia	2
+Sipaúba	2
+Sirinhaém	2
+Siriri	2
+Sítio Água Seca	2
+Sítio Alberto Pereira	2
+Sítio Alto da Serra	2
+Sítio Alvino Müller	2
+Sítio Antônio C dos Santos	2
+Sítio Antônio Esteg	2
+Sítio Antônio Garcia	2
+Sítio Antônio Moreira	2
+Sítio Antônio Pscheidt	2
+Sítio Araribá	2
+Sítio Bom Sucesso	2
+Sítio Caiacanga	2
+Sítio Carnaúba	2
+Sítio Casemiro Kava	2
+Sítio Cedrinho	2
+Sítio Céu Azul	2
+Sítio dos Rauen	2
+Sítio Duas Irmãs	2
+Sítio Eldorado	2
+Sítio Entre Rios	2
+Sítio Evaldo Schelbauer	2
+Sítio Félix Krupa	2
+Sítio Fim da Picada	2
+Sítio Floriano Deda	2
+Sítio Formosa	2
+Sítio Iguapé	2
+Sítio Inácio	2
+Sítio Itaguaçu	2
+Sítio Itália	2
+Sítio Ivankio	2
+Sítio Iwata	2
+Sítio Jair	2
+Sítio Jair Costa	2
+Sítio João A Barbosa	2
+Sítio João B da Silva	2
+Sítio João Domingos	2
+Sítio João F da Silva	2
+Sítio João Souza	2
+Sítio José dos S Silveira	2
+Sítio José dos Santos	2
+Sítio José Dranka	2
+Sítio José G de Oliveira	2
+Sítio José Lázaro	2
+Sítio José Mendes	2
+Sítio José Reis	2
+Sítio José Rezende	2
+Sítio Lagoinha	2
+Sítio Lajeadinho	2
+Sítio Manoel de Oliveira	2
+Sítio Maria Aparecida	2
+Sítio Meireles	2
+Sítio Miguel de Paula	2
+Sítio Milton Cordeiro	2
+Sítio Monjolo Velho	2
+Sítio Nei Minardi	2
+Sítio Nossa Senhora da Glória	2
+Sítio Nossa Senhora da Salete	2
+Sítio Novo do Tocantins	2
+Sítio Orlando Jorge	2
+Sítio Padre André	2
+Sítio Paiol	2
+Sítio Parente	2
+Sítio Passa-Dois	2
+Sítio Paulista	2
+Sítio Paulo	2
+Sítio Paulo K Filho	2
+Sítio Pedro dos Anjos	2
+Sítio Planalto	2
+Sítio Porto Alegre	2
+Sítio Pouso Alto	2
+Sítio Quatro Irmãos	2
+Sítio Ribeirão dos Pires	2
+Sítio Sakamoto	2
+Sítio Santa Gertrudes	2
+Sítio São Cristóvão	2
+Sítio São Gonçalo	2
+Sítio São Miguel Arcanjo	2
+Sítio São Pedrinho	2
+Sítio São Rafael	2
+Sítio Sebastião dos Santos	2
+Sítio Sebastião Zanine	2
+Sítio Serelepe	2
+Sítio Silvestre Telma	2
+Sítio Sonho Azul	2
+Sítio Takeo	2
+Sítio Três Minas	2
+Sítio Três Poderes	2
+Sítio Vargem Grande	2
+Sítio Vitória	2
+Sítio Yamada	2
+Stio Bonanza	2
+Stio Jos Silvrio Neto	2
+Stio Santa Teresa	2
+Stio So Judas Tadeu	2
+Stio Tapera	2
+Sucavão de Cima	2
+Sudoeste	2
+Sumidor	2
+Sussuapara	2
+Tabaporã	2
+Tabocas do Brejo Velho	2
+Taboleiro Grande	2
+Tacuru	2
+Taguatinga	2
+Taipu	2
+Tamarana	2
+Tambaú	2
+Tamboatá	2
+Tangará	2
+Tapaiuna	2
+Tapejara	2
+Taperoá	2
+Tapiraí	2
+Tapurah	2
+Taquaraçu de Minas	2
+Taquaral de Goiás	2
+Taquaras	2
+Taquarinha	2
+Taquaruçu do Sul	2
+Taquarussu	2
+Tatus	2
+Taunay	2
+Teixeiras	2
+Tenente	2
+Teodoro Sampaio	2
+Teofilândia	2
+Teolândia	2
+Teresina de Goiás	2
+Teresópolis	2
+Terezinha	2
+Tietê	2
+Tijucas	2
+Timbé do Sul	2
+Timbiras	2
+Tinguí	2
+Tira Chapéu	2
+Tiradentes do Sul	2
+Tiros	2
+Tocantins	2
+Torrinha	2
+Torto	2
+Traira	2
+Trairão	2
+Travesseiro	2
+Três Barras do Paraná	2
+Três Cachoeiras	2
+Três Corações	2
+Três Córregos	2
+Três de Maio	2
+Três Voltas	2
+Trombas	2
+Tucano	2
+Tucuruvi	2
+Tufilândia	2
+Tunas	2
+Tupã	2
+Turilândia	2
+Turmalina	2
+Turumá	2
+Uberlândia	2
+Umarizeiro	2
+Umbaúba	2
+União de Minas	2
+União do Oeste	2
+União Paulista	2
+Upanema	2
+Urandi	2
+Urânia	2
+Uruaçu	2
+Uruará	2
+Uruburetama	2
+Urucará	2
+Urucu	2
+Urucuia	2
+Urussanga	2
+Valdástico	2
+Vale dos Lagos	2
+Valéria	2
+Valparaiso	2
+Vargedo	2
+Vargem Linda	2
+Várzea da Carnaúba	2
+Vasques	2
+Venturosa	2
+Vera	2
+Veranópolis	2
+Verdelândia	2
+Veríssimo	2
+Viaduto	2
+Vianópolis	2
+Vicente de Carvalho	2
+Vicentinópolis	2
+Victor Graeff	2
+Vidal Ramos	2
+Video	2
+Vidigal	2
+Vila Aliança	2
+Vila Alpina	2
+Vila Alta	2
+Vila Amazonas	2
+Vila Anchieta	2
+Vila Balneária	2
+Vila Batista	2
+Vila Bela Vista	2
+Vila Belmiro	2
+Vila Cafeteira	2
+Vila Califórnia	2
+Vila do Carmo do Tocantins	2
+Vila Galvão	2
+Vila Guilherme	2
+Vila Ideal	2
+Vila Japonesa	2
+Vila Leopoldina	2
+Vila Liberdade	2
+Vila Medeiros	2
+Vila Neumann	2
+Vila Nossa Senhora das Graças	2
+Vila Nova Cachoeirinha	2
+Vila Nova de Campos	2
+Vila Olinda	2
+Vila Pereira	2
+Vila Prudente	2
+Vila Reis	2
+Vila Rocha	2
+Vila Rosa	2
+Vila Ruthes	2
+Vila Samaúma	2
+Vila Santa Cecília	2
+Vila São Lucas	2
+Vila São Luis	2
+Vila São Raimundo	2
+Vila Socorro	2
+Viradouro	2
+Virgínia	2
+Vista Alegre do Prata	2
+Vista Gaúcha	2
+Vitor Meireles	2
+Vitória do Jari	2
+Vitorino Freire	2
+Votorantim	2
+Votuporanga	2
+Wagner	2
+Wenceslau Guimarães	2
+Werneck	2
+Xambioá	2
+Xapuri	2
+Xexéu	2
+Xororó	2
+Zacarias	2
+Zebelé	2
+Zombaria	2

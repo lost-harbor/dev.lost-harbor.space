@@ -1,0 +1,787 @@
+Dũng	67
+Sơn	61
+Tuấn	55
+Minh	46
+Anh	45
+Hùng	45
+Nam	41
+Long	37
+Bình	36
+Cường	36
+Quang	35
+Tông	35
+Hải	33
+Huy	33
+Hoàng	32
+Thành	32
+Trung	31
+Đức	31
+Hiếu	28
+Phong	28
+Phương	28
+Thắng	28
+Việt	27
+Hưng	26
+Thanh	26
+Vũ	25
+Vinh	23
+Bảo	22
+Hà	21
+Ngọc	21
+Châu	20
+Giang	20
+Tùng	20
+Quân	19
+An	18
+Dương	18
+Khánh	18
+Lâm	18
+Mạnh	18
+Phúc	18
+Tiến	18
+Toàn	17
+Trường	17
+Khoa	16
+Tú	16
+Duy	15
+Lộc	15
+Tài	15
+Thảo	14
+Vân	14
+Xuân	14
+Chiến	13
+Khôi	13
+Linh	13
+Nguyên	13
+Quốc	13
+Tâm	13
+Thái	13
+Thọ	13
+Hiền	12
+Kiên	12
+Nhân	12
+Tân	12
+Thịnh	12
+Thuận	12
+Chương	11
+Hòa	11
+Hoàn	11
+Lương	11
+Phát	11
+Tấn	11
+Trọng	11
+Đạt	11
+Chung	10
+Công	10
+Hiệp	10
+Hồng	10
+Khải	10
+Nghĩa	10
+Phú	10
+Thạch	10
+Tường	10
+Khang	9
+Lập	9
+Liêm	9
+Quý	9
+Thiện	9
+Trí	9
+Văn	9
+Đồng	9
+Ân	8
+Cương	8
+Hiến	8
+Hương	8
+Ninh	8
+Quyền	8
+Toản	8
+Chánh	7
+Kiệt	7
+Lợi	7
+Mai	7
+Phi	7
+Phước	7
+Quảng	7
+Thân	7
+Thi	7
+Thông	7
+Thức	7
+Từ	7
+Định	7
+Bằng	6
+Hạnh	6
+Hoan	6
+Khanh	6
+Luyện	6
+Lý	6
+Quỳnh	6
+Thu	6
+Tuân	6
+Tuệ	6
+Vĩnh	6
+Vượng	6
+Đại	6
+Đăng	6
+Đông	6
+Cầm	5
+Cẩn	5
+Chí	5
+Chính	5
+Hậu	5
+Hữu	5
+Khiêm	5
+Khuê	5
+Kim	5
+Lân	5
+Lê	5
+Lưu	5
+Nghi	5
+Nghiêm	5
+Quyết	5
+Sinh	5
+Sỹ	5
+Tạo	5
+Thăng	5
+Thụ	5
+Tứ	5
+Điền	5
+Độ	5
+Bách	4
+Chi	4
+Chinh	4
+Chuyên	4
+Cung	4
+Dung	4
+Em	4
+Giao	4
+Hiệu	4
+Hoài	4
+Hợp	4
+Huân	4
+Kiểm	4
+Kính	4
+Lai	4
+Lan	4
+Liên	4
+Liệu	4
+Luật	4
+Mậu	4
+Ngân	4
+Nghị	4
+Nhật	4
+Nhiên	4
+Nhơn	4
+Nhựt	4
+Phổ	4
+Phụng	4
+Sang	4
+Sáng	4
+Thiệp	4
+Thơ	4
+Thuật	4
+Thụy	4
+Trà	4
+Trân	4
+Trần	4
+Trang	4
+Triệu	4
+Trinh	4
+Truyền	4
+Tỵ	4
+Viên	4
+Vỹ	4
+Đạo	4
+Ái	3
+Bắc	3
+Bàng	3
+Bảy	3
+Bính	3
+Căn	3
+Cảnh	3
+Cao	3
+Chu	3
+Chúc	3
+Dinh	3
+Du	3
+Dụ	3
+Giáp	3
+Giàu	3
+Hai	3
+Hanh	3
+Hào	3
+Hạo	3
+Hiển	3
+Hinh	3
+Học	3
+Hội	3
+Huệ	3
+Huỳnh	3
+Khoan	3
+Khoát	3
+Ký	3
+Lam	3
+Lắm	3
+Lễ	3
+Lịch	3
+Lĩnh	3
+Luân	3
+Lực	3
+Mẫn	3
+Mười	3
+Mỹ	3
+Ngô	3
+Ngộ	3
+Nguyễn	3
+Phan	3
+Phùng	3
+Phượng	3
+Quát	3
+Quế	3
+Quỳ	3
+Quyến	3
+Sâm	3
+Sáu	3
+Sự	3
+Sung	3
+Thiên	3
+Thiều	3
+Thuyết	3
+Tiệp	3
+Tín	3
+Trị	3
+Trưởng	3
+Vương	3
+Đang	3
+Đẩu	3
+Đế	3
+Điềm	3
+Đính	3
+Đỉnh	3
+Đoàn	3
+Đôn	3
+Được	3
+Ấn	2
+Ẩn	2
+Áng	2
+Ba	2
+Bá	2
+Bão	2
+Báu	2
+Bích	2
+Bồng	2
+Bửu	2
+Cẩm	2
+Can	2
+Cầu	2
+Chiêu	2
+Chiểu	2
+Chơn	2
+Chữ	2
+Chưởng	2
+Côn	2
+Cự	2
+Dân	2
+Dần	2
+Dật	2
+Di	2
+Diễn	2
+Diện	2
+Diệu	2
+Dĩnh	2
+Doanh	2
+Dư	2
+Duân	2
+Duẩn	2
+Dục	2
+Dực	2
+Giai	2
+Giáo	2
+Hạc	2
+Hân	2
+Hoà	2
+Hoành	2
+Hòe	2
+Hối	2
+Hưởng	2
+Huyên	2
+Hy	2
+Kha	2
+Khá	2
+Khai	2
+Kháng	2
+Kiểu	2
+Kỳ	2
+Lang	2
+Lâu	2
+Lầu	2
+Luận	2
+Lượng	2
+Mão	2
+Mễ	2
+Miên	2
+Mưu	2
+Năng	2
+Ngọ	2
+Ngôn	2
+Ngữ	2
+Nhã	2
+Nhạ	2
+Nhạc	2
+Nhàn	2
+Nhất	2
+Nhị	2
+Nhuận	2
+Nhung	2
+Oánh	2
+Phác	2
+Phiên	2
+Sa	2
+Sắt	2
+Sử	2
+Sửu	2
+Tá	2
+Tam	2
+Tám	2
+Thắm	2
+Thận	2
+Thế	2
+Thích	2
+Thìn	2
+Thống	2
+Thừa	2
+Thục	2
+Thước	2
+Thương	2
+Thường	2
+Thưởng	2
+Thủy	2
+Tiết	2
+Tô	2
+Toại	2
+Tới	2
+Tôn	2
+Trạc	2
+Trai	2
+Trâm	2
+Triết	2
+Trình	2
+Trương	2
+Tư	2
+Túc	2
+Túy	2
+Tuyên	2
+Tuyến	2
+Tuyền	2
+Tý	2
+Tỷ	2
+Uyển	2
+Viễn	2
+Viện	2
+Vịnh	2
+Xứng	2
+Đắc	2
+Đàm	2
+Đạm	2
+Đáng	2
+Đệ	2
+Đen	2
+Điện	2
+Điều	2
+Đô	2
+Đống	2
+Đổng	2
+Alves
+Ánh
+Áo
+Atus
+Âu
+Bặc
+Bạch
+Bài
+Bái
+Bân
+Băng
+Bảng
+Bành
+Báo
+Bạo
+Bền
+Bich
+Biên
+Biền
+Biển
+Biết
+Bô
+Bộ
+Bốc
+Bôi
+Bon
+Bôn
+Bổng
+Bùi
+Bun
+Bưng
+Cách
+Cai
+Cận
+Cang
+Căng
+Cảo
+Chắc
+Chân
+Chấn
+Chất
+Chỉ
+Chia
+Chích
+Chiếu
+Chù
+Chú
+Chua
+Chuân
+Chuẩn
+Chửng
+Chước
+Có
+Cơ
+Cốc
+Còi
+Cội
+Cư
+Cử
+Củng
+Cược
+Cuông
+Cửu
+Dâng
+Danh
+Dếnh
+Dĩ
+Diễm
+Diên
+Diệp
+Domic
+Dong
+Dõng
+Dữ
+Dự
+Dừa
+Duật
+Dụng
+Dưỡng
+Duyệt
+Dzếnh
+Dzu
+Esele
+FG
+Ga
+Gấm
+Gấu
+Giá
+Giám
+Giản
+Giáng
+Giỏi
+Giung
+Hạ
+Hách
+Hàm
+Hãn
+Hẳn
+Hành
+Hảo
+Hi
+Hồ
+Hổ
+Hộ
+Hoa
+Hóa
+Hoạch
+Hoang
+Hoạt
+Hợi
+Hớn
+Huây
+Hùm
+Hướng
+Hưu
+Hựu
+Huyền
+Huyện
+Huynh
+Ích
+Kang
+Kế
+Khắc
+Khái
+Khảm
+Kháp
+Khê
+Khích
+Khiêu
+Khiếu
+Khoá
+Khoái
+Khoản
+Khoang
+Khổng
+Khương
+Khuyến
+Kiêm
+Kiếm
+Kiềm
+Kiện
+Kiểng
+Kiết
+Kiều
+Kinh
+Kình
+Kỉnh
+Kontum
+Kỷ
+La
+Lãm
+Lẫm
+Lãng
+Lành
+Lãnh
+Lào
+Lạp
+Lém
+Lèng
+Lểnh
+Liêng
+Liễng
+Liêu
+Lỗ
+Loan
+Lư
+Lữ
+Lự
+Lung
+Luông
+Lưỡng
+Lựu
+Mãi
+Mân
+Mạn
+MasterD
+Mật
+Mẫu
+Max
+Mây
+Miêu
+Mịnh
+Mixi
+Mộc
+Một
+Mục
+Mùi
+Mừng
+Mỵ
+Nà
+Năm
+Nê
+Nên
+Ngạn
+Ngàng
+Ngạnh
+Ngật
+Nghệ
+Nghiên
+Nghiệp
+Nghinh
+Ngụ
+Ngưng
+Nguy
+Nguyện
+Nha
+Nhạn
+Nhẫn
+Nhanh
+Nhi
+Nhiếp
+Nhin
+Nhon
+Nhu
+Nhường
+Nọ
+Ny
+Okio
+Patrik
+Phách
+Phái
+Phán
+Phấn
+Phần
+Phến
+Phiến
+Phiệt
+Phiêu
+Pho
+Phớc
+Phồn
+Phông
+Phu
+Phử
+Phường
+Pò
+Quả
+Quan
+Quán
+Quản
+Quần
+Quangthái
+Rã
+Rạnh
+Rinh
+Rob
+Robert
+Rốp
+Rứa
+Rưởi
+Sách
+Sam
+Sản
+Sanh
+Sao
+Sến
+Sĩ
+Siêu
+Sin
+Sổ
+Soát
+Son
+Song
+Sừ
+Sủng
+Sương
+Tả
+Tắc
+Tại
+Tạm
+Tán
+Tạn
+Tần
+Tảng
+Tánh
+Tảo
+Tàu
+Thà
+Thần
+Thê
+Thể
+Thêm
+Thí
+Thiêm
+Thoáng
+Thời
+Thư
+Thủ
+Thự
+Thuân
+Thuần
+Thực
+Thượng
+Thuỷ
+Thùy
+Thuyền
+Tí
+Tiên
+Tiền
+Tiễn
+Tiểng
+Tiếp
+Tiêu
+Tình
+Tính
+Tỉnh
+Tịnh
+Tỏ
+Tổ
+Tộ
+Toái
+Tốn
+Tòng
+Tốt
+Trác
+Trắc
+Trạch
+Trải
+Tráng
+Trì
+Triền
+Triển
+Triều
+Trịnh
+Trỗi
+Trụ
+Trúc
+Trực
+Trưng
+Trừng
+Truyến
+Trý
+Tử
+Tự
+Tung
+Tước
+Tưởng
+Tửu
+Tuy
+Tụy
+Tuyển
+TV
+Ty
+Ứng
+Út
+Uy
+Vãn
+Vần
+Vận
+Vàng
+Vành
+Vệ
+VG
+Vĩ
+Viêm
+Viet
+Vlog
+Vở
+Vụ
+Vui
+Vưu
+Xê
+Xí
+Xiển
+Xô
+Xương
+Xuyên
+Yêm
+Yên
+Yến
+Đà
+Đá
+Đài
+Đam
+Đảm
+Đan
+Đàn
+Đán
+Đãng
+Đằng
+Đào
+Đảo
+Đầu
+Đe
+Để
+Đến
+Điến
+Điển
+Điểu
+Đinh
+Đóa
+Đoan
+Đủ
+Đương
+Đường

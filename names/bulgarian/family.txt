@@ -1,0 +1,1319 @@
+Ivanov	222
+Dimitrov	167
+Iliev	163
+Petrov	137
+Popov	123
+Stoyanov	74
+Nikolov	70
+Avramov	62
+Georgiev	62
+Todorov	58
+Hristov	49
+Mikhaylov	47
+Pavlov	45
+Tanev	45
+Petkov	44
+Angelov	42
+Markov	40
+Vasilev	39
+Petrova	38
+Spasov	38
+Ivanova	37
+Kolev	37
+Alexandrov	34
+Atanasov	32
+Dimitrova	32
+Yordanov	32
+Andreyev	29
+Georgieva	29
+Stoilov	24
+Tsvetkov	24
+Antonov	23
+Lyubenov	23
+Milev	22
+Popova	22
+Borisov	21
+Marinov	21
+Todorova	21
+Konstantinov	20
+Kostov	19
+Nikolova	19
+Velchev	19
+Dimov	18
+Bogdanov	17
+Radev	17
+Rusev	17
+Stefanov	17
+Yankov	17
+Aleksandrova	16
+Dobrev	16
+Naydenov	16
+Radeva	16
+Simeonov	16
+Borisova	15
+Kostadinov	15
+Lazarov	15
+Aleksiev	14
+Kirov	14
+Koleva	14
+Marinova	14
+Mladenov	14
+Vasileva	14
+Zhekov	14
+Krastev	13
+Tomov	13
+Bakalov	12
+Botev	12
+Ilieva	12
+Krasimirov	12
+Manolov	12
+Minchev	12
+Nikolayev	12
+Panov	12
+Peev	12
+Peykov	12
+Ruskov	12
+Yanev	12
+Ganchev	11
+Hristova	11
+Khadzhiev	11
+Mikhov	11
+Minkov	11
+Nachev	11
+Panayotov	11
+Petkova	11
+Sokolov	11
+Velkov	11
+Angelova	10
+Boychev	10
+Bozhilov	10
+Bozhkov	10
+Germanov	10
+Nenov	10
+Penchev	10
+Stoev	10
+Stoyanova	10
+Trifonov	10
+Varbanov	10
+Veselinov	10
+Yordanova	10
+Andonov	9
+Bonchev	9
+Danailov	9
+Danev	9
+Dinkov	9
+Donchev	9
+Dyulgerov	9
+Grigorov	9
+Karagiozov	9
+Mitev	9
+Mitov	9
+Naumov	9
+Nedyalkov	9
+Savov	9
+Stavrev	9
+Stoychev	9
+Terziyski	9
+Yanakiev	9
+Balkanski	8
+Enev	8
+Gerov	8
+Ignatov	8
+Katsarov	8
+Kirilov	8
+Mikhaylova	8
+Pavlova	8
+Shopov	8
+Shterev	8
+Slavchev	8
+Stanchev	8
+Terziev	8
+Vladimirov	8
+Blagoeva	7
+Dobreva	7
+Gochev	7
+Kanazirev	7
+Madzharov	7
+Matev	7
+Nedelchev	7
+Neshev	7
+Nikiforov	7
+Ognyanov	7
+Peeva	7
+Penev	7
+Radkov	7
+Shishkov	7
+Slavkov	7
+Tranka	7
+Tsankov	7
+Vassileva	7
+Vazov	7
+Velev	7
+Zhelyazkov	7
+Abadzhiev	6
+Asenova	6
+Boev	6
+Boyadzhiev	6
+Chakarov	6
+Chernev	6
+Chervenkov	6
+Dechev	6
+Dermendzhiev	6
+Dyakov	6
+Filipoff	6
+Ganev	6
+Genchev	6
+Gunchev	6
+Kanchev	6
+Kirchev	6
+Kosev	6
+Kurtev	6
+Mateev	6
+Ninov	6
+Ognyanova	6
+Penkov	6
+Rangelov	6
+Romanov	6
+Sirakov	6
+Stankov	6
+Stoichkov	6
+Yankova	6
+Yovchev	6
+Zdravkov	6
+Zhivkov	6
+Ali	5
+Ananiev	5
+Baeva	5
+Bankov	5
+Bonev	5
+Bozhinov	5
+Cheshmedzhiev	5
+Chobanov	5
+Daskalova	5
+Dimova	5
+Goranov	5
+Grekov	5
+Ikonomov	5
+Iotova	5
+Khristova	5
+Kolarov	5
+Kostova	5
+Krastanov	5
+Krasteva	5
+Lozanov	5
+Lukov	5
+Malinov	5
+Manchev	5
+Miladinov	5
+Milkov	5
+Nakov	5
+Nedkov	5
+Raeva	5
+Spiridonov	5
+Stancheva	5
+Stefanova	5
+Vangelov	5
+Velikov	5
+Yankulov	5
+Zafirov	5
+Zahariev	5
+Zhelev	5
+Zlatev	5
+Antonova	4
+Apostolov	4
+Arabadzhiev	4
+Avramova	4
+Bachvarova	4
+Bobekov	4
+Brankov	4
+Christova	4
+Dachev	4
+Dalchev	4
+Delcheva	4
+Demirev	4
+Dobrinov	4
+Donev	4
+Fol	4
+Gerchev	4
+Gerdzhikov	4
+Grozdanov	4
+Ilchev	4
+Kableshkov	4
+Kasabov	4
+Kirova	4
+Konstantinova	4
+Kovachev	4
+Kristeva	4
+Lukanov	4
+Machev	4
+Maleeva	4
+Merdzhanov	4
+Miteva	4
+Mustakov	4
+Neykov	4
+Ovcharov	4
+Panev	4
+Pulev	4
+Rajtschew	4
+Sarafov	4
+Slaveykov	4
+Stanev	4
+Stanoev	4
+Stoeva	4
+Stoykov	4
+Valcheva	4
+Vassilev	4
+Videnov	4
+Vinarov	4
+Vlaykov	4
+Yaneva	4
+Yonchev	4
+Zagorov	4
+Zapryanov	4
+Zhivkova	4
+Alexieva	3
+Andreev	3
+Andreyeva	3
+Argirov	3
+Arsov	3
+Asenov	3
+Atanasova	3
+Bachev	3
+Bachvarov	3
+Baharov	3
+Balevski	3
+Baltayan	3
+Bogoev	3
+Boteva	3
+Boyanov	3
+Buchkov	3
+Budinov	3
+Burov	3
+Chuchulain	3
+Dacheva	3
+Damianov	3
+Danchev	3
+Delchev	3
+Denchev	3
+Doykov	3
+Draganov	3
+Dragiev	3
+Dragnev	3
+Efremov	3
+Emilov	3
+Galabov	3
+Gavrilov	3
+Genov	3
+Gerasimov	3
+Gočeva	3
+Kalev	3
+Kandov	3
+Kantardzhiev	3
+Karamanov	3
+Karaslavov	3
+Karolev	3
+Kashev	3
+Kazakov	3
+Kiprov	3
+Kiryakov	3
+Kitanov	3
+Kotev	3
+Kotsev	3
+Kraev	3
+Krumov	3
+Kulev	3
+Kumanova	3
+Markova	3
+Metodiev	3
+Mihaylov	3
+Misirkov	3
+Nedelcheva	3
+Nikolow	3
+Ninova	3
+Panayotova	3
+Pandurski	3
+Papazov	3
+Paskov	3
+Radoslavov	3
+Radulov	3
+Rumenov	3
+Savova	3
+Shulev	3
+Shurbanov	3
+Simeonova	3
+Sokolova	3
+Sotirov	3
+Spasova	3
+Staykov	3
+Stefanoff	3
+Stojanov	3
+Talev	3
+Tashev	3
+Tenev	3
+Tonchev	3
+Tonev	3
+Traykov	3
+Trendafilov	3
+Tsenov	3
+Tsvetanova	3
+Valchev	3
+Valev	3
+Valkov	3
+Valov	3
+Velichkov	3
+Velinov	3
+Venedikov	3
+Wagenstein	3
+Yosifov	3
+Yurukov	3
+Yılmaz	3
+Zagorski	3
+Zhelyazkova	3
+Zhotev	3
+Zlatarski	3
+Ahmed	2
+Akhmedov	2
+Alekov	2
+Aleksandrov	2
+Apostolova	2
+Arabov	2
+Arnaudov	2
+Bagryanov	2
+Bakalova	2
+Balabanov	2
+Balan	2
+Balgariev	2
+Bayev	2
+Beron	2
+Beshkov	2
+Blagoev	2
+Blagov	2
+Blagova	2
+Boboshevski	2
+Boydev	2
+Bratanov	2
+Bukov	2
+Bulgaria	2
+Burmov	2
+Cadian	2
+Chalakov	2
+Chepisheva	2
+Chervenivanov	2
+Chipev	2
+Chorbadzhiyski	2
+Chorchopov	2
+Christov	2
+Clark	2
+Cohen	2
+Cvetkov	2
+Danowski	2
+Debelyanov	2
+Decheva	2
+Deliminkov	2
+Denev	2
+Dikov	2
+Dimovski	2
+Doychev	2
+Dyankov	2
+Dzhamdzhiev	2
+Eldarov	2
+Elenkov	2
+Evtimov	2
+Filipov	2
+Finzi	2
+Gargov	2
+Gencheva	2
+Georgiew	2
+Ginovski	2
+Glushkov	2
+Gogov	2
+Goshev	2
+Gospodinov	2
+Grigorova	2
+Gueorguiev	2
+Gyurov	2
+Harizanov	2
+Igov	2
+Indzhov	2
+Ivanchev	2
+Jordanova	2
+Jovanović	2
+Kakalov	2
+Kalchev	2
+Kaneva	2
+Karanov	2
+Karatancheva	2
+Karavelov	2
+Karlov	2
+Kazakova	2
+Kazandzhiev	2
+Kerezov	2
+Khadzhiangelov	2
+Khlebarova	2
+Kirev	2
+Kirkorov	2
+Kiselov	2
+Kisimov	2
+Kisiov	2
+Kosturkov	2
+Kovacheva	2
+Kowatschew	2
+Kozhukharov	2
+Kozlev	2
+Lazarova	2
+Levy	2
+Liebich	2
+Lulchev	2
+Manev	2
+Manova	2
+Marin	2
+Mechev	2
+Mihailov	2
+Milenov	2
+Mirchev	2
+Mitkov	2
+Mitskov	2
+Miyatev	2
+Momchilov	2
+Monov	2
+Mustakerski	2
+Mutafchiyski	2
+Nedev	2
+Nenovski	2
+Nichev	2
+Nochev	2
+Omarova	2
+Palagacheva	2
+Panchev	2
+Parvanov	2
+Pashov	2
+Paskova	2
+Paunov	2
+Pentcheva	2
+Peycheva	2
+Pirgov	2
+Popivanova	2
+Poptodorov	2
+Pramatarov	2
+Proykov	2
+Purvanov	2
+Raev	2
+Rashkov	2
+Rosen	2
+Sabev	2
+Sakazov	2
+Semov	2
+Şen	2
+Sertov	2
+Shapkarev	2
+Shishov	2
+Shumkov	2
+Škorpil	2
+Slavčeva	2
+Slavov	2
+Smirnov	2
+Stambolova	2
+Statelov	2
+Staynov	2
+Stoichkova	2
+Stoynov	2
+Stoynova	2
+Stříbrný	2
+Svatov	2
+Tabakov	2
+Tabakow	2
+Tachev	2
+Tanchev	2
+Tapchileshtov	2
+Tasev	2
+Tcholakov	2
+Teodorov	2
+Tikhov	2
+Todorow	2
+Topalov	2
+Toshev	2
+Totev	2
+Trapkov	2
+Tsokov	2
+Tsonev	2
+Tsvetkova	2
+Tunchev	2
+Tzankova	2
+Tzekova	2
+Vanev	2
+Vaptsarov	2
+Vartan	2
+Vasev	2
+Vezenkov	2
+Vladigerov	2
+Voronov	2
+Vulchanov	2
+Wasilew	2
+Widenow	2
+Yoshev	2
+Yotov	2
+Yovkov	2
+Zafirova	2
+Zarev	2
+Zareva	2
+Zhechev	2
+Zhekova	2
+Zlateva	2
+Zlatinov	2
+Zlatkov	2
+Zografski	2
+Abaciev
+Abadziev
+Abazov
+Abilov
+Abrashev
+Adams
+Agre
+Agura
+Ahmedova
+Akar
+Akhtar
+Alawi
+Albrecht
+Aleksanyan
+Alexandrova
+Aliev
+Alyoshev
+Ambrus
+Ambruš
+Ananyev
+Anastasov
+Anastasova
+Andonova
+Andov
+Angelkova
+Anisov
+Ankov
+Antić
+Apolstolova
+Aprilov
+Arda
+Argirova
+Arié
+Arnaudova
+Aronov
+Aroyo
+Arshinkov
+Ascher
+Assenova
+Atanassov
+Ateş
+Bacalov
+Badev
+Bajrami
+Bakó
+Balabanow
+Balinov
+Balov
+Baltanov
+Baltovich
+Balun
+Balıkçı
+Bandalovski
+Banov
+Banova
+Baramova
+Barekov
+Bareva
+Baycheva
+Behar
+Bejarano
+Belmustakov
+Belov
+Belushi
+Belyakov
+Benedi
+Benova
+Berbatov
+Berberian
+Berberoff
+Berberova
+Bergendorff
+Berov
+Berović
+Bezenšek
+Bianchi
+Bikov
+Bisk
+Bizhkov
+Blajev
+Blakney
+Bobtschew
+Bogdan
+Bogdanova
+Bogdanska
+Boichinov
+Boitchinov
+Bojanov
+Bojinov
+Bokov
+Boneva
+Bonin
+Bontcheva
+Borichev
+Boschinow
+Boshkov
+Boshnakov
+Bost
+Brachlianoff
+Brasizow
+Brown
+Buhovo
+Bulgakov
+Bulut
+Bur
+Buresh
+Calloway
+Canetti
+Cekov
+Chakalov
+Chanev
+Chernyaev
+Cheshmedzhieva
+Chikov
+Chimiak
+Chochov
+Cholakova
+Chopov
+Chorbanov
+Christoff
+Christophorov
+Chukanov
+Chuparov
+Çolak
+Coleva
+Collins
+Comfort
+Conrad
+da Costa
+Dafkov
+Damjanov
+Damyanova
+Daniel
+Darakchiev
+Dareva
+Daskalov
+Davila
+Deane
+Dedov
+Delibaltov
+Denkov
+Desclés
+Despotov
+Dianova
+Dineva
+Dishliev
+Ditcheva
+Djerassi
+Dmitriyev
+Dobrič
+Dobrovic
+Doğan
+Dogramadzhiev
+Dokle
+Domuschiev
+Donkin
+Dosev
+Dost
+Dotchev
+Doycheva
+Doychinov
+Drenski
+Dronchilov
+Dubov
+Dudin
+Dudov
+Dudow
+Dumblakov
+Dundakov
+Dunkin
+Durmush
+Dushkov
+Dzeleva
+Dzhambazov
+Dzhurov
+Dzolev
+Ebert
+Efremova
+Eftimova
+Ekimova
+Elmy
+Elza
+Eyer
+Fandakov
+Farhi
+Ferraresso
+Filaretow
+Filatov
+Filipova
+Filippova
+Fischer
+Fotev
+Foti
+Furuta
+Fyodorov
+Gabé
+Gabriel
+Gabrovski
+Galchev
+Galibov
+Gamov
+Ganeva
+Garbova
+Gardev
+Garev
+Garty
+Gavrilova
+Genova
+Gerasimova
+Germanova
+Geron
+Geshov
+Getov
+Ghiaurov
+Ginchev
+Gladnishka
+Goldstein
+Golev
+Gotha
+Gotsev
+Gramatikov
+Graziani
+Grigoriev
+Gromov
+Grozdanovski
+Grozdev
+Grozdeva
+Grozev
+Gruev
+Grueva
+Gudjenova
+Gudzhunov
+Guidea
+Gyulmezov
+Hadzhiev
+Hadzhiivanov
+Hadzhimanov
+Hadzhiyanev
+Hadzhov
+Hamilton
+Hammoud
+Hasan
+Herbst
+Hillsman
+Hmelik
+Hoca
+Homan
+Horbatenko
+Hossen
+Hristozov
+Huddleston
+Ibrahim
+Ibraimov
+Ignatyev
+Ikonopisov
+Ilev
+Ilia
+Ilich
+Ilkova
+Isa
+Isaev
+Isakov
+Ishirkov
+Ismailow
+Ivankov
+Ivannova
+Ivanoff
+Ivanović
+Ivanovski
+Ivkov
+Ivy
+Iwanowa
+Janevski
+Jankov
+Janković
+Jayne
+Jilev
+Kabov
+Kabranov
+Kalaydzhiev
+Kaludova
+Kambourov
+Kamburov
+Kamenov
+Kancheva
+Karabelyov
+Karadayi
+Karambolov
+Karamihaylova
+Karanovski
+Karastojanow
+Karim
+Kartalska
+Kasabova
+Kasimova
+Kassabian
+Kassimova
+Katranov
+Kaufman
+Kazak
+Kazantzian
+Kaziyski
+Kechev
+Kellerer
+Kerimov
+Kesov
+Khermaniev
+Khristev
+Kiradzhiev
+Kitov
+Kiwan
+Kleva
+Knekna
+Knyazev
+Kochev
+Kolchev
+Kolesov
+Konarev
+Kondakov
+Konov
+Kosta
+Kostadinow
+Kostandi
+Kottas
+Kovalyova
+Kovatchev
+Koyzeklieva
+Kralchevski
+Kremen
+Kristensen
+Kruger
+Kubler
+Küçük
+Kukushev
+Kurumbashev
+Kurzius
+Kushev
+Kushuvaliev
+Kuzmanov
+Kwong
+Kyuchukov
+Lagadinova
+Lalov
+Lalova
+Lang
+Le Nepveu
+Lederer
+Lekarski
+Lemachko
+Levenov
+Levi
+Leviev
+Lewis
+Linkov
+Lolova
+Luchnikov
+Lusis
+Lutzcanov
+Lyutskanov
+Madanzhiev
+Makarski
+Makedonski
+Maleev
+Manchenko
+Maneva
+Manoilova
+Manolev
+Manolkov
+Manuilov
+Maraviglia
+Mardirossian
+Margaryan
+Mavrov
+Mavrudchiev
+Maximov
+Maydel
+McIntyre
+Mechkarov
+Melkonyan
+Melrose
+Menzl
+Mersini
+Mevsim
+Michailova
+Michajlov
+Mihajlov
+Mihalev
+Mikhalkov
+Miklashevsky
+Milchev
+Milenova
+Miletić
+Miller
+Milov
+Mintchev
+Mirkovic
+Mironov
+Mirov
+Mishev
+Mitrani
+Mitrenga
+Mitsev
+Mitsova
+Mladenova
+Mnatsakanian
+Monedzhikova
+Monova
+Morales
+Morgenstern
+Morgunov
+Morozov
+Moser
+Moshonov
+Motev
+Mrkvička
+Mumdzhiev
+Muratov
+Murin
+Mustafa
+Mustakowa-Genadiewa
+Mutafchiev
+Nadal
+Nadschakow
+Nalbantov
+Nalbantova
+Nasar
+Nascimento
+Natov
+Nazarian
+Nazaryan
+Nedialkov
+Nedyalkova
+Nemska
+Nenchev
+Nenkova
+Neshov
+Nesterov
+Nestorova
+Neycheva
+Neykova
+Nguyen
+Nguyễn
+Nicolai
+Nicolov
+Niko
+Nikolaev
+Nikolaeva
+Noev
+Nogueira
+Nola
+Nonchev
+Novoselska
+Nowakow
+Nozharova
+Nyagolov
+Obretenov
+Obretenova
+Ofek
+Ognenov
+Okolie
+Okoro
+Oliver
+Omoregie
+Oreshkov
+Orschel
+Oulianoff
+Ovadia
+Owens
+Padevsky
+Paisieva
+Palazov
+Palev
+Pandov
+Panitsa
+Pankov
+Panteleyev
+Paprikow
+Paris
+Parisheva
+Parlak
+Parushev
+Parvanova
+Pascin
+Passy
+Pastukhov
+Patarinski
+Patsev
+Pavlinov
+Pavlović
+Pavlovych
+Pawłow
+Pekanov
+Pekin
+Pelin
+Pencheva
+Peneva
+Perec
+Peretz
+Petcova
+Petkoff
+Petrovski
+Petrowa
+Petrunov
+Peychev
+Pickett
+Pisarov
+Plakhov
+Podorova
+Pogonchev
+Polyakov
+Polyakova
+Popchristov
+Popgeorgiev
+Popoff
+Popović
+Popovska
+Popow
+Popstoikova
+Poptodorowa
+Popvasilev
+Portnih
+Portnoy
+Praznikov
+Preslavski
+Prodanov
+Prodanova
+Prokopová
+Quinn
+Rachev
+Racheva
+Radić
+Radkovska
+Radukanowa
+Radulski
+Rahal
+Rakitin
+Rakov
+Rakovsky
+Ramazanov
+Rashidov
+Rasim
+Raychev
+Raykov
+Raynov
+Razlozhki
+Read
+Richero
+Rizov
+Robert
+Rochet
+Roman
+Romanski
+Romansky
+Rosanes
+Rosenberg
+Rosenov
+Rossa
+Roth
+Row
+Rowland
+Rozhnov
+Rozov
+Rubin
+Runevska
+Rupkina
+Rusakov
+Ruslanov
+Rybakov
+Şaban
+Sadakow
+Sadovski
+Sakakushev-von Bismarck
+Sakelarov
+Salimov
+Salomon
+Salparov
+Sanches
+Sandow
+Sano
+Sapunov
+Sarakinov
+Sargsyan
+Šaulić
+Savoy
+Schellhorn
+Schneidermann
+Schnitter
+Sekulov
+Sen
+Sessler
+Shakhanov
+Shakhov
+Shatov
+Shotz
+Siarov
+Silagi
+Simmons
+Siromahov
+Slavcheva
+Slavinski
+Smilianova
+Smolenski
+Snezhina
+Softova
+Sokachev
+Sokolsky
+Spiller
+Spiridonova
+Staliyski
+Stamatov
+Staneva
+Stanew
+Stanischew
+Stantcheva
+Stefanová
+Stepanjan
+Sterk
+Stojanova
+Stojanow
+Stojkovski
+Stojna
+Stoyanchov
+Stranski
+Stratimirovic
+Straubel
+Süleymanoğlu
+Səlimov
+Tafrov
+Tagger
+Taneva
+Tarakchieva
+Tarasevich
+Tasevski
+Taşkın
+Tassew
+Tatarov
+Temelkova
+Terzi
+Thomsen
+Tikholov
+Tilev
+Tinkova
+Todev
+Tomash
+Tomašić
+Tombak
+Tomová
+Toms
+Toneva
+Topaloğlu
+Topuzova
+Toromanova
+Torres
+Tosheva
+Totkova
+Traets
+Trakov
+Trandeva
+Trayanov
+Trenchev
+Trendafilova
+Trnka
+Tsachev
+Tsacheva
+Tsanova
+Tschapkanow
+Tscharyiski
+Tsenkov
+Tsepenkov
+Tsolov
+Tsonchev
+Tsoneva
+Tsvetanov
+Tsvetkovski
+Tumangelov
+Tunca
+Turner
+Tzaneva
+Tzokov
+Tzvetanov
+Tzvetkova
+Ulusoy
+Ushev
+Uzun
+Uzunov
+Vachev
+Vachkov
+Vajushi
+Vakilov
+Valenti
+Valeriev
+Valkanov
+Valkanova
+Válková
+Valtchinova
+Vaptsarova
+Vazova
+Velcheva
+Velevska
+Velinova
+Velyov
+Veskova
+Vesov
+Videlov
+Videv
+Vigenin
+Vîlcu
+Vischegonov
+Viteva
+Vladovski
+Vlahov
+Vlahovska
+Vodenicharov
+Vojska
+Volgin
+Vutov
+Vutsov
+Vyskočilová
+Wanja
+Washburn
+Wassilew
+Weissenberg
+Welitsch
+Wesson
+White
+Wiener
+Williams
+Wilson
+Wright
+Xwybyltæ
+Yakovlev
+Yanachkov
+Yanchulova
+Yanko
+Yaranov
+Yavashev
+Yavorov
+Yazova
+Young
+Yıldız
+Zanev
+Zarkova
+Zashev
+Zaykov
+Zaykova
+Zetchiri
+Zetov
+Zharkov
+Zheleva
+Zidarov
+Zinkov
+Zlatarov
+Zlatkova
+Zograf
+Zurbriggen

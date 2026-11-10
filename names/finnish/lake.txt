@@ -1,0 +1,5000 @@
+Mustalampi	301
+Ahvenlampi	283
+Haukilampi	240
+Saarijärvi	191
+Särkilampi	181
+Pitkälampi	171
+Pitkäjärvi	170
+Särkijärvi	166
+Kuikkalampi	148
+Likolampi	135
+Saarilampi	134
+Kivijärvi	125
+Heinälampi	119
+Valkealampi	119
+Valkeinen	118
+Kangaslampi	110
+Tervalampi	110
+Syväjärvi	108
+Kalliolampi	105
+Kalliojärvi	96
+Hanhilampi	94
+Vähäjärvi	91
+Vehkalampi	91
+Myllylampi	90
+Syvälampi	90
+Kortelampi	86
+Salmijärvi	86
+Ahvenjärvi	85
+Kivilampi	85
+Suolampi	83
+Riihilampi	79
+Hepolampi	74
+Salmilampi	74
+Pirttijärvi	72
+Vääräjärvi	72
+Kaakkurilampi	70
+Valkeajärvi	70
+Valkjärvi	69
+Lehmilampi	68
+Hoikkalampi	66
+Joutenlampi	65
+Paskolampi	64
+Palolampi	63
+Haukijärvi	62
+Koiralampi	59
+Sammakkolampi	58
+Matolampi	57
+Mustajärvi	55
+Pirttilampi	55
+Pahalampi	54
+Hirvijärvi	53
+Kalaton	53
+Kotajärvi	52
+Tervajärvi	52
+Kaitajärvi	51
+Onkilampi	51
+Jokilampi	48
+Kotalampi	48
+Väärälampi	48
+Honkalampi	47
+Alajärvi	45
+Kaakkolampi	45
+Lehtolampi	45
+Levälampi	45
+Suojärvi	45
+Valkialampi	45
+Heinäjärvi	44
+Kortejärvi	43
+Rajalampi	43
+Teerilampi	42
+Ukonlampi	42
+Kolmisoppi	41
+Kotilampi	41
+Myllyjärvi	41
+Korpijärvi	40
+Ruunalampi	39
+Valkeislampi	39
+Ahvenlammi	38
+Lauttalampi	38
+Hanhijärvi	37
+Hirvilampi	37
+Kaivoslampi	37
+Saunalampi	37
+Kangasjärvi	36
+Matalalampi	36
+Pajulampi	36
+Ristilampi	36
+Saarinen	36
+Vuorilampi	36
+Alalampi	35
+Karhulampi	35
+Peuralampi	35
+Pyhäjärvi	35
+Rytilampi	35
+Kaitalampi	34
+Lahnajärvi	34
+Paskalampi	34
+Siikalampi	34
+Hietajärvi	33
+Jokijärvi	33
+Mustalammi	33
+Haapalampi	32
+Palojärvi	32
+Välilampi	32
+Hoikanlampi	31
+Louhilampi	31
+Mäntylampi	31
+Vaaralampi	31
+Isojärvi	30
+Kontiolampi	30
+Löytölampi	30
+Raatelampi	30
+Viitalampi	30
+Vuorijärvi	30
+Alanen	29
+Haapajärvi	29
+Keskinen	29
+Korpilampi	29
+Kuusijärvi	29
+Lahnalampi	29
+Latvalampi	29
+Mustikkalampi	29
+Ruokojärvi	29
+Suurijärvi	29
+Umpilampi	29
+Kalettomanlampi	28
+Saukkolampi	28
+Lummelampi	27
+Pahkalampi	27
+Petäjälampi	27
+Sarvilampi	27
+Storträsket	27
+Syrjälampi	27
+Aittolampi	26
+Aluslampi	26
+Hangaslampi	26
+Karhujärvi	26
+Keskimmäinen	26
+Koivulampi	26
+Kokkolampi	26
+Kolmisoppinen	26
+Matalajärvi	26
+Niittylampi	26
+Niskalampi	26
+Nuottilampi	26
+Polvilampi	26
+Takalampi	26
+Tuohilampi	26
+Hautalampi	25
+Kaleton	25
+Kirveslampi	25
+Kuivajärvi	25
+Lamminjärvi	25
+Lapinjärvi	25
+Lohilampi	25
+Pikkulampi	25
+Siikajärvi	25
+Hangasjärvi	24
+Kaakkolammi	24
+Keskilampi	24
+Peräjärvi	24
+Perälampi	24
+Petäjäjärvi	24
+Ristijärvi	24
+Tielampi	24
+Ylimmäinen	24
+Hoikka	23
+Kaunislampi	23
+Koukkulampi	23
+Latvajärvi	23
+Nimetönlampi	23
+Riihijärvi	23
+Soidinlampi	23
+Iso-Valkeinen	22
+Kalatonlampi	22
+Kiimalampi	22
+Kirkkojärvi	22
+Koirajärvi	22
+Laihalampi	22
+Lapinlampi	22
+Lillträsket	22
+Mäkilampi	22
+Matkalampi	22
+Pohjalampi	22
+Sammallampi	22
+Sorvalampi	22
+Taivallampi	22
+Valkiajärvi	22
+Vehkajärvi	22
+Autiolampi	21
+Hietalampi	21
+Iso Kivijärvi	21
+Kaijanlampi	21
+Kalajärvi	21
+Katajalampi	21
+Majalampi	21
+Murtolampi	21
+Niemijärvi	21
+Porolampi	21
+Rapalampi	21
+Ruuhilampi	21
+Salmilammit	21
+Savijärvi	21
+Tulilampi	21
+Tuomilampi	21
+Aholampi	20
+Haaralampi	20
+Hoikkajärvi	20
+Iso Haukilampi	20
+Isolampi	20
+Mäntyjärvi	20
+Savilampi	20
+Ahveninen	19
+Halmelampi	19
+Honkajärvi	19
+Joutsenlampi	19
+Kuikkalammit	19
+Laskulampi	19
+Lauttajärvi	19
+Ruuhijärvi	19
+Viitajärvi	19
+Ahvenlammit	18
+Antinlampi	18
+Hakojärvi	18
+Havukkalampi	18
+Herajärvi	18
+Koivujärvi	18
+Konttilampi	18
+Pienilampi	18
+Pihlajalampi	18
+Takkulampi	18
+Ahveroinen	17
+Haarajärvi	17
+Hankalampi	17
+Hauklampi	17
+Heinilampi	17
+Hirvasjärvi	17
+Hukkalampi	17
+Kaakonlampi	17
+Kalatonjärvi	17
+Keskijärvi	17
+Kurkilampi	17
+Päälampi	17
+Pajujärvi	17
+Pesälampi	17
+Pyöreälampi	17
+Ruokolampi	17
+Sääksjärvi	17
+Särkkälampi	17
+Sikolampi	17
+Vasikkalampi	17
+Alimmainen	16
+Haapolampi	16
+Hakolampi	16
+Harrijärvi	16
+Haukilammi	16
+Jouttijärvi	16
+Kaivolampi	16
+Kaivosjärvi	16
+Koukkujärvi	16
+Kurkijärvi	16
+Lahnanen	16
+Levänen	16
+Niinilampi	16
+Orilampi	16
+Pieni-Valkeinen	16
+Pikkujärvi	16
+Ruoholampi	16
+Välijärvi	16
+Valkeainen	16
+Ylilampi	16
+Hamppulampi	15
+Härkälampi	15
+Heinälammit	15
+Humalalampi	15
+Kirkaslampi	15
+Kotijärvi	15
+Kumpulampi	15
+Lokkilampi	15
+Pahtajärvi	15
+Teerijärvi	15
+Telkkälampi	15
+Tetrilampi	15
+Valkiainen	15
+Venejärvi	15
+Vuorinen	15
+Aittojärvi	14
+Hautajärvi	14
+Jäkälälampi	14
+Joutenjärvi	14
+Kaatiolampi	14
+Kaijanjärvi	14
+Koirilampi	14
+Koppelolampi	14
+Leppälampi	14
+Metsälampi	14
+Mustanlampi	14
+Naarajärvi	14
+Ojajärvi	14
+Pääjärvi	14
+Peurajärvi	14
+Pyylampi	14
+Repolampi	14
+Salminen	14
+Säynäjäjärvi	14
+Sotkulampi	14
+Verkkolampi	14
+Ylijärvi	14
+Aitalampi	13
+Härkölampi	13
+Haukkalampi	13
+Iso Ahvenlampi	13
+Juurikkajärvi	13
+Kaihlanen	13
+Kalalampi	13
+Kokkojärvi	13
+Kotojärvi	13
+Kumpunen	13
+Kvarnträsket	13
+Liejulampi	13
+Mäkijärvi	13
+Marjolampi	13
+Mätäslampi	13
+Mutalampi	13
+Pahakala	13
+Paskolammi	13
+Pieni Särkilampi	13
+Polvijärvi	13
+Purnulampi	13
+Pyöreinen	13
+Rimpilampi	13
+Rytijärvi	13
+Salmijärvet	13
+Säynäjälampi	13
+Takajärvi	13
+Ulkulampi	13
+Varislampi	13
+Akanlampi	12
+Hanhilammit	12
+Iso Hanhilampi	12
+Iso Särkijärvi	12
+Kaatronlampi	12
+Kaihlalampi	12
+Kakarlammi	12
+Karijärvi	12
+Kärmelampi	12
+Kirvesjärvi	12
+Kovajärvi	12
+Kukkarolampi	12
+Kuusilampi	12
+Lemilampi	12
+Leväjärvi	12
+Lintulampi	12
+Lylyjärvi	12
+Majajärvi	12
+Matinlampi	12
+Näätälampi	12
+Niinijärvi	12
+Niittyjärvi	12
+Niskajärvi	12
+Pahakalanlampi	12
+Pieni Särkijärvi	12
+Poskilampi	12
+Riuttalampi	12
+Särkinen	12
+Sarvijärvi	12
+Tulijärvi	12
+Vääränlampi	12
+Valkeisjärvi	12
+Akonlampi	11
+Harjujärvi	11
+Härkäjärvi	11
+Heikinlampi	11
+Heralampi	11
+Hevoslampi	11
+Kaituri	11
+Kaivulampi	11
+Kalliolammit	11
+Karsikkolampi	11
+Katajajärvi	11
+Keihäsjärvi	11
+Kiiskilampi	11
+Kilpijärvi	11
+Kilpilampi	11
+Kortteinen	11
+Koskilampi	11
+Kuorejärvi	11
+Kuusjärvi	11
+Kuvelampi	11
+Kylmäjärvi	11
+Kypärälampi	11
+Lehmijärvi	11
+Leppäjärvi	11
+Leppälammi	11
+Leppilampi	11
+Luulampi	11
+Mutkalampi	11
+Myllylammi	11
+Nimetön	11
+Paskonlampi	11
+Pitkälammi	11
+Raatejärvi	11
+Rajalammi	11
+Rautalampi	11
+Rautujärvi	11
+Rekilampi	11
+Ruonajärvi	11
+Sirkkalampi	11
+Sulkulampi	11
+Talvilampi	11
+Tervalammi	11
+Yläjärvi	11
+Yölampi	11
+Aapalampi	10
+Ahmalampi	10
+Guhkesjávri	10
+Hämeenlampi	10
+Housulampi	10
+Iso Riihilampi	10
+Iso Salmijärvi	10
+Iso Tervalampi	10
+Jaakonlampi	10
+Kaakkurijärvi	10
+Kaakkurinlampi	10
+Kattilajärvi	10
+Käyrälampi	10
+Keihäslampi	10
+Kotanen	10
+Kuoppajärvi	10
+Likolammi	10
+Luhtalampi	10
+Matkuslampi	10
+Mukkajärvi	10
+Murtojärvi	10
+Mustinlampi	10
+Niemilampi	10
+Pieni Haukilampi	10
+Pohjoislampi	10
+Ruokonen	10
+Salkolampi	10
+Särkilammit	10
+Saukkojärvi	10
+Saunajärvi	10
+Säynätjärvi	10
+Syrjäjärvi	10
+Taivaljärvi	10
+Tunturilampi	10
+Valkealammi	10
+Harjulampi	9
+Hietanen	9
+Hiidenlampi	9
+Hirvaslampi	9
+Iso Ahvenjärvi	9
+Iso Joutenlampi	9
+Iso Kalliojärvi	9
+Iso Kuikkalampi	9
+Iso-Musta	9
+Iso-Salminen	9
+Isolammi	9
+Kaita	9
+Kaitalammi	9
+Karkulampi	9
+Kattilalampi	9
+Keinojärvi	9
+Kellolampi	9
+Keltalampi	9
+Kukkolampi	9
+Kyläjärvi	9
+Kylkiäinen	9
+Lahnalammi	9
+Lakilampi	9
+Lillträsk	9
+Lylylampi	9
+Majavalampi	9
+Nieminen	9
+Nikinlampi	9
+Njárgajávri	9
+Nuottijärvi	9
+Ollinlampi	9
+Pahkajärvi	9
+Pekanlampi	9
+Pesäjärvi	9
+Pieni Kivijärvi	9
+Pieni Salmijärvi	9
+Pienijärvi	9
+Piilolampi	9
+Porraslampi	9
+Puukkolampi	9
+Pyhälampi	9
+Raatolampi	9
+Rimminlampi	9
+Rovajärvi	9
+Saarilammit	9
+Salajärvi	9
+Sammalinen	9
+Saralampi	9
+Säynelampi	9
+Soilampi	9
+Sorsalampi	9
+Sorvajärvi	9
+Storträsk	9
+Suolammit	9
+Suolijärvi	9
+Tynnyrilampi	9
+Ukonjärvi	9
+Uusijärvi	9
+Vääränjärvi	9
+Vehkolampi	9
+Aittajärvi	8
+Etelälampi	8
+Hankajärvi	8
+Haukilammit	8
+Haukkajärvi	8
+Heinijärvi	8
+Hiisilampi	8
+Hirvilammi	8
+Iso Matolampi	8
+Iso Suojärvi	8
+Iso-Petäinen	8
+Jänislampi	8
+Jouhteninen	8
+Joutenlammit	8
+Juurikkalampi	8
+Kaakkurilammit	8
+Kaislanen	8
+Käkilampi	8
+Kantolampi	8
+Kapustalampi	8
+Kirkkolampi	8
+Koijärvi	8
+Kolkonjärvi	8
+Kolmiloukkonen	8
+Kolmisopenlampi	8
+Koukolampi	8
+Kourulampi	8
+Kutujärvi	8
+Kutulampi	8
+Kvarnträsk	8
+Långträsket	8
+Lavajärvi	8
+Lehtojärvi	8
+Liesjärvi	8
+Lompolojärvi	8
+Löyttyjärvi	8
+Luotonen	8
+Madejärvi	8
+Mätäsjärvi	8
+Mutajärvi	8
+Ojalampi	8
+Onkijärvi	8
+Paavonlampi	8
+Pahajärvi	8
+Pahalammi	8
+Patajärvi	8
+Patolampi	8
+Petäinen	8
+Petronlampi	8
+Pieni Ahvenlampi	8
+Pieni Hanhilampi	8
+Pieni-Musta	8
+Pieni-Petäinen	8
+Pulkkalampi	8
+Purnujärvi	8
+Pyöriälampi	8
+Rajajärvi	8
+Ruonalampi	8
+Ruostelampi	8
+Ruutana	8
+Ruutanalampi	8
+Soppinen	8
+Sotkajärvi	8
+Suolammi	8
+Surmalampi	8
+Talaslampi	8
+Tavilampi	8
+Vähälampi	8
+Varpulampi	8
+Vehmasjärvi	8
+Verkkojärvi	8
+Vesijärvi	8
+Vihtajärvi	8
+Vihtalampi	8
+Ylälampi	8
+Aittalampi	7
+Autiojärvi	7
+Dápmotjávri	7
+Hämeenjärvi	7
+Häntälampi	7
+Hepojärvi	7
+Hepolammi	7
+Hiidenjärvi	7
+Hiisijärvi	7
+Hoikanjärvi	7
+Iso Heinäjärvi	7
+Iso Heinälampi	7
+Iso Kangaslampi	7
+Iso Koiralampi	7
+Iso Särkilampi	7
+Iso Suolampi	7
+Iso Vuorijärvi	7
+Jänkkäjärvi	7
+Joutjärvi	7
+Julmalampi	7
+Kaidanlampi	7
+Kailajärvi	7
+Kakarlampi	7
+Kämppälampi	7
+Kaupinlampi	7
+Kelolampi	7
+Kettulampi	7
+Kolmiloukko	7
+Koppelojärvi	7
+Korppilampi	7
+Korppinen	7
+Koskenlampi	7
+Kuhajärvi	7
+Kuhesjáávráš	7
+Kukasjärvi	7
+Kylkeinen	7
+Kylmälampi	7
+Långträsk	7
+Laukkulampi	7
+Laurinlampi	7
+Lehmälampi	7
+Liinalampi	7
+Löytynlampi	7
+Luomajärvi	7
+Lusikkalampi	7
+Mustatlammit	7
+Mustijärvi	7
+Nevajärvi	7
+Niemisjärvi	7
+Nuottajärvi	7
+Nurmijärvi	7
+Olkilampi	7
+Pankalampi	7
+Patalampi	7
+Pentinlampi	7
+Pieni Joutenlampi	7
+Pikku Ahvenlampi	7
+Rasilampi	7
+Rautjärvi	7
+Riitalampi	7
+Ritalampi	7
+Ruohojärvi	7
+Rutajärvi	7
+Särkänlampi	7
+Selkäjärvi	7
+Sopenjärvi	7
+Suurilampi	7
+Timonlampi	7
+Tuulijärvi	7
+Ulkujärvi	7
+Valkeisenlampi	7
+Vasalampi	7
+Vehmaslampi	7
+Vuomajärvi	7
+Ylemmäinen	7
+Ahmajärvi	6
+Ahvenainen	6
+Ahvenjärvet	6
+Ahvenus	6
+Ahvenuslampi	6
+Aitolampi	6
+Akanjärvi	6
+Akkalampi	6
+Arolampi	6
+Elijärvi	6
+Halmejärvi	6
+Haukinen	6
+Heinäjärvet	6
+Huttulampi	6
+Huuhtlampi	6
+Ilveslampi	6
+Iso Haukijärvi	6
+Iso Kotajärvi	6
+Iso-Ahvenainen	6
+Itälampi	6
+Jänkäjärvi	6
+Jouhtenus	6
+Joutsenjärvi	6
+Joutsjärvi	6
+Jussinlampi	6
+Kaatranen	6
+Kaija	6
+Kakarilammi	6
+Kakkurilammi	6
+Kalatonlammi	6
+Kangaslammit	6
+Kapealampi	6
+Karilampi	6
+Karjolampi	6
+Karvalampi	6
+Kauhajärvi	6
+Käyräjärvi	6
+Kenttälampi	6
+Kissalampi	6
+Kolkonlampi	6
+Kolmiloukonlampi	6
+Korvalampi	6
+Kuhalampi	6
+Kuoppalampi	6
+Kuorelampi	6
+Kurikkalampi	6
+Lakkalampi	6
+Lammijärvi	6
+Lamminmäenlampi	6
+Lautalampi	6
+Lavalampi	6
+Lehtilampi	6
+Likalampi	6
+Löytöjärvi	6
+Luolajärvi	6
+Luotojärvi	6
+Maajärvi	6
+Madelampi	6
+Majavajärvi	6
+Mäkrälampi	6
+Matkajärvi	6
+Melalampi	6
+Mertajärvi	6
+Metsäjärvi	6
+Mikonlampi	6
+Mukkalampi	6
+Multalampi	6
+Muotkajärvi	6
+Murtonen	6
+Nuolilampi	6
+Oravilampi	6
+Orijärvi	6
+Oritlampi	6
+Pahatlammit	6
+Palonen	6
+Peltolampi	6
+Petralampi	6
+Peurolampi	6
+Pieni Heinälampi	6
+Pieni Kalliojärvi	6
+Pieni Kangaslampi	6
+Pieni Kivilampi	6
+Pieni Kuikkalampi	6
+Pieni Mäntylampi	6
+Pieni-Salminen	6
+Piimälampi	6
+Pikku Kivijärvi	6
+Pikku Särkijärvi	6
+Purnunlampi	6
+Ratalampi	6
+Ruotalampi	6
+Saaresjärvi	6
+Saarvalampi	6
+Sahajärvi	6
+Sammakkojärvi	6
+Särkilammi	6
+Särkkäjärvi	6
+Särkkälammit	6
+Säynäjärvi	6
+Soidinlammit	6
+Soikealampi	6
+Sompalampi	6
+Sopenlampi	6
+Sorsajärvi	6
+Suolojávri	6
+Suulampi	6
+Syrjänlampi	6
+Taimenjärvi	6
+Taimenlampi	6
+Talasjärvi	6
+Tetrijärvi	6
+Tiejärvi	6
+Turvakkolampi	6
+Uuttulampi	6
+Vaaranaluslampi	6
+Vähä Kivijärvi	6
+Vähä Särkijärvi	6
+Valkeatlammit	6
+Valkeislammit	6
+Varpanen	6
+Yrttilampi	6
+Ahmolampi	5
+Ahvenusjärvi	5
+Allijärvi	5
+Báktejávri	5
+Enäjärvi	5
+Eräjärvi	5
+Gearddosjávri	5
+Gloet	5
+Hallalampi	5
+Hanhilammet	5
+Hanhilammi	5
+Hávgajávri	5
+Hemträsket	5
+Hepolammit	5
+Hetejärvi	5
+Hetelampi	5
+Hiirilampi	5
+Hirsilampi	5
+Honkanen	5
+Housulammi	5
+Huhtalampi	5
+Hyväjärvi	5
+Iijärvi	5
+Iilammi	5
+Iso Aitalampi	5
+Iso Mustajärvi	5
+Iso Palojärvi	5
+Iso Ruuhijärvi	5
+Iso Salmilampi	5
+Iso Vehkalampi	5
+Iso-Ahveninen	5
+Iso-Hoikka	5
+Itäjärvi	5
+Jänisjärvi	5
+Jouhenjärvi	5
+Jouhenlampi	5
+Jouhtinen	5
+Juomalampi	5
+Juurakkojärvi	5
+Kaakkolammit	5
+Kaitanen	5
+Kaksoslammit	5
+Kalettomanjärvi	5
+Kanalampi	5
+Kannusjärvi	5
+Kannuslampi	5
+Kantojärvi	5
+Kaunisjärvi	5
+Kelkkalampi	5
+Kellarilampi	5
+Kiieslampi	5
+Kiimajärvi	5
+Kilpilammi	5
+Kirkasvetinen	5
+Kirnulampi	5
+Koivulammi	5
+Kolmilammit	5
+Könkäänlampi	5
+Kontiojärvi	5
+Korpilammi	5
+Korpinen	5
+Kotalammit	5
+Koukkulammi	5
+Kourajärvi	5
+Kuivasjärvi	5
+Kukkarojärvi	5
+Kultalampi	5
+Kuohulampi	5
+Kylkilampi	5
+Kytölampi	5
+Laajalampi	5
+Laihajärvi	5
+Lalvajärvi	5
+Lammasjärvi	5
+Lamminsuonlampi	5
+Lapjärvi	5
+Lassinlampi	5
+Laukkujärvi	5
+Lepojärvi	5
+Likojärvi	5
+Likolammit	5
+Lillsjön	5
+Lintujärvi	5
+Litmanen	5
+Lohijärvi	5
+Loukkojärvi	5
+Löytty	5
+Luhtajärvi	5
+Lukanlampi	5
+Lumpeinen	5
+Maantiejärvi	5
+Mämmilampi	5
+Mantojärvi	5
+Matikkalampi	5
+Matojärvi	5
+Mäyrälampi	5
+Mertalampi	5
+Moitalampi	5
+Mustikainen	5
+Mustjärvi	5
+Naurislampi	5
+Niemislampi	5
+Nilijärvi	5
+Nurmilampi	5
+Oinasjärvi	5
+Oksjärvi	5
+Onkilammit	5
+Oravalampi	5
+Otralampi	5
+Päijänne	5
+Paiselampi	5
+Palokki	5
+Papinlampi	5
+Parvajärvi	5
+Peltojärvi	5
+Perilampi	5
+Petrolampi	5
+Pieni	5
+Pieni Heinäjärvi	5
+Pieni Hietajärvi	5
+Pieni Mustalampi	5
+Pieni Suojärvi	5
+Pieni Tervalampi	5
+Pieni-Korppinen	5
+Pieni-Lahnanen	5
+Pienivesi	5
+Piippulampi	5
+Pikjärvi	5
+Pikku Kokkolampi	5
+Pirkonlampi	5
+Pirttilammi	5
+Pohjanlampi	5
+Pohjaslampi	5
+Pukkilampi	5
+Pyörälampi	5
+Pyöreäinen	5
+Rahelampi	5
+Raiskiolampi	5
+Rantajärvi	5
+Rapajärvi	5
+Rasvalampi	5
+Repojärvi	5
+Rimpijärvi	5
+Riuttajärvi	5
+Ruokosenlampi	5
+Ruunalammit	5
+Saarisenjärvi	5
+Saarisjärvi	5
+Saarlampi	5
+Salolampi	5
+Salonlampi	5
+Sarajärvi	5
+Sarkanen	5
+Savilammit	5
+Savonjärvi	5
+Säynätlampi	5
+Silmälampi	5
+Siltalampi	5
+Sivakkajärvi	5
+Sivakkalampi	5
+Soikkolampi	5
+Sourunlampi	5
+Svartträsk	5
+Syrjänjärvi	5
+Tuomaanlampi	5
+Uopajanlampi	5
+Vaarajärvi	5
+Valkiaisjärvi	5
+Valkijärvi	5
+Valkoinenlampi	5
+Vatilampi	5
+Vellilampi	5
+Venelampi	5
+Vesajärvi	5
+Virkalampi	5
+Visalampi	5
+Vuáskujävri	5
+Vuorisjärvi	5
+Ylä-Salminen	5
+Ylinenjärvi	5
+Yölammit	5
+Aavanlampi	4
+Ahojärvi	4
+Ahvenisto	4
+Aisalampi	4
+Aitajärvi	4
+Aitjärvi	4
+Aittolammit	4
+Ala-Salminen	4
+Alanne	4
+Alanteenjärvi	4
+Byträsket	4
+Enojärvi	4
+Guhkesláttu	4
+Guhkesluoppal	4
+Haaralammi	4
+Haiseva	4
+Hakalampi	4
+Halijärvi	4
+Halkolampi	4
+Hamaralampi	4
+Hangaslammi	4
+Hankolampi	4
+Harijärvi	4
+Harrilampi	4
+Harrilommol	4
+Harrilompolo	4
+Hattulampi	4
+Heikkisenlampi	4
+Heinälammi	4
+Heinlampi	4
+Honkalammit	4
+Honkilampi	4
+Housujärvi	4
+Huáššijáávráš	4
+Huhtilampi	4
+Hukkajärvi	4
+Humalajärvi	4
+Huoripoika	4
+Huosiainen	4
+Huosiuslampi	4
+Huuhkajalampi	4
+Huuhtilampi	4
+Ilvesjärvi	4
+Iso Hangaslampi	4
+Iso Hietajärvi	4
+Iso Hirvijärvi	4
+Iso Kalliolampi	4
+Iso Kivilampi	4
+Iso Koirajärvi	4
+Iso Kokkolampi	4
+Iso Korpijärvi	4
+Iso Lauttalampi	4
+Iso Lehmilampi	4
+Iso Leppilampi	4
+Iso Mustalampi	4
+Iso Nuottilampi	4
+Iso Onkilampi	4
+Iso Pahalampi	4
+Iso Paskolampi	4
+Iso Petäjälampi	4
+Iso Pirttijärvi	4
+Iso Raatelampi	4
+Iso Saarijärvi	4
+Iso Siikajärvi	4
+Iso Tervajärvi	4
+Iso Valkjärvi	4
+Iso Viitalampi	4
+Iso-Kaleton	4
+Iso-Kotanen	4
+Iso-Ruokonen	4
+Iso-Särkinen	4
+Iso-Valkeainen	4
+Iso-Varpanen	4
+Isonsuonlampi	4
+Jäkäläjärvi	4
+Järvelänjärvi	4
+Jouhtjärvi	4
+Jousilampi	4
+Jouttilampi	4
+Jukajärvi	4
+Julmajärvi	4
+Junkijärvi	4
+Juntinlampi	4
+Kaakkojärvi	4
+Käärmejärvi	4
+Kaatralampi	4
+Kähteejáávráš	4
+Kaihlajärvi	4
+Kaislalampi	4
+Kaivosjärvet	4
+Kaivoslammit	4
+Kalattomanlampi	4
+Käldeejävri	4
+Kaletonlampi	4
+Kanajärvi	4
+Kangas-Valkeinen	4
+Karankajärvi	4
+Karhijärvi	4
+Karjalampi	4
+Kärppälampi	4
+Karsikkojärvi	4
+Kartiskalampi	4
+Karvaslampi	4
+Kaskilampi	4
+Katajalammit	4
+Kätkäjärvi	4
+Katoslampi	4
+Kauhalampi	4
+Kaurajärvi	4
+Kauralampi	4
+Kauriolampi	4
+Kenttäjärvi	4
+Keski-Salminen	4
+Keskinenjärvi	4
+Kiekeröjärvi	4
+Kielilampi	4
+Kiurulampi	4
+Kivilompolo	4
+Koivikkolampi	4
+Kokkonen	4
+Konilampi	4
+Konnalampi	4
+Konttijärvi	4
+Kotkatlampi	4
+Kovero	4
+Koverojärvi	4
+Kuikkajärvi	4
+Kuivalampi	4
+Kuivattulampi	4
+Kuivauslampi	4
+Kummunlampi	4
+Kuokkalampi	4
+Kuralampi	4
+Kurjenjärvi	4
+Kuusikkolampi	4
+Kylmänjärvi	4
+Kyynäräjärvi	4
+Kyynäröjärvi	4
+Laakalampi	4
+Laanilampi	4
+Laihanlampi	4
+Lammakko	4
+Lampinen	4
+Lappajärvi	4
+Latvanen	4
+Laukanlampi	4
+Lauttanen	4
+Lehmälammi	4
+Lehmilammit	4
+Lehmolampi	4
+Lietelampi	4
+Lihalampi	4
+Linnajärvi	4
+Losolampi	4
+Louhilammit	4
+Loukkulampi	4
+Löytönen	4
+Lumijärvi	4
+Luodelampi	4
+Luokanjärvi	4
+Luokkilampi	4
+Luotolampi	4
+Mahalampi	4
+Maitolampi	4
+Majavesi	4
+Makkaralampi	4
+Marjajärvi	4
+Marjalampi	4
+Matinjärvi	4
+Matkus	4
+Matolammi	4
+Merenlampi	4
+Metsolampi	4
+Miekkajärvi	4
+Mohkkejávri	4
+Muikkulampi	4
+Munajärvi	4
+Munalampi	4
+Musta	4
+Mustonen	4
+Naapurinlampi	4
+Nahkiaislampi	4
+Nälkäjärvi	4
+Niemisenlampi	4
+Niittulampi	4
+Nimetönjärvi	4
+Nummijärvi	4
+Nuolijärvi	4
+Nuorajärvi	4
+Nuottilammit	4
+Nurkkalampi	4
+Nurmesjärvi	4
+Oinaslampi	4
+Onkilammi	4
+Orajärvi	4
+Outolampi	4
+Pahkalammit	4
+Pahtalampi	4
+Paljakkalampi	4
+Palolammit	4
+Palosjärvi	4
+Palovaaranlampi	4
+Paskalammit	4
+Penikkajärvi	4
+Petrinlampi	4
+Pieni Hirvijärvi	4
+Pieni Kiimalampi	4
+Pieni Koiralampi	4
+Pieni Levälampi	4
+Pieni Onkilampi	4
+Pieni Pahakala	4
+Pieni Palojärvi	4
+Pieni Pirttilampi	4
+Pieni Riihijärvi	4
+Pieni Suolampi	4
+Pieni Valkealampi	4
+Pieni Vehkalampi	4
+Pieni Viitalampi	4
+Pieni-Musti	4
+Pieni-Valkia	4
+Pihlajajärvi	4
+Piilampi	4
+Pikku Ahvenjärvi	4
+Pitkänen	4
+Pitkänlampi	4
+Pitkätlammit	4
+Pitkävesi	4
+Pohjasjärvi	4
+Poikkeusjärvi	4
+Polvinen	4
+Pönkälampi	4
+Pönttölampi	4
+Porttilampi	4
+Pudasjärvi	4
+Puhakanlampi	4
+Puljujärvi	4
+Puurolampi	4
+Pykälälampi	4
+Pyssylampi	4
+Pyydysjärvi	4
+Pyydyslampi	4
+Pyytölampi	4
+Rajalammit	4
+Rautulampi	4
+Rauvanjärvi	4
+Rávdojávri	4
+Riihilammit	4
+Riitajärvi	4
+Rimmi	4
+Rokkalampi	4
+Ronilampi	4
+Ruáhujáávráš	4
+Ruojärvi	4
+Ruokosjärvi	4
+Ryönälampi	4
+Ryönänlampi	4
+Saahkari	4
+Sääskilampi	4
+Saittajärvi	4
+Saivojärvi	4
+Säkkilampi	4
+Sammakkolammi	4
+Sammaljärvi	4
+Särkjärvi	4
+Säyneenlampi	4
+Säynejärvi	4
+Sepänlampi	4
+Sikalampi	4
+Silmäjärvi	4
+Sinilampi	4
+Sirkkajärvi	4
+Sortolampi	4
+Sorvanen	4
+Sorvasto	4
+Suáluijävri	4
+Suávviljävri	4
+Sulkava	4
+Sulkavanjärvi	4
+Susijärvi	4
+Susilampi	4
+Svartträsket	4
+Syväri	4
+Syysjärvi	4
+Taikinajärvi	4
+Taipaleenjärvi	4
+Taipaleenlampi	4
+Takanen	4
+Tammalampi	4
+Tammukkajärvi	4
+Taskulampi	4
+Teerilammit	4
+Terrijärvi	4
+Tölpänlampi	4
+Törisevänlampi	4
+Tuhkuri	4
+Tunturijärvi	4
+Tuomijärvi	4
+Tupajärvi	4
+Turkkilampi	4
+Tuusjärvi	4
+Ukkosenlampi	4
+Väärälammi	4
+Vaaranlampi	4
+Vähä Kalliojärvi	4
+Vähä Mustajärvi	4
+Vähä Valkeajärvi	4
+Vähä Vehkajärvi	4
+Valajärvi	4
+Valkiavesi	4
+Valklampi	4
+Vankka	4
+Vapunlampi	4
+Varisjärvi	4
+Varpalampi	4
+Vehkalammi	4
+Vellijärvi	4
+Vesilampi	4
+Vihilampi	4
+Viinalampi	4
+Vitsalampi	4
+Vittulampi	4
+Vuontisjärvi	4
+Vuorilammi	4
+Vuoskujärvi	4
+Ylänen	4
+Abborrträsk	3
+Ahkiojärvi	3
+Ahmasjärvi	3
+Aholanjärvi	3
+Ahonlampi	3
+Ahvenislampi	3
+Ahvenistonlampi	3
+Aitajärvet	3
+Äittijävri	3
+Aittolammi	3
+Akkolampi	3
+Ala-Hanhilampi	3
+Ala-Pirttijärvi	3
+Alainen	3
+Alainenjärvi	3
+Alasenjärvi	3
+Alasjärvi	3
+Alhonjärvi	3
+Alimmainen Jokilampi	3
+Alimmainen Salmilampi	3
+Anttilanjärvi	3
+Asentolampi	3
+Asmalampi	3
+Aumalampi	3
+Enonlampi	3
+Eskonlampi	3
+Etelälahti	3
+Fladan	3
+Goahtejávri	3
+Haapajärvet	3
+Haapalammi	3
+Haapanalampi	3
+Haapavesi	3
+Haaponen	3
+Haarainlampi	3
+Haasialampi	3
+Hahmajärvi	3
+Haisevanlampi	3
+Hammasjärvi	3
+Hanhinen	3
+Hankavesi	3
+Hanlampi	3
+Häränsilmä	3
+Harjuntakanen	3
+Haukijärvet	3
+Haukilommol	3
+Haukjärvi	3
+Hautalammit	3
+Haverisenlampi	3
+Heikanlampi	3
+Heikinjärvi	3
+Heinonen	3
+Heräjärvi	3
+Hernelampi	3
+Herttalampi	3
+Herukkalampi	3
+Hietalammi	3
+Hietaluoma	3
+Hiirenlampi	3
+Hiirlampi	3
+Hirvonjärvi	3
+Hokkalampi	3
+Hormajärvi	3
+Hosiolampi	3
+Höyhenlampi	3
+Huhtijärvi	3
+Huosiolampi	3
+Huuhinlampi	3
+Huutjärvi	3
+Huutlampi	3
+Hyvälampi	3
+Iisakkijärvi	3
+Iivonlampi	3
+Illainlampi	3
+Inganlampi	3
+Irnijärvi	3
+Iso Aapalampi	3
+Iso Haapajärvi	3
+Iso Hakojärvi	3
+Iso Hirvasjärvi	3
+Iso Hoikkalampi	3
+Iso Jouhtjärvi	3
+Iso Kangasjärvi	3
+Iso Karijärvi	3
+Iso Kiimalampi	3
+Iso Korppilampi	3
+Iso Koukkujärvi	3
+Iso Kurkilampi	3
+Iso Lahnajärvi	3
+Iso Lapinjärvi	3
+Iso Lehtolampi	3
+Iso Mäntylampi	3
+Iso Myllylampi	3
+Iso Niittylampi	3
+Iso Olkilampi	3
+Iso Paavolampi	3
+Iso Palolampi	3
+Iso Peuralampi	3
+Iso Pirttilampi	3
+Iso Ristijärvi	3
+Iso Ritolampi	3
+Iso Ruunalampi	3
+Iso Sammakkolampi	3
+Iso Sirkkalampi	3
+Iso Valkealampi	3
+Iso Varislampi	3
+Iso Vehkajärvi	3
+Iso Venejärvi	3
+Iso-Hukkanen	3
+Iso-Juurikka	3
+Iso-Kankainen	3
+Iso-Korppinen	3
+Iso-Mäntynen	3
+Iso-Pitkä	3
+Iso-Valkea	3
+Iso-Vuorinen	3
+Jaakonjärvi	3
+Jalaslampi	3
+Jänisjärvet	3
+Järvenjärvi	3
+Järvikäinen	3
+Järvilampi	3
+Jatkonjärvi	3
+Jauhojärvi	3
+Jauratsilampi	3
+Jousjärvi	3
+Joutolampi	3
+Joutsenlammi	3
+Joutsijärvi	3
+Juurikkalammit	3
+Jylhäjärvi	3
+Jylkynlampi	3
+Kaakkuri	3
+Kaarlampi	3
+Käärmelampi	3
+Kaikolampi	3
+Kairajärvi	3
+Kairalampi	3
+Kaitalammit	3
+Kaituenlampi	3
+Käkijärvi	3
+Kalattomatlammit	3
+Kalhulampi	3
+Kalijärvi	3
+Kallajärvi	3
+Kallijärvi	3
+Kallioinen	3
+Kalliolammi	3
+Kallojärvi	3
+Kämppäjärvi	3
+Kankaanjärvi	3
+Kankainen	3
+Kankijärvi	3
+Kankilampi	3
+Karankalampi	3
+Kärenjärvi	3
+Karhulammi	3
+Karhulammit	3
+Karinlampi	3
+Karisjärvi	3
+Karjulampi	3
+Karkujärvi	3
+Kartiska	3
+Kartiskajärvi	3
+Katiskalampi	3
+Katosjärvi	3
+Katralampi	3
+Katumajärvi	3
+Keikonlampi	3
+Keinolampi	3
+Kellojärvi	3
+Kellolammit	3
+Kenkälampi	3
+Kerijärvi	3
+Kerlampi	3
+Kerojärvi	3
+Kesäjärvi	3
+Kielijärvi	3
+Kielisenjärvi	3
+Kierilampi	3
+Kiimalammi	3
+Kiimalammit	3
+Kiimasjärvi	3
+Kiiskijärvi	3
+Kilpukkajärvi	3
+Kirakkajärvi	3
+Kirppulampi	3
+Kissalammit	3
+Kivelänlampi	3
+Kivilammi	3
+Kivilompola	3
+Koilampi	3
+Koivujärvet	3
+Koivulammit	3
+Kokalmuslampi	3
+Kokinlampi	3
+Kokonjärvi	3
+Kolmikanta	3
+Kolmikoura	3
+Kolmiloppi	3
+Kolmperse	3
+Kolonjärvi	3
+Kolunjärvi	3
+Kolunlampi	3
+Konijärvi	3
+Konnanlampi	3
+Kontolampi	3
+Korppisenjärvi	3
+Korrijärvi	3
+Kortelammit	3
+Koskijärvi	3
+Koskutjärvi	3
+Kotalompolo	3
+Kotkatjärvi	3
+Koukkulammit	3
+Koveroinen	3
+Kukaslampi	3
+Kukonjärvi	3
+Kulhanlampi	3
+Kulvelampi	3
+Kummuntakanen	3
+Kuolemajärvi	3
+Kurjenlampi	3
+Kurkelanjärvi	3
+Kurkilammit	3
+Kursujärvi	3
+Kurtinlampi	3
+Kylmänperänlampi	3
+Kyrönlampi	3
+Kytöjärvi	3
+Kyylampi	3
+Laiha	3
+Laihalammi	3
+Lakkajärvi	3
+Lammenjärvi	3
+Lampijärvi	3
+Långsjö	3
+Lankojärvi	3
+Lapiolampi	3
+Latvalammit	3
+Lauklampi	3
+Launijärvi	3
+Lehdonlampi	3
+Lehmäjärvi	3
+Leililampi	3
+Lemmonlampi	3
+Lepolampi	3
+Leväsenlampi	3
+Leveäjärvi	3
+Levijärvi	3
+Lietukka	3
+Lihava	3
+Liimonlampi	3
+Liittolampi	3
+Likonen	3
+Linjalampi	3
+Lipaslampi	3
+Liukkulampi	3
+Lomalampi	3
+Louhenlampi	3
+Louhijärvi	3
+Löytänä	3
+Löytänänjärvi	3
+Löytölammit	3
+Löyttylammi	3
+Luomanen	3
+Luomasenlampi	3
+Luukkosenlampi	3
+Luukonlampi	3
+Luusuanlampi	3
+Maislampi	3
+Majoonlampi	3
+Mäkilammi	3
+Mäkilammit	3
+Mäkränlampi	3
+Maljalampi	3
+Mämmijärvi	3
+Matala	3
+Matkalammit	3
+Matolammit	3
+Maunujärvi	3
+Máđiijávri	3
+Miäldálâsjávrááh	3
+Mikanlampi	3
+Mikkelinlampi	3
+Mikonjärvi	3
+Moisionjärvi	3
+Moisionlampi	3
+Mörtträsket	3
+Muálkkijävri	3
+Muhoslampi	3
+Multilampi	3
+Muorijärvi	3
+Muorinlampi	3
+Mursunlampi	3
+Murtolammit	3
+Mustiainen	3
+Mustoslampi	3
+Naamajärvi	3
+Naamankajärvi	3
+Napalampi	3
+Nenälampi	3
+Neulalampi	3
+Niemelänlampi	3
+Niemenlampi	3
+Nivalampi	3
+Nivanlampi	3
+Nummilammi	3
+Nuoranen	3
+Nurkkajärvi	3
+Nurminen	3
+Nuutinlampi	3
+Ohenlampi	3
+Okslammi	3
+Ölkynlampi	3
+Ollilampi	3
+Oravainen	3
+Oravijärvi	3
+Otuslampi	3
+Pääkkölampi	3
+Paalijärvi	3
+Pahankalanlampi	3
+Pajulammi	3
+Palavalampi	3
+Palolammi	3
+Palvajärvi	3
+Palvalampi	3
+Papinjärvi	3
+Papulampi	3
+Partasenlampi	3
+Paskajärvi	3
+Paskalammi	3
+Paskuri	3
+Pasmajärvi	3
+Pässilampi	3
+Patsonlampi	3
+Pattaslampi	3
+Pentulampi	3
+Perälammi	3
+Perälammit	3
+Perhonlampi	3
+Pesonlampi	3
+Petääjärvi	3
+Petronjärvi	3
+Peuralammit	3
+Peuranampumajärvi	3
+Pieni Ahvenjärvi	3
+Pieni Haapajärvi	3
+Pieni Hangaslampi	3
+Pieni Haukijärvi	3
+Pieni Hepolampi	3
+Pieni Jokijärvi	3
+Pieni Joutenjärvi	3
+Pieni Koijärvi	3
+Pieni Kotalampi	3
+Pieni Koukkulampi	3
+Pieni Lapinjärvi	3
+Pieni Louhilampi	3
+Pieni Luhtalampi	3
+Pieni Mäkijärvi	3
+Pieni Matolampi	3
+Pieni Palolampi	3
+Pieni Paskolampi	3
+Pieni Petäjäjärvi	3
+Pieni Petäjälampi	3
+Pieni Pirttijärvi	3
+Pieni Ristijärvi	3
+Pieni Siikajärvi	3
+Pieni Sirkkalampi	3
+Pieni Teerilampi	3
+Pieni Varislampi	3
+Pieni Vehkajärvi	3
+Pieni Vuorijärvi	3
+Pieni-Hietanen	3
+Pieni-Kaituri	3
+Pieni-Kaleton	3
+Pieni-Särkinen	3
+Pieni-Sulkava	3
+Pieni-Valkea	3
+Pieni-Valkeainen	3
+Pieni-Vuorinen	3
+Pierulampi	3
+Pihlainen	3
+Pihtilampi	3
+Pikku Haukijärvi	3
+Pikku Hirvaslampi	3
+Pikku Kalliojärvi	3
+Pikku Karhujärvi	3
+Pikku Saarijärvi	3
+Pikku Särkilampi	3
+Pikku Vuomajärvi	3
+Pikku-Kaleton	3
+Pikku-Musta	3
+Pikku-Räihä	3
+Pikku-Valkeinen	3
+Pikkulammi	3
+Pilkkalampi	3
+Pitämälampi	3
+Pitämänlampi	3
+Pitkä-Valkeinen	3
+Pitkänjärvi	3
+Pohjajärvi	3
+Pohjaton	3
+Poikkijärvi	3
+Poikkilampi	3
+Poikkipuolinen	3
+Pölkkylampi	3
+Pöllänlampi	3
+Pölylampi	3
+Porojärvi	3
+Pörölampi	3
+Porrasjärvi	3
+Porraslammit	3
+Portimojärvi	3
+Potkunlampi	3
+Puksunlampi	3
+Pumppulampi	3
+Pursijärvi	3
+Purtilolampi	3
+Puškojáávráš	3
+Pusulanjärvi	3
+Pykälikönlampi	3
+Pyöriäinen	3
+Pyörrelampi	3
+Pyssyjärvi	3
+Pyykkilampi	3
+Pyyslampi	3
+Pyytöjärvi	3
+Rääpysjärvi	3
+Rahalampi	3
+Rahkolampi	3
+Rakennuslampi	3
+Rakkalampi	3
+Rapalammi	3
+Rastilampi	3
+Raudanjärvi	3
+Rautavesi	3
+Retunen	3
+Revonlampi	3
+Riekkolampi	3
+Riipijärvi	3
+Riitalammit	3
+Rimpilammit	3
+Risulampi	3
+Ritajärvi	3
+Ritolampi	3
+Rudträsk	3
+Rumajärvi	3
+Runtinlampi	3
+Ruoinâpuškojáávráš	3
+Ruokejärvi	3
+Ruokepuolinen	3
+Ruoppilampi	3
+Ruotojärvi	3
+Ruuhilammit	3
+Ruutanajärvi	3
+Ruuttijärvi	3
+Rytilammit	3
+Saarijärvet	3
+Saarikas	3
+Saarilompolo	3
+Sakasti	3
+Sakkolampi	3
+Salakkalampi	3
+Salmilompolo	3
+Salpuulampi	3
+Sarkalampi	3
+Särkiluoma	3
+Sarvilammit	3
+Satolampi	3
+Sattajärvi	3
+Saukkolammi	3
+Saukkolammit	3
+Saunalammi	3
+Saunalammit	3
+Savonlampi	3
+Säynäinen	3
+Säyneinen	3
+Seljänlampi	3
+Seppäsenlampi	3
+Sieralampi	3
+Siikalammit	3
+Siikanen	3
+Siilinjärvi	3
+Siitoslampi	3
+Sikojärvi	3
+Silmälammit	3
+Sirppilampi	3
+Sittalampi	3
+Sivakkalammit	3
+Sonkajärvi	3
+Soppi	3
+Sotkalampi	3
+Soukkio	3
+Storbrunnen	3
+Suâljäu'rr	3
+Suasjärvi	3
+Suikka	3
+Suksilampi	3
+Sulkavanlampi	3
+Sulkujärvi	3
+Sulunlampi	3
+Suo-Valkeinen	3
+Suolalampi	3
+Suolikko	3
+Suottalampi	3
+Suovalampi	3
+Suurensuonlammit	3
+Suuri Ahvenlampi	3
+Suuri Onkilampi	3
+Suuri Särkilampi	3
+Suuri-Valkeinen	3
+Suuri-Valkia	3
+Suutarinjärvi	3
+Sydänmaanlampi	3
+Syrjäjärvet	3
+Sysilampi	3
+Sysmä	3
+Syvälahti	3
+Tahkolampi	3
+Tahvonlampi	3
+Taimenjärvet	3
+Taimenlammet	3
+Takalammi	3
+Takalammit	3
+Talvijärvi	3
+Tammijärvi	3
+Tapiojärvi	3
+Tärnan	3
+Tasku	3
+Tauslampi	3
+Tervalammit	3
+Tervanen	3
+Tervonlampi	3
+Tielammit	3
+Tiikkajalampi	3
+Tjärnan	3
+Tohtajajärvi	3
+Toivarinlampi	3
+Toivonlampi	3
+Torasjärvi	3
+Torvilampi	3
+Tunturilammit	3
+Tuolpajärvi	3
+Tuomiojärvi	3
+Turpeinen	3
+Turvejärvi	3
+Tuuliaisenlampi	3
+Tuulilampi	3
+Tuurajärvi	3
+Tuuralampi	3
+Tynnyrijärvi	3
+Tyräjärvi	3
+Tyrälampi	3
+Tyrisevä	3
+Tyvijärvi	3
+Ukkolampi	3
+Ulpas	3
+Urakkalampi	3
+Uramolampi	3
+Uurajärvi	3
+Uusilampi	3
+Vähä Hirvijärvi	3
+Vähä Ruuhijärvi	3
+Vähä Salmijärvi	3
+Vähä Valkjärvi	3
+Vähä Vuorijärvi	3
+Vahvanen	3
+Vaimolampi	3
+Vaivionlampi	3
+Välivesi	3
+Valkeaislampi	3
+Valkolampi	3
+Valkonen	3
+Valkulammi	3
+Vapalampi	3
+Vareslampi	3
+Vasajärvi	3
+Vasamalampi	3
+Vasamo	3
+Vasarainen	3
+Vasikkalammit	3
+Vehkanen	3
+Veitsilampi	3
+Veittijärvi	3
+Vihijärvi	3
+Viitalammit	3
+Virkajärvi	3
+Virojärvi	3
+Virsulampi	3
+Vitsjön	3
+Vittajärvi	3
+Voilampi	3
+Vuâskjäu'rr	3
+Vuohilampi	3
+Vuojärvi	3
+Vuorenalanen	3
+Vuoskkojávri	3
+Ylä-Pirttijärvi	3
+Ylimmäinen Jokilampi	3
+Ylinen	3
+Ylinenlampi	3
+Ylisenjärvi	3
+Aapajärvi	2
+Ahilammi	2
+Aholammi	2
+Ahven-Valkeinen	2
+Ahvenaiset	2
+Ahvenisenlampi	2
+Ahvenisjärvi	2
+Ahvenistonjärvi	2
+Ahvenuslammi	2
+Äijälammi	2
+Ailijärvi	2
+Aimolampi	2
+Aitalammit	2
+Aittaroinen	2
+Aittosenjärvi	2
+Ajakka	2
+Ajosjärvi	2
+Akko	2
+Ákšojávri	2
+Ala-Hoikka	2
+Ala-Kalmo	2
+Ala-Karanka	2
+Ala-Kivilampi	2
+Ala-Lylyjärvi	2
+Ala-Mustalampi	2
+Ala-Pitkä	2
+Ala-Salmijärvi	2
+Ala-Sammaljärvi	2
+Ala-Valkeainen	2
+Ala-Viitajärvi	2
+Alalompolo	2
+Alankojärvi	2
+Älänne	2
+Alanteenlampi	2
+Alhajärvi	2
+Alhojärvi	2
+Alijärvi	2
+Alimmainen Haukilampi	2
+Alimmainen Jokijärvi	2
+Alimmainen Kiekerölampi	2
+Alimmainen Lapinlampi	2
+Alimmainen Paiselampi	2
+Alimmainen Palojärvi	2
+Alimmainen Palolampi	2
+Alimmainen Riihilampi	2
+Alimmainen Ruohojärvi	2
+Alinen Hietajärvi	2
+Alinen Kotajärvi	2
+Alinenlompolo	2
+Allamarasjávri	2
+Allijärvet	2
+Alusjärvi	2
+Aluslammit	2
+Alvajärvi	2
+Ämmäjärvi	2
+Ämmänlampi	2
+Ampiaislampi	2
+Angerlampi	2
+Anninlampi	2
+Ansajärvi	2
+Äntvattnet	2
+Arajärvi	2
+Armijärvi	2
+Asumajärvi	2
+Auralampi	2
+Avijärvi	2
+Bastufladan	2
+Bealljegašjávri	2
+Böleträsket	2
+Braxenträsket	2
+Buksajávri	2
+Bultejávri	2
+Buoiddesguoljávri	2
+Čáimmajávri	2
+Čárajávrrit	2
+Čiekŋalisjávri	2
+Čuoikajávri	2
+Čuonjájávri	2
+Čuovgijávri	2
+Čuovžajávri	2
+Djupsjön	2
+Doaresbealjávri	2
+Eiran Luhtajärvi	2
+Ekojärvi	2
+Eksymälampi	2
+Elessiinlampi	2
+Elilampi	2
+Elinlampi	2
+Enonjärvi	2
+Enonselkä	2
+Erälampi	2
+Erijärvi	2
+Erkinlampi	2
+Eskolampi	2
+Eskolanjärvi	2
+Eteläjärvi	2
+Fállejávri	2
+Finnsjön	2
+Fräkenträsket	2
+Furuträsket	2
+Gäddsjön	2
+Goaskinjávri	2
+Gropen	2
+Haapanen	2
+Haapaniemenjärvi	2
+Haapojärvi	2
+Haarukkalampi	2
+Haatajanlampi	2
+Haisujärvi	2
+Hakajärvi	2
+Hakolammi	2
+Halinkojärvi	2
+Haltiajärvi	2
+Hämälänlampi	2
+Hamaralammit	2
+Hamarijärvi	2
+Hämeenharjunlampi	2
+Hammaslampi	2
+Hamppujärvi	2
+Hamppulammit	2
+Hangaslammit	2
+Hanhiriipi	2
+Hankainsiula	2
+Hankalammi	2
+Hänninjärvi	2
+Hännisenlampi	2
+Hánnojávri	2
+Hannonlampi	2
+Hannulampi	2
+Hanslampi	2
+Harakkalampi	2
+Haravalampi	2
+Harjajärvi	2
+Harjalampi	2
+Harjujärvet	2
+Harjulammet	2
+Harjunlammi	2
+Harjunlammit	2
+Harjunpäänlampi	2
+Härkjärvi	2
+Härkölammit	2
+Hárrejávri	2
+Harrijärvet	2
+Hartikanlammit	2
+Harvalaineinen	2
+Harvanlampi	2
+Hasunlampi	2
+Hattujärvi	2
+Haudanlampi	2
+Hauklammit	2
+Hauskalampi	2
+Hautalammi	2
+Hávgajávrrit	2
+Hávgaluoppal	2
+Heargejávri	2
+Heikinjärvet	2
+Heikjärvi	2
+Heikkilänjärvi	2
+Heiluva	2
+Heinänen	2
+Heinätienlampi	2
+Heinikkolampi	2
+Heinilammit	2
+Heinissuonlammi	2
+Helilampi	2
+Helkijärvi	2
+Helvetinlammi	2
+Helvettijärvi	2
+Hemminlampi	2
+Hemsjön	2
+Hemviken	2
+Heposelkä	2
+Heralammit	2
+Hermusenjärvi	2
+Hertunjärvi	2
+Hevosjärvi	2
+Hietasenlampi	2
+Hietaslammi	2
+Hiijärvi	2
+Hiisjärvi	2
+Hilpanlampi	2
+Hiltusenlampi	2
+Hirlampi	2
+Hirsijärvi	2
+Hirsjärvi	2
+Hirvasjärvet	2
+Hirvaslammit	2
+Hirvasvuopio	2
+Hirvilammit	2
+Hiukkanen	2
+Högskärsfladan	2
+Hoikkalammit	2
+Holpinlampi	2
+Holstinjärvi	2
+Homelampi	2
+Honkalammi	2
+Hopialampi	2
+Horonjärvi	2
+Hosiojärvi	2
+Hosionlampi	2
+Hoskonlampi	2
+Hotakanlampi	2
+Hottilampi	2
+Housulammit	2
+Höytiäinen	2
+Höytiönlampi	2
+Huhmarjärvi	2
+Huhmarlampi	2
+Huhtajärvi	2
+Huhtia	2
+Huhtjärvi	2
+Hukkalammet	2
+Hukkalammit	2
+Hukkumajärvi	2
+Hulkonlampi	2
+Humalainen	2
+Humaljärvi	2
+Huotarinlampi	2
+Huttujärvi	2
+Hutunlampi	2
+Huuhanlampi	2
+Huuhmarlampi	2
+Huuhtijärvi	2
+Huuhtjärvi	2
+Hyötölampi	2
+Hyötyjärvi	2
+Hytjärvi	2
+Hyttilampi	2
+Iilampi	2
+Iilijärvi	2
+Iiljärvi	2
+Iknonlampi	2
+Ikolanlampi	2
+Ikosenlampi	2
+Ilkonlampi	2
+Ilmajärvi	2
+Ilmojärvi	2
+Ilojärvi	2
+Inarinlampi	2
+Insjön	2
+Irojärvi	2
+Iso	2
+Iso Ahmalampi	2
+Iso Aittojärvi	2
+Iso Akanjärvi	2
+Iso Akonjärvi	2
+Iso Arajärvi	2
+Iso Haapalampi	2
+Iso Hangasjärvi	2
+Iso Härkölampi	2
+Iso Heinilampi	2
+Iso Honkajärvi	2
+Iso Huhtijärvi	2
+Iso Hukkalampi	2
+Iso Itälampi	2
+Iso Jänisjärvi	2
+Iso Karhujärvi	2
+Iso Karilampi	2
+Iso Karvalampi	2
+Iso Karvastekemäjärvi	2
+Iso Katajalampi	2
+Iso Kettulampi	2
+Iso Koijärvi	2
+Iso Kokonlampi	2
+Iso Kolmisoppinen	2
+Iso Korpilampi	2
+Iso Kortejärvi	2
+Iso Kortelampi	2
+Iso Koukkulampi	2
+Iso Kuivajärvi	2
+Iso Kukkarolampi	2
+Iso Kumpulampi	2
+Iso Kuorejärvi	2
+Iso Kuvajalampi	2
+Iso Lakkijärvi	2
+Iso Lautalampi	2
+Iso Lavalampi	2
+Iso Lehmijärvi	2
+Iso Leppäjärvi	2
+Iso Liesjärvi	2
+Iso Lohijärvi	2
+Iso Lohilampi	2
+Iso Löytölampi	2
+Iso Luhtalampi	2
+Iso Majajärvi	2
+Iso Mäkijärvi	2
+Iso Mäkrälampi	2
+Iso Mertalampi	2
+Iso Murtolampi	2
+Iso Niinilampi	2
+Iso Ohtalampi	2
+Iso Oksjärvi	2
+Iso Pajulampi	2
+Iso Patolampi	2
+Iso Pentulampi	2
+Iso Petäjäjärvi	2
+Iso Pihlajalampi	2
+Iso Polvijärvi	2
+Iso Porolampi	2
+Iso Ruohojärvi	2
+Iso Ruokojärvi	2
+Iso Rytilampi	2
+Iso Sääksjärvi	2
+Iso Saarilampi	2
+Iso Samjärvi	2
+Iso Särkiluoma	2
+Iso Sarvilampi	2
+Iso Saunalampi	2
+Iso Savonjärvi	2
+Iso Soidinlampi	2
+Iso Soukkajärvi	2
+Iso Syrjäjärvi	2
+Iso Täilampi	2
+Iso Talaslampi	2
+Iso Teerilampi	2
+Iso Tulilampi	2
+Iso Ulkujärvi	2
+Iso Väärälampi	2
+Iso Valkeainen	2
+Iso Valkeajärvi	2
+Iso Valkeislampi	2
+Iso Valkialampi	2
+Iso Vatilampi	2
+Iso Vihtajärvi	2
+Iso Viitajärvi	2
+Iso-Haukinen	2
+Iso-Hietanen	2
+Iso-Kaakkuri	2
+Iso-Kaihlanen	2
+Iso-Kalaton	2
+Iso-Karhu	2
+Iso-Katainen	2
+Iso-Kiimanen	2
+Iso-Kolkko	2
+Iso-Korpinen	2
+Iso-Kortteinen	2
+Iso-Lahnanen	2
+Iso-Lauttanen	2
+Iso-Löytänä	2
+Iso-Lukkari	2
+Iso-Murtonen	2
+Iso-Musti	2
+Iso-Mutanen	2
+Iso-Nimetön	2
+Iso-Pajunen	2
+Iso-Palpanen	2
+Iso-Peura	2
+Iso-Pyyli	2
+Iso-Raatteinen	2
+Iso-Räihä	2
+Iso-Salmikko	2
+Iso-Säynäinen	2
+Iso-Säyneinen	2
+Iso-Sikonen	2
+Iso-Syväri	2
+Iso-Vehmas	2
+Iso-Viitanen	2
+Isolahti	2
+Isolompolo	2
+Isonkivenjärvi	2
+Isonkivenlampi	2
+Isonlehdonlampi	2
+Issakka	2
+Jäkälälammit	2
+Jakolampi	2
+Jalasjärvi	2
+Jalkajärvi	2
+Jälkjärvi	2
+Jämäsjärvi	2
+Jämsänlampi	2
+Jängänjärvi	2
+Jängynjärvi	2
+Jänkälampi	2
+Jänkkäjärvet	2
+Jännelampi	2
+Järvenpäänlampi	2
+Järvistenjärvi	2
+Jatkonlampi	2
+Jauholampi	2
+Jaurakkajärvi	2
+Jaurulampi	2
+Jieŋânyettijáávráš	2
+Jokijärvet	2
+Jokilammit	2
+Jonottaja	2
+Jouhilampi	2
+Jouhten	2
+Jouhtilampi	2
+Joukahaislampi	2
+Joukhaisjärvi	2
+Joukolampi	2
+Jousijärvi	2
+Jouslampi	2
+Joutee	2
+Joutsenenpesälampi	2
+Juhanin Kotajärvi	2
+Juhaninjärvi	2
+Juhaninlampi	2
+Julmanjärvi	2
+Julmanlampi	2
+Junganjärvi	2
+Junkilampi	2
+Junkkarinjärvi	2
+Juntunen	2
+Juntuslampi	2
+Juojärvi	2
+Juomusjärvi	2
+Juonionlampi	2
+Juponlampi	2
+Jurmunlampi	2
+Jussijärvi	2
+Jussinlammit	2
+Juupajärvi	2
+Juurijärvi	2
+Juurikainen	2
+Juurikkojärvi	2
+Juurilampi	2
+Juusolanlampi	2
+Juuvanjärvi	2
+Jylhänjärvi	2
+Jylhänlampi	2
+Jynkänlampi	2
+Jyrhämäjärvi	2
+Jyrinlampi	2
+Jyrkysjärvi	2
+Jyskylampi	2
+Jyväsjärvi	2
+Kaajärvi	2
+Kaakko	2
+Kaakkonen	2
+Kaakkurilammi	2
+Kaaljärvi	2
+Kaarilampi	2
+Kaarlejärvi	2
+Kaartolampi	2
+Kaaterlampi	2
+Kaatranlampi	2
+Kahilainen	2
+Kahilammi	2
+Kähteelááduš	2
+Kaijanlammi	2
+Kaijanlammit	2
+Kaikonlampi	2
+Kailanjärvi	2
+Kaipiolampi	2
+Kaitijärvi	2
+Kaiturinjärvi	2
+Kaivojärvi	2
+Kaivulammit	2
+Kakaralampi	2
+Kakari	2
+Kakarträsket	2
+Kakkaralampi	2
+Kakkurilampi	2
+Kakolampi	2
+Kakonlampi	2
+Kaksoslampi	2
+Kalatoin	2
+Kalattomat	2
+Kaletonjärvi	2
+Kalikkalampi	2
+Kaljalampi	2
+Kaljärvi	2
+Kallavesi	2
+Kallolampi	2
+Kallunkijärvi	2
+Kalmonjärvi	2
+Kalvskärsträsket	2
+Kämäräinen	2
+Kammari	2
+Kammarilampi	2
+Kämmenlampi	2
+Kämppälammet	2
+Kangas-Petäinen	2
+Kangastakunen	2
+Kankaanlampi	2
+Kankaantakanen	2
+Kankaisjärvi	2
+Kankaistenlampi	2
+Kanteleenjärvi	2
+Kantolammi	2
+Kapalampi	2
+Kapeajärvi	2
+Kapeavesi	2
+Kapeinen	2
+Kapialampi	2
+Kapteeninlampi	2
+Kapustajärvi	2
+Käpylampi	2
+Karahkalampi	2
+Karajärvi	2
+Káránâsjävri	2
+Karhelammi	2
+Karhilampi	2
+Karhunpesälampi	2
+Karjalanjärvi	2
+Karjalanlampi	2
+Karkialampi	2
+Karkjärvi	2
+Kärkjärvi	2
+Karklampi	2
+Karlampi	2
+Kärmejärvi	2
+Kärmelammi	2
+Kärnänlampi	2
+Karpanlampi	2
+Kärpänlampi	2
+Kärpäslampi	2
+Kärsäjärvi	2
+Kärsälampi	2
+Karsimusjärvi	2
+Kärväsjärvi	2
+Kasakkalampi	2
+Kataalampi	2
+Katinhäntä	2
+Katiskajärvi	2
+Katiskalammit	2
+Kattavalampi	2
+Kauhialampi	2
+Kaukajärvi	2
+Kaukaloinen	2
+Kaukjärvi	2
+Kauniinlampi	2
+Kaunikkilampi	2
+Kauppilanjärvi	2
+Kauppinen	2
+Kauralammi	2
+Kaurastenjärvi	2
+Kaviolampi	2
+Ǩeäinnjäu'rr	2
+Kehäjärvi	2
+Keidaslammi	2
+Keijärvi	2
+Keinolammet	2
+Kekälelampi	2
+Kekkolanlampi	2
+Keljänlampi	2
+Keljonjärvi	2
+Kelkkakankaanlampi	2
+Kellanjärvi	2
+Keltalammit	2
+Keltunlampi	2
+Kenttälammit	2
+Keppilampi	2
+Kerilampi	2
+Kermajärvi	2
+Kerolampi	2
+Kesijärvi	2
+Keskilammi	2
+Keskimmäinen Kuivajärvi	2
+Keskimmäinen Raatelampi	2
+Keskimmäinen Suojärvi	2
+Keskinen Pirttijärvi	2
+Keskinenlampi	2
+Keskuslampi	2
+Ketvenjärvi	2
+Kevättijärvi	2
+Kiantajärvi	2
+Kiekkilampi	2
+Kielua	2
+Kieluvainen	2
+Kierälampi	2
+Kierjärvi	2
+Kiiskinlampi	2
+Kiiskislampi	2
+Kiislampi	2
+Kilpinen	2
+Kiminginjärvi	2
+Kimpuralampi	2
+Kinalampi	2
+Kinnarinlampi	2
+Kinnaslampi	2
+Kinnusenlampi	2
+Kintaslampi	2
+Kinttulampi	2
+Kinturi	2
+Kirjajärvi	2
+Kirjasjärvi	2
+Kirjavalampi	2
+Kirjolampi	2
+Kirkasvetinenlampi	2
+Kirkinen	2
+Kirkkaatlammit	2
+Kirkkolammi	2
+Kirstinlampi	2
+Kissalammi	2
+Kiteenjärvi	2
+Kitinlampi	2
+Kitkanlampi	2
+Kiurunlampi	2
+Kivalikkolampi	2
+Kivijärvet	2
+Kivikkolampi	2
+Kiviseljänlampi	2
+Kohisevanlampi	2
+Koikerojärvi	2
+Koipijärvi	2
+Koiralammi	2
+Koirilammit	2
+Koirlammi	2
+Koisjärvi	2
+Kokkolammit	2
+Kokkoselkä	2
+Kokonlampi	2
+Koldemjáávráš	2
+Koldemjävri	2
+Kolhonjärvi	2
+Kolisijanlampi	2
+Koljatinlampi	2
+Koljosenlampi	2
+Kölkänlampi	2
+Kolkkojärvi	2
+Kolmiloppinen	2
+Kolmiloukkosenlampi	2
+Kolmipohja	2
+Kolmperä	2
+Kolonlampi	2
+Kolsoppi	2
+Kolu	2
+Kolulampi	2
+Kolvonen	2
+Komottajärvi	2
+Komujärvi	2
+Konesjärvi	2
+Kongasjärvi	2
+Konnunlampi	2
+Kononlampi	2
+Kontiainen	2
+Kontiolammit	2
+Konttilammit	2
+Kontturilampi	2
+Kontulampi	2
+Kontunen	2
+Koppalampi	2
+Kopsalampi	2
+Kopsuslampi	2
+Korentojärvi	2
+Korkeajärvi	2
+Korkealampi	2
+Korolampi	2
+Koroslampi	2
+Korpisjärvi	2
+Korppijärvi	2
+Korpuajärvi	2
+Korsujärvi	2
+Kortejärvet	2
+Kortelammi	2
+Kortelompola	2
+Kortesjärvi	2
+Korteslampi	2
+Kortteisenlampi	2
+Korvajärvi	2
+Korvalammi	2
+Korvasjärvi	2
+Korvenlampi	2
+Koškejävri	2
+Koskelolampi	2
+Koskutlampi	2
+Kostamo	2
+Kotalammi	2
+Kotilainen	2
+Kotilammi	2
+Kotkajärvi	2
+Kouerjärvi	2
+Koukerolampi	2
+Koukjärvi	2
+Koukunlampi	2
+Koulunlampi	2
+Kourujärvi	2
+Koutajärvi	2
+Koutalampi	2
+Kouvanjärvi	2
+Kovasjärvi	2
+Koveri	2
+Koveronjärvi	2
+Koveronlampi	2
+Köyrylampi	2
+Krokträsket	2
+Ku'ǩesjäu'rr	2
+Kuátijävri	2
+Kue'lte'mesjäu'rr	2
+Kuhesluobâl	2
+Kuhjonlampi	2
+Kuikka	2
+Kuikkanen	2
+Kuismanlampi	2
+Kuittua	2
+Kuivaslampi	2
+Kukkarlampi	2
+Kukkuralampi	2
+Kukkurilampi	2
+Kulhapää	2
+Kulju	2
+Kuljunlampi	2
+Kullelampi	2
+Kulvakkojärvi	2
+Kuminlampi	2
+Kummunjärvi	2
+Kumpujärvi	2
+Kumpulaislampi	2
+Kuninkaanlampi	2
+Kunnarusjärvi	2
+Kunnaslampi	2
+Kuokanlampi	2
+Kuokkanen	2
+Kuoksajärvi	2
+Kuolajärvi	2
+Kuomajärvi	2
+Kuonanjärvi	2
+Kuonnajärvi	2
+Kuorinki	2
+Kuosmalanlampi	2
+Kurranjärvi	2
+Kursunjärvi	2
+Kurtinjärvi	2
+Kurttalampi	2
+Kusijärvi	2
+Kusilammit	2
+Kusilampi	2
+Kutemainen	2
+Kutemajärvi	2
+Kuulajalampi	2
+Kuumalampi	2
+Kuusajärvi	2
+Kuuslammi	2
+Kuuttilampi	2
+Kuvasjärvi	2
+Kuvaslampi	2
+Kylälampi	2
+Kylänjärvi	2
+Kylkijärvi	2
+Kylliönjärvi	2
+Kylmälänlampi	2
+Kylmänlampi	2
+Kynsilampi	2
+Kypärä	2
+Kypäräjärvi	2
+Kyröjärvi	2
+Kyrösjärvi	2
+Kyynärjärvi	2
+Kyynäröinen	2
+Kyyrönlampi	2
+Laakajärvi	2
+Lääminki	2
+Läävälampi	2
+Lähdejärvi	2
+Lahnasjärvi	2
+Lahnavesi	2
+Lahtilampi	2
+Laihanen	2
+Laihanjärvi	2
+Laitisenlampi	2
+Lakkalammit	2
+Lammaslampi	2
+Lamminlammi	2
+Lamminpäänlammi	2
+Lampaanjärvi	2
+Lampilanlammi	2
+Lampilanlampi	2
+Lampinjärvi	2
+Lampisenlampi	2
+Lampisjärvi	2
+Lampisuonlampi	2
+Lampsijärvi	2
+Lampsinlampi	2
+Längelmävesi	2
+Långviken	2
+Lankajärvi	2
+Lapajärvi	2
+Lapiojärvi	2
+Lappalaisjärvi	2
+Laskulammit	2
+Lastujärvi	2
+Lastulampi	2
+Lätäkkölampi	2
+Latojärvi	2
+Latolammi	2
+Latulampi	2
+Lautajärvi	2
+Lautakkojärvi	2
+Lauttajajärvi	2
+Lauttajärvet	2
+Lauttalammit	2
+Lauttolampi	2
+Lavijärvi	2
+Lehdonjärvi	2
+Lehdontakanen	2
+Lehijärvi	2
+Lehmojärvi	2
+Lehtijärvi	2
+Lehtolammit	2
+Lehtosenjärvi	2
+Leinonen	2
+Leipijärvi	2
+Lemmenlampi	2
+Lemnästräsket	2
+Lemojärvi	2
+Lemunlampi	2
+Leppäsjärvi	2
+Lettolammi	2
+Lettolampi	2
+Leväslammi	2
+Leveälampi	2
+Liekojärvi	2
+Liekolampi	2
+Liesijärvi	2
+Lieslammi	2
+Lietejärvi	2
+Lihavasiikajärvi	2
+Liikalanlampi	2
+Liinalammi	2
+Liippilampi	2
+Liisanlampi	2
+Liiskojärvi	2
+Liivasenlampi	2
+Likolahti	2
+Liminlampi	2
+Linjärv	2
+Linnalampi	2
+Linnanen	2
+Linnanlampi	2
+Lintulammi	2
+Lintumaanjärvi	2
+Litmonlampi	2
+Littilampi	2
+Liuhanlampi	2
+Liukunlampi	2
+Lokalampi	2
+Lomajärvi	2
+Lomperolampi	2
+Lontsinlampi	2
+Loppisjärvi	2
+Lopsauslampi	2
+Losolammit	2
+Lössänlampi	2
+Lötänäjärvi	2
+Lotanlampi	2
+Lotikkalampi	2
+Löttölampi	2
+Louelampi	2
+Loukaslampi	2
+Loukee	2
+Loukeinen	2
+Loukkolampi	2
+Loukonlampi	2
+Lounatlampi	2
+Löytjärvi	2
+Löytölänlampi	2
+Löytynjärvi	2
+Luhtajärvet	2
+Luhtalammi	2
+Luiminkajärvi	2
+Lukkarinlampi	2
+Luodejärvi	2
+Luokkalammi	2
+Luolalampi	2
+Luoppulainen	2
+Luotosenjärvi	2
+Luppojärvi	2
+Lutinlampi	2
+Luulammit	2
+Luusuajärvi	2
+Lyly	2
+Maaninkajärvi	2
+Maaselänlampi	2
+Määtänlampi	2
+Maatianjärvi	2
+Maijajärvi	2
+Maijanlampi	2
+Maijootlampi	2
+Majatlampi	2
+Majoinen	2
+Majoinlampi	2
+Majoolampi	2
+Mäki-Valkeinen	2
+Makkarajärvi	2
+Mäkräjärvi	2
+Männikkölampi	2
+Mannisenjärvi	2
+Mäntyriipi	2
+Marjojärvi	2
+Märkäjärvi	2
+Märkjärvi	2
+Markkinajärvi	2
+Markuslampi	2
+Massilampi	2
+Matalanjärvi	2
+Mataralampi	2
+Mataroinen	2
+Matinlammi	2
+Matkolampi	2
+Matkonlampi	2
+Matkuslammi	2
+Mattilanlampi	2
+Mäyrä	2
+Mekkojärvi	2
+Melanen	2
+Merijärvi	2
+Merilampi	2
+Merilintujärvi	2
+Merilintulampi	2
+Merrasjärvi	2
+Mesiänlampi	2
+Metonlampi	2
+Metsojärvi	2
+Metsonlampi	2
+Mieronlampi	2
+Miilulampi	2
+Miinanlampi	2
+Mikkellampi	2
+Miklinlampi	2
+Mjöträsket	2
+Moalkejávri	2
+Moisasenlampi	2
+Moitajärvi	2
+Mollijärvi	2
+Monnonlampi	2
+Muikkunen	2
+Mulkkujärvi	2
+Mulli	2
+Munakkalampi	2
+Munkinlampi	2
+Muojärvi	2
+Murhalammi	2
+Murhijärvi	2
+Murojärvi	2
+Murroolampi	2
+Murtolammi	2
+Murtoonlampi	2
+Mustajuurakkojärvi	2
+Mustameri	2
+Mustanen	2
+Mustanlammit	2
+Mustanlinnunlampi	2
+Mustaslampi	2
+Mustavirta	2
+Mustinjärvi	2
+Mustlampi	2
+Musturinlammi	2
+Mutijärvi	2
+Muuranlammi	2
+Myllylähde	2
+Myllylahti	2
+Myrkkylampi	2
+Myyräjärvi	2
+Naapurilampi	2
+Naapurinjärvi	2
+Naarjärvi	2
+Naarmijärvi	2
+Naarvanjärvi	2
+Naavalampi	2
+Naistenjärvi	2
+Naistenlampi	2
+Nakkerinlampi	2
+Näläntöjärvi	2
+Nälkälampi	2
+Nalkinjärvi	2
+Nälköjärvi	2
+Nallajärvi	2
+Närhilampi	2
+Naskuttaja	2
+Naukjärvi	2
+Naulalampi	2
+Navettalampi	2
+Neitijärvi	2
+Neitilampi	2
+Nenolampi	2
+Nerkoonjärvi	2
+Nevainlampi	2
+Niemelänjärvi	2
+Niemenjärvi	2
+Niemilammit	2
+Niesijärvi	2
+Niilesjärvi	2
+Niinivesi	2
+Niittylahti	2
+Niittylammit	2
+Niittynen	2
+Nikkilänjärvi	2
+Nilonlampi	2
+Njáhkájávri	2
+Njargâjävri	2
+Njukčajávri	2
+Nokkalampi	2
+Norojärvi	2
+Norrgloet	2
+Norssilampi	2
+Nuasjärvi	2
+Nuottalampi	2
+Nurmaanjärvi	2
+Nuutamolampi	2
+Nyverksträsket	2
+Ohmonlampi	2
+Ohtalampi	2
+Oilampi	2
+Oinaslammi	2
+Ökinlammit	2
+Okslampi	2
+Öljäkkä	2
+Olkajärvi	2
+Ollampi	2
+Ollilanlampi	2
+Omenajärvi	2
+Onkimajärvi	2
+Onkinen	2
+Oravajärvi	2
+Oravilammit	2
+Orrfladan	2
+Osmajärvi	2
+Österfjärden	2
+Otajärvi	2
+Otermanjärvi	2
+Oudonjärvi	2
+Oudonlampi	2
+Oulujärvi	2
+Outajärvet	2
+Outojärvi	2
+Ođđajávri	2
+Pä'httjäu'rr	2
+Päähinen	2
+Paajasenlampi	2
+Pääkkö	2
+Päälammit	2
+Paalikkalampi	2
+Päällinen	2
+Paatinjärvi	2
+Paavalinlampi	2
+Paavallampi	2
+Paavila	2
+Paavolanjärvi	2
+Pahkalammi	2
+Pahtavaaranjärvi	2
+Pahujärvi	2
+Painonjärvi	2
+Paitalampi	2
+Pajajärvi	2
+Pajalampi	2
+Pajarinlampi	2
+Pajebâš Kiäđhášjävri	2
+Pajulammit	2
+Pajunen	2
+Pakkasjärvi	2
+Paksupetäjäjärvi	2
+Palamajärvi	2
+Paljakanlammit	2
+Paljakanlampi	2
+Paljakka	2
+Palosenjärvi	2
+Palosenlampi	2
+Palovaaranjärvet	2
+Pankajärvi	2
+Pannulammit	2
+Papinlammi	2
+Pappilanjärvi	2
+Pappilanlampi	2
+Pärelampi	2
+Parikanlampi	2
+Parkkijärvi	2
+Parkonlampi	2
+Pärnäjärvi	2
+Paro	2
+Partajärvi	2
+Parvalampi	2
+Parviaislampi	2
+Paskatti	2
+Paskojärvi	2
+Paskolammit	2
+Patalahti	2
+Patojärvi	2
+Paukuttaja	2
+Paulajärvi	2
+Pekinlampi	2
+Pekonlampi	2
+Pellavalammi	2
+Penikkalampi	2
+Pentinjärvi	2
+Perhonjärvi	2
+Perimmäinen	2
+Perkkiölampi	2
+Pernalampi	2
+Pernunlampi	2
+Perselampi	2
+Perunkajärvi	2
+Pesosjärvi	2
+Petäikönlampi	2
+Petäisjärvi	2
+Petäjälammit	2
+Petäys	2
+Petjärvi	2
+Petkeljärvi	2
+Petkellampi	2
+Petru	2
+Peukalojärvi	2
+Peuralammi	2
+Peuro	2
+Peurojärvi	2
+Peuronlampi	2
+Piärtušmjävri	2
+Pienet Haukilammit	2
+Pienet Pesälammit	2
+Pienetlammit	2
+Pieni Ahmalampi	2
+Pieni Aitalampi	2
+Pieni Aittojärvi	2
+Pieni Akonjärvi	2
+Pieni Haapalampi	2
+Pieni Hakojärvi	2
+Pieni Hamaralampi	2
+Pieni Hangasjärvi	2
+Pieni Herajärvi	2
+Pieni Hiisijärvi	2
+Pieni Huhtijärvi	2
+Pieni Joutsenlampi	2
+Pieni Käärmelampi	2
+Pieni Kalajärvi	2
+Pieni Karilampi	2
+Pieni Karvalampi	2
+Pieni Koirajärvi	2
+Pieni Kokkolampi	2
+Pieni Kolmisoppinen	2
+Pieni Kontiolampi	2
+Pieni Korpijärvi	2
+Pieni Korpilampi	2
+Pieni Kortelampi	2
+Pieni Kotajärvi	2
+Pieni Kuusijärvi	2
+Pieni Lehmilampi	2
+Pieni Leppälampi	2
+Pieni Likolampi	2
+Pieni Luotolampi	2
+Pieni Majoinlampi	2
+Pieni Matkuslampi	2
+Pieni Mertalampi	2
+Pieni Mustajärvi	2
+Pieni Myllylampi	2
+Pieni Niinijärvi	2
+Pieni Pääjärvi	2
+Pieni Pahalampi	2
+Pieni Pahkajärvi	2
+Pieni Parvajärvi	2
+Pieni Pentulampi	2
+Pieni Polvijärvi	2
+Pieni Purnulampi	2
+Pieni Raatelampi	2
+Pieni Rautjärvi	2
+Pieni Riihilampi	2
+Pieni Ristilampi	2
+Pieni Ruokojärvi	2
+Pieni Sääkspää	2
+Pieni Salkolampi	2
+Pieni Salmilampi	2
+Pieni Sammakkolampi	2
+Pieni Särkiluoma	2
+Pieni Sarvilampi	2
+Pieni Savijärvi	2
+Pieni Savonjärvi	2
+Pieni Säynätjärvi	2
+Pieni Soidinlampi	2
+Pieni Syvälampi	2
+Pieni Talaslampi	2
+Pieni Tiaislampi	2
+Pieni Tynnyrilampi	2
+Pieni Uuronlampi	2
+Pieni Ylälampi	2
+Pieni-Ahvenainen	2
+Pieni-Hoikka	2
+Pieni-Kaihlanen	2
+Pieni-Kaislanen	2
+Pieni-Kankainen	2
+Pieni-Kolkko	2
+Pieni-Korpinen	2
+Pieni-Kortteinen	2
+Pieni-Kotanen	2
+Pieni-Kuittua	2
+Pieni-Löytänä	2
+Pieni-Löytönen	2
+Pieni-Mäntynen	2
+Pieni-Matala	2
+Pieni-Pitkä	2
+Pieni-Pyyli	2
+Pieni-Ristinen	2
+Pieni-Saarinen	2
+Pieni-Saarva	2
+Pieni-Säynäinen	2
+Pieni-Soppi	2
+Pieni-Syvä	2
+Pieni-Varpanen	2
+Pieni-Vasarainen	2
+Pieni-Virmas	2
+Pietarinlampi	2
+Pietinen	2
+Pietukaisenjärvi	2
+Pihlajavesi	2
+Piikalampi	2
+Piikkilampi	2
+Piispanlampi	2
+Pikku Aapalampi	2
+Pikku Akanjärvi	2
+Pikku Hietajärvi	2
+Pikku Hirvasjärvi	2
+Pikku Hukkalampi	2
+Pikku Joutenlampi	2
+Pikku Kalliolampi	2
+Pikku Karijärvi	2
+Pikku Korpijärvi	2
+Pikku Leppilampi	2
+Pikku Löytölampi	2
+Pikku Nuottilampi	2
+Pikku Paavolampi	2
+Pikku Pajulampi	2
+Pikku Palolampi	2
+Pikku Puurolampi	2
+Pikku Raatejärvi	2
+Pikku Salmijärvi	2
+Pikku Siikalampi	2
+Pikku Venejärvi	2
+Pikku Viitajärvi	2
+Pikku-Ahvenainen	2
+Pikku-Ahveninen	2
+Pikku-Hukkanen	2
+Pikku-Järvikäinen	2
+Pikku-Pesiö	2
+Pikku-Salminen	2
+Pikkulammit	2
+Pikkulompola	2
+Pilkanlampi	2
+Pilkkasiipilampi	2
+Pilvilampi	2
+Pimeälampi	2
+Pimijärvi	2
+Pirskanlampi	2
+Pirttilammit	2
+Pirunlampi	2
+Pitäjänrajalampi	2
+Pitämälammi	2
+Pitkä	2
+Pitkä Kortelampi	2
+Pitkä-Hoilua	2
+Pitkä-Petäinen	2
+Pitkälantto	2
+Pitkänkummunlampi	2
+Pitkänkuusenlampi	2
+Pitkänsuonlammit	2
+Pitkänsuonlampi	2
+Pitkäsjärvi	2
+Pitkuslampi	2
+Pohjalammit	2
+Pohjoisjärvi	2
+Pohjoislahti	2
+Pohoslampi	2
+Poikajärvi	2
+Poikelmus	2
+Poikittaislampi	2
+Poikkipuoliainen	2
+Pojanto	2
+Pökönlampi	2
+Poksamolampi	2
+Pöksylampi	2
+Pöleikönlampi	2
+Pönkä	2
+Pönkänen	2
+Pontikkalampi	2
+Pöppölampi	2
+Porkanlampi	2
+Porkkajärvi	2
+Porkkalammit	2
+Porkkalampi	2
+Porolammit	2
+Pörönlampi	2
+Porraslammi	2
+Porstutlampi	2
+Portinlammit	2
+Porttilammit	2
+Poskeinen	2
+Poskijärvi	2
+Postijärvi	2
+Postilampi	2
+Potkujärvi	2
+Potkulampi	2
+Poukkulampi	2
+Pounikkojärvi	2
+Pöyliöjärvi	2
+Pöytälampi	2
+Puállámtupejáávráš	2
+Puilakkalampi	2
+Puimalampi	2
+Pukala	2
+Pukara	2
+Pulaste	2
+Pulkkajärvi	2
+Pulkkalammit	2
+Pullukanlampi	2
+Pullukkalampi	2
+Puntarjärvi	2
+Puolivälinlammit	2
+Puolivälinlampi	2
+Purasjärvi	2
+Purtolampi	2
+Pussisenlampi	2
+Putaanlammit	2
+Putikkolampi	2
+Putilainen	2
+Putkijärvi	2
+Puujärvi	2
+Puurolammit	2
+Puutiolampi	2
+Pyhälammi	2
+Pyhitty	2
+Pykälälammit	2
+Pyöräinen	2
+Pyöreä	2
+Pyörölampi	2
+Pyötikkö	2
+Raajärvi	2
+Raakejärvi	2
+Raakkulampi	2
+Raakunlampi	2
+Raanseljänlampi	2
+Raanujärvi	2
+Rääpyslampi	2
+Raatelammit	2
+Rahanen	2
+Rahijärvi	2
+Rahilampi	2
+Rahkalampi	2
+Raiskionlampi	2
+Rajalahti	2
+Räkäjärvi	2
+Rakkinen	2
+Rakolampi	2
+Rantalampi	2
+Rapa-Valkeinen	2
+Rasalampi	2
+Rasialampi	2
+Rastinjärvi	2
+Rasvalammit	2
+Rataslampi	2
+Rätkäle	2
+Ratkomajärvi	2
+Ratolampi	2
+Rättilampi	2
+Rauhajärvi	2
+Rauhalammi	2
+Rautajalka	2
+Rautajärvi	2
+Rautlampi	2
+Ravadasjärvi	2
+Rávdoláttu	2
+Rávdujáávráš	2
+Rávdujävri	2
+Reijuslampi	2
+Rekijärvi	2
+Riekkojärvi	2
+Riienlampi	2
+Riihilammi	2
+Riihonjärvi	2
+Riikojärvi	2
+Riisilampi	2
+Riivijärvi	2
+Riivinjärvi	2
+Rikalanjärvi	2
+Rimminjärvi	2
+Rimpi	2
+Ristijärvet	2
+Ristilammit	2
+Ristinlampi	2
+Ristonlampi	2
+Risujärvi	2
+Ritalammi	2
+Riuttalammit	2
+Riuttasjärvi	2
+Riutujärvi	2
+Roggejáávráš	2
+Roitonlampi	2
+Rökäslammi	2
+Romulampi	2
+Rönkönlampi	2
+Rooppi	2
+Rotkojärvi	2
+Rottajärvi	2
+Rovalampi	2
+Rovasenjärvi	2
+Ruáhujävri	2
+Ruávičielgjävri	2
+Ruávijävri	2
+Rummakkolampi	2
+Rumonlampi	2
+Rumpulampi	2
+Ruoidnahávggaláttu	2
+Ruokopuolinen	2
+Ruonanlampi	2
+Ruoppajärvi	2
+Ruoppijärvi	2
+Ruõssjäu'rr	2
+Ruostejärvi	2
+Ruotepuolinen	2
+Ruskiajärvi	2
+Ruskialampi	2
+Ruuttilampi	2
+Ruŋggá	2
+Ryngänlampi	2
+Rynkälampi	2
+Ryönänjärvi	2
+Ryssänlampi	2
+Saanijärvi	2
+Saapaslampi	2
+Saariaavanlampi	2
+Saarikiekki	2
+Saarilammi	2
+Saarislampi	2
+Saarva	2
+Saarvanlampi	2
+Saarvonlampi	2
+Sääskenlampi	2
+Sääskijärvi	2
+Saavanlampi	2
+Sahrajärvi	2
+Saikko	2
+Saittalampi	2
+Säkäjärvi	2
+Sakale	2
+Sakara	2
+Säkkijärvi	2
+Salakkolampi	2
+Salamajärvi	2
+Salkojärvi	2
+Sallampi	2
+Salmelanlampi	2
+Salmenlampi	2
+Salmisenlammit	2
+Saloistenjärvi	2
+Salosjärvi	2
+Salttijärvi	2
+Salusjärvi	2
+Samlampi	2
+Sammakkolammit	2
+Sammalisto	2
+Sammallammi	2
+Sammallammit	2
+Sammalus	2
+Sammatinlampi	2
+Sanasjärvi	2
+Santalammi	2
+Santalampi	2
+Saparolampi	2
+Sappilampi	2
+Sarkkilanjärvi	2
+Särklampi	2
+Sáttojávri	2
+Satulalampi	2
+Sauvonlampi	2
+Savanjärvi	2
+Savilammi	2
+Savolaisenlampi	2
+Savujärvi	2
+Seipilampi	2
+Selänjärvi	2
+Selkäinjärvi	2
+Selkäjärvet	2
+Selkoslampi	2
+Sepänlammi	2
+Seppäslampi	2
+Sieppijärvi	2
+Sihvonen	2
+Sihvonlampi	2
+Siikalompolo	2
+Siipilampi	2
+Siiranjärvi	2
+Sijdâjáávráš	2
+Sikajärvi	2
+Sikaliskonlampi	2
+Sikolammit	2
+Silmälammi	2
+Simolampi	2
+Simppujärvi	2
+Sinervä	2
+Siniäinen	2
+Sirkkalammi	2
+Siskeljävri	2
+Siulalampi	2
+Skáidejávri	2
+Skäiđijävri	2
+Skoarrajávri	2
+Småträsken	2
+Soijärvi	2
+Soikulalampi	2
+Soikulanlampi	2
+Soilu	2
+Soilukka	2
+Soimalampi	2
+Soiperoinen	2
+Sompanen	2
+Sopikas	2
+Soppilampi	2
+Sormusenlampi	2
+Sorsalammi	2
+Sorsamo	2
+Sorvalammi	2
+Sorvanjärvi	2
+Sorvijärvi	2
+Sotilampi	2
+Sotkalammi	2
+Sotkunlampi	2
+Soukkajärvi	2
+Souru	2
+Spálččájävri	2
+Stortjärnen	2
+Suä'vveljäu'rr	2
+Suáluijáávráš	2
+Sulatus	2
+Sulkajärvi	2
+Sulkalampi	2
+Suolajärvi	2
+Suolivesi	2
+Suomijärvi	2
+Suonsilmä	2
+Suorajärvi	2
+Suotajärvi	2
+Surkanlampi	2
+Suuponlampi	2
+Suuri	2
+Suuri Haukilampi	2
+Suuri Heinälampi	2
+Suuri Hepolampi	2
+Suuri Kangaslampi	2
+Suuri Kivilampi	2
+Suuri Kotalampi	2
+Suuri Kuikkalampi	2
+Suuri Lohilampi	2
+Suuri Paskolampi	2
+Suuri Petäjäjärvi	2
+Suuri Rautjärvi	2
+Suuri Tervalampi	2
+Suuri Vaaralampi	2
+Suuri-Hoikka	2
+Suuri-Lahnanen	2
+Suuri-Liimo	2
+Suuri-Petäinen	2
+Suuri-Syvä	2
+Suurjärvi	2
+Suurusjärvi	2
+Suutarilampi	2
+Suvanto	2
+Suvilampi	2
+Svedjaträsket	2
+Sydänlampi	2
+Sydänmaanjärvi	2
+Syeinijáávráš	2
+Syeinijávrááh	2
+Syeiniluobâl	2
+Syntymälampi	2
+Syrjälammit	2
+Syrjäntakanen	2
+Syvänlampi	2
+Syymälammi	2
+Taipaleenlammi	2
+Taittumalampi	2
+Takalonlampi	2
+Takaperänjärvi	2
+Talvitielampi	2
+Talvitupajärvi	2
+Tammakkolampi	2
+Tammilampi	2
+Tammukkalampi	2
+Tanelinlampi	2
+Tarjanne	2
+Tarkjärvi	2
+Tarpomajärvi	2
+Tarvaslampi	2
+Tasmanlampi	2
+Tattarlampi	2
+Taukolampi	2
+Taulajärvi	2
+Tavilammit	2
+Teerinen	2
+Tekolammi	2
+Telkkälammit	2
+Tenan	2
+Tepsanlampi	2
+Tervajärvet	2
+Tervo	2
+Tervonen	2
+Tervonjärvi	2
+Tetrinen	2
+Teurajärvi	2
+Tiermaslampi	2
+Tiinanlampi	2
+Tikkalampi	2
+Tinakypärä	2
+Tirrojärvi	2
+Tiukulampi	2
+Tohtaanjärvi	2
+Toivionjärvi	2
+Tolkanlampi	2
+Tolpparinlampi	2
+Tolvanlampi	2
+Toplanen	2
+Torajärvi	2
+Toralampi	2
+Toramojärvi	2
+Toriseva	2
+Törisevänlammit	2
+Törmäsjärvi	2
+Törmäslompolo	2
+Tornilampi	2
+Torokkalampi	2
+Törönlampi	2
+Torvenlampi	2
+Tosonlampi	2
+Totlampi	2
+Töyrilampi	2
+Tuárispeljävri	2
+Tuhkurilampi	2
+Tuohikas	2
+Tuohikotanen	2
+Tuohilammit	2
+Tuolbâjävri	2
+Tuorelampi	2
+Tupasijajärvi	2
+Tuppilampi	2
+Turkinjärvi	2
+Turvakko	2
+Tyllinjärvi	2
+Tynnörlampi	2
+Työjärvi	2
+Tyrylammi	2
+Tyrynlampi	2
+Uimalampi	2
+Ujejärvi	2
+Ukonlammit	2
+Ukulammi	2
+Ulgâjävri	2
+Ulkunen	2
+Ullajärvi	2
+Umpilammi	2
+Urajärvi	2
+Urakkajärvi	2
+Uskalinlampi	2
+Uuranjärvi	2
+Uurasjärvi	2
+Uuronlampi	2
+Uđđâjävri	2
+Vaaherlampi	2
+Vaajalampi	2
+Vaajärvi	2
+Vaalajärvi	2
+Vaaralammit	2
+Vääränen	2
+Vaaranpäänlampi	2
+Vaarantauslampi	2
+Vaarunjärvi	2
+Vaattojärvi	2
+Vähä Arajärvi	2
+Vähä Haukijärvi	2
+Vähä Koukkujärvi	2
+Vähä Leppäjärvi	2
+Vähä Petäjäjärvi	2
+Vähä Saarijärvi	2
+Vähä Suojärvi	2
+Vähä Tervajärvi	2
+Vähä-Ahvenainen	2
+Vähälammi	2
+Vähäselkä	2
+Vähävesi	2
+Vaherjärvi	2
+Vahojärvi	2
+Vahvajärvi	2
+Välilammi	2
+Välilammit	2
+Valkeaislammit	2
+Valkiatlammit	2
+Valkkisjärvi	2
+Valkkojärvi	2
+Vanajavesi	2
+Vanhalampi	2
+Vanhankylänlahti	2
+Vanjärvi	2
+Vantunlampi	2
+Varajärvi	2
+Varaslampi	2
+Varastinlampi	2
+Varesjärvi	2
+Varpajärvi	2
+Varpojärvi	2
+Varpujärvi	2
+Varsajärvi	2
+Varsalampi	2
+Varsolampi	2
+Vasaralampi	2
+Vasikkajärvi	2
+Vaskijärvi	2
+Vastalampi	2
+Västerfladan	2
+Vattulampi	2
+Vaulonlampi	2
+Vehkalammit	2
+Vehkuri	2
+Vehmas	2
+Veholampi	2
+Veisjärvi	2
+Veitjärvi	2
+Vekarainen	2
+Vekaranjärvi	2
+Vemmellampi	2
+Venäjänjärvi	2
+Venäjänlampi	2
+Venakkolampi	2
+Veneheitto	2
+Venesjärvi	2
+Vennajärvi	2
+Vennalampi	2
+Vepsänjärvi	2
+Verikäs	2
+Verkkolammit	2
+Vesalampi	2
+Vetolampi	2
+Vieremänjärvi	2
+Vierulampi	2
+Vihajärvi	2
+Vihautlampi	2
+Viinijärvi	2
+Viitaanlampi	2
+Viitajalampi	2
+Viitalammi	2
+Viitasenlampi	2
+Viken	2
+Vikträsk	2
+Vilkajärvi	2
+Vilmajärvi	2
+Vipusenlampi	2
+Virmajärvi	2
+Virolainen	2
+Virranlampi	2
+Virstajärvi	2
+Virstalampi	2
+Vitikkolampi	2
+Vitsjö	2
+Vittaselänjärvi	2
+Vittikkolampi	2
+Vitträsk	2
+Viululampi	2
+Vuáskujáávráš	2
+Vuåššjääuraž	2
+Vuollajärvi	2
+Vuolteenjärvi	2
+Vuomanlampi	2
+Vuonisjärvi	2
+Vuontisjärvet	2
+Vuontislompolo	2
+Vuopajanperäjärvi	2
+Vuoreinen	2
+Vuorikko	2
+Vuorisenjärvi	2
+Vyelijävri	2
+Ykshaukinen	2
+Ylä-Heinälampi	2
+Ylä-Lylyjärvi	2
+Ylä-Mustalampi	2
+Ylä-Salmijärvi	2
+Ylä-Siikajärvi	2
+Ylä-Viitajärvi	2
+Yläinenlammi	2
+Ylänne	2
+Yli-Hukkanen	2
+Ylimmäinen Jokijärvi	2
+Ylimmäinen Kiekerölampi	2
+Ylimmäinen Lapinlampi	2
+Ylimmäinen Lohilampi	2
+Ylimmäinen Mustajärvi	2
+Ylimmäinen Myllylampi	2
+Ylimmäinen Paiselampi	2
+Ylimmäinen Palojärvi	2
+Ylimmäinen Palolampi	2
+Ylimmäinen Raatelampi	2
+Ylimmäinen Riihilampi	2
+Ylimmäinen Särkilampi	2
+Ylimmäinen Tuomilampi	2
+Ylimmäisenlampi	2
+Ylinen Hietajärvi	2
+Ylinen Kotajärvi	2
+Ylinenlompolo	2
+Ylisjärvi	2
+Ymmyräinenjärvi	2
+Ympyriäislampi	2
+Ypyänjärvi	2
+Ypykkälampi	2
+Aailâšjáávráš
+Aapa-Tuohilampi
+Aaponlampi
+Aaporinlampi
+Abborrsjö
+Ahingonlampi
+Ahmanistumajärvi
+Ahmonlampi
+Aholammit
+Ahven-Heinänen
+Ahven-Kivilampi
+Ahven-Kulvakko
+Ahven-Loukkaja
+Ahvenrimmi
+Ainuppijärvi
+Akkijärvi
+Akkojärvi
+Ala-Ahmonen
+Ala-Aisus
+Ala-Askanjärvi
+Ala-Kelkkalampi
+Ala-Laulaja
+Ala-Likanen
+Ala-Luodelampi
+Ala-Outojärvi
+Ala-Purnulampi
+Ala-Räinänlampi
+Ala-Riuttalampi
+Ala-Sarkajärvi
+Ala-Tervajärvi
+Ala-Uuronlampi
+Ala-Viitanen
+Alainen Angassaivo
+Alainen Enojärvi
+Alainen Raiskinlampi
+Alainen Sammalkunta
+Alainen Taapajärvi
+Alainen-Toriseva
+Alempi Hanhilampi
+Alempi Haukijärvi
+Ali-Takalammi
+Alimmainen Käärmejärvi
+Alimmainen Pirttijärvi
+Alimmainen Purtolampi
+Alimmainen Särkilampi
+Alimmainen Suhajärvi
+Alimmainen Tuomilampi
+Alimmainen Untamolampi
+Alimmainen Vaaranlampi
+Alinen Kuusijärvi
+Alinen Markkajärvi
+Alinen-Kihlua
+Ameenjärvi
+Angerjärvi
+Annisenlampi
+Antiainen
+Antinjärvet
+Anttijáávráš
+Apalinjärvi
+Apukkajärvi
+Ärjenlampi
+Árkomarasláttu
+Ärväänlampi
+Aslahti
+Asonlampi
+Ässälänjärvi
+Åströmmen
+Atsinlampi
+Aumanalanen
+Aurajärvi
+Avitlampi
+Avvaa-algejáávráš
+Backaviken
+Bajit Hávgajávri
+Bajit Rássegáldojávri
+Bajit Rávdoluoppal
+Bakunkärrsträsket
+Báljahašjávri
+Båtörslagan
+Björnstensträsket
+Bogsböle Träsk
+Bölsviken
+Buoggi
+Buolžžajávri
+Čaarmâjävri
+Čáimmageahčejávri
+Čalmepelvuáskujávrááh
+Čuárvilakkjävri
+Čue'njjäu'rr
+Čuovžaluoppal
+Degersjön
+Edsflagan
+Eerikinlampi
+Ehojärvi
+Elämäinen
+Eljaksenlampi
+Elkonlampi
+Elli-Marian Syntymälantto
+Emälampi
+Emonlampi
+Gahčahatjávri
+Gammelby Träsk
+Ganešjohgeaželáddot
+Gaskajávri
+Gaskkamuš Hávgajávri
+Geavumuš Bálddotjávri
+Goalmmátjávri
+Govttájávri
+Gukševárláttu
+Gulltjärnen
+Guolbbajávri
+Guovttejohgasláddot
+Haapalammit
+Haapatyrnänlampi
+Haaranjärvi
+Haarikas
+Haarikko
+Hääsyvänjärvi
+Hacâstâmluobâl
+Haimilampi
+Häiskynlampi
+Hakalanlampi
+Hakostenjärvi
+Hallisenlampi
+Halsionlampi
+Halstimajärvi
+Hämejärvi
+Hampjärvi
+Hangasvalkamajärvi
+Hangatlampi
+Hanhiluppo
+Hanhivaaranlampi
+Hanhonen
+Hanislampi
+Hankasjärvi
+Häppälänlampi
+Häräjärvi
+Harhalanlammi
+Härmänlampi
+Harrajärvi
+Harrimukanjärvi
+Hastimajärvet
+Hatstamjavri
+Haukiainen
+Hauta-ahonlampi
+Hautjärvi
+Hävittömänlampi
+Haŋŋáláddot
+Heikonlampi
+Heinä-Sipi
+Heinihaaranlampi
+Heinolampi
+Heinunlammi
+Hekkalanlahti
+Helosenlampi
+Heratus
+Hermunjärvi
+Hevostielampi
+Hiehojärvi
+Hoikkapää
+Holmajärvi
+Holmanlampi
+Holmbergluubbâl
+Hormulampi
+Hoseusjärvi
+Höyheninen
+Huhdanalanen
+Huhdanmäki
+Huhunjärvi
+Huikkimajärvet
+Hukkavaaranjärvi
+Hunttijärvi
+Huokauslampi
+Huosioislampi
+Huotralampi
+Hurtikkaanlampi
+Huuskonlammit
+Huutolampi
+Hyökänlampi
+Hyvikkää
+Hyyryläislampi
+Ienlampi
+Igá Koppâjáávráš
+Ihanteenlampi
+Iijärven Uulan
+Ilmanlampi
+Ilveslammi
+Infjärden
+Iskmoörfladan
+Iso Alanteenjärvi
+Iso Avunlampi
+Iso Harejärvi
+Iso Havukkalampi
+Iso Hetelampi
+Iso Hietalampi
+Iso Kaakkojärvi
+Iso Kärppäjärvi
+Iso Katisjärvi
+Iso Kiimajärvi
+Iso Kukkalampi
+Iso Kursulampi
+Iso Lehtijärvi
+Iso Leppijärvi
+Iso Liivejärvi
+Iso Lökälampi
+Iso Löytäne
+Iso Mättäisjärvi
+Iso Mustonlampi
+Iso Muuratlampi
+Iso Naarajärvi
+Iso Palosenjärvi
+Iso Pirttilammi
+Iso Ruoholampi
+Iso Salojärvi
+Iso Sikkolanlampi
+Iso Sotkajärvi
+Iso Suksijärvi
+Iso Tolpanjärvi
+Iso Vehkolampi
+Iso Viinijärvi
+Iso-Ahvenisto
+Iso-Akka
+Iso-Huosius
+Iso-Ilmetty
+Iso-Jouhteno
+Iso-Kailanen
+Iso-Kaisla
+Iso-Kontunen
+Iso-Koriseva
+Iso-Kuukka
+Iso-Kuvaja
+Iso-Laakea
+Iso-Laakkonen
+Iso-Lempiä
+Iso-Monno
+Iso-Pahlanen
+Iso-Paukuttaja
+Iso-Pehmeä
+Iso-Pitämä
+Iso-Potku
+Iso-Somero
+Iso-Takanen
+Iso-Täkkeli
+Iso-Tappari
+Iso-Tarpinen
+Iso-Vellinki
+Iso-Vuotava
+Itä-Rehu
+Itäinen Kesäkotajärvi
+Jääsjärvi
+Jáfoduolbbajávri
+Jalantijärvi
+Jämsänvesi
+Jänkä
+Jankkijärvet
+Järnätjärvi
+Järvenkallionjärvi
+Järvenmäenlampi
+Järvenpäänlammit
+Järvijärvi
+Järvistenlammit
+Jaškkjäu'rr
+Jaurajärvi
+Jäväänlampi
+Jävilkoccoomjáávráš
+Jero
+Jolkkajärvi
+Jormua
+Jottijävri
+Jouhtenanjärvi
+Joukhaisenpesäjärvi
+Juhánáá Šoddâmjävri
+Jumpuranlampi
+Junginlampi
+Junkkajärvi
+Junkua
+Juorkunajärvi
+Juovâjávrááh
+Jurvanjärvi
+Jussilanlampi
+Juttuajärvi
+Jutulampi
+Juumalampi
+Juurenlampi
+Juvali
+Jylisjärvi
+Jylmäkkölampi
+Kå'skkk'alddijäu'rr
+Kaa'drenjäu'rr
+Kaajanlampi
+Kaarankajärvi
+Kaatiinjärvi
+Kähkijärvi
+Kaikkosenlampi
+Kairlammit
+Kairojärvi
+Kaistonjärvi
+Kaita-Kotsamon
+Kaita-Uramo
+Kaitajärvenlompola
+Kaitalanjärvi
+Kaitue
+Kaitura
+Kaivantolampi
+Kaivosojanlampi
+Kajaslampi
+Kakarlammit
+Käkönlampi
+Kaksoset
+Kalajärvenlampi
+Kalakoskenoja
+Kalapääträsket
+Kalattomanlammi
+Kaliton
+Kaljunjärvi
+Kallioluoma
+Kämäräisenjärvi
+Kankareenjärvi
+Kankkulampi
+Kannaksenlampi
+Kannaslammit
+Känsälampi
+Kantele
+Kantlammi
+Kapasenlampi
+Kapea Sailampi
+Kärängänlampi
+Käränkälampi
+Kárcculuobâl
+Kardragträsket
+Karekkilompolo
+Karhisenlampi
+Karhu-Kalmo
+Karjalainen
+Karpamaanjärvi
+Karttiminjärvi
+Kartuskalampi
+Kärväslammit
+Kasanlampi
+Kastanajärvi
+Kasuri
+Katihtalampi
+Katiskajärvet
+Kattaisenjärvi
+Kattilalahti
+Kauhinlampi
+Kauklaistenjärvi
+Kauklampi
+Kaukostenlampi
+Kauniinmaanjärvi
+Kauratteenjärvi
+Kaustalampi
+Kavantojärvi
+Käyläkkälampi
+Keä'nnjäu'rr
+Kekälejärvi
+Kelajärvi
+Kelalampi
+Kelkäte
+Kellettilampi
+Kellonkoukunaavanlampi
+Kelvänjärvi
+Kerpuajärvi
+Keski-Kaijo
+Keski-Kuikkalampi
+Keski-Limma
+Keski-Mikonjärvi
+Keski-Petro
+Keski-Pörö
+Keski-Saukkolampi
+Keskimmäinen Palojärvi
+Keskimmäinen Ruohojärvi
+Keskimmäinen Ruotinjärvi
+Keskimmäinen-Lipukka
+Keskimmäinen-Tyrsä
+Keskinen Mustalampi
+Keskinen Vehkajärvi
+Keskinen-Kihlua
+Keskuskankaanlampi
+Ketolampi
+Kevätinlampi
+Kiäinuluohtjáávráš
+Kiekerölammit
+Kieluu
+Kieppilammi
+Kiesjärvi
+Kihkarilammi
+Kikurinjärvi
+Kilolampi
+Kilpanen
+Kilpolampi
+Kiltuanjärvi
+Kilven Latvalampi
+Kimmonlampi
+Kinnalanjärvi
+Kipsuanjärvi
+Kirvesvuopio
+Kiuaslammi
+Kiurusenlampi
+Kivi-Sorsua
+Kivijärvenlompola
+Kivikaltio
+Kivisaarijärvi
+Kivistönlammi
+Knipesträsken
+Kodantakuset
+Kohkosenlampi
+Kohtilammit
+Koierijärvi
+Koiraspotti
+Koivukivalonaavanlampi
+Kokalmusjärvi
+Kokkopaiseenlammit
+Kolesjärvi
+Kölkänkirnu
+Kollinlampi
+Kolmepetäjäinen
+Kolmesoppinen
+Kolmihaarainen
+Kolmikalainen
+Kolmikas
+Kolmikkaanjärvi
+Kolmikolkka
+Kolmiloukunaro
+Koltsoppinen
+Kolvalampi
+Kolvananlampi
+Konalampi
+Köngäslampi
+Könkäsenjärvi
+Koppâjävri
+Koppelo
+Korkeanmaanlampi
+Köröttäjälammit
+Korpi-Rasku
+Korpi-Rommakko
+Korppikurujärvi
+Korppilompola
+Kortimonlammit
+Kortlampi
+Korttee
+Korttojärvi
+Korvalammit
+Korvenaluslampi
+Koskâ-Kuávžurjáávráš
+Koške Puállámčielgjävri
+Kostiaisenlampi
+Kotakkojärvi
+Koti-Vehkalampi
+Kotjonjärvi
+Kotolampi
+Kotvanlampi
+Kouranjärvi
+Kourilampi
+Kourislammit
+Kouvolanlampi
+Köyrilampi
+Köyry
+Kråkviksträsket
+Kroksjö Koukkujärvi
+Kuátijäävrih
+Kukkumalampi
+Kukkurlampi
+Kuljunjärvi
+Kullasjö
+Kulmahammaslampi
+Kultimajärvi
+Kulvejärvi
+Kumpu-Teerijärvi
+Kuohanajärvi
+Kuohkialampi
+Kuokkastenjärvi
+Kuoksijärvet
+Kuopiojärvi
+Kuorasjärvi
+Kuotmuttijärvet
+Kuovdâjáávráš
+Kuppiinlampi
+Kuratti
+Kurjolampi
+Kurkivuopaja
+Kurtakkolampi
+Kuserijávri
+Kuttajärvi
+Kutujärvenlompola
+Kuujärvi
+Kuurna
+Kuuvaistonlampi
+Kuvaksenlampi
+Kyhnänlampi
+Kylkeislampi
+Kylki-Kurikka
+Kymmensylinen
+Kyntinen
+Kypärijärvi
+Kyynelmys
+Laakeanlampi
+Laanajärvi
+Laavalampi
+Laduviksträsket
+Láfoljávri
+Laholampi
+Laiha Haukijärvi
+Laiska
+Laiskavesi
+Lakilammit
+Lamasjön
+Lammikko
+Länkkyjärvi
+Lasku-Virtanen
+Láskujávri
+Lassin Joululammit
+Lassinaavanlampi
+Latojärvet
+Latva-Morkka
+Laukerilampi
+Laukkalampi
+Laukurinlampi
+Launiojärvi
+Lautakotajärvi
+Lautaportaanjärvi
+Lautinjärvi
+Lautinkilampi
+Lautjärvi
+Lauttamusjärvi
+Lauttunen
+Lehesjärvi
+Lehtojärvet
+Leinakka
+Leinojärvi
+Lemetin Musta
+Lemitjärvi
+Lemuslammit
+Leskijärvi
+Leveä Perlukkalampi
+Lialompolo
+Lietjärvi
+Lietolammi
+Lietvesi
+Lihjamonlampi
+Lilla Bastsjö
+Lilla Lomsjö
+Lilla Tregren
+Lillbottnen
+Lilldammen
+Limajärvi
+Linkullasjön
+Lipeäjärvi
+Lipukkajärvi
+Livojärvi
+Loddebealjávri
+Loddejohgeašláddot
+Loipanlampi
+Loirukanlampi
+Loituma
+Lokittamajärvi
+Lompolojärvet
+Lostijärvi
+Loulus Storträsket
+Löysäkki
+Löytöaavanlammit
+Lukkarilampi
+Lulit Guolbbajávri
+Lullinjärvi
+Luokki-Valkea
+Luopmošjávrrit
+Luppojärvet
+Luukkoslampi
+Luukkulampi
+Luusunjärvi
+Lynkänlampi
+Maansydämenjärvi
+Maansydän
+Maikonlampi
+Maimalammit
+Majava
+Mäki-Kaipio
+Mäki-Särkijärvi
+Maksimolampi
+Mallasvesi
+Mallusjärvi
+Malolampi
+Malonen
+Mämlampi
+Männikköseljänlampi
+Manninlampi
+Mänty-Pölläkkä
+Marttinjävri
+Matala-Kaituri
+Matala-Salminen
+Matala-Sotkanen
+Mätäslammi
+Mateenlammi
+Matkonjärvi
+Mattuslampi
+Mehtiönjärvi
+Meiko
+Mekrijärvi
+Meliininlampi
+Mellansjön
+Merilinturimmit
+Merjeslampi
+Mertalammi
+Meskerilampi
+Metsä-Pyylampi
+Metsä-Ruonajärvi
+Metsä-Ruonan Lammit
+Metträsket
+Miasjärvi
+Miehinkälampi
+Miehonjärvi
+Miekolammi
+Mieliönlammi
+Mikkalanjärvi
+Mikononkimalampi
+Mitkasjärvi
+Mögölen
+Moikan Harrijärvet
+Moisiojärvi
+Mökkilampi
+Molkinlampi
+Molnviken
+Mommiojärvi
+Moosesjävri
+Morostojärvi
+Moskujärvet
+Mourujärvi
+Muhelampi
+Mukanjärvi
+Mulajärvi
+Munasenlampi
+Muoddávárjávri
+Muorahisjávri
+Musta-Jättilä
+Mustanvaaranlantto
+Musterpyynjärvi
+Mustikummunlammit
+Mustinoinen
+Muttilanjärvi
+Myetkijáávráš
+Myräjärvi
+Naaranjärvi
+Näätämäinen
+Naatsukkajärvet
+Nahkalammi
+Näkyvä
+Namalikkojärvi
+Naruskajärvi
+Naurislammit
+Nautalammi
+Neitojärvi
+Nektumjävri
+Nelgijävri
+Nenälasit
+Neuha
+Nikalanjärvi
+Nikaranlampi
+Nikulutsijärvi
+Nimisjärvi
+Njallavárláddot
+Njáppájávri
+Njukčabealjávri
+Noljakanlampi
+Norkfladan
+Norpanjärvi
+Norrnässundet
+Norssi-Valkiainen
+Norvalampi
+Nukkalampi
+Nuollampi
+Nuottamajärvi
+Nuotti-Kankainen
+Nupunlampi
+Nutturalampi
+Nuuksion Pitkäjärvi
+Nuupasjärvi
+Nykyrinjärvi
+Oininginlampi
+Oivan Kämppälampi
+Ojasenlampi
+Olkkonen
+Olkolammit
+Olkonlampi
+Ölkönlampi
+Ollinlantot
+Öllöri
+Onkamonjärvi
+Onki-Piilonen
+Onki-Varis
+Orhilammi
+Ormajärvi
+Otralammit
+Oukonen
+Outovesi
+Ovanmalmträsket
+Övrekastet
+Paajeeb Loossâmjävri
+Päälänne
+Päällikköjärvi
+Paattakaisjärvi
+Päättiäislammi
+Paavisjärvi
+Pahanlammit
+Pahaskurrâlááduš
+Pahkilampi
+Pahtavaarankurunjärvet
+Paihkasjärvi
+Päijännelampi
+Paijävri
+Paijulasjärvi
+Paje-Potemuujävri
+Pajemuš Raššâjävri
+Pajulahti
+Pakkulanjärvi
+Pakojärvi
+Pälgispelesjáávráš
+Paljakko
+Paljalampi
+Palo-Kouterolammit
+Palokankaanlammit
+Palolompolo
+Palopohjanlammit
+Palovuopionjärvi
+Palpalampi
+Palsa
+Pannunkansilampi
+Parilanjärvi
+Pärjänlatvalammit
+Pärnäsenlampi
+Parsiislampi
+Pasasjärvi
+Pasaslompola
+Paskaperänjärvi
+Pasko-Petäinen
+Paskopohja
+Pasonjärvi
+Pateslampi
+Pätkönlampi
+Peiponlampi
+Pekanmäen Hatikainen
+Pellonaluslampi
+Pentanlahti
+Pentjärvi
+Perätysjärvet
+Pesäntäjärvi
+Pesosenjärvi
+Pessipohjävri
+Petojärvi
+Petosenlampi
+Pettujärvi
+Pielislammit
+Pienemmät Lovilammit
+Pienet Karjolammit
+Pieni Härkinlampi
+Pieni Hirvasjärvi
+Pieni Hoikanlampi
+Pieni Innonjärvi
+Pieni Jaakonlampi
+Pieni Kakonjärvi
+Pieni Kalavesi
+Pieni Kalliolampi
+Pieni Kirnulampi
+Pieni Kokkojärvi
+Pieni Kuolajärvi
+Pieni Kynsilampi
+Pieni Kyykkälampi
+Pieni Laklemijärvi
+Pieni Lietjärvi
+Pieni Lintulampi
+Pieni Murojärvi
+Pieni Pihtijärvi
+Pieni Pirtajärvi
+Pieni Pyhäkala
+Pieni Rajaslampi
+Pieni Ruuhijärvi
+Pieni Rysälampi
+Pieni Sarkajärvi
+Pieni Tetrijärvi
+Pieni Valklampi
+Pieni Vasaralampi
+Pieni Vepsänlampi
+Pieni-Haapinen
+Pieni-Hirvanen
+Pieni-Honkanen
+Pieni-Kitsi
+Pieni-Kontio
+Pieni-Kuora
+Pieni-Kusia
+Pieni-Miela
+Pieni-Miena
+Pieni-Pesonen
+Pieni-Petäjä
+Pieni-Pihlas
+Pieni-Piilo
+Pieni-Saarikas
+Pieni-Salmikas
+Pieni-Tehlo
+Pieni-Tevani
+Pieni-Tökrönen
+Pieni-Unttua
+Pieni-Urpalo
+Pieni-Valkee
+Pieni-Vissanen
+Pietukainen
+Pihkakuolijärvi
+Pihlajariipi
+Pihlas
+Pihtijärvi
+Piispajärvi
+Pikijärvet
+Pikku Aihkiselän
+Pikku Hannujärvi
+Pikku Harrijärvi
+Pikku Honkajärvi
+Pikku Kaivoslampi
+Pikku Karvastekemäjärvi
+Pikku Kuvajalammit
+Pikku Lapinjärvi
+Pikku Mujujärvi
+Pikku Narttelijärvi
+Pikku Paavojärvi
+Pikku Paskalampi
+Pikku Rutalampi
+Pikku Ruuhijärvi
+Pikku Tavinampumalampi
+Pikku Ukonjärvi
+Pikku Vatilampi
+Pikku-Hakonen
+Pikku-Humma
+Pikku-Järvinen
+Pikku-Kongas
+Pikku-Konna
+Pikku-Körtti
+Pikku-Kuukka
+Pikku-Kuulaja
+Pikku-Levä
+Pikku-Liipas
+Pikku-Made
+Pikku-Molli
+Pikku-Näkiäinen
+Pikku-Pukuri
+Pikku-Purnu
+Pikku-Ronkko
+Pikku-Somero
+Pikku-Surnu
+Pilkanjärvi
+Pilpajärvi
+Pirttilahti
+Pirttiraakku
+Pirunlinnan Suonia
+Pisamojärvi
+Pitkä Karijärvi
+Pitkä-Riukko
+Pitkä-Salminen
+Pitkä-Soikko
+Pitkä-Viitanen
+Pitkän-Erkin
+Pitkänmurronlammit
+Pitslomajärvet
+Piurukkajärvi
+Pohjan Korpilammi
+Pohjanhakkojärvi
+Pohjoisjänkänjärvi
+Poikellus
+Poikkipuoleinen
+Pöksänlampi
+Pöllälampi
+Pölö
+Pöntislampi
+Poronkaaristamajärvi
+Postelijärvi
+Pötsölampi
+Puállámeennâmjävri
+Puikkolampi
+Pukarijärvi
+Pukkeenjärvi
+Pullukanjärvi
+Pulsanlampi
+Puolakkajärvi
+Purhonlampi
+Purisijalampi
+Puskulammet
+Pussilanjärvi
+Puttolanselkä
+Putukanlampi
+Puukkolammet
+Puukkolammit
+Puutturi
+Pyhännänkoski
+Pyhäselkä
+Pyhtöslampi
+Pylkinjärvi
+Pyönlampi
+Pyöräjärvi
+Pyöräkkä
+Pyöreä Kuorejärvi
+Pyöreä-Alanne
+Pyöreä-Tiitta
+Pyöriä-Kalaton
+Pyörninlampi
+Pyssyletot
+Pyttylampi
+Pyysiönjärvi
+Räämälammit
+Raatti
+Rábatjávri
+Rahkolammit
+Raholampi
+Raiskasjärvi
+Raitalammi
+Raivionjärvi
+Rakinlampi
+Rámajávri
+Rämpan
+Ranttionlampi
+Rasinalainen
+Rássegájdojávrrit
+Rautaisenjärvi
+Rautapata
+Rautaperäjärvi
+Rävaträsket
+Ravikainen
+Ravitunjärvi
+Reatkájávri
+Reskanjärvi
+Revonpesänlampi
+Ridasjärvi
+Riekkolompola
+Riidus
+Riikusjärvi
+Riionlampi
+Riitalahti
+Riitjarvi
+Rikalanlammi
+Rikinlampi
+Rikonlampi
+Ripakko
+Riskonlampi
+Rombyträsket
+Röyttälompolot
+Ruikanjärvi
+Runttijärvi
+Ruokelampi
+Ruopotusjärvi
+Ruosmanjärvi
+Ruotaanjärvi
+Ruotanen
+Ruskolampi
+Rutikka
+Ruuhasjärvi
+Ruukinlampi
+Ruunaanjärvi
+Ruunulampi
+Ruutilampi
+Ruuttanalammi
+Rytky
+Ryynänen
+Ryytjärvi
+Sääperi
+Saarikoskensuvanto
+Saarimaanjärvi
+Saarniolampi
+Säävälälampi
+Saiholantto
+Saimaa
+Sainlampi
+Sainmaanlampi
+Sairasenlampi
+Sairunlampi
+Säkälampi
+Säkkisenlampi
+Šaldečuálmjävri
+Sallijärvi
+Sällijärvi
+Sallinkijärvi
+Salmenkorvanlampi
+Salmojärvi
+Salo-Kuulampi
+Saltjärvträsket
+Samulilampi
+Sappeenjärvi
+Saralammit
+Särki-Koukero
+Saukko-Torkojärvi
+Saukkonen
+Saunakinnunen
+Sävträsket
+Säynäsemänlampi
+Seipijärvi
+Seitalommol
+Seitenjärvi
+Seitenlampiset
+Seljänalanen
+Setälänlampi
+Sidsbackaträsket
+Sieiddevuohppi
+Siekajärvi
+Siepinjärvi
+Siikolampi
+Siililampi
+Sikiöjärvi
+Sikkiölammit
+Silkkilänjärvi
+Siltaluovanlompolo
+Simmettijärvi
+Simulampi
+Sinermäjärvi
+Sipilänlampi
+Sirkuslampi
+Sirnihtänlampi
+Sirratieva
+Siukatanjärvet
+Siukolanjärvi
+Sivakkolampi
+Sǩieccarâsjäu'rr
+Skinnarsund
+Skitujärv
+Skogsböleträsket
+Slickolammi
+Söderskataträsket
+Soikkolammit
+Soinin Hoikka
+Sollomuslompolo
+Sonkalompolo
+Sonninsilmä
+Soppananjärvi
+Sorlampi
+Sorsanselkä
+Sortinlampi
+Sossonjärvi
+Soukisjärvi
+Souvunjärvi
+Sovsjävri
+Spierkojávri
+Stora Fallträsket
+Stora Simi
+Stora Vojärv
+Storsund
+Stuora-Govda
+Stuorrâ Säiđijävri
+Stuorragoahtejávri
+Stuorrâkyeljáávráš
+Suaslompolo
+Suinun Väihi
+Suistolampi
+Sulalampi
+Sumukka
+Sunilampi
+Suo-Kuikkanen
+Suo-Särkilampi
+Suoidnejávri
+Suojavesi
+Suomunjärvi
+Suoperänlammit
+Suoppjávráájáávráš
+Suopumajärvi
+Suovaaranaluslampi
+Surkealammi
+Surmanlammit
+Survaanlampi
+Survoslammi
+Suumaanlampi
+Suuri Haukijärvi
+Suuri Kaatronlampi
+Suuri Kurjärvi
+Suuri Matolampi
+Suuri Mieslampi
+Suuri Nousjärvi
+Suuri Pyhäkala
+Suuri Särkijärvi
+Suuri Telynlampi
+Suuri-Antikka
+Suuri-Pölläkkä
+Suuri-Ulvasti
+Suuri-Vasarainen
+Suuripäänlampi
+Suvannonpyörre
+Suvantolampi
+Synsiö
+Syrjä-Uramolampi
+Syvä-Paavila
+Syvänjärvi
+Syvänlahdenjärvi
+Syymälammit
+Taaveeb Elijävri
+Tahinlampi
+Taivallammit
+Taka-Myllylampi
+Takavaaranlampi
+Talliskotalampi
+Talviaisjärvi
+Talviaislammit
+Tammioträsket
+Tammukkalompola
+Tanikka
+Tankojärvi
+Tänkynjärvi
+Tapaturmalampi
+Tarasjärvi
+Tarhavesi
+Tarkanlahti
+Taruslampi
+Tarvoojävri
+Teirijärvi
+Tenhulampi
+Teponsärkänlampi
+Terättömänlampi
+Terva-Alanen
+Terva-Valkiainen
+Teyrilampi
+Tiirinlampi
+Tiironjärvi
+Tikanpyrstölampi
+Tikunampumajärvi
+Timisjärvi
+Tinttolanlampi
+Tirvanjärvi
+Tjusträsk
+Tohmajärvi
+Toinen Hakolampi
+Toivas
+Tokkalampi
+Tokrajärvi
+Toramolampi
+Torho
+Torilammi
+Torjulampi
+Torkolantto
+Torlampi
+Trädträsket
+Trångsundsträsket
+Träskbyträsket
+Trindsjö
+Tseuhu
+Tsiikonlampi
+Tuherrus
+Tuikkanen
+Tukkimalampi
+Tulkajärvi
+Tulkaselänlampi
+Tullujärvi
+Tuohilammi
+Tuorpumajärvi
+Tupakkilampi
+Tupejávrááh
+Tupelááduš
+Tuppi-Valkeinen
+Turvelompolat
+Tutulampi
+Tvärasjön
+Tyeljiläppimjáávráš
+Työläjärvi
+Tyyppälänjärvi
+Uasjärvi
+Uáđđiveijáávráš
+Uccâ Ruávijáávráš
+Uilo
+Uitusjärvi
+Ukonmurronlammit
+Ukonselkä
+Ulâšjävrnuorttiibelnláddu
+Uljasjärvi
+Ulkan Valkea
+Ulkan Valkeat
+Ulkkalammit
+Ulppaanlampi
+Unilampi
+Unna Láhkkejávri
+Untilanlammi
+Uppijärvet
+Uprinlampi
+Urasjärvi
+Uu'ccab Tiujajäu'rr
+Uudenraivionlampi
+Uuhijärvi
+Uulantto
+Uurainen
+Vaahonlampi
+Vääjäjärvi
+Vaakkolammi
+Vaaksinjärvi
+Vaamenseisomajärvi
+Vaassilanlampi
+Vähä Katisjärvi
+Vähä Kivilampi
+Vähä Korpijärvi
+Vähä Korpilampi
+Vähä Kuoppalampi
+Vähä Pesäjärvi
+Vähä Petääjärvi
+Vähä Pöytjärvi
+Vähä Ruonajärvi
+Vähä Savijärvi
+Vähä Säynätjärvi
+Vähä Silmälammi
+Vähä-Kaita
+Vähä-Karvia
+Vähä-Mäntynen
+Vähä-Musti
+Vähä-Suorsa
+Vähä-Törmänki
+Vähälompolo
+Vaikoslampi
+Välinen
+Valkea-Olhavi
+Valkeislammi
+Valkeistenlampi
+Valkoinen Penkkijärvi
+Vallolampi
+Vällskog Långträsk
+Vanginlampi
+Vänkälänjärvi
+Vanttausjärvi
+Varastinlammit
+Varpolampi
+Varrenlammi
+Varvikkolampi
+Vasa-aavanlampi
+Vasalaisenlammit
+Vasaluomat
+Vaskonpyytämälampi
+Västra Långträsket
+Vatsianjärvi
+Veajetláttu
+Vehkapotti
+Velisjärvi
+Venakkolammit
+Vene-Saahkari
+Vennonlampi
+Venttijäu'rr
+Verlampi
+Verukkaanlampi
+Vesamo
+Vesankajärvi
+Vesantojärvi
+Vesijako
+Veskanlampi
+Vierusjärvi
+Viheltäjänlampi
+Vihkimälampi
+Vihtaminlampi
+Vihtosenjärvi
+Viinajärvi
+Viinikanjärvi
+Viininlampi
+Viirilampi
+Viisloppinen
+Viita-Lauas
+Viitavaaranlampi
+Viittilampi
+Vikenvihkimälammit
+Viljonlampi
+Vilpusjärvi
+Vilunen
+Vinappa Träsket
+Viranlampi
+Virkkunen
+Virnejärvi
+Virraslammit
+Virtainlampi
+Virtavuopio
+Vitajärvi
+Vitelijärvet
+Vitikkotunturinlampi
+Vitsjö Valkojärvi
+Voitilanjärvi
+Vuolit Bierfejávri
+Vuolit Geatkejávri
+Vuorâšjävri
+Vuorenselkä
+Vuorgočearjávri
+Vuossijärvi
+Vuottešjávri
+Vustenjávri
+Vyeleeb Suárvvuámáákeejijävri
+Vyyhtijärvi
+Yimmäinen Koutelolampi
+Ylä Potkunjärvi
+Ylä-Ahmonen
+Ylä-Haajainen
+Ylä-Kailanen
+Ylä-Kerätti
+Ylä-Koivenlampi
+Ylä-Koivulampi
+Ylä-Kyynelmys
+Ylä-Metsälampi
+Ylä-Mutajärvi
+Ylä-Peluukki
+Ylä-Sallaajärvi
+Ylä-Säynätjärvi
+Ylä-Siili
+Ylä-Sullampi
+Ylä-Vehkolampi
+Ylä-Vuoli
+Ylemmäisjärvi
+Ylempi Lauttajärvi
+Ylempi Pierkivaaranjärvi
+Yli Kuohunkijärvi
+Yli-Ahvenlampi
+Yli-Pirttilampi
+Yli-Räinänlampi
+Yli-Särkinen
+Ylimmäinen Häähnijärvi
+Ylimmäinen Hautalampi
+Ylimmäinen Kursunlatvalampi
+Ylimmäinen Latvalampi
+Ylimmäinen Ruotinjärvi
+Ylimmäinen Saralampi
+Ylimmäinen Tuolpujärvi
+Ylimmäinen Umpilampi
+Ylimmäinen Vähälampi
+Ylimmäinen Vuottojärvi
+Ylimmäinen-Kylliö
+Ylimmäinenjärvi
+Ylimmäislammi
+Ylinen Kienajajärvi
+Ylinen Lompolojärvi
+Ylinen Löytölampi
+Ylinen Rautjärvi
+Ylinen Savijärvi
+Ylinenriipi
+Ylönen
+Ympyriäinen
+Ypykänlampi
+Yrjänänlampi
+Yrjönselkä

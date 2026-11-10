@@ -1,0 +1,5000 @@
+Újtelep	80
+Öreghegy	43
+Újmajor	32
+Újhegy	30
+Nagytanya	28
+Kistanya	26
+Kovácstanya	22
+Máriamajor	21
+Kishegy	20
+Szabótanya	18
+Vargatanya	18
+Felsőmajor	17
+Istvánmajor	16
+Józsefmajor	16
+Jánosmajor	15
+Lászlómajor	15
+Oncsatelep	15
+Molnártanya	14
+Tóthtanya	14
+Halastó	13
+Alsómajor	12
+Baloghtanya	12
+Bányatelep	12
+Hegy	12
+Horváthtanya	12
+Pálmajor	12
+Alsóhegy	11
+Annamajor	11
+Lajosmajor	11
+Rózsamajor	11
+Sándormajor	11
+Györgymajor	10
+Kispuszta	10
+Újtanya	10
+Aranyhegy	9
+Feketetanya	9
+Felsőhegy	9
+Fodortanya	9
+Homokdűlő	9
+Ilonamajor	9
+Imremajor	9
+Kendergyár	9
+Kisstanya	9
+Miklósmajor	9
+Öregszőlő	9
+Papptanya	9
+Sziget	9
+Újszőlő	9
+Verestanya	9
+Világospuszta	9
+Antalmajor	8
+Farkastanya	8
+Felsőmalom	8
+Juhásztanya	8
+Károlymajor	8
+Nagyhegy	8
+Sándortanya	8
+Szűcstanya	8
+Telek	8
+Vitéztelek	8
+Dénesmajor	7
+Erzsébetmajor	7
+Ferencmajor	7
+Hegedűstanya	7
+Kismalom	7
+Kistag	7
+Kistelek	7
+Rácztanya	7
+Szilágyitanya	7
+Alsóerdő	6
+Berek	6
+Diós	6
+Erzsébetpuszta	6
+Feketehalom	6
+Ferenctanya	6
+Határdűlő	6
+Kiserdő	6
+Kisrét	6
+Lászlótanya	6
+Magyartanya	6
+Mészárostanya	6
+Paptanya	6
+Újpuszta	6
+Vitézitelek	6
+Almáspuszta	5
+Alsómalom	5
+Alsópuszta	5
+Alsótanya	5
+Alsótanyák	5
+Aranyos	5
+Aranyospuszta	5
+Belmajor	5
+Csehipuszta	5
+Cser	5
+Cserepes	5
+Csillagmajor	5
+Dióspuszta	5
+Dunapart	5
+Előhegy	5
+Gáltanya	5
+Gizellamajor	5
+Gyulamajor	5
+Háromház	5
+Hidegkút	5
+Jánosházapuszta	5
+Jármytanya	5
+Júliamajor	5
+Károlyitanya	5
+Katalinpuszta	5
+Katonatanya	5
+Kecskéstanya	5
+Keresztdűlő	5
+Kláramajor	5
+Lajostanya	5
+Ligettanya	5
+Malomdűlő	5
+Malomtelep	5
+Margitmajor	5
+Miklóstanya	5
+Nagylapos	5
+Nagysziget	5
+Nándormajor	5
+Öregszőllő	5
+Örömhegy	5
+Paprét	5
+Rákóczitelep	5
+Rétitanya	5
+Szarkatanya	5
+Szentgyörgypuszta	5
+Szentmihálypuszta	5
+Szilos	5
+Szőketanya	5
+Szőllőtelep	5
+Tartanya	5
+Temetődűlő	5
+Újfalu	5
+Vaskapu	5
+Vénkert	5
+Vincetanya	5
+Vitéztelep	5
+Andrástanya	4
+Antalhegy	4
+Antóniamajor	4
+Apátipuszta	4
+Bakótanya	4
+Balázstanya	4
+Békás	4
+Bélamajor	4
+Bélatanya	4
+Bírótanya	4
+Borbélytanya	4
+Csárdamajor	4
+Csárdapuszta	4
+Cserepestanya	4
+Cserhátpuszta	4
+Csermajor	4
+Csikójárás	4
+Dinnyés	4
+Dobostanya	4
+Dózsatelep	4
+Emmamajor	4
+Erdőtanya	4
+Fánimajor	4
+Fatelep	4
+Fehértanya	4
+Fehértó	4
+Felsőjárás	4
+Felsőpuszta	4
+Felsőtanya	4
+Felsőtanyák	4
+Füzestanya	4
+Gaáltanya	4
+Győritanya	4
+Halásztanya	4
+Hármashatár	4
+Hegyalja	4
+Hosszúdűlő	4
+Hosszúhát	4
+Istvántanya	4
+Jékeytanya	4
+Józsatanya	4
+Kápolna	4
+Kastély	4
+Kavicsbánya	4
+Kőbánya	4
+Kőhegy	4
+Középmalom	4
+Kutas	4
+Lajosháza	4
+Malmok	4
+Máriahegy	4
+Medvetanya	4
+Nagyállás	4
+Nagyerdő	4
+Nagyhomok	4
+Nagymajor	4
+Nagyrét	4
+Oláhtanya	4
+Öregerdő	4
+Öregszőlők	4
+Orosztanya	4
+Pálházapuszta	4
+Páskom	4
+Perespuszta	4
+Rákositelep	4
+Rétidűlő	4
+Sándorpuszta	4
+Simontanya	4
+Sipostanya	4
+Somogyitanya	4
+Sóstó	4
+Szigettanya	4
+Szilvás	4
+Szivattyútelep	4
+Terézmajor	4
+Tisztviselőtelep	4
+Újsor	4
+Ürgemajor	4
+Várhegy	4
+Vásártér	4
+Vilmosmajor	4
+Zöldhalom	4
+Zsindelyestanya	4
+Ácstanya	3
+Ádámtanya	3
+Alsódűlő	3
+Alsójárás	3
+Alsórét	3
+Alsószállás	3
+Andormajor	3
+Antalpuszta	3
+Árpádtelep	3
+Bálinttanya	3
+Bánomkert	3
+Baytanya	3
+Belsőmajor	3
+Berekalja	3
+Bikaház	3
+Bóditanya	3
+Borjád	3
+Bucka	3
+Bükkpuszta	3
+Ciframajor	3
+Ciframalom	3
+Cigánysor	3
+Csáktanya	3
+Csalitmajor	3
+Csárda	3
+Csárdadűlő	3
+Csendestanya	3
+Cseripuszta	3
+Cservölgy	3
+Csikósház	3
+Csillaghegy	3
+Csontostanya	3
+Csorbatanya	3
+Csordajárás	3
+Csordakút	3
+Csurgó	3
+Darvastanya	3
+Deáktanya	3
+Dessewffytanya	3
+Dózsamajor	3
+Erdő	3
+Erdőföld	3
+Erdőmajor	3
+Ernőmajor	3
+Erzsébettanya	3
+Erzsébettelep	3
+Etelmajor	3
+Fácánkert	3
+Faragótanya	3
+Farkashegy	3
+Feketedűlő	3
+Felsőrét	3
+Felsőszentiván	3
+Fenékdűlő	3
+Fertő	3
+Forrástanya	3
+Frigyesmajor	3
+Fülöpmajor	3
+Fürdőtelep	3
+Fűrésztelep	3
+Füzesdűlő	3
+Galagonyás	3
+Galambospuszta	3
+Gesztenyés	3
+Gézamajor	3
+Gőböljárás	3
+Gyékényes	3
+Gyertyánospuszta	3
+Gyűrűspuszta	3
+Halastópuszta	3
+Halesz	3
+Haraszt	3
+Hard	3
+Hármas	3
+Homok	3
+Homokpuszta	3
+Homoktanya	3
+Horváttanya	3
+Hosszúhegy	3
+Hosszúvölgy	3
+Idamajor	3
+Iharos	3
+Ilonatanya	3
+Ipartelep	3
+Irmatanya	3
+Irtáspuszta	3
+Jakabszállás	3
+Jakabtanya	3
+Jeneytanya	3
+Kálmántanya	3
+Kálvária	3
+Kápolnatanya	3
+Katalinmajor	3
+Kecskés	3
+Kecskésdűlő	3
+Kerektó	3
+Kertalja	3
+Kincsestanya	3
+Kisfalud	3
+Kisgyep	3
+Kismajor	3
+Kisperjés	3
+Kisszőllős	3
+Kocsistanya	3
+Kőkút	3
+Kőkútpuszta	3
+Kőmalom	3
+Kopaszhegy	3
+Koplalótanya	3
+Körtvélyes	3
+Köveshegy	3
+Községi Erdő	3
+Külmajor	3
+Külsőmajor	3
+Kuntanya	3
+Kútvölgy	3
+Laposdűlő	3
+Lapostanya	3
+Látóhegy	3
+Lencséstanya	3
+Ligetpuszta	3
+Lőrinctanya	3
+Major	3
+Malom	3
+Máriapuszta	3
+Máriatanya	3
+Máriatelep	3
+Máthétanya	3
+Matildmajor	3
+Meggyespuszta	3
+Méntelep	3
+Messzelátó	3
+Miklóspuszta	3
+Mindszentpuszta	3
+Nádasdűlő	3
+Nagytelek	3
+Nagyvölgy	3
+Nyírjes	3
+Nyomás	3
+Óhegy	3
+Ószőlő	3
+Pallagpuszta	3
+Paphegy	3
+Paptag	3
+Páskum	3
+Pétermajor	3
+Petőfitelep	3
+Pincesor	3
+Pogányvár	3
+Rácztag	3
+Rédeitanya	3
+Rétimalom	3
+Rókás	3
+Rózsahegy	3
+Rózsástanya	3
+Rudolfmajor	3
+Ságpuszta	3
+Sáripuszta	3
+Sashalom	3
+Sinkatanya	3
+Soóspuszta	3
+Surányitanya	3
+Szabóhegy	3
+Szalaitanya	3
+Szárazrét	3
+Szarkás	3
+Szarkavár	3
+Szarvashegy	3
+Szarvaspuszta	3
+Szekerestanya	3
+Szenna	3
+Szentgyörgy	3
+Szentimretelep	3
+Szentkirály	3
+Szentmártonpuszta	3
+Szeszgyártanya	3
+Szigetmajor	3
+Szluhapuszta	3
+Szőllőskert	3
+Szőlőkalja	3
+Szőlőskert	3
+Szőlőtelep	3
+Szúnyogmajor	3
+Takácstanya	3
+Telekipuszta	3
+Telekpuszta	3
+Tölösmajor	3
+Töröktanya	3
+Tükröspuszta	3
+Tuskós	3
+Tuskóspuszta	3
+Ugar	3
+Ugaritanyák	3
+Újerdő	3
+Újváritanya	3
+Vadaskert	3
+Vágóhíd	3
+Vajdatanya	3
+Vashegy	3
+Vécseytanya	3
+Viktormajor	3
+Világos	3
+Világostanya	3
+Villanytelep	3
+Virághegy	3
+Vörösmajor	3
+Weisztanya	3
+Ács	2
+Adorjánpuszta	2
+Adorjántanya	2
+Ágostonmajor	2
+Ágostonpuszta	2
+Akasztó	2
+Aladármajor	2
+Alatka	2
+Almajor	2
+Almár	2
+Almás	2
+Almásytanya	2
+Álomzug	2
+Alsóbesnyő	2
+Alsócserpuszta	2
+Alsólög	2
+Alsómező	2
+Alsónyomás	2
+Alsószentiván	2
+Alsószőllő	2
+Angyaltanya	2
+Annakert	2
+Annatanya	2
+Antaltanya	2
+Aranyág	2
+Árpádmajor	2
+Árvaitanya	2
+Asszonyvár	2
+Ásvány	2
+Átokháza	2
+Avashegy	2
+Avaspuszta	2
+Babat	2
+Bacsótelep	2
+Bag	2
+Bagolyvár	2
+Bagolyvártanya	2
+Bagótanya	2
+Baksa	2
+Balázspuszta	2
+Ballatanya	2
+Bálványos	2
+Bánhalma	2
+Bánk	2
+Bánomhegy	2
+Bánomszőlő	2
+Bányahegy	2
+Bányaitanya	2
+Bányavölgy	2
+Baracs	2
+Baranyitanya	2
+Barapuszta	2
+Baráthtanya	2
+Barócsitanya	2
+Bartatanya	2
+Barthatanya	2
+Báthoritanya	2
+Battatanya	2
+Battyánpuszta	2
+Békedűlő	2
+Bélatelep	2
+Belsőhegy	2
+Belsőtanyák	2
+Beregtanya	2
+Berekhát	2
+Berekmajor	2
+Berektanya	2
+Bérestanya	2
+Beretváspuszta	2
+Berke	2
+Beszterec	2
+Birkamajor	2
+Blautanya	2
+Bobvosdűlő	2
+Bocskorér	2
+Bodatanya	2
+Bodnártanya	2
+Bodonkút	2
+Bodorfa	2
+Bogárzótanya	2
+Bögöte	2
+Bökény	2
+Bokod	2
+Bokros	2
+Bolgárkert	2
+Bozsok	2
+Brauntanya	2
+Buda	2
+Budaihegy	2
+Büdöskútpuszta	2
+Búslakpuszta	2
+Cédulaház	2
+Christophtanya	2
+Cibak	2
+Cikkelytanya	2
+Csabberekpuszta	2
+Csalit	2
+Csapódűlő	2
+Csárdamalom	2
+Császártanya	2
+Cseberér	2
+Csehtanya	2
+Csépánytanya	2
+Cseralja	2
+Cserepesitanyák	2
+Cserhát	2
+Cserhátdűlő	2
+Cserhátmajor	2
+Cseritanya	2
+Csicsó	2
+Csiderberek	2
+Csikótelep	2
+Csillagostanya	2
+Csillagpuszta	2
+Csillagtanya	2
+Csiripmajor	2
+Csobánka	2
+Csóka	2
+Csókáspuszta	2
+Csókástanya	2
+Csóktanya	2
+Csollányospuszta	2
+Csongrád	2
+Csonkástanya	2
+Csonkatanya	2
+Csorbaoldal	2
+Csorna	2
+Csúcsdűlő	2
+Csurgópuszta	2
+Darnó	2
+Daruhegy	2
+Darvas	2
+Derecske	2
+Dióstelep	2
+Dobospuszta	2
+Doboz	2
+Dögtér	2
+Dóratanya	2
+Dorgó	2
+Dorogpuszta	2
+Dózsatag	2
+Dudástanya	2
+Dunasziget	2
+Dusnok	2
+Ebhegy	2
+Ecseditanya	2
+Egerszegpuszta	2
+Egri Úti Dűlő	2
+Egyháztanya	2
+Ékestanya	2
+Elekpuszta	2
+Elemérpuszta	2
+Emmatanya	2
+Eperjestanya	2
+Epreskert	2
+Erdőalja	2
+Erdődűlő	2
+Erdőslak	2
+Erdőtelek	2
+Ereszvény	2
+Erőstanya	2
+Érpart	2
+Erzsébet	2
+Erzsébetváros	2
+Fábiántanya	2
+Faluhely	2
+Faluvég	2
+Farkasdűlő	2
+Farkashalom	2
+Farkasmajor	2
+Farkassziget	2
+Farkasvölgy	2
+Fáytanya	2
+Feked	2
+Feketemajor	2
+Feketepuszta	2
+Feketerét	2
+Félhalom	2
+Felsőbesnyő	2
+Felsőerdő	2
+Felsőfarkasd	2
+Felsőföld	2
+Felsőgyótapuszta	2
+Felsőhék	2
+Felsőmező	2
+Felsőnyomás	2
+Felsőtag	2
+Felsőtelep	2
+Fényestanya	2
+Fenyves	2
+Fenyvesdűlő	2
+Fenyvesmajor	2
+Fenyvespuszta	2
+Ferencitanya	2
+Flóramajor	2
+Foglalás	2
+Földvárpuszta	2
+Forrás	2
+Friedtanya	2
+Fuchstanya	2
+Fülöptanya	2
+Fürdősdűlő	2
+Fürdőtanya	2
+Fűtelekimajor	2
+Füzesér	2
+Fűzfás	2
+Gabonás	2
+Gábormajor	2
+Galambos	2
+Galambostanya	2
+Garadna	2
+Garaitanya	2
+Garastanya	2
+Gátér	2
+Gerendás	2
+Gerje	2
+Gézaháza	2
+Gizellatanya	2
+Gizellatelep	2
+Gólyástanya	2
+Gólyatanya	2
+Gombáspuszta	2
+Görbeér	2
+Görbetanya	2
+Görögkatolikus Egyház-tanya	2
+Görögtanya	2
+Grósztanya	2
+Gulácsytanya	2
+Gulyástanya	2
+Gyapa	2
+Gyármajor	2
+Gyártelep	2
+Gyengetanya	2
+Gyepmestertelep	2
+Gyevitanyák	2
+Gyilkostanya	2
+Gyöngytanya	2
+Gyótapuszta	2
+Gyulaháza	2
+Gyulahegy	2
+Gyulapuszta	2
+Gyulatanya	2
+Halas	2
+Halasitanya	2
+Halászdűlő	2
+Halászház	2
+Halásztelek	2
+Halesztanya	2
+Halmitanya	2
+Hangács	2
+Hangácsdűlő	2
+Hantháza	2
+Harangod	2
+Harasztitanya	2
+Harkályhegy	2
+Határtanyák	2
+Hatház	2
+Hatrongyos	2
+Hatvanpuszta	2
+Hegyitanya	2
+Hercegtanya	2
+Hermanntanya	2
+Héthalom	2
+Hidas	2
+Hőgyetanya	2
+Homokbánya	2
+Homoki Szőllőskert	2
+Homokitanya	2
+Hort	2
+Hosszúhátdűlő	2
+Hosszúrét	2
+Idapuszta	2
+Idatanya	2
+Igalpuszta	2
+Igar	2
+Ilimány	2
+Ilkamajor	2
+Ilkapuszta	2
+Ilmamajor	2
+Inoka	2
+Irénmajor	2
+Irinyitanya	2
+Irmamajor	2
+Irmapuszta	2
+Irtástanya	2
+Iskoladűlő	2
+Istvánháza	2
+Ivánkapuszta	2
+Jánosháza	2
+Jánostanya	2
+Jásztelek	2
+Jeneitanya	2
+Jenő	2
+Jenőmajor	2
+Jenőpuszta	2
+Jónástanya	2
+Józsefhegy	2
+Józsefpuszta	2
+Józseftanya	2
+Kaján	2
+Kajdytanya	2
+Kákás	2
+Kakasmajor	2
+Kakastanya	2
+Kalapostanya	2
+Kállaytanya	2
+Kálmánmajor	2
+Kálvária Dűlő	2
+Kalyditanya	2
+Kapitányrét	2
+Kapitánytanya	2
+Kápolnadűlő	2
+Kápolnahegy	2
+Kaposhomok	2
+Káposztásdűlő	2
+Káptalandűlő	2
+Káptalanmajor	2
+Káptalantanya	2
+Karácsond	2
+Karakó	2
+Kardos	2
+Kardosdűlő	2
+Karolinamajor	2
+Károlyháza	2
+Károlyházapuszta	2
+Kaszáló	2
+Katymár	2
+Kecskemétitanya	2
+Kélespuszta	2
+Kemenespuszta	2
+Kenderes	2
+Kenderföld	2
+Kenderföldek	2
+Kenyerestanya	2
+Kerekdomb	2
+Kerekestanya	2
+Kerékgyártótanya	2
+Kereki	2
+Kerektanya	2
+Keresztesitanya	2
+Keresztespuszta	2
+Keresztmajor	2
+Kernye	2
+Kertaljadűlő	2
+Kertésztanya	2
+Keszlertanya	2
+Kéthalom	2
+Kétpó	2
+Kettőscsárda	2
+Kígyós	2
+Kígyóspart	2
+Kígyóspuszta	2
+Kilences	2
+Királyhalom	2
+Királyhegy	2
+Királyrét	2
+Királytanya	2
+Kisbucsa	2
+Kiscsonkás	2
+Kisdér	2
+Kiserdőpuszta	2
+Kisfaludpuszta	2
+Kisfástanya	2
+Kisgéc	2
+Kishalom	2
+Kishantos	2
+Kisház	2
+Kiskeresztúr	2
+Kiskúria	2
+Kismegyer	2
+Kismező	2
+Kismezőpuszta	2
+Kismezőtanya	2
+Kisnyomás	2
+Kispart	2
+Kispáskom	2
+Kissziget	2
+Kisszőlős	2
+Kistelep	2
+Kochtanya	2
+Kódertanya	2
+Kőgyes	2
+Kőhegydűlő	2
+Kökényespuszta	2
+Konta	2
+Koplaló	2
+Korlát	2
+Körmenditanya	2
+Körtvélyesmajor	2
+Körtvélyespuszta	2
+Kósatanya	2
+Kossuthkert	2
+Kossuthtelep	2
+Kovácsdűlő	2
+Kovácstag	2
+Kövecses	2
+Középdűlő	2
+Középhalom	2
+Középmajor	2
+Középsőmalom	2
+Községi Tanya	2
+Kubinyitanya	2
+Külsőhegy	2
+Kunlapos	2
+Kúria	2
+Kutaspuszta	2
+Kútidűlő	2
+Lajostelep	2
+Lakatostanya	2
+Landord	2
+Lángtanya	2
+Lapistó	2
+Lászlótelep	2
+Leányvár	2
+Ledinadűlő	2
+Legelődűlő	2
+Legelőszél	2
+Lehnerpuszta	2
+Lencsenpuszta	2
+Lengyeltanya	2
+Liget	2
+Ligetitanya	2
+Lókpuszta	2
+Ludas	2
+Ludasdűlő	2
+Ludastanya	2
+Ludastó	2
+Lujzamajor	2
+Lukácstanya	2
+Macsugatanya	2
+Madaras	2
+Madarassytanya	2
+Magashegy	2
+Majorostanya	2
+Majortanya	2
+Makkpuszta	2
+Makótanya	2
+Malachegy	2
+Malomhegy	2
+Malomtanya	2
+Mályvás	2
+Margittanya	2
+Máriavölgy	2
+Mariskapuszta	2
+Markovicstanya	2
+Márkustanya	2
+Mártatanya	2
+Martonfa	2
+Mártonhegy	2
+Matesztanya	2
+Meggyeskovácsi	2
+Megyer	2
+Méhestanya	2
+Meleghegy	2
+Melegoldal	2
+Messzelátódűlő	2
+Mezőssytanya	2
+Mihályháza	2
+Mihálymajor	2
+Mihálytanya	2
+Miklósvár	2
+Miksamajor	2
+Mindszent	2
+Mocsárospuszta	2
+Mocsolyástelep	2
+Mogyoróshegy	2
+Mogyoróstanya	2
+Monostoridűlő	2
+Morgó	2
+Móriczmajor	2
+Móriczpuszta	2
+Morvaytanya	2
+Munkástelep	2
+Muszáj	2
+Nádastó	2
+Nagy I-tanya	2
+Nagy S-tanya	2
+Nagyerdőtanya	2
+Nagyfenék	2
+Nagyhalom	2
+Nagyhalomdűlő	2
+Nagyház	2
+Nagymátétanya	2
+Nagymeződűlő	2
+Nagymezőpuszta	2
+Nagymezőtanya	2
+Nagynyomás	2
+Nagypáskom	2
+Nagypuszta	2
+Nagyrév	2
+Nagyszállás	2
+Nagyszékdűlő	2
+Nagyszéksós	2
+Nagyszőllő	2
+Nagyszőlő	2
+Nándorpuszta	2
+Négyessytanya	2
+Nelásdpuszta	2
+Némethtanya	2
+Németitanya	2
+Nógrádmegyer	2
+Noszlop	2
+Nyárfadűlő	2
+Nyergespuszta	2
+Nyírestanya	2
+Nyírjespuszta	2
+Nyirjestanya	2
+Ödönmajor	2
+Ökörjárás	2
+Okrádpuszta	2
+Olgamajor	2
+Orbántanya	2
+Ordas	2
+Öreghegydűlő	2
+Öregmajor	2
+Öregszőllők	2
+Orgoványidűlő	2
+Őrhegy	2
+Őrjeg	2
+Országútidűlő	2
+Ösvény	2
+Öszeszék	2
+Ószőllő	2
+Ószőlőskert	2
+Öthalom	2
+Ötvös	2
+Őzes	2
+Pacsa	2
+Pálffytanya	2
+Pálinkaházpuszta	2
+Pappuszta	2
+Papszékdűlő	2
+Parraghegy	2
+Parragpuszta	2
+Part	2
+Pásztortanya	2
+Patak	2
+Patakmalom	2
+Pereces	2
+Peres	2
+Pergertanya	2
+Perjés	2
+Peterdpuszta	2
+Péterfa	2
+Péterpuszta	2
+Petőfipuszta	2
+Petőfitanya	2
+Petrótanya	2
+Pettend	2
+Pincevölgy	2
+Piroskatanya	2
+Pirosmajor	2
+Polgárdi	2
+Póstelek	2
+Puszta	2
+Pusztadűlő	2
+Pusztaszentgyörgy	2
+Putrimajor	2
+Ráczdűlő	2
+Radópuszta	2
+Rákóczikert	2
+Rákóczitanya	2
+Rákostanya	2
+Rakottyás	2
+Ráthpuszta	2
+Rátka	2
+Remete	2
+Rét	2
+Rétalja	2
+Rétimajor	2
+Rétipuszta	2
+Rétitanyák	2
+Révfalu	2
+Richárdmajor	2
+Rigópuszta	2
+Rigótanya	2
+Rókalyuk	2
+Rókalyukasdűlő	2
+Rókalyukdűlő	2
+Rosszmalom	2
+Röviddűlő	2
+Rózsapuszta	2
+Rózsás	2
+Rózsatanya	2
+Sághegy	2
+Sánc	2
+Sándorháza	2
+Sándorházapuszta	2
+Sándorszállás	2
+Sáp	2
+Sarlaymajor	2
+Saroltapuszta	2
+Sashegy	2
+Schwartztanya	2
+Selyemmajor	2
+Sikátor	2
+Simonmajor	2
+Somodorpuszta	2
+Somoshegy	2
+Sopronkőhida	2
+Sőreföld	2
+Sóskút	2
+Sóstanya	2
+Sporttelep	2
+Sterntanya	2
+Sűrűpuszta	2
+Sütőtanya	2
+Szabadhegy	2
+Szabadságtanya	2
+Szabás	2
+Szabolcsitanya	2
+Szabótag	2
+Szalajkaház	2
+Szalmástanya	2
+Szalontaitanya	2
+Szántóhalomtanya	2
+Szarkahegy	2
+Szarvastanya	2
+Széchenyitelep	2
+Székelytanya	2
+Székelytelep	2
+Székes	2
+Székhalom	2
+Szelestanya	2
+Szélestanya	2
+Szemeretanya	2
+Szentbenedek	2
+Szentimrepuszta	2
+Szentistvánmajor	2
+Szentivánpuszta	2
+Szentkeresztpuszta	2
+Szentkút	2
+Szentkútpuszta	2
+Szentlászló	2
+Szentlászlóhegy	2
+Szentlászlópuszta	2
+Szentpálpuszta	2
+Szenttamáspuszta	2
+Szepesitanya	2
+Szigetitanya	2
+Szigetpuszta	2
+Szilágy	2
+Szilaspuszta	2
+Szilvágy	2
+Szilvásitanya	2
+Szlatinapuszta	2
+Szoboszlaitanya	2
+Szőkepuszta	2
+Szőllőkert	2
+Szőllősitanya	2
+Szőllőspuszta	2
+Szőllőtanya	2
+Szőrhalom	2
+Szőröspuszta	2
+Szűcsdűlő	2
+Tag	2
+Takácshegy	2
+Tápió	2
+Tarcsapuszta	2
+Tarján	2
+Tarjánpuszta	2
+Tarnóca	2
+Tegehalom	2
+Téglaégető	2
+Téglagyár	2
+Téglatelep	2
+Téglavetődűlő	2
+Telekdűlő	2
+Telekföld	2
+Teleki	2
+Teréziamajor	2
+Tetétlen	2
+Thalypuszta	2
+Tibolapuszta	2
+Tischlertanya	2
+Tiszahíd	2
+Tisztavíz	2
+Tófalu	2
+Tóköz	2
+Tölgyestanya	2
+Tölgyfástanya	2
+Tölös	2
+Tormás	2
+Tótfalupuszta	2
+Tóthegy	2
+Tótihegy	2
+Tótújfalu	2
+Töviskes	2
+Tőzegtelep	2
+Tüskésmajor	2
+Tüskéspuszta	2
+Újföld	2
+Újházmajor	2
+Újhegyi Szőllők	2
+Újistálló	2
+Újkiosztás	2
+Újkútpuszta	2
+Újosztás	2
+Újszőllő	2
+Újvölgy	2
+Ürgehegy	2
+Ürmöshát	2
+Vadas	2
+Vadaspuszta	2
+Vajastanya	2
+Várad	2
+Váralja	2
+Várdomb	2
+Vargahegy	2
+Varjas	2
+Várkonyitanya	2
+Vasastanya	2
+Vaskapupuszta	2
+Vasútdűlő	2
+Vattaitanya	2
+Véghtanya	2
+Velence	2
+Veresegyház	2
+Veresháztanya	2
+Veresstanya	2
+Vicziántanya	2
+Vidatanya	2
+Vilmatanya	2
+Virághtanya	2
+Virágos	2
+Virágospuszta	2
+Virágtanya	2
+Vitéztanya	2
+Vityitag	2
+Vizsoly	2
+Víztelep	2
+Vöröshegy	2
+Vöröstelep	2
+Zagyvapart	2
+Zákány	2
+Zöldmajor	2
+Zoltántanya	2
+Zsellérerdő	2
+Zsírostanya	2
+Zsobrák	2
+Á-akna
+Aba
+Abádszalók
+Abaliget
+Abasár
+Abaújalpár
+Abaújkér
+Abaújlak
+Abaújszántó
+Abaújszolnok
+Abaújvár
+Abda
+Abod
+Abony
+Ábrahámhegy
+Ábránd
+Acsa
+Acsád
+Acsádi Malom
+Acsalag
+Acsaújlak
+Ácsteszér
+Ácsteszéripuszta
+Adács
+Adacsierdő
+Ádánd
+Adásztevel
+Adlerszőllős
+Adony
+Adorjánháza
+Adorjás
+Adyliget
+Ág
+Agárd
+Agárdi Villatelep
+Agárdidűlő
+Agárdytelep
+Ágasegyháza
+Ágerdő
+Ágfalva
+Aggtelek
+Ágói Patakdűlő
+Ágostontanya
+Agyagosszergény
+Ajak
+Ajka
+Ajtóshát
+Aka
+Akácásmajor
+Akadémiaújtelep
+Akasztódomb
+Akasztóhegyi Szőllő
+Alacska
+Alacskai úti lakótelep
+Alájáródűlő
+Alap
+Alattyán
+Albertfalva
+Albertirsa
+Alcsimillérlapos
+Alcsútdoboz
+Aldebrő
+Algyő
+Alibánfa
+Aligvárda
+Aligvármajor
+Aligváromtelep
+Állami Malom
+Állomástelep
+Almamellék
+Almásfüzitő
+Almásháza
+Almáskamarás
+Almáskeresztúr
+Almáskert
+Almáskúttanya
+Álmosd
+Alsóadacs
+Alsóbabád
+Alsóberecki
+Alsóbikád
+Alsóbogát
+Alsóbogátpuszta
+Alsócikola
+Alsócsatár
+Alsócsinger
+Alsócsólyos
+Alsódabrony
+Alsódélegyháza
+Alsódobsza
+Alsófarkasd
+Alsógagy
+Alsógólapuszta
+Alsóistvánd
+Alsókatalin-bányatelep
+Alsókovácsgyöp
+Alsómagyalos
+Alsómándpuszta
+Alsómarosd
+Alsómocsolád
+Alsónána
+Alsónémedi
+Alsónemesapáti
+Alsónyék
+Alsóörs
+Alsóörspuszta
+Alsópáhok
+Alsópakony
+Alsópetény
+Alsórajk
+Alsórákos
+Alsóregmec
+Alsósánc
+Alsósarlóspuszta
+Alsósashalomdűlő
+Alsósáskalapos
+Alsósima
+Alsósomlyó
+Alsószenterzsébet
+Alsószentkata
+Alsószentmárton
+Alsósziget
+Alsószölnök
+Alsószuha
+Alsótapazd
+Alsótelekes
+Alsótold
+Alsóújlak
+Alsóvadász
+Alsóvonyarc
+Alsóvrányos
+Alsózsolca
+Altáróbányatelep
+Altontanya
+Ambrózfalva
+Anarcs
+Andocs
+Andornaktálya
+Andrásfa
+Andráshida
+Andrásszállás
+Ánghely
+Angyaldomb
+Angyalföld
+Angyalossytanya
+Angyalostanya
+Annavölgy
+Annustanya
+Ános
+Antalbokor
+Antalfalutelep
+Antalfőpuszta
+Antalszállás
+Anyácsa
+Apácatorna
+Apafa
+Apagy
+Apaj
+Aparhant
+Apátfalva
+Apátistvánfalva
+Apátvarasd
+Apc
+Áporka
+Apostag
+Apsamajor
+Aquincum
+Aranyod
+Aranyosapáti
+Aranyoscsárda
+Aranyosd
+Aranyosgadány
+Aranyossziget
+Aranytó
+Ardapuszta
+Arka
+Árkusdűlő
+Arló
+Arnót
+Ároktő
+Árpádföld
+Árpádhalom
+Árpádtanya
+Árpás
+Ártánd
+Ásotthalom
+Asszúvölgyimajor
+Ásványráró
+Aszaló
+Aszalói Kistanya
+Aszalói Nagytanya
+Ászár
+Aszód
+Aszófő
+Áta
+Átakeleti Malom
+Átaleső
+Átány
+Atkár
+Attala
+Attilapuszta
+Babarc
+Babarcpuszta
+Babarcszőlős
+Babócsa
+Bábolna
+Bábonymegyer
+Babosdöbréte
+Babót
+Bacónakhegy
+Bácsa
+Bacsalapos
+Bácsalmás
+Bácsbokod
+Bácsborsód
+Bacsóháztanya
+Bácsszentagyörgyi Tanyák
+Bácsszentgyörgy
+Bácsszőlős
+Badacsonytomaj
+Badacsonytördemic
+Badertanya
+Baditzmajor
+Bádivölgy
+Bagamér
+Bagaméritanya
+Bagditanya
+Bagdytanya
+Baghyürbőpuszta
+Baglyosalja
+Baglyospuszta
+Bagóhegypuszta
+Bagólápatanya
+Bagosi Út
+Bagyaritanya
+Baj
+Baja
+Bajcstanya
+Bájibokor
+Bajna
+Bajontadűlő
+Bajót
+Bajpuszta
+Bak
+Bakatanya
+Bakbűzpuszta
+Bakóca
+Bakonszeg
+Bakonybánk
+Bakonybél
+Bakonycsernye
+Bakonyszentlászló
+Baks
+Baktalórántháza
+Baktergyepdűlő
+Balajt
+Balassagyarmat
+Balassatanya
+Balástya
+Balaton
+Balatonalmádi
+Balatonarács
+Balatonberény
+Balatonboglár
+Balatonfenyves
+Balatonfőkajári Tanyák
+Balatonföldvár
+Balatonfüred
+Balatongyörök
+Balatonhídvég
+Balatonkenese
+Balatonlelle
+Balatonmagyaród
+Balatonsomos
+Balatonszabadi
+Balatonszárszó
+Balatonszemes
+Balatonvilágos
+Bálistanya
+Balkány
+Balladűlő
+Ballai-tanya
+Ballószög
+Balmazújváros
+Baloghpuszta
+Balogtanya
+Balotaszállás
+Baltaráta
+Baltáserdő
+Baltási Szőllő
+Banagyepitanya
+Bánd
+Bangókert
+Bánhida
+Bánhorváti
+Bánierdő
+Bankháza
+Bánóczymajor
+Bánómajor
+Bánomszőllők
+Bánszállás
+Banya
+Barabáshegy
+Baracsi II Dűlő
+Baracska
+Barákapuszta
+Báránd
+Bárányfok
+Barátidűlő
+Barátipuszta
+Barátszilosdűlő
+Barátvölgyi Bányatelep
+Bárcitanya
+Barcs
+Bárdos
+Barkócás
+Barkóczytelep
+Barkótanya
+Barlahida
+Bárna
+Bárómajor
+Barótapuszta
+Bársonyos
+Bársonytanya
+Bartadűlő
+Bartal-puszta
+Bártanya
+Bártffaitanya
+Basal
+Basamalom
+Básthytag
+Báta
+Bátaapáti
+Bátaszék
+Báthorytanya
+Bátmonostor
+Batonhátitanya
+Bátonyterenye
+Bátorliget
+Battonya
+Battyánmajor
+Bátya
+Bauertanya
+Bauxitbánya
+Bazsi
+Becsehely
+Bécsi út
+Bécsitanya
+Becskeháza
+Béda
+Bede
+Bedegpuszta
+Békásmegyer
+Bekecs
+Bekefa
+Békeföldek
+Bekeháza
+Bekényitanya
+Bekenypuszta
+Békénypuszta
+Békés
+Békéscsaba
+Békéssámson
+Békésszentandrás
+Beketanya
+Bekkpuszta
+Bélapátfalva
+Belátó
+Bélavár
+Belecska
+Beled
+Belez
+Belezna
+Bellatanya
+Beloiannisz
+Belső Új Sor
+Belső-Ferencváros
+Belsőballószög
+Belsőjárandó
+Belsőrét
+Belsőrétitanyák
+Belsősárd
+Belsőtanya
+Belvárdgyula
+Bence József-tanya
+Bencevölgy
+Benedekdűlő
+Beneszél
+Benk
+Bénye
+Bér
+Bérbaltavár
+Bercel
+Berecztanya
+Beregdaróc
+Beregdaróci Tanya
+Beregsurány
+Beremend
+Berencsitanya
+Berencztanya
+Berente
+Berénybene
+Berényitanya
+Beret
+Berettyóújfalu
+Berezina
+Berhida
+Berkenye
+Berkenyés
+Berkestér
+Bérletitanyák
+Bersekbánya
+Bertalanffypuszta
+Bertalanmajor
+Berzáktanya
+Berzék
+Berzence
+Besenyőtelek
+Besenyszög
+Betekintspuszta
+Bezedek
+Bezenye
+Bezeréd
+Bézmalapja
+Biatorbágy
+Bicske
+Biglitanya
+Bihardancsháza
+Biharkeresztes
+Biharnagybajom
+Biharugrai Tanyák
+Bikahalom
+Bikal
+Bikapuszta
+Bikkvölgy
+Biklerföld
+Bindatag
+Binderpuszta
+Biritanya
+Birkaakoli Major
+Birkásházimajor
+Birkástanya
+Birketanya
+Birkógyümölcsös
+Blankamajor
+Bő
+Bobonyérpuszta
+Bochidjapuszta
+Bőcs
+Bócsa
+Boda
+Bodácstanya
+Bodajk
+Bódé
+Bőditanya
+Bödőhegy
+Bodolyabér
+Bodritanya
+Bódvalenke
+Bőfok
+Bogács
+Bogádmindszent
+Bogarasszőlő
+Bogdása
+Bögöt
+Bograpuszta
+Bogyiszló
+Bohácstag
+Böhönye
+Bojtostanya
+Bókatanya
+Bókaytelep
+Bokerdő
+Bököny
+Bokrospuszta
+Bölcske
+Boldog
+Boldva
+Bolgánypuszta
+Bolgártelep
+Bolhatanya
+Bolhó
+Bolondváritanya
+Bolváritanya
+Bóly
+Böntag
+Bónumitanyák
+Bőny
+Bonyhád
+Bonyhádvarasd
+Borbálatelep
+Borbánya László-csere
+Borbás
+Börcs
+Bordány
+Börgönd
+Borhyfelsőtanya
+Boriszházi Dűlő
+Borjajárás
+Börköskút
+Borockás
+Boronka
+Borostanya
+Borota
+Borsfa
+Borsodbóta
+Borsodgeszt
+Borsodnádasd
+Borsodszentgyörgy
+Borsodymajor
+Bory-vár
+Borzashegymajor
+Borzavár
+Borzoktanya
+Börzsöny
+Bősárkány
+Bosta
+Bőszénfa
+Boszintótanya
+Boszorkányhányás
+Botfa
+Bothmerpuszta
+Bottkamajor
+Bozsokihegy
+Brennbergbánya
+Brezovaitanya
+Brindzatanya
+Bucsa
+Bucsu
+Budafapuszta
+Budafok
+Budaházytanya
+Budai vár
+Budajenő
+Budakalász
+Budakeszi
+Budakeszierdő
+Budaörs
+Budapest
+Budapest I kerület
+Budapest II kerület
+Budapest III kerület
+Budapest IV kerület
+Budapest V kerület
+Budapest VI kerület
+Budapest VIII kerület
+Budapest XI kerület
+Budapest XII kerület
+Budapest XIII kerület
+Budapest XIX kerület
+Budapest XV kerület
+Budapest XVI kerület
+Budapest XVII kerület
+Budapest XVIII kerület
+Budapest XX kerület
+Budapest XXI kerület
+Budapest XXII kerület
+Budapest XXIII kerület
+Budatétény
+Büdösárok
+Büdöshegy
+Büdöstanya
+Bűdszentmihály
+Bugac
+Bugacpusztaháza
+Büglertanya
+Buglyótanya
+Bugyi
+Buhinpuszta
+Buj
+Buják
+Bük
+Bükkmogyorósd
+Bükkösd
+Bükkszék
+Bükkszentkereszt
+Bulátpuszta
+Bulgártanya
+Bundási Sor
+Bundaszárítószőlő
+Burkusdűlő
+Bürüs
+Bütetanya
+Butyka
+Buzbokor
+Buzsák
+Cakódűlő
+Cece
+Cegléd
+Ceglédbercel
+Ceglédi Úti Tanyák
+Ceglédpuszta
+Cékustanya
+Celldömölk
+Cered
+Cérnahát
+Chernelházadamonya
+Cibakháza
+Cifradűlő
+Cifrakert
+Cifrástanya
+Cigánd
+Cigánybokor
+Cigányér
+Cinderitanya
+Cinegevölgy
+Cinetanya
+Cinka
+Cinkota
+Ciperes
+Cirfuszmajor
+Cirkópuszta
+Citrahát
+Cobérpuszta
+Colhánypuszta
+Concóhát
+Corvinnegyed
+Cövektanya
+Csabagödör
+Csabapuszta
+Csabony
+Csabrendek
+Csaholyitanya
+Csákányszőllő
+Csákberény
+Csákhegy
+Csákvár
+Csala
+Csalaerdészlak
+Csalamalom
+Csalánostanya
+Csalatanya
+Csanádapáca
+Csanáditag
+Csanádpalota
+Csángó
+Csány
+Csanyikvölgy
+Csanytelek
+Csapod
+Csapómalom
+Csapótag
+Csárdakert
+Csárdazug
+Csarnoknegyed
+Császár
+Császárhegy
+Császárrét
+Császárréti Erdő
+Császártöltés
+Csátalja
+Csatár
+Csatárhegy
+Csatáritelep
+Csataszög
+Csátópuszta
+Csávoly
+Csebe
+Csécse
+Csekés
+Csekőtanya
+Cselehegy
+Cselőháza
+Csém
+Csemő
+Csemőtorok
+Csempeszkopács
+Csengele
+Csenger
+Csengeri Városi Szőllők
+Csengeriszél
+Csengersima
+Csengőd
+Csenkitanya
+Csénye
+Csenyéte
+Csép
+Csepel-Belváros
+Csepel-Csillagtelep
+Csepel-Erdősor
+Csepel-Háros
+Csepel-Kertváros
+Csepel-Királyerdő
+Csepel-Királymajor
+Csepel-Ófalu
+Csepel-Rózsadomb
+Csepel-Szabótelep
+Csepreg
+Csepreghytanya
+Cserdi
+Cserebökény
+Cserebókpuszta
+Cserénfa
+Cseréptó
+Cseretelep
+Cserhátszentiván
+Cserháttanya
+Csérihegy
+Csérimajor
+Cseringát
+Cseriszőllő
+Cserkeszőlő
+Cserkút
+Csermőke
+Csernely
+Csernusdűlő
+Cserpuszta
+Cserszegtomaj
+Csertanya
+Csesznek
+Csesztreg
+Csetehomok
+Csetény
+Csetnekitelep
+Csetrengtanya
+Csetridűlő
+Csevicekútpuszta
+Csicsásdűlő
+Csicsatér
+Csige
+Csigevár
+Csihari-hegy
+Csihontanya
+Csikéria
+Csikólegelő
+Csíkosdűlő
+Csikósitanya
+Csikóslapostanya
+Csikóstódűlő
+Csikvánd
+Csillagcsárda
+Csillagtanyák
+Csillebérc
+Csimatova
+Csinapuszta
+Csincse
+Csipkerek
+Csipkésszegtanya
+Csippánháza
+Csisztapuszta
+Csobaj
+Csócsahegy
+Csókakő
+Csókás
+Csökmő
+Csokonyavisonta
+Csokonyavisontai Tanya
+Csokvaomány
+Csolnok
+Csólyospálos
+Csomatag
+Csomatanya
+Csömödér
+Csomópatakitanya
+Csömör
+Csomorrésztanya
+Csongrádi Tanyák
+Csongrádvárosi Dűlő
+Csonkakőtanya
+Csonkamajor
+Csonkavölgy
+Csontoskert
+Csonttető
+Csopak
+Csöprönd
+Csór
+Csorbalók
+Csörke
+Csörötnek
+Csorvás
+Csörvölgy
+Csősz
+Csótapuszta
+Csottdűlő
+Csukás
+Csukásitanyák
+Csuktanya
+Csurgómalom
+Csuritanya
+Csürjetanya
+Cukorgyár
+Cukorgyártelep
+Cukrosdűlő
+Czuczákmajor
+Czumpftanya
+Czupytelep
+Dabas
+Dábótanya
+Dabrony
+Dad
+Dág
+Dáliugar
+Damak
+Dancsházitanya
+Dankóbokor
+Dánszentmiklós
+Dány
+Darálómalom
+Darányitanya
+Dargaitanya
+Daruszállás
+Dávid Sor
+Dáviddűlő
+Dávod
+Debrecen
+Debreceni Monostor
+Decs
+Dédestapolcsány
+Deérháza
+Dég
+Dejtár
+Délegyháza
+Deliház
+Demecser
+Demeház
+Demjénpuszta
+Dénesdmajor
+Dénesfa
+Dérczifölditanyák
+Derecskedűlő
+Derekegyház
+Derékhegy
+Deszk
+Dévaványa
+Devecser
+Dilitor
+Dimitrovkispuszta
+Dimitrovpuszta
+Dinnyeföld
+Dinnyéslapos
+Dinnyéstanya
+Dinnyészug
+Diófasori Újtelep
+Diósd
+Diósgyőr
+Diósjenő
+Dióstanya
+Dobina
+Dobogóhegy
+Dobogói Házak
+Doborgazsziget
+Döbörhegyi Major
+Döbrögpuszta
+Döbrököz
+Döbröntepuszta
+Döbrönteszőlőhegy
+Dobronyatanya
+Dóc
+Dóchegy
+Dóczimajor
+Dódipuszta
+Döge
+Dohánymajor
+Dohánytanya
+Doktortanya
+Dolhaytag
+Dollárrész
+Dollártanya
+Domaháza
+Domaszék
+Dombegyház
+Dombegyházi Út
+Domboripuszta
+Dombóvár
+Dombrád
+Domokosmajor
+Domonicstanya
+Domonkospuszta
+Domony
+Dömös
+Domoszló
+Dömsöd
+Dondorog
+Dör
+Dorog
+Doromlás
+Dőrytabód
+Dósaiúti Dűlő
+Dövény
+Dövényitanya
+Dózsa Károly-tanya
+Dragony
+Drágszél
+Drávacsepely
+Drávaszabolcs
+Drucskómalom
+Dubicsány
+Dudar
+Dűltfás
+Dunaalmás
+Dunabogdány
+Dunadűlői Tanyák
+Dunaegyháza
+Dunaerdei Dűlő
+Dunaföldvár
+Dunaharaszti
+Dunai Sziget
+Dunakeszi
+Dunakiliti
+Dunapataj
+Dunaremete
+Dunaszekcső
+Dunaszentbenedek
+Dunaszentgyörgy
+Dunaszentmiklós
+Dunatetétlen
+Dunaújváros
+Dunavarsány
+Dunavecse
+Durgótanya
+Dursttanya
+Dusnokpuszta
+Dúzs
+Ebédvesztőpuszta
+Ebes
+Ecséd
+Ecseg
+Ecser
+Ecsimajor
+Edelény
+Egeihalom
+Eger
+Egerbakta
+Egercsehi Kőszénbányatelep
+Egerditanya
+Egerszalók
+Egerszegimalom
+Égettház
+Égettmalom
+Eggert
+Egresvadásztanya
+Egrihegyalja
+Egritag
+Egyed
+Egyek
+Egyházasdengeleg
+Egyházashollós
+Egyházaskesző
+Egyházaskozár
+Elek
+Élesd
+Ellai Tanyák
+Ellamajor
+Előszállás
+Emiliamajor
+Emlékmajor
+Emőd
+Encs
+Encsencs
+Endesmajor
+Endrefalva
+Enying
+Eperjesidűlő
+Eperjeske
+Ercsi
+Érd
+Erdeifalu
+Erdőhalmi Tanyák
+Erdőkertes
+Erdőkövesd
+Erdőlak
+Erdőpaskom
+Erdősház
+Erdőskert
+Erdősor
+Erdőszőlő
+Érdűlőitanyák
+Ereklyés
+Eresztvény
+Érréve
+Érsekcsanád
+Érsekhalma
+Érsekiszentkirály
+Érsekvadkert
+Értem
+Értény
+Estemajor
+Eszéki Országúti Tanyák
+Eszenyőtelep
+Eszteregnye
+Esztergályhomok
+Esztergom
+Ete
+Etelka
+Etyek
+Fábiánsebestyén
+Fadd
+Fáj
+Fajsz
+Fakos
+Fallóskút
+Faluberki
+Faluföldje
+Faluvéghalma
+Fályirész
+Fáncs
+Fánipuszta
+Farád
+Fáradttanya
+Farkasalmás
+Farkasberekpuszta
+Farkashát
+Farkaslyuk
+Farkaspuszta
+Farkassimánd
+Farmos
+Fáspuszta
+Fazekasboda
+Fecskefarkidűlő
+Fegyvernek
+Fehérföld
+Fehérgyarmat
+Fehérpart
+Fehérvárcsurgó
+Feketeér
+Feketeerdő
+Feketeföldek
+Feketeföldi Tanyák
+Feketehalmitanyák
+Feketehíd
+Feketei Szőllők
+Feketeszeg
+Felcsút
+Félegyházatanya
+Fellegvártanya
+Felső Gáspár Sor
+Felsőadacs
+Felsőbene
+Felsőberkifalu
+Felsőbogátpuszta
+Felsőbúberek
+Felsőcéce
+Felsőcikolapuszta
+Felsőcsalános
+Felsőcsetény
+Felsőcsurgó
+Felsődabrony
+Felsődánosi Tanyák
+Felsődobos
+Felsőegrespuszta
+Felsőerzsébetpuszta
+Felsõgalambos
+Felsőgalla
+Felsőgilip
+Felsőgóla
+Felsőgyörgyös
+Felsőkakpuszta
+Felsőlajos
+Felsőlegencse
+Felsőmáma
+Felsőnyárád
+Felsőpakony
+Felsőpáskum
+Felsőpélpuszta
+Felsőrákos
+Felsőréti Dűlő
+Felsőrönök
+Felsősima
+Felsősötétmajor
+Felsőszállás
+Felsőszemenye
+Felsőszentkirály
+Felsőszentmárton
+Felsőszőllő
+Felsőtapazd
+Felsőtápió
+Felsőtárkány
+Felsőtéglaház
+Felsőtöbörzsök
+Felsővasdinnyepuszta
+Felsővenyim
+Felsőzsolca
+Féltő
+Fényeslitke
+Fényestelep
+Fenyőspuszta
+Fenyvesi Szőllő
+Ferencváros
+Ferenczimajor
+Ferihegy
+Fertályos Kaszálók
+Fertőd
+Fertőrákos
+Fertőszentmiklós
+Fiatalospuszta
+Fiedlertanya
+Filótanya
+Fisitanya
+Fityeház
+Flasitsszőllő
+Fodor-tanya
+Fogarassyszőllő
+Fokivölgy
+Foklapossa
+Foktő
+Földeák
+Földes
+Földestanya
+Földvárhalomdűlő VI
+Fony
+Főnyed
+Fonyód
+Forgonytanya
+Forráskút
+Forró
+Forrókút
+Forrópuszta
+Fót
+Fövenypuszta
+Friedländertanya
+Fuditelep
+Függőtanya
+Füleki Völgy
+Fülemajor
+Fulókércs
+Fülöpháza
+Fülöpjakab
+Fülöpszállás
+Fürdő-út
+Fürér
+Fűrészmalom
+Fűrésztanya
+Fürged
+Fürtöshegy
+Füzér
+Füzesabony
+Füzesgyarmat
+Füzeskert
+Füzespuszta
+Fűzfásmalom
+Fűzfőfürdő
+Fűzmatanya
+Gaáltanyák
+Gádoros
+Gáfimalom
+Galambdűlő
+Galambok
+Galambossziget
+Galgahévíz
+Galgamácsa
+Gálháza
+Gallahegy
+Gallapuszta
+Gálmajor
+Galvács
+Gálvölgytanya
+Galyatető
+Gamás
+Ganesztanya
+Ganzkertváros
+Ganznegyed
+Ganztelep
+Gara
+Gardapuszta
+Gardián
+Gárdony
+Gárdonytanya
+Garé
+Garnicstanya
+Gatálypuszta
+Gazdasági Iskola-tanya
+Gecsei Tanya
+Gedeondűlő
+Géderlak
+Gedőváritanya
+Gégény
+Gégénytanya
+Geisztcsákó
+Gelegenyéspuszta
+Gelencsérkút
+Gelénes
+Gelindtanya
+Gellapuszta
+Gellértháti Tanya
+Gellérthegy
+Gelse
+Gelsesziget
+Gelyevölgy
+Gencsapáti
+Gercsáktanya
+Gerde
+Gereblyés
+Gerendási Tanya
+Gerényes
+Gergelyffinagytanya
+Gergelyrész
+Gergelytelep
+Gesztely
+Gic
+Gige
+Gindeletanya
+Girincs
+Gloriett-telep
+Gőbölyjárási Tanyák
+Göd
+Gödöllő
+Gödre
+Gödrekeresztúr
+Gödsziget
+Góga
+Gógánfa
+Gölle
+Göllénfa
+Gomba
+Gombosszeg
+Gombostanya
+Gönc
+Gondótahegy
+Göntér
+Görbeföld
+Görbeháza
+Görbekútlapos
+Görbeszék
+Görcsönydobokai Tanya
+Görénypuszta
+Görényvárpuszta
+Görgeteg
+Görögszó
+Görögtó
+Görömböly
+Görömböly-Tapolca Üdülőhely
+Goronditanya
+Gottliebtag
+Gőzmalom
+Gőzmalomgyártelep
+Grébicspuszta
+Grófimalom
+Gubacs
+Gubacsidűlő
+Gubacsipuszta
+Gubonnapuszta
+Gúnyakút
+Gurdzsálypuszta
+Gusztáv-bányatelep
+Gusztávmajor
+Guzsványtanya
+Gyál
+Gyalóka
+Gyánica
+Gyárdűlő
+Gyeneitanya
+Gyenesdiás
+Gyepestanya
+Gyeptelep
+Gyetkótanya
+Gyócs
+Gyócsitanya
+Gyód
+Gyójaitanyák
+Gyökérpuszta
+Gyomaendrőd
+Gyömrő
+Gyöngyfa
+Gyöngyös
+Gyöngyöshalász
+Gyöngyösoldal
+Gyöngyöspata
+Gyöngyössolymos
+Gyöngyöstarján
+Gyöngyvirágos
+Gyönk
+Győr
+Györe
+Győrffytanya
+Györgyeiúti Tanyák
+Györgytelep
+Győrimalom
+Gyóró
+Győrszemere
+Győrújbarát
+Győrújfalu
+Győrvár
+Gyula
+Gyúlás
+Gyulatag
+Gyülekezetimajor
+Gyúrpuszta
+Gyűrűs
+Gyűszűvölgy
+Hagyárosbörönd
+Hagyárosimajor
+Hajdúbagos
+Hajdúböszörmény
+Hajdúdorog
+Hajdúhadház
+Hajduház
+Hajdúhegydűlő
+Hajdúnánás
+Hajdúsámson
+Hajdúszoboszló
+Hajdúszovát
+Hajmáskér
+Hajmáspuszta
+Hajnalhegy
+Hajós
+Hajpálpuszta
+Halaspuszta
+Halászi
+Halimba
+Halmaj
+Halmierdő
+Halmostanya
+Hanáktanya
+Hanelek
+Hangony
+Hangospuszta
+Hanságnagyerdő
+Harangdűlő
+Harasztifalu
+Harasztipuszta
+Harasztosi Bánya
+Haraszttanya
+Harcsás Üdülősor
+Harcsásdűlő
+Harka
+Harkakötöny
+Harkány
+Harkapuszta
+Hármashatárdűlő
+Hármaskútpuszta
+Hármastarján
+Harsány
+Hársasi Erdészlak
+Hársastelep
+Hársfapuszta
+Hárskút
+Harta
+Hásságy
+Határmalom
+Határtanya
+Határvölgypuszta
+Hátfő-Árvízkapu
+Hatitytanya
+Hatvan
+Hatvanhétes major
+Hatvanorr
+Havanna-lakótelep
+Havaspuszta
+Háyföldek
+Hecsepuszta
+Hédervár
+Hegedőstanya
+Hegedűstag
+Hegyesbükk
+Hegyeshalom
+Hegyespuszta
+Hegyestető
+Hegyfalu
+Hegykő
+Hegymeg
+Héhalom
+Heislerpuszta
+Héjahalom
+Hejőbába
+Hejőkeresztúr
+Helvécia
+Helységrétdűlő
+Hemző Sor
+Hencse
+Hercegszántó
+Hercegtag
+Heréd
+Herekúttanya
+Herend
+Herésdűlő
+Herketytanya
+Hermannpuszta
+Herminamajor
+Hernád
+Hernádcéce
+Hernádkak
+Hernádnémeti
+Hernádpetri
+Hertelendytelep
+Hetényitanyák
+Hetes
+Hetvehely
+Heves
+Hévíz
+Hévízgyörk
+Hidasnémeti
+Hidegoldal
+Hídrét
+Hidvégardó
+Hild
+Hillye
+Himesháza
+Hodász
+Hódmezővásárhely
+Hofmanntanya
+Hőgyész
+Hohnertanya
+Hókamalom
+Hollókő
+Hollómajor
+Hollóstető
+Hollótanya
+Holmantag
+Hólyapuszta
+Hőlyeghegy
+Homarkaitanya
+Homokdomb
+Homokház
+Homokkomárom
+Homokmégy
+Honimalom
+Hont
+Honvédlaktanya
+Honvédmajor
+Honvédpuszta
+Horogidűlő
+Hortobágy
+Hortobágy-Százköblös
+Horváth Pál-tanya
+Horváthföldek
+Hosszúberek-Péteri
+Hosszúfertődűlő
+Hosszúföldek
+Hosszúhetény
+Hosszúmezőpuszta
+Hosszúpályi
+Hosszúpereszteg
+Hosszúrétdűlő
+Hosszúsziget
+Hosszúvíz
+Hőstelep
+Hosztán
+Hosztót
+Hottó
+Hubertlak
+Hugahegy
+Hullámtér
+Hungaroring
+Hunyadfalva
+Hunyadiszőllőstelep
+Huppontanya
+Huszászimajor
+Ibrány
+Ihász
+Ikervár
+Ikervári Villanytelep
+Iklad
+Ikrény
+Ilis
+Ilkatér
+Ilona-telep
+Ilonakút
+Ilonamalom
+Ilonatelep
+Imola
+Imre I-tanya
+Imrehegy
+Inámpuszta
+Inárcs
+Inke
+Innensőángyád
+Ipardűlő
+Ipolytarnóc
+Iregszemcse
+Irtvány
+Irtványosdűlő
+Isaszeg
+Istenmezeje
+Istvánbokor
+Istvándi
+Istvánmező
+Iszkáz
+Isztimér
+Itató
+Iván
+Ivánbattyán
+Ivánc
+Iváncsa
+Iváncsótanya
+Ivándárda
+Ivánházapuszta
+Ivánkatanya
+Ivánvölgy
+Izabella Üdülőtelep
+Izbonyótanya
+Izmény
+Izsák
+Izsákfaújtelep
+Izsákpuszta
+Izsófalva
+Jágónak
+Jajhalom
+Ják
+Jakabdomb
+Jakabffy-major
+Jakabszél
+Jákotpuszta
+Jámbor
+Jancsármajor
+Jancsimajor
+Jánkahegy
+Jankapuszta
+Jánmajor
+Jánosakna-bányatelep
+Jánoshalma
+Jánoshida
+Jánositanya
+Jánossomorja
+Jánostavadűlő
+Jánosvölgy
+Janyapuszta
+Jápla
+Járássor
+Járdánháza
+Jármi
+Jászalsószentgyörgy
+Jászapáti
+Jászárokszállás
+Jászberény
+Jászdózsa
+Jászfelsőszentgyörgy
+Jászjákóhalma
+Jászkarajenő
+Jászkisér
+Jászladány
+Jászszentandrás
+Jászszentlászló
+Jásztelep
+Jazvinapuszta
+Jedinkaszőlő
+Jegesiszőlők
+Jegestanya
+Jékey Felsőtanya
+Jellatanya
+Jilektanya
+Jobbágyi
+Jobbágytanya
+Jónásgyümölcsös
+Joosztanya
+Józsapuszta
+József Attila-lakótelep
+Józsefbenedek
+Józsefváros
+Juhászpuszta
+Juhépuszta
+Juhosdűlő
+Juliskamajor
+Jurenákföld
+Juta
+Kaba
+Kabavölgy
+Kablásmajor
+Kacola
+Kacsajtos
+Kacsástópuszta
+Kadarkút
+Kajánd
+Kajditanya
+Kakonyapuszta
+Kakucs
+Kál
+Kalaposd
+Káldytanya
+Kalimajor
+Kall
+Kállósemjén
+Kálmánháza
+Kálmánpuszta
+Kalocsa
+Káloz
+Kámán
+Kamaraerdő
+Kamond
+Kamut
+Kanászhalom
+Kanda
+Kanjárás
+Kántorjánosi
+Kanyar
+Kaparósitanya
+Kapáskút
+Kapitányhegy
+Kápolnásnyék
+Kápolnásvisnye
+Kapolya
+Kapolypuszta
+Kaposkeresztúr
+Kaposmérő
+Kaposszekcső
+Kaposvár
+Káposztásmegyer
+Kápráspuszta
+Káptalanpuszta
+Káptalantóti
+Kaptártanya
+Kapuvár
+Karád
+Karaérdűlő
+Karancsberény
+Karancsdűlő
+Karancskeszi
+Karancslapujtő
+Karancsság
+Karasz
+Karcag
+Karcsa
+Kardosfapuszta
+Kardosföldek
+Kardoskút
+Karkhalom
+Karolamajor
+Karolinpuszta
+Károlyimajor
+Károlyitelep
+Karóspuszta
+Kartal
+Kásád
+Kásipuszta
+Kaskantyú
+Kaskantyúi Tanyák
+Kasspuszta
+Kastélykútitanya
+Kaszaháza
+Kaszálódűlő
+Kaszálómajor
+Kaszaper
+Kaszapuszta
+Kaszatanyadűlő
+Kaszibatanya
+Katai Sor
+Katalintelep
+Katlanvölgy
+Katona Sor
+Katonaszeglet
+Káva
+Kávai Tanya
+Kávás
+Kavicsos
+Kazár
+Kazártanya
+Kazincbarcika
+Kazsok
+Kazsokitanya
+Kecel
+Kecskéd
+Kecskemét
+Kehidakustány
+Kék
+Kékapuszta
+Kékestető
+Kékidűlő
+Kelebia
+Kelebiadűlő
+Kelemenzug
+Kelemér
+Kelenföld
+Kelenvölgy
+Kéleshalom
+Kélesi Szőllők
+Kelesidűlő
+Keletdűlő
+Keleti Lapos
+Keletirész
+Kemecse
+Kemeneskápolna
+Kemenesmagasi
+Keménygadány
+Kemse
+Kenderföldi Üdülősor
+Kendersor
+Kendetanya
+Kengyel
+Kengyeles
+Kengyelköztanya
+Kepésföld
+Kerecsend
+Kerecsenypuszta
+Kerek
+Kerekegyháza
+Kerekhalom
+Kerekharaszt
+Kereknád
+Kerékpuszta
+Kerekrétitanya
+Kerepes
+Kerepesdűlő
+Keresztestanya
+Kereszthát Üdülőpart
+Keresztúridűlő
+Kéripuszta
+Kerkabarabás
+Kerkakutas
+Kernyei Szivattyú
+Kertmeg
+Kerülőpuszta
+Kesellős
+Keselyrét
+Keserűkútdűlő
+Keserűtanya
+Készenváridűlő
+Keszlertag
+Keszőhidegkút
+Keszthely
+Kesztölc
+Keszü
+Két Út Köze
+Kétbodony
+Kétegyháza
+Kéthely
+Kétkertköz
+Kettőshatárdűlő
+Kétvölgy
+Kevermes
+Kienitzpuszta
+Kígyószögtanya
+Kilicsán
+Kimle
+Kincsempuszta
+Kincsesbánya
+Kincsesház
+Kincsespuszta
+Kióshegy
+Király I-né tanya
+Király-tói Erdészlak
+Királyháza
+Királyhegyesi Külterület
+Királyság
+Királyteleki Úti Tanyák
+Királyvölgy
+Kis Hubert-tanya
+Kis Lendvaytanya
+Kis Szeszgyár
+Kis Tóth-tanya
+Kiságerdő
+Kisapáti Tanyák
+Kisar
+Kisasszonyfa
+Kisasszonyfai Puszta
+Kisasszonytanya
+Kisaszó
+Kisbábony
+Kisbágyon
+Kisbajom
+Kisbaksaháza
+Kisbárkány
+Kisbártfapuszta
+Kisbér
+Kisberény
+Kisbodak
+Kisbodolya
+Kisbudzsák
+Kisbükk
+Kiscsákó
+Kiscsehi
+Kiscseredűlő
+Kiscseretanya
+Kiscséripuszta
+Kiscsévpuszta
+Kiscsősz
+Kisdeindol
+Kisdobsza
+Kisdombegyház
+Kisdorog
+Kisecsértanya
+Kisecset
+Kisérzug
+Kiseszter
+Kisfakos
+Kisfertőboz
+Kisfokdűlő
+Kisföld
+Kisföldek
+Kisfolyásidűlő
+Kisgajla
+Kisgát
+Kisgátpuszta
+Kisgeresd
+Kisgólyástanya
+Kisgombos
+Kisgyőr
+Kisgyőrpuszta
+Kishalászitanyák
+Kisházapuszta
+Kishegydűlő
+Kishomok
+Kishomokostanya
+Kishomoktanya
+Kishuta
+Kisibafa
+Kisizsák
+Kiskanizsa
+Kiskecskés
+Kiskettőstanya
+Kiskinizs
+Kiskonda
+Kisköre
+Kiskőrös
+Kiskorpád
+Kiskozári Újhegy
+Kiskunfélegyháza
+Kiskunhalas
+Kiskunlacháza
+Kiskunlacházi Bankháza
+Kiskunmajsa
+Kiskvadrát
+Kisláng
+Kisléta
+Kislókpuszta
+Kismacs
+Kismagyarmál
+Kismaros
+Kismarton
+Kismátyusháza
+Kismezőtag
+Kismonostori Tanyák
+Kisnádas
+Kisordastanya
+Kisorosipuszta
+Kisoroszi
+Kisötvöspuszta
+Kispánd
+Kispervat
+Kispest
+Kispeterd
+Kispiricse
+Kispóka
+Kisrada
+Kisrádóc
+Kisrakottyás
+Kiss József-kilátó
+Kiss Károly-tanya
+Kissikátor
+Kissíkdűlő
+Kisszállás
+Kisszekeres
+Kisszentgrót
+Kistabód
+Kistagyospuszta
+Kistarcsa
+Kistarnóca
+Kistavapuszta
+Kistény
+Kistimapuszta
+Kistokaj
+Kistölgyfamajor
+Kistormás
+Kistótváros
+Kistóvölgy
+Kisújszállás
+Kisunyom
+Kisvágás
+Kisvárda
+Kisvid
+Kisvillongó
+Kisvizslaktanya
+Kiszombor
+Klábertelep
+Kláratelep
+Klastrompuszta
+Klementinmajor
+Kobakhegy
+Kőbánya-Kertváros
+Köbölkúttanya
+Kocs
+Kocsér
+Kocsola
+Kocsord
+Kócspuszta
+Koczoghtanya
+Kóczytanya
+Ködmönösdűlő
+Kőfejtő
+Kőhányás
+Kohárimalom
+Kőhát-Szőlőhegy
+Kőhegyaljapuszta
+Kőhídtanyák
+Kohntanya
+Koitanya
+Kóka
+Kokasdi Dűlő
+Kokashegy
+Kökénypuszta
+Kökényvölgytanya
+Kőkútdűlő
+Kőkúthát
+Kőlápapuszta
+Kölesmajor
+Kolinatanya
+Kolónia
+Komádi
+Kőmáj
+Komárom
+Komáromitanya
+Komárváros
+Komló
+Komlósfecskési Tanyák
+Komlósfecskéspuszta
+Komoró
+Kömpöc
+Kompolt
+Kondó
+Kondoros
+Kondorosi Tanyák
+Konstanczermalom
+Kóny
+Konyár
+Kónyatelep
+Kopalicadűlő
+Kopáncs
+Kopárhát
+Kopaszdűlő
+Kópháza
+Koppánymonostor
+Korhányátalja
+Körkemence
+Körmend
+Kormódpuszta
+Környe
+Környebánya
+Korog
+Koronaliget
+Körösladány
+Körösnagyharsány
+Kőrösoldal
+Köröstarcsa
+Körösújfalu
+Körösztvölgy
+Köröszug
+Korpáddűlő
+Korpamajor
+Körtönyeibükk
+Körtvélyesdűlő
+Kosd
+Koshodály
+Kossuth Ferenc-telep
+Kossuth Lajos-telep
+Kossuthfalva
+Kőszeg
+Kőszegfalva
+Kosztolányipuszta
+Kótaj
+Kotántanya
+Köteles
+Kotyháza
+Kovácsmajor
+Kovacsóczytanya
+Kovácsszőllő
+Kovácsvágás
+Kővágótanyák
+Kováktanya
+Kőváralja
+Kövegypuszta
+Köveshalom
+Köveskútpuszta
+Kövestelek
+Kozármisleny
+Kozeldűlő
+Középcebe
+Középdabrony
+Középdeindol
+Középhegyhát
+Középhídvég
+Középkert
+Középkölked
+Középnyírespuszta
+Középpuszta
+Középső-Ferencváros
+Középsőcsesztapuszta
+Középsőjárás
+Középszenttamás
+Középszór
+Kozliktanya
+Kozmagyümölcsös
+Közöstanya
+Krepuska Géza-telep
+Kriksztanya
+Kriskitanya
+Kriston Endréné-tanya
+Krisztinamajor
+Krumplistanya
+Kubiktanya
+Kubinyitag
+Kukulamajor
+Kulapuszta
+Külbogyiszló
+Kulcsármajor
+Kuliktanya
+Küllüstanya
+Külső-Ferencváros
+Külsőfecskéspuszta
+Külsőjárás
+Külsősáp
+Kun György-tanya
+Kunadacs
+Kunágasegyháza
+Kunágota
+Kunbaja
+Kunbaracs
+Kuncsorba
+Kundlerszőllő
+Kunfehértó
+Kungyalu
+Kungyócs
+Kunhalom
+Kunhegyes
+Kunmadaras
+Kunpárdűlő
+Kunpeszér
+Kunszállás
+Kunszentmárton
+Kunszentmiklós
+Kup
+Kurczonmajor
+Kurityán
+Kurjantópuszta
+Kürtöspuszta
+Kuruc-domb
+Kurucpuszta
+Kuruczmajor
+Kustánszeg
+Kútfej
+Kuti
+Kúttó
+Kutyahegy
+Kvassaytelep
+Lábatlan
+Lábod
+Lácaitanya
+Lacaytanya
+Lacimajor
+Ladány
+Ladánybene
+Ládbesenyő
+Ladomány
+Lágymányos
+Lajoshalom
+Lajoskomárom
+Lajosmizse
+Lajosszénás
+Lajosszénási Tanyák
+Lak
+Lakatos-lakótelep
+Lakihegy
+Lakitelek
+Laknertanya
+Lakótanya
+Landesmanntelep
+Lándorhegy
+Lankócpuszta
+Lantostanya
+Lánycsók
+Lápló
+Laponyag
+Laposcser
+Laposrét
+Latortanya
+Látrány
+Leányágtanya
+Leányfalu
+Lébény
+Lébényi Tanyák
+Lebuki
+Lebukirész
+Legelőrét
+Legénd
+Legyestanya
+Léhej
+Lénárddaróc
+Lencsésvilágos
+Lendvadedes
+Lengyel
+Lengyeltóti
+Lenti
+Leokádipuszta
+Lepence
+Lepsény
+Lesaljamajor
+Lesencefalu
+Lesencetomaj
+Létavértes
+Letenye
+Lévaitanya
+Levél
+Levelek
+Levelény
+Levélúti Tanyák
+Levenyetanya
+Libabokor
+Libalegelő
+Libatanya
+Libbentőitanya
+Lickópuszta
+Ligeti Puszta
+Ligetszög
+Ligettelek
+Likócs
+Likócsszőlők
+Lillafüred
+Linahegy
+Lipótfa
+Lipótváros
+Lippó
+Liptákföldek
+Liptáktelep
+Liptaytanya
+Liszó
+Litér
+Litke
+Livoda
+Lizáktanya
+Lobbmajor
+Lőcseszőllőtelep
+Lóditag
+Lófartanya
+Löfflertanya
+Lójatanya
+Lőkösháza
+Lonovicstanya
+Lónya
+Lónyaytelep
+Lopóhalom
+Lóréttanya
+Lőrinci
+Lőrincmajor
+Losoncinegyed
+Losonctelep
+Lovas
+Lovasberény
+Lovastanya
+Lovászhetény
+Lucernás
+Lucfalva
+Lucskapuszta
+Ludad
+Ludaddűlő
+Ludnapuszta
+Ludvigtanya
+Luischthal
+Lukahegy
+Lukó
+Lukod
+Lusztrét
+Macskás
+Mád
+Madáchtanya
+Madarasi Szállás
+Madárdomb
+Mádi Út
+Madocsa
+Magashatárdűlő
+Magashegyitanya
+Magdolnanegyed
+Magitanya
+Maglóca
+Maglód
+Mágocs
+Mágor
+Magosliget
+Magostetőstanya
+Magyarbánhegyes
+Magyarcsanád
+Magyardombegyházi Dűlő
+Magyarkeszi
+Magyarlukafa
+Magyarnádalja
+Magyaródpuszta
+Magyarsarlós
+Magyarszék
+Magyartés
+Majláthpuszta
+Majorosdűlő
+Makaytanya
+Maklár
+Makó
+Makópuszta
+Mákosdűlő
+Maleckitanya
+Mallerd-házak
+Malomfa
+Malomféli Szőllőskert
+Malomház
+Malomsűrű
+Mályi
+Mályinka
+Mályvád
+Mámapuszta
+Mandabokor I
+Mándok
+Mándytanya
+Mánfa
+Mántanya
+Mány
+Maort Centrálé
+Marakodipuszta
+Marcali
+Marcaltelep
+Marcaltő
+Marceltanya
+Márfa
+Margit-major
+Margitta
+Máriakálnok
+Márianosztra
+Máriapócs
+Mariettapuszta
+Mariskadűlő
+Marjaitanya
+Marjántanya
+Márkháza
+Maróc
+Maroskert
+Maroslele
+Marospart
+Mártamajor
+Mártonffypuszta
+Mártonszállás
+Mártontanya
+Martonvásár
+Máta
+Mátéháza
+Mátészalka
+Mátételke
+Matkó
+Matótatamya
+Mátraaranybányaház
+Mátrabánya
+Mátracserpuszta
+Mátraderecske
+Mátranovák
+Mátraterenye
+Mátraverebély
+Mátyásdomb
+Mátyásföld
+Mátyásgaz
+Mátyáshalom
+Mátyusháza
+Mauertanya
+Mecsek
+Mecseknádasd
+Medgyesbodzás
+Medgyesegyháza
+Medgyesiszőllő
+Medina
+Medvegydűlő
+Megyaszó
+Megyedűlő
+Megyehíd
+Megyeridűlő
+Megyerkepuszta
+Méhesek
+Méhkerék
+Meisznertanya
+Mekényes
+Melániatanya
+Melindaitanyák
+Mélykút
+Mélykútiúti Tanya
+Méncsikótelep
+Mende
+Ménesjárás
+Menyőd
+Meránfölditanyák
+Mereta
+Méreymajor
+Mérk
+Mernye
+Mesterháza
+Mestertanya
+Mészárosdűlő
+Meszesmajor
+Meszestelepek
+Meszlen
+Mesztegnyő
+Métnekpuszta
+Mezeitanyák
+Mezenyő
+Mezőberény
+Mezőcsát
+Meződidűlő
+Mezőfalva
+Mezőhegyes
+Mezőhék
+Mezőkeresztes
+Mezőkomárom
+Mezőkovácsháza
+Mezőkövesd
+Mezőlak
+Mezőnagymihály
+Mezőpeterd
+Mezőssytag
+Mezőszentgyörgy
+Mezőszilas
+Mezőtúr
+Mezőtúriúti Tanyák
+Mezőzombor
+Miháld
+Mihálydomb
+Mihályfa
+Mihályhalma
+Mihályi
+Mikecz Miklós Tanya
+Mikepércs
+Mikestanya
+Miketelep
+Miklósföld
+Miklóstelep
+Miklósvölgy
+Mikóháza
+Mikusdűlő
+Mikustanya
+Millenniumtelep
+Milota
+Miskaháza
+Miske
+Miskolc
+Miskolctapolca
+Mitrótanya
+Mocsa
+Mocsárositanya
+Modrovitstag
+Mögszeg
+Mogyoród
+Mohács
+Mohora
+Mókakert
+Mollermajor
+Molnársziget
+Molvány
+Monaj
+Monok
+Monor
+Monorierdő
+Mónosokori Tanya
+Monostor
+Monostorpályi
+Monyoród
+Monyoróska
+Mór
+Mórahalom
+Mórévárifürdőtelep
+Móricfapuszta
+Móricgát
+Mórichely
+Móricliget
+Mosdós
+Mosoniúti Tanyák
+Mosonmagyaróvár
+Mosonszentjánosi Tanyák
+Mosonszentmiklós
+Mosontakert
+Mosonudvar
+Mostohatanya
+Mözsi Tanyák
+Mucsi
+Múcsony
+Muhi
+Müllerpuszta
+Murakeresztúr
+Muszkahát
+Nadap
+Nádasd
+Nádasdladány
+Nádasdypuszta
+Nádasibokor
+Nádasytelep
+Nádudvar
+Nagy László Hegy
+Nagy Pál Telep
+Nagyagyagos
+Nagyar
+Nagyatád
+Nagyatáditelep
+Nagybajom
+Nagybakónak
+Nagybánhegyes
+Nagybányarétivölgy
+Nagybaracska
+Nagybarátipuszta
+Nagybarca
+Nagyberekpuszta
+Nagybogárzó
+Nagybokros
+Nagybörzsöny
+Nagyböszörményi Szilas
+Nagybudmér
+Nagybugac
+Nagycenk
+Nagycsécs
+Nagycsepely
+Nagycsepelyi Tanyák
+Nagycsere
+Nagycserkesz
+Nagydobos
+Nagydobosdűlő
+Nagydobsza
+Nagydomb
+Nagydorog
+Nagyecsed
+Nagyegeddűlő
+Nagyerdőpuszta
+Nagyfaludpuszta
+Nagyfenyő
+Nagyfiter
+Nagyfüged
+Nagyfügedi Tanyák
+Nagygerendáspuszta
+Nagygeresd
+Nagygőzhát
+Nagyhalász
+Nagyhangács
+Nagyhát
+Nagyherkály
+Nagyigmánd
+Nagyirtáspuszta
+Nagyiván
+Nagykálló
+Nagykamarási Tanyák
+Nagykanizsa
+Nagykapornak
+Nagykarácsony
+Nagykáta
+Nagykecskés
+Nagykérimajor
+Nagykőrös
+Nagykovácsi
+Nagykürtöspuszta
+Nagykútdűlő
+Nagykvadrát
+Nagylaposdűlő
+Nagylaposi Újtelep
+Nagyligetes
+Nagylóki Erdőmajor
+Nagylóktelep
+Nagylózs
+Nagymányok
+Nagymaros
+Nagymegyer
+Nagymorotvadűlő
+Nagyoros
+Nagyoroszi
+Nagypall
+Nagyplacskó
+Nagypród
+Nagyrábé
+Nagyrécse
+Nagyréde
+Nagysumár
+Nagyszakácsi
+Nagyszékely
+Nagyszénás
+Nagyszokolyi Tanyák
+Nagytamota
+Nagytarcsa
+Nagytárkányitanya
+Nagytárkánypuszta
+Nagytétény
+Nagytevel
+Nagytilaji Hegy
+Nagytöltés
+Nagytótváros
+Nagyveleg
+Nagyvénkert
+Nagyvenyim
+Nagyzomlin
+Naphegy
+Napkor
+Naszály
+Neidharttanya
+Nekézseny
+Nemesapáti
+Nemesbikk
+Nemesbikki Tanyák
+Nemesbük
+Nemescsó
+Nemeshetés
+Nemeske
+Nemeskocs
+Nemesnádudvar
+Nemespátró
+Nemesrempehollós
+Nemesszentandrás
+Nemesvámos
+Németjáró
+Németkér
+Némettanya
+Népliget
+Népszínháznegyed
+Neszmély
+Nógrád
+Nógrádsáp
+Nógrádsipek
+Nógrádszakál
+Nova
+Novajidrány
+Nováktanya
+Novothtanya
+Numerusitanyák
+Nyáregyháza
+Nyáregyházai Tanyák
+Nyáriakolmajor
+Nyárjaspuszta
+Nyárlőrinc
+Nyedámpuszta
+Nyékidűlő
+Nyékimajor
+Nyékládháza
+Nyergesújfalu
+Nyeszkenyepuszta
+Nyika
+Nyírábrány
+Nyíracsád
+Nyíradony
+Nyírbátor
+Nyírbéltek
+Nyírbogát
+Nyírbogdány
+Nyírcsaholy
+Nyírderzs
+Nyírderzsi Tanyák
+Nyíregyháza
+Nyiresimalom
+Nyirespuszta
+Nyírgyulaj
+Nyírkarász
+Nyírlugos
+Nyírmada
+Nyírmártonfalva
+Nyírmeggyes
+Nyírmihálydi
+Nyírpazony
+Nyírpilis
+Nyírtass
+Nyírtelek
+Nyírvasvári
+Nyírvasvári Tanya
+Nyomásdűlő
+Nyomási Tanya
+Nyomásszél
+Nyugati Kőhíddűlő
+Nyugatirész
+Nyűgösgyep
+Nyugoti Major
+Nyugotszenterzsébet
+Nyúl
+Nyúlzug
+Óbányai Tanyák
+Óbányapuszta
+Óbarok
+Óbébai Úti Tanyák
+Óbis
+Óbrennberg
+Óbuda
+Ócsa
+Ócsaifertődűlő
+Ócsárd
+Őcsény
+Öcsöd
+Ödönpuszta
+Ödönyvölgy
+Ófehértó
+Óföldeák
+Óhid
+Okány
+Okorág
+Ökördi
+Ököritófülpös
+Oktalan
+Oláhállás
+Olaszfalu
+Olaszliszka
+Ölbő
+Oldalvölgy
+Oltványi Tanya
+Ölyved
+Ömböly
+Onga
+Ónod
+Ópályi
+Ópusztaszer
+Őr
+Orbánhegy
+Orbópuszta
+Őrbottyán
+Orci
+Orczynegyed
+Ördöghát
+Ördögház
+Öreg-hegyi Út
+Öregbánhegy
+Öregcsertő
+Öregföldi Tanya
+Öreghálás
+Öreghegy Sor
+Öregkúria
+Öregnémapuszta
+Öregsziget
+Öregtény
+Öregtima
+Orémuszhegy
+Orgovány
+Őrhegytanya
+Őrimagyarósd
+Örkény
+Ormánd
+Örménykút
+Ormosbánya
+Örökföld
+Oromdűlő
+Örömvölgytanya
+Orondszőllők
+Orosháza
+Orositanya
+Orospuszta
+Oroszdűlő
+Oroszlány
+Örspuszta
+Országút
+Országútdűlő
+Országútdűlői Tanyák
+Országúti Tanyák
+Őrtilos
+Örvényeshegy
+Örvényszögtanya
+Ósákpuszta
+Ősi
+Oskoladűlő
+Ostoros
+Ószanda-Újtelep
+Őszidűlő
+Oszkó
+Oszlár
+Oszlárpuszta
+Osztottföld
+Oszvaldmalom
+Öttevény
+Öttömösitanyák
+Ottótanya
+Ötvöskónyi
+Ötvöstanya
+Ózd
+Ozmánbük
+Ozora
+Őzsetanya
+Pácin
+Pácodpuszta
+Pacsamalom
+Pacsapuszta
+Pacsirtatelep
+Pácsonyújmajor
+Pádpuszta
+Páfrányos
+Páhi
+Pajortanya
+Pajtapuszta
+Pakaricshegy
+Pakodhegy
+Pákozd
+Paks
+Palaczkipuszta
+Palaj
+Palaticstanya
+Palé
+Pálfalvi Tanya
+Pálháza
+Pálházitanya
+Palinapuszta
+Pálmonostora
+Palotaaljadűlő
+Palotanegyed
+Palotás
+Pálvargadűlő
+Pamlény
+Pancadűlő
+Pánd
+Pándivölgy
+Pankota
+Pannonhalma
+Pannónia-lakótelep
+Pannóniatelep
+Pántlikakaszáló
+Pántlikamajor
+Pányád
+Pányok
+Panyola
+Pap
+Pápa
+Papcsárda
+Papishalom
+Papkerterdő
+Papkeszi
+Paplapos
+Papos
+Parád
+Parádi Tanyák
+Parádsasvár
+Parasznya
+Parrag
+Partföledűlő
+Páskomdűlő
+Paskomföldek
+Paszab
+Paszkalinmajor
+Pásztó
+Pásztordűlő
+Pásztorúti Dűlő
+Pat
+Patacspuszta
+Patakföld
+Patakipuszta
+Patihídpuszta
+Patkányos
+Patkós
+Patonaiház
+Patosfa
+Pátroha
+Patvarc
+Páty
+Patyiház
+Pátyod
+Paulapuszta
+Paulinmajor
+Paulovicztanya
+Pázmánd
+Pazsag
+Pécel
+Pecöl
+Pecölrózsamajor
+Pécs
+Pécsely
+Pécsiszállás
+Pécsvárad
+Pekácsirész
+Pekártanya
+Peksidűlő
+Pellérd
+Pélpuszta
+Pelsőcitanya
+Pély
+Penc
+Penészlek
+Péntektanya
+Penyige
+Pénzenvett
+Pénzpatak
+Pénzverő
+Pér
+Perbál
+Pere
+Perecmajor
+Perecse
+Perecsenypuszta
+Pereghalom
+Pereked
+Peresitanyák
+Peresztegtacskánd
+Perkáta
+Perkedtanya
+Perkupa
+Pest
+Pesterzsébet
+Pesthidegkút
+Pestimalom
+Pestlőrinc
+Pestújhely
+Peszéri Erdő
+Petenyepuszta
+Péterházapuszta
+Péterhegy
+Péterhida
+Péteri
+Péterszög
+Pétervására
+Pétfürdő
+Petneháza
+Petőfibánya
+Petőfiszállás
+Petőháza
+Petróczkitanya
+Petróczpuszta
+Pilis
+Pilisborosjenő
+Piliscsaba
+Piliscsév
+Pilismarót
+Pilisszántó
+Pilisszentiván
+Pilisszentkereszt
+Pilisvörösvár
+Pillingérpuszta
+Pincehely
+Pincepart
+Pinnye
+Pipagyújtósor
+Pipishát
+Piros
+Piroscserepestanya
+Pirostanya
+Pirtó
+Piskó
+Pistály
+Pitvaros
+Piuszpuszta
+Plathy-tanya
+Plihal-puszta
+Pócsa
+Pocsaj
+Pocsajtanya
+Pogonyipuszta
+Polány
+Polgár
+Polgárhalomdűlő
+Polgárhegy
+Pollákovitsmajor
+Polonkai Tanyák
+Pölöske
+Polya
+Polyáktelep
+Pomáz
+Pörböly
+Porcsalma
+Pördefölde
+Pornóapáti
+Poroszló
+Porpáczytanya
+Pöszéripuszta
+Pótharasztpuszta
+Potony
+Potya-major
+Potyond
+Potypuszta
+Pozsgaitanyák
+Préskert
+Proliföld
+Prügy
+Puhaházmajor
+Puky-Komáromytanya
+Pulaitag
+Pulykahegy
+Puskástanya
+Püski
+Püski Tanyák
+Püspökladány
+Püspökmolnári
+Püspökpuszta
+Püspökszentlászló
+Pusztaapáti
+Pusztabáb
+Pusztadobos
+Pusztaerzsébet
+Pusztafalu
+Pusztaföldvár
+Pusztahencse
+Pusztakerekudvar
+Pusztakettős
+Pusztakovácsi
+Pusztaközpont
+Pusztalánc
+Pusztamalom
+Pusztamérges
+Pusztamező-Szőlőhegy
+Pusztaottlaka
+Pusztapátka
+Pusztaszabolcs
+Pusztaszemes
+Pusztaszentpéter
+Pusztaszer
+Pusztatorda
+Pusztaújfalu
+Pusztavám
+Putnok
+Putrik
+Ráadás
+Rábacsécsény
+Rábánalul
+Rábapatona
+Rábarétmajor
+Rábasebes
+Rábaszentmihály
+Rabatapuszta
+Rácalmás
+Ráckeresztúr
+Ráckeve
+Rácörs
+Ráczokszőllő
+Rádaiszőllő
+Rádaiszőllők
+Radicstanya
+Rádóckölked
+Radócziföldek
+Radóháza
+Radostyán
+Ragályitanya
+Rajka
+Rakaca
+Rakamaz
+Rákhát
+Rákhegy
+Rákóczibokor
+Rákóczidűlő
+Rákóczifalva
+Rákócziújfalu
+Rákos
+Rákoscsaba
+Rákoscsaba-Újtelep
+Rákoshegy
+Rákositanyák
+Rákoskeresztúr
+Rákoskert
+Rákosliget
+Rákospalota
+Rákosszentmihály
+Ráksi
+Ráksipuszta
+Ramocsa
+Ramocsaháza
+Rapács
+Ráskópuszta
+Ráthtanya
+Ravaszér
+Ravaszlyuk
+Ravazd
+Recsk
+Redbergertanya
+Réde
+Rédeyoros
+Rédics
+Reformátuskovácsházi Tanyák
+Régiakadémiatelep
+Régimalomház
+Reichardtag
+Rekettyési Dűlő
+Rém
+Remecse
+Remetekertváros
+Remeteszőlős
+Remigpuszta
+Rendessytelep
+Répáshuta
+Répavölgypuszta
+Répcelak
+Reszvényszőlő
+Rétalap
+Rétipálya
+Rétközberencs
+Rétság
+Rétsarok
+Révfülöp
+Ribaritstanya
+Ricse
+Ricsikatanya
+Rigódűlő
+Rigóhegyalja
+Rikimajor
+Rimóc
+Ringtanya
+Rinszkymajor
+Rinyakovácsi
+Rinyaújlak
+Rinyaújnép
+Rittersporntanya
+Robozhegy
+Röjtökmuzsaj
+Rókalyukhegy
+Rókamajor
+Rókapuszta
+Rómaifürdő
+Románd
+Romhány
+Rónaitanya
+Röszke
+Róthtanya
+Rövidjánka
+Rózsadomb
+Rózsalaposdűlő
+Rózsástelep
+Rózsaszentmárton
+Rozsrétbokor I
+Rozsrétszőlő
+Rückerakna
+Rudabánya
+Rudolftelep
+Ruszkatanya
+Ruzsa
+Ruzsahegy
+Ruzsástanya
+Ruzsiczkytanya
+Ruzsintanya
+Ruzsitsmalom
+Sabariszőlő
+Sáfránkert
+Ságikút
+Ságitanya
+Ságújfalu
+Sajóbábony
+Sajócsatorna
+Sajóecseg
+Sajógalgóc
+Sajóivánka
+Sajókápolna
+Sajókaza
+Sajólád
+Sajólászlófalva
+Sajónémeti
+Sajóntúli Állami Gazdaság
+Sajóörös
+Sajópálfala
+Sajópetri
+Sajósenye
+Sajószentpéter
+Sajószöged
+Sajóvámos
+Salamonbokor
+Salföld
+Salgópuszta
+Salgótarján
+Sály
+Sámsontanya
+Sáncpuszta
+Sand
+Sándipuszta
+Sándordűlő
+Sándorfalva
+Sándorkapuszta
+Sántamalom
+Sántos
+Sántosi Tanyák
+Sáránd
+Sárbogárd
+Sárdipuszta
+Sárgatanya
+Sárhalom
+Sárisáp
+Sarkad
+Sarkantyúsdűlő
+Sárkánytópuszta
+Sárkeresztes
+Sárkeresztúr
+Sarlósár
+Sármellék
+Sármező
+Sárok
+Sáros
+Sárosd
+Sárosfőpuszta
+Sárospatak
+Sárpilis
+Sárrétudvari
+Sarród
+Sárszentmihály
+Sárvár
+Sásd
+Sashegypuszta
+Sasheverő
+Sásierdő
+Sáskás
+Sástelekdűlő
+Sáta
+Sátoraljaújhely
+Sátorkőpuszta
+Sávoly
+Scheidertag
+Schranzbergdűlő
+Schwarcszőllő
+Schwarcztag
+Sé
+Sebesfapuszta
+Sebőktanya
+Segesd
+Selekta
+Sellye
+Selyeb
+Selyemerdődűlő
+Selyp
+Seregélyes
+Seregélyesdűlő
+Seresdűlő
+Serfőződűlő
+Sérsek
+Siklós
+Sikonda
+Sikótanya
+Sima
+Simontornya
+Simonvölgytanya
+Sióagárd
+Siófok
+Siójut
+Siópuszta
+Sirok
+Sitke
+Snéberg
+Sodakpuszta
+Sólinka
+Solt
+Solt-palé
+Soltszentimre
+Soltvadkert
+Solymár
+Solymositanyák
+Sólyombánya
+Som
+Somberek
+Somhegy
+Sömlény
+Somlyódűlő
+Somogyfok Szőllőskert
+Somogysárd
+Somogyszentpál
+Somogyszil
+Somogyudvarhely
+Somogyvár
+Somogyviszló
+Somoskő
+Somoskőújfalu
+Sonkád
+Soósdűlő
+Soponya
+Soponyapuszta
+Sopron
+Sopronbánfalva
+Sopronhorpács
+Sopronkövesd
+Sopronszécsény
+Soprony
+Söpte
+Sördeföld
+Sorhegyi Dűlő
+Sorkád
+Sörkedűlők
+Sormás
+Soroksár
+Soroksár-Ujtelep
+Sóshartyán
+Sósi Rét
+Sóskadomb
+Sósmajor
+Sóstófalva
+Sóstófürdő
+Sóstóhegy
+Sóstólaposdűlő
+Sövénykútpuszta
+Sövénykúttanya
+Spilkamajor
+Staltertanya
+Staudingertanya
+Stichtanya
+Strázsahegy
+Subatanya
+Sükösd
+Sülysáp
+Sülysziget
+Sümeg
+Súr
+Surd
+Surjánytelep
+Susánhát
+Susnyár
+Süttő
+Süttör
+Sütvénypuszta
+Svábföld
+Svitztagitanya
+Szabadbattyán
+Szabadi
+Szabadka
+Szabadkígyós
+Szabadságforrás
+Szabadszállás
+Szabatonpuszta
+Szabó J-tanya
+Szabó K-tanya
+Szabó M-tanya
+Szabolcsbákai Tanya
+Szabolcsbákailiget
+Szada
+Szágodótanya
+Szajol
+Szajoli Tanyák
+Szakadát
+Szakállasújtelep
+Szakálldűlő
+Szakcs
+Szakmár
+Szaknyér
+Szakoly
+Szalacskapuszta
+Szálka
+Szalkaitanya
+Szalkszentmárton
+Szállasföldi Tanyák
+Szálláska
+Szálláskút
+Szállaspuszta
+Szállástanya
+Szalmadpuszta
+Szalonna
+Szamosangyalos
+Szamosbecs
+Szamosszeg
+Szamostatárfalva
+Szánasalja
+Szanda
+Szank
+Szanticska
+Szántódpuszta
+Szántótanya
+Szany
+Szárazd
+Szárazerdő
+Szárliget
+Szarvas
+Szarvasdűlő
+Szarvasgede
+Szarvaskend
+Szászvár
+Szatymaz
+Szauerweintanya
+Századosnegyed
+Százhalombatta
+Széchenyiliget
+Szécsény
+Szécsényhalászi
+Szécsisziget
+Szederkény
+Szedertanya
+Szedres
+Szeged
+Szegediföld
+Szegeditanya
+Szegerdő
+Szeghalom
+Szegi
+Szegvár
+Szeitztanya
+Székelyitag
+Székesdűlő
+Székesfehérvár
+Székipuszta
+Székkutas
+Széklápa
+Székpart
+Szekrenykepuszta
+Szekszárd
+Széktói Hegy
+Szelesürbő
+Szelevény
+Szélmezőpuszta
+Szemere
+Szemereszőllő
+Szemeretelep
+Szemszúródűlő
+Szénáspuszta
+Szénásvölgypuszta
+Szendihegy
+Szendpuszta
+Szendrő
+Szennyespuszta
+Szent Imre-kertváros
+Szent Lőrinc-lakótelep
+Szenta
+Szentborbás
+Szentegát
+Szentegyedpuszta
+Szentendre
+Szenterzsébethegy
+Szentes
+Szentetornya
+Szentgálpuszta
+Szentgotthárd
+Szentgyörgyhegy
+Szentgyörgytelep
+Szentimre Felsőpuszta
+Szentimretanya
+Szentistván
+Szentistvánakna
+Szentistvánhegy
+Szentivánfa
+Szentivánhalom
+Szentjánoshegy
+Szentjánoskúti Dűlő
+Szentjánospuszta
+Szentkirályitanya
+Szentkirályszabadja
+Szentlőrinc
+Szentlőrinckáta
+Szentmargitfalva
+Szentmárton Újpuszta
+Szentmártonkáta
+Szentmihálymalom
+Szentmihálytanya
+Szentpéterfölde
+Szenttamás
+Szentterézmajor
+Szépvölgyimajor
+Szeremle
+Szerencs
+Szergény
+Szigetcsép
+Szigetcsépi Tanyák
+Szigethalom
+Szigethegy
+Szigetszentmiklós
+Szigetújfalu
+Szigetvár
+Szigliget
+Szihalom
+Szik
+Szikigyakor
+Szikoratanya
+Szikszó
+Szikszótanya
+Szilad
+Szilágyimajor
+Szilágykispuszta
+Szilaspogony
+Szilfamajor
+Szilfás
+Szilháttelep
+Szilospuszta
+Szilvásvárad
+Szilvásvölgy
+Szirák
+Szirma
+Szirmabesenyő
+Szirtó
+Szitányi Béla-puszta
+Szkolkadűlő
+Szob
+Szőcehegy
+Szőcsénypuszta
+Sződ
+Sződliget
+Szögliget
+Szőkedencs
+Szőkédpuszta
+Szőkehalom
+Szőkeszélitanya
+Szőllőkunyhó
+Szőllőmájtanya
+Szőllősi Tanyák
+Szőllősor
+Szőllőtelek
+Szőllőverőpuszta
+Szolnok
+Szőlőaljadűlő
+Szőlőkaljapuszta
+Szőlősgyörök
+Szőlőspuszta
+Szombathely
+Szombathelyitanyák
+Szomjasdűlő
+Szomód
+Szomortanya
+Szőny
+Szórópuszta
+Szoroslápapuszta
+Szőrösparcella
+Szórványtanya
+Szövetentanya
+Sztálin-telep
+Szűcsmajor
+Szuhafő
+Szuhahuta
+Szuhakálló
+Szülleölle
+Szúnyogpuszta
+Szurdok
+Szurdokpüspöki
+Szurokhegy
+Szutortanya
+Tab
+Tabán
+Tabdi
+Táborfalva
+Tadra
+Tagosdűlő
+Tahitótfalu
+Taksony
+Taktaharkány
+Taktaszada
+Tállya
+Tamási
+Táncsicstelep
+Tanyákalja
+Tanyasor
+Tanyavölgy
+Tápióbicske
+Tápiógyörgye
+Tápióság
+Tápiószecső
+Tápiószele
+Tápiószentmárton
+Tápiószőlős
+Táplánszentkereszt
+Tapolca
+Tar
+Tarany
+Tarányimajor
+Tarattyó
+Tarcal
+Tard
+Tardona
+Tardos
+Tardosi Kőbánya
+Tarkalovasdűlő
+Tarlógyér
+Tarnalelesz
+Tarnaörs
+Tarnaszentmiklós
+Tárnok
+Tárnokpuszta
+Tarpa
+Tarpétertelep
+Tarvölgy
+Tass
+Taszár
+Tát
+Tata
+Tatabánya
+Tataháza
+Tatárdűlő
+Tátompuszta
+Tázlár
+Tedej
+Téglagyárdűlő
+Téglaházpuszta
+Téglás
+Tekenye
+Tekerespuszta
+Telecske
+Telekitanya
+Telekmajor
+Telekmegyer
+Telelőpartdűlő
+Telep
+Telki
+Temesváridűlő
+Temetőhegy
+Templom Sor
+Tenczlingerszállás
+Tengelic
+Tengeritanya
+Tényő
+Tépe
+Terény
+Terézhalom
+Tésenfa
+Téseny
+Testvesháti Tanya
+Tét
+Tét-Szentkút
+Tevel
+Tibortanya
+Tihany
+Tihanyikert
+Tipán Csupordűlő
+Tipászó
+Tirpáktanya
+Tiszaadony
+Tiszaalpár
+Tiszabecs
+Tiszabercel
+Tiszabezdéd
+Tiszabő
+Tiszabura
+Tiszacsege
+Tiszadada
+Tiszadob
+Tiszadorogma
+Tiszaeszlár
+Tiszaföldvár
+Tiszafüred
+Tiszainoka
+Tiszakanyár
+Tiszakarád
+Tiszakécske
+Tiszakerecseny
+Tiszakeszi
+Tiszakisfalud
+Tiszakürti Korhányszőllő
+Tiszalök
+Tiszalúc
+Tiszanagyfalu
+Tiszanána
+Tiszapalkonya
+Tiszapüspöki
+Tiszaroff
+Tiszasas
+Tiszasüly
+Tiszasülyi Úti Tanyák
+Tiszaszentimre
+Tiszaszőlős
+Tiszaug
+Tiszaújváros
+Tiszavárkony
+Tiszavasvári
+Tóalmás
+Tódebrő
+Tokaj
+Tokjó
+Tokod
+Tököl
+Tökösremete
+Tóköze
+Tóközibejáró
+Tóközpuszta
+Tolcsva
+Toldikút
+Tolmács
+Tolna
+Tolnanémedi
+Tölöshegy
+Tölösipuszta
+Töltésalja
+Töltéstava
+Tomajmonostora
+Tómajor
+Tömörkény
+Tompa
+Tömpekert
+Torbágy
+Torbaytanya
+Tordas
+Tormásliget
+Tornabarakony
+Tornyosdűlő
+Tornyosnémeti
+Tornyospálca
+Török-kút-dűlő
+Törökbálint
+Törökszentmiklós
+Torony
+Tőröspuszta
+Törtel
+Torvaj
+Torzsás
+Tószeg
+Tótkomlós
+Tótokilap
+Tótszentmárton
+Töttös
+Tótvár
+Tőzeggyármajor
+Trinitás
+Trizs
+Trokártanya
+Tücsökmajor
+Tücsöktanya
+Tulát
+Túlát
+Túlsópáskom
+Tunyogmatolcs
+Tura
+Turaytanya
+Turbékpuszta
+Türje
+Túrkeve
+Tusáktanya
+Tüskés
+Tüskevár
+Tüttös
+Túzberekpuszta
+Tüzérlaktanya
+Tűzköves
+Tuzsér
+Tyúkhegy
+Tyukod
+Tyúktelep
+Ugod
+Ugrócz
+Újballatag
+Újcsanálos
+Újdombrád
+Újdrágszél
+Újfehértó
+Újfok
+Újgalambos
+Újhartyán
+Újhegyidűlők
+Újkígyós
+Újkóvár
+Újkút
+Újlak
+Újlipótváros
+Újlőrincfalva
+Újpalota
+Újpest
+Újpest városközpont
+Újpéteritelep
+Újsolt
+Újszálláspuszta
+Újszász
+Újszeged
+Újszentgyörgy
+Újszentiván
+Újszilvás
+Újszőllődűlő
+Újszőllőtelep
+Újtelek
+Újzsippó
+Ukk
+Üllés
+Üllési Tanyák
+Üllő
+Ungortanya
+Úny
+Uppony
+Uradalmi Szőllőtelep
+Ürgehátiföld
+Ürgés
+Ürgéskert
+Úri
+Úrkút
+Üröm
+Úrrét
+Uszód
+Úszótanya
+Úsztató
+Uszthegy
+Útőrház
+Uzsa
+Vác
+Václiget
+Vácszentlászló
+Váczitanya
+Vadalmás
+Vadászmajor
+Vadépuszta
+Vadicsapuszta
+Vadkeléstanya
+Vadna
+Vadpuszta
+Vágotterdő
+Vágottnyíres
+Vagyonváltságföld
+Vaja
+Vajdabokor
+Vajdamajor
+Vajszló
+Vakaroshegy
+Vakcsa
+Vakhelydűlő
+Vál
+Választódűlő
+Válickatanya
+Valkó
+Vámosatya
+Vámoscsalád
+Vámosgyörk
+Vámospércs
+Vantsaypuszta
+Vanyarc
+Váraszó
+Varbó
+Varbóc
+Várcsalitpuszta
+Várda
+Varga
+Vargabokor
+Várgesztes
+Vargyaspuszta
+Várhát
+Várhegytelep
+Varjasdűlő
+Varjúlapos
+Varnyaspuszta
+Várong
+Városerdő
+Városföld
+Városhegyidűlő
+Városi Erdő
+Városi Nádasok
+Városkert
+Városrétidűlő
+Várpalota
+Várszeg
+Vártanya
+Vasad
+Vasadihegy
+Vasalja
+Vásárosnamény
+Vaskút
+Vasszécseny
+Vasszilvágy
+Vastaghalompuszta
+Vasvár
+Vasvári Pál-telep
+Vászoly
+Vát
+Vatta
+Vaytanya
+Vécs
+Vecser
+Vecsés
+Vécsetáltanya
+Végesstanya
+Végvincedűlő
+Vejkemajor
+Vejte
+Vekeritanyák
+Vekerzug
+Velenceszél
+Velistanya
+Venyinidűlő
+Vép
+Vérdűlő
+Veresháttanya
+Vereskutas
+Veresmajor
+Verikitanyák
+Vérmány
+Vermes
+Verőce
+Verpelét
+Vértesliget
+Vértesnána
+Vértessomló Üdülőfalu
+Vértesszőlős
+Vértestolna
+Vertintanya
+Vesszősér
+Veszprém
+Vésztő
+Vetésitanya
+Vettrét
+Vezseny
+Vid
+Vidólapos
+Víghegy
+Világosmajor
+Világosvár
+Villány
+Villánykövesd
+Vilmapuszta
+Vilyipuszta
+Vincemajor
+Vióka
+Virágoshalom
+Virágosi Tanya
+Virágoskút
+Virányos
+Virányosdülő
+Visegrád
+Visonta
+Viszakpuszta
+Viszneki Tanyák
+Vitketanya
+Vityapuszta
+Vitzmantanya
+Vízállótanya
+Vízimalom
+Vízműtelep
+Vízválasztó
+Vízvár
+Vízváritanya
+Vöcköndmajor
+Völgyitanya
+Vonyarcvashegy
+Vonyitapuszta
+Vöröshomok
+Vörösipuszta
+Vöröskastély
+Vöröskupapuszta
+Vörösnádhát
+Vörösszállás
+Vörösvölgy
+Wágnermalom
+Wágnertanya
+Wekerletelep
+Wernermajor
+Wimmertelep
+Wolfmajor
+Zabar
+Zádoridűlő
+Zafirtanya
+Zágorhida
+Zagyvajobbparti Tanyák
+Zagyvarékas
+Zagyvaszántó
+Záhony
+Zajácztanya
+Zákányszék
+Zalaapáti
+Zalaegerszeg
+Zalaerdőd
+Zalagyömörő
+Zalakaros
+Zalakomár
+Zalaköveskút
+Zalalövő
+Zalaszentgrót
+Zaláta
+Zalavég
+Zamárdi
+Zámoly
+Zámorszénégető
+Zámorymajor
+Zánka
+Zarándok
+Zátonytelep
+Zebegény
+Zedregpuszta
+Zengővárkony
+Zentai Tanya
+Zertmajor
+Zichymajor
+Zichyújfalu
+Zimányitanya
+Zirc
+Zöldlapositanyák
+Zöldmalom
+Zoltánháza
+Zomba
+Zsadányhomok
+Zsámbék
+Zsámbok
+Zsana
+Zsédeny
+Zsédértanya
+Zsejkepuszta
+Zsellérpáskom
+Zsényeitanya
+Zseramajor
+Zsigeritanyák
+Zsippó
+Zsira
+Zsófiamajor
+Zsófiapuszta
+Zsombó
+Zsórytanya
+Zsuzsannamajor
+Zubogyi Tanya
+Zugliget
+Zugló

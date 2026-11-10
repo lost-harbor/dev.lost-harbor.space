@@ -1,0 +1,685 @@
+Khan	139
+Ali	51
+Ahmad	43
+Ahmed	39
+Chowdhury	36
+Hussain	29
+Rahman	19
+Butt	18
+Malik	15
+Saeed	15
+Iqbal	14
+Shah	14
+Aziz	12
+Akhtar	11
+Siddiqui	11
+Baig	10
+Haq	10
+Hassan	10
+Hossain	10
+Qureshi	10
+Raza	10
+Saleem	10
+Abbas	9
+Alam	9
+Bashir	9
+Chaudhry	9
+Hayat	9
+Islam	9
+Mahmood	9
+Muhammad	9
+Sarwar	9
+Abbasi	8
+Anwar	8
+Baloch	8
+Haider	8
+Nadeem	8
+Sadiq	8
+Tahir	8
+Usmani	8
+Waqas	8
+Afridi	7
+Akram	7
+Choudhury	7
+Hasan	7
+Hashmi	7
+Sharif	7
+Ashraf	6
+Aslam	6
+Azam	6
+Bhutto	6
+Bukhari	6
+Farooq	6
+Hamid	6
+Husain	6
+Hussein	6
+Karim	6
+Masood	6
+Mohammad	6
+Syed	6
+Abidi	5
+Begum	5
+Dawood	5
+Gilani	5
+Ilyas	5
+Kaiser	5
+Kamal	5
+Khalid	5
+Mir	5
+Mirza	5
+Naeem	5
+Niazi	5
+Qadir	5
+Rashid	5
+Rehman	5
+Riaz	5
+Roy	5
+Shaikh	5
+Zaidi	5
+Zaman	5
+Ansari	4
+Arshad	4
+Asghar	4
+Bhatti	4
+Burki	4
+Ditta	4
+Dutta	4
+Ghaznavi	4
+Gill	4
+Janjua	4
+Masroor	4
+Masud	4
+Nazir	4
+Qaiser	4
+Quraishi	4
+Rahi	4
+Raja	4
+Rizvi	4
+Shakeel	4
+Sialvi	4
+Sultana	4
+Tarar	4
+Yusuf	4
+Zia	4
+Abdullah	3
+Abro	3
+Aftab	3
+Afzal	3
+Agha	3
+Akmal	3
+Alvi	3
+Amin	3
+Amjad	3
+Ara	3
+Asad	3
+Asif	3
+Awan	3
+Bangash	3
+Banuri	3
+Bijlighar	3
+Chaudhury	3
+Dar	3
+Fakir	3
+Farooqi	3
+Fatima	3
+Hafeez	3
+Haque	3
+Haroon	3
+Huq	3
+Jafri	3
+Jan	3
+Jinnah	3
+Kakakhel	3
+Kakar	3
+Kazi	3
+Khattak	3
+Mahmud	3
+Manzoor	3
+Mehmood	3
+Memon	3
+Nawaz	3
+Noor	3
+Paul	3
+Qamar	3
+Ramzan	3
+Rana	3
+Rasheed	3
+Salim	3
+Samad	3
+Sarkar	3
+Shafiq	3
+Shahid	3
+Shahzad	3
+Shakir	3
+Sheikh	3
+Siddique	3
+Sidhwa	3
+Singh	3
+Sohail	3
+Tariq	3
+Turabi	3
+Wasti	3
+Wazir	3
+Yousuf	3
+Zada	3
+Abdul	2
+Abdul Razzaq	2
+Abedin	2
+Adnan	2
+Afaq	2
+Ahsan	2
+Akbar	2
+Akhter	2
+Ameen	2
+Ayub	2
+Azhar	2
+Babak	2
+Bajwa	2
+Bakhtiar	2
+Barua	2
+Basham	2
+Bibi	2
+Biswas	2
+Chaudhary	2
+Chaudhri	2
+D'Souza	2
+Dawar	2
+Durrani	2
+Elahi	2
+Faruqi	2
+Fazal	2
+Francis	2
+George	2
+Ghafoor	2
+Ghazi	2
+Gil	2
+Habib	2
+Haqqani	2
+Humayun	2
+Ibrahim	2
+Imam	2
+Imran	2
+Ishaq	2
+Jadoon	2
+Jalal	2
+Jalandhari	2
+Jehan	2
+Jilani	2
+John	2
+Kabir	2
+Khatun	2
+Khokhar	2
+Kiani	2
+Lohani	2
+Loni	2
+Magsi	2
+Majeed	2
+Mani	2
+Mansoor	2
+Maqbool	2
+Masih	2
+Mazari	2
+Mazhar	2
+Mian	2
+Mohmand	2
+Mumtaz	2
+Munir	2
+Murad	2
+Mustafa	2
+Naqvis	2
+Naseem	2
+Nasir	2
+Naz	2
+Nizami	2
+Noorani	2
+Omar	2
+Paracha	2
+Parveen	2
+Pasha	2
+Qadri	2
+Qasim	2
+Qurashi	2
+Rafiq	2
+Rahim	2
+Rasool	2
+Rauf	2
+Razi	2
+Rizwan	2
+Rozario	2
+Sabri	2
+Sajid	2
+Sajjad	2
+Salahuddin	2
+Sami	2
+Sethi	2
+Shabir	2
+Shaheed	2
+Shahnawaz	2
+Shamim	2
+Shaukat	2
+Sher	2
+Sikander	2
+Sultan	2
+Talukder	2
+Turi	2
+Uddin	2
+Usman	2
+Wadood	2
+Yar Khan	2
+Yasmin	2
+Zafar	2
+Zahoor	2
+Zarif	2
+Zubair	2
+Aamir
+Abdur
+Abed
+Abid
+Abraham
+Adam
+Adil
+Afroz
+Ahad
+Ain
+Ajmal
+Alauddin
+Alesworth
+Alizai
+Almerf
+Amarkhel
+Ameer
+Amil
+Amir
+Anthony
+Aref
+Arif
+Arifi
+Arslan
+Ashrafi
+Askari
+Attari
+Attique
+Austin
+Ayaz
+Aye
+Azad
+Azeem
+Babar
+Bader
+Bahram
+Bahu
+Baksh
+Balouch
+Balqees
+Baluch
+Balwani
+Bano
+Bara
+Barkat
+Barlas
+Basak
+Basit
+Beck
+Beg
+Belal
+Belson
+Bennacer
+Bettani
+Bhabha
+Bhat
+Bhattacharya
+Bhutta
+Bilal
+Blanes
+Bobby
+Bogra
+Boiragi
+Braganza
+Brinkworth
+Britto
+Burney
+Byrnes
+Carbutt
+Channa
+Chapa
+Charlie
+Chawla
+Cheema
+Chohan
+Choudhary
+Chowdhry
+Chughtai
+Concepcion
+Coutts
+D'Rozario
+Daniel
+Danish
+Dara
+Dasgupta
+Dass
+Dastgir
+Dasti
+David
+Devi
+Dias
+Docker
+Dubberke
+Duffy
+Effendi
+Ehsan
+Ehsani
+Ejaz
+Elia
+Elias
+Ellahi
+Faisal
+Fakhri
+Faraz
+Fareed
+Farhad
+Faruqui
+Fatah
+Fateh
+Fazli
+Fernandes
+Freudweiler
+Fyzee
+Gardner
+Ghaffar
+Ghulam
+Ghuman
+Ghurki
+Gohar
+Golden
+Goldsmith
+Gomes
+Gondal
+Gonsalves
+Gorakhpuri
+Goraya
+Gujar
+Gul
+Gull
+Gyara
+Hadi
+Hafiez
+Haidari
+Haleem
+Hall
+Hamad
+Hameed
+Hamidi
+Hamza
+Hanif
+Harris
+Harun
+Hashim
+Hasnie
+Henderson
+Heredia
+Hines
+Hore
+Hossein
+Hunt
+Husainee
+Hussaini
+Iftikhar
+Ijaz
+Ikram
+Imtiaz
+Inayat
+Inayatullah
+Irani
+Irfan
+Irshad
+Iskander
+Ismail
+Jah
+Jahan
+Jahangir
+Jaleel
+Jamal
+Jamali
+Jameel
+Jamil
+Jamshed
+Jauhari
+Javaid
+Javed
+Javeed
+Javeri
+Jogi
+Johar
+Joseph
+Jung
+Kahn
+Kaif
+Kalmati
+Kapadia
+Kashem
+Kashmiri
+Kaushik
+Kazimi
+Kelly
+Khair
+Khaki
+Khaled
+Khalil
+Khaliq
+Khanam
+Khandker
+Khanum
+Khatoon
+Khatri
+Khawaja
+Khetran
+Khondakar
+Khosa
+Kibria
+Kilani
+King
+Kodu
+Kohli
+Kokoschka
+Kondo
+Kumari
+Kureishi
+Lari
+Larma
+Lashari
+Latifi
+Leslie
+Lewis
+Lobo
+Lodhi
+Lohar
+Loren
+Ludhianvi
+Lund
+Madani
+Mahbub
+Mahfuz
+Mahmoud
+Mai
+Maira
+Malick
+Malkani
+Mallick
+Mamun
+Manik
+Maqsood
+Maroof
+Marvi
+Mascarenhas
+Mateen
+McKinley
+Mehdi
+Mehsud
+Merchant
+Miah
+Minhas
+Mitra
+Mohamed
+Mohammed
+Mohib
+Mohsin
+Moin
+Mollik
+Momen
+Moosvi
+Moula
+Mubarak
+Mubeen
+Mughal
+Mukherjee
+Mukhopadhyay
+Mukhtar
+Murtaja
+Musa
+Nabi
+Nadir
+Naik
+Najafi
+Najam
+Naji
+Nanjiani
+Naseer
+Nasim
+Nasrin
+Naveed
+Nayyar
+Nazar
+Nazari
+Nazish
+Niaz
+Nomani
+Nosheen
+Okarvi
+Omer
+Parwani
+Patel
+Pathan
+Pervaiz
+Perveen
+Pervez
+Pfau
+Pinto
+Pirzada
+Qadeer
+Qayyum
+Qazi
+Quadri
+Quazi
+Qutab
+Rafique
+Rajper
+Rajput
+Rao
+Rashidi
+Razzaq
+Razzaque
+Rehan
+Rehmani
+Reza
+Rind
+Rodricks
+Romani
+Rome
+Rushdi
+Ruth
+Saada
+Sabir
+Safi
+Saha
+Sahari
+Sahib
+Sain
+Salam
+Salik
+Salman
+Samuel
+Sanaullah
+Sani
+Saqib
+Sattar
+Sayeed
+sayidah
+Sayyid
+Sehgal
+Shabbar
+Shafeek
+Shafi
+Shafique
+Shahabuddin
+Shaheen
+Shahidullah
+Shameen
+Shamsi
+Shamsie
+Sharafi
+Shaw
+Shehzad
+Shinde
+Siddiq
+Sidhique
+Sikdar
+Simon
+Siraj
+Sircar
+Soares
+Soofi
+Soomro
+Sughra
+Suhaib
+Suhail
+Sultanov
+Sumar
+Syed Shah
+Taher
+Taimoor
+Taj
+Talat
+Tanveer
+Tara
+Tarin
+Tasneem
+Taylor
+Teli
+Theba
+Thomas
+Tikka
+Timm
+Toor
+Tuquib
+Turner
+Ulhaq
+Umar
+Umer
+Utmanzai
+Vellani
+Wahab
+Wahhab
+Wali
+Waqar
+Warsi
+Wattoo
+Wazed
+Wyne
+Wynne
+Yar
+Yasin
+Yasmeen
+Yazdani
+Younas
+Yousafzai
+Yousef
+Zadran
+Zahid
+Zakaria
+Zakaullah
+Zayyan
+Zeb
+Zeeshan
+Zehra
+Ziauddin
+Zuberi

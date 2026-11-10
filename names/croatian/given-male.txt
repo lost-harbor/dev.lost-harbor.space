@@ -1,0 +1,741 @@
+Ivan	347
+Josip	203
+Marko	170
+Ante	138
+Tomislav	131
+Mario	104
+Goran	88
+Luka	88
+Igor	86
+Petar	78
+Ivo	74
+Mladen	74
+Nikola	73
+Boris	68
+Vladimir	67
+Davor	65
+Filip	63
+Damir	59
+Branko	58
+Ivica	58
+Milan	55
+Marin	53
+Stjepan	53
+Zvonimir	53
+Zoran	52
+Hrvoje	51
+Željko	49
+Antonio	46
+Bruno	41
+Mirko	40
+Miroslav	39
+Toni	39
+Zlatko	39
+Darko	38
+Matija	38
+Franjo	36
+Marijan	36
+Matej	36
+Antun	34
+Domagoj	34
+Krešimir	32
+Mate	32
+Vedran	31
+Danijel	30
+Dario	30
+Dino	30
+Dražen	30
+Karlo	30
+Stipe	30
+Aleksandar	29
+Dragan	29
+Alen	28
+Denis	27
+Dominik	27
+Mateo	27
+Nenad	27
+Slavko	27
+Božidar	26
+Andrija	25
+Vjekoslav	24
+Daniel	23
+Drago	23
+Saša	23
+Dejan	22
+Juraj	22
+Siniša	22
+Jure	21
+Dragutin	20
+Stanko	20
+Anton	19
+Branimir	19
+Dalibor	19
+Vlado	19
+Andrej	18
+Lovro	18
+Niko	18
+David	17
+Jakov	17
+Jurica	17
+Leon	17
+Rudolf	17
+Vinko	17
+Bojan	16
+Fran	16
+Pavao	16
+Roko	16
+Viktor	16
+Zdenko	16
+Kristijan	15
+Miro	15
+Mislav	15
+Borna	14
+Ljubomir	14
+Gordan	13
+Marino	13
+Neven	13
+Predrag	13
+Šime	13
+Veljko	13
+Zvonko	13
+Božo	12
+Frane	12
+Krunoslav	12
+Mato	12
+Mihael	12
+Milivoj	12
+Oliver	12
+Slobodan	12
+Sven	12
+Tihomir	12
+Đuro	12
+Ljubo	11
+Matko	11
+Nino	11
+Pero	11
+Silvio	11
+Bogdan	10
+Danko	10
+Duje	10
+Franko	10
+Joško	10
+Nikica	10
+Radovan	10
+Ratko	10
+Slaven	10
+Vlatko	10
+Dušan	9
+Emil	9
+Leo	9
+Radoslav	9
+Renato	9
+Sandro	9
+Vanja	9
+Davorin	8
+Duško	8
+Ilija	8
+Janko	8
+Lovre	8
+Teo	8
+Valter	8
+Žarko	8
+Andro	7
+Anđelko	7
+Dean	7
+Jasmin	7
+Marco	7
+Pavle	7
+Srećko	7
+Velimir	7
+Vito	7
+Adrian	6
+Damjan	6
+Dinko	6
+Dubravko	6
+Edo	6
+Eugen	6
+Gabriel	6
+Jan	6
+Jozo	6
+Krešo	6
+Maro	6
+Mihovil	6
+Miljenko	6
+Nikša	6
+Ognjen	6
+Patrik	6
+Tino	6
+Vatroslav	6
+Adam	5
+Arsen	5
+Boško	5
+Elvis	5
+Fabian	5
+Frano	5
+Gabrijel	5
+Ivor	5
+Kosta	5
+Leonardo	5
+Marijo	5
+Mauro	5
+Mile	5
+Miloš	5
+Nemanja	5
+Ninoslav	5
+Ozren	5
+Rafael	5
+Rajko	5
+Silvije	5
+Srđan	5
+Stefan	5
+Tin	5
+Tomo	5
+Tonči	5
+Tonko	5
+Tvrtko	5
+Alan	4
+Albert	4
+Alex	4
+Alfred	4
+Anto	4
+Carlo	4
+Danilo	4
+Edi	4
+Emir	4
+Eric	4
+Fedor	4
+Giovanni	4
+Ivano	4
+Ive	4
+Kristian	4
+Ladislav	4
+Luciano	4
+Maksim	4
+Marinko	4
+Michael	4
+Mijo	4
+Milorad	4
+Mišo	4
+Otto	4
+Paolo	4
+Perica	4
+Rade	4
+Rene	4
+Roberto	4
+Ronald	4
+Samir	4
+Samuel	4
+Stojan	4
+Vilim	4
+Vojislav	4
+Đorđe	4
+Adolf	3
+Anthony	3
+Armando	3
+August	3
+Augustin	3
+Berislav	3
+Bernard	3
+Branislav	3
+Dževad	3
+Edin	3
+Eduard	3
+Egon	3
+Feliks	3
+Ferdinand	3
+Guido	3
+Jakob	3
+Jakša	3
+Jerko	3
+Joseph	3
+Jovan	3
+Konstantin	3
+Lujo	3
+Lukas	3
+Manuel	3
+Milutin	3
+Muhamed	3
+Mykhailo	3
+Nik	3
+Oskar	3
+Rikard	3
+Silvano	3
+Stanislav	3
+Valentin	3
+Valentino	3
+Vicko	3
+Vid	3
+Vincenzo	3
+Vitomir	3
+Vjenceslav	3
+Vjeran	3
+Vladan	3
+Vladimír	3
+William	3
+Yanko	3
+Zlatan	3
+Adnan	2
+Adriano	2
+Alberto	2
+Aldo	2
+Alojzije	2
+Amar	2
+András	2
+Arijan	2
+Armin	2
+Asim	2
+Aurel	2
+Benedikt	2
+Bernardo	2
+Blago	2
+Borislav	2
+Borivoj	2
+Budislav	2
+Carlos	2
+Čedomir	2
+Dado	2
+Darijo	2
+Diego	2
+Dorian	2
+Draženko	2
+Dusan	2
+Edgar	2
+Edmond	2
+Emanuel	2
+Emilio	2
+Ernest	2
+Ervin	2
+Esad	2
+Ferenc	2
+Franco	2
+Frank	2
+Gašpar	2
+Giuseppe	2
+Gustav	2
+Inoslav	2
+Iván	2
+Jasenko	2
+Jere	2
+Joannes	2
+John	2
+Josef	2
+Kazimir	2
+Krsto	2
+Kruno	2
+László	2
+Lavoslav	2
+Leonard	2
+Leopold	2
+Loren	2
+Marcelo	2
+Marjan	2
+Massimo	2
+Matteo	2
+Michele	2
+Miho	2
+Milko	2
+Milo	2
+Miomir	2
+Mirza	2
+Natko	2
+Nebojša	2
+Nedim	2
+Nedjeljko	2
+Nedžad	2
+Nicolas	2
+Noa	2
+Oleg	2
+Osman	2
+Oto	2
+Oton	2
+Paul	2
+Pavel	2
+Peter	2
+Raúl	2
+René	2
+Roman	2
+Romano	2
+Rudi	2
+Sacha	2
+Sasa	2
+Sead	2
+Sinisa	2
+Špiro	2
+Stephen	2
+Stevo	2
+Toma	2
+Trpimir	2
+Žan	2
+Zdeslav	2
+Žiga	2
+Zijad	2
+Živko	2
+Zorislav	2
+Zrinko	2
+Zvezdan	2
+Abel
+Adalbert
+Agustin
+Ahmad
+Ahmet
+Albin
+Alek
+Aleksander
+Aleksey
+Alexander
+Alexei
+Alfi
+Alfons
+Aljoša
+Alojz
+Alvaro
+Amadeo
+Amiel
+Amir
+Anas
+Anatoly
+Andelko
+Andre
+Andreja
+Andres
+Annibale
+Antoni
+Antonijo
+Anđelo
+Aramis
+Ardian
+Aria
+Arian
+Arnel
+Arni
+Arnold
+Aron
+Artur
+Asım
+Athanasius
+Aziz
+Baldo
+Bariša
+Bartol
+Bela
+Benjamin
+Bernardin
+Besart
+Blaž
+Blaženko
+Bobby
+Bonaventura
+Boro
+Budimir
+Čedomil
+Celestin
+Charles
+Christian
+Ciprijan
+Ćiro
+Cvijeto
+Cvitan
+Dan
+Dani
+Daniele
+Danil
+Dante
+Dardan
+Darin
+Darinko
+Darjan
+Demetrios
+Demetrius
+Demian
+Demir
+Deni
+Denny
+Desiderius
+Dionís
+Dionizije
+Dobroslav
+Domen
+Domeniko
+Dominic
+Dražan
+Dzenan
+Edis
+Eduardo
+Einan
+Eli
+Elias
+Elvir
+Emerik
+Endi
+Enes
+Enio
+Enrico
+Enver
+Erich
+Erik
+Erim
+Étienne
+Fabio
+Fabjan
+Faruk
+Fausto
+Felix
+Ferdo
+Festim
+Feđa
+Florijan
+Francesco
+Francis
+Francisco
+Franz
+Fred
+Furio
+Gaja
+Gajo
+Garry
+Gaspar
+Geno
+Georg
+Georges
+Georgi
+Georgij
+Georgy
+Gerard
+Gérard
+Gerhard
+Gianfranco
+Giuliano
+Giulio
+Gojko
+Gordon
+Grant
+Grgo
+Grgur
+Halid
+Halil
+Harold
+Hasan
+Hektor
+Henrik
+Henrique
+Herman
+Hermann
+Hinko
+Hodimir
+Hotimir
+Hrvatin
+Hugo
+Husein
+Ian
+Ibrahim
+Ignacije
+Ignaty
+Illia
+Irfan
+Ismet
+Ivan III
+Iwan
+Izet
+Izidor
+Iztok
+Jacopo
+Jacques
+Jadran
+Jadranko
+Jake
+Jaleen
+James
+Janez
+Jason
+Jean
+Jean Pierre
+Joakim
+Joey
+Johann
+Johannes
+Jona
+Jordan
+Jorge
+Joshua
+Josko
+Joža
+Juan Rafael
+Julije
+Julio
+Julius
+Justin
+Kaja
+Kamilo
+Karl
+Károly
+Kasimir
+Kenan
+Konrad
+Kristjan
+Kristoffer
+Ksenofont
+Lazar
+Lenard
+Liam
+Lino
+Ljuban
+Ljudevit
+Lordan
+Lorenz
+Lorenzo
+Lorian
+Lovor
+Luca
+Ludwig
+Maks
+Marc
+Marcos
+Marcus
+Mark
+Markus
+Maroje
+Mathieu
+Matia
+Matias
+Matías
+Matthew
+Matthias
+Max
+Mehmed
+Mensur
+Midhat
+Mika
+Mike
+Miko
+Milenko
+Mirando
+Mirjan
+Mirsad
+Moris
+Nedeljko
+Neno
+Nevio
+Niccolò
+Nick
+Niki
+Obrad
+Odilon
+Oğuz
+Olinko
+Orlando
+Orsat
+Oscar
+Ottó
+Ottone
+Pasko
+Patrice
+Paulo
+Pavo
+Pedro
+Pëllumb
+Péter
+Piero
+Pietro
+Pjer
+Radimir
+Radojica
+Radomir
+Rahim
+Rainier
+Rajan
+Rajmund
+Rastko
+Ratimir
+Ratomir
+Raul
+Rea
+Relja
+Remi
+Ricardo
+Riko
+Rino
+Risto
+Róbert
+Robin
+Roger
+Rok
+Roland
+Romeo
+Roni
+Ruben
+Ryan
+Salih
+Salvador
+Sandi
+Satoshi
+Sava
+Sebastian
+Serafin
+Sergio
+Silvestar
+Silvester
+Simeone
+Simo
+Simon
+Šimun
+Slavoljub
+Spiro
+Stane
+Štefan
+Stefano
+Stellan
+Štěpán
+Stephan
+Stiv
+Stiven
+Svemir
+Sveto
+Svetozar
+Szabolcs
+Tadija
+Tado
+Tan
+Teufik
+Theodor
+Tibor
+Tim
+Timofey
+Timoteo
+Tito
+Todor
+Tom
+Tomi
+Tonći
+Tonino
+Ugo
+Ulrich
+Urban
+Valerije
+Van
+Vasily
+Vasko
+Većeslav
+Veldin
+Veron
+Vibor
+Vićentije
+Victor
+Vilém
+Vili
+Viliam
+Vilson
+Višeslav
+Vladislav
+Vlaho
+Vlastimir
+Vojin
+Vojko
+Vojtěch
+Werner
+Yakov
+Yuliian
+Želimir
+Živan
+Zoltán
+Zvjezdan
+Đani

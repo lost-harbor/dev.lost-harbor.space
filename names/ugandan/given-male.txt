@@ -1,0 +1,654 @@
+John	76
+James	55
+Charles	51
+David	51
+Joseph	50
+Moses	44
+Patrick	40
+Paul	40
+Richard	40
+Samuel	39
+Peter	38
+Emmanuel	37
+Henry	32
+Godfrey	30
+Francis	29
+Michael	29
+Fred	27
+William	27
+Andrew	26
+Ronald	26
+Stephen	26
+George	25
+Isaac	23
+Brian	21
+Daniel	21
+Edward	21
+Julius	21
+Simon	20
+Vincent	20
+Arthur	19
+Lawrence	19
+Sam	19
+Denis	18
+Christopher	17
+Geoffrey	17
+Ivan	17
+Joshua	17
+Solomon	17
+Alex	16
+Anthony	16
+Allan	15
+Frank	14
+Kenneth	14
+Jimmy	13
+Hassan	12
+Ibrahim	12
+Nicholas	12
+Abraham	11
+Derrick	11
+Innocent	11
+Micheal	11
+Timothy	11
+Tom	11
+Wilson	11
+Geofrey	10
+Joel	10
+Muhammad	10
+Nathan	10
+Steven	10
+Dan	9
+Eric	9
+Jacob	9
+Mike	9
+Abdul	8
+Alfred	8
+Benjamin	8
+Elly	8
+Gabriel	8
+Phillip	8
+Rogers	8
+Willy	8
+Abel	7
+Ali	7
+Amos	7
+Ben	7
+Ernest	7
+Frederick	7
+Jonathan	7
+Mustafa	7
+Arnold	6
+Chris	6
+Fredrick	6
+Gilbert	6
+Hakim	6
+Herbert	6
+Johnson	6
+Kevin	6
+Mathew	6
+Nelson	6
+Pius	6
+Adam	5
+Augustine	5
+Bashir	5
+Davis	5
+Dennis	5
+Edgar	5
+Fahad	5
+Felix	5
+Gerald	5
+Grace	5
+Jackson	5
+Karim	5
+Mark	5
+Mathias	5
+Philip	5
+Raphael	5
+Thomas	5
+Tonny	5
+Yasin	5
+Aggrey	4
+Ashraf	4
+Bernard	4
+Caesar	4
+Cornelius	4
+Douglas	4
+Eddy	4
+Ethan	4
+Herman	4
+Ismail	4
+Jeremiah	4
+Joe	4
+Juma	4
+Kassim	4
+Keith	4
+Livingstone	4
+Matthew	4
+Musa	4
+Nick	4
+Stanley	4
+Tony	4
+Umar	4
+Victor	4
+Yusuf	4
+Aaron	3
+Ahmed	3
+Albert	3
+Apolo	3
+Aziz	3
+Baptist	3
+Barnabas	3
+Benard	3
+Benon	3
+Boniface	3
+Bruno	3
+Collin	3
+Deo	3
+Dickson	3
+Edson	3
+Edwin	3
+Elijah	3
+Elvis	3
+Enoch	3
+Erasmus	3
+Gideon	3
+Gordon	3
+Habib	3
+Hussein	3
+Ian	3
+İbrahim	3
+İmran	3
+Isa	3
+Jack	3
+Jerry	3
+Jesse	3
+Joram	3
+Justin	3
+Kennedy	3
+Leonard	3
+Levi	3
+Louis	3
+Marvin	3
+Noah	3
+Norman	3
+Polycarp	3
+Rashid	3
+Raymond	3
+Reagan	3
+Robinson	3
+Samson	3
+Sebastian	3
+Sulaiman	3
+Sylvester	3
+The Black Dog	3
+Abbey	2
+Abdallah	2
+Abdu	2
+Abu	2
+Abubakar	2
+Adolf	2
+Adrian	2
+Aloysius	2
+Alvin	2
+Ambrose	2
+Amon	2
+Asaph	2
+Augustus	2
+Austin	2
+Baker	2
+Basil	2
+Benjamín	2
+Benson	2
+Billy	2
+Bob	2
+Bosco	2
+Brandon	2
+Calvin	2
+Celestino	2
+Constantine	2
+Deng	2
+Deogratious	2
+Derick	2
+Dick	2
+Dominic	2
+Donald	2
+Dunstan	2
+Eddie	2
+Edris	2
+Emma	2
+Emmy	2
+Ephraim	2
+Ezekiel	2
+Fabian	2
+Farouk	2
+Festo	2
+Gaetano	2
+Godwin	2
+Hamza	2
+Haruna	2
+Humphrey	2
+Idi	2
+Ignatius	2
+Ismael	2
+Israel	2
+Jamal	2
+Jason	2
+Jay	2
+Jim	2
+Joachim	2
+John Baptist	2
+Jonah	2
+Jordan	2
+Junior	2
+Justus	2
+Leo	2
+Luke	2
+Manuel	2
+Matthias	2
+Maxwell	2
+Milton	2
+Moris	2
+Morris	2
+Mustapha	2
+Najib	2
+Nasser	2
+Norbert	2
+Omara	2
+Oscar	2
+Paddy	2
+Peterson	2
+Ponsiano	2
+Prosper	2
+Rodney	2
+Ronnie	2
+Sammy	2
+Saul	2
+Shafic	2
+Shafik	2
+Sharon	2
+Sheldon	2
+Shem	2
+Silas	2
+Silver	2
+Smith	2
+Sudhir	2
+Taddeo	2
+Tarsis	2
+Titus	2
+Vicent	2
+Walter	2
+Wesley	2
+Wycliffe	2
+Yoweri	2
+Zakaria	2
+Abasi
+Abbas
+Abbel
+Abdi
+Abdulkarim
+Abdullahi
+Abed
+Abram
+Adolph
+Ahmad
+Aisha
+Aja
+Alan
+Alexander
+Alexis
+Allan Oyirwoth
+Alpha
+Alphonse
+Amama
+Ambrosio
+Amir-Ali
+Anatoli
+Angelo
+Anup
+Anwar
+Asanti
+Ashe
+Asiimwe
+Aston
+Asuman
+Ayub
+Azake
+Badru
+Balthazar
+Barack
+Bart
+Bebe
+Bellarmino
+Bemanya
+Benedicto
+Benjamí
+Benjamin Joseph
+Bevis
+Blair
+Bolton
+Bonaventure
+Bonnie
+Bright
+Brighton
+Bruce
+Caleb
+Carlos
+Carlton
+Carsten
+Catullo
+Caxton
+Chandrasekhar
+Charlie
+Christian
+Chrysostom
+Cian
+Clement
+Cleofas
+Cleophus
+Clovis
+Colgate
+Comfort
+Confidence
+Connell
+Cranmer
+Crispus
+Cuthbert
+Cyprian
+Cyprien
+Cyril
+Cyrus
+Daisuke
+Dane
+Dani
+Dániel
+Danny
+Darren
+Davies
+Dénes
+Denish
+Deogratias
+Desiderius
+Désiré
+Dexter
+Diego
+Doddridge
+Don
+Drake
+Duncan
+Edmond
+Edrisa
+Eli
+Eliab
+Elias
+Eliezer
+Elio
+Eliphaz
+Elphas
+Elton
+Enos
+Eron
+Etem
+Etienne
+Eudes
+Eugene
+Eunice
+Evarist
+Ezra
+Fadhili
+Fahd
+Faisal
+Faraji
+Faruk
+Faustino
+Félix
+Fergus
+Fidelis
+Filbert
+Filipe
+Fox
+Franc
+Francisco
+Franco
+Friday
+Fulgence
+Gadenya
+Gaius
+Galdino
+Gavin
+George William
+Gershom
+Giles
+Giovanni
+Godard
+Gonzaga
+Halit
+Hamad
+Hamidu
+Hamish
+Hans
+Happy
+Harold
+Harrison
+Harry
+Hilary
+Hillary
+Hosea
+Iga
+Isaiah
+Isma
+Issa
+Jacksen
+Jafar
+Jafri
+Jalen
+Jamil
+Janani
+Japheth
+Jasse
+Jayson
+Jean
+Jeremy
+Jerome
+Jessé
+Jethro
+Jitendra
+Joab
+Job
+Johnathan
+Johnes
+Johnny
+Jones
+Jordin
+Jose
+Joseph Anthony
+Josephat
+Jossy
+Jotham
+Jude
+Julian
+Juliet
+Justinian
+Kale
+Kasim
+Kasozi
+Kato
+Keiran
+Kelly
+Ken
+Keon
+Khalid
+Kibuuka
+King
+Kirya
+Kisenyi
+Kizito
+Konstantin
+Kwame
+Kyle
+Laban
+Lambert
+Lance
+Landry
+Larry
+Laurence
+Leopold
+Les
+Leslie
+Leto
+Lincoln
+Lino
+Linos
+Lloyd
+Lucas
+Lyndhurst
+Lyndon
+Magnus
+Mahad
+Mahmoud
+Malcolm
+Malindi
+Mandy
+Mansur
+Marc
+Maria
+Mary
+Matt
+Maurice
+Maxwel
+Mbogo
+Medard
+Melvin
+Meshak
+Micah
+Missi
+Mohamed
+Mohammad
+Mose
+Moustafa
+Mubarak
+Mubaraka
+Mubiru
+Muhamed
+Mukasa
+Mushana
+Naseef
+Nason
+Nasur
+Nathanael
+Nehal
+Neil
+Nickson
+Nicodemus
+Nobert
+Noor
+Ntare
+Nuwa
+Nyanzi
+Nyombi
+O-bong
+Obed
+Odongo
+Oliver
+Opoka
+Orem
+Osama
+Osbert
+Osborne
+Owen
+Oyuko
+Paolino
+Papa
+Patric
+Paulo
+Pendo
+Pepe
+Perez
+Perry
+Philemon
+Pio
+prince
+Rahman
+Rajab
+Ramadhan
+Ramazan
+Rasheed
+Ray
+Rayan
+Regan
+Remigio
+Ricky
+Robin
+Roger
+Rogers Gonzaga Lutaaya
+Ruben
+Ruhakana
+Ruhinda
+Sadat
+Sadi
+Said
+Saidi
+Salih
+Salim
+Samari
+Sameer
+Sandy
+Santos
+Saulo
+Seif
+Sekaana
+Semi
+Serapio
+Shaban
+Shaka
+Shane
+Sharif
+Shekhar
+Shiloh
+Simeon
+Simpson
+Spinoza
+Stanislaus
+Sunday
+Sylvanus
+Syrus
+Tadeo
+Tarique
+Terrence
+Theodore
+Theophile
+Tito
+Toby
+Toto
+Travis
+Trevor
+Trinity
+Uche
+Uganda
+Ulysses
+Urban
+Usama
+Vianney
+Vicky
+Virgil
+Vitalis
+Vitus
+Wadada
+Wandera
+Warren
+Wasswa
+Wilberforce
+Wilberto
+Wilfred
+Wyclef
+Xavier
+Yannick
+Yeboah
+Yona
+Yorke
+Yovan
+Yunus
+Zachariah
+Zadock
+Zed
+Zeddy
+Zohran

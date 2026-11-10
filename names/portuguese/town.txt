@@ -1,0 +1,5000 @@
+Portela	58
+Carvalhal	47
+Vila Nova	36
+Outeiro	35
+Pinheiro	33
+Póvoa	31
+Vilar	29
+Granja	27
+Várzea	27
+Vilarinho	25
+Aldeia Nova	24
+Parada	23
+Torre	23
+Nogueira	22
+Paradela	22
+Aldeia	21
+Boa Vista	21
+Paço	21
+São Pedro	20
+Souto	20
+Vale	20
+Vila Chã	20
+Casal	19
+Lagoa	19
+Monte	19
+Pereiro	19
+Valverde	19
+Ribeira	18
+Soutelo	18
+Bemposta	17
+Castanheira	17
+Paredes	17
+Santo Amaro	17
+Santo António	17
+Sobral	17
+Casal Novo	16
+Costa	16
+Pedreira	16
+Quintela	16
+Vila Verde	16
+Zambujal	16
+Atalaia	15
+Carrascal	15
+Casais	15
+Castelo	15
+Mata	15
+Moita	15
+Passos	15
+Pereira	15
+Venda Nova	15
+Vilela	15
+Amieira	14
+Amoreira	14
+Casas Novas	14
+Covas	14
+Eiras	14
+Ermida	14
+Fontainhas	14
+Monte Novo	14
+Oliveira	14
+Ponte	14
+Vales	14
+Vila Boa	14
+Arrifana	13
+Charneca	13
+Freixo	13
+Mosteiro	13
+Reguengo	13
+Ribeirinha	13
+Sá	13
+Salgueiro	13
+São Mamede	13
+Vila Pouca	13
+Vila Seca	13
+Alqueidão	12
+Carregal	12
+Carvalhais	12
+Casalinho	12
+Figueiredo	12
+Louredo	12
+Loureiro	12
+Macieira	12
+Padrão	12
+Relvas	12
+Santa Cruz	12
+São Lourenço	12
+São Sebastião	12
+Travanca	12
+Travassos	12
+Alcaria	11
+Barreiro	11
+Barreiros	11
+Bustelo	11
+Covelo	11
+Crasto	11
+Estrada	11
+Feiteira	11
+Fontes	11
+Gândara	11
+Junqueira	11
+Lamas	11
+Lomba	11
+Murteira	11
+Quintã	11
+Real	11
+Salgueiral	11
+Santa Eulália	11
+Santo André	11
+São Miguel	11
+Silvares	11
+Silveira	11
+Sobreiro	11
+Valongo	11
+Vila Cova	11
+Vila Meã	11
+Alagoa	10
+Antas	10
+Azinhal	10
+Boavista	10
+Cerdeira	10
+Corredoura	10
+Ferreiros	10
+Fontão	10
+Fornos	10
+Igreja	10
+Laje	10
+Matos	10
+Paços	10
+Santa Luzia	10
+Santiago	10
+Ventosa	10
+Além do Rio	9
+Areia	9
+Areias	9
+Arneiro	9
+Balsa	9
+Besteiros	9
+Calvos	9
+Campo	9
+Carrasqueira	9
+Corujeira	9
+Cruz	9
+Currais	9
+Ferraria	9
+Figueira	9
+Freiria	9
+Lajes	9
+Lapa	9
+Lordelo	9
+Mosteirô	9
+Quintas	9
+Rio de Moinhos	9
+Sanfins	9
+Santa Bárbara	9
+Santana	9
+São Romão	9
+Serra	9
+Sobreira	9
+Telhado	9
+Telheiro	9
+Valbom	9
+Vila Franca	9
+Arcos	8
+Arcozelo	8
+Arieiro	8
+Azenha	8
+Barreira	8
+Bouças	8
+Carcavelos	8
+Carvalho	8
+Chãos	8
+Cortes	8
+Couto	8
+Espinheiro	8
+Galegos	8
+Ladeira	8
+Lameiras	8
+Moinhos	8
+Oleiros	8
+Pereiras	8
+Picoto	8
+Pisão	8
+Pombal	8
+Prado	8
+Raposeira	8
+Relva	8
+Rua Nova	8
+Sampaio	8
+Sande	8
+Santa Comba	8
+Santa Marinha	8
+Santo Estêvão	8
+São Vicente	8
+Tojeira	8
+Abrunheira	7
+Agrela	7
+Além	7
+Bairro	7
+Barrosa	7
+Brejo	7
+Cabanas	7
+Canelas	7
+Carrazedo	7
+Carreira	7
+Cerro	7
+Cimo de Vila	7
+Conceição	7
+Cortinhas	7
+Covelas	7
+Felgueiras	7
+Ferrarias	7
+Fonte	7
+Fontinha	7
+Gandra	7
+Lagares	7
+Lajeosa	7
+Lavandeira	7
+Malhada	7
+Maxial	7
+Moimenta	7
+Mós	7
+Nespereira	7
+Palmeira	7
+Penedo	7
+Penso	7
+Peso	7
+Pessegueiro	7
+Pias	7
+Pisões	7
+Pomares	7
+Pousada	7
+Quinta	7
+Ribas	7
+Ribeiro	7
+Santa Marta	7
+Santo Aleixo	7
+São Bartolomeu	7
+São Domingos	7
+São Jorge	7
+Seixo	7
+Sobrado	7
+Venda	7
+Vilares	7
+Zambujeiro	7
+Albergaria	6
+Aldeia Velha	6
+Amendoeira	6
+Anta	6
+Arroteia	6
+Aveleda	6
+Azevedo	6
+Barreiras	6
+Bouça	6
+Braçal	6
+Cabeças	6
+Cabeço	6
+Cabo	6
+Calvário	6
+Carvalha	6
+Carvalheira	6
+Casa Velha	6
+Cela	6
+Cercal	6
+Codeçal	6
+Cortegaça	6
+Cova	6
+Covões	6
+Cristelo	6
+Cumeada	6
+Dornelas	6
+Duas Igrejas	6
+Espinhal	6
+Espinheira	6
+Espinho	6
+Ferreira	6
+Fornelos	6
+Foz	6
+Furadouro	6
+Gavião	6
+Infesta	6
+Juncal	6
+Lameira	6
+Linhares	6
+Livramento	6
+Louriceira	6
+Lourosa	6
+Lousa	6
+Madalena	6
+Matas	6
+Midões	6
+Monte Branco	6
+Montinho	6
+Mourão	6
+Moure	6
+Palhais	6
+Palheiros	6
+Paul	6
+Pé da Serra	6
+Pereiros	6
+Quintãs	6
+Ribeira Seca	6
+Rio Mau	6
+Rocha	6
+Roriz	6
+Santa Catarina	6
+São Brás	6
+São Julião	6
+São Roque	6
+São Salvador	6
+Seara	6
+Seixal	6
+Sequeiros	6
+Silva	6
+Urgueira	6
+Valadares	6
+Vale de Água	6
+Vale de Figueira	6
+Varziela	6
+Abelheira	5
+Aldeia da Serra	5
+Alvito	5
+Areosa	5
+Arrochela	5
+Aveleira	5
+Balteiro	5
+Barrocas	5
+Cabanelas	5
+Cabreira	5
+Campina	5
+Campos	5
+Canada	5
+Candal	5
+Canedo	5
+Capela	5
+Carreiras	5
+Carvalhosa	5
+Carvoeiro	5
+Casa Nova	5
+Castelões	5
+Cavaleiros	5
+Chaminé	5
+Codeçais	5
+Colmeal	5
+Corga	5
+Courelas	5
+Cruzeiro	5
+Cumieira	5
+Cunha	5
+Ervideira	5
+Escariz	5
+Esperança	5
+Figueirinha	5
+Fojo	5
+Folgosa	5
+Fonte Arcada	5
+Fonte Coberta	5
+Fonte Longa	5
+Fonte Santa	5
+Fornalha	5
+Freixial	5
+Gandarela	5
+Giesteira	5
+Gondomar	5
+Laranjeira	5
+Longra	5
+Maceira	5
+Machados	5
+Malhão	5
+Mogadouro	5
+Moledo	5
+Montalvo	5
+Monte Redondo	5
+Montes	5
+Moreira	5
+Mouta	5
+Olival	5
+Paçô	5
+Palhota	5
+Panasqueira	5
+Passô	5
+Pedrógão	5
+Pena	5
+Piedade	5
+Pinheiros	5
+Porto	5
+Povoação	5
+Presa	5
+Quinta de Santo António	5
+Quintão	5
+Rebordelo	5
+Redonda	5
+Sabariz	5
+Sanguinhedo	5
+Sanguinheira	5
+Santa Eufémia	5
+Santa Margarida	5
+São Caetano	5
+São Gens	5
+São Gregório	5
+São João	5
+São Simão	5
+Seixas	5
+Sendim	5
+Serzedelo	5
+Soalheira	5
+Sobreda	5
+Valada	5
+Vale de Lobo	5
+Várzeas	5
+Vendas	5
+Vimieiro	5
+Viso	5
+Agra	4
+Agrelo	4
+Aguiar	4
+Aguieira	4
+Alcarias	4
+Alfarrobeira	4
+Almada	4
+Almofala	4
+Ameal	4
+Amial	4
+Amoreiras	4
+Anjos	4
+Arcas	4
+Arco	4
+Arnal	4
+Arneiros	4
+Asseiceira	4
+Avelar	4
+Avenal	4
+Azinheira	4
+Bairrada	4
+Bairros	4
+Balancho	4
+Barrô	4
+Barroca	4
+Barrocal	4
+Barrosas	4
+Beco	4
+Bobadela	4
+Boco	4
+Boiça	4
+Boiças	4
+Brito	4
+Cabaços	4
+Cabril	4
+Cadaval	4
+Calçada	4
+Caldelas	4
+Campelos	4
+Carapinhal	4
+Carregosa	4
+Carregueira	4
+Carreiros	4
+Carvalhos	4
+Carvoeira	4
+Casal da Fonte	4
+Casal Velho	4
+Castanheiro	4
+Cavada	4
+Chã	4
+Cima de Vila	4
+Codeçoso	4
+Corgo	4
+Cortiçada	4
+Coura	4
+Eirado	4
+Eiriz	4
+Escoural	4
+Espírito Santo	4
+Esteiro	4
+Estevais	4
+Famalicão	4
+Felgueira	4
+Ferradosa	4
+Feteira	4
+Flor da Rosa	4
+Fontela	4
+Frades	4
+Francos	4
+Freixeda	4
+Funchal	4
+Fundo de Vila	4
+Gião	4
+Glória	4
+Gondar	4
+Gouveia	4
+Gralheira	4
+Guimarães	4
+Igreja Nova	4
+Junceira	4
+Lagoas	4
+Lamarosa	4
+Lameiro	4
+Lamelas	4
+Loureira	4
+Luz	4
+Marco	4
+Marinha	4
+Marmeleira	4
+Marmeleiro	4
+Mato	4
+Meixedo	4
+Miragaia	4
+Monte das Figueiras	4
+Monte Ruivo	4
+Monte Velho	4
+Mosqueiro	4
+Mosteiros	4
+Nave	4
+Negrelos	4
+Nora	4
+Olas	4
+Paradinha	4
+Paranhos	4
+Pardelhas	4
+Pederneira	4
+Pedregal	4
+Pedreiras	4
+Pego	4
+Penacova	4
+Penedos	4
+Picão	4
+Pindelo	4
+Pinhão	4
+Pinheirinho	4
+Poços	4
+Poiares	4
+Pomar	4
+Ponte Nova	4
+Portelas	4
+Pousadas	4
+Póvoa de Cima	4
+Quebrada	4
+Quinta da Boa Vista	4
+Quinta Nova	4
+Ramalheira	4
+Rapoula	4
+Rebordões	4
+Rego	4
+Rendufe	4
+Retorta	4
+Ribeira Funda	4
+Rio Covo	4
+Rio Frio	4
+Rio Tinto	4
+Rio Torto	4
+Roda	4
+Romão	4
+Rosmaninhal	4
+Santa Ana	4
+Santa Justa	4
+Santa Leocádia	4
+Santa Suzana	4
+Santo Antão	4
+São Bento	4
+São Paulo	4
+São Tiago	4
+Sarnadas	4
+Serapicos	4
+Sesmarias	4
+Soutelinho	4
+Tabosa	4
+Telhada	4
+Tojal	4
+Torrinha	4
+Travassós	4
+Vale da Lama	4
+Vale de Açor	4
+Vale de Maceira	4
+Vale Formoso	4
+Vale Grande	4
+Vicentes	4
+Vide	4
+Vila Flor	4
+Vila Fria	4
+Vila Garcia	4
+Vila Maior	4
+Vilar do Monte	4
+Zibreira	4
+Abegoaria	3
+Açor	3
+Adães	3
+Adega	3
+Adegas	3
+Agro	3
+Água Formosa	3
+Agualva	3
+Águas Belas	3
+Águas Santas	3
+Ajuda	3
+Albarrol	3
+Aldeia Cimeira	3
+Aldeia de Cima	3
+Aldeia do Bispo	3
+Aldeia do Mato	3
+Aldeias	3
+Almargem	3
+Almarjão	3
+Almeirim	3
+Alpalhão	3
+Alvarelhos	3
+Alvarim	3
+Alvites	3
+Ameixial	3
+Ameixieira	3
+Amorosa	3
+Antigo	3
+Araújo	3
+Armada	3
+Aroeira	3
+Arões	3
+Arouca	3
+Asnela	3
+Assento	3
+Assureira	3
+Atouguia	3
+Azoia	3
+Baldio	3
+Barco	3
+Barrada	3
+Barroco	3
+Barros	3
+Basto	3
+Batalha	3
+Belém	3
+Belmonte	3
+Belver	3
+Bica	3
+Bico	3
+Bom Sucesso	3
+Bostelo	3
+Breia	3
+Briteiros	3
+Brufe	3
+Brunhais	3
+Burgo	3
+Cabeça	3
+Cabeça Gorda	3
+Cabeços	3
+Cachada	3
+Cadafaz	3
+Cadouço	3
+Caldas	3
+Caliços	3
+Campelo	3
+Campo Raso	3
+Canal	3
+Cancela	3
+Candoso	3
+Caniçal	3
+Caniceira	3
+Carapetos	3
+Carapinheira	3
+Carapito	3
+Caria	3
+Carregais	3
+Carvalhas	3
+Casa Branca	3
+Casal da Boa Vista	3
+Casal da Serra	3
+Casal de Cima	3
+Casal do Rei	3
+Casas da Ribeira	3
+Casas Velhas	3
+Casconha	3
+Caselho	3
+Castelão	3
+Castelejo	3
+Castelhanas	3
+Castelo Branco	3
+Catraia	3
+Cazével	3
+Cepães	3
+Cepões	3
+Cerca	3
+Chacim	3
+Chainça	3
+Chamusca	3
+Chãs	3
+Cheira	3
+Chelo	3
+Chões	3
+Cidadelhe	3
+Coelheira	3
+Coito	3
+Comenda	3
+Contim	3
+Corte Pereiro	3
+Cortegada	3
+Cortiço	3
+Corvos	3
+Couço	3
+Coutada	3
+Coval	3
+Crespos	3
+Cruzes	3
+Cubo	3
+Cunhas	3
+Deveza	3
+Dona Maria	3
+Dornas	3
+Eido	3
+Eira Velha	3
+Entroncamento	3
+Ereira	3
+Ermidas	3
+Ervedal	3
+Ervedeira	3
+Ervedosa	3
+Escoura	3
+Espadanal	3
+Esporões	3
+Facho	3
+Faia	3
+Falcão	3
+Feital	3
+Fermentões	3
+Fervença	3
+Fetais	3
+Feteiras	3
+Fiães	3
+Fial	3
+Figueiró	3
+Fonte Fria	3
+Fontelas	3
+Fornelo	3
+Frágua	3
+Fráguas	3
+Freixiosa	3
+Friande	3
+Frossos	3
+Gagos	3
+Garcia	3
+Gateira	3
+Gestosa	3
+Giesta	3
+Gondarém	3
+Gondim	3
+Granja Nova	3
+Grijó	3
+Grou	3
+Guia	3
+Horta	3
+Hortas	3
+Hospital	3
+Janardo	3
+Laceiras	3
+Lagarelhos	3
+Lajedo	3
+Lamoso	3
+Lapela	3
+Laranjeiro	3
+Lobão	3
+Loreto	3
+Madorra	3
+Malhadas	3
+Malta	3
+Marvão	3
+Marvila	3
+Mascarenhas	3
+Maxieira	3
+Meã	3
+Meca	3
+Medronheira	3
+Meirinho	3
+Mesão Frio	3
+Mesquitela	3
+Mestras	3
+Milagres	3
+Mira	3
+Misericórdia	3
+Mó	3
+Moitas	3
+Moldes	3
+Mondim de Cima	3
+Montargil	3
+Monte da Granja	3
+Montes de Cima	3
+Montes Novos	3
+Morenos	3
+Mosteirinho	3
+Mouquim	3
+Mourelo	3
+Mourilhe	3
+Mozelos	3
+Muro	3
+Murtal	3
+Neves	3
+Nevogilde	3
+Nogueirinha	3
+Nogueiro	3
+Novais	3
+Olivais	3
+Oliveirinha	3
+Ordem	3
+Outeirinho	3
+Pala	3
+Palma	3
+Paraduça	3
+Parafita	3
+Pedralva	3
+Peral	3
+Pinhal	3
+Pipa	3
+Poço	3
+Ponta Delgada	3
+Pontão	3
+Pontes	3
+Pontinha	3
+Portal	3
+Portelo	3
+Pousadouros	3
+Póvoa de Baixo	3
+Póvoas	3
+Prados	3
+Praia	3
+Pucariça	3
+Queimada	3
+Rabaçal	3
+Ranhados	3
+Recarei	3
+Redondo	3
+Regadas	3
+Requeixo	3
+Ribeira Grande	3
+Rio	3
+Rio Bom	3
+Rio Seco	3
+Roncão	3
+Rossas	3
+Rossio	3
+Rua	3
+Sabugal	3
+Sabugueiro	3
+Salvador	3
+Sanhoane	3
+Santa Cristina	3
+Santa Rita	3
+Santarém	3
+São Cipriano	3
+São Gemil	3
+São Geraldo	3
+São Gião	3
+São Gonçalo	3
+São Joaninho	3
+São João da Ribeira	3
+São Mateus	3
+São Matias	3
+São Paio	3
+Sardão	3
+Sarnadinha	3
+Sarzeda	3
+Sarzedo	3
+Senhora da Graça	3
+Senhora da Piedade	3
+Senhora do Rosário	3
+Sernada	3
+Sernande	3
+Silgueiros	3
+Sobradinho	3
+Taipas	3
+Tamel	3
+Távora	3
+Teixeira	3
+Terroso	3
+Teso	3
+Torneiros	3
+Torno	3
+Torrão	3
+Travasso	3
+Trindade	3
+Trofa	3
+Troviscal	3
+Ucha	3
+Vale da Mua	3
+Vale da Rosa	3
+Vale das Éguas	3
+Vale de Espinho	3
+Vale de Figueiras	3
+Vale de Lobos	3
+Vale de Nogueira	3
+Vale de Porco	3
+Vale de Prados	3
+Vale de Zebro	3
+Vale Florido	3
+Valinha	3
+Veiga	3
+Vendas Novas	3
+Vendinha	3
+Ventoso	3
+Viegas	3
+Vila	3
+Vila Nova da Rainha	3
+Vila Ruiva	3
+Vila Viçosa	3
+Vilar Chão	3
+Vilar Seco	3
+Vinhal	3
+Vinhas	3
+Vinhós	3
+Vizela	3
+Zambujeira do Mar	3
+A do Neves	2
+Abadia	2
+Abambres	2
+Abitureira	2
+Aboboreira	2
+Aboim	2
+Abrunhosa	2
+Achada	2
+Achadinha	2
+Açoreira	2
+Açores	2
+Afonsim	2
+Agras	2
+Agrelos	2
+Agrochão	2
+Agros	2
+Água d'Alte	2
+Água Levada	2
+Água Travessa	2
+Águas Boas	2
+Aguda	2
+Aguim	2
+Airão	2
+Alagoas	2
+Álamo	2
+Alcaidaria	2
+Alcaria Alta	2
+Alcobaça	2
+Alcoutim	2
+Aldão	2
+Aldeia da Ribeira	2
+Aldeia de Baixo	2
+Aldeia Fundeira	2
+Aldeia Rica	2
+Além Rio	2
+Alentejo	2
+Alfarela	2
+Alfragide	2
+Algalé	2
+Algarvia	2
+Algeriz	2
+Algodres	2
+Alhais	2
+Aljustrel	2
+Almagreira	2
+Almas	2
+Almeidinha	2
+Almograve	2
+Almoinhas	2
+Almoster	2
+Alto da Serra	2
+Alumieira	2
+Alvalade	2
+Alvaredo	2
+Alvarenga	2
+Alvares	2
+Alveijar	2
+Alvelos	2
+Alvisquer	2
+Alvite	2
+Ameais	2
+Ameixoeira	2
+Amêndoa	2
+Amieirinha	2
+Amieiro	2
+Amoreirinha	2
+Anços	2
+Andorinha	2
+Andrés	2
+Andreus	2
+Antões	2
+Arada	2
+Aramanha	2
+Aramenha	2
+Arão	2
+Arca	2
+Areeiro	2
+Arez	2
+Arganil	2
+Argemil	2
+Ariz	2
+Armental	2
+Arnoso	2
+Arrabal	2
+Arrife	2
+Assamaça	2
+Assenta	2
+Assentiz	2
+Atãis	2
+Atalaia de Baixo	2
+Atalaia de Cima	2
+Atalhada	2
+Aveloso	2
+Avessada	2
+Avinhó	2
+Azambujeira	2
+Azenha de Baixo	2
+Azenha de Cima	2
+Azenha Nova	2
+Azenhas	2
+Ázere	2
+Azerveira	2
+Azinhaga	2
+Azinhosa	2
+Bacelar	2
+Bacelo	2
+Baião	2
+Baiona	2
+Bairro Alto	2
+Baixinho	2
+Bajouca	2
+Balazar	2
+Balocas	2
+Balsemão	2
+Bandeira	2
+Baraçal	2
+Barbeita	2
+Barbosa	2
+Barca	2
+Barqueiros	2
+Barra	2
+Barracão	2
+Barral	2
+Barranha	2
+Barras	2
+Barril	2
+Bárrio	2
+Barro	2
+Bastuço	2
+Bebedouro	2
+Beduido	2
+Beirão	2
+Beire	2
+Bela Vista	2
+Benavente	2
+Benfica	2
+Bezelga	2
+Bicada	2
+Biscaia	2
+Biscoitos	2
+Bispeira	2
+Boca da Mata	2
+Bom Jesus	2
+Bonitos	2
+Borba	2
+Bordeira	2
+Bornes	2
+Borralha	2
+Borralhal	2
+Borralheira	2
+Botelhas	2
+Boticas	2
+Bouça Velha	2
+Boucinha	2
+Boucinhas	2
+Bouro	2
+Braçais	2
+Brazileira	2
+Brejo Cimeiro	2
+Britelo	2
+Brunheira	2
+Bunheira	2
+Buraca	2
+Burgueiros	2
+Burguete	2
+Cabaça	2
+Cabanões	2
+Cabeça Alta	2
+Cabeça Boa	2
+Cabeça de Águia	2
+Cabeçudos	2
+Cabeda	2
+Cabo de Vila	2
+Cabouco	2
+Cabreiro	2
+Cabreiros	2
+Cabrela	2
+Cabrita	2
+Cabriz	2
+Cachão	2
+Cachopo	2
+Cacilhas	2
+Caeiros	2
+Caldeiras	2
+Caldeirinhas	2
+Calhariz	2
+Calhau	2
+Calheta	2
+Calvão	2
+Calvária	2
+Calvelhe	2
+Camacha	2
+Camarate	2
+Cambezes	2
+Cambra	2
+Caminho de Cima	2
+Camões	2
+Campo Grande	2
+Canadelo	2
+Canas	2
+Candedo	2
+Candelária	2
+Candemil	2
+Candosa	2
+Caneiro	2
+Caniços	2
+Canidelo	2
+Cano	2
+Cantanhede	2
+Caparrosa	2
+Caparrosinha	2
+Capelas	2
+Capelo	2
+Carapinha	2
+Caratão	2
+Caravelas	2
+Cardais	2
+Cardal	2
+Cardeal	2
+Cardosas	2
+Carnaxide	2
+Carneiros	2
+Carnide	2
+Carragozela	2
+Carrapateira	2
+Carrapatelo	2
+Carrapatoso	2
+Carrascais	2
+Carrascos	2
+Carrasqueiro	2
+Carregueiro	2
+Carriços	2
+Carril	2
+Carro Quebrado	2
+Carvalhal Redondo	2
+Carvas	2
+Casais Brancos	2
+Casais da Charneca	2
+Casais de Além	2
+Casais de Baixo	2
+Casais de Cima	2
+Casais dos Vales	2
+Casais Galegos	2
+Casal da Areia	2
+Casal da Azenha	2
+Casal da Cruz	2
+Casal da Estrada	2
+Casal da Igreja	2
+Casal da Senhora	2
+Casal das Donas	2
+Casal de Santo António	2
+Casal de São João	2
+Casal do Mato	2
+Casal do Monte	2
+Casal do Pinheiro	2
+Casal dos Ferreiros	2
+Casal Monte	2
+Casalão	2
+Casalinhos	2
+Casares	2
+Casas	2
+Caseiros	2
+Caselas	2
+Casinha	2
+Casinhas	2
+Castanhal	2
+Castanheiros	2
+Castedo	2
+Castelãos	2
+Castelhanos	2
+Castelo Novo	2
+Castelo Picão	2
+Cavadas	2
+Cavadinha	2
+Caveira	2
+Cedros	2
+Celeirós	2
+Cepelos	2
+Cercosa	2
+Cerdedo	2
+Cerejeira	2
+Cerradas	2
+Cerrado	2
+Cetos	2
+Cever	2
+Chança	2
+Chancelaria	2
+Chão	2
+Chão do Galego	2
+Chavãis	2
+Chave	2
+Chelas	2
+Choças	2
+Cidadelha	2
+Cide	2
+Cidral	2
+Cipreste	2
+Coelhal	2
+Coelhosa	2
+Coelhoso	2
+Coimbrões	2
+Coja	2
+Colos	2
+Concelho	2
+Conqueiros	2
+Constantim	2
+Copeiro	2
+Corgas	2
+Corgos	2
+Correeira	2
+Corte Pequena	2
+Corte Pinheiro	2
+Cortelha	2
+Cortiça	2
+Cortinhal	2
+Coruche	2
+Corveira	2
+Corvo	2
+Cossourado	2
+Costeira	2
+Cotas	2
+Cotinho	2
+Coto	2
+Coutada de Cima	2
+Couto de Baixo	2
+Covais	2
+Covelos	2
+Creixomil	2
+Criação	2
+Cumeira	2
+Cumiada	2
+Curros	2
+Curvaceira	2
+Curveira	2
+Dadim	2
+Dagorda	2
+Degolados	2
+Delgada	2
+Devesa	2
+Devesas	2
+Dorna	2
+Edroso	2
+Eidos	2
+Eira	2
+Eira da Pedra	2
+Eiró	2
+Entre Águas	2
+Ermelo	2
+Escarigo	2
+Esculca	2
+Escusa	2
+Espadanedo	2
+Espadaneira	2
+Espariz	2
+Espinhosa	2
+Estação	2
+Estalagem	2
+Este	2
+Esteveira	2
+Esteves	2
+Estorãos	2
+Estorninhos	2
+Estreito	2
+Estrela	2
+Estremadouro	2
+Évora	2
+Extremo	2
+Fajã	2
+Falagueira	2
+Faleiros	2
+Famões	2
+Farrapa	2
+Farrobo	2
+Favais	2
+Fazenda	2
+Feijoal	2
+Feira	2
+Feira Nova	2
+Feiteiras	2
+Fermentãos	2
+Fernandinho	2
+Ferragudo	2
+Ferral	2
+Ferreirim	2
+Ferreirós	2
+Ferrel	2
+Fialho	2
+Figueiral	2
+Figueiras	2
+Fiscal	2
+Folga	2
+Folgares	2
+Folgosinho	2
+Fonte Boa	2
+Fonte Cova	2
+Fontelo	2
+Fontoura	2
+Forjães	2
+Formarigo	2
+Formariz	2
+Formiga	2
+Formigal	2
+Formosa	2
+Fornalhas	2
+Fornea	2
+Forno	2
+Foros da Catrapona	2
+Foupana	2
+Fradelos	2
+Francelos	2
+Franco	2
+Freitas	2
+Freixieiro	2
+Freixinho	2
+Fronteira	2
+Fundão	2
+Fundo da Vila	2
+Fundões	2
+Furtado	2
+Gafaria	2
+Gaio	2
+Galvana	2
+Galveias	2
+Gamelas	2
+Gatões	2
+Gavião de Cima	2
+Gémeos	2
+Geraz do Lima	2
+Germil	2
+Gesteira	2
+Gestoso	2
+Giões	2
+Godim	2
+Goios	2
+Goja	2
+Gondelim	2
+Gondiãis	2
+Gondoriz	2
+Gondufe	2
+Gosende	2
+Goucharia	2
+Graça	2
+Grada	2
+Grade	2
+Grainho	2
+Gralhos	2
+Granja de Baixo	2
+Granjinha	2
+Gravelos	2
+Grota	2
+Guarda	2
+Guardão	2
+Guilhofrei	2
+Guimarei	2
+Guistola	2
+Guizande	2
+Herdade	2
+Idanha	2
+Infias	2
+Jardo	2
+Joaninho	2
+Jolda	2
+Jorjais	2
+Jugueiros	2
+Juncais	2
+Labruja	2
+Ladário	2
+Ladeiras	2
+Lagarinhos	2
+Lagarteira	2
+Lagoinhas	2
+Lagos	2
+Lama	2
+Lamaçais	2
+Lamalonga	2
+Lameiros	2
+Lamela	2
+Landeira	2
+Lapa de Cima	2
+Lapas	2
+Laranjeiras	2
+Lardosa	2
+Larim	2
+Lavadouro	2
+Lavradas	2
+Lavradio	2
+Lavre	2
+Lázaro	2
+Légua	2
+Leiroz	2
+Leitões	2
+Leomil	2
+Levadas	2
+Lezíria	2
+Lijó	2
+Limãos	2
+Loivos	2
+Lombinha	2
+Lombo	2
+Loural	2
+Lourenços	2
+Lourido	2
+Lourinha	2
+Lousada	2
+Lousas	2
+Lustosa	2
+Lúzio	2
+Maceda	2
+Magoito	2
+Magueija	2
+Maia	2
+Malhada de Santa Maria	2
+Malhada Velha	2
+Malhapão	2
+Malpartida	2
+Malpique	2
+Mandim	2
+Mangoeiros	2
+Mangualde	2
+Marateca	2
+Mareco	2
+Marim	2
+Marinhas	2
+Mariz	2
+Marmelal	2
+Marroquil	2
+Marzagão	2
+Mata de Baixo	2
+Mata de Cima	2
+Matança	2
+Matela	2
+Matoeira	2
+Matosinhos	2
+Maxiais	2
+Mealhada	2
+Meãs	2
+Medas	2
+Medeiros	2
+Melhe	2
+Melriça	2
+Melroeira	2
+Merelim	2
+Mesquinhata	2
+Mesquita	2
+Messejana	2
+Milheirós	2
+Milhundos	2
+Minhãis	2
+Miranda	2
+Misarela	2
+Modelos	2
+Mogos	2
+Moimentinha	2
+Moimentos	2
+Moinhola	2
+Moitinhas	2
+Moitinhos	2
+Moleanos	2
+Monção	2
+Monforte	2
+Monsanto	2
+Monte Alegre	2
+Monte Alto	2
+Monte da Lameira	2
+Monte da Torre	2
+Monte da Venda	2
+Monte da Vinha	2
+Monte das Cruzes	2
+Monte de Cima	2
+Monte dos Condes	2
+Monte Fundeiro	2
+Monte Gordo	2
+Monte Grande	2
+Monte João Dias	2
+Monte Linhares	2
+Monte Viegas	2
+Monteiros	2
+Montes Juntos	2
+Montinhos	2
+Montoito	2
+Mora	2
+Moreira de Rei	2
+Moreiras	2
+Mosteiro de Cima	2
+Mota	2
+Moucheira	2
+Moura	2
+Moura Morta	2
+Mourelos	2
+Mourisca	2
+Mundão	2
+Murça	2
+Murganheira	2
+Murta	2
+Murtais	2
+Murtinheira	2
+Muxagata	2
+Nabais	2
+Namorados	2
+Nave Redonda	2
+Naves	2
+Navio	2
+Negreiros	2
+Neiva	2
+Netos	2
+Ninho de Águia	2
+Nordeste	2
+Norte Pequeno	2
+Nossa Senhora da Ajuda	2
+Noval	2
+Novelhos	2
+Nozelos	2
+Óbidos	2
+Odeceixe	2
+Odelouca	2
+Odivelas	2
+Olheiros	2
+Olho Marinho	2
+Olival Basto	2
+Oliveira do Douro	2
+Oliveiras	2
+Olo	2
+Oriz	2
+Ortigosa	2
+Ortigueira	2
+Oura	2
+Outão	2
+Outeiro da Vinha	2
+Paderne	2
+Padrões	2
+Padroso	2
+Paiã	2
+Paião	2
+Painho	2
+Palhaça	2
+Palhacana	2
+Palhagueira	2
+Palheira	2
+Palheirinhos	2
+Pancas	2
+Panóias	2
+Paraíso	2
+Paranho	2
+Pardieiro	2
+Pardieiros	2
+Parreira	2
+Parreiras	2
+Passagem	2
+Passo	2
+Paul de Cima	2
+Paus	2
+Pé do Monte	2
+Pedome	2
+Pedra	2
+Pedra de Água	2
+Pedras Alvas	2
+Pedras Brancas	2
+Pedregais	2
+Pedrinha	2
+Pedrogão	2
+Pedroso	2
+Pedrouços	2
+Pedrulha	2
+Pedrulheira	2
+Penafirme	2
+Penelas	2
+Penha Longa	2
+Penina	2
+Penteado	2
+Pepim	2
+Pêra	2
+Perafita	2
+Perna Seca	2
+Pesqueira	2
+Peva	2
+Piares	2
+Pica	2
+Piçarra	2
+Pico	2
+Picões	2
+Picotos	2
+Pinheiro Grande	2
+Pinhel	2
+Pinho	2
+Pintainhos	2
+Pisão Cimeiro	2
+Pobral	2
+Pocariça	2
+Poças do Monte	2
+Poceirão	2
+Pocinho	2
+Poldras	2
+Pomarinho	2
+Pombalinho	2
+Pombas	2
+Pombinhas	2
+Ponta	2
+Populo	2
+Porches	2
+Porqueira	2
+Porrais	2
+Porta	2
+Portela de Cima	2
+Portela do Fojo	2
+Portelinha	2
+Portinho	2
+Porto de Mós	2
+Porto Judeu	2
+Porto Velho	2
+Portuzelo	2
+Poupas	2
+Pousadela	2
+Pousafoles	2
+Pousios	2
+Pousos	2
+Póvoa da Carvalha	2
+Praça	2
+Pragança	2
+Prazeres	2
+Prazins	2
+Pregal	2
+Pretos	2
+Proselo	2
+Prova	2
+Quatrim	2
+Queimadela	2
+Quinta da Mata	2
+Quinta da Sardinha	2
+Quinta da Viscondessa	2
+Quinta das Areias	2
+Quinta de Cima	2
+Quinta de Santa Marta	2
+Quinta de Santo Amaro	2
+Quinta de São João	2
+Quintãis	2
+Quintanilha	2
+Quiraz	2
+Rabaça	2
+Raiva	2
+Ramada	2
+Ramalde	2
+Ramalhais	2
+Ramalhal	2
+Ramalhosa	2
+Ramos	2
+Rande	2
+Raposa	2
+Raposo	2
+Ratoeira	2
+Rebelo	2
+Rebordinho	2
+Rebordochão	2
+Rebordosa	2
+Reboreda	2
+Reboredo	2
+Recanto	2
+Redondelo	2
+Regato	2
+Regueira	2
+Reguenga	2
+Reigoso	2
+Remédios	2
+Remelhe	2
+Renda	2
+Rendo	2
+Represa	2
+Requião	2
+Resende	2
+Retaxo	2
+Reveles	2
+Revelhe	2
+Ribafria	2
+Ribalonga	2
+Ribamar	2
+Ribeira do Cabo	2
+Ribeira Velha	2
+Ribeirinho	2
+Ribeiros	2
+Rio de Galinhas	2
+Rio de Mel	2
+Rio Douro	2
+Rio Maior	2
+Rochão	2
+Rodas	2
+Romariz	2
+Romeiras	2
+Roqueiro	2
+Rosário	2
+Roxo	2
+Rua da Igreja	2
+Ruge Água	2
+Ruivães	2
+Ruivos	2
+Sabrosa	2
+Sabroso	2
+Sabugosa	2
+Safurdão	2
+Salamonde	2
+Salão	2
+Salgueira	2
+Salgueiros	2
+Saltadouro	2
+Salto	2
+Salvada	2
+Sambade	2
+Sameiro	2
+Sandim	2
+Santa	2
+Santa Tecla	2
+Santar	2
+Sante	2
+Santiais	2
+Santo Adrião	2
+Santo Tirso	2
+Santos	2
+São Brissos	2
+São Cibrão	2
+São Cosmado	2
+São Cristóvão	2
+São Facundo	2
+São Francisco	2
+São Gabriel	2
+São João do Monte	2
+São Marcos	2
+São Marcos da Serra	2
+São Miguel do Mato	2
+São Silvestre	2
+Sapeira	2
+Sardal	2
+Sardoal	2
+Sarnada	2
+Sarrasqueira	2
+Seiceira	2
+Seixos Alvos	2
+Selores	2
+Senande	2
+Senhora da Luz	2
+Senhora do Amparo	2
+Senhora dos Remédios	2
+Senra	2
+Sequeira	2
+Sequeiro	2
+Sernadinha	2
+Serreira	2
+Serro Ventoso	2
+Serzedo	2
+Sete Fontes	2
+Sezures	2
+Silva Escura	2
+Silval	2
+Silveiras	2
+Silvosa	2
+Simões	2
+Sismarias	2
+Sobradelo	2
+Sobral de Cima	2
+Sobral Magro	2
+Sobredo	2
+Sobreira Formosa	2
+Soengas	2
+Soito	2
+Sopo	2
+Sousa	2
+Souto de Baixo	2
+Souto do Monte	2
+Souto Maior	2
+Souto Redondo	2
+Sul	2
+Susão	2
+Taboeira	2
+Tabuaço	2
+Tabuadelo	2
+Tacões	2
+Tapada	2
+Tarouca	2
+Tarrio	2
+Taveiro	2
+Tazem	2
+Teixugueiras	2
+Telhadela	2
+Telhal	2
+Telheiros	2
+Telões	2
+Temporão	2
+Terreiros	2
+Tojeiro	2
+Toledo	2
+Torgal	2
+Torneiro	2
+Torrejão	2
+Torres	2
+Tourega	2
+Trabalhia	2
+Trancoso	2
+Trandeiras	2
+Travassô	2
+Travessa	2
+Trogal	2
+Troviscoso	2
+Trutas	2
+Umbria	2
+Urjais	2
+Urrô	2
+Vacaria	2
+Vacariça	2
+Vade	2
+Valado	2
+Vale Bom	2
+Vale Covo	2
+Vale da Cabra	2
+Vale da Horta	2
+Vale da Mó	2
+Vale da Porca	2
+Vale da Venda	2
+Vale das Cerejeiras	2
+Vale das Ovelhas	2
+Vale de Boi	2
+Vale de Carros	2
+Vale de Cavalos	2
+Vale de Coelho	2
+Vale de Eiras	2
+Vale de Estacas	2
+Vale de Hortas	2
+Vale de Junco	2
+Vale de Madeiros	2
+Vale de Mouro	2
+Vale de Pedras	2
+Vale de Pegas	2
+Vale de Santiago	2
+Vale de Tábuas	2
+Vale de Urso	2
+Vale do Barco	2
+Vale do Pereiro	2
+Vale Maior	2
+Vale Pereiro	2
+Vale Torto	2
+Valhelhas	2
+Valinho	2
+Vaqueiros	2
+Varge	2
+Varzielas	2
+Veigas	2
+Veiros	2
+Venda da Serra	2
+Venda de Cima	2
+Verdelhos	2
+Vermoim	2
+Vessadas	2
+Vialonga	2
+Vidigueira	2
+Vidual	2
+Viduedo	2
+Vieiro	2
+Vila Chã do Monte	2
+Vila da Ponte	2
+Vila de Rei	2
+Vila do Conde	2
+Vila Facaia	2
+Vila Fernando	2
+Vila Frescainha	2
+Vila Galega	2
+Vila Marim	2
+Vila Mendo	2
+Vila Nova da Telha	2
+Vilaça	2
+Vilar de Ouro	2
+Vilarelho	2
+Vilares de Baixo	2
+Vilares de Cima	2
+Vilarinho de Cima	2
+Vilarinho do Monte	2
+Vilas Boas	2
+Vilela Seca	2
+Vilões	2
+Vimeiro	2
+Vinho	2
+Vitoreira	2
+Vitória	2
+Viveiro	2
+Zambujeira	2
+Zebral	2
+Zebras	2
+Zimbreira	2
+A da Beja
+A do Cavalo
+A do Corvo
+A do Fação
+A do Freire
+A do Pinto
+A dos Arcos
+A dos Cunhados
+A dos Francos
+A dos Negros
+A dos Ruivos
+Abade de Neiva
+Abade de Vermoim
+Abades
+Abeção
+Abela
+Abitureiras
+Aboá
+Aboadela
+Abóbada
+Abobreira
+Aboim da Nóbrega
+Aborim
+Abraã
+Abrantes
+Abraveses
+Abrigada
+Abuxarda
+Achada do Gamo
+Açorda
+Adão
+Adão Lobo
+Adaúfe
+Adaval
+Adçamo
+Ade
+Adeganha
+Adegoiva
+Adões
+Adro Velho
+Adufe
+Advagar
+Afeiteira
+Afonso Vicente
+Afurada de Baixo
+Agilde
+Agodim
+Agoncida
+Agordela
+Agostos
+Ágria Grande
+Ágria Pequena
+Agrobom
+Água Boa
+Água da Figueira
+Água das Casas
+Água de Alto
+Água de Pau
+Água de Pena
+Água de Prata
+Água de Saúde
+Água de Todo o Ano
+Água Longa
+Água Retorta
+Água Salgada
+Aguada de Baixo
+Aguada de Cima
+Águas de Moura
+Aguçadoura
+Águeda
+Aguiar da Beira
+Aguiar de Sousa
+Aguieiras
+Agunchos
+Aipo
+Airó
+Aivados e Fontes
+Ala
+Alapraia
+Alares
+Albagado
+Albatroz
+Albergaria dos Doze
+Albergaria-a-Velha
+Albernoa
+Albufeira
+Alburitel
+Alcabideche
+Alcabideque
+Alcácer do Sal
+Alcains
+Alcalar
+Alcanadas
+Alcanede
+Alcanena
+Alcangosta
+Alcanhões
+Alcântara
+Alcantarilha
+Alcareia
+Alcaria do João
+Alcaria Ruiva
+Alcarraques
+Alcobertas
+Alcochete
+Alcoentre
+Alcogulhe
+Alcoitão
+Alcorochel
+Alcorriol
+Aldeia da Bemposta
+Aldeia da Mata
+Aldeia da Ribeira Fundeira
+Aldeia das Acoteias
+Aldeia das Sebes
+Aldeia de Além
+Aldeia de Brescos
+Aldeia de Eiras
+Aldeia de Eiras Fundeiras
+Aldeia de Irmãos
+Aldeia de Joanes
+Aldeia de Paio Pires
+Aldeia de Santa Teresa
+Aldeia do Ronquenho
+Aldeia dos Mourinhos
+Aldeia dos Narigudos
+Aldeia Nova da Azóia
+Aldeia Viçosa
+Alderete
+Alderiz
+Aldoar
+Alecrineira
+Além da Veiga
+Alenquer
+Alfaião
+Alfaiates
+Alfama
+Alfange
+Alfarazes
+Alfarelos
+Alfeiria
+Alfeizerão
+Alfena
+Alferrarede
+Alforgemel
+Alfornelos
+Alfouvez
+Algares
+Algaz
+Algés
+Algodor
+Algoso
+Algoz
+Alguber
+Algueirão
+Alhadas
+Alhandra
+Alheira
+Alhos Vedros
+Alijo
+Alijó
+Aljezur
+Aljubarrota
+Almacinha
+Almancil
+Almanços de Baixo
+Almansor
+Almargens
+Almegue
+Almeirinhos de Cima
+Almendras
+Almoçageme
+Almodofa
+Almodôvar
+Almogade
+Almoinhos
+Almonda
+Almoriz
+Alpedreira
+Alpendurada
+Alpiarça
+Alportel
+Alqueidão da Serra
+Alqueidão de Santo Amaro
+Alqueidão do Mato
+Alqueva
+Alrote
+Altamora
+Alte
+Alter do Chão
+Alto da Barreira
+Alto da Maia
+Alto da Pega
+Alto do Monte
+Altura
+Alufinha
+Alumiara
+Alvações do Tanha
+Alvadia
+Alvados
+Alvaiade
+Alvaledes
+Alvarrões
+Alveite Pequeno
+Alvendre
+Alventela
+Alverca
+Alvide
+Alvito de Cima
+Alvor
+Alvorge
+Alvorninha
+Amadora
+Amarante
+Amareleja
+Amares
+Ameira
+Ameixas
+Ameixede
+Ameixial-Santa Vitória
+Ameixiosa
+Amendoeira de Cima
+Amiães de Baixo
+Amieira Cova
+Amioso
+Amioso do Senhor
+Amoinha Nova
+Amor
+Amora
+Amorim
+Ançã
+Andainho
+Andão
+Andrinos
+Angeiras
+Angeja
+Angorez
+Angra do Heroísmo
+Angueira
+Angústias
+Anha
+Anissó
+Ansião
+Ansul
+Antanhol
+Apariços
+Apartadura
+Apelação
+Apúlia
+Apúlia e Fão
+Arábia
+Aradas
+Aranhas
+Aranhas de Cima
+Arazede
+Arco da Calheta
+Arco de Baúlhe
+Arco de São Jorge
+Arcos de Valdevez
+Arcossó
+Ardido
+Areal
+Arega
+Areia Larga
+Areias de Gonde
+Arentim
+Areosa de Cima
+Arga de Cima
+Arga de São João
+Argamassa
+Argea
+Argeriz
+Argivai
+Argomil
+Argoncilhe
+Argova
+Arialva
+Armação de Pêra
+Armaes
+Armazéns
+Arnalha
+Arneirós
+Aroal
+Aroeiras
+Arrabães
+Arraial da Fainina
+Arrancosa
+Arranhó
+Arreçiadas
+Arreganhado
+Arreigada
+Arrentela
+Arrepiado
+Arrifes
+Arrimal
+Arrizada
+Arroeiras
+Arronches
+Arruda dos Pisões
+Arruda dos Vinhos
+Árvore
+Assafarge
+Assamassa
+Assanha da Paz
+Assencada
+Atães
+Atalaia Cimeira
+Atenor
+Atouguia da Baleia
+Atranco
+Avanca
+Avantos
+Aveiras de Baixo
+Aveiras de Cima
+Aveiro
+Avelãs da Ribeira
+Avelãs de Caminho
+Avelelas
+Aver-o-Mar
+Aves
+Avilhoso
+Avintes
+Avis
+Avô
+Avões
+Azabuxo
+Azambuja
+Azeitão
+Azelha
+Azenha do Mar
+Azenhas do Mar
+Azoia de Baixo
+Azoio
+Azueira
+Azurém
+Azurva
+Babau
+Baçal
+Bacelos
+Bade
+Bafueiras
+Bagaço
+Baguim do Monte
+Bailão
+Bairral
+Bairrão
+Bairro da Figueira
+Bairro da Flamenga
+Bairro da Madre de Deus
+Bairro das Amendoeiras
+Bairro do Alto da Boavista
+Bairro do Loreto
+Bairro dos Mortais
+Bairro Falcão
+Bairro Novo
+Bairro Silva Braga
+Baixa
+Bajanca
+Bajancas Cimeiras
+Bajolo
+Balança
+Balde
+Baleal
+Baleia
+Balouta
+Baltar
+Balurco de Baixo
+Balurco de Cima
+Bamba
+Banco
+Bandalhoeira
+Bandeiras
+Bandulha
+Banhos Secos
+Banzão
+Baralde
+Barão de São João
+Barbas de Porco
+Barbas Novas
+Barbito
+Barbudo
+Barca d'Alva
+Barca do Lago
+Barcarena
+Barcelinhos
+Barcelos
+Barcos
+Barlonguinho
+Barosa
+Barqueiro
+Barradas
+Barrancão
+Barranco de Belchior Dias
+Barrancosas
+Barreiria
+Barrela
+Barrigões
+Barro Branco
+Barroca Grande
+Barrocaria
+Barroja
+Barroso
+Batocas
+Beato António
+Beberriqueira
+Bececarias
+Bedanais
+Beira
+Beiriz de Baixo
+Beja
+Bela
+Bela Salema
+Belas
+Belazaima do Chão
+Belfeiro
+Belo Horizonte
+Bemfeita
+Bemfica
+Benafim Pequeno
+Bencatel
+Benedita
+Benespera
+Benfeita
+Bensafrim
+Bergaço
+Beringel
+Bernardos
+Berrabés
+Berrega
+Bertufo
+Besoura
+Bespeira
+Bessada
+Besteiro
+Betunes
+Bezelga de Baixo
+Bezerra
+Bicas
+Bico Alto
+Bico Sacho
+Bidueira de Cima
+Bioucas
+Biscoito Bravo
+Boa Aldeia
+Boassas
+Boaventura
+Boavista dos Pinheiros
+Bobeiro
+Bobeses
+Boelhe
+Bogalhal
+Bogas de Baixo
+Bogim
+Boialvo
+Boiça de Baixo
+Boieiro
+Boisias
+Boivão
+Bolavo
+Boldrarias
+Bolelas
+Bolelo
+Bolembre
+Boligueira
+Boliqueime
+Bombarral
+Bombel
+Bomfim
+Bon Nome
+Bonjoia
+Boquilobo
+Borba da Montanha
+Bordeiro
+Bordonhos
+Borreco
+Botica
+Bouça de Baixo
+Bouça Soeiro
+Bouças Donas
+Bouceiro
+Boucinho
+Bouços
+Bougado
+Bousende
+Bracial
+Braga
+Bragado
+Bragança
+Branca
+Brancas de Cima
+Branda da Bouça dos Homens
+Brandara
+Brás Oleiro
+Bravo
+Brejão
+Brejoal
+Brejos Velhos
+Bretanha
+Brinches
+Brinço
+Brinços
+Britiande
+Briza
+Broalhos
+Broegas
+Broeiras
+Brogal
+Brogueira
+Bruçó
+Brunheta
+Bruzende
+Buarcos
+Bucelas
+Bufinha
+Bujos
+Bunhosa
+Burgau
+Burreiros
+Bustelo do Caima
+Cabana Maior
+Cabanas de Baixo
+Cabanas de Tavira
+Cabanas de Torres
+Cabanas de Viriato
+Cabanita
+Cabanões de Baixo
+Cabeça de Carneiro
+Cabeça de Carvalho
+Cabeça do Velho
+Cabeça Veada
+Cabeçadas
+Cabeção
+Cabeças Verdes
+Cabeceiras de Basto
+Cabeço da Moucheira
+Cabeço de Mourão
+Cabeço do Infante
+Cabo Branco
+Cabo da Praia
+Cabo da Ribeira
+Cabo da Roca
+Cabo da Sebe
+Cabo Ruivo
+Cabos
+Cabroeira do Meio
+Caçarilhe
+Cacém
+Cachamundinho
+Cachave
+Cacheiro
+Cachoeiras
+Cacia
+Cadafais
+Cadaixo
+Cadaval Grande
+Cadavão
+Cadima
+Cadorças
+Cadriceira
+Cais
+Cais do Galego
+Cais do Pico
+Calço do Espalhafatos
+Calço do Ferreiro
+Caldas da Rainha
+Caldas de Aregos
+Caldas de Monchique
+Caldas de Vizela
+Calde
+Calendário
+Caliços de Cima
+Calvária de Baixo
+Calvaria de Cima
+Calves
+Calvino
+Calvinos
+Calvo
+Câmara de Lobos
+Camarão de Baixo
+Camarinheiras
+Camarnal
+Camarneira
+Cambeia
+Cambres
+Caminha
+Campainha
+Campanário
+Campanhã
+Campia
+Campina de Baixo
+Campinas
+Campinho
+Campo de Arca
+Campo de Besteiros
+Campo de Égua
+Campo De Ourique
+Campo Maior
+Campo Pequeno
+Campolide
+Canada das Vinhas
+Canada do Boqueirão
+Canada do Cruzeiro
+Canada do Sousa
+Canada do Vale Verde
+Canado
+Canais
+Canas de Senhorim
+Canaveses
+Cancelada
+Candeiro
+Caneças
+Canhardo
+Canhas
+Canhestro
+Canhoso
+Caniçal Cimeiro
+Caniço
+Cantinho
+Canto do Calvão
+Caparica
+Caparide
+Capinha
+Capuchos
+Caranguejeira
+Carapelhos
+Carapereiro
+Carapetosa
+Carapu
+Carcavelos de Baixo
+Carcereiro
+Cardanha
+Cardeira
+Cardia
+Cardosos
+Carias
+Caridade
+Carmo
+Carmões
+Carocedo
+Carpalhosa
+Carqueja
+Carquejo
+Carragosa
+Carralcova
+Carrapata
+Carrapatosa
+Carraptinha
+Carrazeda de Anciães
+Carrazede
+Carrazedo do Alvão
+Carregado
+Carregais de Baixo
+Carregal do Sal
+Carregoiceira
+Carreira do Mato
+Carreiro da Areia
+Cartaria
+Cartaxo
+Carvais de Baixo
+Carvalhal da Aroeira
+Carvalhal da Azoia
+Carvalhal de Cima
+Carvalhal de Vermilhas
+Carvalhal do Pombo
+Carvalheiro
+Carvalheiros
+Carvalho de Egas
+Carvalho de Rei
+Carvão
+Carvela
+Carvide
+Casa Boa
+Casa de Barbas
+Casa de Saúde do Telhal
+Casa do Abade
+Casa do Depois Vem
+Casa do Formigal
+Casa do Inglês
+Casa dos Claros
+Casa Telhada
+Casais da Abadia
+Casais da Aroeira
+Casais da Caridade
+Casais da Cartaxa
+Casais da Fragosa
+Casais da Póvoa
+Casais da Pucariça
+Casais de Igreja
+Casais de Mestre Mendo
+Casais de Santa Maria de Almoster
+Casais de Santo António
+Casais de São Brás
+Casais de São Domingos
+Casais de São Jorge
+Casais de São Mamede
+Casais do Anafe do Meio
+Casais do Ferreira
+Casais do Monte
+Casais do Rijo
+Casais do Rio
+Casais dos Correias
+Casais dos Montes
+Casais dos Penedos
+Casais Garridos
+Casais Martanes
+Casais Robustos
+Casal Boieiro
+Casal Branco
+Casal da Bica
+Casal da Clara
+Casal da Ermida-Vale da Serra
+Casal da Marinha
+Casal da Ortiga
+Casal da Pinheira
+Casal da Rola
+Casal da Sobreira
+Casal da Venda
+Casal das Lameiras
+Casal de Abade
+Casal de Deus
+Casal de João Dias
+Casal de Lobos
+Casal de Pianos
+Casal de Relvas
+Casal de Santa Iria
+Casal de Santa Maria
+Casal de Santo Amaro
+Casal de São Pedro
+Casal do Alvaro
+Casal do Anafe de Baixo
+Casal do Bolho
+Casal do Cimeiro
+Casal do Freixo-Vale da Serra
+Casal do Mota
+Casal do Norte
+Casal do Sarradão
+Casal do Soito
+Casal do Vale do Grou
+Casal dos Crepos
+Casal dos Cunhas
+Casal dos Moleiros
+Casal dos Ossos
+Casal dos Vares
+Casal Doufes
+Casal Duro
+Casal Farto
+Casal Funina-Vale da Serra
+Casal Madalena
+Casal Pereiro
+Casal Perna Seca
+Casal Sarrão
+Casal Sebes
+Casal Suão
+Casal Velide
+Casal Vermelho
+Casal Vieira
+Casaldeite
+Casalinho de Santana
+Casalinhos de Alfaiata
+Casalmelhe
+Casarão do Archino
+Casario
+Casas Altas
+Casas Figueiras
+Casas Grandes
+Casas Juntas
+Cascais
+Cascalhal
+Cascalheira de Baixo
+Cascalho de Baixo
+Casebres
+Casegas
+Caseirinhos
+Cassaca
+Castanheira Cimeira
+Castanheira de Pera
+Castanheira do Ribatejo
+Castelo Cernado
+Castelo de Vide
+Castelo do Bode
+Castelo Rodrigo
+Castelo Viegas
+Castelões de Cepeda
+Castendo
+Castro Daire
+Castro de Avelãs
+Castro Marim
+Castro Verde
+Castrovicente
+Catarinões
+Catezim
+Cativelos
+Cava
+Cavacos
+Cavaleira
+Cavaleiro Alvo
+Cavalinho
+Cavalinhos
+Cavalões
+Cavalos
+Cavez
+Caxarias
+Caxias
+Caxieira
+Caxinas
+Ceara
+Cedesma
+Cedrim
+Cegonhas Velhas
+Ceira
+Ceiroco
+Celeiró do Monte
+Cem
+Cendufe
+Cerca Velha
+Cerdal
+Cerdeiral
+Cerejais
+Cerejal
+Cerejeiras
+Cerejo
+Cergas
+Cernache
+Cerquedo
+Cerquido
+Cerro Alto
+Cerro da Cova
+Cerro das Pedras
+Cerro das Taipas
+Cerro de Alportel
+Cerro dos Passarinhos
+Cerro dos Vermelhos
+Cerro Ruivo
+Cervos
+Cestaço
+Cestãis
+Cete
+Cevide
+Chã da Cruz
+Chaens
+Chaiça Madriz
+Chaim
+Chamadouro
+Chamboa
+Chancuda
+Chão da Forca
+Chão da Parada
+Chão das Donas
+Chão das Eiras
+Chão das Pias
+Chão das Servas
+Chão de Maçãs
+Chão de Meninos
+Chão de Sapo
+Chão Frio
+Chão Pardo
+Chaparral
+Chapinha
+Chapinheira
+Charneca de Caparica
+Charneca do Maxial
+Charruada
+Chãs de Égua
+Chãs de Tavares
+Chavão
+Chaves
+Chaviães
+Cheganças
+Chiado
+Chícharo
+Chim
+Chiqueda de Cima
+Choca da Serra
+Chorosa
+Chouriço
+Chousa Velha
+Chousos
+Chouto
+Cibões
+Cidade
+Cidade Universitária
+Cidoi
+Cimadas Cimeiras
+Cimo da Ribeira Cimeira
+Cimo dos Ribeiros
+Cinco Vilas
+Cintados
+Cioga do Monte
+Claras
+Claro Monte
+Clemente da Costa
+Cobre
+Coção
+Codeçoza
+Codiceira
+Coelhos
+Coentral das Barreiras
+Cogominho
+Cogula
+Coimbra
+Coimbrão
+Colares
+Colarinha
+Coleja
+Colgadeiros
+Colherinhas de Cima
+Colmeias
+Colmeosa
+Cômaros
+Comenda de Cima
+Comporta
+Condeixa
+Condeixa-a-Nova
+Congeitaria
+Conguedo
+Consolação
+Constância
+Constantina
+Contenda
+Contensas de Cima
+Contige
+Contumil
+Corcha
+Corcitos
+Cordinhã
+Córdova
+Corgas Bravas
+Corgo de São Domingos
+Coroados
+Coronado
+Corotelo
+Correias
+Corrição
+Corroios
+Corsas
+Corte Bucho
+Corte de Donas
+Corte do Neto
+Corte do Ouro
+Corte do Pinto
+Corte do Sobro
+Corte João Marques
+Corte Nova
+Corte Paral
+Cortecega
+Corterredor
+Cortes Pereiras
+Cortesia
+Cortezães
+Cortezorrinha
+Corucho
+Corujeira de Dentro
+Cos
+Costa da Caparica
+Costa de Caparica
+Costa de Lavos
+Costa do Estoril
+Costa do Valado
+Costa Grande
+Costa Nova
+Cotão
+Cotem
+Cótimos
+Cotovia
+Coucão
+Courã
+Courela
+Couto de Cima
+Cova da Azenha
+Cova da Moura
+Cova de Lobo
+Cova do Barro
+Cova do Lobo
+Cova do Ouro
+Covão da Carvalha
+Covão da Mula
+Covão do Sabugueiro
+Covão dos Porcos
+Covas do Barroso
+Covelo de Paiva
+Covelo de Paivô
+Covelo do Gerez
+Covilhã
+Cravaz
+Crescido
+Crestuma
+Cristóvãos
+Crujeira de Fora
+Cruz da Légua
+Cruz das Duas Ribeiras
+Cruz de Ferro
+Cruz de Pau
+Cruz de São Domingos
+Cruz do Alcaide
+Cruz dos Morouços
+Cuba
+Cucujães
+Cume do Soito
+Cumeadas
+Cumeiras
+Cumieira de Cima
+Cunha Alta
+Cunhedo
+Currais Boieiros
+Curral das Freiras
+Curraleira
+Curralões
+Currelos
+Cursães
+Curvaceiras Grandes
+Curvos
+Custoias
+Cutama
+Cuvelas de Baixo
+Cuvinho
+Daires
+Daivões
+Damaia
+Darque
+Decabelos
+Defeira
+Dem
+Deocriste
+Derreada Cimeira
+Derriada
+Deveseira
+Devezinha
+Digueifel
+Diogo Dias
+Domingos da Vinha
+Domingueiros
+Donai
+Donas
+Doncemil
+Donfins
+Donzenas de Cima
+Dornelas do Zêzere
+Dornes
+Drizes
+Duque
+Edral
+Eguins
+Eira da Cruz
+Eira Nova
+Eira Velha dos Barrigões
+Eiras da Horta
+Eiras da Palma
+Eiravade
+Eirol
+Eivados
+Eixo
+Eja
+Elvas
+Embra
+Encarnação
+Engenheiro
+Enguias
+Entre-a-Serra
+Entre-as-Águas
+Envendos
+Enxara dos Cavaleiros
+Ereiras
+Ericeira
+Ermesinde
+Ermida da Lapinha
+Erra
+Ervedeiros
+Ervedosa do Douro
+Ervedoso
+Ervideiro
+Ervidel
+Ervilhais
+Escabralhados
+Escalos de Baixo
+Escandarão
+Escatelar
+Escoureda
+Esfrega
+Esgueira
+Esmolfe
+Esmoriz
+Espadanido
+Espargo
+Espedrada
+Espiçandeira
+Espiche
+Espinca
+Espindo
+Espite
+Esposende
+Espozade do Fundo
+Esqueiros
+Estação de Gouveia
+Estefania
+Esteiro Furado
+Estela
+Ester
+Esteval
+Estivadas
+Estói
+Estômbar
+Estoril
+Estorneiros
+Estoze
+Estrada de Anços
+Estrada de Viavai
+Estreito da Calheta
+Estreito de Câmara de Lobos
+Estremoz
+Estribeiro
+Esturãos
+Évora Monte
+Facha
+Fadagosa
+Fafe
+Fagilde
+Faguiães
+Fagulhos
+Faial
+Fail
+Fajã da Murta
+Fajã da Ovelha
+Fajã de Além
+Fajã de Baixo
+Fajã de Santo Amaro
+Fajã de São João
+Fajã do Calhau
+Fajã do Ouvidor
+Fajã do Penedo
+Fajã do Pereira
+Fajã dos Vimes
+Fajã Grande
+Fajão
+Fajozes
+Falagueiro
+Faldejãis
+Falfeira
+Fanadia
+Faneca
+Fanhais
+Fanhões
+Faniqueira
+Fânzeres
+Farelos de Baixo
+Farelos de Cima
+Faria
+Faro
+Faro do Alentejo
+Fárrio
+Farroupo
+Fartaria
+Fataunços
+Fátima
+Favaios
+Favões
+Fazenda das Lajes
+Fazenda de Santa Cruz
+Fazendas de Almeirim
+Febros
+Feijão
+Felgares
+Fenais da Ajuda
+Fenais da Luz
+Fermil
+Ferrarias Cimeiras
+Ferreira do Alentejo
+Ferreira-a-Nova
+Ferreiras
+Ferreirinha
+Ferreiros de Avões
+Ferro das Vacas
+Ferrobim do Sul
+Ferrocinto
+Ferrugende
+Fetais Cimeiros
+Fetil
+Fiães do Rio
+Fiais da Telha
+Fial de Baixo
+Figueira da Foz
+Figueira de Castelo Rodrigo
+Figueira do Guincho
+Figueiredo de Alva
+Figueirinhas
+Figueiró dos Vinhos
+Figueirosa
+Filhós
+Findal
+Fiolhoso
+Fioso
+Fitoiro
+Flamengos
+Flor de Barrancos
+Fofim de Aquém
+Fogarosa
+Fogueira
+Foia
+Fojo Lobal
+Folgas
+Folgosa do Salvador
+Folhadal
+Folhadosa
+Folques
+Fontainha
+Fontanelas
+Fontão Fundeiro
+Fonte Arez
+Fonte Barreira de Cima
+Fonte Bastardo
+Fonte Catarina
+Fonte da Amêndoa
+Fonte da Costa
+Fonte da Pedra
+Fonte de Olho
+Fonte do Frade
+Fonte do Marco
+Fonte do Oleiro
+Fonte do Rego
+Fonte do Touro
+Fonte Escura
+Fonte Mercê
+Fonte Zambujo
+Fontinha de Baixo
+Forcada
+Formigais
+Forneas
+Forneiros
+Forno Telheiro
+Fornos de Ledra
+Foros da pouca sorte
+Foros de Bemparece
+Foros do Biscainho
+Forte
+Fortes
+Fortunho
+Foz da Maceira
+Foz do Arelho
+Foz do Douro
+Foz do Sousa
+Foz Giraldo
+Frádigas
+Fragosela
+Fraldeu
+França
+France
+Franciscas
+Franqueda de Baixo
+Frazão
+Frazumeira
+Freamunde
+Frecheiro
+Freches
+Freguesia
+Freimi
+Freixedelo
+Freixeira
+Freixianda
+Freixieiro de Soutelo
+Freixo da Serra
+Freixo de Espada à Cinta
+Freixo de Numão
+Friães
+Friume
+Friumes
+Fuinhas
+Fujados
+Funchais
+Funcheira
+Funchosa
+Fundo da Rua
+Fundo de Oleiros
+Fungalvaz
+Funtão de Cima
+Furnas
+Fuzeta
+Gabrielos
+Gaeiras
+Gafanha
+Gafanha da Encarnação
+Gafanhão
+Gáfete
+Gaios
+Gaiteiras
+Gajão
+Galafura
+Galé de Baixo
+Galega
+Galeota
+Galés
+Galisteu Cimeiro
+Galocha
+Galvão
+Gândara de Aquém
+Gândara dos Olivais
+Ganfei
+Gansaria
+Garcia Joanes
+Garfe
+Garrobo
+Garruchas
+Gaspalha
+Gaspara
+Gatas
+Gatinheira
+Gávea
+Gavião de Baixo
+Gavinhos
+Gem
+Gemieira
+Gemunde
+Genízio
+Gestinha
+Gestosa Cimeira
+Gestosa de Baixo
+Giestosa
+Gigante
+Gilbarbedo
+Gilvrazinos
+Gimonde
+Gional
+Goães
+Godel
+Godinhaços
+Góis
+Goldra
+Goldra de Baixo
+Goldra de Cima
+Golegã
+Golfeiras
+Golfeiros de Baixo
+Golpilheira
+Gomes Aires
+Gominhães
+Gondemaria
+Gondivinho
+Gondizalves
+Gondrozeira
+Gontilhe
+Gontomil
+Gostei
+Gosundeira
+Goucha
+Gove
+Gradiz
+Grândola
+Granja de Ancã
+Granja de Oleiros
+Granja do Paiva
+Granjão
+Gregórios
+Grossinhos
+Gualtar
+Guardais
+Guardamato
+Gueifães
+Guena
+Gueral
+Guerreiros do Rio
+Guifões
+Guilhadezes
+Guilheta
+Guilhova
+Guisande
+Guistolinha
+Gulpilhares
+Gumirãis
+Guribanes
+Helenos
+Herdade dos Frades
+Ichou
+Idanha-a-Velha
+Igarei
+Igreja Matriz de Vila Nova de Famalicão
+Ilha da Culatra
+Ilha de Baixo
+Ilha do Farol
+Ilhas de Baixo
+Ílhavo
+Inácios
+Inculca
+Ingilde
+Inha
+Intendente
+Inviando
+Irivo
+Isenta
+Isna de São Carlos
+Izeda
+Jã da Rua
+Jardim da Serra
+Jardim de Cima
+Jardim do Mar
+Jardoeira
+Joane
+João de Gales
+João Durão
+João Gomes
+João Serra
+Jou
+Joudina
+Jugaria
+Júlia
+Juncal de Cima
+Junco
+Juromenha
+Labiados
+Laboucinho
+Labruge
+Ladreda
+Ladrongueira
+Ladrugais
+Lagar das Casas
+Lagar de Baixo
+Lagar do Pinheiro
+Lagar Novo
+Lagares da Beira
+Lagielas
+Lago
+Lagoa Cimeira
+Lagoa da Carapita
+Lagoa da Rosa
+Lagoa das Furnas
+Lagoa das Talas
+Lagoa de Santa Catarina
+Lagoa do Furadouro
+Lagoa do Grou
+Lagoa dos Bois
+Lagoaça
+Lagos da Beira
+Lagos e Relva
+Laguinho
+Lajes das Flores
+Lajido
+Lajinhas
+Lalim
+Lama de Ouriço
+Lamaceiros
+Lamares
+Lamas de Orelhão
+Lamegal
+Lamego
+Lameira de São Geraldo
+Lampaça
+Lanção
+Landeiro
+Landiosa
+Lanhas
+Lanheses
+Lapa do Lobo
+Lapa dos Dinheiros
+Lapa Furada
+Lapeiras
+Laranjal
+Lavachos
+Lavacido
+Lavacolhos
+Lavegadas
+Laveiras
+Lavos
+Lavra
+Lebução
+Leça da Palmeira
+Leça do Bailio
+Leceia
+Leião
+Leiradas
+Leiria
+Leiroinha
+Lemede
+Lentiscais
+Lercas
+Lever
+Lexim
+Lezíria da Palmeira Velha
+Limões
+Linda-a-Pastora
+Linda-a-Velha
+Lindoso
+Linharelhos
+Linhó
+Lisboinha
+Lisbon
+Listoso
+Liteiros
+Lixa do Alvão
+Lobata
+Lobeira
+Lobeira de Baixo
+Lobeira de Cima
+Lobrigos
+Lodeiro
+Logo de Deus
+Logocem
+Logoela
+Loivos do Monte
+Lomba Chã
+Lomba de Alveite
+Lomba do Poço Frio
+Lomba dos Pós
+Lombadas
+Lombador
+Lombo da Velha
+Lombos
+Longa
+Longueira
+Lordelo de Cima
+Lordelo do Ouro
+Loriga
+Lorvão
+Louçãs
+Loulé
+Lourel de Cima
+Loures
+Louriçal
+Lourinhã
+Lourinhal
+Lourosa de Matos
+Lousã
+Louzões
+Lubagueira
+Lubrém
+Lufinha
+Lugar da Igreja Paço
+Lugar de Baixo
+Lugar de Cima
+Lumiar
+Lumiares
+Luso
+Lutreu
+Luzianes
+Luzim
+Macada
+Maçainhas
+Maças
+Macedo de Cavaleiros
+Maçeira
+Maceirinha
+Machialinho
+Machico
+Macieira da Lixa
+Macieira da Maia
+Macieira de Cambra
+Macieira de Rates
+Macieira de Sarnes
+Macieirinha
+Maçoida
+Madalena do Mar
+Madancos
+Madeira
+Madeirã
+Mafamude
+Mafra
+Maganha
+Maía
+Mairos
+Mala
+Maladão
+Malaqueijo
+Malavenda
+Malbusca
+Malhada Alta
+Malhada Chã
+Malhada do Cervo
+Malhada Quente
+Malhada Sorda
+Malhadal
+Malhadinhas
+Malhapão de Cima
+Malpica
+Malveira
+Mamarrosa
+Mamouros
+Mana
+Manadas
+Mancos
+Mandorelha
+Mangide
+Mangues
+Manhenha
+Manhosa
+Manigoto
+Manique de Baixo
+Manique de Cima
+Manique do Intendente
+Manta Rota
+Manteigas
+Marao
+Maravila
+Marchil
+Marco da Oliveirinha
+Marco de Canavezes
+Marcões
+Marcos Mendes
+Marecos
+Marga
+Margaride
+Margueira
+Marinha de Baixo
+Marinha Grande
+Marinhais
+Mariquiteira
+Marmeleira do Botão
+Marmelete
+Marruas
+Marta
+Marzugueira
+Mascanho
+Massamá
+Massarelos
+Mata de Lobos
+Mata de Porto Moiro
+Mata Grande
+Mata Ladrões
+Mata Porcas
+Mataduço
+Matancinha
+Matas de Espite
+Mato de Miranda
+Mato do Santo Espírito
+Mato Porcas
+Mato Velho
+Matos do Carriço
+Matosos
+Matriz
+Maureles
+Maxialinho
+Mazarefes
+Mazouco
+Meadela
+Mêda
+Medancelhe
+Medroa
+Medronhal
+Mega Cimeira
+Mei
+Meia Praia
+Meia Via
+Meinedo
+Meiriçô
+Meixedos
+Melres
+Melriço
+Memória
+Mendalvo
+Mendares
+Mendes
+Mendiga
+Meneses
+Mentrestido
+Merelhe
+Merim
+Merlães
+Merouço
+Mértola
+Meruge
+Merujais
+Merujal
+Mesa
+Mesas
+Messines de Baixo
+Mexilhoeira Grande
+Mexilhoeira Pequena
+Milhão
+Milharado
+Milheiriças
+Milheiro
+Milheirós de Poiares
+Milhões
+Minas de São Domingos
+Minde
+Mindel
+Mindelo
+Minhocal
+Miramar
+Miranda do Corvo
+Miranda do Douro
+Mirandela
+Mirão
+Mire de Tibães
+Misquel
+Mó Grande
+Mó Pequena
+Moaz
+Moçarria
+Mocifas de Santo Amaro
+Moçomodia
+Moega
+Mogo de Malta
+Mogofores
+Moimenta da Beira
+Moinho da Mata
+Moinho de Cima
+Moinho de Vento
+Moinhos de Vento
+Moita Boa
+Moita da Serra
+Moita de Ermo
+Moita do Boi
+Moita dos Ferreiros
+Moita Fundeira
+Moitalina
+Moitas de Baixo
+Moitas Venda
+Moleiro
+Molelos
+Mombeja
+Momprolé
+Moncarapacho
+Moncarxa
+Monchique
+Monchite
+Mondego
+Mondim da Beira
+Mondim de Basto
+Mondrões
+Monfebres
+Moninhos Fundeiros
+Monsaraz
+Monsarves
+Monserrate
+Monsoa
+Monsul
+Montachique
+Montalvinho
+Montarroio
+Monte Barata
+Monte Barrocal
+Monte Boi
+Monte Bom
+Monte da Antinha
+Monte da Azinheira
+Monte da Capela
+Monte da Carrasqueira
+Monte da Carvalheira
+Monte da Chaminé
+Monte da Comenda do Coelho
+Monte da Costa
+Monte da Enchacana
+Monte da Figueira de Baixo
+Monte da Gonçala
+Monte da Gorda
+Monte da Igreja
+Monte da Lentisca
+Monte da Lentisqueira
+Monte da Macarra
+Monte da Pereira
+Monte da Ribeira
+Monte da Torpada
+Monte da Torrejana de Cima
+Monte da Touca
+Monte da Várzea
+Monte da Viola
+Monte das Águias
+Monte das Canas
+Monte das Lages
+Monte das Laranjeiras
+Monte das Obras
+Monte das Prequiças
+Monte das Sarnadas
+Monte das Sorraias
+Monte das Tardonas
+Monte das Vargens
+Monte de Atoleirinhos
+Monte de Burgos
+Monte de Monção
+Monte de Reguengo
+Monte de São João
+Monte de São Silvestre
+Monte do Argil
+Monte do Barata
+Monte do Borreiro
+Monte do Botafogo
+Monte do Bussalfão
+Monte do Cardial
+Monte do Cégo
+Monte do Chapelar da Ribeira
+Monte do Colar de Perdiz
+Monte do Couto
+Monte do José da Costa
+Monte do Rio Seco
+Monte do Romba
+Monte do Simão Vaz
+Monte do Zé Cadete
+Monte dos Bispos
+Monte dos Mestres
+Monte dos Olheiros
+Monte dos Pernes
+Monte dos Pescais
+Monte Estoril
+Monte Frio
+Monte Judeu
+Monte Margarida
+Monte Moreanes
+Monte Novo de Poço Barbas
+Monte Novo do Calacu
+Monte Ramos
+Monte Real
+Monte Roncão
+Monte Vale de Paio
+Monte Vascão
+Monte Vasco
+Montelo
+Montemor
+Montemor-o-Novo
+Montemor-o-Velho
+Montemuro
+Montes Altos
+Montes da Estrada
+Montes da Senhora
+Montes da Torre
+Montes do Ramalho
+Montesouros
+Montezelo
+Montijo
+Montijos
+Montinho de Picamilho
+Montinhos da Luz
+Montinhos da Serra
+Morais
+Moreira de Baixo
+Moreira de Conegos
+Moreiras Grandes
+Moreiras Pequenas
+Moreirinhas
+Moreta
+Morgade
+Morgado
+Morganiças
+Mortágua
+Mortas
+Moscavide e Portela
+Moscoso
+Moselos
+Moses
+Mosteiró
+Mosteiro Cimeiro
+Mouchinha
+Mougueiras de Cima
+Mouguela
+Mouguelas
+Mourã
+Mouraria
+Mouratos
+Mourisca de Baixo
+Mouriscas
+Muar
+Múceres
+Muna
+Murgeira
+Murões
+Murtede
+Murtosa
+Muxós
+Nabainhos
+Nadadouro
+Nadais
+Nadrupe
+Nafarros
+Nagoselo do Douro
+Nariz
+Nataria
+Navalha
+Navarra
+Nave das Mealhas
+Nave dos Cordeiros
+Nazaré
+Negrais
+Negrosa
+Neiral
+Nelas
+Nesperido
+Nine
+Nisa
+Niza
+Nodar
+Nodeirinho
+Noeda
+Nogueira da Regedoura
+Nogueira do Cravo
+Nogueiros
+Noitinhas Novas
+Norte Grande
+Nossa Senhora da Boa Morte
+Nossa Senhora de Almodena
+Nossa Senhora de Lourdes
+Nossa Senhora do Cabo
+Nossa Senhora do Monte
+Nossa Senhora do Rosário
+Novainho
+Nozedo
+Numão
+Nuzedo de Baixo
+Obrais
+Odeleite
+Odemira
+Oeiras
+Oiã
+Óis do Bairro
+Olaia
+Oldrões
+Olhalvo
+Olhão
+Olhos de Água
+Oliveira de Azemeis
+Oliveira de Barreiros
+Oliveira de Frades
+Oliveira do Bairro
+Oliveira do Conde
+Oliveira do Hospital
+Oliveira do Mondego
+Onia
+Opeia
+Orca
+Ordonho
+Orelhudo
+Oriola
+Orjo
+Ormal
+Orvalhos
+Ossada
+Ossela
+Ota
+Ouca
+Ouguela
+Ourém
+Ourique
+Outeiro Cimeiro
+Outeiro das Matas
+Outeiro de Galegas
+Outeiro de Pisões
+Outeiro do Forno
+Outeiro do Rato
+Outeiro Grande
+Outeiro Juzão
+Outeiro Pequeno
+Outeiro Seco
+Outerelo
+Outoreça
+Ouzenda
+Ovadas de Cima
+Ovar
+Oveiras
+Ovelhinha
+Paço de Arcos
+Paço de Camões
+Paço de Sousa
+Paço do Lumiar
+Paço dos Ferreiros
+Paçô Vieira
+Paços da Serra
+Paços de Brandão
+Paços de Ferreira
+Paços de Gaiolo
+Padredo
+Padreiro
+Padrós
+Padrosouro
+Pafarrão
+Pai d'Aviz
+Pai Penela
+Pai Torto
+Pai Viegas
+Paialvo
+Paiões
+Paires
+Palácio do Ramalhão
+Palancar
+Palhavã
+Palheiros de São Jacinto
+Palmeiria
+Palmeiros
+Palmela
+Palvarinho
+Pampelido Novo
+Pampelido Velho
+Pampilhosa
+Pampilhosa da Serra
+Panascos
+Panchorra
+Panchorrinha
+Pandos
+Panque
+Papagovas de Cima
+Papízios
+Parada de Gatim
+Parada de Gonta
+Parada de Pinhão
+Parada de Tibães
+Parada do Bispo
+Paradela de Guiães
+Paradela do Monte
+Paradinha Nova
+Paraímo
+Paraiso
+Paralheira
+Parâmio
+Paramos
+Paranhão
+Parceiros da Igreja
+Parceiros de São João
+Parcerias
+Parchal
+Pardieiros Fundeiros
+Pardielas
+Pardilhó
+Parede
+Parque das Nações
+Parracheira
+Pascoal
+Pastaneira
+Patã de Cima
+Pataeiro
+Pataias
+Patameiros
+Páteo do Azinhal
+Patroves
+Paul do Mar
+Paulinos
+Pé da Cruz
+Pé de Cão
+Pedra de Ouro
+Pedraído
+Pedrais
+Pedras de Cima
+Pedras Rubras
+Pedreiras de Baixo
+Pedreles
+Pedrógão Grande
+Pegarinhos
+Pegas
+Pego da Curva
+Pego do Lobo
+Pego do Seixo
+Pegões Velhos
+Pégos da Pedra
+Pejão
+Peleias
+Pelicanos
+Pelmá
+Penaceira
+Penafiel
+Penalva de Alva
+Penas
+Penas Roias
+Penascais
+Penedo Gordo
+Penedono
+Penedos Belos
+Penhas da Saúde
+Penhascoso
+Peniche
+Penude de Baixo
+Penuzinhos
+Pepe
+Pêra Velha
+Peral Grande
+Peras Ruivas
+Percinheira
+Perdigueira
+Pereiro da Palhacana
+Perelhal
+Perendedores
+Perlinha
+Permedelos
+Pernancha de Baixo
+Pernancha de Cima
+Pernelhas
+Pero Calvo
+Pêro Moniz
+Pero Negro
+Pero Neto
+Pero Pinheiro
+Pêro Ponto
+Perofico
+Peroguarda
+Peroledo
+Peroleite
+Perozinho
+Perulhal
+Pescanseco Cimeiro
+Peso da Régua
+Pessolta
+Petamariça de Baixo
+Petigueiras
+Pia Carneira
+Pião
+Picadouro
+Picamilho
+Picanceira
+Picanheiras de Cima
+Pico da Pedra
+Pico da Rocha
+Pieres
+Pilado
+Pimenteiras
+Pincho
+Pindelo dos Milagres
+Pinhal do Douro
+Pinhal Novo
+Pinheiro de Baixo
+Pinheiro de Fora
+Pinheiro Manso
+Pinheiro Novo
+Pinhete
+Pinhote
+Pintores
+Pinzio
+Pipe
+Piscouxe
+Pitaranha
+Poça da Barca
+Poça do Monte
+Pocilgais
+Poço da Cruz
+Poço das Canas
+Poço de Cabaços
+Poço do Canto
+Poço Fundo
+Poço Redondo
+Podame
+Podence
+Pogido
+Poios
+Poives
+Polide de Cima
+Pomar Grande
+Pomaraco
+Pomarão
+Pombares
+Pombaria
+Pombeiro
+Pombeiro de Riba Vizela
+Ponta do Pargo
+Ponta Garça
+Ponta Ruiva
+Ponte da Barca
+Ponte de Anhel
+Ponte de Baixo
+Ponte de Cima
+Ponte de Lima
+Ponte de São Simão
+Ponte de Sôr
+Ponte de Vilela
+Ponte do Conde
+Ponte Falcão
+Ponte Fora
+Pontegãos
+Pontével
+Pontido
+Pontinhas
+Porcariça
+Porta do Souto
+Portagem
+Portalegre
+Portas Fronhas
+Portas Novas
+Porteira
+Portel
+Portela de São Lourenço
+Portimão
+Portinho da Arrábida
+Porto Cachorro
+Porto Carro
+Porto Carvalhal
+Porto Castanheiro
+Porto Covo
+Porto da Cruz
+Porto da Moita
+Porto da Oliveira
+Porto de Mouros de Cima
+Porto do Carro
+Porto dos Melões
+Porto Liceia
+Porto Longo
+Porto Mieiro
+Porto Moniz
+Porto Salvo
+Portugal
+Postimião
+Posto Maior
+Pouca Farinha
+Pousa Maria
+Pousados
+Pousafoles do Bispo
+Povo de Baixo
+Póvoa d'Além
+Póvoa da Igreja
+Póvoa da Marta
+Póvoa da Rainha
+Póvoa da Raposeira
+Póvoa da Ribeira Sardeira
+Póvoa das Mós
+Póvoa das Quartas
+Póvoa de Abraveia
+Póvoa de Bustos
+Póvoa de Lanhoso
+Póvoa de Leiria
+Póvoa de Lisboa
+Póvoa de Luzianes
+Póvoa de Manique do Intendente
+Póvoa de Medronhosa
+Póvoa de Rainha Santa
+Póvoa de Santa Cristina
+Póvoa de Santa Iria
+Póvoa de Santo Adrião
+Póvoa de Varzim
+Póvoa do Arcediago
+Póvoa do Valado
+Póvoa dos Sobrinhos
+Póvoa Dura
+Póvoa Nova
+Povorais
+Povos
+Prado de Cima
+Pragal
+Pragosa
+Praia Da Luz
+Praia da Pedra de Ouro
+Praia da Vitória
+Praia do Norte
+Praia do Ribatejo
+Praia Verde
+Prainha de Baixo
+Preguiça
+Presalves
+Pretarouca
+Prezandães
+Prezas
+Principe Real
+Prior Velho
+Proença-a-Nova
+Provado
+Provesende
+Prozela
+Purgaçal
+Purgatório
+Pussos
+Quarteira
+Quatro Estradas
+Quatro Ribeiras
+Queijada
+Queijadães
+Queijas
+Queira
+Queirão
+Queiriga
+Queiroal
+Queitide
+Queixada da Raposa
+Quelfes
+Queluz
+Queridas
+Quetriz
+Quiaios
+Quinta da Aramanha
+Quinta da Arresima
+Quinta da Cascalheirinha
+Quinta da Conceição
+Quinta da Esperança
+Quinta da Fonte Santa
+Quinta da Gorda
+Quinta da Horta
+Quinta da Mafarra
+Quinta da Marquesa da Ribeira Grande
+Quinta da Melhorada
+Quinta da Mizarella
+Quinta da Nave
+Quinta da Pardada
+Quinta da Pedra Escrita
+Quinta da Rascoa
+Quinta da Raza
+Quinta da Rocheira de Baixo
+Quinta da Serralheira
+Quinta da Teja
+Quinta da Torre Bela
+Quinta da Verdelha
+Quinta das Ladeiras
+Quinta das Pontes
+Quinta das Pressas
+Quinta de Santa Menina
+Quinta de São Cibrão
+Quinta de São Pedro
+Quinta de São Vicente
+Quinta do Amaral
+Quinta do Anjo
+Quinta do Bairro Falcão de Baixo
+Quinta do Barrocal
+Quinta do Batedoiro
+Quinta do Caldeira
+Quinta Do Conde
+Quinta do Espinheiro
+Quinta do Gato
+Quinta do Infesto
+Quinta do Malhapão
+Quinta do Mato Demo
+Quinta do Palheiro Ferreiro
+Quinta do Sirol
+Quinta do Sobrado
+Quinta Dom Jorge
+Quinta dos Anjos
+Quinta dos Cinco Outeiros
+Quinta dos Matos
+Quinta dos Plátanos
+Quinta dos Vales
+Quinta Nova do Campo
+Quintas de São Bartolomeu
+Quinteiros
+Rabal
+Rabalde
+Rabarrabos
+Rabo de Peixe
+Raindos
+Rale
+Ramalde do Meio
+Ramalhais de Cima
+Ramalho
+Raminho
+Ramires
+Ranha de São João
+Rans
+Raposeira do Logarinho
+Rapoulinha
+Rasa
+Raza de Baixo
+Real de Baixo
+Real de Cima
+Rebelva
+Rebentão
+Rebentão da Lagoa
+Rebolaria
+Rebolfo
+Rebordainhos
+Reborido
+Reca
+Recardãis
+Recezinhos
+Rechaldeira
+Recreio
+Redemouro
+Redinha
+Redondos
+Redouça
+Refojos de Basto
+Refugidos
+Regalheiras
+Regueira de Pontes
+Reguengo do Fetal
+Reguengo Grande
+Reguengo Pequeno
+Reguengos de Monsaraz
+Reigadinha
+Reixida
+Relva do Boi
+Relva Velha
+Relves
+Rendufas da Estrada
+Rendufas da Mata
+Rendufas do Meio
+Rendufinho
+Reriz
+Resgais
+Restelo
+Revel
+Rezouro
+Riachos
+Riba de Ave
+Riba de Cima
+Riba de Mouro
+Riba Fria
+Riba Nogueira
+Ribeira Branca
+Ribeira Brava
+Ribeira Chã
+Ribeira da Fraga
+Ribeira da Gafa
+Ribeira da Isna
+Ribeira das Tainhas
+Ribeira de Álamo
+Ribeira de Baixo
+Ribeira de Fernando
+Ribeira de Frades
+Ribeira de Pena
+Ribeira de Santarém
+Ribeira de São João
+Ribeira do Seissal de Baixo
+Ribeira do Seissal de Cima
+Ribeira dos Tostões
+Ribeira Quente
+Ribeira Ruiva
+Ribeirada
+Ribeiradio
+Ribeirão
+Ribeiro da Serra
+Ribeiro das Hortas
+Ribeiro do Soutelinho
+Ribolhos
+Rio Alcaide
+Rio da Gândara
+Rio de Couros
+Rio de Loba
+Rio de Mouro
+Rio de Ossos
+Rio Meão
+Rios Frios
+Riquinha
+Riscada
+Roça
+Rocha Nova
+Rochoso
+Roda Cimeira
+Roda de Baixo
+Roda Grande
+Ródão
+Rodrigos
+Rolã
+Rolão
+Romeiros
+Romeu
+Ronfe
+Rosairinho
+Rosais
+Rosto de Cão
+Rouba
+Rouças
+Roucio
+Rouqueira
+Roussas
+Roxico Sul
+Rua do Canto
+Rubiãis
+Ruivais
+Ruivoz
+Runa
+Russo
+Sabadão
+Saborido
+Saborosa
+Sabugo
+Sabugos
+Sacavém
+Sacotes
+Sacoto
+Sages
+Sago
+Sagres
+Sainde
+Salaborda Velha
+Salavessa
+Salema
+Salgueira de Cima
+Salgueirais
+Salgueiral de Cima
+Salir de Matos
+Salir de Porto
+Salir do Porto
+Salreu
+Salteiros
+Salvaterra de Magos
+Samarão
+Samardã
+Sambado
+Sameice
+Samil
+Samões
+Samonde
+Samora Correia
+Samorinha
+Samouco
+Samuel
+Sancheira Pequena
+Sandiães
+Sandinha
+Sandoeira
+Sangalhos
+Sanguinheda
+Sangunhedo
+Santa Bárbara de Nexe
+Santa Catarina da Serra
+Santa Clara
+Santa Clara de Louredo
+Santa Clara-a-Velha
+Santa Comba Dão
+Santa Cruz da Graciosa
+Santa Cruz da Trapa
+Santa Cruz das Flores
+Santa Cruz do Bispo
+Santa Cruz do Douro
+Santa Iria da Azóia
+Santa Juzenda
+Santa Margarida da Coutada
+Santa Maria da Feira
+Santa Maria de Avioso
+Santa Maria de Belém
+Santa Maria Maior
+Santa Olaia
+Santa Ovaia
+Santa Vitória
+Santães
+Santana de Vimieiro
+Santana do Mato
+Santão
+Santarém dos Tojos
+Santiago da Guarda
+Santiago de Riba-Ul
+Santiago do Cacém
+Santo Amador
+Santo Amaro da Bouça
+Santo Antão do Tojal
+Santo António da Charneca
+Santo António de Capelins
+Santo António do Marmeleiro
+Santo António dos Olivais
+Santo da Serra
+Santo Emilião
+Santo Isidoro
+Santo Izidoro
+Santo Ovídio
+Santo Varão
+Santo Xisto
+Santos-o-Velho
+São Barnabé
+São Bartolomeu de Messines
+São Bento de Ana Loura
+São Bento do Zambujal
+São Bernardino
+São Brás de Alportel
+São Clemente
+São Cornélio
+São Cosme
+São Cristóvão da Nogueira
+São Domingos de Ana Loura
+São Domingos de Rana
+São Faustino
+São Félix
+São Félix da Marinha
+São Fipo
+São Frutuoso
+São Jacinto
+São João da Boa Vista
+São João da Madeira
+São João da Pesqueira
+São João da Talha
+São João das Lampas
+São João de Areias
+São João de Latrão
+São João de Ver
+São João dos Montes
+São Jordão
+São Jorge da Beira
+São Jorge de Arroios
+São Julião do Tojal
+São Luis
+São Mamede de Infesta
+São Mamede do Coronado
+São Marcos do Campo
+São Miguel de Rio Torto
+São Miguel de Vila Boa
+São Miguel do Couto
+São Paulo de Frades
+São Pedro da Cadeira
+São Pedro da Cova
+São Pedro de Alva
+São Pedro de Avioso
+São Pedro de Moel
+São Pedro de Serracenos
+São Pedro de Vale do Conde
+São Pedro do Corval
+São Pedro do Estoril
+São Pedro do Rio Seco
+São Pedro do Souto
+São Pedro do Sul
+São Romão de Panoias
+São Roque do Faial
+São Roque do Pico
+São Sebastião da Feira
+São Sebastião da Pedreira
+São Teotónio
+São Tiago da Carreira
+São Tiago de Custoias
+São Tiago de Litém
+São Tiago dos Velhos
+São Torcato
+São Torcato de Baixo
+São Vicente da Beira
+São Vicente do Paul
+Sapataria
+Sarabagos
+Saragoche
+Saramaga
+Sardoeira
+Sarilhos Grandes
+Sarilhos Pequenos
+Sarnadas de Baixo
+Sarnadela
+Sarnado
+Sarzedela
+Sátão
+Sazes da Beira
+Sebadelhe
+Sebal Grande
+Seca
+Secerigo
+Segadãis
+Segadens
+Segóvia
+Segundeira
+Seia
+Seixezelo
+Seixo Amarelo
+Seixo de Anciães
+Seixos Brancos
+Sejães
+Selão
+Selhariz
+Selho
+Selmes
+Selvagem Grande
+Selvagem Pequena
+Semblana
+Semelhe
+Semitela
+Sendas
+Senharei
+Senhor da Veiga
+Senhora da Glória
+Senhora da Graça dos Padrões
+Senhora da Hora
+Senhora da Nazaré
+Senhora da Vida
+Senhora das Mercês
+Senhora de Guadalupe
+Senhora do Monte
+Senhora do Porto
+Senhorim
+Senouras
+Sequeirô
+Seramena
+Seramil
+Sermanha
+Sermonde
+Sernadelo
+Sernancelhe
+Seroa
+Serpa
+Serra da Azóia
+Serra das Alhadas
+Serra de Baixo
+Serra de El-Rei
+Serra de Janeanes
+Serra do Bouro
+Serra do Monte
+Serra Porto de Urso
+Serradelo
+Serraquinhos
+Serrazes
+Serreta
+Serro de Algandur
+Serroa
+Sertã
+Sesimbra
+Sesmaria da Ameira
+Sesmarias dos Nobres
+Sete Capotes
+Sete Casas de Baixo
+Sete Cidades
+Sete Rios
+Setúbal
+Sevivas
+Sezelhe
+Sibanas
+Silhães
+Silvalde
+Silveira da Machoa
+Silveira de Baixo
+Silves
+Silvite
+Sines
+Sintra
+Sirol
+Sismaria
+Sistãis
+Sítio das Éguas
+Sobrados
+Sobrainho
+Sobral de Monte Agraço
+Sobral do Campo
+Sobral do Parelhão
+Sobral Fernando
+Sobralinho
+Sobreposta
+Sobrosa
+Sogueire
+Soito Chão
+Soitos de Golfar
+Solteiros
+Somaria Nova
+Sorgaçosa
+Sorões
+Sorrego
+Sorro
+Sortes
+Sorval
+Sorvel Cimeiro
+Soudos
+Soure
+Sourões
+Sousanil
+Soutaria
+Soutilha
+Souto Covo
+Souto da Carpalhosa
+Souto de Aguiar
+Souto de Cima
+Souto de Magos
+Souto Fiscal
+Souto Mau
+Souto Mendo de Baixo
+Soutocico
+Suimo
+Sume
+Surgacães
+Surribas
+Taboadelo
+Tabúa
+Tábua
+Tábuas
+Tadim
+Taião
+Taide
+Talasnal
+Talões
+Tamengos
+Tamera
+Tancos
+Tangil
+Taralhão
+Tarei
+Tariz
+Tarouquela
+Tarrastal
+Tavarede
+Tavaredes
+Tavira
+Tebosa
+Teira
+Teixelo
+Teixo
+Teixoso
+Teixugas
+Teixugueira
+Telhadas
+Telhados Grandes
+Telhe
+Terças
+Terlamonte
+Termo
+Terreiro
+Terreiro da Luta
+Terrugem
+Tesido
+Tesoureira
+Tesouro
+Tibaldinho
+Tinhela de Baixo
+Tinto
+Tires
+Tissoaria
+Tocha
+Toco
+Tojal de Cima
+Tojeiras
+Tolosa
+Tomar
+Tomareis
+Tondela
+Topo
+Torre de Baixo
+Torre de Cima
+Torre de Moncorvo
+Torre Fundeira
+Torrego
+Torreira
+Torres do Mondego
+Torres Novas
+Torres Vedras
+Torrinhas
+Torrinheiras
+Tortomil
+Tortozendo
+Touça
+Toucinhos
+Touguinho
+Tourelhe
+Touria
+Tourões
+Toutosa
+Tozeiro
+Trafaria
+Tragos
+Tralhariz
+Tramagal
+Trás da Devesa
+Trás da Fonte
+Trás de Figueiró
+Trás-Âncora
+Trás-o-Outeiro
+Travancas
+Travancinha
+Travassos de Cima
+Tregosa
+Treixedo
+Tremês
+Tremoa de Cima
+Tremoceira
+Tresouras
+Trevões
+Trigaches
+Trilho
+Trinta
+Trinta Reis
+Trisio
+Troias
+Tropeço
+Troporiz
+Troviscais
+Tulha Nova
+Tunes
+Turquel
+Ucanha
+Ufe
+Ulgueira
+Ulmeiro
+Umbrias de Camacho
+Unhais-o-Velho
+Unhos
+Urcinas
+Urgal
+Urgeiro
+Urgeses
+Urqueira
+Ursulinas
+Urzelina
+Usseira
+Vaca Negra
+Vacalar
+Vagos
+Vairão
+Vais
+Valadas
+Valadinho
+Valado de Frades
+Valbona
+Valdeira
+Valdozende
+Valdreu
+Valdujo
+Vale Abrigoso
+Vale Arriba
+Vale Bejinha
+Vale Benfeito
+Vale Bordalo
+Vale Centeio
+Vale Cova
+Vale da Amoreira
+Vale da Bezerra
+Vale da Carreira
+Vale da Cortiçada
+Vale da Garcia
+Vale da Guarda
+Vale da Madre
+Vale da Meda
+Vale da Murta
+Vale da Nora das Sobreiras
+Vale da Perra
+Vale da Pinta
+Vale da Seta
+Vale da Torre
+Vale da Urra do Meio
+Vale da Ussa
+Vale das Almas
+Vale das Antas
+Vale das Hortas
+Vale das Mós
+Vale de Aguilhão
+Vale de Amieiro
+Vale de Amoreira
+Vale de Anta
+Vale de Asnes
+Vale de Avim
+Vale de Barreiras
+Vale de Cambra
+Vale de Canas
+Vale de Caranguejo
+Vale de Casas
+Vale de Cela
+Vale de Cerdeira
+Vale de Colmeias
+Vale de Couce
+Vale de Couço
+Vale de Galinha
+Vale de Gouvinhas
+Vale de Ílhavo
+Vale de Janeiro
+Vale de Linhares
+Vale de Madeira
+Vale de Maior
+Vale de Maria Dona
+Vale de Melões
+Vale de Mendiz
+Vale de Monteiro
+Vale de Mós
+Vale de Mouros
+Vale de Mu
+Vale de Neira
+Vale de Ourém
+Vale de Ovelha
+Vale de Pereiro
+Vale de Pradinhos
+Vale de Salteiros
+Vale de Santarém
+Vale de Silves
+Vale de Taipa
+Vale de Todos
+Vale de Torres
+Vale de Trave
+Vale de Vez
+Vale de Vilão
+Vale Diogo
+Vale do Abelha
+Vale do Arco
+Vale do Calvo
+Vale do Cobrão
+Vale do Escudeiro
+Vale do Esteio
+Vale do Freixo
+Vale do Judeu
+Vale do Moinho
+Vale do Paraíso
+Vale do Peso
+Vale do Porto
+Vale do Roxo
+Vale do Salgueiro
+Vale do Velido
+Vale dos Peixes
+Vale Farto
+Vale Figueirinhas
+Vale Godinho
+Vale Gracioso
+Vale Judeu
+Vale Madeiros d'Além
+Vale Morto
+Vale Pentieiro
+Vale Rodrigo
+Vale Salgueiro
+Vale Sobreiro
+Vale Sumo
+Vale Tacão
+Vale Travelho
+Vale Travesso
+Válega
+Valeja
+Valenza
+Vales de Cima
+Vales do Rio
+Vales Mortos
+Valinhos
+Valões
+Valongo de Milhais
+Valpaço
+Valpaços
+Varandas
+Vargelas
+Vargos
+Várzea de Meruge
+Várzea de Sintra
+Várzea de Tavares
+Várzea do Bispo
+Várzea do Mouro
+Várzea do Vinagre
+Vasco
+Vasconcelos
+Vasconha
+Velas
+Venade de Cima
+Venda da Cruz
+Venda da Esperança
+Venda da Luisa
+Venda da Peralva
+Venda das Raparigas
+Venda do Cepo
+Venda do Pinheiro
+Venda dos Moinhos
+Vendas de Grijó
+Venestal
+Ventelharia
+Ventoselas
+Ventureira
+Ventuzelo
+Vera
+Veral
+Verdemilho
+Verdugal
+Vergão Fundeiro
+Verim
+Vermelha
+Vermil
+Vermoeira
+Vermoeiros
+Vermoil
+Verride
+Vestiaria
+Viade de Cima
+Viana do Castelo
+Viariz
+Viatodos
+Vidago
+Vidais
+Vidal
+Vidigal
+Vidigal de Cima
+Vieira de Leiria
+Vieira do Minho
+Vil de Souto
+Vila Caiz
+Vila Chã de Ourique
+Vila Chão do Marão
+Vila Cortês do Mondego
+Vila Cova de Alva
+Vila Cova do Covelo
+Vila da Lixa
+Vila de Ala
+Vila de Canas
+Vila de um Santo
+Vila do Bispo
+Vila do Corvo
+Vila do Paço
+Vila do Porto
+Vila Franca de Xira
+Vila Franca do Campo
+Vila Franca do Deão
+Vila Lusã
+Vila Moreira
+Vila Nogueira
+Vila Nova da Barquinha
+Vila Nova De Cacela
+Vila Nova de Ceira
+Vila Nova de Famalicão
+Vila Nova de Foz Côa
+Vila Nova de Milfontes
+Vila Nova de Oliveirinha
+Vila Nova de Ourém
+Vila Nova de Paiva
+Vila Nova de Sande
+Vila Pouca da Beira
+Vila Praia de Âncora
+Vila Real
+Vila Real de Santo António
+Vila Velha de Ródão
+Vila Verde da Raia
+Vila Verde de Ficalho
+Vila Verde dos Francos
+Vila Verdinho
+Vilamar
+Vilamoura
+Vilaninho
+Vilar Barroco
+Vilar da Carga
+Vilar da Lapa
+Vilar da Lomba
+Vilar de Andorinho
+Vilar de Ferreiros
+Vilar de Figos
+Vilar de Lamas
+Vilar de Matos
+Vilar de Mouros
+Vilar de Nantes
+Vilar de Perdizes
+Vilar de Peregrinos
+Vilar de Soente
+Vilar do Paraíso
+Vilar do Senhor
+Vilar Formoso
+Vilar Maior
+Vilarinha
+Vilarinho da Mó
+Vilarinho das Azenhas
+Vilarinho das Furnas
+Vilarinho de Canelas
+Vilarinho do Bairro
+Vilarinho do Souto
+Vilarinho dos Galegos
+Vilarinhos
+Vilarouco
+Vinagres
+Vinhais
+Vinhas Novas
+Violeiro
+Virela
+Viseu
+Vitorino das Donas
+Viuveiro
+Voubam de Cima
+Voubam do Meio
+Vouga
+Vrea de Jales
+Zambujeira dos Carros
+Zebra
+Zebreira
+Zebro de Baixo
+Zedes
+Zeive
+Zido
+Zimbreirinha

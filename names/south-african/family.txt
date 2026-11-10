@@ -1,0 +1,4395 @@
+Smith	114
+Williams	58
+Steyn	52
+Botha	51
+du Toit	49
+Jacobs	45
+Smit	45
+Meyer	43
+Swart	40
+Murray	39
+Le Roux	36
+Coetzee	34
+Muller	33
+Anderson	31
+Louw	31
+Pienaar	31
+Pretorius	31
+Roberts	30
+Brown	29
+Marais	29
+Adams	28
+du Plessis	28
+Venter	27
+Visser	27
+Fourie	26
+Burger	25
+Cloete	25
+Harris	25
+Olivier	25
+Roux	25
+van der Merwe	25
+Barnard	24
+Kock	24
+Lewis	24
+Hendricks	23
+Kruger	23
+Davids	22
+Taylor	22
+van der Westhuizen	22
+Viljoen	22
+Wilson	22
+Erasmus	21
+Khumalo	21
+Scott	21
+Bekker	20
+Johnson	20
+Phillips	20
+Prinsloo	20
+Watson	20
+Bosch	19
+Davis	19
+Evans	19
+Morris	19
+Abrahams	18
+Dreyer	18
+Hall	18
+Jackson	18
+Joubert	18
+King	18
+Scholtz	18
+Theron	18
+van Wyk	18
+Wessels	18
+Wood	18
+Clark	17
+Cohen	17
+Cooper	17
+Matthews	17
+Nel	17
+Potgieter	17
+Swanepoel	17
+Davies	16
+de Villiers	16
+Dlamini	16
+Green	16
+Grobler	16
+Jansen	16
+Jones	16
+Jonker	16
+Kemp	16
+Lombard	16
+Miller	16
+Robinson	16
+Thomas	16
+Thompson	16
+White	16
+Basson	15
+Ferguson	15
+Gordon	15
+Malan	15
+Naidoo	15
+Price	15
+Retief	15
+Tshabalala	15
+Alexander	14
+Brink	14
+Gray	14
+Liebenberg	14
+Loubser	14
+Moore	14
+Petersen	14
+Richardson	14
+Bell	13
+Clarke	13
+Engelbrecht	13
+Morgan	13
+Naudé	13
+Neethling	13
+Nkosi	13
+Reid	13
+Roos	13
+Ross	13
+Stewart	13
+van der Walt	13
+Van Zyl	13
+Walker	13
+Barnes	12
+Campbell	12
+de Klerk	12
+Ferreira	12
+Fraser	12
+Hugo	12
+Jordaan	12
+Loots	12
+McKenzie	12
+Mokoena	12
+Oosthuizen	12
+Schoeman	12
+van den Berg	12
+Vorster	12
+Young	12
+Baker	11
+Bhengu	11
+Booysen	11
+Brand	11
+Coetzer	11
+Daniels	11
+de Lange	11
+du Preez	11
+Duncan	11
+Ellis	11
+Gerber	11
+Hofmeyr	11
+James	11
+Mandela	11
+Mulder	11
+Ntuli	11
+Postma	11
+Snyman	11
+Spies	11
+Strydom	11
+Van Niekerk	11
+Vermeulen	11
+Ward	11
+Ackermann	10
+Andrews	10
+Barker	10
+Bennett	10
+Botes	10
+Breytenbach	10
+Edwards	10
+Hoffman	10
+Jennings	10
+Kriel	10
+Krige	10
+Peters	10
+Pillay	10
+Rossouw	10
+Steenkamp	10
+Stevens	10
+Strauss	10
+Van Rooyen	10
+Wright	10
+Armstrong	9
+Boshoff	9
+Cilliers	9
+Cook	9
+de Beer	9
+De Wet	9
+George	9
+Greeff	9
+Hattingh	9
+Kirsten	9
+Mofokeng	9
+Ndlovu	9
+Nell	9
+Richards	9
+Robertson	9
+Rose	9
+Schmidt	9
+Sithole	9
+Thomson	9
+Tucker	9
+Uys	9
+Van den Heever	9
+Webb	9
+Abbott	8
+Barlow	8
+Bosman	8
+Brits	8
+Butler	8
+Carter	8
+Cole	8
+Cronje	8
+Dube	8
+Graham	8
+Greyling	8
+Hill	8
+Horn	8
+Johnston	8
+Jordan	8
+Joseph	8
+Kaplan	8
+Kelly	8
+Koch	8
+Lamprecht	8
+McCarthy	8
+McGregor	8
+Mitchell	8
+Moss	8
+Norton	8
+Palmer	8
+Paton	8
+Pieterse	8
+Russell	8
+Scheepers	8
+Solomon	8
+Van Heerden	8
+van Tonder	8
+Walters	8
+Badenhorst	7
+Barrett	7
+Becker	7
+Bester	7
+Bezuidenhout	7
+Buthelezi	7
+Buys	7
+Carr	7
+Collins	7
+Conradie	7
+de Bruin	7
+Dixon	7
+Forbes	7
+Ford	7
+Fouché	7
+Fuller	7
+Goosen	7
+Gouws	7
+Grobbelaar	7
+Gwala	7
+Harrison	7
+Harvey	7
+Henderson	7
+Herbst	7
+Hunt	7
+Janse van Rensburg	7
+Johnstone	7
+Kerr	7
+Lange	7
+Laubscher	7
+Lawrence	7
+Levy	7
+MacDonald	7
+Malherbe	7
+Mann	7
+Maree	7
+Marks	7
+Morkel	7
+Oberholzer	7
+Parker	7
+Paterson	7
+Schultz	7
+Sibiya	7
+Smuts	7
+Stein	7
+Terblanche	7
+Turner	7
+van Rensburg	7
+Bartlett	6
+Black	6
+Blake	6
+Blignaut	6
+Blom	6
+Bloom	6
+Bolus	6
+Bouwer	6
+Britz	6
+Cele	6
+Christie	6
+Coleman	6
+Connell	6
+Cooke	6
+Davidson	6
+Day	6
+de Jager	6
+Draper	6
+Fischer	6
+Fisher	6
+Frost	6
+Gabriel	6
+Gardner	6
+Gibson	6
+Hendriks	6
+Holmes	6
+Hope	6
+Human	6
+Jack	6
+Janse van Vuuren	6
+Jooste	6
+Kahn	6
+Kekana	6
+Khoza	6
+Klopper	6
+Lategan	6
+Lindsay	6
+Lloyd	6
+Mahlangu	6
+Maritz	6
+Maseko	6
+Mazibuko	6
+McDonald	6
+McLaren	6
+Mills	6
+Minnaar	6
+Motaung	6
+Mthembu	6
+Mullins	6
+Myburgh	6
+Naude	6
+Ngcobo	6
+O'Brien	6
+Oliphant	6
+Opperman	6
+Page	6
+Parsons	6
+Peterson	6
+Reddy	6
+Roets	6
+Rogers	6
+Ryan	6
+Schutte	6
+van der Bijl	6
+Vilakazi	6
+Warner	6
+Weber	6
+Whitehead	6
+Wilkinson	6
+Willemse	6
+Woods	6
+Zuma	6
+Adler	5
+Anthony	5
+Bailey	5
+Benson	5
+Berry	5
+Bond	5
+Boonzaier	5
+Boucher	5
+Breedt	5
+Burton	5
+Byrne	5
+Compton	5
+Crous	5
+Daniel	5
+De Vos	5
+Eaton	5
+Eksteen	5
+Elliott	5
+Friedman	5
+Godfrey	5
+Goldblatt	5
+Grant	5
+Harding	5
+Hobson	5
+Hughes	5
+Hunter	5
+Hutchinson	5
+Hutton	5
+Isaacs	5
+Keet	5
+Khan	5
+Khuzwayo	5
+Kotze	5
+Lee	5
+Linde	5
+Makhanya	5
+Maré	5
+Marx	5
+Mason	5
+Mathebula	5
+Mbatha	5
+McIntosh	5
+McMillan	5
+Meiring	5
+Mhlongo	5
+Mkhize	5
+Mkhwanazi	5
+Moll	5
+Moloi	5
+Mynhardt	5
+Nash	5
+Nelson	5
+Newman	5
+Ngubane	5
+Noble	5
+Oliver	5
+Oppenheimer	5
+Owen	5
+Paul	5
+Payne	5
+Pieters	5
+Pringle	5
+Rabie	5
+Radebe	5
+Randall	5
+Reitz	5
+Reynolds	5
+Sanders	5
+Shongwe	5
+Sibeko	5
+Simon	5
+Simons	5
+Spence	5
+Stander	5
+Stuart	5
+Trengove	5
+van den Bergh	5
+van der Linde	5
+van Deventer	5
+Van Vuuren	5
+Versfeld	5
+Visagie	5
+Vosloo	5
+Wade	5
+Wallace	5
+Williamson	5
+Zondo	5
+Arendse	4
+Aucamp	4
+Ball	4
+Bapela	4
+Barber	4
+Barnett	4
+Barry	4
+Baxter	4
+Benjamin	4
+Berg	4
+Berman	4
+Bernstein	4
+Beukes	4
+Bishop	4
+Bock	4
+Boyes	4
+Brandt	4
+Bruce	4
+Cameron	4
+Carelse	4
+Cassiem	4
+Chapman	4
+Chauke	4
+Church	4
+Corbett	4
+Cox	4
+Crosby	4
+Cullinan	4
+Dalton	4
+Daly	4
+de Bruyn	4
+De Vries	4
+Deacon	4
+Dekker	4
+Dell	4
+Domingo	4
+Dorian	4
+Dowling	4
+Driver	4
+Dudley	4
+Ebrahim	4
+Faure	4
+February	4
+Fox	4
+Francis	4
+Gardiner	4
+Gilchrist	4
+Glover	4
+Goldberg	4
+Gomes	4
+Govender	4
+Gumede	4
+Hansen	4
+Hart	4
+Hartman	4
+Hayes	4
+Heerden	4
+Henkel	4
+Hertzog	4
+Hewitt	4
+Higgs	4
+Hodgson	4
+Hoffmann	4
+Horne	4
+Howard	4
+Innes	4
+Isaac	4
+Jacobson	4
+Jansen van Vuuren	4
+Jenkins	4
+Johannes	4
+Jonas	4
+Kent	4
+Klaasen	4
+Klein	4
+Kloppers	4
+Krause	4
+Krüger	4
+Lambert	4
+Langa	4
+Lawson	4
+Little	4
+Lubbe	4
+Lucas	4
+Macpherson	4
+Maharaj	4
+Majozi	4
+Masemola	4
+Masilela	4
+Mbeki	4
+McCann	4
+Mchunu	4
+Meintjes	4
+Melville	4
+Michell	4
+Mnguni	4
+Moolman	4
+Morrison	4
+Morton	4
+Mostert	4
+Mphahlele	4
+Müller	4
+Musk	4
+Naicker	4
+Ngwenya	4
+Nicol	4
+Nienaber	4
+Nortje	4
+Nortjé	4
+October	4
+Odendaal	4
+Osborn	4
+Perry	4
+Pietersen	4
+Pistorius	4
+Pollock	4
+Powell	4
+Prince	4
+Rabinowitz	4
+Rautenbach	4
+Reed	4
+Rennie	4
+Rice	4
+Richter	4
+Rousseau	4
+Rowe	4
+Rudolph	4
+Sachs	4
+Sampson	4
+Saunders	4
+Scheckter	4
+Schneider	4
+Seymour	4
+Shabangu	4
+Sibisi	4
+Singh	4
+Solomons	4
+Stephens	4
+Swartz	4
+Swiegers	4
+Symons	4
+Townsend	4
+Van Jaarsveld	4
+Vaughan	4
+Vermaak	4
+Vincent	4
+Vlok	4
+Vos	4
+Wagner	4
+Waters	4
+Weiss	4
+Wells	4
+Zulu	4
+Zungu	4
+Abel	3
+Abrams	3
+Ackerman	3
+Adam	3
+Albu	3
+Allan	3
+Allen	3
+Andrew	3
+Arnold	3
+Ashley	3
+Baartman	3
+Balfour	3
+Baloyi	3
+Barton	3
+Beaumont	3
+Beck	3
+Beckett	3
+Bentley	3
+Bergman	3
+Beyers	3
+Biggs	3
+Bird	3
+Birrell	3
+Booi	3
+Briscoe	3
+Britten	3
+Brock	3
+Broomberg	3
+Brownlee	3
+Brümmer	3
+Bryant	3
+Buchanan	3
+Bunting	3
+Burgess	3
+Bush	3
+Calder	3
+Cassie	3
+Claassen	3
+Collett	3
+Cornelius	3
+Craig	3
+Craven	3
+Cumming	3
+Curry	3
+Davey	3
+David	3
+de Waal	3
+Delport	3
+Dennis	3
+Dhlamini	3
+Dhlomo	3
+Dick	3
+Dippenaar	3
+Dobson	3
+Dodd	3
+Douglas	3
+Dubazana	3
+Dutton	3
+Dyer	3
+English	3
+Erskine	3
+Erwee	3
+Fairall	3
+Fairbridge	3
+Fish	3
+Fletcher	3
+Flynn	3
+Fortuin	3
+Foster	3
+Francisco	3
+Frank	3
+Fredericks	3
+Frick	3
+Fritz	3
+Fry	3
+Fugard	3
+Fulton	3
+Gagiano	3
+Gallagher	3
+Galloway	3
+Galpin	3
+Geffen	3
+Geldenhuys	3
+Gibbs	3
+Glasser	3
+Gleeson	3
+Glen	3
+Gluckman	3
+Grace	3
+Greig	3
+Grey	3
+Griesel	3
+Griffin	3
+Griffiths	3
+Grosskopf	3
+Hamilton	3
+Hammond	3
+Hanson	3
+Hardy	3
+Harper	3
+Haskins	3
+Hayward	3
+Heard	3
+Henry	3
+Herbert	3
+Herman	3
+Heyns	3
+Hlongwane	3
+Hobbs	3
+Holland	3
+Hopkins	3
+Houghton	3
+Hudson	3
+Hume	3
+Humphrey	3
+Humphries	3
+Hurter	3
+Hyman	3
+Janson	3
+Kapp	3
+Kay	3
+Keith	3
+Kennedy	3
+Kentridge	3
+Khanyile	3
+Kinghorn	3
+Kirby	3
+Kleinhans	3
+Knight	3
+Koekemoer	3
+Kok	3
+Kramer	3
+Kriek	3
+Kuhn	3
+Kumalo	3
+Labuschagne	3
+Lambrechts	3
+Laurie	3
+Lawless	3
+Lazarus	3
+Lemmer	3
+Leonard	3
+Levin	3
+Lindeque	3
+Lister	3
+Loftus	3
+Lord	3
+Luyt	3
+Mackay	3
+Maggs	3
+Mahomed	3
+Manuel	3
+Maphumulo	3
+Marcus	3
+Marquard	3
+Masango	3
+Masekela	3
+May	3
+Mbete	3
+Mbokazi	3
+McCall	3
+McLeod	3
+Menell	3
+Michaelis	3
+Middleton	3
+Miles	3
+Mkhari	3
+Modiba	3
+Moir	3
+Momberg	3
+Moodley	3
+Moosa	3
+Moriz	3
+Motsepe	3
+Mvimbi	3
+Napier	3
+Ndaba	3
+Ndebele	3
+Ndimande	3
+Ndungane	3
+Ngobeni	3
+Nicholls	3
+Nicholson	3
+Nicolson	3
+Nieuwoudt	3
+Norris	3
+North	3
+Nunes	3
+Oldfield	3
+Otto	3
+Partridge	3
+Patel	3
+Pentz	3
+Pereira	3
+Philander	3
+Pithey	3
+Pitman	3
+Player	3
+Pocock	3
+Poole	3
+Preller	3
+Rabe	3
+Ramsay	3
+Reeves	3
+Rissik	3
+Ritter	3
+Roy	3
+Rubin	3
+Samson	3
+Schreiner	3
+Searle	3
+Semenya	3
+Senekal	3
+September	3
+Shackleton	3
+Shand	3
+Shapiro	3
+Shaw	3
+Shezi	3
+Siebert	3
+Sigcau	3
+Silva	3
+Silver	3
+Simelane	3
+Simmons	3
+Sisulu	3
+Smithers	3
+Sparks	3
+St John	3
+Stanley	3
+Steele	3
+Stent	3
+Stewardson	3
+Stofberg	3
+Stone	3
+Stuurman	3
+Summers	3
+Suzman	3
+Tambo	3
+Terre'Blanche	3
+Theiler	3
+Titus	3
+Trotter	3
+Turok	3
+Upton	3
+Van Dyk	3
+van Eeden	3
+van Zijl	3
+Verster	3
+Verwey	3
+Victor	3
+Vintcent	3
+Voss	3
+Vries	3
+Walsh	3
+Watt	3
+Watts	3
+Webber	3
+Wegerle	3
+Weideman	3
+Weinberg	3
+Weir	3
+Wiese	3
+Wolff	3
+Wolmarans	3
+Ziervogel	3
+Zwane	3
+Abdool	2
+Abed	2
+Aberdein	2
+Abernethy	2
+Abramson	2
+Achmat	2
+Adair	2
+Ahlers	2
+Ahrens	2
+Alberts	2
+Albertyn	2
+Albrecht	2
+Allers	2
+Allie	2
+Allison	2
+Altmann	2
+Amla	2
+Andersen	2
+Araújo	2
+Archibald	2
+Armitage	2
+Arthur	2
+Asmal	2
+Asvat	2
+Atherstone	2
+Atkinson	2
+August	2
+Back	2
+Bain	2
+Bale	2
+Ballot	2
+Bam	2
+Barnato	2
+Barrow	2
+Bartman	2
+Bass	2
+Batchelor	2
+Bayer	2
+Bayne	2
+Bedford	2
+Belcher	2
+Beneke	2
+Beresford	2
+Bernard	2
+Bernardo	2
+Best	2
+Beukman	2
+Binder	2
+Bingham	2
+Blackbeard	2
+Bland	2
+Bloch	2
+Bok	2
+Bolton	2
+Booth	2
+Bourdillon	2
+Boyce	2
+Bradley	2
+Brain	2
+Branch	2
+Breet	2
+Breitenbach	2
+Brewer	2
+Brimble	2
+Brittain	2
+Brooks	2
+Brophy	2
+Browne	2
+Buckland	2
+Burke	2
+Burnett	2
+Burns	2
+Burrows	2
+Busse	2
+Butcher	2
+Callie	2
+Cann	2
+Cardoso	2
+Carlisle	2
+Carstens	2
+Chadwick	2
+Chalmers	2
+Christensen	2
+Christian	2
+Claassens	2
+Clayton	2
+Clegg	2
+Cluver	2
+Cockburn	2
+Coke	2
+Combrinck	2
+Conley	2
+Cope	2
+Copeland	2
+Corder	2
+Cory	2
+Costa	2
+Court	2
+Courtney	2
+Crewe	2
+Crockett	2
+Cronin	2
+Cronjé	2
+Cross	2
+Crowie	2
+Crowther	2
+Curran	2
+Curtis	2
+Cyster	2
+Da Silva	2
+Dallas	2
+Dalling	2
+Dalrymple	2
+Davel	2
+Dawson	2
+De Gruchy	2
+De Jongh	2
+De Kock	2
+de Kok	2
+de Oliveira	2
+de Winter	2
+Dean	2
+Dedekind	2
+Dednam	2
+Desai	2
+Dlungwana	2
+Dowds	2
+Doyle	2
+Dry	2
+Duffy	2
+Duminy	2
+Dumond	2
+Durand	2
+Durbach	2
+Dyani	2
+Dykman	2
+Egan	2
+Ehlers	2
+Elliot	2
+Eloff	2
+Els	2
+Emmett	2
+Esterhuizen	2
+Esterhuyse	2
+Eustice	2
+Everson	2
+Fagan	2
+Fane	2
+Farmer	2
+Fassler	2
+Faul	2
+Feinberg	2
+Feinstein	2
+Fell	2
+Ferrandi	2
+Ferraris	2
+Fichardt	2
+Fick	2
+Field	2
+Finlayson	2
+FitzGerald	2
+Flack	2
+Flint	2
+Foord	2
+Forman	2
+Forrest	2
+Forster	2
+Forsyth	2
+Fowler	2
+Frankel	2
+Franklin	2
+Freeman	2
+Fullerton	2
+Gardener	2
+Garrett	2
+Gates	2
+Gcwabaza	2
+Geach	2
+Geers	2
+Gerhardt	2
+Gericke	2
+Gevers	2
+Geyer	2
+Geyser	2
+Gibbons	2
+Gifford	2
+Gilfillan	2
+Gill	2
+Glass	2
+Glenday	2
+Godwin	2
+Goldie	2
+Goldman	2
+Goldstein	2
+Goldstone	2
+González	2
+Goodman	2
+Gore	2
+Gould	2
+Govindjee	2
+Grainger	2
+Greene	2
+Greenwood	2
+Gregory	2
+Griffith	2
+Groenewald	2
+Gubb	2
+Guerra	2
+Gunn	2
+Gunnell	2
+Guthrie	2
+Haarhoff	2
+Haasbroek	2
+Hackland	2
+Haddon	2
+Haines	2
+Hallowes	2
+Handler	2
+Hands	2
+Hanekom	2
+Hargreaves	2
+Harries	2
+Hassim	2
+Haupt	2
+Hawken	2
+Hawkins	2
+Heaton	2
+Heemstra	2
+Heese	2
+Heine	2
+Hellenberg	2
+Hennig	2
+Henning	2
+Henrici	2
+Herbstein	2
+Hermann	2
+Hermans	2
+Hess	2
+Hesse	2
+Hickman	2
+Hillary	2
+Hirsch	2
+Hirson	2
+Hoare	2
+Hodkinson	2
+Hogan	2
+Holden	2
+Holder	2
+Holleman	2
+Holloway	2
+Holm	2
+Holtzhausen	2
+Hopley	2
+Horwitz	2
+Hougaard	2
+Howell	2
+Howes	2
+Huckle	2
+Huntley	2
+Hurwitz	2
+Immelman	2
+Inglis	2
+Ingram	2
+Irwin	2
+Jantjes	2
+Jeffreys	2
+Jensen	2
+Jobson	2
+Joel	2
+Joyce	2
+Julius	2
+Kachelhoffer	2
+Kalmer	2
+Kani	2
+Karim	2
+Karsten	2
+Kasrils	2
+Kavanagh	2
+Kebble	2
+Keegan	2
+Keeton	2
+Kellaway	2
+Kellerman	2
+Keys	2
+Khojane	2
+Kilian	2
+Kirk	2
+Kitchen	2
+Kitshoff	2
+Kitson	2
+Knobel	2
+Knox	2
+Koenig	2
+Kolbe	2
+Kolisi	2
+Komphela	2
+Koster	2
+Kourie	2
+Kraai	2
+Kritzinger	2
+Krog	2
+Kyte	2
+Lamola	2
+Landsberg	2
+Lane	2
+Langenhoven	2
+Lazar	2
+Le Grange	2
+Leach	2
+Ledger	2
+Leon	2
+Leslie	2
+Letcher	2
+Letlape	2
+Levi	2
+Levitt	2
+Lill	2
+Lipman	2
+Livingstone	2
+Logan	2
+Lotter	2
+Lotz	2
+Lourens	2
+Lowe	2
+Luthuli	2
+Lyons	2
+Maake	2
+Mabasa	2
+Mabaso	2
+Mabena	2
+Mabuza	2
+Mace	2
+Machaba	2
+Mackenzie	2
+MacLean	2
+MacLeod	2
+Maddocks	2
+Magagula	2
+Magubane	2
+Mahlasela	2
+Makeba	2
+Makua	2
+Mali	2
+Malinga	2
+Mallett	2
+Mamabolo	2
+Manning	2
+Margo	2
+Markgraaff	2
+Mathews	2
+Mathiesen	2
+Maxwell	2
+Mayambela	2
+Mayer	2
+McBride	2
+McCabe	2
+McDowell	2
+McEwan	2
+McGillivray	2
+McGuigan	2
+McLean	2
+McLellan	2
+McMahon	2
+Meerholz	2
+Meijer	2
+Mellish	2
+Mentz	2
+Meshoe	2
+Middlemost	2
+Millar	2
+Milligan	2
+Millin	2
+Minny	2
+Mkhabela	2
+Mlaba	2
+Mngomezulu	2
+Mokoka	2
+Molefe	2
+Moller	2
+Molteno	2
+Money	2
+Morake	2
+More	2
+Mosaka	2
+Moses	2
+Moyo	2
+Mpofu	2
+Msimang	2
+Mthimkhulu	2
+Munday	2
+Mundel	2
+Mundell	2
+Musiker	2
+Mvelase	2
+Myers	2
+Nagel	2
+Nathan	2
+Ncube	2
+Neame	2
+Nene	2
+Nepgen	2
+Nesbitt	2
+Neumann	2
+Newdigate	2
+Newton	2
+Ngidi	2
+Ngoepe	2
+Nhlapo	2
+Nhleko	2
+Nieman	2
+Niemann	2
+Nissen	2
+Nkomo	2
+Nomvete	2
+Norden	2
+Norman	2
+Norval	2
+Norwitz	2
+Nourse	2
+Nuttall	2
+Nzama	2
+Orpen	2
+Osborne	2
+Pace	2
+Parkin	2
+Parkinson	2
+Parry	2
+Patterson	2
+Paulse	2
+Payn	2
+Peacock	2
+Pearce	2
+Peeters	2
+Pegler	2
+Penn	2
+Pepper	2
+Phiri	2
+Pieterson	2
+Piketh	2
+Plessis	2
+Plewman	2
+Plug	2
+Poo	2
+Porter	2
+Praeg	2
+Press	2
+Preston	2
+Pullen	2
+Quinn	2
+Radford	2
+Radloff	2
+Rahme	2
+Randle	2
+Ras	2
+Raubenheimer	2
+Rawson	2
+Raymond	2
+Rebelo	2
+Reinach	2
+Reinecke	2
+Reyneke	2
+Rhode	2
+Rhodes	2
+Riley	2
+Rodgers	2
+Rosen	2
+Rosenberg	2
+Rosenthal	2
+Rosslee	2
+Rowan	2
+Rubenstein	2
+Rudd	2
+Rundle	2
+Rupert	2
+Ryder	2
+Saayman	2
+Sacks	2
+Samuels	2
+Sandilands	2
+Saner	2
+Sauer	2
+Schabort	2
+Schalkwyk	2
+Schilder	2
+Schlebusch	2
+Schoon	2
+Schroeder	2
+Schuurman	2
+Schwarz	2
+Scully	2
+Sefolosha	2
+Serfontein	2
+Sewell	2
+Seyerling	2
+Shabalala	2
+Shaik	2
+Shepstone	2
+Sherman	2
+Sherwell	2
+Shore	2
+Short	2
+Sichel	2
+Simmonds	2
+Simpson	2
+Skaife	2
+Skelton	2
+Skotnes	2
+Slater	2
+Smal	2
+Small	2
+Smart	2
+Smits	2
+Snijman	2
+Snooke	2
+Sobukwe	2
+Sole	2
+Sonn	2
+Stansfield	2
+Stephen	2
+Stevenson	2
+Stirton	2
+Stoltz	2
+Strijdom	2
+Sutherland	2
+Talbot	2
+Tamsen	2
+Tandy	2
+Tate	2
+Teixeira	2
+Tennant	2
+Teuteberg	2
+Thabethe	2
+Thackeray	2
+Till	2
+Todd	2
+Tom	2
+Tomlinson	2
+Tomson	2
+Torrente	2
+Tredgold	2
+Treurnicht	2
+Tromp	2
+Truter	2
+Tsotetsi	2
+Tutu	2
+Vadi	2
+Vale	2
+Van As	2
+van Buuren	2
+van der Berg	2
+van Dijk	2
+van Eck	2
+van Nierop	2
+van Onselen	2
+Van Reenen	2
+Van Schalkwyk	2
+van Straaten	2
+van Warmelo	2
+Varty	2
+Verwoerd	2
+Vigario	2
+Villa	2
+Villiers	2
+Vivier	2
+Vogel	2
+Wake	2
+Wakefield	2
+Waller	2
+Wallis	2
+Washington	2
+Watkins	2
+Webster	2
+Welman	2
+Welsh	2
+Welz	2
+Wentzel	2
+West	2
+Weston	2
+Whelan	2
+Whitebooi	2
+Whyte	2
+Wild	2
+Wiley	2
+Wilken	2
+Wilkins	2
+Wilmot	2
+Wingfield	2
+Winkler	2
+Winslow	2
+Winter	2
+Witbooi	2
+Wylly	2
+Wynne	2
+Yende	2
+Yule	2
+Zimmerman	2
+Zinn	2
+Abbot
+Abdurahman
+Abell
+Abrahamson
+Abramovitz
+Acacio
+Acheson
+Acker
+Acock
+Acosta
+Acton
+Addinall
+Addison
+Adendorf
+Adolph
+Adonis
+Adriaanse
+Afrika
+Agathangelou
+Aggett
+Agliotti
+Ahmed
+Aiken
+Aitchison
+Aitken
+Akehurst
+Akinlabi
+Alant
+Albers
+Albertse
+Alcock
+Aldrich
+Alexandre
+Alfred
+Algie
+Allais
+Allely
+Allem
+Allende
+Allingham
+Almutairi
+Alper
+Alport
+Am
+Amato
+Amdor
+Amm
+Amos
+Andersson
+Anderton
+Andrésen
+Angelucci
+Anker
+Annandale
+Antonopoulos
+Antony
+Antrobus
+Appel
+Appelbaum
+Appleyard
+April
+Arber
+Arbuthnot
+Archer
+Ardington
+Arends
+Arenhold
+Argyros
+Ari
+Armand
+Arndt
+Arneil
+Arnison
+Arnott
+Arries
+Aschenborn
+Ash
+Ashman
+Ashton
+Astbury
+Aston
+Athans
+Auby
+Augustus
+Augustyn
+Auld
+Austin
+Aviv
+Awerbuck
+Axelrod
+Ayanda
+Ayres
+Babb
+Baber
+Babrow
+Bacher
+Backeberg
+Backhouse
+Backwell
+Bader
+Badsha
+Baillie
+Bains
+Baiocchi
+Baird
+Bakke
+Bakkes
+Balaskas
+Balcomb
+Baldanzi
+Baldi
+Bali
+Balk
+Ballen
+Ballington
+Bamford
+Banasiak
+Banda
+Banton
+Baqwa
+Baragwanath
+Barclay
+Bardin
+Barends
+Barkhuizen
+Barnabas
+Barns
+Baron
+Barr
+Barrington
+Barris
+Barrish
+Barter
+Bastard
+Baston
+Bateman
+Bates
+Batstone
+Batten
+Bauer
+Baumann
+Baumbach
+Baumgartner
+Bawa
+Bayliss
+Bayly
+Beake
+Beames
+Bean
+Beattie
+Beaurain
+Beavon
+Beech
+Beek
+Beekman
+Been
+Beer
+Beers
+Bees
+Begbie
+Begg
+Behr
+Behrens
+Behrmann
+Bellisomo
+Belson
+Belton
+Benatar
+Bence
+Bengü
+Benkenstein
+Benn
+Benney
+Bennie
+Bensusan
+Bentele
+Benyon
+Berend
+Berger
+Bergin
+Bergs
+Bergsma
+Bese
+Bethke
+Bethlehem
+Bétrix
+Bettington
+Betts
+Bevan
+Beyer
+Bham
+Bhamjee
+Bianchi
+Bianco
+Bibault
+Biddulph
+Biden
+Bieber
+Biel
+Bierman
+Biermann
+Biggar
+Bijoux
+Biko
+Bila
+Billing
+Binaris
+Bini
+Binns
+Birch
+Birkbeck
+Birkhead
+Birley
+Biro
+Bisschoff
+Bisset
+Blaauw
+Blabolová
+Blackburn
+Blacklaws
+Blackman
+Blackmore
+Blaikie
+Blair
+Blakemore
+Blakeway
+Blanc
+Blecher
+Bleek
+Blewett
+Bliss
+Block
+Bloem
+Bloemhof
+Blohm
+Blok
+Bloomberg
+Bloomfield
+Bloor
+Blore
+Blossom
+Blue
+Blum
+Blumenberg
+Blumenthal
+Blundell
+Boado
+Boatwright
+Bobbs
+Bobrow
+Boddington
+Bodley
+Boer
+Boeschoten
+Böeseken
+Boeyens
+Boffard
+Bohm
+Boix
+Boje
+Boks
+Boland
+Boltman
+Bonde
+Bondesio
+Bondi
+Bonello
+Bongo
+Bonnet
+Boomer
+Boomgaard
+Boonstra
+Borland
+Borman
+Bornman
+Borresen
+Borthwick
+Bosker
+Bosnjak
+Bossert
+Bostock
+Bosworth
+Both
+Bothma
+Bothner
+Botman
+Böttcher
+Bottger
+Bottomley
+Botts
+Bouček
+Bouffé
+Boulting
+Bourke
+Bourne
+Bouter
+Bouw
+Bowers
+Bowes
+Bowker
+Bowles
+Bowley
+Bowman
+Bowyer
+Boya
+Boyd
+Boydell
+Bozzoli
+Braaf
+Brabant
+Brabetz
+Brache
+Bradfield
+Bragg
+Brammer
+Branca
+Branford
+Brann
+Brasch
+Braun
+Bräuninger
+Brayshaw
+Breckenridge
+Bredell
+Breed
+Breijer
+Bremer
+Bremner
+Brennan
+Brenner
+Brent
+Brescia
+Bresler
+Brewis
+Brezeanu
+Bricknell
+Bridgeman
+Bridgens
+Bridgett
+Bridle
+Briggs
+Bright
+Brill
+Brislin
+Brisset
+Bristow
+Broad
+Brodie
+Bromfield
+Bromley
+Bronkhorst
+Brooker
+Brookes
+Broom
+Brothers
+Brotherton
+Brownell
+Brueckner
+Brukman
+Brumer
+Brusse
+Brutus
+Bruyn
+Bryer
+Bryson
+Bub
+Buba
+Bubu
+Buchan
+Buchholz
+Buchler
+Buckle
+Buckner
+Buckton
+Budd
+Buhrmann
+Buitendag
+Bukes
+Bulbring
+Bundy
+Bunyard
+Burch
+Burdett
+Bürer
+Burg
+Burgoyne
+Burkett
+Burkinshaw
+Burland
+Burnell
+Bushakevitz
+Busschau
+Butkow
+Butlin
+Butterworth
+Buttery
+Byram
+Byrnes
+Byron
+Cahill
+Cairncross
+Cairns
+Calata
+Calburn
+Caldecott
+Caldwell
+Calitz
+Callaghan
+Caluza
+Calvert
+Camp
+Campey
+Camron
+Canitz
+Canning
+Capell
+Capper
+Caprara
+Caprari
+Carlini
+Carlson
+Carlton
+Carnac
+Carnegie
+Carnell
+Carney
+Carolin
+Carolissen
+Carolus
+Carpendale
+Carreira
+Carse
+Carson
+Cartwright
+Carver
+Case
+Casper
+Cassim
+Cassirer
+Castens
+Castle
+Catherine
+Catt
+Cauldwell
+Cavanagh
+Cawcutt
+Cawood
+Cech
+Cecil
+Celliers
+Cerff
+Chabane
+Chaine
+Chait
+Challenor
+Chalupa
+Chalupsky
+Chamberlain
+Champion
+Chandler
+Channing
+Chaplin
+Charalambous
+Charles
+Charlesworth
+Charlton
+Charnley
+Cheetham
+Chelius
+Chen
+Cherry
+Chesterton
+Chettle
+Chetty
+Chichester
+Chikane
+Childs
+Chippindall
+Chistolini
+Chittenden
+Chivell
+Chohan
+Chong
+Chouler
+Christians
+Christoffels
+Chunga
+Cianfanelli
+Claasen
+Claerhout
+Clapham
+Clarence
+Classen
+Clay
+Cleaver
+Clement
+Cline
+Cochran
+Cock
+Cockcroft
+Cockrell
+Codd
+Coelen
+Coetsee
+Coetser
+Coghlan
+Cokayne
+Colborne
+Collen
+Collier
+Collinson
+Comaroff
+Compaan
+Comrie
+Condon
+Condy
+Constant
+Constantinides
+Conte
+Conway
+Coombe
+Coote
+Copley
+Coppinger
+Coppock
+Corbellari
+Corbishley
+Corfe
+Cormack
+Cornelissen
+Cornell
+Cosser
+Costello
+Coster
+Coston
+Cotter
+Cottrell
+Cotty
+Coulson
+Couper
+Courtenay
+Cousens
+Coutinho
+Couzens
+Cowan
+Cowen
+Cowley
+Cowling
+Coyne
+Crafford
+Cragg
+Craighead
+Cramer
+Cran
+Crane
+Cranford
+Cranko
+Crawford
+Creecy
+Creed
+Cremona
+Cresswell
+Cripps
+Crockart
+Crocker
+Cron
+Croome
+Crosse
+Crouch
+Croukamp
+Crowley
+Cruickshank
+Cruse
+Cruywagen
+Cullen
+Cullis
+Cummiskey
+Cundill
+Cunningham
+Curle
+Curren
+Currey
+Currie
+Currin
+Cusack
+Cussons
+Cutler
+Cuypers
+d'Avray
+da Costa
+Daffarn
+Dakin
+Dalberg
+Dale
+Dames
+Damon
+Damons
+Dana
+Dannaher
+Dannhauser
+Danowski
+Darch
+Dargie
+Daries
+Darren
+Darvall
+Daubern
+Davenport
+Davidsson
+Davidtz
+Davie
+Davison
+de Abreu
+De Bonis
+De Groef
+De Groote
+de Haas
+de Jong
+De La Porte
+De Meyer
+de Raadt
+de Roubaix
+De Ruyter
+de Salgues
+De Smidt
+de Stadler
+de Villers
+de Wit
+De Witt
+Deal
+Decalo
+Deedat
+Deen
+Degenaar
+Del Fava
+Delphine
+Dely
+Demas
+Dembo
+Demetriades
+den Bakker
+Denman
+Denne
+Denner
+Denny
+Dercksen
+Dermota
+Dernbach
+Desmond
+Dewan
+Dewe
+Dewes
+Dexter
+Deysel
+Dheda
+Diab
+Diack
+Dial
+Dickson
+Digue
+Dijk
+Dike
+Dikgacoi
+Dill
+Dimitrov
+Dimitrova
+Dinkelmann
+Dior
+Direko
+Dirksen
+Disse
+Dithejane
+Ditz
+Divine
+Dixie
+Dludlu
+Dobie
+Dodds
+Dohnalová
+Dolf
+Dolley
+Dolly
+Dommisse
+Donker
+Donnell
+Donnelly
+Donner
+Doramini
+Dorfan
+Dorman
+Dorrington
+Dorward
+dos Santos
+Doubell
+Dougherty
+Douglas-Home
+Douglass
+Dower
+Downes
+Downey
+Downie
+Downing
+Downs
+Drew
+Dros
+Drummer
+Drummond
+Dryburgh
+Drysdale
+Duarte
+Duba
+Dubow
+Duckworth
+Duff
+Duffus
+Dugard
+Duggan
+Dugmore
+Dukas
+Duke
+Dukes
+Duma
+Dumas
+Dumbrill
+Dumke
+Dummer
+Dummett
+Dumșe
+Duncker
+Dundee
+Dunell
+Dunn
+Dunne
+Dunning
+Dunphy
+Dunsky
+Duplessis
+Durandt
+Durr
+Durrant
+Duthie
+Duvenage
+Duxbury
+Dye
+Dylan
+Eales
+Eardley
+Earl
+Earle
+Earp
+East
+Eastwood
+Ebden
+Eccles
+Eckstein
+Eddey
+Edgar
+Edkins
+Edmunds
+Edwardes
+Eeden
+Eerenstein
+Efstathiou
+Egeland
+Egersdörfer
+Eglin
+Egnos
+Ehrenreich
+Ehrlich
+Eicker
+Eilers
+Eiselen
+Eley
+Elffers
+Elgar
+Eliot
+Eliovson
+Elkan
+Ellerine
+Ellwood
+Emanuel
+Emary
+Emery
+Endrődy
+Engel
+Engelenburg
+Engelsman
+Enslin
+Epton
+Eray
+Ernst
+Esau
+Escombe
+Espain
+Esteban
+Esterhuysen
+Everatt
+Every
+Ewers
+Ewing
+Exley
+Ezr
+Faasen
+Faber
+Fahey
+Fain
+Fair
+Fairbank
+Fairbrother
+Faku
+Fallows
+Fana
+Fannin
+Fanning
+Farber
+Farewell
+Fargher
+Farquharson
+Farr
+Farrant
+Farrar
+Farrell
+Farrer
+Farrington
+Fasser
+Fassie
+Fehr
+Fein
+Feinberg-Mngomezulu
+Feinson
+Feldman
+Fenner
+Fensham
+Fenter
+Fernandez
+Fernández
+Ferrus
+Fester
+ffrench-Beytagh
+Fiasconaro
+Ficker
+Fields
+Fig
+Figueiredo
+Filander
+Filby
+Finch
+Fincham
+Fine
+Fink
+Finkelstein
+Finn
+Firmani
+First
+Firth
+Fitchett
+Fitschen
+FitzPatrick
+FitzSimons
+Flatscher
+Fleck
+Fleischer
+Fleming
+Flooks
+Floors
+Flower
+Focke
+Foli
+Folker
+Fonn
+Foote
+Fordred
+Fordyce
+Foreman
+Forrester
+Fortes
+Fortune
+Fotheringham
+Foulis
+Fourcade
+Foxcroft
+Frahm
+France
+Francke
+Francois
+Franks
+Fransman
+Fray
+Fredman
+Freese
+Freitag
+Fremantle
+French
+Frene
+Frenz
+Fresen
+Frew
+Friedberg
+Friend
+Frittelli
+Frosler
+Fru
+Fryer
+Fuchs
+Fullard
+Funston
+Furber
+Furman
+Furner
+Fynn
+Gabuza
+Gadd
+Gaertner
+Gage
+Gain
+Galant
+Galgut
+Gallant
+Galley
+Galo
+Galvin
+Gama
+Gambale
+Gamble
+Gandhi
+Gangi
+Gantsho
+Gantz
+Gardée
+Gardini
+Garms
+Garrow
+Gatti
+Gauntlett
+Gcabashe
+Geary
+Gebbie
+Geduldiger
+Geel
+Geertsema
+Geiling
+Geldart
+Geninda
+Gentles
+Gercke
+Gerstman
+Gerwel
+Gesner
+Gess
+Getliffe
+Gey van Pittius
+Giering
+Gilbert
+Gildenhuys
+Gilder
+Gillatt
+Gilliam
+Gillis
+Ginns
+Girdlestone
+Glanville
+Glasenberg
+Gledhill
+Glenister
+Glennie
+Glossop
+Glynn
+Gobodo
+Godinho
+Godsell
+Goedeke
+Gola
+Gold
+Goldmann
+Goldreich
+Goldschmidt
+Goldsmid
+Goliath
+Golightly
+Gon
+Gonin
+Gonsalves
+Goode
+Goodes
+Goodson
+Goodwin
+Gool
+Goold
+Goolden
+Goossens
+Gora
+Gordhan
+Gordimer
+Gordin
+Gordinho
+Gosen
+Goss
+Gottschalk
+Gough
+Gourley
+Gqulu
+Graaff
+Graan
+Gradwell
+Grae
+Graevenitz
+Grain
+Grandin
+Granger
+Grassmann
+Greener
+Greenfield
+Greenway
+Grellier
+Grenville
+Gresham
+Greville
+Grewar
+Grimaldi
+Grimes
+Gripper
+Groenendaal
+Groeneveld
+Groenewoud
+Gross
+Grove
+Groves
+Grueter
+Grünewald
+Grüng
+Grütter
+Gulbis
+Gundry
+Gunning
+Gunter
+Günter
+Gurdon
+Gush
+Gutsche
+Guy
+Haagner
+Haak
+Habana
+Habib
+Habig
+Haddad
+Hadebe
+Haden
+Hagan
+Haggard
+Hahn
+Haiden
+Haindl
+Hales
+Haley
+Halkett
+Hallack
+Hallen
+Hallett
+Hallion
+Halliwell
+Halsey
+Halstead
+Hamann
+Hamersma
+Hamerton
+Hammerl
+Hammersley
+Hampton
+Hamza
+Hanau
+Hancke
+Hancock
+Handley
+Hani
+Hanisch
+Hanmer
+Hanrahan
+Hansmann
+Harber
+Harford
+Harison
+Harmans
+Harmel
+Harmse
+Haron
+Harpaz
+Harpe
+Harpur
+Harrell
+Harriman
+Harrington
+Hart-Davis
+Hartford
+Hartigan
+Hartley
+Hartnick
+Hartog
+Harty
+Hartzenberg
+Hasenjäger
+Haskin
+Hasse
+Hasselbach
+Hastie
+Hatherell
+Hatherley
+Hatherly
+Hauck
+Haughton
+Hauman
+Hauslaib
+Haw
+Hawker
+Haworth
+Haynes
+Haysom
+Hazle
+Head
+Heale
+Healey
+Hearle
+Hearne
+Heath
+Heather
+Heavens
+Hefer
+Heffer
+Hefferon
+Heiberg
+Heidenfeld
+Helberg
+Hele
+Hellaby
+Helliwell
+Helm
+Hemphill
+Hendrie
+Hendrikse
+Hennessy
+Henshilwood
+Henwood
+Hepker
+Hepple
+Hermanus
+Hermer
+Herne
+Heron
+Herrer
+Herring
+Herrman
+Herrmann
+Herzberg
+Hesketh
+Hesseling
+Hetherington
+Hewitson
+Hewson
+Heydra
+Heyl
+Heymann
+Heyne
+Heywood
+Hezlet
+Hibbert
+Hide
+Hietbrink
+Hildebrand
+Hillhouse
+Hilliar
+Hilliard
+Hilton
+Hilton-Barber
+Hime
+Hinchliff
+Hinds
+Hindson
+Hines
+Hipper
+Hlatshwayo
+Hložek
+Hoberman
+Hock
+Hodge
+Hodgins
+Hodgskin
+Hodgskiss
+Hodnett
+Hoexter
+Hoff
+Hofman
+Höhne
+Holasová
+Holdstock
+Holgate
+Holiday
+Hollett
+Holt
+Holtmann
+Honzik
+Hood
+Hook
+Hooker
+Hoole
+Hooper
+Hopa
+Horner
+Horrell
+Horwood
+Hough
+Houlie
+House
+Houston
+Houtman
+Howe
+Huang
+Hubbard
+Huber
+Huchzermeyer
+Huffman
+Huguenet
+Hulett
+Hull
+Hulley
+Hultzer
+Humphreys
+Hunsinger
+Hurley
+Hurly
+Hurst
+Ibrahim
+Ichikowitz
+Ikin
+Ikumi
+Ilunga
+Impey
+Inglesby
+Inkson
+Innes-Ker
+Inskeep
+Ironside
+Irvine
+Ishiwatari
+Issa
+Ivanov
+Iwanowski
+Jabavu
+Jach
+Jacot-Guillarmod
+Jaffe
+Jaffer
+Jamieson
+Jane
+Janke
+Janse
+Jantjies
+January
+Jara
+Jardine
+Jarrett
+Jarvis
+Jasson
+Jay
+Jefferies
+Jefferys
+Jegge
+Jelf
+Jenkin
+Jenneker
+Jenner
+Jeppe
+Jeslein
+Jetten
+Jewitt
+Jewkes
+Jimmie
+Jingles
+Jiráková
+Jobb
+Jobert
+Johanneson
+Johannisen
+Johnsen
+Jongbloed
+Jordens
+Josephs
+Joshua
+Jourdan
+Joyi
+Jubb
+Judels
+Judge
+Junior
+Jurgens
+Justus
+Kadi
+Kaganoff
+Kakora
+Kalam
+Kaliski
+Kalk
+Kallenbach
+Kalley
+Kallis
+Kallos
+Kalyan
+Kamstra
+Kane
+Kannemeyer
+Kantor
+Kantorowicz
+Kaptein
+Karen
+Kark
+Karol
+Karpinski
+Kasselman
+Kat
+Katz
+Kaur
+Kawata
+Kayser
+Kearney
+Kearton
+Keates
+Keats
+Keeley
+Keeling
+Keenan
+Keep
+Kegakilwe
+Keil
+Keir
+Keizan
+Kellas
+Kellermann
+Kelso
+Kemm
+Kendal
+Kennon
+Kensit
+Kensley
+Kenyon
+Keogh
+Kessel
+Kessler
+Ketley
+Kettle
+Key
+Keyser
+Kgaffe
+Kgasago
+Kgorogeh
+Khosa
+Kidd
+Kidron
+Kieck
+Kiel
+Kiely
+Kiesewetter
+Kietzman
+Kilburn
+Killeen
+Killian
+Killick
+Kilowan
+Kilpatrick
+Kingsbury
+Kingston
+Kinkead
+Kinsey
+Kinsman
+Kipling
+Kipps
+Kirkpatrick
+Kirkwood
+Kirsch
+Kistner
+Kitching
+Klaas
+Klaff
+Klak
+Klarer
+Klassen
+Kleingeld
+Kleinschmidt
+Kleinveldt
+Klesser
+Kleyn
+Kleynhans
+Kloss
+Knezovich
+Knipe
+Knoll
+Knott-Craig
+Knowles
+Knutzen
+Koapeng
+Kobe
+Kofi
+Kohler
+Komane
+König
+Kónya
+Kook
+Koopman
+Koopmans
+Koorland
+Koorts
+Koppel
+Korsten
+Kossuth
+Köster
+Kot
+Kotaw
+Koti
+Kotov
+Kottler
+Kotzé
+Kovács
+Kraas
+Kraemer
+Krampe
+Krantz
+Kretzmer
+Krieg
+Křivohlávková
+Krogman
+Kroon
+Krotz
+Krueger
+Kruiper
+Krummeck
+Kula
+Kumar
+Kunene
+Kunzmann
+Kuper
+Küpper
+Kurland
+Kusche
+Kushner
+Kuus
+Kuys
+La Grange
+La Guma
+Laband
+Ladendorf
+Lahana
+Lahner
+Lai
+Laight
+Laing
+Lakhani
+Lakier
+Lamb
+Lambart
+Lambie
+Lambourn
+Lambrecht
+Lambson
+Lamoela
+Lamont
+Lan
+Landau
+Landers
+Landman
+Landsman
+Lang
+Langeveldt
+Langford
+Langhans
+Langley
+Langston
+Langton
+Langtry
+Lani
+Lansdell
+Lardner
+Larick
+Larkin
+Laros
+Larrabee
+Larsen
+Larson
+Latham
+Latimer
+Latouf
+Latour
+Latter
+Laubser
+Laughton
+Laurens
+Lauth
+Lavery
+Lavine
+Law
+Lawlor
+Laybourn
+Le Clercq
+le Clos
+Le Forestier
+Le Mesurier
+Le Quesne
+Le Riche
+Leaf
+Lederle
+Leech
+Leeman
+Leftwich
+Legg
+Legris
+Legum
+Lehmann
+Lehrer
+Leibbrandt
+Leie
+Leigh
+Leighton
+Leipoldt
+Leisching
+Leisegang
+LeMay
+Lengálová
+Lennard
+Lennox
+Leonardi
+Lepere
+Letsholo
+Letty
+Levine
+Levinsky
+Levinsohn
+Levitan
+Levyns
+Lewies
+Lewin
+Lewis-Williams
+Lewy
+Leyds
+Leyland
+Liddle
+Liesching
+Lightbody
+Lightfoot
+Lila
+Limberg
+Lincoln
+Linda
+Lindbergh
+Lindemann
+Lindemeier
+Linegar
+Lingen
+Lingham
+Lingua
+Liss
+Littlewood
+Liversage
+Liversidge
+Llobell
+Loader
+Lochner
+Lock
+Locke
+Loeb van Zuilenburg
+Loebenberg
+Löfstrand
+Lofthouse
+Logtenberg
+Lomba
+Long
+Loni
+Loock
+Lorch
+Lorenzo
+Lorimer
+Lorrayne
+Lotis
+Lourie
+Low
+Loxton
+Lü
+Lubega
+Lucey
+Luck
+Lucke
+Luckett
+Ludeke
+Ludik
+Lupini
+Lutjeharms
+Lynch
+Lyon
+Lyster
+Maartens
+Mabandla
+Mabele
+Mabhena
+Mabika
+Mabin
+Mabula
+Mabuya
+MacArthur
+MacArthur-Onslow
+Macaskill
+Macaulay
+MacGregor
+Machado
+Machel
+Macintosh
+MacIvor
+MacKellar
+MacKinlay
+MacKinnon
+MacNaughton
+MacNeill
+Madala
+Madeley
+Madell
+Madima
+Madis
+Madondo
+Madonsela
+Maduna
+Madzimbamuto
+Mafela
+Mafu
+Magama
+Magano
+Magedezi
+Magee
+Magerman
+Maguire
+Mahapa
+Maharajh
+Mahoney
+Mahumapelo
+Maila
+Maimanen
+Main
+Maingard
+Majuba
+Makamba
+Makaya
+Makgoba
+Makgopa
+Makkink
+Makoanyane
+Makokha
+Makori
+Makuakua
+Malcolm
+Maliekal
+Maloney
+Maluleke
+Manack
+Manas
+Manby
+Manci
+Maniatis
+Manjoo
+Mans
+Mansell
+Manser
+Mansfield
+Mantashe
+Mantle
+Manyonga
+Maponyane
+Marasela
+Marcia
+Mare
+Mariano
+Marinos
+Marius
+Marivate
+Markham
+Markötter
+Markovitz
+Markus
+Marlin
+Marloth
+Marney
+Maroga
+Maroney
+Marran
+Masha
+Mashabane
+Mashigo
+Mashilo
+Masilo
+Masina
+Masipa
+Maske
+Maskell
+Masola
+Masondo
+Masson
+Masters
+Mathabane
+Mathe
+Matheson
+Mathieson
+Mathoho
+Mathunjwa
+Mathura
+Mathys
+Matison
+Matlwa
+Matshaba
+Matsushima
+Mattera
+Matu
+Mauer
+Mauve
+Mavi
+Mavuso
+Maya
+Mayberry
+Mayne
+Maynier
+Mayola
+Mazaleni
+Mazzone
+Mbau
+Mbule
+McAleese
+McAllister
+McBeth
+McCalmont
+McCauley
+McCaw
+McCay
+McClenaghan
+McClure
+McColl
+McConnachie
+McCord
+McCorkindale
+McCormick
+McCosker
+McCrea
+McCurrach
+McDade
+McDaid
+McFadden
+McGarr
+McGeoch
+McGinn
+McGlashan
+McGlew
+McGlynn
+McGrane
+McGuire
+McHardy
+McIlwaine
+McInnes
+McIntyre
+McJannet
+McKaiser
+McKellar
+McKerr
+McKinley
+McKinnon
+McLachlan
+McLardy
+McLarty
+McLoughlin
+McManus
+McMaster
+McMeeking
+McMorran
+McNaughton
+McNicol
+McPhee
+McPherson
+McRae
+Meadows
+Mearns
+Mears
+Meder
+Medupe
+Meer
+Mehrtens
+Meiklejohn
+Meineke
+Melle
+Mellet
+Mellor
+Melo
+Melvill
+Memela
+Mendelowitz
+Mendes
+Menter
+Mercer
+Merensky
+Meriwether
+Merritt
+Merry
+Messina
+Metcalf
+Mettler
+Mey
+Meyers
+Mhlope
+Michael
+Michaels
+Michel
+Midgley
+Miguna
+Millman
+Millson
+Milne
+Milner
+Minařík
+Mindel
+Minnie
+Mistry
+Mitchell Baker
+Mitchley
+Mitra
+Mkhatshwa
+Mlongo
+Mncube
+Mntambo
+Modise
+Moe
+Moerane
+Moffett
+Mohr
+Mojapelo
+Mok
+Mokae
+Mokgapa
+Mokgethi
+Mokgoro
+Mokonyane
+Mole
+Molekane
+Moloto
+Molyneux
+Mombelli
+Moneta
+Mongalo
+Monk
+Monson
+Monteath
+Monteiro
+Montignies
+Montjane
+Moodie
+Morais
+Moreira
+Morgado
+Moriarty
+Morphet
+Morrissey
+Morrow
+Mortifee
+Mortimer
+Moseley
+Moșia
+Mostovsky
+Mosweu
+Motloheloa
+Motsa
+Motshekga
+Motsoaledi
+Mould
+Mouton
+Mpako
+Mpambani
+Mpinga
+Msezane
+Mtetwa
+Mthunzi
+Mtshali
+Mugeni
+Muir
+Mukha
+Mulamba
+Mulroy
+Munnik
+Munro
+Munton
+Murison
+Musgrave
+Mushet
+Musker
+Mutch
+Mwelase
+Mycroft
+Mzimela
+Mzobe
+Mæle
+Nabarro
+Nahon
+Naidu
+Nair
+Nakai
+Naki
+Namba
+Nandwani
+Nape
+Narain
+Nates
+Nattrass
+Navon
+Nawa
+Ndamase
+Ndiweni
+Ndoni
+Neave
+Nebbeling
+Nebe
+Neel
+Németh
+Neophytou
+Neuhaus
+Neuhoff
+Neuschäfer
+Newberry
+Ngcawuzele
+Ngcuka
+Ngoyi
+Ngulube
+Ngxoli
+Niayesh
+Nica
+Nichol
+Nicholas
+Nicholl
+Niebuhr
+Niederer
+Niehaus
+Nielsen
+Nietz
+Nieuwenhuis
+Nipper
+Nirghin
+Nitzsche
+Niven
+Nkabinde
+Nkoana
+Noah
+Noakes
+Nobbs
+Nofal
+Noko
+Nokwé
+Nolan
+Nolte
+Nong
+Noone
+Norcott
+Northcote
+Nortmann
+Nossel
+Nosworthy
+Nott
+Novák
+Novikova
+Nowak
+Ntlhe
+Ntombela
+Nunn
+Nupen
+Nxumalo
+Nyembezi-Heita
+Nzimande
+O'Donoghue
+O'Dowd
+O'Flaherty
+O'Keeffe
+O'Leary
+O'Linn
+O'Mara
+O'Meara
+O'Reilly
+O'Shea
+O'Toole
+Oakes
+Obermeyer
+Ochberg
+Ockerse
+Okolo
+Okon
+Okoye
+Oldknow
+Oliveira
+Olsen
+Omar
+Omotosho
+Ongenda
+Oost
+Oram
+Oranje
+Orchard
+Orford
+Orie
+Orkin
+Orlikowski
+Ormiston
+Ortlepp
+Osifo
+Osler
+Otten
+Outram
+Oxlee
+Paarman
+Paarwater
+Pabst
+Pachter
+Pagel
+Pahl
+Paige
+Palgrave
+Palicka
+Palm
+Pama
+Pandor
+Panther
+Papa
+Papageorge
+Papert
+Papier
+Pappas
+Parks
+Parnell
+Parow
+Parr
+Pascoe
+Pasio
+Passamonte
+Passmore
+Paster
+Pather
+Pathon
+Patosi
+Patta
+Pattison
+Pattle
+Paulo
+Pauw
+Pavkovich
+Pavlov
+Peach
+Pead
+Peake
+Pearlman
+Pearse
+Peckover
+Peek
+Peffer
+Pegg
+Pegram
+Peirce
+Peirse
+Pellegrini
+Pells
+Pelser
+Peltz
+Pengelly
+Pennington
+Penny
+Penzhorn
+Perls
+Perrin
+Perrine
+Perrow
+Persse
+Peter
+Peternell
+Petrie
+Petsch
+Pettersson
+Pettey
+Petty-Fitzmaurice
+Pfaff
+Pfeuffer
+Pfuhl
+Phete
+Philips
+Phoenix
+Phoolo
+Pickard
+Picker
+Piedt
+Pierce
+Piers
+Pike
+Pilditch
+Pilgrim
+Pillans
+Pilon
+Pires
+Pita
+Pitamber
+Pitot
+Pitout
+Pitt
+Pityana
+Plasson
+Platnauer
+Plato
+Platt
+Plimsoll
+Plitt
+Plomer
+Ploos van Amstel
+Plotz
+Plowes
+Plummer
+Plumtree
+Poewe
+Pohl
+Poland
+Polasek
+Pollack
+Polmans
+Ponsonby
+Pooler
+Pooley
+Poolman
+Pope
+Pople
+Porri
+Porteous
+Porthen
+Posthumus
+Pott
+Potter
+Potts
+Poulos
+Power
+Powers
+Powrie
+Poynton
+Prade
+Prangley
+Pratt
+Preen
+Preez
+Pressentin
+Priester
+Prins
+Prior
+Pritzen
+Procheș
+Procter
+Proctor
+Prokop
+Proudfoot
+Pugh
+Punt
+Purcell
+Putter
+Putterill
+Pycroft
+Quattrocecere
+Quazi
+Quenet
+Quin
+Raab
+Raats
+Rabadà
+Rabin
+Race
+Raeburn
+Rafael
+Raftery
+Rahl
+Raikes
+Raikin
+Rainier
+Rajna
+Raju
+Ralfe
+Raman
+Ramaphosa
+Ramesar
+Ramjee
+Ramokgopa
+Ramone
+Ramos
+Ramphele
+Ramsamy
+Ramsden
+Randles
+Raphala
+Rasool
+Ratcliffe
+Rateleki
+Rattray
+Rauch
+Ray
+Rayfield
+Raynham
+Razavi
+Read
+Reader
+Reardon
+Rector
+Redick
+Reen
+Rees
+Reid-Daly
+Reinstorf
+Reitzer
+Reizner
+Relly
+Renault
+Render
+Rensburg
+Renzi
+Repsold
+Reto
+Retsos
+Rey
+Reynders
+Reznek
+Rheeder
+Rhoda
+Rhule
+Ric
+Riccitelli
+Richard
+Richmond
+Rick
+Riddle
+Rieser
+Rigal
+Rimington
+Rindsberg
+Ripley
+Rishworth
+Ritchie
+Ritson
+Rive
+Rivers
+Roach
+Roaldsøy
+Robb
+Robbie
+Robbins
+Robson
+Robyns
+Rochat
+Rockman
+Rockwell
+Rodda
+Rodger
+Rodrigues
+Rodwell
+Rohwer
+Rolfe
+Rolfes
+Roller
+Roman
+Romine
+Ronge
+Rood
+Roodt
+Rooke
+Roome
+Roper
+Rorke
+Rosier
+Rösler
+Rosner
+Rotem
+Rothmann
+Rourke
+Rousse
+Rowand
+Rowbotham
+Ruben
+Rubens
+Ruddle
+Rudolf
+Ruga
+Rujević
+Rusch
+Rutgerson
+Rutherfoord
+Rutzen
+Ruygrok
+Ryall
+Ryke
+Sabbatini
+Sacco
+Sack
+Saddington
+Sadie
+Sadiki
+Sadler
+Sadr
+Sagan
+Sage
+Saks
+Salber
+Sale
+Salgado
+Salie
+Salis
+Salmon
+Samuel
+Samuelson
+Sandes
+Sandlands
+Sandler
+Sandri
+Sank
+Santana
+Santo
+Santos
+Sapiro
+Sargent
+Satchwell
+Sauerman
+Saule
+Savage
+Sayed
+Scanlen
+Scannell
+Scarlett
+Schaap
+Schach
+Schacherl
+Schäfer
+Schamroth
+Schapera
+Schär
+Schatz
+Schauerte
+Scheffer
+Schellnack
+Schepers
+Schermbrucker
+Schetters
+Schildknecht
+Schimke
+Schimmel
+Schimper
+Schlemmer
+Schlesinger
+Schmitt
+Schmitz
+Schoenmaker
+Scholefield
+Scholes
+Schonland
+Schonstein
+Schoones
+Schorr
+Schoultz
+Schreiber
+Schreuder
+Schreuders
+Schröder
+Schultze
+Schumann
+Schuster
+Schutz
+Schwartzel
+Schweickerdt
+Schwulst
+Schwyzer
+Scullard
+Sealy
+Sebapole
+Sebastian
+Sebelebele
+Sebetso
+Second
+Seele
+Seethal
+Segerman
+Segil
+Seidler
+Sekgodiso
+Selby
+Selemela
+Seleoane
+Selfe
+Seller
+Semela
+Semple
+Senkubuge
+Sennett
+Septimus
+Serneels
+Settle
+Sexwale
+Seyffert
+Shade
+Shaikh
+Shankland
+Shannon
+Shapcote
+Shaper
+Sharif
+Sharman
+Sharpley
+Sheer
+Shephard
+Shepherd
+Sheppard
+Sherwood
+Sherwood-Kelly
+Shields
+Shinn
+Shirley
+Shope
+Shozi
+Shuttleworth
+Siba
+Sibande
+Sickafoose
+Sickler
+Sienaert
+Sikosana
+Silundika
+Simkins
+Simmers
+Simond
+Sindi
+Sing
+Singer
+Sinha
+Sink
+Sipuka
+Sirringhaus
+Sitas
+Situ
+Sivewright
+Siwela
+Sixel
+Sizani
+Skead
+Skene
+Skewes
+Skibbe
+Skinner
+Skrbinšek
+Slabber
+Sládečková
+Slatter
+Slattery
+Sleigh
+Slemon
+Slingerland
+Sloane
+Smalle
+Smartt
+Smollan
+Smyth
+Smythe
+Snedden
+Sneddon
+Sneider
+Snyckers
+Snyders
+Soal
+Soan
+Soares
+Sofos
+Soga
+Sokhulu
+Solms
+Somera
+Somers
+Somma
+Song
+Sonnabend
+Sonnenberg
+Sorsdahl
+Soule
+Southey
+Southgate
+Southwood
+Soutter
+Sowry
+Spaarwater
+Sparrow
+Spedding
+Speedy
+Speidel
+Spencer
+Spier
+Spiller
+Spira
+Splinter
+Spohr
+Spooner
+Spottiswoode
+Spring
+Spyker
+Squires
+Staak
+Staff
+Stafford
+Stahl
+Stainbank
+Stallard
+Stamp
+Stanbridge
+Staniforth
+Stanton
+Stapelberg
+Stavridis
+Stayner
+Stears
+Steck
+Stedman
+Steel
+Steenhuisen
+Stegmann
+Steinbach
+Steinberg
+Stella
+Stepanova
+Sterkenburg
+Stern
+Sterne
+Sterzel
+Steuart
+Stick
+Stiebel
+Still
+Stindt
+Stober
+Stocchi
+Stockenström
+Stoffels
+Stoker
+Stolk
+Stoops
+Storbeck
+Storm
+Story
+Strachan
+Stransky
+Strasheim
+Stratford
+Street
+Strelitz
+Stretch
+Stretton
+Strike
+Strike-Nakar
+Stroebel
+Strong
+Strugnell
+Stubbings
+Stuckenberg
+Stutterheim
+Styger
+Suchet
+Sullivan
+Sumner
+Sundstrom
+Sunkel
+Surisa
+Surman
+Susan
+Suskin
+Susser
+Susskind
+Suttner
+Sutton
+Swan
+Swanson
+Swarts
+Sweeney
+Swerling
+Swierstra
+Swift
+Symes
+Syster
+Szwarczyński
+Tabachnik
+Tabata
+Tahir
+Tait
+Taljard
+Tallie
+Tancred
+Tannenbaum
+Tappe
+Tapscott
+Tarrant
+Taschner
+Tau
+Tebow
+Tedder
+Teichman
+Temmingh
+Temple
+Tenge
+Tennent
+Teodoro
+Tesař
+Teske
+Tete
+Teversham
+Thacker
+Thakur
+Thamm
+Thaning
+Thatcher
+Themba
+Thesen
+Thiersen
+Thirsk
+Thom
+Thornton
+Thorrington
+Thursfield
+Thwaits
+Thys
+Thyssen
+Tiedt
+Tietz
+Tilbury
+Tillim
+Tilney
+Timlin
+Timm
+Timol
+Tindall
+Tinelli
+Tippett
+Tiro
+Tise
+Titlestad
+Tlali
+Tlhabi
+Tobias
+Tobler
+Toelken
+Toich
+Tolkien
+Tomášková
+Tomlin
+Tommy
+Tompson
+Toms
+Tonetti
+Tootill
+Torr
+Torsius
+Touré
+Tovey
+Tracey
+Tranka
+Trapido
+Trauernicht
+Trautman
+Traverso
+Travis
+Treadaway
+Treadwell
+Tregardt
+Trembath
+Tremlett
+Trent
+Treu
+Trezise
+Trichardt
+Trimborn
+Trollope
+Troughton
+Troup
+Trümpelmann
+Truscott
+Tshuma
+Tuck
+Tudhope
+Tudor
+Tuli
+Tully
+Tummon
+Tune
+Tunzi
+Twala
+Tweddle
+Twentyman
+Tyghe
+Tyler
+Tyson
+Uhlmann
+Unite
+Unsworth
+Unwin
+Upington
+Uranovsky
+Urbánek
+Urquhart
+Urton
+Usdin
+Vaculik
+Vahala
+Valcke
+Valley
+Valli
+Vallie
+Vally
+Van Blerk
+Van Dam
+van der Bergh
+Van der Burgh
+Van der Byl
+Van der Dussen
+van der Lingen
+van der Maas
+van der Meulen
+Van der Plank
+van der Poel
+van der Vyver
+van der Wal
+van Druten
+van Graan
+van Hessen
+van Hoven
+van Leeuwen
+van Lill
+Van Noort
+van Staden
+Van Straubenzee
+van Vliet
+van Vollenhoven
+van Wageningen
+van Wijk
+van Winkel
+Vander
+Vanne
+Vardy
+Vašata
+Vasconcelos
+Vaux
+Vaz
+Veitch
+Veith
+Velshi
+Verbeek
+Verburgt
+Verdoorn
+Verhage
+Verheyen
+Verhoef
+Verloren van Themaat
+Vermaas
+Vermeiren
+Verryn
+Vertue
+Vicencio
+Vicente
+Vickerman
+Vidulich
+Vigo
+Vijayanath
+Viktor
+Vinnicombe
+Vivian
+Viviers
+Vladislavich
+Voerman
+Vogler
+Vogt
+Volans
+von Berg
+von Bodenstein
+von der Heyden
+von Moltke
+von Oer
+von Veh
+Vonk
+Voster
+Vredeveld
+Vukwana
+Waberski
+Wacks
+Waddell
+Waddington
+Wadley
+Wafer
+Wagman
+Wahl
+Waite
+Wald
+Waldeck
+Walkden
+Walrond
+Walt
+Walter
+Walton
+Waluś
+Walwyn
+Wang
+Wanga
+Wannenburg
+Wannenburgh
+Wanner
+Warder
+Waren
+Waring
+Warnes
+Warren
+Wasserman
+Wasson
+Watermeyer
+Waterson
+Waterston
+Waugh
+Wayland
+Weatherhead
+Wedderburn
+Wedekind
+Wedgwood
+Weedon
+Wegerif
+Wegner
+Weichardt
+Weiland
+Weilbach
+Weissenberg
+Weldon
+Welgemoed
+Welham
+Wellem
+Weltman
+Wenger
+Werth
+Wesley
+Wesson
+Westbrook
+Wetherell
+Wevell
+Weyer
+Weyers
+Weyl
+Wheadon
+Wheating
+Wheatley
+Whitbread
+Whitefield
+Whitehouse
+Whiteside
+Whitmore
+Whitsett
+Whittaker
+Whitton
+Whitty
+Wickins
+Wicksell
+Wicomb
+Wijnbeek
+Wildschutt
+Wiles
+Wilke
+Willcox
+Willis
+Willmott
+Willoughby
+Wilman
+Wilmans
+Wilsenach
+Winchester
+Winckler
+Winde
+Windisch
+Windt
+Winfield
+Winstanley
+Winterbottom
+Wipplinger
+Wirth
+Witherow
+Witkin
+Wittenberg
+Witton
+Wiysonge
+Wolfson
+Wolhuter
+Wolpe
+Wolpert
+Woodhouse
+Woodiwiss
+Woodroffe
+Woolcock
+Woolf
+Worden
+Wordsworth
+Wormald
+Worrall
+Wöstmann
+Wyatt
+Wyllie
+Wyngaard
+Xolo
+Xulu
+Xuma
+Yacoob
+Yarde-Buller
+Yeats
+Yeni
+Youell
+Younge
+Younger
+Yutar
+Zachos
+Zadok
+Zaidel
+Zamo
+Zana
+Zandamela
+Zandberg
+Zank
+Zar
+Zas
+Záthurecká
+Zaugg
+Zellhuber
+Zikhali
+Zille
+Ziman
+Zimba
+Zimerman
+Zimmer
+Zimper
+Zingoni
+Zita
+Zoid
+Zorzi
+Zuba
+Zühlke
+Zuke

@@ -1,0 +1,467 @@
+Otočić Mišnjak	3
+Otočić Sveti Andrija	3
+Otočići Sestrice	3
+Gustac	2
+Mala Sestrica	2
+Molat	2
+Otočić Balkun	2
+Otočić Bisaga	2
+Otočić Borovnik	2
+Otočić Dužac	2
+Otočić Glavat	2
+Otočić Golac	2
+Otočić Goleč	2
+Otočić Kamenjak	2
+Otočić Lukovac	2
+Otočić Maslinjak	2
+Otočić Mrtovnjak	2
+Otočić Obljak	2
+Otočić Prišnjak	2
+Otočić Sestrica Mala	2
+Otočić Sestrica Vela	2
+Otočić Smokvica Mala	2
+Otočić Sveta Katarina	2
+Otočić Tovarnjak	2
+Otočić Trstenik	2
+Otočić Veliki Školj	2
+Otočić Vodenjak	2
+Otočić Zečevo	2
+Otočići Donji Školji	2
+Premuda	2
+Prvić	2
+Smokvica	2
+Tajan	2
+Aba Vela
+Ada Kirtoš
+Arta Mala
+Arta Vela
+Babac
+Badija
+Balabra Vela
+Banja
+Bisaci
+Biševo
+Bogutovac
+Borovska Ada
+Brač
+Bratin
+Brijuni
+Brusnik
+Cavtatski Otoci
+Ceja
+Čiovo
+Cres
+Crkvica
+Crna Seka
+Dajna Vela
+Divna
+Dobri
+Dolin
+Donja Ada
+Dubovac
+Dugi
+Elaphiti
+Erdufska Ada
+Fenoliga
+Fernera
+Fulija
+Galičak
+Galija
+Gangaro
+Gangarol
+Gerovac
+Gira
+Glurović
+Goli
+Goljak
+Gominjak
+Gornja Aba
+Gospin Školj
+Gubavac
+Gubeš
+Hrid Klint
+Hrid Kurjak
+Hrid Planičić
+Hvar
+Ilovik
+Ist
+Iž
+Jakljan
+Jaz
+Jerolim
+Kakan
+Kaprije
+Kasela
+Klještac
+Klobučar
+Kobrava
+Kokošar
+Koločep
+Komorica
+Komornik
+Korcula
+Kornat
+Kosmač
+Kosmeč
+Kozina
+Krapanj
+Krasnica
+Krk
+Kurba Mala
+Lastovo
+Lavsa
+Lirica
+Lokrum
+Lopud
+Lošinj
+Lovorikovac
+Lunga
+Mala Dajnica
+Mali Brijun
+Mali Drvenik
+Manastir
+Maslinjak
+Maslinovac
+Maun
+Mirište
+Mišnjak
+Mljet
+Moračnik
+Mrduja
+Mrkan
+Murter
+Murvenjak
+Obonjan
+Obun
+Oključ
+Olib
+Opatovačka Ada
+Orkvina
+Orud
+Osinj
+Otoci Palagruža
+Otočić Aba Mala
+Otočić Arkanđel
+Otočić Banjol
+Otočić Barbarinac
+Otočić Bisače
+Otočić Bisaga Mala
+Otočić Bisaga Vela
+Otočić Bisage
+Otočić Blitvenica
+Otočić Blitvica
+Otočić Bobara
+Otočić Bodulaš
+Otočić Borovac
+Otočić Bršćak
+Otočić Brušnjak
+Otočić Buč Mali
+Otočić Buč Veli
+Otočić Budikovac Mali
+Otočić Budikovac Veli
+Otočić Čavlin
+Otočić Čerigul
+Otočić Češvinica
+Otočić Crklica
+Otočić Črnikovac
+Otočić Dajna Mala
+Otočić Daksa
+Otočić Dolfin
+Otočić Drvenik
+Otočić Dugo
+Otočić Dvije Sestrice
+Otočić Figarola
+Otočić Frašker
+Otočić Fržital
+Otočić Galešnjak
+Otočić Galijula
+Otočić Galovac
+Otočić Galun
+Otočić Garmenjak Mali
+Otočić Garmenjak Veli
+Otočić Gaz
+Otočić Glamoč
+Otočić Golić
+Otočić Grbavac
+Otočić Greben
+Otočić Grmej
+Otočić Grujica
+Otočić Gustac
+Otočić Gustinja
+Otočić Hrbošnjak
+Otočić Idula
+Otočić Jabuka
+Otočić Kameni Žakan
+Otočić Kamešnjak Mali
+Otočić Kamešnjak Veli
+Otočić Karantunić
+Otočić Katina
+Otočić Kluda
+Otočić Knežačić
+Otočić Knežak
+Otočić Koludarac
+Otočić Kopište
+Otočić Kormat
+Otočić Košara
+Otočić Košljun
+Otočić Kosmač Mali
+Otočić Kosmač Veli
+Otočić Kosmerka
+Otočić Kosor
+Otočić Kozada
+Otočić Kozjak
+Otočić Kraljevac
+Otočić Krava
+Otočić Križica
+Otočić Krknata
+Otočić Krknjaš Mali
+Otočić Krknjaš Veli
+Otočić Kručica
+Otočić Kudica
+Otočić Kurba Vela
+Otočić Kuvrsada
+Otočić Laganj Mali
+Otočić Laganj Veli
+Otočić Lavdara
+Otočić Lavdara Mala
+Otočić Levrnaka
+Otočić Lisac
+Otočić Logorun
+Otočić Lucmarinjak
+Otočić Lukar
+Otočić Lukovnjak
+Otočić Lunga
+Otočić Lupac
+Otočić Luški
+Otočić Lutrošnjak
+Otočić Mačaknar
+Otočić Mag
+Otočić Magarčić
+Otočić Majsan
+Otočić Mala Palagruža
+Otočić Mala Sestrica
+Otočić Mali Barjak
+Otočić Mali Brušnjak
+Otočić Mali Čutin
+Otočić Mali Orjul
+Otočić Mali Plavnik
+Otočić Mali Pržnjak
+Otočić Mali Sikavac
+Otočić Mamon
+Otočić Mana
+Otočić Marinkovac
+Otočić Maškin
+Otočić Maslinovik
+Otočić Mažirina
+Otočić Mežanj
+Otočić Mišjak
+Otočić Mišjak Mali
+Otočić Mišjak Veli
+Otočić Morovnik
+Otočić Mrčara
+Otočić Mrtonjak
+Otočić Mrtovac
+Otočić Muljica
+Otočić Murtar
+Otočić Murvica
+Otočić Nozdra
+Otočić Oblik
+Otočić Obručan Mali
+Otočić Obručan Veli
+Otočić Ogiran
+Otočić Olipa
+Otočić Oruda
+Otočić Ošjak
+Otočić Ošljak
+Otočić Otočac
+Otočić Ozhovnjak
+Otočić Palacol
+Otočić Paranak Mali
+Otočić Paranak Veli
+Otočić Paržan Mali
+Otočić Paržan Veli
+Otočić Petrovac
+Otočić Pijavica
+Otočić Pišćena Mala
+Otočić Pišćena Vela
+Otočić Planatak Mali
+Otočić Planatak Veli
+Otočić Planik
+Otočić Planjak
+Otočić Planka
+Otočić Ploča
+Otočić Pločica
+Otočić Pod Kopište
+Otočić Pohlib
+Otočić Pokonji Del
+Otočić Polebrnjak
+Otočić Pomeštak
+Otočić Prčevac
+Otočić Prežba
+Otočić Proizd
+Otočić Proklandica
+Otočić Pulari
+Otočić Purara
+Otočić Radelj
+Otočić Radula
+Otočić Raparašnjak
+Otočić Rašip Mali
+Otočić Rašip Veli
+Otočić Ravan
+Otočić Ravni Žakan
+Otočić Ravnik
+Otočić Ražanac Mali
+Otočić Ražanac Veli
+Otočić Revera
+Otočić Reverol
+Otočić Rižnjak
+Otočić Ruda
+Otočić Rutnjak
+Otočić Samograd
+Otočić Saplun
+Otočić Saskinja
+Otočić Šćitna
+Otočić Šilo
+Otočić Šipnata
+Otočić Skala Mala
+Otočić Školj Veli
+Otočić Skrižanj Mali
+Otočić Skrižanj Veli
+Otočić Škrovada
+Otočić Skupio
+Otočić Smokvica Vela
+Otočić Sparešnjak
+Otočić Srakane Male
+Otočić Srakane Vele
+Otočić Sridnjak
+Otočić Sridnji
+Otočić Stambedar
+Otočić Stipanska
+Otočić Sturag
+Otočić Sveta Fumija
+Otočić Sveti Ivan
+Otočić Sveti Ivan na Pučini
+Otočić Sveti Juraj
+Otočić Sveti Marko
+Otočić Sveti Nikola
+Otočić Sveti Petar
+Otočić Svilan
+Otočić Svršata Mala
+Otočić Svršata Vela
+Otočić Tajan Velji
+Otočić Tatišnjak
+Otočić Tetovišnjak Mali
+Otočić Tetovišnjak Veli
+Otočić Tomešnjak
+Otočić Tramerčica
+Otočić Tramerka
+Otočić Trata
+Otočić Tukošćak
+Otočić Tun Mali
+Otočić Uljanik
+Otočić Utra
+Otočić Veli Barjak
+Otočić Veli Brušnjak
+Otočić Veli Čutin
+Otočić Veli Orjul
+Otočić Veli Pržnjak
+Otočić Veli Sikavac
+Otočić Velika Sestrica
+Otočić Visoki
+Otočić Vlašnik
+Otočić Vodnjak Mali
+Otočić Vodnjak Veli
+Otočić Vrnik
+Otočić Vrtlac
+Otočić Žižanj
+Otočić Žutska Aba
+Otočić Zvirinovik
+Otočići Barjak
+Otočići Bisage
+Otočići Grebeni
+Otočići Kukuljari
+Otočići Ražanci
+Otočići Tajan
+Otočići Tri Sestrice
+Otočići Vrhovnjaci
+Pag
+Pakleni Otoci
+Palagruža
+Pašman
+Pinizelić
+Piškera
+Planac
+Plavnik
+Plešćina
+Preč
+Prišnjak Veli
+Pučenjak
+Rab
+Rakitan
+Rava
+Ražnjic
+Rivanj
+Rogoznica
+Rutnjak
+Šćedro
+Sedlo
+Sestrunj
+Silba
+Šipan
+Sit
+Skala Vela
+Škarda
+Školjić
+Škrda
+Škulj
+Smokvica Vela
+Sokol
+Šolta
+Sotinska Ada
+Srednja Sestrica
+Srednjak
+Stomorina
+Supetar
+Supetrić
+Sušac
+Susak
+Sutvara
+Svetac
+Sveti Grgur
+Sveti Jerolim
+Sveti Klement
+Sveti Marko
+Tajnik
+Tanja
+Tijat
+Tovarnjak
+Trara
+Tun Veli
+Ugljan
+Unije
+Veli Drvenik
+Veli Osir
+Veli Otočić
+Veli Paranak Otočić
+Veli Školj
+Velika Sestrica
+Veliki Brijun
+Veliki Školj
+Veruda
+Veštar
+Vir
+Vis
+Vlašnik
+Vrata
+Vrgada
+Vrhovnjak
+Zakučenica
+Zeča
+Žigljen
+Žirje
+Života
+Zlarin
+Zmajan
+Zminjak
+Žut
+Žverinac

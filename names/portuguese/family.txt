@@ -1,0 +1,2309 @@
+Silva	453
+Pereira	261
+Costa	242
+Santos	235
+Ferreira	234
+Alves	209
+Rodrigues	178
+Fernandes	175
+Oliveira	175
+Pinto	165
+Gomes	151
+Lopes	149
+Ribeiro	146
+Almeida	138
+Sousa	138
+Gonçalves	134
+Teixeira	125
+Carvalho	124
+Monteiro	115
+Dias	110
+Marques	101
+Soares	101
+Mendes	99
+Correia	98
+Machado	97
+Vieira	96
+Cardoso	84
+Lima	84
+Neves	84
+Reis	82
+Castro	81
+Nunes	79
+Rocha	78
+Tavares	77
+Cunha	75
+Ramos	75
+Freitas	73
+Coelho	68
+Cruz	67
+Duarte	66
+Fonseca	65
+Azevedo	64
+dos Santos	64
+Moreira	64
+Barbosa	55
+Pires	55
+Borges	54
+Matos	54
+Magalhães	52
+Pinheiro	51
+Rosa	51
+Antunes	48
+Baptista	48
+Cabral	48
+Melo	48
+Morais	48
+Simões	47
+Amaral	46
+Araújo	46
+Figueiredo	46
+Campos	45
+Vasconcelos	45
+da Silva	44
+Abreu	43
+Andrade	43
+Faria	43
+Pacheco	43
+Barros	42
+Moura	42
+Miranda	41
+Leite	40
+Mota	40
+Guimarães	39
+Maia	38
+Henriques	37
+Neto	37
+Torres	36
+Aguiar	35
+Guedes	35
+Sá	35
+de Sousa	34
+Lourenço	34
+Nogueira	34
+Macedo	33
+Vaz	33
+Afonso	32
+Conceição	32
+da Costa	32
+Leitão	32
+Brito	31
+Carneiro	30
+Jorge	30
+Valente	30
+Amorim	29
+Bastos	29
+Branco	29
+Freire	29
+Gouveia	29
+Rebelo	29
+Saraiva	29
+Guerra	28
+Guerreiro	28
+Sampaio	28
+Barreto	27
+Coutinho	27
+Albuquerque	26
+Bettencourt	26
+Braga	26
+Franco	26
+Paiva	26
+Barroso	25
+Nascimento	24
+Botelho	23
+Couto	23
+Garcia	23
+Godinho	23
+Lobo	23
+Loureiro	23
+Gaspar	22
+Gil	22
+Sequeira	22
+Vicente	22
+Amaro	21
+Camacho	21
+de Carvalho	21
+Esteves	21
+Gama	21
+Jesus	21
+Medeiros	21
+Pais	21
+Varela	21
+Ventura	21
+de Almeida	20
+de Freitas	20
+Mateus	20
+Menezes	20
+Queiroz	20
+Raposo	20
+Delgado	19
+Mendonça	19
+Pimentel	19
+Pinho	19
+Semedo	19
+Leal	18
+Lucas	18
+Meneses	18
+Ramalho	18
+Xavier	18
+Ataíde	17
+Bento	17
+Câmara	17
+Domingues	17
+García	17
+Pimenta	17
+Bernardo	16
+Brandão	16
+Cerqueira	16
+Chaves	16
+de Brito	16
+Furtado	16
+Mesquita	16
+Moniz	16
+Pina	16
+Veiga	16
+Cordeiro	15
+Lemos	15
+Matias	15
+Sarmento	15
+Silveira	15
+Teles	15
+Trindade	15
+Viegas	15
+Filipe	14
+Lacerda	14
+Vidal	14
+Barata	13
+Belo	13
+Carmo	13
+Cavaco	13
+de Castro	13
+de Oliveira	13
+Miguel	13
+Morgado	13
+Portela	13
+Portugal	13
+Serra	13
+Sobral	13
+Abrantes	12
+Amado	12
+Bragança	12
+Caetano	12
+Durão	12
+Leão	12
+Madeira	12
+Mascarenhas	12
+Noronha	12
+Rego	12
+Roque	12
+Salgueiro	12
+Viana	12
+Alexandre	11
+André	11
+Ávila	11
+Caldeira	11
+Coimbra	11
+Colaço	11
+Gameiro	11
+Goncalves	11
+Lisboa	11
+Nobre	11
+Palma	11
+Peixoto	11
+Serrão	11
+Carreira	10
+da Cunha	10
+Ferraz	10
+Figueira	10
+Gabriel	10
+Goulart	10
+Graça	10
+Júnior	10
+Meireles	10
+Mestre	10
+Moutinho	10
+Pedro	10
+Pinto Coelho	10
+Veloso	10
+Almada	9
+Barradas	9
+Basto	9
+Cabrita	9
+Dinis	9
+Falcão	9
+Farinha	9
+Fidalgo	9
+Fortes	9
+Jardim	9
+Júdice	9
+Lino	9
+Louro	9
+Madureira	9
+Marado	9
+Moreno	9
+Paulo	9
+Pessoa	9
+Pires de Lima	9
+Queirós	9
+Romão	9
+Saldanha	9
+Santana	9
+Seabra	9
+Serrano	9
+Assis	8
+Batista	8
+Bessa	8
+Crespo	8
+de Melo	8
+Félix	8
+Fonte	8
+Girão	8
+Homem	8
+Horta	8
+Manuel	8
+Mata	8
+Meira	8
+Passos	8
+Patrício	8
+Pestana	8
+Salgado	8
+Sanches	8
+Seixas	8
+Souza	8
+Vale	8
+Vitorino	8
+Assunção	7
+Baldé	7
+Bandeira	7
+Barreira	7
+Beirão	7
+Bordalo	7
+Caires	7
+Chagas	7
+Cid	7
+Dantas	7
+Domingos	7
+Feio	7
+Ferro	7
+Fontes	7
+Francisco	7
+Frazão	7
+Garrido	7
+Grilo	7
+Lapa	7
+Lobato	7
+Luís	7
+Maciel	7
+Marinho	7
+Medina	7
+Montez	7
+Norte	7
+Novais	7
+Ornelas	7
+Osório	7
+Paixão	7
+Pardal	7
+Paredes	7
+Pereira Coutinho	7
+Prata	7
+Resende	7
+Sena	7
+Souto	7
+Tomás	7
+Aires	6
+Alvarenga	6
+Aragão	6
+Augusto	6
+Bernardino	6
+Bravo	6
+Brazão	6
+Bruno	6
+Calado	6
+Caldas	6
+Carlos	6
+Castilho	6
+Corte-Real	6
+da Fonseca	6
+Da Ponte	6
+Daniel	6
+do Amaral	6
+Encarnação	6
+Fernández	6
+Gago	6
+Galvão	6
+Inácio	6
+Mourão	6
+O'Neill	6
+Parente	6
+Pegado	6
+Pontes	6
+Proença	6
+Quaresma	6
+Ramires	6
+Ribas	6
+Serpa	6
+Tomé	6
+Vilar	6
+Abecasis	5
+Abranches	5
+Amador	5
+Arriaga	5
+Arruda	5
+Aveiro	5
+Baía	5
+Batalha	5
+Brás	5
+Caeiro	5
+Canto	5
+Carrilho	5
+Carvalhal	5
+Casimiro	5
+Castanheira	5
+Castelo	5
+Catarino	5
+Couceiro	5
+Curado	5
+Curvelo	5
+da Mata	5
+de Bragança	5
+de Figueiredo	5
+de Matos	5
+de Sá	5
+do Carmo	5
+Duque	5
+Espírito Santo	5
+Ferrão	5
+Flores	5
+Fraga	5
+França	5
+Gusmão	5
+He	5
+Lencastre	5
+Lourenco	5
+Lupi	5
+Malheiro	5
+Mayer	5
+Monjardino	5
+Neuparth	5
+Palha	5
+Parreira	5
+Pascoal	5
+Paulino	5
+Peres	5
+Pita	5
+Portas	5
+Porto	5
+Pratas	5
+Raimundo	5
+Reimão	5
+Salazar	5
+Salvador	5
+Sebastião	5
+Telles	5
+Trigo	5
+Trincão	5
+Velez	5
+Venâncio	5
+Vidigal	5
+Vilhena	5
+Agostinho	4
+Aguilar	4
+Alberto	4
+Aleixo	4
+Álvares	4
+Andresen	4
+Arantes	4
+Araujo	4
+Avilez	4
+Baltazar	4
+Barjona	4
+Beja	4
+Beleza	4
+Boas	4
+Braamcamp	4
+Braz	4
+Burnay	4
+Candeias	4
+Cândido	4
+Capela	4
+Clemente	4
+Clode	4
+Conceicao	4
+Corrêa	4
+Cortez	4
+Craveiro	4
+Cristina	4
+Cristo	4
+da Cruz	4
+Da Rocha	4
+Damas	4
+Damásio	4
+Damião	4
+David	4
+de Abreu	4
+de Azevedo	4
+de Bettencourt	4
+de Faria	4
+De Freitas do Amaral	4
+de Jesus	4
+Diniz	4
+Diogo	4
+Durães	4
+Évora	4
+Fialho	4
+Fragoso	4
+Franca	4
+Galhardo	4
+Gentil	4
+Ho	4
+Laginha	4
+Luis	4
+Luz	4
+Madruga	4
+Magalhaes	4
+Magno	4
+Marto	4
+Mello	4
+Moita	4
+Mora	4
+Natividade	4
+Navarro	4
+Nicolau	4
+Nóbrega	4
+Norton	4
+Pamplona	4
+Pato	4
+Paula	4
+Pedrosa	4
+Pena	4
+Perestrelo	4
+Pizarro	4
+Quina	4
+Quintal	4
+Quintas	4
+Quintela	4
+Relvas	4
+Rosado	4
+Saramago	4
+Sardinha	4
+Sardo	4
+Schiappa	4
+Severino	4
+Silvestre	4
+Simão	4
+Simas	4
+Siza	4
+Soveral	4
+Tinoco	4
+Urbano	4
+Uva	4
+Valadão	4
+Valentim	4
+Vasques	4
+Vital	4
+Viveiros	4
+Wilson	4
+Zeller	4
+Abrunhosa	3
+Accioli	3
+Águas	3
+Albergaria	3
+Alvim	3
+Anjo	3
+Apolónia	3
+Aranha	3
+Archer	3
+Areal	3
+Areosa	3
+Avelar	3
+Azenha	3
+Barbas	3
+Barreiros	3
+Belém	3
+Bensaude	3
+Berardo	3
+Biscaia	3
+Bivar	3
+Bordalo Pinheiro	3
+Breyner	3
+Bruges	3
+Bugalho	3
+Cabreira	3
+Cadete	3
+Calisto	3
+Camarinha	3
+Capelo	3
+Carmona	3
+Carrondo	3
+Casanova	3
+Castel-Branco	3
+Castelo Branco	3
+César	3
+Claro	3
+Cohen	3
+Condesso	3
+Constantino	3
+Cortesão	3
+Cravinho	3
+Curto	3
+D'Andrade	3
+d'Orléans	3
+de Andrade	3
+de Lacerda	3
+de Lima	3
+De Mesquita	3
+de Moura	3
+de Souza	3
+de Vasconcelos	3
+Dionisio	3
+Dionísio	3
+Djaló	3
+Do Couto	3
+dos Reis	3
+Dutra	3
+Elias	3
+Estrela	3
+Fazenda	3
+Feist	3
+Felizardo	3
+Fortunato	3
+Grande	3
+Granja	3
+Grave	3
+Guterres	3
+Henrique	3
+Holtreman	3
+Hugo	3
+Janeiro	3
+Jordão	3
+Judas	3
+Junqueira	3
+Keil	3
+Lamy	3
+Laranjo	3
+Leça	3
+Macieira	3
+Magro	3
+Malhoa	3
+Marcelino	3
+Margarido	3
+Mauricio	3
+Mena	3
+Mortágua	3
+Mouta	3
+Narciso	3
+Negreiros	3
+Nepomuceno	3
+Nogueira Pinto	3
+Novo	3
+Onofre	3
+Palmeirim	3
+Paradela	3
+Patrício Gouveia	3
+Paz	3
+Peneda	3
+Penha	3
+Peralta	3
+Pessanha	3
+Prates	3
+Prego	3
+Quadros	3
+Quintino	3
+Rafael	3
+Rangel	3
+Rato	3
+Rey	3
+Rio	3
+Rodrigo	3
+Rodrigues dos Santos	3
+Rolo	3
+Ruas	3
+Ruivo	3
+Salema	3
+Sales	3
+Salvado	3
+Sancho	3
+Santiago	3
+Sinel de Cordes	3
+Soeiro	3
+Soller	3
+Sousa Tavares	3
+Taborda	3
+Taira	3
+Tamagnini	3
+Taveira	3
+Teodoro	3
+Tiago	3
+Toste	3
+Trancoso	3
+Tristão	3
+Ulrich	3
+Valadas	3
+Valerio	3
+Vargas	3
+Velosa	3
+Verissimo	3
+Videira	3
+Vilaça	3
+Vilela	3
+Wallenstein	3
+Abel	2
+Abelho	2
+Aboim	2
+Aibéo	2
+Alarcão	2
+Albernaz	2
+Alegre	2
+Alegria	2
+Amarante	2
+Andrea	2
+Andrino	2
+Anes	2
+Anjos	2
+Antero	2
+Antonio	2
+Areias	2
+Arroja	2
+Artur	2
+Avelino	2
+Azuaje-Fidalgo	2
+Babo	2
+Bacelar	2
+Baixinho	2
+Baker	2
+Baldaque	2
+Balseiro	2
+Balsemão	2
+Balula	2
+Batarda	2
+Belchior	2
+Bello	2
+Benavente	2
+Benevides	2
+Benoliel	2
+Berger	2
+Bermudes	2
+Bernardes	2
+Bettencourt da Câmara	2
+Bica	2
+Black	2
+Blanco	2
+Blasco	2
+Bobone	2
+Borrego	2
+Bragance	2
+Brasil	2
+Bressane	2
+Brites	2
+Brochado	2
+Brum	2
+Bulcão	2
+Byrne	2
+Cá	2
+Cabecinha	2
+Caçoilo	2
+Calafate	2
+Camara	2
+Câmara Leme	2
+Câmara Pereira	2
+Cambra	2
+Camelo	2
+Campinos	2
+Canas	2
+Cancela	2
+Candal	2
+Canelas	2
+Cardim	2
+Cardozo	2
+Carita	2
+Carqueijeiro	2
+Carraco	2
+Carrascalão	2
+Carreiras	2
+Carrera	2
+Cartaxo	2
+Casado	2
+Cassuto	2
+Cavadas	2
+Cavalcanti	2
+Cavalheiro	2
+Chaby	2
+Chang	2
+Chorão	2
+Cleto	2
+Comparato	2
+Conde	2
+Consiglieri	2
+Cordovil	2
+Corvo	2
+Cosme	2
+Costinha	2
+Covas	2
+Cox	2
+Crawford	2
+Curiel	2
+Cutileiro	2
+D'Algy	2
+D'Almeida	2
+da Câmara	2
+da Conceição	2
+da Veiga	2
+Dacosta	2
+Dâmaso	2
+Daveau	2
+de	2
+de Albuquerque	2
+de Barros	2
+de Campos	2
+De Lemos	2
+de Macedo	2
+De Meneses	2
+de Miranda	2
+de Morais	2
+de Pina	2
+de Quental	2
+de Silva	2
+de Vargas	2
+Del Negro	2
+Deus	2
+Dolores	2
+Dores	2
+Eanes	2
+Eiras	2
+Esgaio	2
+Faleiro	2
+Farias	2
+Faustino	2
+Fausto	2
+Favila	2
+Felix	2
+Fernandez	2
+Fernando	2
+Ferreri	2
+Figueiras	2
+Fischer	2
+Fiúza	2
+Folha	2
+Fontoura	2
+Fortuna	2
+Fragata	2
+Franzini	2
+Freixo	2
+Gaitonde	2
+Gaivão	2
+Gamboa	2
+Garcês	2
+Garcez	2
+Garrett	2
+Gastão	2
+George	2
+Gervásio	2
+Goldschmidt	2
+Gonzalez	2
+Gordo	2
+Grade	2
+Granger	2
+Grosso	2
+Guerillot	2
+Heimer de Castelo Lopes	2
+Heinz	2
+Hintze	2
+Hurst	2
+Isidoro	2
+Isungo	2
+Jacinto	2
+Jacob	2
+Jacques	2
+Joao	2
+João	2
+Jonas	2
+Jonet	2
+Jordao	2
+José	2
+Joyce	2
+Justo	2
+Lago	2
+Lamas	2
+Larcher	2
+Launay	2
+Leitao	2
+Lello	2
+Levy	2
+Li	2
+Livramento	2
+Liz	2
+Loja	2
+Lomelino	2
+Macedo Pinto	2
+Malta	2
+Manescal	2
+Mano	2
+Manoel	2
+Manso	2
+Manta	2
+Marçal	2
+Marchante	2
+Marcos	2
+Margarida	2
+Maria	2
+Mariani	2
+Marta	2
+Matoso	2
+Maurício	2
+Meirinhos	2
+Menano	2
+Mendès	2
+Mendoza	2
+Metelo	2
+Metrass	2
+Mexia	2
+Mira	2
+Molder	2
+Monge	2
+Montemor	2
+Montenegro	2
+Moraes	2
+Morao	2
+Morna	2
+Motta	2
+Mourinho	2
+Muge	2
+Muniz	2
+Murta	2
+Nery	2
+Nesbitt	2
+Nicholson	2
+Ochoa	2
+Olim	2
+Ortigão	2
+Osswald	2
+Otero	2
+Paes	2
+Palhares	2
+Palla	2
+Palmeiro	2
+Paquete	2
+Parra	2
+Paulos	2
+Pedreira	2
+Pedroso	2
+Peixinho	2
+Pelicano	2
+Pereira da Silva	2
+Pérez	2
+Perry	2
+Pimpão	2
+Pisco	2
+Piteira	2
+Pitta	2
+Poças	2
+Poeiras	2
+Pombo	2
+Poppe	2
+Portocarrero	2
+Pott	2
+Prada	2
+Praia	2
+Prazeres	2
+Preto	2
+Pupo	2
+Queiroga	2
+Quintanilha	2
+Rates	2
+Rau	2
+Redol	2
+Reparaz	2
+Ricardo	2
+Rijo	2
+Robles	2
+Romero	2
+Roquette	2
+Rosas	2
+Rosendo	2
+Roxo	2
+Rua	2
+Ruiz	2
+Saavedra	2
+Sacramento	2
+Saguer	2
+Sangreman	2
+Sardesai	2
+Sauvayre	2
+Seco	2
+Segurado	2
+Seguro	2
+Sereno	2
+Simao	2
+Smith	2
+Sobrinho	2
+Spencer	2
+Spinola	2
+Spínola	2
+Stilwell	2
+Stromp	2
+Tamen	2
+Távora	2
+Thomaz	2
+Tojal	2
+Tomaz	2
+Tordo	2
+Torlade	2
+Torlades O'Neill	2
+Torrado	2
+Torre	2
+Travassos	2
+Tremoceiro	2
+Tudela	2
+Turner	2
+Umbelino	2
+Valle	2
+Valsassina	2
+Varanda	2
+Varatojo	2
+Vasco	2
+Vasconcellos	2
+Velho	2
+Verçosa	2
+Veríssimo	2
+Villas Boas	2
+Villaverde	2
+Vinagre	2
+Vitor	2
+Vitória	2
+Wagner	2
+Abecassis
+Abelaira
+Abramovich
+Abravanel
+Abubakar
+Acosta
+Adam
+Ademar
+Affonso
+Aguas
+Álamo
+Albano
+Albarran
+Albergaria Pinheiro
+Alcaide
+Alcalde
+Alcântara
+Alcobia
+Alcoforado
+Alencastre
+Alexiades
+Alfonse
+Alhinho
+Alice
+Allgayer
+Almendra
+Alonso
+Altman
+Alvão
+Alvares
+Alvarez
+Álvarez de Toledo
+Alvelos
+Alvernaz
+Alves Machado
+Alvez
+Amancio
+Ambriz
+Ambrosio
+Ameal
+Amiel
+Amoedo
+Anacleto
+Anahory
+Andaluz
+Andermatt
+Andrada
+Andre
+Andressen
+Andringa
+Angélico
+Ângelo
+Anghel
+Anglin
+Anibal
+Anselmo
+Ansemondes
+Aparício
+Appleton
+Appolloni
+Aprà
+Aquino
+Ardisson
+Aresta
+Arias
+Arnaudov
+Arnault
+Arnaut
+Arnauth de Figueiredo
+Arraiano
+Arreiol
+Arrobas
+Arthur
+Ary
+Ascensão
+Ascenso
+Assumpção
+Atalaya
+Atilano
+Atouguia
+Auerbach
+Aurélio
+Azancot
+Azedo
+Azeredo
+Azinhais
+Azinhal
+Azulay
+Baceira
+Bachi
+Baena
+Baeta
+Bahia
+Baião
+Bailão
+Bailey
+Bairos
+Balaguer
+Balbo
+Baleia
+Balesteros
+Baltar
+Bancessi
+Bandeiras
+Banks
+Barahona
+Baraona
+Barbedo
+Barbeiro
+Barberini
+Barbot
+Barcelos
+Barcia
+Barçın
+Bardy
+Barge
+Barral
+Barreiro
+Barreno
+Barretto
+Barria
+Barrio
+Barroca
+Bartolomeu
+Basílio
+Bastardo
+Bastião
+Battistini
+Bayon
+Bazenga
+Beaulieu
+Bechegas
+Becker
+Beckert
+Belardo
+Bella
+Belmonte
+Bem
+Benaderet
+Benard
+Bénard
+Benarus
+Benedetto
+Benite
+Benitez
+Benoît
+Benquerença
+Bentes
+Berenguer
+Bergström
+Berimbau
+Bernardeco
+Bértolo
+Bessone
+Best
+Besteiro
+Bexiga
+Bianchi
+Bicker
+Biel
+Bischoff
+Bizarro
+Blake
+Blank
+Bleck
+Boaventura
+Bocage
+Bodart
+Boese
+Boia
+Bola
+Boldrin
+Bom
+Bonacho
+Bonifácio
+Bonito
+Bonvalot
+Booth
+Borba
+Borden
+Borga
+Borralhinho
+Borregana
+Boscariol
+Bosingwa
+Botello
+Botica
+Botto
+Boxer
+Bracinha
+Bradford
+Braganza
+Bral
+Branca
+Branch
+Brandao
+Branquinho
+Brasileiro
+Bratchikova
+Brazete
+Breda
+Brederode
+Brélaz
+Bronze
+Broos
+Brouillard
+Brun
+Brunhoso
+Bruschi
+Brutus
+Buha
+Bull
+Bunga
+Bunguê
+Bustorff
+Buta
+Cabaco
+Cabanas
+Cação
+Cáceres
+Cachopo
+Cadima
+Cafôfo
+Caiado
+Caiano
+Calçada
+Caldevilla
+Caleiro
+Calero
+Calico
+Calila
+Calle
+Calvao
+Calvet
+Camarate
+Cambournac
+Cameirano
+Camões
+Campbell
+Campea
+Campelo
+Campiche
+Campilho
+Canavarros
+Cancelo
+Candé
+Canha
+Canijo
+Capdeville
+Caperta
+Capeta
+Capucho
+Cardeal
+Cardinali
+Cardinalli
+Cardona
+Carinhas
+Carney
+Carolina
+Carpinteiro
+Carranca
+Carrapatoso
+Carrapiço
+Carrasco
+Carrasquinho
+Carré
+Carreiro
+Carrico
+Carvajal
+Carvalheda
+Cary
+Casaco
+Casali
+Casanovas
+Casares
+Casas
+Casero
+Casier
+Cassiano
+Cassola
+Castel
+Castello
+Castro-Neves
+Catanzaro
+Catarré
+Catry
+Caula
+Cautela
+Cavaleiro
+Celas
+Centeno
+Cera
+Cerca
+Cerdas
+Cerdeira
+Cerejeira
+Cervantes
+Cerveira
+Chafes
+Chainho
+Chamiço
+Champalimaud
+Chao
+Charas
+Charters
+Cheang
+Chemetov
+Chichorro
+China
+Chiola
+Choffat
+Chora
+Chula
+Chung
+Chuva
+Cibi
+Cidade
+Ciera
+Cintra
+Cintrón
+Cipriano
+Clara
+Clímaco
+Coburg
+Codeluppi
+Codina
+Coelmo
+Coentrão
+Coluna
+Concha
+Conrado
+Cony
+Corado
+Corazzi
+Corceiro
+Cordero
+Cordo
+Córdova
+Coronel
+Correa
+Corres
+Cortes
+Cortes-Rodrigues
+Cossa
+Costa Gomes
+Cota
+Cotrim
+Cotta
+Cougill
+Couros
+Covelo
+Coxixo
+Crabbé
+Crato
+Cravo
+Cristas
+Cristino
+Cristóvão
+Croft
+Csekonics
+Cui
+Cunhal
+Curson
+Custodio
+Cveticanin
+D'Água
+d'Ávila
+D'Cruz
+da Luz
+da Nóvoa
+da Piedade
+Da Silva Moreira
+Dabney
+Daehnhardt
+Daiber
+Dalot
+Damasceno
+Damaso
+Dart
+Dassault
+Daupias
+De Aranda
+de Araújo
+de Ascensão
+de Ávila
+de Castillon
+de Deus Ramalho
+de Fonseca
+de Gouveia
+de la Feria
+de Langres
+de Lyon
+de Marques
+de Martel
+De Mendoca
+de Moraes
+De Noronha
+de Pádua
+De Pinho
+De Quadros
+de Sá e Melo
+De Saldanha
+de Sales
+De Seabra
+De Serpa
+de Vega
+De Vilallonga
+Deco
+Del Carlo
+Delgadillo
+Delicado
+Delindro
+Dellinger
+Delpeut
+Deputter
+Desidério
+Deslandes
+Devecchio
+Devesa
+Dhanis
+Diallo
+Diógenes
+Djú
+do Nascimento
+do Rêgo
+do Rosário
+Dockery
+Domingomes
+Dominguez
+Doria
+dos Santos Pedroso
+Dourado
+Drago
+Drahi
+Draper
+Drummond
+Drumond
+Drumont
+Dulce
+Dunn
+Duprat
+e Silva
+Ebert
+Echevarría
+Eduardo
+Egas
+Egutidze
+Eiró
+Elkann
+Elkhatib
+Eloy
+Embaló
+Emiliano
+Emonts
+Enes
+Ennes
+Enos
+Erskine
+Escaja
+Escobar
+Esmeraldo
+Espada
+Esquivel
+Ester
+Estêvão
+Estevinho
+Estrada
+Estrompa
+Eulálio
+Eusebio
+Eustáquio
+Evangelista
+Evans
+Evaristo
+Everard
+Fabião
+Facha
+Fafilaz
+Fagundes
+Faia
+Fajardo
+Falcao
+Fangueiro
+Farminhão
+Faro
+Farrar
+Feder
+Feijó
+Feio Terenas
+Feitor
+Felgueiras
+Feliciano
+Felicio
+Felner
+Fernades
+Ferrandini
+Ferrao
+Ferrari
+Ferreira da Silva
+Ferreira de Sousa
+Ferreirinha
+Ferreiro
+Ferrer
+Ferrier
+Festa
+Festas
+Feu
+Fidanza
+Figo
+Figuerdo
+Filgueiras
+Filomena
+Fino
+Fiolhais
+Fioravanti
+Firmino
+Fitas
+Fiuza
+Flamengo
+Fleming
+Floare
+Flôr
+Flora
+Florença
+Florencio
+Florentino
+Florindo
+Fogaça
+Fong
+Forbes
+Forbs
+Formoso
+Forrest
+Forte
+Frade
+Fragateiro
+Frager
+Francez
+Franchini
+François
+Franklyn
+Frasco
+Frederique
+Free
+Freiría
+Freyre de Andrade
+Frias
+Frischknecht
+Frois
+Fu
+Fuel
+Fulgencio
+Fultz
+Furtado de Mendonça
+Fuschini
+Futre
+Gagliasso
+Gaio
+Galego
+Galetti
+Gallina
+Gallis
+Galvao
+Galveias
+Gambina
+Gamito
+Gandra
+Gandulla
+Ganho
+Gantes
+Garção
+Gardner
+Garin
+Garnel
+Gato
+Gaudêncio
+Geada
+Geirinhas
+Gentry
+Geraldes
+Geraldo
+Gesche
+Gettinger
+Gewertz
+Giestas
+Gigante
+Gil-Robles
+Gilli
+Ginga
+Giraldes
+Glória
+Gneco
+Gobern
+Goes
+Gois
+Gomez
+Gómez
+Gonçalves de Oliveira
+Gonța
+Gonzaga
+Gonzales
+González
+Gordon
+Goterrez
+Gotha
+Goulart de Bettencourt
+Graciano
+Grafstein
+Graliński
+Grangier
+Greaves
+Gren
+Grillo
+Groër
+Groz
+Guardiola
+Guerrero
+Guilherme
+Guimaraes
+Guinot
+Guiomar
+Guisado
+Gulbenkian
+Gullander
+Gurgel
+Gutiérrez
+Guzzo
+Han
+Hanin
+Hanse
+Harris
+Haskins
+Hasse
+Hatem
+Hatherly
+Heitor
+Heldt
+Hennetier
+Henriques de Noronha
+Henríquez
+Hensler
+Herdeiro
+Hermida
+Hernandez
+Herrera
+Hilario
+Hoffmann
+Hogan
+Holm
+Holub
+Honorio
+Hormigo
+Hosseini
+Huang
+Hubay
+Huerta
+Huja
+Iglesias
+Iglésias
+Iharco
+Ilori
+Indi
+Indiana
+Infante
+Inojosa
+Insley
+Irala
+Iria
+Isabel
+Isidro
+Ismail
+Issungo
+Iturriza
+Ivens
+Jacome
+Januário
+Jeremias
+Jeronimo
+Jerónimo
+Jervis
+Jingles
+João Pinho
+Joaquim
+Joas
+Job
+Joly
+Jombati
+Jordan
+Jotta
+Jourdan
+Júlio
+Juncal
+Junqueiro
+Jurado
+Juran
+Juzarte
+Kahlo
+Karim
+Kastner
+Kellerman
+Kemnitz
+Khan
+Kiko
+Koehler
+Kolodzig
+Konoplev
+Kopke
+Kradolfer
+Kraus
+Kullberg
+Ladeira
+Ladeiras
+Lafuente
+Lage
+Lahmeyer
+Lalande
+Lambert
+Lancaster
+Landau
+Landim
+Lapido
+Lasri
+Lasso
+Laureano
+Lauren
+Laurencio
+Lavrador
+Lavrentyev
+Lawson
+Lázaro
+Leacock
+Lebas
+Ledes
+Lelo
+Leme
+Leonardo
+Leónidas
+Leonor
+Leroux
+Letria
+Lewis
+Liber
+Limpo
+Lind
+Linda
+Lins
+Lipke
+Lira
+Listopad
+Liu
+Lo
+Lobão
+Locks
+Loff
+Löff
+Lomba
+Lopez
+Lopo
+Lorena
+Lorence
+Losa
+Lossio
+Louçã
+Loures
+Lousada
+Love
+Lu
+Lucena
+Ludovic
+Lumbrozo
+Lume
+Lupeta
+Lupo
+Maçães
+Macario
+Macchi
+Maceiras
+Machete
+Macías
+Madaleno
+Madu
+Madur
+Maga
+Magueijo
+Maio
+Maior
+Malafaia
+Malato
+Maldonado
+Maldonado Freitas
+Mamona
+Mane
+Mané
+Maneira
+Mangas
+Manson
+Mantero
+Mantua
+Marafona
+Marante
+Marchand
+Marcus
+Mariano
+Mario
+Maristany
+Markl
+Marle
+Marquez
+Marreiros
+Martuscelli
+Massa
+Massena
+Mathias
+Mathieu
+Matta
+Maximiano
+Máximo
+Mendes de Almeida
+Menendez
+Meninea
+Merino
+Messias
+Meyer
+Michaëlis
+Michel
+Miglietti
+Milhazes
+Mille
+Miller
+Milson
+Mimoso
+Mineiro
+Mingas
+Mingote
+Mithá
+Modesto
+Mohler
+Moitinho
+Moke
+Moll
+Möller
+Mondlane
+Mónica
+Monsaraz
+Montaigne
+Monte
+Monteiro de Castro
+Montês
+Moore
+Morales
+Morato
+Moreau
+Morel
+Morgan
+Morisson
+Morrison
+Moscoso
+Mouquet
+Mourão-Ferreira
+Mucha
+Müller
+Münch
+Muñoz
+Munro
+Munt
+Mur
+Murré
+Mutange
+Nabais
+Nacarato
+Nadal
+Nagata
+Nandy
+Napoleão
+Navalho
+Nave
+Nazaré
+Nazareth
+Nazario
+Né
+Negrão
+Neiva
+Nero
+Newton
+Nichols
+Nieto
+Niz
+Nogueira da Silva
+Nordin
+Nordlund
+Noro
+Nova
+Nover
+Novoa
+Nuncio
+Núncio
+Nunez
+Nuno
+Odell
+Ogando
+Olga
+Oliva
+Olsen
+Olsson
+Oneto
+Oom
+Orléans-Bragança
+Ormonde
+Ortiz
+Osorio
+Ottolini
+Oulman
+Outeiro
+Pacini
+Paço
+Padrão
+Pádua
+Paião
+Paixao
+Palaio
+Palanca
+Palhinha
+Palminha
+Pando
+Panzo
+Paolinelli
+Pape
+Pappalardo
+Parada
+Parafita
+Paraíso
+Paranhos
+Parda
+Pardilhó
+Parker
+Parola
+Parvi
+Passaláqua
+Pastel
+Pastor
+Patriarca
+Patricio
+Patrick
+Patrocínio
+Patrone
+Paulinho
+Payés
+Pecegueiro
+Pedra
+Pedroso de Lima
+Pego
+Peixe
+Pelágio
+Pelé
+Pen
+Penalva
+Penedo
+Penim
+Penna
+Pera
+Perdigão
+Pereirinha
+Perez
+Peri
+Perienes
+Perino
+Perles
+Pernes
+Perneta
+Perreira
+Perruchet
+Peseiro
+Pesqueira
+Pessa
+Pește
+Petit
+Petretto
+Peyroteo
+Pezelho
+Phillips
+Picanco
+Picão
+Pichardo
+Piechocki
+Piedade
+Pinguicha
+Pinguinha
+Pinheiro Chagas
+Pintado
+Pintasilgo
+Pintor
+Pirez
+Pito
+Plácido
+Plowden
+Poeta
+Poiares
+Policarpo
+Pomar
+Ponce
+Ponsard
+Ponte
+Porfírio
+Portada
+Portal
+Possoz
+Postiga
+Potra
+Poulson
+Power
+Praça
+Prats
+Prey
+Prieto
+Primo
+Principe
+Príncipe
+Priora
+Prova
+Prudêncio
+Pureza
+Purgly
+Pušić
+Quadrado
+Quadrio
+Queiro
+Queluz
+Querido
+Quinaz
+Quintana
+Quirino
+Rabelo
+Radulet
+Rafaela
+Ralha
+Rambois
+Ramirez
+Raniere
+Rawes
+Real
+Rebello
+Reboleira
+Redondo
+Reeve
+Regala
+Regaleira
+Regula
+Reigada
+Reino
+Remedios
+Rendeiro
+Rente
+Resendes
+Restivo
+Reza
+Ribeira
+Ribero
+Ricca
+Ricciardi
+Richards
+Richmond
+Ricou
+Riem
+Rings
+Rios
+Riquicho
+Rita
+Rito
+Rivera
+Rizzo
+Robalo
+Robens
+Robertes
+Roberto
+Robic
+Roçadas
+Roche
+Rodil
+Rodriguez
+Rogeiro
+Rola
+Rolim
+Rollo
+Roma
+Romagnoli
+Romano
+Ronaldo
+Rondón
+Roope
+Rosa da Cruz
+Rosario
+Rosário
+Rose
+Roseira
+Rosinha
+Rubim
+Rueff
+Ruggieri
+Rui
+Russo
+Ruth
+Rutler
+Ruy
+Sá Peixoto
+Sá-Carneiro
+Saa
+Sabbo
+Sabido
+Sabrosa
+Sacadura
+Sacchetti
+Sachsen
+Sala
+Salabert
+Salcedo
+Salomé
+Salvi
+Samara
+Sambú
+Sami
+Sanca
+Sances
+Sanchez
+Sandu
+Sanmartin
+Santa Clara
+Santareno
+Santo
+Santos Marcos
+Saporiti
+Sargento
+Sarkar
+Sarsfield
+Sassetti
+Sauvinet
+Schaaf
+Schefer
+Scheidecker
+Schenker
+Schmidhuber
+Schmidt
+Schmitt
+Schmitz
+Schneider
+Schulz
+Schütz
+Scott
+Scudieri
+Seara
+Seca
+Secci
+Seiça
+Șeica
+Seidenfaden
+Selvarajah
+Seneca
+Seno
+Senoussi
+Sério
+Seruca
+Seruya
+Setim
+Severo
+Shao
+Shaw
+Sherman
+Shinn
+Silva Monteiro
+Silvano
+Silveria
+Sim-Sim
+Simeão
+Simoes
+Sinde
+Skår
+Soares de Albergaria
+Sobel
+Sobreira
+Sola
+Solá
+Solano
+Solórzano
+Sommer
+Sona
+Soromenho
+Sousa Coutinho
+Souto Maior
+Soutomaior
+Spitzman
+Staël
+Stafford
+Stanback
+Stanković
+Storti
+Stuart
+Stubbs
+Subtil
+Suggia
+Susano
+Suza
+Swift
+Taboas
+Tabuaço
+Tabucchi
+Taipa
+Talone
+Tammilehto
+Tanger
+Tazmani
+Teixeira Pinto
+Temudo
+Tender
+Tenório
+Tenreiro
+Teodosio
+Terlica
+Testa
+Thedim
+Tiba
+Timas
+Timo
+Tito
+Tomas
+Toral
+Torga
+Torgal
+Tornar
+Torrend
+Torriani
+Torto
+Toscano
+Tota
+Toulouze
+Townend
+Traquina
+Tréfaut
+Treptow
+Tribolet
+Trigoso
+Trigueiro
+Troni
+Tuia
+Tuncará
+Tunes
+Tuta
+Ubaldo
+Usque
+Vala
+Valadares
+Valdez
+Valença
+Valentina
+Valera
+Valgi
+Valido
+Vallera
+Vaquinhas
+Vara
+Varejão
+Varum
+Vau
+Vaz Tê
+Vecchi
+Vega
+Veira
+Velasques
+Venda
+Vendrell
+Ventosa
+Verde
+Veredas
+Vergueiro
+Vianna
+Victor
+Vie
+Vieira de Castro
+Viera
+Vik
+Vikoo
+Vilalva
+Vilardebó
+Vilarinho
+Vilas
+Villa
+Villar
+Villares
+Villaret
+Villas-Boas
+Villate
+Vincze
+Vingada
+Vingiano
+Viñole
+Vintém
+Violas
+Virgínia
+Virtudes
+Viterbo
+Vítor
+Voets
+Voloshchuk
+Volpati
+von Hafe
+Wachsmann
+Wadewitz
+Wall
+Watson
+Watts
+Weinberg
+Wellenkamp
+Wellesley
+Wiborg
+Williams
+Winkler
+Wiseler
+Wolf
+Wollmann
+Worm
+Wright
+Xiao
+Yarde
+Zacarias
+Zagallo
+Zaguri
+Zahović
+Zambujo
+Zamora
+Zhao
+Zheng
+Zhou
+Zinchenko
+Zingaro
+Zink
+Zrihen
+Zuaa
+Zuber

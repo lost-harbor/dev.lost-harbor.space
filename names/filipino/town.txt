@@ -1,0 +1,5000 @@
+San Isidro	223
+San Jose	195
+San Juan	155
+San Roque	150
+San Antonio	141
+San Vicente	135
+Santa Cruz	132
+San Miguel	106
+Buenavista	104
+Rizal	104
+Santo Niño	81
+San Francisco	80
+San Pedro	77
+Poblacion	70
+San Agustin	69
+Santa Maria	67
+Mabini	65
+San Rafael	62
+Salvacion	61
+Concepcion	57
+San Nicolas	55
+Bato	54
+Sabang	54
+Bagacay	52
+Cogon	50
+Santo Domingo	48
+Libertad	44
+Santo Tomas	44
+Burgos	43
+Santiago	43
+San Pablo	42
+Santa Rosa	41
+Talisay	41
+Bagumbayan	39
+Santo Rosario	38
+Danao	37
+Santa Ana	36
+Santa Lucia	35
+San Andres	34
+Santa Rita	34
+Cabugao	33
+Magsaysay	33
+Looc	32
+Pandan	32
+San Fernando	32
+Esperanza	31
+Alegria	30
+Ipil	29
+Rosario	29
+Dapdap	28
+La Paz	28
+San Luis	28
+Antipolo	27
+Basak	27
+Del Pilar	27
+Libas	27
+Lourdes	27
+San Ramon	27
+Bunga	26
+Pitogo	26
+Santa Monica	26
+Biga	25
+Dolores	25
+Manga	25
+Quezon	25
+San Carlos	25
+Busay	24
+Cawayan	24
+Malinao	24
+Tubod	24
+Bonbon	23
+Calumpang	23
+Pili	22
+Santo Cristo	22
+Taytay	22
+Victoria	22
+Bolo	21
+Catmon	21
+Malobago	21
+San Mateo	21
+Santol	21
+Tambo	21
+Balete	20
+Balogo	20
+Bayabas	20
+Cabaruan	20
+Mainit	20
+Maligaya	20
+Palanas	20
+Pangpang	20
+Patag	20
+Plaridel	20
+Union	20
+Lomboy	19
+Parang	19
+Pilar	19
+San Pascual	19
+Tigbao	19
+Tuburan	19
+Tugas	19
+Wawa	19
+Bacolod	18
+Carmen	18
+Linao	18
+Mojon	18
+Santa Barbara	18
+Santa Catalina	18
+Tubigan	18
+Abaca	17
+Bacong	17
+Bantug	17
+Baras	17
+Batang	17
+Buri	17
+Caridad	17
+Cubay	17
+Guadalupe	17
+Nipa	17
+Polo	17
+Punta	17
+Sampaloc	17
+San Joaquin	17
+Santa Fe	17
+Tinago	17
+Badiang	16
+Balite	16
+Bukal	16
+Lipata	16
+Malasin	16
+Minanga	16
+Pulo	16
+San Felipe	16
+San Gabriel	16
+Bagong Silang	15
+Banga	15
+Batuan	15
+Baybay	15
+Katipunan	15
+Lanao	15
+Mabuhay	15
+Napo	15
+San Lorenzo	15
+Tabon	15
+Anonang	14
+Bago	14
+Bamban	14
+Banaba	14
+Banao	14
+Cabatuan	14
+Del Rosario	14
+Iba	14
+Magallanes	14
+Malabago	14
+Naga	14
+Osmeña	14
+Paco	14
+Pangdan	14
+Patong	14
+Sabangan	14
+San Gregorio	14
+San Sebastian	14
+Santa Elena	14
+Sogod	14
+Suba	14
+Bahay	13
+Banban	13
+Bancal	13
+Biasong	13
+Bobon	13
+Buyo	13
+Dagupan	13
+Divisoria	13
+Ilaya	13
+Lawaan	13
+Libjo	13
+Maasin	13
+Roxas	13
+San Bartolome	13
+San Julian	13
+San Manuel	13
+Sapang	13
+Balabag	12
+Balibago	12
+Balud	12
+Cabaroan	12
+Centro	12
+Dao	12
+Kauswagan	12
+Libtong	12
+Longos	12
+Lusong	12
+Nagsabaran	12
+Nangalisan	12
+Paitan	12
+Ponong	12
+Pugo	12
+Pula	12
+Salay	12
+San Diego	12
+Santa Ines	12
+Sawang	12
+Taboc	12
+Turod	12
+Bacsil	11
+Balugo	11
+Bantay	11
+Bantog	11
+Basiao	11
+Belen	11
+Bical	11
+Binuangan	11
+Bito	11
+Bucal	11
+Bulala	11
+Cabadiangan	11
+Casilagan	11
+Cauayan	11
+Consuelo	11
+Dalayap	11
+Ilihan	11
+Lubong	11
+Mambog	11
+Maslog	11
+Nangka	11
+Natividad	11
+Pasil	11
+Pawa	11
+San Esteban	11
+San Mariano	11
+Santa Isabel	11
+Sua	11
+Tagaytay	11
+Talon	11
+Tipolo	11
+Valencia	11
+Viga	11
+Aurora	10
+Bagong Sikat	10
+Baluarte	10
+Bangon	10
+Bantayan	10
+Bayog	10
+Buaya	10
+Burabud	10
+Central	10
+Consolacion	10
+Cruz	10
+Culasi	10
+Cupang	10
+Dagatan	10
+De la Paz	10
+Fabrica	10
+Mabunga	10
+Mahayahay	10
+Mati	10
+Odiong	10
+Pajo	10
+Pandanan	10
+Pangi	10
+Parian	10
+Pook	10
+San Ignacio	10
+Santa Clara	10
+Talaga	10
+Talogtog	10
+Tambac	10
+Zamora	10
+Balili	9
+Bambang	9
+Bani	9
+Bonga	9
+Bonifacio	9
+Buenos Aires	9
+Bugho	9
+Bugnay	9
+Buhangin	9
+Bulalacao	9
+Buli	9
+Burabod	9
+Cabaritan	9
+Caniogan	9
+Castillo	9
+Dalig	9
+Del Carmen	9
+Dita	9
+Estrella	9
+Gadungan	9
+Gata	9
+Imelda	9
+Kawayan	9
+La Union	9
+Lawigan	9
+Liong	9
+Look	9
+Lucban	9
+Malaya	9
+Payao	9
+Pias	9
+Poctol	9
+Quirino	9
+Salvador	9
+San Benito	9
+San Marcos	9
+San Vincente	9
+Santa Filomena	9
+Santor	9
+Sapa	9
+Suyo	9
+Tabuan	9
+Villaflor	9
+Zaragoza	9
+Anao	8
+Anas	8
+Angeles	8
+Anilao	8
+Baay	8
+Bangkal	8
+Banilad	8
+Bantigue	8
+Bariw	8
+Batu	8
+Bual	8
+Buenlag	8
+Bugtong	8
+Bulacan	8
+Bulihan	8
+Buluan	8
+Cabanbanan	8
+Cabangahan	8
+Calaocan	8
+Camagong	8
+Camangaan	8
+Campo	8
+Candelaria	8
+Casili	8
+Fugu	8
+Gulod	8
+Igang	8
+Lagundi	8
+Libo	8
+Lico	8
+Lipay	8
+Lobo	8
+Lonoy	8
+Lupa	8
+Mabato	8
+Mahayag	8
+Malbog	8
+Mangas	8
+Mercedes	8
+Naguilian	8
+Narra	8
+Pacuan	8
+Pag-asa	8
+Pantalan	8
+Paratong	8
+Pila	8
+Poblacion Sur	8
+Putol	8
+Rawis	8
+Salug	8
+Santa Teresita	8
+Sibulan	8
+Sugod	8
+Tabang	8
+Tanawan	8
+Tina	8
+Trinidad	8
+Tunga	8
+Villahermosa	8
+Abaga	7
+Amaga	7
+Bahi	7
+Bairan	7
+Balagbag	7
+Balayong	7
+Balut	7
+Bangad	7
+Bannawag	7
+Baracbac	7
+Barcelona	7
+Bitoon	7
+Bogo	7
+Bonot	7
+Buayan	7
+Bucana	7
+Bungahan	7
+Buyog	7
+Cabangcalan	7
+Cabayo	7
+Cabulihan	7
+Cagay	7
+Calero	7
+Calunasan	7
+Camansi	7
+Catarman	7
+Concordia	7
+Dalaya	7
+Datag	7
+Del Monte	7
+Fatima	7
+Gines	7
+Gomez	7
+Guinobatan	7
+Guiwanon	7
+Halang	7
+Lanag	7
+Liang	7
+Ligaya	7
+Liloan	7
+Lubigan	7
+Lumbang	7
+Mabolo	7
+Malamig	7
+Malitbog	7
+Mapalad	7
+Medina	7
+Monserrat	7
+Muzon	7
+Nato	7
+Pansol	7
+Pantoc	7
+Pinagbayanan	7
+Poro	7
+Progreso	7
+Real	7
+Remedios	7
+Sacsac	7
+Salcedo	7
+Salong	7
+Sambat	7
+Sambulawan	7
+San Matias	7
+San Salvador	7
+Santo Nino	7
+Silangan	7
+Sili	7
+Taal	7
+Tabucan	7
+Tagbac	7
+Tanza	7
+Tiguib	7
+Tubo	7
+Villa	7
+Villa Aurora	7
+Villanueva	7
+Alcala	6
+Andres Bonifacio	6
+Anibongan	6
+Anoling	6
+Apad	6
+Apaya	6
+Aplaya	6
+Atabay	6
+Bacao	6
+Badiangan	6
+Bagakay	6
+Bagbag	6
+Bagong	6
+Balas	6
+Balimbing	6
+Balintawak	6
+Balisong	6
+Balocawe	6
+Banaoang	6
+Bangag	6
+Bangar	6
+Barasan	6
+Barit	6
+Batan	6
+Batasan	6
+Bautista	6
+Bayug	6
+Bigaa	6
+Bitaogan	6
+Biton	6
+Bolboc	6
+Bongbong	6
+Boton	6
+Botong	6
+Buga	6
+Bugang	6
+Bulac	6
+Bulao	6
+Bulawan	6
+Bulbulala	6
+Buliran	6
+Burol	6
+Cabangaran	6
+Cabasan	6
+Cabulalaan	6
+Cabuyao	6
+Caingin	6
+Cali	6
+Calpi	6
+Calumpit	6
+Camalig	6
+Casay	6
+Dancalan	6
+Dayap	6
+Dulangan	6
+Dulao	6
+Estancia	6
+Flores	6
+Ginablan	6
+Guba	6
+La Purisima	6
+Lanas	6
+Lanot	6
+Laya	6
+Layog	6
+Legaspi	6
+Lo-oc	6
+Lumang Bayan	6
+Lumbak	6
+Magdalena	6
+Mahabang Parang	6
+Malalag	6
+Malinta	6
+Mangahan	6
+Matabang	6
+Matinao	6
+Mayana	6
+Milagrosa	6
+Nasuli	6
+Nueva Estrella	6
+Osmena	6
+Palo	6
+Pamplona	6
+Panas	6
+Panay	6
+Paniqui	6
+Pao	6
+Paraiso	6
+Pasig	6
+Piña	6
+Potol	6
+Prinza	6
+Rang-ayan	6
+Sagrada	6
+San Cristobal	6
+San Dionisio	6
+San Guillermo	6
+San Jacinto	6
+San Quintin	6
+Sangay	6
+Santa Teresa	6
+Saranay	6
+Sibucao	6
+Tabing Ilog	6
+Tabunan	6
+Tagas	6
+Tagumpay	6
+Tala	6
+Talahib	6
+Talisayan	6
+Tampakan	6
+Tangbo	6
+Tigbawan	6
+Toledo	6
+Tulay	6
+Victory	6
+Vito	6
+Abucay	5
+Abuyog	5
+Agojo	5
+Aguada	5
+Alangilan	5
+Alegre	5
+Allangigan	5
+Ambulong	5
+Angas	5
+Angilan	5
+Anibong	5
+Astorga	5
+Babag	5
+Badia	5
+Bagong Pook	5
+Bagsak	5
+Balao	5
+Balaring	5
+Balong	5
+Balubad	5
+Banate	5
+Banaybanay	5
+Banco	5
+Bangaan	5
+Bangan	5
+Bangbang	5
+Barayong	5
+Barbarit	5
+Basud	5
+Batangan	5
+Batobato	5
+Bauang	5
+Baugo	5
+Bayan	5
+Bayanan	5
+Bayang	5
+Biao	5
+Bislig	5
+Bitas	5
+Bolinao	5
+Bolobolo	5
+Bongol	5
+Bualan	5
+Bubong	5
+Bucao	5
+Bued	5
+Bula	5
+Bulak	5
+Bulan	5
+Bulo	5
+Buluang	5
+Bungro	5
+Butao	5
+Butong	5
+Cabayugan	5
+Cabuluan	5
+Cabunga-an	5
+Cabungaan	5
+Cabungahan	5
+Cacao	5
+Calantas	5
+Callao	5
+Caloocan	5
+Camambugan	5
+Camanga	5
+Camiling	5
+Canal	5
+Caoayan	5
+Casile	5
+Colonia	5
+Cueva	5
+Curva	5
+Dagohoy	5
+Dahican	5
+Dalama	5
+Dansalan	5
+Dauis	5
+Duhat	5
+Dulong Bayan	5
+Dungon	5
+Estaca	5
+Gaang	5
+Gabi	5
+Gabon	5
+Galas	5
+Garcia	5
+Ginatilan	5
+Granada	5
+Gubat	5
+Guintas	5
+Hacienda Paz	5
+Hacienda San Jose	5
+Ibabao	5
+Imbatug	5
+Jinalinan	5
+Kakar	5
+Katidtuan	5
+Kiling	5
+La Fortuna	5
+Labnig	5
+Lacaron	5
+Lambakin	5
+Lanang	5
+Lanna	5
+Lantawan	5
+Lara	5
+Latag	5
+Liberty	5
+Libis	5
+Libsong	5
+Loboc	5
+Loreto	5
+Lubang	5
+Lubi	5
+Lubo	5
+Lumbac	5
+Lumbangan	5
+Lungsoda-an	5
+Lusod	5
+Lutao	5
+Luya	5
+Luyang	5
+Mactan	5
+Madalag	5
+Madanlog	5
+Maitum	5
+Malbug	5
+Malibago	5
+Mambug	5
+Manaoag	5
+Mapait	5
+Maravilla	5
+Maria Cristina	5
+Masao	5
+Masin	5
+Nalasin	5
+Navotas	5
+Obo	5
+Obrero	5
+Opao	5
+Opong	5
+Owak	5
+Pacac	5
+Pagatpat	5
+Palale	5
+Palao	5
+Palma	5
+Pampang	5
+Panadtaran	5
+Pandayan	5
+Pantao	5
+Pantar	5
+Parada	5
+Parasan	5
+Patrocinio	5
+Payapa	5
+Pita	5
+Poblacion East	5
+Poblacion Norte	5
+Poblacion West	5
+Pogo	5
+Pooc	5
+Roosevelt	5
+Sabong	5
+Saguing	5
+Salapungan	5
+Salog	5
+San Enrique	5
+San Josef	5
+San Leonardo	5
+San Lucas	5
+San Narciso	5
+Sibul	5
+Sisim	5
+Sobol	5
+Subic	5
+Sugud	5
+Taban	5
+Tabayag	5
+Taberna	5
+Talaba	5
+Talang	5
+Tamban	5
+Tangal	5
+Tapon	5
+Tinampo	5
+Tuba	5
+Tudela	5
+Tugos	5
+Tupas	5
+Abangay	4
+Acacia	4
+Aga	4
+Agat	4
+Agdao	4
+Aglipay	4
+Agoho	4
+Aguinaldo	4
+Agutayan	4
+Alawihao	4
+Alicia	4
+Amontay	4
+Andarayan	4
+Anislag	4
+Anuling	4
+Apaleng	4
+Apatot	4
+Apo	4
+Arado	4
+Aringay	4
+Asin	4
+Aslom	4
+Asuncion	4
+Atulayan	4
+Awa	4
+Babuyan	4
+Bacayawan	4
+Badak	4
+Badian	4
+Bagabag	4
+Bagbaguin	4
+Bagong Barrio	4
+Bagong Bayan	4
+Bagtic	4
+Bagto	4
+Baguang	4
+Baguio	4
+Bailan	4
+Bais	4
+Bakong	4
+Balagon	4
+Balanga	4
+Balio	4
+Balo	4
+Bañadero	4
+Bangao	4
+Bangcal	4
+Banot	4
+Banua	4
+Banuyo	4
+Baong	4
+Barangobong	4
+Barat	4
+Bariis	4
+Baroc	4
+Barraca	4
+Basac	4
+Basao	4
+Bataan	4
+Batas	4
+Bauan	4
+Bawi	4
+Bay-ang	4
+Bayabao	4
+Bayanga	4
+Bayugan	4
+Bigaan	4
+Bigao	4
+Bignay	4
+Bila	4
+Bilaran	4
+Bilat	4
+Bitaug	4
+Bocana	4
+Bogtong	4
+Bolod	4
+Bong	4
+Bontoc	4
+Borac	4
+Buan	4
+Buena Vista	4
+Bugas	4
+Bulod	4
+Buluangan	4
+Buneg	4
+Buñga	4
+Burnay	4
+Cabacnitan	4
+Cabalitian	4
+Cabay	4
+Cabiguhan	4
+Cabog	4
+Cadiz	4
+Cadoldolan	4
+Cagawasan	4
+Cagayan	4
+Calabasa	4
+Calamagui	4
+Calamba	4
+Calangay	4
+Calao	4
+Calape	4
+Calintaan	4
+Calumbaya	4
+Capacuan	4
+Capariaan	4
+Capayas	4
+Caputatan	4
+Carael	4
+Carapdapan	4
+Carmelo	4
+Carusipan	4
+Casapa	4
+Catigbian	4
+Cavite	4
+Cawilan	4
+Cawit	4
+Centro Norte	4
+Centro Sur	4
+Cinco	4
+Claveria	4
+Cogan	4
+Colorado	4
+Comon	4
+Compostela	4
+Coral	4
+Corazon	4
+Culong	4
+Daga	4
+Daguma	4
+Dalid	4
+Dampalan	4
+Dampay	4
+Dangay	4
+Dangcalan	4
+Dangla	4
+Dapitan	4
+Dau	4
+Dawis	4
+Dayhagan	4
+Dilabayan	4
+Dulag	4
+Ermita	4
+Evangelista	4
+Francia	4
+Fundado	4
+Gadong	4
+Gango	4
+Gatbo	4
+Gayaman	4
+Gutad	4
+Hacienda	4
+Hacienda San Antonio	4
+Hindang	4
+Hubasan	4
+Hugpa	4
+Hulo	4
+Ibaba	4
+Ibo	4
+Igburi	4
+Ilog	4
+Inabasan	4
+Isla	4
+Jaguimitan	4
+Janlud	4
+Jolo	4
+Jones	4
+Julita	4
+Kabungaan	4
+Kakal	4
+Kalilangan	4
+Kanluran	4
+Kapatagan	4
+Kawit	4
+Kogon	4
+Kulaman	4
+La Medalla	4
+Labang	4
+Labao	4
+Labney	4
+Labrador	4
+Lagao	4
+Lagasan	4
+Lago	4
+Laguna	4
+Lalabuan	4
+Lamak	4
+Lamao	4
+Lamitan	4
+Lamot	4
+Lamut	4
+Langob	4
+Lanipao	4
+Lanipga	4
+Lantangan	4
+Lapay	4
+Lasip	4
+Laurel	4
+Lawa	4
+Lawa-an	4
+Lebeng	4
+Libo-o	4
+Licuan	4
+Linawan	4
+Linglingay	4
+Lingsat	4
+Linuk	4
+Liptong	4
+Little Baguio	4
+Liwayway	4
+Liyang	4
+Loctob	4
+Loob	4
+Lubas	4
+Lumangbayan	4
+Lumbia	4
+Lundag	4
+Lupi	4
+Luzon	4
+Luzong	4
+Maasim	4
+Macalong	4
+Madalum	4
+Madarag	4
+Maite	4
+Malabo	4
+Malabog	4
+Malanday	4
+Malay	4
+Malbago	4
+Malitao	4
+Mangga	4
+Mapili	4
+Maralag	4
+Marcos	4
+Marikit	4
+Matagbac	4
+Matampay	4
+Mateo	4
+Matnog	4
+Matungao	4
+Maugat	4
+Mayantoc	4
+McKinley	4
+Monbon	4
+Morong	4
+Mulawin	4
+Nabundas	4
+Nagba	4
+Nagtupacan	4
+Nambaran	4
+Namnama	4
+Navitas	4
+Nazaret	4
+Niugan	4
+Nonoc	4
+Nueva Era	4
+Odiongan	4
+Olango	4
+Otod	4
+Pagalungan	4
+Pagayawan	4
+Pagsabangan	4
+Pagsangahan	4
+Palali	4
+Palanog	4
+Palawan	4
+Palina	4
+Pange	4
+Pangil	4
+Pantad	4
+Pantal	4
+Pantay	4
+Patac	4
+Patalan	4
+Peña	4
+Peñafrancia	4
+Perez	4
+Phase First	4
+Pilig	4
+Pinamihagan	4
+Pindulonan	4
+Pingan	4
+Pinili	4
+Pinugay	4
+Placer	4
+Poblacion Dos	4
+Poblacion Uno	4
+Pondol	4
+Pongol	4
+Potat	4
+Pualas	4
+Pulangbato	4
+Pulot	4
+Puro	4
+Putad	4
+Quipot	4
+Recodo	4
+Sagasa	4
+Sagay	4
+Sagrada Familia	4
+Saksak	4
+Sala	4
+Salamanca	4
+Sampaga	4
+Sampaguita	4
+Sampao	4
+San Alfonso	4
+San Augustin	4
+San Bernardo	4
+San Blas	4
+San Fabian	4
+San Ildefonso	4
+San Marcelino	4
+San Patricio	4
+San Rogue	4
+San Simon	4
+Sangi	4
+Santa Margarita	4
+Santander	4
+Santo Angel	4
+Sapinit	4
+Sibaguan	4
+Sigayan	4
+Silad	4
+Silang	4
+Simsiman	4
+Sison	4
+Socorro	4
+Soledad	4
+Sula	4
+Sulangan	4
+Suli	4
+Supo	4
+Suso	4
+Tabao	4
+Tabi	4
+Tabla	4
+Tabok	4
+Tabuk	4
+Taclobo	4
+Taft	4
+Tagbak	4
+Taguan	4
+Talaptap	4
+Talayong	4
+Talaytay	4
+Talusan	4
+Tambak	4
+Tambis	4
+Tambobong	4
+Tamlang	4
+Tamorong	4
+Tanap	4
+Tangaoan	4
+Tangnan	4
+Tangub	4
+Tanque	4
+Tapao	4
+Tapian	4
+Tara	4
+Taytayan	4
+Tayuman	4
+Tejero	4
+Tiaong	4
+Tico	4
+Tiguis	4
+Timbangan	4
+Tiwi	4
+Tolosa	4
+Tongo	4
+Toong	4
+Tranca	4
+Tuboran	4
+Tubuan	4
+Tubungan	4
+Tugatog	4
+Tugop	4
+Tuguis	4
+Tuka	4
+Tulatula	4
+Tumbaga	4
+Ubbog	4
+Unidos	4
+Upi	4
+Urdaneta	4
+Uson	4
+Valdez	4
+Veronica	4
+Vira	4
+Vista Alegre	4
+Washington	4
+Zaragosa	4
+Abat	3
+Abucayan	3
+Abut	3
+Adgao	3
+Agbobolo	3
+Aglibacao	3
+Agoo	3
+Aguho	3
+Aguilar	3
+Alagao	3
+Alaminos	3
+Alang	3
+Alangan	3
+Alcantara	3
+Alfonso	3
+Aliaga	3
+Alibago	3
+Aliguay	3
+Alimit	3
+Alinsolong	3
+Almacen	3
+Alupay	3
+Amahit	3
+Ambolong	3
+Amio	3
+Amparo	3
+Anahao	3
+Anajao	3
+Anapog	3
+Anayan	3
+Anibongon	3
+Annafunan	3
+Anos	3
+Antagan	3
+Apas	3
+Apitong	3
+Apugan	3
+Aquino	3
+Arellano	3
+Asilang	3
+Asturias	3
+Atipolo	3
+Awayan	3
+Ayon	3
+Baang	3
+Bacagan	3
+Bacayao	3
+Bachao	3
+Bacjao	3
+Baclayan	3
+Bacon	3
+Bacsay	3
+Baculod	3
+Baculud	3
+Bacuranan	3
+Badas	3
+Bagay	3
+Bagong Buhay	3
+Bagtingon	3
+Bagu	3
+Bagua	3
+Bagumbong	3
+Bajo	3
+Bakung	3
+Balabago	3
+Balading	3
+Balagan	3
+Balagtas	3
+Balanac	3
+Balanacan	3
+Balangao	3
+Balangobong	3
+Balante	3
+Balantian	3
+Balaoang	3
+Balasbas	3
+Balatoc	3
+Balawag	3
+Balayang	3
+Baldias	3
+Balian	3
+Balingasag	3
+Balit	3
+Baliti	3
+Baliw	3
+Baliwagan	3
+Ballesteros	3
+Balococ	3
+Balog	3
+Balombon	3
+Baloy	3
+Balsahan	3
+Balsic	3
+Balungao	3
+Banaban	3
+Banago	3
+Banahaw	3
+Banasi	3
+Bangco	3
+Bangko	3
+Bankal	3
+Banlasan	3
+Banlog	3
+Bantad	3
+Bantang	3
+Bantigui	3
+Bao	3
+Baraoas	3
+Barikir	3
+Bariri	3
+Barra	3
+Barurao	3
+Basag	3
+Basca	3
+Baslay	3
+Batad	3
+Batal	3
+Batayan	3
+Bateria	3
+Batiano	3
+Bato-Bato	3
+Batog	3
+Batong	3
+Baug	3
+Bawang	3
+Bayanihan	3
+Bayaoas	3
+Baye	3
+Baylo	3
+Bayo	3
+Bayong	3
+Bayuyan	3
+Beleng	3
+Bessang	3
+Biabas	3
+Bialong	3
+Bigajo	3
+Bigbiga	3
+Bigo	3
+Binabag	3
+Binabalian	3
+Binagbag	3
+Binalayan	3
+Binaliw	3
+Bingag	3
+Bingao	3
+Bintog	3
+Binuang	3
+Biong	3
+Bita	3
+Bitaog	3
+Bitik	3
+Bitin	3
+Bohol	3
+Bolocboloc	3
+Bolong	3
+Bolos	3
+Bombon	3
+Bongabong	3
+Bongbongan	3
+Bongdo	3
+Borabod	3
+Borocboroc	3
+Botbot	3
+Bubon	3
+Bubug	3
+Bucalan	3
+Buena Suerte	3
+Bugallon	3
+Buhang	3
+Buhatan	3
+Buhay	3
+Bulad	3
+Bulakin	3
+Bulata	3
+Bulusan	3
+Bunawan	3
+Bungad	3
+Bungo	3
+Bunog	3
+Bunot	3
+Buntong	3
+Burak	3
+Burayoc	3
+Burot	3
+Busikong	3
+Butig	3
+Buto	3
+Butuan	3
+Buyon	3
+Cababaan	3
+Cabacanan	3
+Cabacungan	3
+Cabalawan	3
+Cabariuan	3
+Cabatang	3
+Cabatoan	3
+Cabilao	3
+Cabilisan	3
+Cabisuculan	3
+Cabonga-an	3
+Cabongaan	3
+Cabuaan	3
+Cabug	3
+Cabugo	3
+Cabuloan	3
+Cadaanan	3
+Cadacad	3
+Cadanglaan	3
+Cafe	3
+Caganibong	3
+Calabanga	3
+Calamias	3
+Calampitao	3
+Calangcang	3
+Calaoagan	3
+Calatagan	3
+Calatrava	3
+Calauag	3
+Calawagan	3
+Calicanto	3
+Callos	3
+Calmay	3
+Calo	3
+Calot	3
+Calungan	3
+Calvario	3
+Calzada	3
+Camachile	3
+Camaligan	3
+Camandag	3
+Camasi	3
+Camella Homes	3
+Camias	3
+Camingawan	3
+Campanario	3
+Canan	3
+Cancilayan	3
+Canda	3
+Candabong	3
+Cansilayan	3
+Capitan	3
+Capitol	3
+Carangan	3
+Caranglaan	3
+Cardona	3
+Carmay	3
+Carmencita	3
+Carmona	3
+Carolina	3
+Carriedo	3
+Casiguran	3
+Castilla	3
+Cata-an	3
+Catagbacan	3
+Catan-agan	3
+Catanglaran	3
+Cato-ogan	3
+Catubig	3
+Catugasan	3
+Catungan	3
+Caturay	3
+Cawag	3
+Cawayanan	3
+Cayanga	3
+Cervantes	3
+Cobo	3
+Cordova	3
+Cotcot	3
+Coto	3
+Cotod	3
+Crossing	3
+Culaman	3
+Culiat	3
+Culubasa	3
+Cumba	3
+Cunsad	3
+Curry	3
+Daanbanua	3
+Dacal	3
+Daclan	3
+Daja	3
+Dalagan	3
+Dalahican	3
+Dalao	3
+Daldalayap	3
+Dalican	3
+Daligan	3
+Danac	3
+Danawan	3
+Daramuangan	3
+Darasdas	3
+Daungan	3
+Dayapan	3
+Dayas	3
+Del Remedio	3
+Dela Paz	3
+Dila-usan	3
+Dilan	3
+Dili	3
+Dingle	3
+Dobdob	3
+Dodan	3
+Doldol	3
+Dongon	3
+Duhatan	3
+Dungao	3
+Dungoan	3
+Dungun	3
+Duplas	3
+Durungao	3
+Eden	3
+Embarcadero	3
+Erenas	3
+Estanza	3
+Estrada	3
+Fé	3
+Fernandez	3
+Flora	3
+Florida	3
+Fortuna	3
+Gabao	3
+Gaboc	3
+Gabut	3
+Gajo	3
+Galicia	3
+Ganasi	3
+Gansing	3
+Ganta	3
+Gapang	3
+Gapas	3
+Garang	3
+Garita	3
+Garrita	3
+General Fullon	3
+General Tinio	3
+Gibuga	3
+Gogon	3
+Gonzales	3
+Goob	3
+Gracia	3
+Gugo	3
+Guimba	3
+Guimod	3
+Guinaang	3
+Guinhawa	3
+Guitong	3
+Gulang-gulang	3
+Gusa	3
+Hacienda Caridad	3
+Hacienda Mercedes	3
+Hacienda Rosario	3
+Hacienda San Isidro	3
+Hacienda Santa Teresa	3
+Hacienda Santo Rosario	3
+Hagnaya	3
+Hagonoy	3
+Hanopol	3
+Harrison	3
+Hibunawan	3
+Igtugas	3
+Ilian	3
+Inalad	3
+Initan	3
+Inmalog	3
+Inoman	3
+Inuman	3
+Ipilan	3
+Itum	3
+Jasaan	3
+Jose Rizal	3
+Jovellar	3
+Jubasan	3
+Jugpa	3
+Kabacan	3
+Kabanbanan	3
+Kabankalan	3
+Kabasalan	3
+Kadayonan	3
+Kalawit	3
+Kalian	3
+Kamalig	3
+Kamanga	3
+Kamansi	3
+Kamuning	3
+Kangkong	3
+Kaningag	3
+Kapalong	3
+Kapanikian	3
+Kataasan	3
+Kayagan	3
+La Esperanza	3
+La Libertad	3
+La Suerte	3
+La Trinidad	3
+La Victoria	3
+Labac	3
+Labo	3
+Labon	3
+Laboy	3
+Ladol	3
+Lagnas	3
+Lalawigan	3
+Lamac	3
+Lamag	3
+Lamakan	3
+Lambac	3
+Lamesa	3
+Landas	3
+Langa	3
+Langab	3
+Langka	3
+Langtad	3
+Lantang	3
+Lantapan	3
+Laoag	3
+Lapinig	3
+Lapinigan	3
+Larap	3
+Lasang	3
+Laua-an	3
+Lauan	3
+Lawak	3
+Lawis	3
+Legarda	3
+Legleg	3
+Lemery	3
+Lepanto	3
+Libod	3
+Libuan	3
+Libutan	3
+Licoan	3
+Lika	3
+Limao	3
+Limbo	3
+Limbon	3
+Limon	3
+Linabo	3
+Linay	3
+Lindero	3
+Lingay	3
+Linoan	3
+Lipa	3
+Lipatan	3
+Llaya	3
+Lo-ok	3
+Lobong	3
+Locloc	3
+Loñgos	3
+Lopez	3
+Lopez Jaena	3
+Los Angeles	3
+Los Baños	3
+Luan	3
+Lubnac	3
+Lucsuhin	3
+Lugo	3
+Lumbatan	3
+Lumbog	3
+Lungib	3
+Lungon	3
+Lusok	3
+Luuk	3
+Luyo	3
+Luyos	3
+Mabasa	3
+Mabatobato	3
+Mabical	3
+Macabaclay	3
+Macatunao	3
+Macayug	3
+Mactang	3
+Macupa	3
+Madanding	3
+Madao	3
+Magatas	3
+Magdalo	3
+Mago	3
+Mahaba	3
+Mahanlud	3
+Makina	3
+Malacañang	3
+Malanta	3
+Malapoc	3
+Malating	3
+Male	3
+Malibas	3
+Malingin	3
+Malino	3
+Mallig	3
+Malonoy	3
+Malubog	3
+Malungon	3
+Mamali	3
+Mambajao	3
+Mambaling	3
+Mambuyo	3
+Manamoc	3
+Manapao	3
+Manarang	3
+Manat	3
+Manban	3
+Mangandingay	3
+Manggahan	3
+Maninila	3
+Mapang	3
+Maputat	3
+Marag	3
+Maria	3
+Maricaban	3
+Masagana	3
+Masaguisi	3
+Masaya	3
+Masi	3
+Masical	3
+Masigun	3
+Mat-i	3
+Mataas na Kahoy	3
+Mataas Na Lupa	3
+Matalao	3
+Matam	3
+Matin-ao	3
+Matindeg	3
+Matiompong	3
+Mauban	3
+Maya	3
+Mayag	3
+Mayang	3
+Mina	3
+Minanga Norte	3
+Minanga Sur	3
+Mindoro	3
+Minoro	3
+Miranda	3
+Moalboal	3
+Mohon	3
+Mompeller	3
+Monte Alegre	3
+Morales	3
+Moreno	3
+Mulao	3
+Muntay	3
+Muntingtubig	3
+Murong	3
+Nacayao	3
+Nagas	3
+Nagbacalan	3
+Nagiba	3
+Nagpanaoan	3
+Nagrebcan	3
+Namagbagan	3
+Namayan	3
+Nambalan	3
+Nansangaan	3
+Nara	3
+Naslo	3
+Nasonogan	3
+Naval	3
+New Bohol	3
+Niño Jesus	3
+Oboob	3
+Obuhan	3
+Odoc	3
+Oguis	3
+Olas	3
+Ondol	3
+Ongo	3
+Osorio	3
+Pacarso	3
+Pacol	3
+Pacpaco	3
+Padang	3
+Pader	3
+Paet	3
+Paete	3
+Pagao	3
+Pagasinan	3
+Pagsanga-an	3
+Pagsanjan	3
+Pait	3
+Pakol	3
+Palacian	3
+Palasan	3
+Palaypay	3
+Palid	3
+Palili	3
+Paliparan	3
+Paltok	3
+Paludpud	3
+Palusapis	3
+Pambuhan	3
+Panabutan	3
+Panag	3
+Panaitan	3
+Panal	3
+Pananawan	3
+Panang	3
+Panaytayon	3
+Pandacan	3
+Pandol	3
+Panganuran	3
+Pangasinan	3
+Pangian	3
+Panikian	3
+Panubigan	3
+Panuran	3
+Paoay	3
+Papan	3
+Papaya	3
+Paracelis	3
+Paradahan	3
+Paras	3
+Pardo	3
+Partida	3
+Pasay	3
+Pasi	3
+Pasong	3
+Patar	3
+Patpat	3
+Patria	3
+Paua	3
+Pawican	3
+Paya	3
+Payahan	3
+Paz	3
+Phase Second	3
+Picas	3
+Pidig	3
+Pidpid	3
+Pinpinas	3
+Pintor	3
+Pio Del Pilar	3
+Pitas	3
+Poblacion Tres	3
+Poctoy	3
+Pola	3
+Polangi	3
+Ponod	3
+Poo	3
+Porog	3
+Poso	3
+Potot	3
+Pudiot	3
+Puerto Bello	3
+Puerto Princesa	3
+Pugod	3
+Pulang Lupa	3
+Pulanglupa	3
+Pulao	3
+Pulpog	3
+Punod	3
+Punong	3
+Putat	3
+Puting Kahoy	3
+Putot	3
+Puyo	3
+Quiapo	3
+Quiling	3
+Quimmarayan	3
+Ramos	3
+Rancheria	3
+Raois	3
+Rauis	3
+Riverside	3
+Riza	3
+Roma	3
+Saba	3
+Sabañgan	3
+Sablayan	3
+Sagana	3
+Sagpat	3
+Sagpon	3
+Salaan	3
+Salaban	3
+Salag	3
+Salasa	3
+Salat	3
+Salinas	3
+Samal	3
+Sambag	3
+San Alejandro	3
+San Bernabe	3
+San Bonifacio	3
+San Buenaventura	3
+San Fermin	3
+San José	3
+San Jose Norte	3
+San Jose Sur	3
+San Juan Bautista	3
+San Leon	3
+San Mauricio	3
+San Nicolas Second	3
+San Raymundo	3
+San Remigio	3
+Sangat	3
+Santa Cecilia	3
+Santulan	3
+Sapad	3
+Sawa	3
+Sawat	3
+Sayangan	3
+Sayao	3
+Sevilla	3
+Sibacan	3
+Sikatuna	3
+Silag	3
+Simimbaan	3
+Simora	3
+Sinabaan	3
+Sinait	3
+Sinalugan	3
+Sinapangan	3
+Sinipit	3
+Sinippil	3
+Sohoton	3
+Solana	3
+Solo	3
+Solong	3
+Songsong	3
+Soroc	3
+Sorsogon	3
+Sta Cruz	3
+Subec	3
+Sucoc	3
+Sucol	3
+Sudlon	3
+Sugbay	3
+Sugcad	3
+Sulbec	3
+Sumanga	3
+Summit	3
+Sumulong	3
+Supang	3
+Tabangao	3
+Tabbac	3
+Tabgon	3
+Tabigui	3
+Tabionan	3
+Tablang	3
+Tabo	3
+Tabog	3
+Tabogon	3
+Tabonan	3
+Tabontabon	3
+Tabugon	3
+Tabunoc	3
+Tacay	3
+Tagabaca	3
+Tagbakin	3
+Tagbao	3
+Tagkip	3
+Tago	3
+Tagoloan	3
+Tagoytoy	3
+Tagudtud	3
+Taguipuro	3
+Taguite	3
+Taisan	3
+Talalang	3
+Talamban	3
+Talampas	3
+Talanghauan	3
+Talavera	3
+Talayan	3
+Talitay	3
+Talomo	3
+Talos	3
+Taloto	3
+Taloy	3
+Tambangan	3
+Tamboan	3
+Tambong	3
+Tambunan	3
+Tamparan	3
+Tanag	3
+Tanao	3
+Tanauan	3
+Tanay	3
+Tangadan	3
+Tangalan	3
+Tanglad	3
+Tapa	3
+Tapikan	3
+Tapol	3
+Taraka	3
+Tarong	3
+Tarug	3
+Tawang	3
+Taysan	3
+Tayug	3
+Telbang	3
+Tibag	3
+Tibagan	3
+Tibiao	3
+Tibig	3
+Tigbauan	3
+Tigbaw	3
+Tinaan	3
+Tinaogan	3
+Tingib	3
+Tiniguiban	3
+Tipacan	3
+Tondo	3
+Toril	3
+Trozo	3
+Tubay	3
+Tubig	3
+Tuble	3
+Tubog	3
+Tubud	3
+Tulang	3
+Tumana	3
+Tuy	3
+Ualog	3
+Uban	3
+Ubojan	3
+Ugong	3
+Uma	3
+Umalag	3
+Umangan	3
+Utod	3
+Vacante	3
+Valderrama	3
+Valenzuela	3
+Vical	3
+Vigan	3
+Villa Flores	3
+Villa Hermosa	3
+Vintar	3
+Visaya	3
+Vocal	3
+Volcan	3
+Wakas	3
+Wasig	3
+Zapote	3
+Aba	2
+Abagao	2
+Abang	2
+Abango	2
+Abar	2
+Abas	2
+Abatan	2
+Abaya	2
+Abbag	2
+Abilay	2
+Ableg	2
+Abo	2
+Abongabong	2
+Abuac	2
+Abuanan	2
+Abucay Sur	2
+Abulalas	2
+Abuyo	2
+Acao	2
+Acedillo	2
+Acle	2
+Addas Village	2
+Adela	2
+Adia	2
+Adlaon	2
+Adlawan	2
+Adoyunan	2
+Aduyungan	2
+Agaga	2
+Aganan	2
+Agape	2
+Agas	2
+Agay-ayan	2
+Agbagacay	2
+Agbannawag	2
+Agcagay	2
+Agcarope	2
+Agcogon	2
+Agdaliran	2
+Agdangan	2
+Agdayao	2
+Aggub	2
+Aggunetan	2
+Aglalana	2
+Agloloway	2
+Agnaga	2
+Agno	2
+Agnoknok	2
+Ago	2
+Agpangi	2
+Agrupacion	2
+Agsilab	2
+Agsirab	2
+Agta	2
+Agtuman	2
+Aguing	2
+Agus	2
+Agusipan	2
+Agutay	2
+Ahin	2
+Akmi	2
+Alac	2
+Alacan	2
+Alacaygan	2
+Alad	2
+Alaludig	2
+Alangalang	2
+Alapang	2
+Alasas	2
+Alauihao	2
+Alba	2
+Alcoy	2
+Alemania	2
+Alfonso XII	2
+Alibadabad	2
+Alibagon	2
+Alibangbang	2
+Alibasao	2
+Alicante	2
+Alimango	2
+Alitap	2
+Allig	2
+Almendras	2
+Altavista	2
+Alubijid	2
+Alzate	2
+Amacalan	2
+Amadeo	2
+Amagbagan	2
+Amanumbus	2
+Amas	2
+Ambabaay	2
+Ambacon	2
+Ambalingit	2
+Ambaracao Norte	2
+Ambaracao Sur	2
+Ambasa	2
+Ambito	2
+Amiroy	2
+Amistad	2
+Ampontoc	2
+Amsalsal	2
+Amuguis	2
+Anaba	2
+Anabel	2
+Anahawan	2
+Anap	2
+Anastacia	2
+Anawan	2
+Anda	2
+Andil	2
+Andili	2
+Angub	2
+Anhauan	2
+Anilauan	2
+Aningalan	2
+Aniog	2
+Anipa	2
+Anislagan	2
+Anito	2
+Añog	2
+Anolid	2
+Anon	2
+Antonino	2
+Anunang	2
+Anupul	2
+Aparri	2
+Apat	2
+Apayao	2
+Apis	2
+Appas	2
+Apud	2
+Apunan	2
+Aquib	2
+Ara	2
+Araal	2
+Aragao	2
+Aran	2
+Aras-asan	2
+Arevalo	2
+Argao	2
+Armenia	2
+Arnap	2
+Aroganga	2
+Aroroy	2
+Artacho	2
+Arteche	2
+Aruaay	2
+Arubub	2
+Asinan	2
+Asis	2
+Asluman	2
+Atimonan	2
+Atioc	2
+Atok	2
+Aurora Subdivision	2
+Awang	2
+Awitan	2
+Aya	2
+Ayala	2
+Ayangan	2
+Ayugan	2
+Azagra	2
+Baan	2
+Baao	2
+Baas	2
+Babak	2
+Babayongan	2
+Babayuan	2
+Baboy	2
+Bacalan	2
+Bacan	2
+Bacani	2
+Bacayan	2
+Baccuit	2
+Bachawan	2
+Baclaran	2
+Baclay	2
+Baclayon	2
+Bacnit	2
+Baco	2
+Bacong Ibaba	2
+Bacsayan	2
+Bactad	2
+Bactas	2
+Baculin	2
+Bacungan	2
+Badao	2
+Badbad	2
+Badio	2
+Bae	2
+Baga	2
+Baga-as	2
+Bagaguimbal	2
+Bagalay	2
+Bagalnga	2
+Bagan	2
+Baganga	2
+Bagapayong	2
+Bagas	2
+Baggao	2
+Bagnos	2
+Bagombayan	2
+Bagombong	2
+Bagon	2
+Bagong Kalsada	2
+Bagong Nayon	2
+Bagong Pag-asa	2
+Bagong Tubig	2
+Bagongbong	2
+Bagongsirang	2
+Bagsang	2
+Bagtayan	2
+Bagting	2
+Baguan	2
+Baguer	2
+Baguhan	2
+Baguiad	2
+Baguinay	2
+Baguiñgin	2
+Bagulayag	2
+Bagupaye	2
+Baha	2
+Bahay Pare	2
+Bahian	2
+Bai	2
+Bail	2
+Baje San Julian	2
+Baka	2
+Bakat	2
+Bakian	2
+Bakiang	2
+Bakilid	2
+Balaas	2
+Balabac	2
+Balacbalac	2
+Balacson	2
+Balagtasin	2
+Balagunan	2
+Balala	2
+Balangabang	2
+Balangiao	2
+Balangonan	2
+Balani	2
+Balanni	2
+Balanoy	2
+Balantay	2
+Balaquilong	2
+Balatacan	2
+Balatan	2
+Balatican	2
+Balatukan	2
+Balayon	2
+Balbalan	2
+Balcon	2
+Baldog	2
+Baldoza	2
+Balibayan	2
+Balidbid	2
+Baliga	2
+Baliguian	2
+Balila	2
+Baliling	2
+Balilit	2
+Balintad	2
+Balintaugan	2
+Balitoc	2
+Baliuag	2
+Balnasan	2
+Balobo	2
+Baloc	2
+Balod	2
+Balubal	2
+Balubo	2
+Balugan	2
+Balukbuk	2
+Balungay	2
+Balungis	2
+Baluno	2
+Balza	2
+Bambanan	2
+Ban-ag	2
+Bana	2
+Bana-ao	2
+Banaag	2
+Banaao	2
+Banaba Bauan	2
+Banacao	2
+Banag	2
+Banaga	2
+Banahao	2
+Banalo	2
+Bananao	2
+Banasilon	2
+Banat	2
+Banaue	2
+Banawa	2
+Banawang	2
+Banban Pequeño	2
+Banbanan	2
+Banbanon	2
+Bancalan	2
+Banco Filipino Homes	2
+Bandahala	2
+Banday	2
+Bañga	2
+Bangahan	2
+Bangay	2
+Bangbangar	2
+Bangilan	2
+Bango	2
+Bangonbangon	2
+Banhigan	2
+Banigan	2
+Banilao	2
+Bankerohan	2
+Banlic	2
+Banlot	2
+Bannua	2
+Banog	2
+Banos	2
+Banquerohan	2
+Bantalinao	2
+Bantaoay	2
+Banting	2
+Bantolinao	2
+Banugao	2
+Banuyao	2
+Banyaga	2
+Baoaran	2
+Baquias	2
+Baracatan	2
+Barake	2
+Baramban	2
+Baran	2
+Barandias	2
+Barang	2
+Barangay	2
+Barangay Uno	2
+Barangbang	2
+Barangca	2
+Barangcuag	2
+Barangka	2
+Baranoy	2
+Barbo	2
+Bari	2
+Baring	2
+Bariquir	2
+Baris	2
+Baritan	2
+Barlak	2
+Barlo	2
+Baro	2
+Barobo	2
+Barok	2
+Barosong	2
+Bas	2
+Basa	2
+Basan	2
+Basay	2
+Basdio	2
+Basiad	2
+Basiawan	2
+Basilio	2
+Basing	2
+Batabat	2
+Batangas	2
+Batbat	2
+Bating	2
+Batingan	2
+Batinguil	2
+Bato Bato	2
+Baton	2
+Battung	2
+Batuhan	2
+Batungan	2
+Batutitik	2
+Baubo	2
+Baud	2
+Bawa	2
+Bay	2
+Bayabat	2
+Bayabo	2
+Bayacabac	2
+Bayaco	2
+Bayag	2
+Bayambang	2
+Bayan-bayanan	2
+Bayanbayanan	2
+Bayao	2
+Bayas	2
+Bayasong	2
+Baybayaoas	2
+Baybayin	2
+Baybayog	2
+Bayombong	2
+Bayongan	2
+Bayugo	2
+Behia	2
+Bekes	2
+Belnebe	2
+Beneg	2
+Bengcag	2
+Benguet	2
+Benit	2
+Besang	2
+Betes	2
+Beto	2
+Bia-An	2
+Bianan	2
+Biangan	2
+Bibiclat	2
+Bicos	2
+Biga-a	2
+Bilog	2
+Bilogo	2
+Bimmanga	2
+Binabaan	2
+Binabuyan	2
+Binacag	2
+Binahian	2
+Binalan	2
+Binalay	2
+Binalbagan	2
+Binalian	2
+Binalio	2
+Binaliwan	2
+Binambang	2
+Biñan	2
+Binangbang	2
+Binanuaan	2
+Binatagan	2
+Binatanga	2
+Binaybay	2
+Binga	2
+Binibihan	2
+Binitin	2
+Binobon	2
+Binog	2
+Binondo	2
+Binonga	2
+Binongaan	2
+Binongan	2
+Binoni	2
+Binotongan	2
+Binucayan	2
+Binugawan	2
+Biri	2
+Birinayan	2
+Bitabian	2
+Bitag	2
+Bitalag	2
+Bitaoy	2
+Bitbit	2
+Bito-on	2
+Bitong	2
+Bitu	2
+Biyasong	2
+Blit	2
+Boac	2
+Boal	2
+Bobonan	2
+Bocboc	2
+Boclod	2
+Boctol	2
+Bodbod	2
+Bogbog	2
+Bogho	2
+Bojo	2
+Bokiawan	2
+Bolanao	2
+Bolay	2
+Bolbok	2
+Bolho	2
+Bolilao	2
+Bolog	2
+Bolosan	2
+Bolton	2
+Bomba	2
+Bonacan	2
+Bonat	2
+Boñga	2
+Bongar	2
+Bonglo	2
+Bonifacio District	2
+Bontod	2
+Bontogon	2
+Bonton	2
+Bontud	2
+Bood	2
+Bool	2
+Boot	2
+Borabud	2
+Borbon	2
+Boring	2
+Borja Subdivision	2
+Boroc	2
+Borongan	2
+Bosok	2
+Botao	2
+Botoc	2
+Botocan	2
+Boyan	2
+Boyo	2
+Boyog	2
+Brar	2
+Bua	2
+Buag	2
+Buagsong	2
+Buanan	2
+Buanao	2
+Buang	2
+Buangan	2
+Bubog	2
+Buboy	2
+Buburay	2
+Bucayao	2
+Budas	2
+Budiong	2
+Budlasan	2
+Budta	2
+Buenasuerte	2
+Bueno	2
+Bug-ong	2
+Bugaan	2
+Bugatay	2
+Bugawas	2
+Bugayong	2
+Bugo	2
+Buguias	2
+Buhian	2
+Buhisan	2
+Buho	2
+Buisan	2
+Bukawe	2
+Bukid	2
+Bukig	2
+Bulabud	2
+Bulabug	2
+Bulacao	2
+Bulagsong	2
+Bulalo	2
+Bulanbulan	2
+Bulaoen	2
+Bulaon	2
+Bule	2
+Bulog	2
+Bulu	2
+Bulud	2
+Bunag	2
+Bunago	2
+Bunakan	2
+Bunan	2
+Bunat	2
+Bundoc	2
+Bungabon	2
+Bungahin	2
+Bungan	2
+Bungao	2
+Bungcag	2
+Bungdo	2
+Bungod	2
+Bungol	2
+Bungon	2
+Bunig	2
+Bunlan	2
+Bunlao	2
+Bunnay	2
+Buntay	2
+Buntod	2
+Buol	2
+Buracan	2
+Burakan	2
+Buray	2
+Burias	2
+Buriasan	2
+Burirao	2
+Bury	2
+Busac	2
+Busao	2
+Buselbusel	2
+Busing	2
+Buso	2
+Busok	2
+Butac	2
+Butbut	2
+Butic	2
+Butigue	2
+Butod	2
+Butol	2
+Buton	2
+Butun	2
+Buug	2
+Buyabuyan	2
+Buyasyas	2
+Buyuan	2
+Buyun	2
+Caataban	2
+Caba	2
+Cababuyan	2
+Cabacongan	2
+Cabaguan	2
+Cabalagnan	2
+Cabalangan	2
+Cabalayangan	2
+Cabanaetan	2
+Cabancalan	2
+Cabangaan	2
+Cabangajan	2
+Cabangila	2
+Cabangkalan	2
+Cabangtohan	2
+Cabantian	2
+Cabantog	2
+Cabaraon	2
+Cabarasan	2
+Cabarsican	2
+Cabaruyan	2
+Cabatangan	2
+Cabawan	2
+Cabayaoasan	2
+Cabayu	2
+Cabaywa	2
+Cabcab	2
+Cabilauan	2
+Cabinuangan	2
+Cabitaogan	2
+Cabitaoyan	2
+Cabittaogan	2
+Cabittauran	2
+Cablong	2
+Cabobo	2
+Cabogao	2
+Cabonturan	2
+Cabraran	2
+Cabuan	2
+Cabugan	2
+Cabugawan	2
+Cabugbugan	2
+Cabulao	2
+Cabulay	2
+Cabunga	2
+Cabungan	2
+Caburacan	2
+Cacabugaoan	2
+Cacandongan	2
+Cacutud	2
+Cadaclan	2
+Cadalagan	2
+Cadingilan	2
+Cadmang	2
+Cadolonan	2
+Cadre	2
+Cadulawan	2
+Cag-abaca	2
+Cagabae	2
+Cagbacong	2
+Cagban	2
+Cagbonga	2
+Cagdao	2
+Cagdara-O	2
+Caggay	2
+Caggong	2
+Cagmampas	2
+Cagmanaba	2
+Cagnipa	2
+Cagoran	2
+Cagpandan	2
+Cagraray	2
+Cagtalaba	2
+Cagutsan	2
+Cahayag	2
+Cahayagan	2
+Caibaan	2
+Caibigan	2
+Caibiran	2
+Caigangan	2
+Caiñaman	2
+Caipilan	2
+Cairojan	2
+Calaanan	2
+Calaba	2
+Calabugao	2
+Calagitan	2
+Calaigang	2
+Calalanuan	2
+Calamigan	2
+Calang	2
+Calangahan	2
+Calansayan	2
+Calaotit	2
+Calapan	2
+Calapian	2
+Calasag	2
+Calasumanga	2
+Calauan	2
+Calauit	2
+Calawag	2
+Calay	2
+Calaya	2
+Calaya-an	2
+Calayaan	2
+Calayan	2
+Calayo	2
+Calayugan	2
+Calbasag	2
+Calbiga	2
+Calcalan	2
+Cale	2
+Calibayan	2
+California	2
+Caliga	2
+Caling	2
+Calingcuan	2
+Calipayan	2
+Calitlitan	2
+Calivo	2
+Callaguip	2
+Callan	2
+Callawan	2
+Calobaoan	2
+Calomboyan	2
+Calongbuyan	2
+Calsib	2
+Caluasan	2
+Calumangan	2
+Calumbayan	2
+Calumboyan	2
+Calumbuyan	2
+Caluy-ahan	2
+Caluya	2
+Camachilihan	2
+Camaguan	2
+Camanbugan	2
+Camanci	2
+Camandagan	2
+Camang	2
+Camangahan	2
+Camansa	2
+Camantang	2
+Camarao	2
+Camarobalan	2
+Cambajao	2
+Cambani	2
+Cambaog	2
+Cambitala	2
+Cambong	2
+Cambuac Norte	2
+Camburanan	2
+Camote	2
+Camp Six	2
+Campagao	2
+Campatic	2
+Campos	2
+Campote	2
+Camugao	2
+Can-aga	2
+Can-ato	2
+Canagahan	2
+Canagong	2
+Cananaman	2
+Canangan	2
+Canangay	2
+Canao	2
+Canarem	2
+Canas	2
+Cancahipus	2
+Canculajao	2
+Candaguit	2
+Candalaga	2
+Candao	2
+Candavid	2
+Candiis	2
+Cang Iras	2
+Cangao	2
+Cangawa	2
+Canhangdon	2
+Canibugan	2
+Canicanian	2
+Caninguan	2
+Canipa-an	2
+Caniwan	2
+Canjulao	2
+Canlambong	2
+Canlangit	2
+Canlaon	2
+Canlubang	2
+Canlusong	2
+Canmano	2
+Canomantag	2
+Cansi	2
+Cantigdas	2
+Cantuyoc	2
+Canubig	2
+Canumay	2
+Capaclan	2
+Capas	2
+Capataan	2
+Capataga	2
+Capes	2
+Capiddigan	2
+Capihan	2
+Capilit	2
+Capinitan	2
+Capulaan	2
+Capuluan	2
+Capuseran	2
+Capuy	2
+Carahan	2
+Caramutan	2
+Caranan	2
+Caranas	2
+Caratagan	2
+Carataya	2
+Caraudan	2
+Carawisan	2
+Cardinal	2
+Care	2
+Carlo	2
+Caroan	2
+Carpenito	2
+Cartagena	2
+Casabangan	2
+Casanfernandoan	2
+Casantiagoan	2
+Casibong	2
+Casilion	2
+Casinagan	2
+Casipitan	2
+Casit-an	2
+Casitan	2
+Casuguran	2
+Cataan	2
+Catabangan	2
+Catadungan	2
+Catagbacon	2
+Catalina	2
+Catambuan	2
+Catamlagan	2
+Catanagan	2
+Catandala	2
+Catangtang	2
+Catayom	2
+Caticugan	2
+Catihan	2
+Catiningan	2
+Cato	2
+Catulayan	2
+Catulin	2
+Causwagan	2
+Cautit	2
+Cauyan	2
+Cavit	2
+Cawa	2
+Cawa Cawa	2
+Cawayanin	2
+Cawilihan	2
+Cayacay	2
+Cayam	2
+Cayapa	2
+Cayawan	2
+Caylaway	2
+Cayus	2
+Centro East	2
+Centro Primero	2
+Centro Segundo	2
+Centro West	2
+Chambrey	2
+Cigaras	2
+Clarin	2
+Coco	2
+Cogonan	2
+Cogtong	2
+Coliling	2
+Coliong	2
+Colong	2
+Colongan	2
+Comagaycay	2
+Cometa	2
+Commonwealth	2
+Compra	2
+Concong	2
+Constancia	2
+Contod	2
+Copias	2
+Corazon De Jesus	2
+Cordero	2
+Cordon	2
+Coromatan	2
+Coron	2
+Coronon	2
+Cortes	2
+Costa Rica	2
+Cotcoton	2
+Cotmo	2
+Cotmon	2
+Country Homes	2
+Coyaoyao	2
+Cristo Rey	2
+Cuay	2
+Cuayang Bugtong	2
+Cuba	2
+Cubi	2
+Cuenca	2
+Cuevas	2
+Culao	2
+Culasian	2
+Culatingan	2
+Culliat	2
+Cullit	2
+Culob	2
+Cuta	2
+Cutcut	2
+Cutcutan	2
+Cutug	2
+Cuyapo	2
+Daan Lungsod	2
+Dabba	2
+Dacay	2
+Daco	2
+Dacu	2
+Dacutan	2
+Dadaor	2
+Dadap	2
+Dadda	2
+Daduan	2
+Dagami	2
+Daganas	2
+Dagao	2
+Dagdag	2
+Dagmay	2
+Dagnawan	2
+Dahilig	2
+Dait	2
+Dakila	2
+Daku	2
+Dalagsa-an	2
+Dalaguisen	2
+Dalakit	2
+Dalaon	2
+Daliao	2
+Dalicanan	2
+Dalipay	2
+Dalipey	2
+Dalipuga	2
+Dalit	2
+Dalusan	2
+Damalasak	2
+Damires	2
+Damolog	2
+Dampigan	2
+Dampulan	2
+Dang-o	2
+Dangas	2
+Dangdangla	2
+Dango	2
+Danicop	2
+Danlagan	2
+Danlugan	2
+Dansuli	2
+Daoangan	2
+Dapanas	2
+Dapdapan	2
+Dapi	2
+Daquitdaquit	2
+Daraga	2
+Daragan	2
+Darapidap	2
+Darat	2
+Dardarat	2
+Daro	2
+Daromawang	2
+Daruba	2
+Dasay	2
+Dasmariñas	2
+Datagan	2
+Datagon	2
+Daurao	2
+David	2
+Dawan	2
+Day-as	2
+Dayhagon	2
+De Guzman	2
+De Leon	2
+Delabayan	2
+Despujols	2
+Diamantina	2
+Diaz	2
+Dibul	2
+Dibulo	2
+Dibuluan	2
+Dicamay I	2
+Dicamay II	2
+Diduyon	2
+Diego Silang	2
+Digkilaan	2
+Dila	2
+Dilag	2
+Dilao	2
+Dilap	2
+Dilausan	2
+Dimasalang	2
+Dimasari	2
+Dimayon	2
+Dinahican	2
+Dinaig	2
+Dinas	2
+Dinganen	2
+Dingin	2
+Dingli	2
+Dinipan	2
+Diot	2
+Dipacamo	2
+Dirdirig	2
+Dirita	2
+Disum	2
+Dit-ana	2
+Divinubo	2
+Docol	2
+Dola	2
+Dolos	2
+Domingo	2
+Domorog	2
+Don Pedro	2
+Doña Aurora	2
+Doña Imelda	2
+Doña Josefa	2
+Doña Remedios Trinidad	2
+Donghol	2
+Donsol	2
+Dorog	2
+Dorol	2
+Dugadog	2
+Dugayung	2
+Duguan	2
+Dukay	2
+Dulacac	2
+Dulisan	2
+Duljugan	2
+Dullan	2
+Dumalneg	2
+Dumawing	2
+Duminit	2
+Dumlog	2
+Dumog	2
+Dumpay	2
+Dungan	2
+Dunguan	2
+Dupac	2
+Duran	2
+Durugao	2
+Dusoc	2
+Duyan Duyan	2
+Duyay	2
+Egam	2
+El Salvador	2
+Elangilog	2
+Eli	2
+Enriqueta	2
+Entablado	2
+Escalante	2
+Escoda	2
+Estacion	2
+Esteban	2
+Feria	2
+Flordeliz	2
+Florida Blanca	2
+Fuga Island	2
+Fugu Sur	2
+Funda	2
+Fundacion	2
+Gaas	2
+Gabaldon	2
+Gabas	2
+Gabihan	2
+Gabor	2
+Gadeng	2
+Gadgad	2
+Gagabutan	2
+Gahit	2
+Galigayanan	2
+Gama	2
+Gamao	2
+Gamay	2
+Gambang	2
+Gamot	2
+Gamut	2
+Gandaan	2
+Ganzon	2
+Gapo	2
+Gapon	2
+Gargato	2
+Garitan	2
+Garreta	2
+Gasdo	2
+Gatang	2
+Gate	2
+Gawa	2
+Gawaan	2
+Gawaygaway	2
+Gayad	2
+Gayamat	2
+Giparayan	2
+Golon	2
+Gotosan	2
+Green Village	2
+Grullo	2
+Gubang	2
+Gueguesangen	2
+Guesang	2
+Gueset	2
+Guia	2
+Guiamon	2
+Guianga	2
+Guibuangan	2
+Guilig	2
+Guilingan	2
+Guilisan	2
+Guilong	2
+Guimbal	2
+Guin-on	2
+Guinabang	2
+Guinabon	2
+Guinacot	2
+Guinauayan	2
+Guinaygayan	2
+Guindahap	2
+Guingawan	2
+Guinguinabang	2
+Guinhalinan	2
+Guinihon	2
+Guinob-an	2
+Guinsay	2
+Guiset	2
+Guisguis	2
+Guising	2
+Guiso	2
+Guitis	2
+Gulac	2
+Gulangan	2
+Guling	2
+Gumaca	2
+Gumaus	2
+Gumian	2
+Gumihan	2
+Gun-ob	2
+Gundaway	2
+Guruyan	2
+Gussadan	2
+Habana	2
+Hacienda Alegria	2
+Hacienda Buenavista	2
+Hacienda Calasa	2
+Hacienda Canlaon	2
+Hacienda Carmen	2
+Hacienda Concepcion	2
+Hacienda Conchita	2
+Hacienda D Medina	2
+Hacienda Esperanza	2
+Hacienda Nato	2
+Hacienda Pacita	2
+Hacienda Pakita	2
+Hacienda Pilar	2
+Hacienda San Agustin	2
+Hacienda San Luis	2
+Hacienda San Roque	2
+Hacienda Santa Filomena	2
+Hacienda Soledad	2
+Hacienda Talave	2
+Hacienda Teresita	2
+Halag	2
+Halapitan	2
+Halayhayin	2
+Halog	2
+Hamoraon	2
+Hampason	2
+Hanagdong	2
+Hantag	2
+Haponan	2
+Harasan	2
+Haway	2
+Hayupag	2
+He-mo-og	2
+Hermosa	2
+Hernandez	2
+Hilotongan	2
+Hilusig	2
+Himakilo	2
+Himaya	2
+Himogaan	2
+Hinabuyan	2
+Hindug	2
+Hitapi-an	2
+Holiday Homes	2
+Holy Friday	2
+Hubang	2
+Hubay	2
+Hukay	2
+Humagikhik	2
+Humayhumay	2
+Hunan	2
+Ibabang	2
+Ibaogan	2
+Ibarra	2
+Ibayo	2
+Idong	2
+Igbalogo	2
+Igbangto	2
+Igbanig	2
+Igcaratong	2
+Igdagmay	2
+Igdalaguit	2
+Igdarapdap	2
+Igpajo	2
+Igpalge	2
+Igpit	2
+Ilagan	2
+Ilang	2
+Ilang-Ilog	2
+Ilaud	2
+Ilawod	2
+Ilayang Bukal	2
+Ilayang Burgos	2
+Ilayang San Roque	2
+Imbiao	2
+Impalutao	2
+Improgo	2
+Imus	2
+Inaclagan	2
+Inalaran	2
+Inalusan	2
+Inanama	2
+Inas	2
+Inayapan	2
+Indangan	2
+Indulang	2
+Inerangan	2
+Infanta	2
+Ingas	2
+Interior	2
+Intramuros	2
+Inug-Ug	2
+Iprog	2
+Iraga	2
+Iraya	2
+Isabang	2
+Isabela	2
+Isian	2
+Isio	2
+Isit	2
+Isulan	2
+Itulan	2
+Iwahig	2
+Iyam	2
+Jaena	2
+Jagbuaya	2
+Jagnaan	2
+Jalaud	2
+Jalubon	2
+Jamog	2
+Jandig	2
+Janipa-an	2
+Japitan	2
+Jardin	2
+Jaro	2
+Jawili	2
+Jibao-an	2
+Jimenez	2
+Johnson	2
+Jordan	2
+Josefina	2
+Jubay	2
+Jugan	2
+Juliana	2
+Junction	2
+Jurisdiction	2
+Kabadiangan	2
+Kabalaasnan	2
+Kabalantian	2
+Kabangahan	2
+Kabasagan	2
+Kabasaran	2
+Kabatbatan	2
+Kabayan	2
+Kabayawa	2
+Kabayugan	2
+Kabolo-an	2
+Kabugao	2
+Kabuling	2
+Kabungahan	2
+Kabuyao	2
+Kadajunan	2
+Kagawasan	2
+Kagay	2
+Kaingin	2
+Kaipitan	2
+Kakao	2
+Kalabasita	2
+Kalabayan	2
+Kalandagan	2
+Kalawaan	2
+Kalayaan	2
+Kalibo	2
+Kalumpang	2
+Kalumpit	2
+Kamaligan	2
+Kamansig	2
+Kamasi	2
+Kanang	2
+Kanatan	2
+Kanaway	2
+Kandabong	2
+Kandiis	2
+Kangwayan	2
+Kaniat	2
+Kanipaan	2
+Kapangian	2
+Kapilihan	2
+Kapimpilan	2
+Kapimpiran	2
+Kasili	2
+Katagbakan	2
+Kati	2
+Katian	2
+Katingan	2
+Katipuan	2
+Katitisan	2
+Katudan	2
+Kawasan	2
+Kay Bunga	2
+Kayab	2
+Kayapa	2
+Kayapa Proper West	2
+Ki Buaya	2
+Kibangay	2
+Kibatang	2
+Kiblawan	2
+Kibudtungan	2
+Kibulan	2
+Kibureau	2
+Kiga	2
+Kikilo	2
+Kilada	2
+Kilib	2
+Kilingan	2
+Kilong	2
+Kimaya	2
+Kinagatan	2
+Kinagbaan	2
+Kinale	2
+Kinalumsan	2
+Kinamaligan	2
+Kinaman	2
+Kinitaan	2
+Kipalbig	2
+Kiskis	2
+Kitago	2
+Kodia	2
+Kongkong	2
+Koronadal	2
+Kulambugan	2
+Kulian	2
+La Dicha	2
+La Mesa	2
+La Torre	2
+Labaan	2
+Labangan	2
+Labangon	2
+Labas	2
+Labasan	2
+Labi	2
+Labigan	2
+Labong	2
+Laboon	2
+Labot	2
+Labu	2
+Labuan	2
+Labuin	2
+Labunan	2
+Labut	2
+Lacab	2
+Lacadon	2
+Lacmit	2
+Lacong	2
+Ladiya	2
+Lagalag	2
+Lagasit	2
+Lagon	2
+Lagtangon	2
+Laguan	2
+Laguilayan	2
+Laguio	2
+Laguitan	2
+Lagum	2
+Lagunao	2
+Lahing	2
+Lahing-Lahing	2
+Lahong	2
+Laiban	2
+Laitan	2
+Lajong	2
+Lala	2
+Lalab	2
+Lalaguna	2
+Lalangan	2
+Lalat	2
+Lalayan	2
+Lalo	2
+Lalud	2
+Lamacan	2
+Lamba	2
+Lambayan	2
+Lambayong	2
+Lambes	2
+Lambunao	2
+Lamin	2
+Lamon	2
+Lampaday	2
+Lampayang	2
+Lamunan	2
+Langaray	2
+Langatian	2
+Langayen	2
+Langca	2
+Langkaan	2
+Langub	2
+Lañgub	2
+Lanting	2
+Lantong Babag	2
+Laoac	2
+Laoang	2
+Laon	2
+Laparan	2
+Lapas	2
+Lapaz	2
+Lapdok	2
+Lapirawan	2
+Lapnag	2
+Lapogan	2
+Lapsaon	2
+Lapting	2
+Laram	2
+Larapan	2
+Las Navas	2
+Las Piñas	2
+Las-ud	2
+Lasong	2
+Lataban	2
+Latabon	2
+Latanauan	2
+Latang	2
+Latap	2
+Latasan	2
+Lati	2
+Latian	2
+Lattu	2
+Latuan	2
+Laud	2
+Laug	2
+Lauis	2
+Lawaguin	2
+Lawan	2
+Lawang Bato	2
+Layog-Bato	2
+Layugan	2
+Lazareto	2
+Lebak	2
+Lebueg	2
+Leon	2
+Liangan	2
+Lias	2
+Libacao	2
+Libagong	2
+Liban	2
+Libang	2
+Libaong	2
+Libay	2
+Libi	2
+Libog	2
+Libon	2
+Liboron	2
+Libungan	2
+Libunganan	2
+Liburon	2
+Libutad	2
+Lico-an	2
+Licolico	2
+Licup	2
+Lidong	2
+Ligao	2
+Ligsay	2
+Ligtong	2
+Ligue	2
+Lilit	2
+Limasawa	2
+Limban	2
+Limbuhan	2
+Limbutan	2
+Limmansangan	2
+Limonan	2
+Limot	2
+Linaban	2
+Linayuan	2
+Lincod	2
+Linek	2
+Lingaling	2
+Lingating	2
+Lingayen	2
+Lingayon	2
+Lingey	2
+Linmansangan	2
+Linoc	2
+Lioac	2
+Lipit	2
+Lisub	2
+Litapan	2
+Litlit	2
+Liwan	2
+Llano	2
+Loakan	2
+Loblob	2
+Lobogon	2
+Loca	2
+Logucan	2
+Loma	2
+Loma de Gato	2
+Lombay	2
+Lombo	2
+Longa	2
+Longon	2
+Lonoc	2
+Lourdes Subdivision	2
+Luauan	2
+Luba	2
+Lubing	2
+Lublub	2
+Lucay	2
+Lucbuan	2
+Lucena	2
+Lucero	2
+Ludiong	2
+Luglug	2
+Luguilo	2
+Luisiana	2
+Luka	2
+Lumang	2
+Lumangan	2
+Lumangog	2
+Lumbay	2
+Lumbayao	2
+Lumbong	2
+Lumil	2
+Lumintao	2
+Lumit	2
+Lunday	2
+Luneta	2
+Lungan	2
+Lungsodaan	2
+Lungsoddaan	2
+Luntal	2
+Lupac	2
+Lupagan	2
+Luparan	2
+Lurad	2
+Lurugan	2
+Lusaran	2
+Lussoc	2
+Lutac	2
+Lutaw	2
+Lutayan	2
+Lutiman	2
+Luwang	2
+Ma-a	2
+Ma-asin	2
+Maac	2
+Maahas	2
+Maalat	2
+Maanahao	2
+Maao	2
+Maaslum	2
+Mababanaba	2
+Mabalor	2
+Mabangcal	2
+Mabanglit	2
+Mabantao	2
+Mabar	2
+Mabatang	2
+Mabatano	2
+Mabbayad	2
+Mabiga	2
+Mabilo	2
+Mabilog	2
+Mabuli	2
+Mabulitec	2
+Macaas	2
+Macabit	2
+Macabug	2
+Macalang	2
+Macalaya	2
+Macalbang	2
+Macalpe	2
+Macanig	2
+Macapagal Village	2
+Macarang	2
+MacArthur	2
+Macate	2
+Macatel	2
+Macatol	2
+Macawayan	2
+Macogon	2
+Macopa	2
+Maculnet	2
+Madamba	2
+Madaya	2
+Madaymen	2
+Madiladig	2
+Madridejos	2
+Mag	2
+Mag-aso	2
+Magabe	2
+Magading	2
+Magahis	2
+Magalolong	2
+Maganding	2
+Magang	2
+Magapit	2
+Magarang	2
+Magasawang Pulo	2
+Magaso	2
+Magasu	2
+Magat	2
+Magay	2
+Magbagacay	2
+Magdiwang	2
+Magdua	2
+Maggok	2
+Maglahos	2
+Magluga	2
+Magno	2
+Magon	2
+Magoon	2
+Magsanga	2
+Magtaking	2
+Magtang	2
+Magtangtang	2
+Magting	2
+Magugba	2
+Maguing	2
+Magulibas	2
+Magulon	2
+Mahabang Buhangin	2
+Mahabang Dahilig	2
+Mahala	2
+Mahalo	2
+Mahipon	2
+Maibu	2
+Maigang	2
+Mailhi	2
+Maindang	2
+Mainguit	2
+Maitim	2
+Maitom	2
+Majaba	2
+Majon	2
+Malabiga	2
+Malabnig	2
+Malabon	2
+Malag-it	2
+Malaguit	2
+Malaiba	2
+Malaking Pulo	2
+Malalam	2
+Malalay	2
+Malalinta	2
+Malama	2
+Malambago	2
+Malamote	2
+Malamsit	2
+Malanay	2
+Malandag	2
+Malangas	2
+Malansad	2
+Malapad	2
+Malapandan	2
+Malapay	2
+Malasila	2
+Malatapay	2
+Malate	2
+Malatimon	2
+Malatorre	2
+Malawig	2
+Malayas	2
+Malcampo	2
+Mali-ao	2
+Malibay	2
+Malibong	2
+Malico	2
+Maligayligay	2
+Malighog	2
+Maliit	2
+Malingao	2
+Malingeb	2
+Malinis	2
+Malita	2
+Malitbog Centro	2
+Malitubog	2
+Maliwaliw	2
+Mallalatang Grande	2
+Malocloc	2
+Malocoan	2
+Maluanluan	2
+Malublub	2
+Maluid	2
+Malusac	2
+Malusak	2
+Malvar	2
+Mamakao	2
+Mamala	2
+Mamara	2
+Mamba	2
+Mambatangan	2
+Mambato	2
+Mambayao	2
+Mambucal	2
+Mambusao	2
+Mampahubog	2
+Mana	2
+Mana-ulan	2
+Manabo	2
+Manabuan	2
+Manacsac	2
+Managase	2
+Manaling	2
+Manalo	2
+Mananao	2
+Mananum	2
+Manaois	2
+Manapnap	2
+Manaring	2
+Manaripay	2
+Manarog	2
+Manato	2
+Manaul	2
+Manay	2
+Manaybanay	2
+Mandaing	2
+Mandalupang	2
+Mandaluyong	2
+Mandao	2
+Mandaon	2
+Mandaya Clearing's	2
+Manding	2
+Mandog	2
+Mandu-awac	2
+Mangay	2
+Mangayang	2
+Mangcalay	2
+Mangilala	2
+Mango	2
+Mangpong	2
+Manhulugin	2
+Manila	2
+Manilao	2
+Maning	2
+Maningcol	2
+Maninijon	2
+Manlapay	2
+Manlot	2
+Manloy	2
+Manotok Subdivision	2
+Mansalanao	2
+Mansilingan	2
+Mantalongon	2
+Manup	2
+Mao	2
+Mapalasan	2
+Mapandan	2
+Mapangpang	2
+Mapaso	2
+Mapia	2
+Mapulang Lupa	2
+Maputi	2
+Mara	2
+Marabut	2
+Maragat	2
+Maraguit	2
+Maramag	2
+Maramatay	2
+Maranding	2
+Maranlig	2
+Marantao	2
+Marao	2
+Marapong	2
+Marasbaras	2
+Marayag	2
+Marbel	2
+Marber	2
+Marcos Village	2
+Margaay	2
+Margot	2
+Maria Clara	2
+Mariboyong	2
+Maridagao	2
+Marigalupa	2
+Marigondon	2
+Marilao	2
+Marimhon	2
+Maringian	2
+Mariveles	2
+Maruing	2
+Marulas	2
+Masa	2
+Masaba	2
+Masablang	2
+Masambong	2
+Masiit	2
+Masilang	2
+Masinloc	2
+Masisi	2
+Mata	2
+Mataas Na Bayan	2
+Matabao	2
+Matacong	2
+Matalaba	2
+Matanda	2
+Matapay	2
+Matara	2
+Mataya	2
+Matiao	2
+Matobato	2
+Matuug	2
+Maubo	2
+Maugbi	2
+Maulawin	2
+Maulayan	2
+Mausuagon	2
+Mauswagon	2
+Mawodpawod	2
+May Cruz	2
+May-iba	2
+May-it	2
+Mayacabac	2
+Mayamot	2
+Mayao	2
+Maybunga	2
+Mayo	2
+Mayon	2
+Mayuga	2
+McArthur	2
+Melilia	2
+Menganilla	2
+Mercado	2
+Merida	2
+Meta	2
+Miabas	2
+Mianay	2
+Midsalip	2
+Midsayap	2
+Milagros	2
+Milan	2
+Militar	2
+Minabay	2
+Minas	2
+Minata	2
+Minos	2
+Mintac	2
+Minuri	2
+Minus	2
+Minuyan	2
+Misibis	2
+Mission	2
+Mitla	2
+Mogos	2
+Molawin	2
+Molino	2
+Molobolo	2
+Molom	2
+Molopolo	2
+Monato	2
+Monching	2
+Mongajay	2
+Mongpong	2
+Montalban	2
+Montaña	2
+Monte Hermoso	2
+Montealegre	2
+Montebello	2
+Monterey	2
+Montilla	2
+Montinola	2
+Moog	2
+Moriones	2
+Moroboro	2
+Morocborocan	2
+Moto	2
+Mozon	2
+Muladbucad	2
+Mulay	2
+Muñoz	2
+Murcia	2
+Muta	2
+Nabacaan	2
+Nabang	2
+Nabasagan	2
+Nabitasan	2
+Nabnuang	2
+Nabotas	2
+Nabua	2
+Nabuag	2
+Nabuccayan	2
+Nabulao	2
+Nacatan	2
+Naganacan	2
+Nagattatan	2
+Nagbangi	2
+Nagbukel	2
+Nagcuartelan	2
+Naglayaan	2
+Nagsabaran Norte	2
+Nagsangalan	2
+Naguilayan	2
+Naguma	2
+Nagyubuyuban	2
+Nahulid	2
+Nalbang	2
+Nalbugan	2
+Nalingan	2
+Naliwatan	2
+Nalsian	2
+Nalumsan	2
+Nalundan	2
+Nama	2
+Namacalan	2
+Namanoc	2
+Namantao	2
+Naming	2
+Nampicuan	2
+Nanagto	2
+Nanaka	2
+Nancalobasaan	2
+Nancapian	2
+Nantangalan	2
+Nanyo	2
+Napaliong	2
+Napanod	2
+Narirong	2
+Narvacan	2
+Nasipit	2
+Natimbunan	2
+Natubungan	2
+Nauhan	2
+Naulo	2
+Naupa	2
+Navalas	2
+Navarro	2
+Naya	2
+Nayom	2
+Nayon	2
+Nazareno	2
+Nazareth	2
+New Cebu	2
+New Pangasinan	2
+New Visayas	2
+Ngalan	2
+Nilombot	2
+Niog	2
+Niogan	2
+Nipaan	2
+Nita	2
+Nonok Norte	2
+Northern Poblacion	2
+Novaliches	2
+Nueva Esperanza	2
+Nueva Fuerza	2
+Nuevo	2
+Nunang	2
+Nuro	2
+O'Donnell	2
+Oac	2
+Obong	2
+Olera	2
+Olingan	2
+Olo	2
+Omalo	2
+Omauas	2
+Omio	2
+Omon	2
+Oobi	2
+Oples	2
+Opsan	2
+Oquendo	2
+Orandang	2
+Oras	2
+Oring	2
+Ormocay	2
+Oro	2
+Ortega	2
+Otoc	2
+Otol	2
+Oton	2
+Owac	2
+Oyong	2
+Paagan	2
+Pabanlag	2
+Pacang	2
+Paciano Rizal	2
+Paciencia	2
+Pacifico	2
+Pacis	2
+Padada	2
+Padan	2
+Paddaya	2
+Padeyto	2
+Padre Burgos	2
+Padre Zamora	2
+Pagala	2
+Pagalamatan	2
+Pagalongan	2
+Pagappo	2
+Pagas	2
+Pagatinan	2
+Pagatpatan	2
+Pagbabangnan	2
+Paghudlan	2
+Pagina	2
+Pagogo	2
+Pagsa	2
+Pagsang-an	2
+Pagsangan	2
+Pagsanghan	2
+Pagsanhan	2
+Pagsilaan	2
+Pagudpud	2
+Pahug	2
+Pakak	2
+Pakiad	2
+Pakias	2
+Pako	2
+Pala-o	2
+Palaca	2
+Palacpalac	2
+Palag	2
+Palanan	2
+Palang	2
+Palapag	2
+Palapala	2
+Palasian	2
+Palate	2
+Palawig	2
+Palay	2
+Palayag	2
+Palayan	2
+Paldit	2
+Palestina	2
+Palhi	2
+Palico	2
+Paligawan	2
+Paligui	2
+Palimbang	2
+Pallagao	2
+Pallas	2
+Palongpong	2
+Palpalan	2
+Paltoc	2
+Palua	2
+Palutan	2
+Pamalang	2
+Pamaranum	2
+Pamasan	2
+Pamonacan	2
+Panaga	2
+Panalian	2
+Pananag	2
+Panao	2
+Panaon	2
+Panasan	2
+Panatan	2
+Panaugan	2
+Pandac	2
+Pandaitan	2
+Pandanon	2
+Pang Pang	2
+Pang-Ot	2
+Panganiban	2
+Pangapisan	2
+Pangasaan	2
+Pangasang	2
+Pangascasan	2
+Panghulo	2
+Pañgi	2
+Pangihawan	2
+Pangul	2
+Pangyan	2
+Panian	2
+Panicijan	2
+Panicupan	2
+Paniman	2
+Paninaan	2
+Paningayan	2
+Paniongan	2
+Panipiason	2
+Panipuan	2
+Panitan	2
+Panitian	2
+Panitikan	2
+Panlinlang	2
+Panong	2
+Panoon	2
+Panoypoy	2
+Panpanan	2
+Pansipit	2
+Pansoy	2
+Pantijan No	2
+Pantukan	2
+Paoa	2
+Paotao	2
+Papallasen	2
+Papan Este	2
+Pappa	2
+Paradise	2
+Paragat	2
+Paralaya	2
+Paranan	2
+Parang-Parang	2
+Parao	2
+Paraoir	2
+Paratong Norte	2
+Paratong Sur	2
+Parayao	2
+Pari-ir	2
+Parina	2
+Parklane Subdivision	2
+Pasian	2
+Pasnaan	2
+Pasolo	2
+Pasong Manga	2
+Passi	2
+Pata	2
+Patad	2
+Patang	2
+Patao	2
+Patay	2
+Patihan	2
+Patok	2
+Patpata	2
+Patucannay	2
+Patulangon	2
+Paulba	2
+Paule	2
+Pawak	2
+Pawic	2
+Payabon	2
+Payac	2
+Payag	2
+Payar	2
+Payas	2
+Payasan	2
+Payawan	2
+Paye	2
+Payompon	2
+Payong	2
+Payte	2
+Peagkalanan	2
+Pedtad	2
+Permon	2
+Pescadores	2
+Piapi	2
+Pias Sur	2
+Picaleon	2
+Pico	2
+Pide	2
+Pidtimbasan	2
+Pilapila	2
+Pinagcurusan	2
+Pinagkaisahan	2
+Pinaglabanan	2
+Pinaglapatan	2
+Pinagrealan	2
+Pinalacan	2
+Pinamalatican	2
+Pinamalayan	2
+Pinamorotan	2
+Pinamughaan	2
+Pinanaan	2
+Pinansalan	2
+Pinantao	2
+Pinatuad	2
+Pinay	2
+Pineda	2
+Pingaping	2
+Pinggan	2
+Pinit	2
+Pintong Gubat	2
+Pisa	2
+Pisaan	2
+Pisan	2
+Pisang	2
+Pisong	2
+Pitisan	2
+Planas	2
+Planza	2
+Platero	2
+Poblacion I	2
+Poblacion III	2
+Poblacion North	2
+Poblacion Oriental	2
+Poblacion South	2
+Polag	2
+Polilio	2
+Polloc	2
+Polog	2
+Polot	2
+Pong-ol	2
+Pongon	2
+Pongtod	2
+Ponso	2
+Pontevedra	2
+Porac	2
+Porporiket	2
+Poti	2
+Potoson	2
+Pototan	2
+Prado	2
+Prensa	2
+Presentar	2
+President Roxas	2
+Primicias	2
+Princesa	2
+Progreso Este	2
+Progressive Village Third	2
+Project	2
+Prosperidad	2
+Puan	2
+Pudao	2
+Pudtol	2
+Pugaan	2
+Pugad	2
+Pugay	2
+Pugon	2
+Pulangyuta	2
+Pulong Bahay	2
+Pulong Bayabas	2
+Pulong Gubat	2
+Punao	2
+Pungo	2
+Puntod	2
+Pura	2
+Purag	2
+Purok	2
+Pusoy	2
+Puti	2
+Putian	2
+Putiao	2
+Puting Bato	2
+Puting Buhangin	2
+Putingbato	2
+Putingkahoy	2
+Putlod	2
+Putsan	2
+Puyao	2
+Puzon	2
+Quiasan	2
+Quibal	2
+Quibit-Quibit	2
+Quinalangay Viejo	2
+Quinapon-an	2
+Quintarong	2
+Quiput	2
+Ragas	2
+Ragayan	2
+Ramon	2
+Ramon Magsaysay	2
+Rang-ay	2
+Raniag	2
+Rebe	2
+Recudo	2
+Reina Regente	2
+Reserva	2
+Ribsuan	2
+Ricarte	2
+Riray	2
+Rissing	2
+Rivera	2
+Rizaluna	2
+Rombang	2
+Romblon	2
+Ronda	2
+Rosales	2
+Rosariohan	2
+Rosarriohan	2
+Rumidas	2
+Saban	2
+Sablan	2
+Sablay	2
+Sacdalan	2
+Sacpil	2
+Sadsalan	2
+Sagahan	2
+Sagat	2
+Sagayaden	2
+Sagneb	2
+Sagpatan	2
+Sagsagat	2
+Sagua	2
+Sagubo	2
+Sagunto	2
+Saimsim	2
+Salagusog	2
+Salamague	2
+Salaman	2
+Salavante	2
+Salbac	2
+Salegseg	2
+Saleng	2
+Salgan	2
+Salimpono	2
+Salindeg	2
+Salindingan	2
+Salogon	2
+Salpad	2
+Salumague	2
+Sam-ang	2
+Sama	2
+Samat	2
+Samboan	2
+Samoki	2
+Samon	2
+Samoyao	2
+Sampaguita Village	2
+Sampalukan	2
+Samuyao	2
+San Agustin Norte	2
+San Agustin Sur	2
+San Ambrocio	2
+San Andres Segundo	2
+San Angel	2
+San Anton	2
+San Bernardino	2
+San Casimiro	2
+San Eduardo	2
+San Eugenio	2
+San Felix	2
+San Florentino	2
+San Geronimo	2
+San Isidro Norte	2
+San Juaquin	2
+San Marcelo	2
+San Nicolas Primero	2
+San Nicolas Segundo	2
+San Pedro East	2
+San Pedro West	2
+San Ricardo	2
+San Silvestre	2
+San Vicente Norte	2
+San Vicente Sur	2
+San Victor	2
+Sandalan	2
+Sanga	2
+Sangandaan	2
+Sangil	2
+Sangputan	2
+Sanlibo	2
+Santa	2
+Santa Brigida	2
+Santa Catalina Norte	2
+Santa Cecilia Subdivision	2
+Santa Maria Subdivision	2
+Santa Rosario	2
+Santa Tereza	2
+Santa Tomas	2
+Santa Veronica	2
+Santa Victoria	2
+Santiago Norte	2
+Santiago Sur	2
+Santicon	2
+Santo	2
+Santo Niño Segundo	2
+Santo Rosario Hacienda	2
+Santo Torribio	2
+Santolan	2
+Santos	2
+Saoang	2
+Sapalan	2
+Sapang Bato	2
+Sapang Kawayan	2
+Sapang Palay	2
+Sapang Putik	2
+Sapao	2
+Sapid	2
+Sapilang	2
+Sara	2
+Sarakan	2
+Saray	2
+Sasa	2
+Sasu	2
+Saub	2
+Saud	2
+Saugan	2
+Sayugan	2
+Sebaste	2
+Seres	2
+Sermon	2
+Servilla	2
+Siabon	2
+Sianib	2
+Siay	2
+Sibago	2
+Sibalat	2
+Sibawan	2
+Sibay	2
+Sibonga	2
+Sibuguey	2
+Sibutu	2
+Sicaba	2
+Sideg	2
+Sidiran	2
+Sierra	2
+Sierra Bullones	2
+Sigangao	2
+Siguinon	2
+Siguiran	2
+Sikitan	2
+Silanga	2
+Silong	2
+Siloy	2
+Simbahan	2
+Simminoblan	2
+Simuay	2
+Sinalang	2
+Sinamar	2
+Sinarta	2
+Sinayawan	2
+Singay	2
+Sinongtan	2
+Sinturisan	2
+Sinuagan	2
+Sinubong	2
+Sinuknipan	2
+Sinunug	2
+Sipitan	2
+Siramag	2
+Sirao	2
+Sisikan	2
+Sisiman	2
+So-ong	2
+Socong	2
+Soloc	2
+Songculan	2
+Soong	2
+Sorosoro	2
+Subay	2
+Subol	2
+Subukin	2
+Sudmon	2
+Sugcong	2
+Sugut	2
+Suhi	2
+Suhoton	2
+Sulit	2
+Sulong	2
+Sulpa	2
+Sulucan	2
+Sulvec	2
+Sumadel	2
+Sumandig	2
+Sumbang	2
+Sumgar	2
+Sumilang	2
+Sumisip	2
+Sungay	2
+Sungko	2
+Supa	2
+Suplang	2
+Supu	2
+Suquib	2
+Surabay	2
+Suwaon	2
+Taba-Ao	2
+Tabas	2
+Tabay	2
+Tabayon	2
+Tabio	2
+Tablac	2
+Tablas	2
+Tabod	2
+Tabonac	2
+Tabong	2
+Tabonoc	2
+Tabonok	2
+Tabu	2
+Tabuc	2
+Tabuc-suba	2
+Tabud	2
+Tabug	2
+Tabun	2
+Tabunok	2
+Tacloban	2
+Taculing	2
+Tadao	2
+Tagac	2
+Tagalag	2
+Tagalog	2
+Taganito	2
+Tagaslian	2
+Tagbacan	2
+Tagbayani	2
+Tagbayog	2
+Tagbitan-ag	2
+Tagbon	2
+Tagbongabong	2
+Tagda	2
+Tagdogan	2
+Taghuyan	2
+Tagibo	2
+Tagongtong	2
+Tagpo	2
+Tagpupungan	2
+Tagsing	2
+Tagudin	2
+Taguibo	2
+Taguisian	2
+Tagum	2
+Tagumbao	2
+Tagusao	2
+Taison	2
+Takipan	2
+Takub	2
+Talaan	2
+Talabaan	2
+Talacogon	2
+Talaib	2
+Talangan	2
+Talangnan	2
+Talao	2
+Talas	2
+Talauban	2
+Talawan	2
+Talay	2
+Talibon	2
+Talibong	2
+Talictic	2
+Talik	2
+Talim	2
+Talinga	2
+Talingting	2
+Talipan	2
+Talipapa	2
+Tallungan	2
+Talongon	2
+Taloot	2
+Talotog	2
+Talub	2
+Talugtug	2
+Tamang	2
+Tamangan	2
+Tamao	2
+Tamarindo	2
+Tamayo	2
+Tamayoc	2
+Tambagan	2
+Tambal	2
+Tambalan	2
+Tambanan	2
+Tambilagao	2
+Tambol	2
+Tambongon	2
+Tamboron	2
+Tambu	2
+Tambu-an	2
+Tambugan	2
+Tambuli	2
+Tambunac	2
+Tambungon	2
+Tamdagan	2
+Tamiao	2
+Tampac Segundo y Tercero	2
+Tampi	2
+Tampocon	2
+Tampos	2
+Tamsi	2
+Tan-agan	2
+Tan-awan	2
+Tanagan	2
+Tancalan	2
+Tanday	2
+Tando	2
+Tandoc	2
+Tandubas	2
+Tanduyan	2
+Tangcal	2
+Tangcaran	2
+Tanghas	2
+Tangila	2
+Tangkulan	2
+Tanglag	2
+Tangob	2
+Tangohay	2
+Tankulan	2
+Tansa	2
+Tanuel	2
+Taoang	2
+Taog	2
+Tapal	2
+Tapayan	2
+Tapel	2
+Tapia	2
+Tapican	2
+Taping	2
+Taplan	2
+Tapong	2
+Tappa	2
+Tappo	2
+Taptap	2
+Tapul	2
+Tara-tara	2
+Tarabucan	2
+Tarbeng	2
+Tarece	2
+Tariken	2
+Tarog	2
+Tartaro	2
+Tarum	2
+Taslan	2
+Tatarikan	2
+Taug	2
+Taupon	2
+Tawagan	2
+Tawan-Tawan	2
+Tawangan	2
+Tawantawan	2
+Tawiran	2
+Tawog	2
+Tay-ac	2
+Tayong	2
+Tayud	2
+Tebag	2
+Tenejero	2
+Teresa	2
+Ternate	2
+Tibi	2
+Tibo	2
+Ticad	2
+Tierra Nevada	2
+Tigbi	2
+Tigman	2
+Tignoan	2
+Tigpalas	2
+Tigpalay	2
+Tigum	2
+Timago	2
+Timba	2
+Timbao	2
+Timbaon	2
+Timbayan	2
+Timonan	2
+Tinajero	2
+Tinalmud	2
+Tinambacan	2
+Tinambulan	2
+Tinapian	2
+Tinaytayan	2
+Tincupon	2
+Tindalo	2
+Tinibgan	2
+Tinigban	2
+Tinoc	2
+Tinongan	2
+Tinoyuan	2
+Tinubdan	2
+Tinuran	2
+Tipan	2
+Tipaz	2
+Tipon	2
+Tiris	2
+Titay	2
+Tobigon	2
+Toco	2
+Tococ	2
+Tocok	2
+Toctoc	2
+Tolingon	2
+Tolong	2
+Tominauog	2
+Tominhao	2
+Tonggo	2
+Tongotong	2
+Tono	2
+Toog	2
+Tookan	2
+Toon	2
+Topaz	2
+Topdak	2
+Tortosa	2
+Trapiche	2
+Trenchera	2
+Triunfo	2
+Tual	2
+Tuao	2
+Tubac	2
+Tubajon	2
+Tubalan	2
+Tuban	2
+Tubao	2
+Tubaran	2
+Tubig Sallang	2
+Tubig Sua	2
+Tubig-Katian	2
+Tubli	2
+Tuboc	2
+Tubol	2
+Tubongan	2
+Tuboy	2
+Tucalan	2
+Tucucan	2
+Tue	2
+Tugar	2
+Tugaya	2
+Tugbungan	2
+Tuguegarao	2
+Tuguib	2
+Tukanadilas	2
+Tuktuk	2
+Tuktukan	2
+Tula	2
+Tulan	2
+Tuliahan	2
+Tulling	2
+Tulo	2
+Tumaras	2
+Tumbao	2
+Tuna	2
+Tungal	2
+Tungel	2
+Tunggol	2
+Tuod	2
+Tup-on	2
+Tupa	2
+Tupang	2
+Tuplac	2
+Turac	2
+Tuyan	2
+Tuyangan	2
+Uba	2
+Ubang	2
+Ubay	2
+Ubian	2
+Ubo	2
+Ubungan	2
+Ugad	2
+Uja	2
+Ulab	2
+Uldugan	2
+Umilig	2
+Umingan	2
+Upian	2
+Urayong	2
+Urbistondo	2
+Utud	2
+Uyong	2
+Valladolid	2
+Vargas	2
+Victorias	2
+Villa Amparo	2
+Villa Concepcion	2
+Villa Cruz	2
+Villa Fuerte	2
+Villa Garcia	2
+Villa Mercedes	2
+Villa Paz	2
+Villa Remedios	2
+Villa Rey	2
+Villa Rose	2
+Villa Santos	2
+Villa Teresita	2
+Villa Verde	2
+Villa Victoria	2
+Villadolid	2
+Villafuerte	2
+Villamor	2
+Villapaz	2
+Villar	2
+Villareal	2
+Villazar	2
+Villegas	2
+Virginia	2
+Visita Alegre	2
+Vista Verde	2
+Vista Verde Executive Village	2
+Waga	2
+Wagas	2
+Waig	2
+Wakat	2
+Walang	2
+Wangal	2
+Wao	2
+Wawang	2
+Wenceslao	2
+Western Poblacion	2
+Wilson	2
+Wright	2
+Yabo	2
+Yapo	2
+Yating	2
+Yauan	2
+Ylaya	2
+Yucos	2
+Zamboanga	2
+Zapang	2
+Zapat	2
+Zinundungan	2
+Zona Sur	2
+Al-Barka
+Alabel
+Angat
+Angeles City
+Angono
+Apalit
+Arayat
+Asia
+Ayala Alabang
+Bacolod City
+Bacoor
+Baggabag B
+Bago City
+Bagong Pagasa
+Bagong Silangan
+Bah-Bah
+Balamban
+Balayan
+Balulang
+Bangued
+Bansalan
+Batac City
+Bayawan
+Bel Air
+Bignay Uno
+Binangonan
+Binmaley
+Bocaue
+Bongabon
+Bongao
+Botolan
+Brookes Point
+Buhi
+Burauen
+Bustos
+Cabadbaran
+Cabagan
+Cabanatuan City
+Cabiao
+Cagayan de Oro
+Cainta
+Calaca
+Calasiao
+Calbayog City
+Candaba
+Carcar
+Castillejos
+Catanauan
+Catbalogan
+Cavite City
+Cebu City
+City of Isabela
+Concepcion Ibaba
+Cotabato
+Culion
+Daanbantayan
+Daet
+Davao
+Digos
+Dinalupihan
+Dipolog
+Don Carlos
+Dumaguete
+Dupax Del Norte
+El Nido
+Enrique B Magalona
+Gapan
+General Emilio Aguinaldo
+General Salipada K Pendatun
+General Santos
+General Trias
+Gerona
+Gingoog
+Glan
+Guiguinto
+Guihulñgan
+Guiset East
+Guyong
+Himamaylan
+Hinatuan
+Hinigaran
+Iligan
+Iligan City
+Iloilo
+Impasugong
+Inabanga
+Indang
+Iriga City
+Itogon
+Jaen
+Jagna
+Jalajala
+Jetafe
+Kalamansig
+Kidapawan
+La Carlota
+La Castellana
+Lake Sebu
+Lapu-Lapu City
+Limay
+Lipa City
+Lubao
+Lupon
+Mabalacat City
+Maco
+Magalang
+Magugpo Poblacion
+Majayjay
+Makati City
+Malapatan
+Malaybalay
+Malilipot
+Malolos
+Maluñgun
+Maluso
+Mamatid
+Mamburao
+Manapla
+Mandaluyong City
+Mandaue City
+Mangaldan
+Manibaug Pasig
+Manolo Fortich
+Mansalay
+Mantampay
+Mapun
+Maragondon
+Marawi City
+Mariano
+Marikina City
+Masantol
+Masbate
+Mendez-Nuñez
+Mexico
+Meycauayan
+Minglanilla
+Monkayo
+Muntinlupa
+Muricay
+Nagcarlan
+Naic
+Nasugbu
+NIA Valencia
+Norala
+Norzagaray
+Noveleta
+Oas
+Obando
+Olongapo
+Orani
+Orion
+Ormoc
+Oroquieta
+Ozamiz City
+Pagadian
+Pagaluñgan
+Pagbilao
+Palayan City
+Panabo
+Panalanoy
+Pandacaqui
+Pandi
+Pantubig
+Paombong
+Paranaque City
+Pasig City
+Pateros
+Patuto
+Peñaranda
+Pililla
+Pinamungahan
+Pio
+Polangui
+Polomolok
+Port Area
+Pulilan
+Pulong Santa Cruz
+Pulupandan
+Putatan
+Quezon City
+Rodriguez
+Roxas City
+San Jose del Monte
+Sanchez-Mira
+Sariaya
+Siocon
+Sipalay
+Solano
+Sultan Kudarat
+Sultan sa Barongis
+Surallah
+Surigao
+Tabaco
+Tacurong
+Tagbilaran City
+Tagbina
+Taguig
+Tandag
+Tanjay
+Tarlac City
+Tayabas
+Telabastagan
+Tunasan
+Tupi
+Upper Bicutan
+Villasis
+Vinzons
+Virac

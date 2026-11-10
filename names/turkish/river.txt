@@ -1,0 +1,4650 @@
+Değirmen Deresi	76
+Büyük	68
+Koca	57
+Kara	45
+Kuru	44
+Değirmen	33
+Ulu	26
+Aksu Deresi	20
+Deresi	19
+Deli	17
+Karasu Deresi	17
+Yayla Deresi	15
+Köy Deresi	14
+Kızıl	14
+Çatak Deresi	13
+Derin	13
+Karanlık	13
+Küçük	12
+Gök	11
+Karapınar Deresi	11
+Karasu	11
+Sulu	11
+Akçay	10
+Bağırsak Deresi	10
+Han Deresi	10
+Kavak Deresi	10
+Akçay Deresi	9
+Akdere	9
+Çiftlik Deresi	9
+Köprü Deresi	9
+Özdere	9
+Acı	8
+Ağıl Deresi	8
+Bahçe Deresi	8
+Çanakçı Deresi	8
+Domuz Deresi	8
+Güzel	8
+Kale Deresi	8
+Karasu Çayı	8
+Söğütlü	8
+Uzun	8
+Balıklı	7
+Çayır Deresi	7
+Eğri	7
+Hamam Deresi	7
+Kanlı	7
+Karaağaç Deresi	7
+Koca Deresi	7
+Taşlı	7
+Acısu Deresi	6
+Balaban Deresi	6
+Beyaz	6
+Boğaz Deresi	6
+Bulanık	6
+Çatak Çayı	6
+Değirmenözü Deresi	6
+Elma Deresi	6
+Fındıklı	6
+Gök Deresi	6
+Hisar Deresi	6
+Ilıca Deresi	6
+Kavaklı	6
+Kaynarca Deresi	6
+Kilise Deresi	6
+Kışla Deresi	6
+Sarıkaya Deresi	6
+Sazlı	6
+Şeytan Deresi	6
+Soğuksu Deresi	6
+Yağlı	6
+Ziyaret Deresi	6
+Aksu Çayı	5
+Alabalık Deresi	5
+Avşar Deresi	5
+Aydere	5
+Balık Deresi	5
+Başköy Deresi	5
+Bent Deresi	5
+Cehennem Deresi	5
+Çorak	5
+Çınarlı Deresi	5
+Elmalı	5
+Eskiköy Deresi	5
+Göksu	5
+Göksu Çayı	5
+Güney Deresi	5
+Hacılar Deresi	5
+Harabe Deresi	5
+Harami Deresi	5
+Kandil Deresi	5
+Karaboğaz Deresi	5
+Karaçay Deresi	5
+Karagöl Deresi	5
+Karakaya Deresi	5
+Karanlık Deresi	5
+Karataş Deresi	5
+Kurt Deresi	5
+Kuruçay Deresi	5
+Kırkgeçit Deresi	5
+Sarı	5
+Sorgun Deresi	5
+Yeniköy Deresi	5
+Yılanlı	5
+Akar	4
+Ana	4
+Armutlu Deresi	4
+Aşağı	4
+Ayvalı Deresi	4
+Bağ Deresi	4
+Boğaz	4
+Boz	4
+Çamlık Deresi	4
+Çeşme Deresi	4
+Çoban Deresi	4
+Değirmencik Deresi	4
+Deliktaş Deresi	4
+Doğan	4
+Göksu Deresi	4
+Göynük Çayı	4
+Horoz Deresi	4
+Höyük Deresi	4
+Ilıca	4
+İnce	4
+Kamışlı	4
+Karagöz Deresi	4
+Kel	4
+Kocaçay Deresi	4
+Koz Deresi	4
+Kuruçay	4
+Kırkpınar Deresi	4
+Kısık	4
+Kızılöz Deresi	4
+Maden Deresi	4
+Ova Çayı	4
+Ova Deresi	4
+Paşa Deresi	4
+Pınarbaşı Deresi	4
+Sarısu Çayı	4
+Soğukpınar Deresi	4
+Tatlı	4
+Terme Çayı	4
+Yeşil	4
+Ahmetbey Deresi	3
+Akpınar Deresi	3
+Aksu	3
+Aktaş Deresi	3
+Akyar Deresi	3
+Alagöz Deresi	3
+Alibey Deresi	3
+Aydın	3
+Aygır Deresi	3
+Azmak Deresi	3
+Bağırsak	3
+Beyazsu Deresi	3
+Büyükçay Deresi	3
+Çağlayan	3
+Çağlayan Deresi	3
+Çaltı Deresi	3
+Çam Deresi	3
+Çat Deresi	3
+Çatal	3
+Çatal Deresi	3
+Çayağzı Deresi	3
+Çayır	3
+Cem Deresi	3
+Çengelli	3
+Ceviz Deresi	3
+Çiçek Deresi	3
+Çoruh	3
+Çınarlı	3
+Darı Deresi	3
+Deliçay	3
+Deliçay Deresi	3
+Delice	3
+Delice Deresi	3
+Demirci Deresi	3
+Derbent Deresi	3
+Derecik Deresi	3
+Dereköy Deresi	3
+Derince Deresi	3
+Derinöz Deresi	3
+Dutlu	3
+Elmacık Deresi	3
+Geçit Deresi	3
+Gökpınar Deresi	3
+Gölcük Deresi	3
+Göller Deresi	3
+Göz Deresi	3
+Güvercinlik Deresi	3
+Hacı Deresi	3
+İncesu	3
+İncesu Deresi	3
+İncirli	3
+Işıklı	3
+Kamış Deresi	3
+Karadere	3
+Karaköy Deresi	3
+Kartal Deresi	3
+Kazan Deresi	3
+Keklik Deresi	3
+Kemer Deresi	3
+Kocaçay	3
+Kocasu Çayı	3
+Koru Deresi	3
+Köyaltı Deresi	3
+Kozluca Deresi	3
+Kulp Çayı	3
+Kunduz Deresi	3
+Kur Deresi	3
+Kura	3
+Kurt	3
+Kurtoğlu Deresi	3
+Kuz Deresi	3
+Maden Çayı	3
+Masat Deresi	3
+Mercan Deresi	3
+Meryemana Deresi	3
+Meşe Deresi	3
+Narlıca Deresi	3
+Ören Deresi	3
+Ozan Deresi	3
+Porsuk Deresi	3
+Şemdinli Çayı	3
+Şeriyan Çayı	3
+Sinekli	3
+Tatar Deresi	3
+Teke Deresi	3
+Tekke Deresi	3
+Tuzla Çayı	3
+Uğur Deresi	3
+Yakacık Deresi	3
+Acıözü	2
+Acısu	2
+Acısu Çayı	2
+Ada Deresi	2
+Ağva Deresi	2
+Ağzıkara Deresi	2
+Ağıl	2
+Ak	2
+Akarca Deresi	2
+Akkaya Deresi	2
+Aktoprak Deresi	2
+Aladağ Çayı	2
+Alan	2
+Alara Çayı	2
+Alişar Deresi	2
+Altıbağ Deresi	2
+Araç Çayı	2
+Arap	2
+Asar Deresi	2
+Asarcık Çayı	2
+Asarlık Deresi	2
+Asarsuyu	2
+Aşıran	2
+Avdere	2
+Ayancık Çayı	2
+Aydoğdu Deresi	2
+Aydınlık Çayı	2
+Ayı Deresi	2
+Aziz	2
+Bağ	2
+Bağcağız Deresi	2
+Bağlar Deresi	2
+Bağlıca Deresi	2
+Bahçecik Deresi	2
+Bahçesaray Çayı	2
+Bakır Çayı	2
+Bal Deresi	2
+Balaban Çayı	2
+Balat Deresi	2
+Balçıklı	2
+Ballığın Deresi	2
+Ballık Deresi	2
+Balık	2
+Balıkgölü Deresi	2
+Bani	2
+Başkale Çayı	2
+Başköy Çayı	2
+Bayat Çayı	2
+Bayındır Deresi	2
+Bel Deresi	2
+Belen Deresi	2
+Belgrat Deresi	2
+Berbeste Deresi	2
+Beyşehir Çayı	2
+Bezirgan Deresi	2
+Biga Çayı	2
+Binkılıç Deresi	2
+Bişek Deresi	2
+Böğürtlen Deresi	2
+Bulak Deresi	2
+Büyükacı Deresi	2
+Büyükçay	2
+Büyükçayır Deresi	2
+Buzhane Deresi	2
+Çalı	2
+Çamalan Deresi	2
+Çamlı	2
+Çamurlu	2
+Camız Deresi	2
+Çapak Deresi	2
+Çardaklı	2
+Çardaklı Deresi	2
+Çarşamba Çayı	2
+Çat	2
+Çatalçam Deresi	2
+Çatalkaya Deresi	2
+Çatı Deresi	2
+Çavdar Deresi	2
+Çayiçi Deresi	2
+Çayır Suyu	2
+Çayırlar Deresi	2
+Çayırlık Deresi	2
+Çelebi Deresi	2
+Çeltik Deresi	2
+Cem	2
+Çengel Deresi	2
+Çerme Deresi	2
+Çermeli Çayı	2
+Çermik Çayı	2
+Çermik Deresi	2
+Çeşme	2
+Cevizli Deresi	2
+Çevlik Çayı	2
+Çiçekli	2
+Çimen Deresi	2
+Çit Deresi	2
+Çöplü	2
+Çopur Deresi	2
+Çukur Deresi	2
+Cuma Çayı	2
+Çığlık Deresi	2
+Çınar Deresi	2
+Dana Deresi	2
+Dar	2
+Dede Deresi	2
+Dedeler Deresi	2
+Değermen Deresi	2
+Değirmen Çayı	2
+Değirmentaşı Deresi	2
+Demirli	2
+Demirtaş Deresi	2
+Derbent Çayı	2
+Deringöz Deresi	2
+Dikmen Deresi	2
+Dipsiz	2
+Direkli	2
+Diryan Deresi	2
+Doğan Deresi	2
+Doğanca Deresi	2
+Dolap Deresi	2
+Domuz	2
+Durak Deresi	2
+Düz	2
+Düzce	2
+Eğlek Deresi	2
+Eldeş Deresi	2
+Elmalı Deresi	2
+Eren Çayı	2
+Ericek Deresi	2
+Ermenek Çayı	2
+Ese Deresi	2
+Eskiyurt Deresi	2
+Eşme Deresi	2
+Eybek Deresi	2
+Fol Deresi	2
+Fındıcak Deresi	2
+Fındık Deresi	2
+Fındıklı Deresi	2
+Gazi Deresi	2
+Gaziler Çayı	2
+Gedik Deresi	2
+Geli Deresi	2
+Gencer Deresi	2
+Gerede Çayı	2
+Gevne Çayı	2
+Gökçe	2
+Gökçesu Deresi	2
+Göksun Çayı	2
+Gölpınar Deresi	2
+Gönen Çayı	2
+Gümüş Deresi	2
+Gümüşpınar Deresi	2
+Güney	2
+Güngören Çayı	2
+Güngörmez Deresi	2
+Güzelhisar Çayı	2
+Güzelsu Çayı	2
+Hallaç Deresi	2
+Hamza Deresi	2
+Han	2
+Hanönü Deresi	2
+Hasan Deresi	2
+Hasanağa Deresi	2
+Hasanova Suyu	2
+Hatap Deresi	2
+Hayran Deresi	2
+Horhor Deresi	2
+Horlağın Deresi	2
+Hudut Deresi	2
+Hısar Deresi	2
+İğdeli	2
+İkiz	2
+İli Deresi	2
+İlyaslı Çayı	2
+İnönü Deresi	2
+Kabaklı	2
+Kadıköy Deresi	2
+Kalabak Deresi	2
+Kalaycık Deresi	2
+Kale	2
+Kangal Çayı	2
+Kantar Deresi	2
+Kapaklı	2
+Kapan Deresi	2
+Kaplıca Deresi	2
+Kapı Deresi	2
+Kapıkaya Deresi	2
+Kapız Deresi	2
+Karaardıç Deresi	2
+Karaçam Deresi	2
+Karadere Çayı	2
+Karadirek Deresi	2
+Karahasan Deresi	2
+Karahisar Deresi	2
+Karain Deresi	2
+Karakoç	2
+Karakoç Deresi	2
+Karakuş Deresi	2
+Karakuz Deresi	2
+Karalar Deresi	2
+Karalarözü	2
+Karaoğlan Deresi	2
+Karaova Deresi	2
+Karaöz Deresi	2
+Kargıçayı Deresi	2
+Karlık Deresi	2
+Karpuz Çayı	2
+Karpuz Deresi	2
+Kars Çayı	2
+Kasran Deresi	2
+Kavaközü Deresi	2
+Kayaaltı Deresi	2
+Kayaboğazı Deresi	2
+Kayalı	2
+Kayalıboğaz Deresi	2
+Kazankaya Deresi	2
+Keşan Deresi	2
+Kestane Deresi	2
+Kestel Çayı	2
+Keten Deresi	2
+Kilgen Çayı	2
+Killik Deresi	2
+Kiraz Deresi	2
+Koç Deresi	2
+Koca Çayı	2
+Kökez Deresi	2
+Kom	2
+Kömler Deresi	2
+Konak Deresi	2
+Köprü Çayı	2
+Kopuz Deresi	2
+Korey	2
+Körsu Deresi	2
+Korum Deresi	2
+Kovanlık Deresi	2
+Koyun Deresi	2
+Kozlu	2
+Kula Deresi	2
+Kum	2
+Kum Çayı	2
+Kum Deresi	2
+Kümbet Deresi	2
+Kumlu	2
+Kumluk Çayı	2
+Kunduzlu	2
+Kurtulmuş Deresi	2
+Kuruca	2
+Kuruca Deresi	2
+Kuyu	2
+Kuyucak Deresi	2
+Kılıç Deresi	2
+Kılıçarslan	2
+Kılıçboğazı Deresi	2
+Kılıçkaya Deresi	2
+Kırkgeçit Çayı	2
+Kırmızı	2
+Kırık	2
+Kırık Deresi	2
+Kıyır Deresi	2
+Kızlar Çayı	2
+Kızlartaşı Deresi	2
+Kızılca	2
+Kızılöz	2
+Kızıltaş Deresi	2
+Madran Çayı	2
+Mağara Deresi	2
+Malatya Çayı	2
+Mama Deresi	2
+Manastır Deresi	2
+Melet Irmağı	2
+Merivan Suyu	2
+Mezra Deresi	2
+Mezraa Deresi	2
+Mudurnu Çayı	2
+Mürüvetler Deresi	2
+Nanep Deresi	2
+Nehil Çayı	2
+Oğlakçı Deresi	2
+Okçular Deresi	2
+Orta	2
+Ortaca Deresi	2
+Ortasu Çayı	2
+Oyuklu	2
+Pamuk Çayı	2
+Pazar Deresi	2
+Pular Deresi	2
+Pülümür Çayı	2
+Pulur Deresi	2
+Pınarcık Deresi	2
+Reşik Deresi	2
+Şahgölü Deresi	2
+Şahin Deresi	2
+Sakaltutan Deresi	2
+Saklan	2
+Saksağan Deresi	2
+Sal Deresi	2
+Salman Deresi	2
+Sana Deresi	2
+Sandal Deresi	2
+Sapa Deresi	2
+Saray Deresi	2
+Sarıabdal Deresi	2
+Sarıçoban Çayı	2
+Sarıoğlan Deresi	2
+Sarısu	2
+Savrun Çayı	2
+Savur Çayı	2
+Say Deresi	2
+Sazak Deresi	2
+Seki Çayı	2
+Şeyh Deresi	2
+Seyhan Çayı	2
+Şeyhler Deresi	2
+Seyit Deresi	2
+Simav Çayı	2
+Şimşir Deresi	2
+Siyah	2
+Soğuksu	2
+Söğüt Deresi	2
+Söğütözü Deresi	2
+Sorgun Çayı	2
+Soruk Deresi	2
+Subaşı Deresi	2
+Şuhut Deresi	2
+Süloğlu Deresi	2
+Suvar Deresi	2
+Sıcaksu Deresi	2
+Sınır Deresi	2
+Tahtaköprü Deresi	2
+Tahtalı Çayı	2
+Talihin Deresi	2
+Taşpınar Deresi	2
+Tavşanlı	2
+Teknecik Deresi	2
+Tilavet	2
+Tohma Çayı	2
+Tuzla	2
+Tuzlu	2
+Üçbaş Deresi	2
+Üçpınar Deresi	2
+Uluağaç Deresi	2
+Uluçay	2
+Uludere	2
+Ulupınar Deresi	2
+Uzunçayır Deresi	2
+Uzunoluk Deresi	2
+Uzunöz Deresi	2
+Yağmur Deresi	2
+Yağmurlar Deresi	2
+Yalak Deresi	2
+Yastık Deresi	2
+Yavşan Deresi	2
+Yedigöller Deresi	2
+Yemişenin Deresi	2
+Yemişli Deresi	2
+Yenice Deresi	2
+Yeniköy Çayı	2
+Yeniyol Deresi	2
+Yeşilöz Çayı	2
+Yukarı	2
+Yukarıboğaz Deresi	2
+Yukarışimşirlik Deresi	2
+Yurt Deresi	2
+Yuva Deresi	2
+Zeytinli	2
+Zeyve Deresi	2
+Zilan Çayı	2
+Abana Deresi
+Abant Deresi
+Abantayağı Deresi
+Abdal Çayı
+Abdal Deresi
+Abdalağa Deresi
+Abdilli Deresi
+Abdoluka Deresi
+Abdullah Kaynak
+Abu Deresi
+Açça Çayı
+Açe
+Acemoğlu Deresi
+Açmalar Deresi
+Acı Deresi
+Acı Kulak
+Acıçay
+Acıçay Deresi
+Acıçayır Deresi
+Acıkuyu Deresi
+Acıöz
+Acıöz Deresi
+Acısu Irmağı
+Acıırmak Deresi
+Ada
+Adaçay Deresi
+Adaklı Deresi
+Adalar Deresi
+Adalarçayı Deresi
+Adanda Çayı
+Admezar Deresi
+Adürük Çayı
+Adıyan Çayı
+Affan
+Afkamasya Deresi
+Afrin Çayı
+Afrin Suyu
+Afşar Deresi
+Aftal Deresi
+Aftun Deresi
+Ağa Deresi
+Ağabayır Deresi
+Ağabeyli Çayı
+Ağaç Deresi
+Ağaçdibi Deresi
+Ağaçlı
+Ağaçlıpınar Deresi
+Ağan Deresi
+Ağasor Deresi
+Ağayurdu Deresi
+Ağcaalan Çayı
+Ağçakavak Deresi
+Ağgedik Deresi
+Aghyl
+Ağlasun Çayı
+Ağlıcan Deresi
+Ağrılıgöze Deresi
+Ağveçor Deresi
+Ağviran Deresi
+Ağyarlar Deresi
+Ağıllar Deresi
+Ağıllıboğaz Deresi
+Ağılözü Deresi
+Ağılıç Deresi
+Ağırkan Deresi
+Ahacı Deresi
+Ahilyas Deresi
+Ahir Deresi
+Ahirçimen Çayı
+Ahkis Deresi
+Ahlatcık Deresi
+Ahlatlı
+Ahliz Deresi
+Ahmedinkomu Deresi
+Ahmetali Deresi
+Ahırkuyu Deresi
+Akan
+Akanbahar Deresi
+Akar Deresi
+Akarkaya Deresi
+Akarkuyu Deresi
+Akarsu
+Akburun Deresi
+Akça
+Akçagüney Deresi
+Akçakoyunlu Deresi
+Akçakışla
+Akçardak Deresi
+Akçasu
+Akçasu Deresi
+Akçayır Deresi
+Akchinar
+Akdağmadeni
+Akdik Deresi
+Akgeçit Deresi
+Akh
+Akhisar Deresi
+Akibi Deresi
+Akkaya Çayı
+Akkosan
+Akkum Deresi
+Akkuş Deresi
+Akkıtça Çayı
+Akmezraa Deresi
+Akpınar
+Aksakal Deresi
+Akşar Çayı
+Akşehir Çayı
+Akseki Deresi
+Aksöğüt Deresi
+Aksütlü Çayı
+Aksıfat Deresi
+Aktakan
+Aktaş Çayı
+Aktoprak
+Akveren Çayı
+Akveren Deresi
+Akyol Deresi
+Akziyaret
+Akın Deresi
+Ala
+Alaattinçayı Deresi
+Alabuğday
+Alaca Irmağı
+Alaçam Deresi
+Alacaönü Deresi
+Alacasu Deresi
+Alaçayır Deresi
+Alacham
+Alacoğlu Deresi
+Alaçorak Deresi
+Alahacılı Çayı
+Alakan Deresi
+Alakır Çayı
+Alan Deresi
+Alanavlusu Deresi
+Alaplı Çayı
+Alaşehir Çayı
+Alata Deresi
+Albastı Deresi
+Aldere
+Alhan
+Ali Deresi
+Aliağa Çayı
+Alibahadır Deresi
+Aliboğaz Deresi
+Aliç
+Aliçilek
+Alihoca Deresi
+Alikuran
+Alimpınarı Deresi
+Aliyerelli Deresi
+Allı Suyu
+Almacık Deresi
+Almalı
+Alman Suyu
+Almaparmak Deresi
+Alpinik Deresi
+Altıgöz Deresi
+Altın Deresi
+Altınbaşak Deresi
+Altınkuşak
+Altınsuyu Deresi
+Altıparmak Çayı
+Alucra Çayı
+Alışyer Deresi
+Alışır Deresi
+Amabaseran Deresi
+Amastal Deresi
+Amasya Deresi
+Ambar Çayı
+Ambar Deresi
+Ambar Suyu
+Amber Deresi
+Amergan Deresi
+Amero Deresi
+Amrud
+Anaçay Deresi
+Anamur Çayı
+Anba Deresi
+Anbar
+Anbarcık Deresi
+Ancilik Deresi
+Anday Çayı
+Andihari Deresi
+Andırın Suyu
+Angüs Deresi
+Ankara Çayı
+Ankolik Deresi
+Anurı Deresi
+Anzal Deresi
+Anzer Deresi
+Anışlı
+Aodzhioluk
+Apardiı Deresi
+Apdal Irmağı
+Aptalırmağı
+Araasan Deresi
+Arabacı Mandırası
+Arabacılar Deresi
+Arabakırığı Deresi
+Aracoclar Deresi
+Arafe Deresi
+Arak Deresi
+Arakol Deresi
+Aran Deresi
+Arapçınarı Deresi
+Araplar
+Araplar Deresi
+Araplı
+Araplı Deresi
+Arapoğlu Deresi
+Araralı Deresi
+Aras
+Aras Deresi
+Arbey Deresi
+Arcivan Deresi
+Ardözü Deresi
+Ardıç Çayı
+Ardıçlı
+Argos Çayı
+Arif Çayı
+Arifegazi Deresi
+Arkbaşı
+Arkbeli Deresi
+Arkuç Çayı
+Arkıçça Deresi
+Armino
+Armutçuk Deresi
+Armutkolu Çayı
+Armutlar Deresi
+Armutlu
+Armutlusuyu Deresi
+Arpa
+Arpa Deresi
+Arpalı
+Arpanlıözü Deresi
+Arslanyurdu Deresi
+Arsızözü
+Arzavan Deresi
+Arık
+Arıluz Deresi
+Aşağı Gökyar Deresi
+Aşağıçayır Deresi
+Aşağıgökçekanat Çayı
+Aşağıköy Deresi
+Aşağıkülecik Deresi
+Aşağımirzebegan Deresi
+Aşağıova Deresi
+Aşağıöz Deresi
+Aşağısürümçayı Deresi
+Aşağıtali Deresi
+Asarak
+Asarca Deresi
+Asarçayın Deresi
+Asarkoyağı Deresi
+Aşçı Deresi
+Askar Deresi
+Aslanlı Çayı
+Aşma Deresi
+Asmaca Çayı
+Asmaca Deresi
+Asmalıdut Deresi
+Asmayolu Deresı
+Aştavul Deresi
+Aşın
+Aşıran Deresi
+Atarkin Deresi
+Atça Deresi
+Ateş
+Atma
+Atmalı Deresi
+Avanak Deresi
+Avaslu Deresi
+Avaıs
+Avbi Deresi
+Avcı Deresi
+Avcıkoru Deresi
+Avcılar Çayı
+Avdan Deresi
+Avdancık Deresi
+Aveberhan Deresi
+Avgalık
+Avgira Deresi
+Avharik Deresi
+Aviş Deresi
+Avlu Deresi
+Avlucak Deresi
+Avmasori Deresi
+Avres Deresi
+Avriş Deresi
+Avşarözü Deresi
+Avucur Deresi
+Avutmuş
+Avyar Deresi
+Avzak
+Ayaklı
+Ayan
+Ayan Deresi
+Ayazan Deresi
+Ayazmana Deresi
+Aybastı Çayı
+Aydoboğazı Deresi
+Aydoğmuş Deresi
+Aydos Çayı
+Aydınca
+Aydıncık Deresi
+Aydınkent
+Aydınkent Çayı
+Ayini Deresi
+Aykavuştu
+Aymkarm Deresi
+Aynafursuyu Çayı
+Ayngevri Deresi
+Ayrancı
+Ayrık
+Ayrılık Deresi
+Ayşe Deresi
+Ayvaciyolu Deresi
+Ayvalı
+Ayvalıtohması Çayı
+Ayvazoğlu Deresi
+Ayıdeliği Deresi
+Ayıkaya Çayı
+Ayışığı Deresi
+Azatlı
+Azinan
+Azmac
+Babadil Deresi
+Babadıl Deresi
+Babaeski Deresi
+Babayakup Deresi
+Badalarmut Deresi
+Baderaı Deresi
+Badılkeri Deresi
+Badırıklı
+Bagat Deresi
+Bağbelen Deresi
+Bağdaşan Deresi
+Bağdere
+Bağdişan Deresi
+Bağlak Deresi
+Bağlama Suyu
+Bağlaryanı Deresi
+Bağlıca Çayı
+Bağlık
+Bağözünün Deresi
+Bahadır Deresi
+Baharlı
+Bahçe
+Bahçeköy Deresi
+Bahra Deresi
+Bahru Deresi
+Bahtiyar
+Bakacak Deresi
+Bakara Deresi
+Bakdere
+Baki Deresi
+Bakirlik Deresi
+Baklalı Deresi
+Bakraçlı Deresi
+Bakıl Deresi
+Bakır Deresi
+Bakırcık Deresi
+Bakırlı
+Balaban
+Balabarı Deresi
+Balahor Deresi
+Balatça Çayı
+Balcan
+Balçık Deresi
+Baldıran Deresi
+Baldıranlı
+Balkusan Deresi
+Balkız Deresi
+Ballı
+Ballı Deresi
+Ballıkaya Deresi
+Ballıpınar Deresi
+Balpınar
+Baltacı Deresi
+Baltalı
+Baltalık
+Balucan Deresi
+Balı Deresi
+Balık Suyu
+Balıkçı Deresi
+Balıkçın
+Balıklar Çayı
+Balıklı Deresi
+Balıklıağ Deresi
+Balıklıavı Kanalı
+Balıklıtohma Suyu
+Balıksuyu
+Balıksuyu Deresi
+Balıkuşağı Deresi
+Banaz Çayı
+Bandalaz Çayı
+Baraklı Deresi
+Barbarlı
+Bardak Deresi
+Bardakçı Çayı
+Bardakçı Deresi
+Bardız Çayı
+Bargı
+Barhal Çayı
+Barsak Deresi
+Bartin
+Baş Çayı
+Baş Deresi
+Başak Deresi
+Başakköy Deresi
+Basamaklar Deresi
+Başçayır Deresi
+Başgedik Deresi
+Başil Deresi
+Basilat Deresi
+Baskan Deresi
+Başören Çayı
+Başören Deresi
+Başpınar
+Başpınar Deresi
+Başsöğüt Derersi
+Bastak Çayı
+Başyurt Deresi
+Başıma
+Batak Deresi
+Batarçıkar Deresi
+Batlama
+Batman
+Batman Çayı
+Batmantaşı
+Battal
+Battal Deresi
+Bavat Deresi
+Bayat Deresi
+Baydurum Çayı
+Baymehmet Deresi
+Bayram Çayı
+Bayram Deresi
+Bayrambey Deresi
+Bayran Deresi
+Bayır Çayı
+Bayırkısığı Deresi
+Baza Deresi
+Bazi Deresi
+Bazitaka Deresi
+Bebleşin Deresi
+Becenin Deresi
+Bedir Deresi
+Bedre Deresi
+Behram Deresi
+Behrancı Deresi
+Bekeriç Deresi
+Bekir
+Bekir Çayı
+Belara Deresi
+Beldibi Çayı
+Beleku Deresi
+Belen
+Belhan
+Belhan Deresi
+Beliktaş Deresi
+Belpınar
+Belüsek Deresi
+Bencik Deresi
+Bendimahi Çayı
+Benemazen Deresi
+Bentgözü Deresi
+Beran
+Berçin Çayı
+Berçin Deresi
+Berdik Deresi
+Bere Deresi
+Bereket Deresi
+Berem Çayı
+Berha Deresi
+Berhahalta
+Beribeş Deresi
+Beribuşkul Deresi
+Berkilin Çayı
+Berıhulug Deresi
+Beşan Deresi
+Beşdut Çayı
+Beşevler
+Beşgöz Deresi
+Besi Deresi
+Beşiktaş Deresi
+Beşiktepe Deresi
+Beşkardeş
+Beşkavak Deresi
+Beşlik Deresi
+Beşpınar
+Beşpınar Deresi
+Besrabuluze Deresi
+Besri Deresi
+Besteberiker Deresi
+Bestegebu Deresi
+Besti Deresi
+Bey Pınar
+Beyazgöl
+Beyazpınar Deresi
+Beyaztaş
+Beyaztaş Deresi
+Beybulak
+Beyçayır Deresi
+Beycik Çayı
+Beydilliözü Deresi
+Beyez
+Beyiri Deresi
+Beykoz Deresi
+Beyler
+Beyler Deresi
+Beylerce Deresi
+Beylik
+Beylik Deresi
+Beylikçayır Deresi
+Beylisu Deresi
+Beypınar Deresi
+Beyşehir Kanal Çayı
+Beytarla Deresi
+Beyzade
+Bezciler Deresi
+Bezirhan Deresi
+Bezirhane Deresi
+Biçkici
+Biga Deresi
+Bigiret Deresi
+Bikçi Deresi
+Bilara Deresi
+Bilman Çayı
+Bilmat Deresi
+Binasor Deresi
+Binat Deresi
+Binbaba
+Bincan Deresi
+Bingeçit Deresi
+Bingöl Deresi
+Binin Deresi
+Birdik Deresi
+Birinci
+Bişoka Deresi
+Bistanşeyh Deresi
+Bitlis Çayı
+Bodemiş Deresi
+Bodime Deresi
+Boğa Çayı
+Boğa Deresi
+Boğacak Deresi
+Boğameydanı Deresi
+Boğazalan Deresi
+Boğaziçi Deresi
+Boğazini Deresi
+Boğazkaya Deresi
+Boğazlı
+Boğazlı Deresi
+Boğazlıyan Çayı
+Boğazlıyan Deresi
+Boğazoğlu Deresi
+Boğazyurt Deresi
+Boğluca Deresi
+Boğoç Deresi
+Bolaman Çayı
+Bolu Çayı
+Bölük
+Bölükçayır Deresi
+Bölükova Çayı
+Bölüksu
+Boncu Deresi
+Borandere
+Boraşenliği Deresi
+Borazlı
+Borbal Deresi
+Bördübet Deresi
+Börek
+Bornova Çayı
+Boslovan Deresi
+Bostanlar Deresi
+Bostanlı Deresi
+Bostanlık
+Bostanözü Çayı
+Botka Deresi
+Boyalı
+Boyalı Deresi
+Boyalık Deresi
+Boyla
+Bozalioğlu Çayı
+Bozasar Deresi
+Bozatrin Deresi
+Bozek Deresi
+Bozguney Deresi
+Bozhane Deresi
+Bozhüyük Deresi
+Bozkaya Çayı
+Bozkuş Deresi
+Bozuklar
+Bozyazı Deresi
+Bucak Deresi
+Budaközü Çayı
+Büğdüz Çayı
+Buğurviran Deresi
+Buhtom Deresi
+Bük Deresi
+Bükeç Deresi
+Büklüm Deresi
+Buladanı Deresi
+Bulancak Deresi
+Bulanık Çayı
+Bulanıksuyu Deresi
+Bülbül Deresi
+Bulcuk Deresi
+Buldan Deresi
+Bulgur Deresi
+Bulhari Deresi
+Bulkan Deresi
+Bulunt Deresi
+Bunlu
+Bünyan Çayı
+Burç Çayı
+Burcalı Deresi
+Burekaso Deresi
+Burgaz Deresi
+Bursuverg
+Buruksu
+Büyük Menderes
+Büyük Su
+Büyükalan Deresi
+Büyükçatak Deresi
+Büyükcinli
+Büyükçirik Deresi
+Büyükgirel Deresi
+Büyükgöl Deresi
+Büyükgöre Deresi
+Büyükgözenin Deresi
+Büyükhayrettin Tepesi
+Büyükhurma Deresi
+Büyükkandak Deresi
+Büyükkara
+Büyükkepı
+Büyükköy Deresi
+Büyüklü Deresi
+Büyükmelen Çayı
+Büyükoğlan
+Büyükoluk Deresi
+Büyüköz
+Büyüköz Çayı
+Büyüköz Deresi
+Büyükpazar Deresi
+Büyüksu
+Büyüksu Çayı
+Büyüksu Deresi
+Büyükyağan Deresi
+Büyükyar Deresi
+Buzağılık Deresi
+Buzluk Çayı
+Buzya Deresi
+Bıçakçı
+Bıçkı
+Bıçkıcı Deresi
+Bıçkılı
+Bılhos Çayı
+Çaçur Deresi
+Çacık Deresi
+Cadde Deresi
+Çadere
+Cadı
+Caferlerin Deresi
+Çağ Deresi
+Çağa Deresi
+Çageza Deresi
+Çağlan Deresi
+Çağlayan Çayı
+Çağlıkan Deresi
+Çağturan
+Çahyar Çayı
+Çaka Deresi
+Çakal
+Çakal Deresi
+Çakalboğazı Deresi
+Çakaldağ Deresi
+Çakalisi Deresi
+Çakallı Deresi
+Çakalsokmak Deresi
+Çakansuyu
+Çakbelit Deresi
+Çakçak Deresi
+Çakiltaş Deresi
+Çakmak
+Çakmanos Deresi
+Çakmans Deresi
+Çakrak Deresi
+Caksuyu
+Çakıl
+Çakıl Deresi
+Çakıllı
+Çakır
+Çakır Deresi
+Çakırbey Deresi
+Çakırhöyük
+Çakırhüyük
+Çakıroba Çayı
+Çakıt Suyu
+Çal Deresi
+Çala Deresi
+Çalagutsuyu
+Çalağıl Deresi
+Çalakgediği Deresi
+Çalboğazı Deresi
+Çaldere Çayı
+Çalkışla Çayı
+Çallı
+Çallıbogaz
+Çalören Deresi
+Çaltı Çayı
+Çaltık Deresi
+Çalıdüzü Deresi
+Çalış
+Çalış Deresi
+Çalışçayı Deresi
+Çam
+Çam Çayı
+Çambaşı Deresi
+Çambayırı Deresi
+Camdere
+Çamkoru Deresi
+Çamköy Deresi
+Çamli Deresi
+Çamlıca
+Çamlıca Deresi
+Çamlıkaya Deresi
+Çamözü
+Çamurca Deresi
+Camurlu
+Çamurlu Deresi
+Çamurluburun
+Çamurova Deresi
+Çamyeri Deresi
+Camıztaşı Deresi
+Çan Deresi
+Çanak
+Çanakcı Deresi
+Çanakçının Deresi
+Çanakdüzü Deresi
+Çanaklı
+Canan Deresi
+Çandır Çayı
+Çandıraz Deresi
+Caneren Deresi
+Caniközü Deresi
+Çankır Deresi
+Çanşa Deresi
+Çanta Deresi
+Canutek Deresi
+Çapan Deresi
+Çapar
+Çapaz Çayı
+Çar Deresi
+Carcı Deresi
+Çarçı Deresi
+Çardak Deresi
+Çardakaltı Deresi
+Çardaklar
+Çardaklı Çayı
+Çardaközü Deresi
+Çark Deresi
+Çarksuyu Çayı
+Çarmuk Deresi
+Çarşaf Deresi
+Çarık Deresi
+Çaşorki Deresi
+Çaşur Çayı
+Çaşurluk
+Çatağan
+Çatağan Deresi
+Çatağın Deresi
+Çatak
+Çatalarmut Deresi
+Çatalazmak
+Çatalboğazı
+Çatalca
+Çatalipaşa Deresi
+Çatalköy Deresi
+Çatalok Deresi
+Çatalözü Deresi
+Çatalpınar Deresi
+Çatalzeytin Çayı
+Caterli Deresi
+Çatkara Deresi
+Çatkaya Deresi
+Çavdarlı Deresi
+Çavdır Çayı
+Çavdır Deresi
+Çavguni Deresi
+Çavuş Deresi
+Çavuşbaşı Deresi
+Çavuşlar
+Çavuşlu Deresi
+Çayabrı Deresi
+Çayağıl Deresi
+Çayarası Deresi
+Çaybağı Deresi
+Çaybaşı
+Çaydutu Deresi
+Çaygun Deresi
+Çayhisar Deresi
+Çaykara Deresi
+Çaykeliksuyu
+Çayköy Deresi
+Çayözü Deresi
+Çaypınarı Deresi
+Çayı
+Çayıçı Deresi
+Çayırbaşı Deresi
+Çayırboğazı Deresi
+Çayırcık Deresi
+Çayırin Deresi
+Çayırlık
+Çayıroluk
+Çayıroluk Deresi
+Çayırova Deresi
+Çayırözü Çayı
+Çayırözü Deresi
+Çayırözününaltı Deresi
+Çayırtarla Deresi
+Ceban Deresi
+Cebeynem Deresi
+Cebicini Deresi
+Çebişli Çayı
+Cecimli Deresi
+Cedere Çayı
+Çeğlanındüzü Deresi
+Cehennem
+Cehennen Deresi
+Cehiz Deresi
+Çekem Deresi
+Çekerek Irmağı
+Celal Deresi
+Çelberen Deresi
+Çelebiya Deresi
+Çelebiyan Çayı
+Çelepen Deresi
+Çelgan Deresi
+Çelikalan Deresi
+Çelikhan Çayı
+Çelikyeri Deresi
+Celyon Deresi
+Çem Deresi
+Çema Deresi
+Cemaldere
+Çeme Çayı
+Cemeceli Deresi
+Cemejon Çayı
+Cemibahri Deresi
+Çemik Deresi
+Cemikari Deresi
+Cemikatlı
+Çemişeyli
+Çemitöremiş Deresi
+Çemsili
+Çençül Deresi
+Cender Deresi
+Çenderözü
+Çenger Çayı
+Çenger Deresi
+Çengerli Deresi
+Çengildüzü Deresi
+Cengoçayırı Deresi
+Cenikesin Deresi
+Cennet Deresi
+Cense Deresi
+Çepişli Deresi
+Ceravim Kaynağı
+Çerçi Deresi
+Cerit Deresi
+Çerkezağıl Deresi
+Çermeli Deresi
+Çermelik Deresi
+Çermik Suyu
+Çerpece
+Çeşmebaşı Deresı
+Çeşmeçukuru Deresi
+Çeşmeli Deresi
+Çeşmeüstü Deresi
+Çeşnar Deresi
+Çeşnikır Deresi
+Çetin
+Çetin Deresi
+Cevizdüzü Deresi
+Cevizli
+Cevizli Çayı
+Cevlanı Deresi
+Çevlik
+Çevreli
+Ceyhan
+Ceylan Deresi
+Chailak
+Cheshmeh
+Chomak
+Ciba Deresi
+Çibekler Deresi
+Çiçekoluk Deresi
+Çiçeközü
+Çiftalan
+Çiftlikköy Deresi
+Çiftliközü Deresi
+Çiğil Deresi
+Çiğli Çayı
+Çil Deresi
+Çilibük Deresi
+Çilingier Deresi
+Çilingir Deresi
+Çilkori Deresi
+Çiller Deresi
+Çim Deresi
+Çimenli
+Cimil Deresi
+Cimrik Deresi
+Cin
+Cin Deresi
+Çin Deresi
+Cindi Deresi
+Çine Çayı
+Çine Deresi
+Çinge Deresi
+Çingen Deresi
+Cinis Deresi
+Cinlisu Deresi
+Cip
+Cip Deresi
+Cipil Deresi
+Cirbat Deresi
+Çirçip Deresi
+Çirişli
+Çirişligedik Deresi
+Çirpili Deresi
+Çit Çayı
+Çitlenbik Deresi
+Çitliöz Deresi
+Çivrilözü Deresi
+Çivrişan Deresi
+Çobançeşme Çayı
+Çobanlar Deresi
+Çobanlı
+Çocuk Deresi
+Çögege Deresi
+Çögeli Deresi
+Çökecik Deresi
+Çökelek Deresi
+Çoklu
+Çokradan
+Çoksu Deresi
+Çokum Deresi
+Çomaklar Deresi
+Comburt Suyu
+Çömlecik Deresi
+Çömlek Deresi
+Çömlekçi
+Çömlekçi Deresi
+Copissuyu
+Çöpköy Deresi
+Çöpürger Deresi
+Çorak Deresi
+Çoraklı
+Çoraklık Deresi
+Çoraközü Deresi
+Çoraksu Deresi
+Çoranalağı Deresi
+Çörege Deresi
+Çörgü Deresi
+Corivanksuyu
+Çorlu Çayı
+Çorman Deresi
+Çörmükyanı Deresi
+Coruh
+Çoruhsuyu
+Çoruközü Deresi
+Çorum Çayı
+Çörümşek Deresi
+Çörüş Çayı
+Çörüş Deresi
+Cötoğlukuyusu Deresi
+Çotsuyu Çayı
+Çotuk Deresi
+Çubuk Çayı
+Çubuksu
+Çuçuva Deresi
+Cudi Deresi
+Çuhahane Deresi
+Çuhala
+Çukreş Deresi
+Çukur
+Çukurabanazı Deresi
+Çukurbük
+Çukurca Derersi
+Çukurçengel Deresi
+Çukurçimen Deresi
+Çukurdüzlük Deresi
+Çukurkuyu Deresi
+Çukurören Deresi
+Çukurpınar Deresi
+Çukursu Deresi
+Çukurun Deresi
+Çullu
+Cumayanı Deresi
+Çungul Deresi
+Curi Deresi
+Çürük
+Çürükini Deresi
+Çutbaşı Deresi
+Çıcan Deresi
+Cıcıklı
+Çıftepınar Deresi
+Çığlı
+Çığlı Suyu
+Çığırgan Deresi
+Çıkacak Deresi
+Çıldırım Deresi
+Cılga Deresi
+Cılgızçayır Deresi
+Cıma Deresi
+Çınaralan Deresi
+Çınarcık Deresi
+Çınarlıgöl
+Çınarlık Deresi
+Çıngıl Deresi
+Çıplaközü Deresi
+Çır Deresi
+Çır Suyu
+Çıralıöz Deresi
+Çıralıözü
+Çırçır Deresi
+Çırdıkınözü
+Daday Çayı
+Dadıkan
+Dağardı Deresi
+Dağarkası Deresi
+Dağarlık
+Dağarlık Deresi
+Dağboğazı Deresi
+Dal Deresi
+Dalacak Deresi
+Dalak Deresi
+Dalaman Çayı
+Dalayer Deresi
+Dalgu Deresi
+Dalsöğüt Deresi
+Dalsı
+Dalyan Deresi
+Dam Deresi
+Damlalı Deresi
+Damlar Deresi
+Dampa Deresi
+Damsa Çayı
+Damu Deresi
+Danaburan Deresi
+Dandır Deresi
+Dansenir Deresi
+Darabi Deresi
+Dararaş Deresi
+Darboğaz Çayı
+Darbı Deresi
+Dargaz Çayı
+Dargeçit Deresi
+Dargöl Deresi
+Darinöz
+Darı Derersi
+Darıbükü Deresi
+Darıçukuru Deresi
+Darıklar Çayı
+Darıören Derersi
+Darıözü Deresi
+Davalı
+Davudiçeşme Deresi
+Davul Deresi
+Davulbaz Deresi
+Davulgan Deresi
+Davullu Deresi
+Davuş Deresi
+Dayısı Deresi
+Dedans Deresi
+Dedeköprüsü Deresi
+Dedelerözü Deresi
+Dedepınar Deresi
+Degirmen
+Degirmen Deresi
+Değirmenağzı Deresi
+Değirmenaltı Deresi
+Değirmenbaşı Deresi
+Değirmenboğazı Deresi
+Değirmenlerin
+Değirmenli
+Değirmenlik Deresi
+Değirmenpınar Çayı
+Değirmensuyu Deresi
+Değirmentaşı
+Değirmenyanı Deresi
+Değme
+Dekulsuyu
+Delan Deresi
+Delice Çayı
+Deliiniş Deresi
+Delik Deresi
+Delikli
+Deliksu Deresi
+Deliktaşözü Deresi
+Deliktaşın Deresi
+Delinin Deresi
+Delioğlu Deresi
+Delisu Deresi
+Deliüz Deresi
+Demircibükü Deresi
+Demircik Deresi
+Demirciler Deresi
+Demirkapı Deresi
+Demirkaş Deresi
+Demirkepı Deresi
+Demirler
+Demirler Deresi
+Demirlik Deresi
+Demiroluk Deresi
+Demirözü Deresi
+Demlisu Deresi
+Demre Çayı
+Demre Deresi
+Demrek Deresi
+Dengiver
+Dengiz Deresi
+Deniz Çayı
+Deniz Deresi
+Derahin Deresi
+Derbizevi Deresi
+Dercik
+Dereaşağı Deresi
+Derebağ Deresi
+Derebahçe Deresi
+Derebani
+Derebey Deresi
+Dereçayırı Deresi
+Derece Deresi
+Dereğe
+Deregözü Deresi
+Dereköy Çayı
+Dereköyboğazı Deresi
+Dereperçin Deresi
+Deresökü Çayı
+Dereva Deresi
+Dereyurdan Deresi
+Dereyurdu Deresi
+Derik Deresi
+Derince
+Derindere
+Derinkapı Deresi
+Derinkoyak Deresi
+Derventboğazı Deresi
+Dervis Deresi
+Deryeşkeri Deresi
+Deş Deresi
+Destek Çayı
+Desto Deresi
+Detobensuyu
+Dev
+Devedamı Deresi
+Devegeçidi Çayı
+Devekorumu Deresi
+Devekıran Deresi
+Devetarla
+Devetaşı Deresi
+Deviskel Deresi
+Devrek Çayı
+Devrekani Çayı
+Devrent Deresi
+Devres
+Devret Deresi
+Devrez Çayı
+Dibek Deresi
+Dibekdere
+Dibeyrek Deresi
+Dicle
+Didgar Deresi
+Didket Deresi
+Digor Çayı
+Dikboğaz Deresi
+Diken Cayı
+Dikenler Deresi
+Dikenli
+Dikenli Deresi
+Dikme Deresi
+Dikmetaş Deresi
+Diktaşlar Deresi
+Dikyar Deresi
+Dilek Deresi
+Dilekyolu Deresi
+Dilli Çayı
+Dilmetaş Deresi
+Dim Çayı
+Dinek Deresi
+Direk Deresi
+Direklidamözü
+Dirgene Deresi
+Dişbudak Deresi
+Divanözü Deresi
+Divle
+Diyalesark
+Diyekize Deresi
+Dizyare
+Doğankaya
+Doğankent Çayı
+Doğansu Deresi
+Doğansuyu
+Doğu
+Doğuluşah Deresi
+Dohik Deresi
+Doksan
+Dokuman Deresi
+Dokuzsu Deresi
+Dola Deresi
+Dolap
+Dolay Deresi
+Dölekli
+Dolhan
+Doluköy Deresi
+Doluseki Çayı
+Dombaycı Deresi
+Domdom
+Domuzyolu Deresi
+Dona Deresi
+Dörtkilise Deresi
+Doruklu
+Dorum Deresi
+Döşeme Deresi
+Dövenci
+Doyran Deresi
+Duav Çayı
+Dubaniderge Deresi
+Dudan
+Dudan Deresi
+Dudaş Deresi
+Düden Çayı
+Düdükkaya Irmağı
+Düdüklü
+Düdüklü Deresi
+Dul Deresi
+Düldül Deresi
+Duman
+Dumanlı
+Dumanlı Çayı
+Dumbrek
+Dümbüllü
+Dumluca Deresi
+Dumlusu
+Dündül Deresi
+Duralan Çayı
+Durankaya Deresi
+Durbıpınar Deresi
+Dureyurt Deresi
+Dursunbey Çayı
+Durusu
+Düsalan Deresi
+Dutköy
+Dutlupınar
+Düven Deresi
+Düzalan Deresi
+Düzler Deresi
+Düzlük Deresi
+Düzlüktaş Deresi
+Düzmeşe Çayı
+Düzyurt Deresi
+Düzyurtboğazı Deresi
+Dırav Deresi
+Ebeler
+Eber Akarı
+Ebistan Deresi
+Ebreme
+Ebremesuyu
+Ebuhasan Deresi
+Ebülbahar Deresi
+Ecel Deresi
+Ecemiş Çayı
+Ecemiş Deresi
+Edremit Çayı
+Edül Deresi
+Efeler Çayı
+Efendi
+Efendi Deresi
+Efinnik Çayı
+Efokomu Deresi
+Eğilaslan Deresi
+Eğlence Çayı
+Eğrek Deresi
+Eğri Deresi
+Eğribucak Deresi
+Eğrisu
+Eğrisu Deresi
+Eğritaş Deresi
+Eğriyol Deresi
+Eğriyurt Deresi
+Ekerek Deresi
+Ekinözü Deresi
+Ekirli
+Ekmala Deresi
+Ekrek Deresi
+Ekşiligöze Deresi
+Elcik Deresi
+Elderesi Çayı
+Ele Deresi
+Elek Deresi
+Elekçi Irmağı
+Eleksu
+Eleşkirt Deresi
+Elevit Deresi
+Elgazi Deresi
+Elifuşağı Çayı
+Elmaçukuru Deresi
+Elmacıçatağı Deresi
+Elmacık
+Elmacık Çayı
+Elmadağ Deresi
+Elmali
+Elmalıyayla Deresi
+Elmapınar Deresi
+Elmayazısı Deresi
+Emdiz Deresi
+Emir Çayı
+Emir Deresi
+Emirali Deresi
+Emirgan Deresi
+Emirler Deresi
+Emirli Deresi
+Endek Çayı
+Enez Deresi
+Engerek Deresi
+Engiz Çayı
+Engücek Deresi
+Eraslan Deresi
+Ercivan Deresi
+Erdağı Deresi
+Erdem Deresi
+Erdemli
+Erdoğan Deresi
+Eren
+Erenköy
+Ergeç Deresi
+Ergene
+Ergenezsuyu
+Ergenli Suyu
+Ergezer Deresi
+Ergüs Çayı
+Erhami Çayı
+Eriç Deresi
+Erik Deresi
+Erikbeli Deresi
+Erikçiler Deresi
+Erikleryurdu Deresi
+Erikli
+Erikli Deresi
+Eriklik Deresi
+Erkeksu Deresi
+Ertabil Deresi
+Esatözü Deresi
+Ese Çayı
+Eşek Deresi
+Eşekpınarı Deresi
+Esen
+Eşen Çayı
+Esence
+Esence Çayı
+Eşence Deresi
+Esendurak Deresi
+Esengöl Deresi
+Eser Çayı
+Esesi Deresi
+Eşgüne Deresi
+Eşik Deresi
+Esirkul Deresi
+Eski
+Eski Bağlar
+Eskibeyli Deresi
+Eskiçat Deresi
+Eskiçay
+Eskice
+Eskiceyhanyatağı
+Eskigediz Mecrası
+Eskiharozlu
+Eşkik Deresi
+Eskikarakurt Deresi
+Eskiköprü
+Eskiköprü Çayı
+Eskikur Deresi
+Eşkincek Deresi
+Eskipazar Çayı
+Eskiyapar Deresi
+Eskiyayla Deresi
+Eslek Deresi
+Eşmakaya Deresi
+Esme
+Eşme
+Eşref Deresi
+Etennik Çayı
+Etmalı
+Etyemez Deresi
+Evdilek Deresi
+Evliyan
+Evliye Deresi
+Eymir Çayı
+Eymir Deresi
+Eynes Çayı
+Eytabi Deresi
+Eyüp Deresi
+Ezeltere Deresi
+Ezinepazarözü
+Ezkor Deresi
+Fabrika Çayı
+Fadlim Irmağı
+Fadıl Deresi
+Fakir Deresi
+Fakiriçmez Deresi
+Faraşın Çayı
+Faruk Deresi
+Fazlıoğlu Deresi
+Fehmiharabesi Deresi
+Fenek Deresi
+Fesleğen Deresi
+Feslikan
+Fik Deresi
+Fındık Çayı
+Fındıklun Deresi
+Fırtına Deresi
+Fıstık Deresi
+Fısırık Deresi
+Gabandibi Deresi
+Gabya Deresi
+Gabzo Deresi
+Gaçalı
+Gacan Çayı
+Gaciyon Deresi
+Gahnigenima Deresi
+Galata Deresi
+Galipbeyçayırı Deresi
+Galyan
+Gaman Deresi
+Gare Deresi
+Gavt Deresi
+Gavur Deresi
+Gavurdağı Deresi
+Gavurun Deresi
+Gayi
+Gazel Deresi
+Gazelyakup Deresi
+Gazozlu Su
+Gebe
+Gebe Deresi
+Gebedek Deresi
+Gebelit Deresi
+Gebi Deresi
+Geçemek Deresi
+Ged Deresi
+Gedik
+Gedikharman Deresi
+Gediz
+Gediz Çayı
+Gedizineski Mecrasi
+Gege Deresi
+Gegen Deresi
+Gelbiya Deresi
+Gelemiç Çayı
+Geleri
+Geliçukurun
+Geliduli Deresi
+Gelinboğan
+Gelintaş Deresi
+Gelintası
+Gelintaşı Deresi
+Gelisevik Deresi
+Gelisivri Deresi
+Gelkedin Deresi
+Gelutan
+Gem
+Geme Deresi
+Gemici Deresi
+Gemigeldano Çayı
+Gemin
+Gen
+Gençali Deresi
+Gendal Deresi
+Gendel Çayırı Deresi
+Genge
+Geno Deresi
+Gerçeçakılı
+Gerdekgirse Deresi
+Gerek Suyu
+Gerenözü Deresi
+Gerik Deresi
+Geriz Deresi
+Gerizler Deresi
+Germik Deresi
+Gernaoksuyu
+Gerut Deresi
+Gevenlik
+Gevilli Deresi
+Gevirken Deresi
+Gevla Çayı
+Gevrek Deresi
+Gevrik
+Gevrikırı Çayı
+Geyikli Deresi
+Geymene Deresi
+Geyre Çayı
+Giciksuyu Deresi
+Gilendi Deresi
+Ginik Deresi
+Girdap Deresi
+Girdeve Deresi
+Girdim Deresi
+Giresun Deresi
+Giresuu Deresi
+Girihasansuyu
+Girremerı Deresi
+Git Deresi
+Givre
+Göçbeyli Deresi
+Göçek Deresi
+Göçükler Deresi
+Göçyeri Deresi
+Gödeli Deresi
+Gödençayı Deresi
+Gödet Deresi
+Göğem
+Göğü Çayı
+Göğüs Deresi
+Gökbel Deresi
+Gökçay
+Gökçe Deresi
+Gökçebayır Deresi
+Gökçebel Çayı
+Gökçeköy Deresi
+Gökçeler Deresi
+Gökçeli Çayı
+Gökçen Deresi
+Gökçepınar Deresi
+Gökçesu Çayı
+Gökceviz Deresi
+Gökçukur Deresi
+Gökdere
+Gökdere Çayı
+Gökderesuyu
+Gökgöbet Deresi
+Gökgörü Deresi
+Gökkaya Çayı
+Gökkaya Deresi
+Gökkız Deresi
+Göknar Deresi
+Gökyar Deresi
+Gökyer
+Gökyer Deresi
+Gökırmak Çayı
+Gölalan Deresi
+Gölarası Deresi
+Gölayağı
+Gölbaşı
+Gölbaşı Deresi
+Gölboğa Deresi
+Gölçayı Deresi
+Gölceyhan
+Gölcübel Deresi
+Göldemi Deresi
+Gölecik Deresi
+Göllerin Deresi
+Göllü Çayı
+Gölören Deresi
+Gölpala Deresi
+Göltarla Deresı
+Gölyeri Deresi
+Gömürgen Deresi
+Gonca
+Göndebol Deresi
+Göndelen
+Gönençay Deresi
+Gönençayı Deresi
+Gördes Çayı
+Göre Deresi
+Görele Çayı
+Gören Deresi
+Görle Deresi
+Görlek Deresi
+Görtün Deresi
+Gövemli Deresi
+Göynüközü Deresi
+Gözce Deresi
+Göze Deresi
+Gözeler Deresi
+Gözelerbaşı Deresi
+Göztaşı Deresi
+Gözün Deresi
+Güble Deresi
+Gücücek Deresi
+Guğuk Deresi
+Guharık Deresi
+Güher Deresi
+Gül
+Gül Deresi
+Gülan Çayı
+Gulan Deresi
+Gülçatı
+Güldür Deresi
+Güldürgü Deresi
+Gülek Deresi
+Gülen
+Gülen Deresi
+Gülin Deresi
+Gülizar
+Gülizar Deresi
+Gülkan Deresi
+Güllevık Deresi
+Gülleyük Deresi
+Güllü
+Güllü Deresi
+Güllühan
+Gülüce Deresi
+Gümbat Deresi
+Gümbece Deresi
+Gümgüm Deresi
+Gümüşane Deresi
+Gümüşdamla Deresi
+Gümüşkan
+Gümüşkanal Çayı
+Gümüşoluk
+Gümüşs Çayı
+Gümüşsuyu Çayı
+Gümüşsuyu Deresi
+Gümüştuğ Deresi
+Gün Deresi
+Günafal
+Günder Çayı
+Gündüz Çayı
+Gündüz Deresi
+Güneş
+Günüş Deresi
+Günyurdu Deresi
+Güradın Deresi
+Gürbüz
+Gürçay
+Gürcüoğlu Deresi
+Gürcüoğlu Kanalı
+Gürdük Deresi
+Güre Deresi
+Güredin Çayı
+Güren Çayı
+Gürgen
+Gürgenli
+Gürlek Deresi
+Gürlen Çayı
+Gürleyik Deresi
+Gürümlü
+Güven Deresi
+Güvençer Deresi
+Güvercin Deresi
+Güvercinlik
+Güvetler
+Güz Deresi
+Güzeld Deresi
+Güzelhan Deresi
+Güzme Deresi
+Gyolideshtu
+Habeş Irmağı
+Habib Deresi
+Hacalardı Deresi
+Haçan Deresi
+Haçgala Deresi
+Hacikadin
+Haçili Deresi
+Hacıali
+Hacıaydın Deresi
+Hacıbekirözü
+Hacıdiri Deresi
+Hacıeşref Deresi
+Hacıhamza
+Hacıhamza Deresi
+Hacıkara Deresi
+Hacıkola Deresi
+Hacımuratlı Deresi
+Hacımusa Deresi
+Hacıoğlu Deresi
+Hacıömer Deresi
+Hacıseyit Deresi
+Hacız Deresi
+Hafi Deresi
+Hain
+Hala Deresi
+Halayık Deresi
+Halçik Çayı
+Haldizen Deresi
+Halep Suyu
+Halil Deresi
+Halilböğre Deresi
+Halitharabesi Deresi
+Halka Deresi
+Halkapınar Deresi
+Halıpınar Deresi
+Ham Deresi
+Hamak
+Hamam
+Hamam Çayı
+Hamamözü Çayı
+Hamamözü Deresi
+Hamamsuyu
+Hamamsuyu Deresi
+Hamamın Deresi
+Hamidiye Deresi
+Hamido Deresi
+Hamurkesen Deresi
+Hamzabey Deresi
+Hamzalı Deresi
+Han Suyu
+Hana Deresi
+Hanak Suyu
+Hanas Deresi
+Hançer
+Handeresi
+Hanik Deresi
+Hanikan Deresi
+Hanikef Deresi
+Haniye Deresi
+Hankaduman Deresi
+Hanlar
+Hanpazar Deresi
+Hanımoğlu Deresi
+Hanımın Deresi
+Hapukan Deresi
+Harabe
+Harabe Çayı
+Harabegiremir Deresi
+Haramsu
+Haran Deresi
+Harapdam Deresi
+Harapıl Deresi
+Harar Deresi
+Harebe Deresi
+Harem
+Harhur Deresi
+Harinket Deresi
+Harji
+Harmanköy Deresi
+Harputlu Deresi
+Harşit Çayı
+Hart Deresi
+Has Deresi
+Hasanağa Çayı
+Hasanali Deresi
+Hasanbey Deresi
+Hasancı Deresi
+Hasankale Çayı
+Hasankoyağı Deresi
+Hasantaşı Deresi
+Hasanusta Deresi
+Hasare
+Hasbey Deresi
+Hasekli Deresi
+Haseyin Deresi
+Haşim Deresi
+Haşkan
+Hatapçı
+Hatepli
+Hatila Deresi
+Hatinin
+Hatip Çayı
+Hatip Deresi
+Hattare Deresi
+Hatun Deresi
+Hatunçukur Deresi
+Havaçor Deresi
+Havalan Çayı
+Havan Deresi
+Havran Çayı
+Havsa Deresi
+Havutlukoyak Deresi
+Havuzlar Deresi
+Haydarlı
+Haylan
+Hayrabolu Deresi
+Hayılı
+Hayırlı
+Hayırlı Deresi
+Hazine Deresi
+Hazne Deresi
+Hazro
+Hazro Deresi
+Heba Deresi
+Hebirler Deresi
+Heladı Çayı
+Helana
+Helgin Deresi
+Helke Deresi
+Helun Deresi
+Hemşin Deresi
+Hendek
+Herimya Deresi
+Heroneksuyu
+Hev Deresi
+Heybel Deresi
+Higdar Deresi
+Hilal
+Himiççe Deresi
+Himmetoğlu Çayı
+Hindanik Deresi
+Hinisgayi
+Hiraban Deresi
+Hirbebişki Deresi
+Hisarlar Deresi
+Hisarlı Deresi
+Hissana Deresi
+Hizar Deresi
+Hocaali Deresi
+Hocaveren Deresi
+Hodiçor Deresi
+Hödük
+Homi Çayı
+Honaz Çayı
+Hopa Çayı
+Hopur Çayı
+Hora Deresi
+Horasan Deresi
+Horman Deresi
+Hortik Deresi
+Horunkurun Deresi
+Horzum Çayı
+Hoş
+Hovek Deresi
+Hoynan
+Höyük Deresı
+Höyüklü Çayı
+Hozat Deresi
+Hücre Deresi
+Hücreli
+Huhun
+Hükem Deresi
+Hümgamek Deresi
+Hun
+Hunut Deresi
+Hurman Çayı
+Hüsam Deresi
+Husamettin Deresi
+Hımış Deresi
+Hınzırot
+Hır
+Hızar Deresi
+Hızırözü Deresi
+İbonun Deresi
+İbrahimözü Deresi
+İçbağ Deresi
+İçboğaz Deresi
+İçerisu
+İd Deresi
+İdsuyu
+İğdeler Deresi
+İğdeli Deresi
+İğdir Deresi
+Iğirbiğir Deresi
+İkidam Deresi
+İkisu Deresia
+İkizce
+İkiztaşı Deresi
+İkpar Çayı
+Ikızarası Deresi
+İlanlı Deresi
+Ilgardere Çayı
+Ilgın Deresi
+Ilgınkoyağı Deresi
+İlhan Çayı
+İlisi Çayı
+İlke Çayı
+İlyas Deresi
+İlyasözü
+Ilıca Irmağı
+Ilıcak Çayı
+Ilıcak Deresi
+Ilıcaözü Deresi
+Ilık
+Ilıksu
+Ilıksu Deresi
+Ilıman Deresi
+İlırmağı
+İman Deresi
+İmbat Deresi
+İmerhav Çayı
+İmrahor
+Imrahor Deresi
+In Asmak
+İn Deresi
+İnal Deresi
+İnandık Deresi
+İnaslar
+İnce Deresi
+İnceağn Deresi
+İnceağrı Çayı
+İncebel Deresi
+İnceçarsak Deresi
+İncesu Çayı
+İnci Çayı
+İncil Deresi
+İncir
+İnderesi
+İnece Deresi
+İnicek
+İnikan Deresi
+İnindibi Deresi
+İnişli
+İnkaya Deresi
+İnköyü Deresi
+İnler Deresi
+İnli Çayı
+İnsaniye
+İnsuyu
+İnırmağı Deresi
+Iraklar Deresi
+Irgat Deresi
+Irgatlı Deresi
+İriç Deresi
+Irlamaz Çayı
+İrşat Suyu
+İsabeyli Çayı
+Işilli Çayı
+Iskalan Deresi
+İskander
+Iskarlaazmağı
+İskefiye Deresi
+İskenderköy Deresi
+İşkiller Deresi
+Islihan
+İslim Deresi
+İsmetiye Deresi
+Isparta Çayı
+Istranca Deresi
+Işıklar Deresi
+Işıközü Deresi
+Işılğan
+Isılgan Deresi
+İyi
+İyidere Çayı
+İzmir Deresi
+Kabaağaç
+Kabacami Deresi
+Kabak Deresi
+Kabakbekir Deresi
+Kabaklar Deresi
+Kabakoz
+Kabakoz Deresi
+Kabaktepe Deresi
+Kabala Çayı
+Kabalak Deresi
+Kabalaklı Deresi
+Kabasakal Deresi
+Kabısra Çayı
+Kaçkar Deresi
+Kadiraközü Deresi
+Kadın Azmağı
+Kadıncık Deresi
+Kadıoğlu Deresi
+Kağnikunecika Deresi
+Kago Deresi
+Kağoıkuşka Deresi
+Kâğıthane Deresi
+Kâhta Çayı
+Kainarja
+Kaklık
+Kalabaklı
+Kalabaklı Deresi
+Kalabalık Çayı
+Kalabir Deresi
+Kalabuz Deresi
+Kalaça Deresi
+Kaladibi Deresi
+Kalafa Deresi
+Kalan Deresi
+Kalaycı Çayı
+Kalburcu Çayı
+Kalburcu Deresi
+Kalburcusuyu
+Kalburt Deresi
+Kaldırvuk Deresi
+Kaldırım
+Kaldırımçayır Deresi
+Kale Tepesi
+Kaleboğazı Deresi
+Kaleboynu Çayı
+Kaledibi Çayı
+Kaleiçi Deresi
+Kalek Deresi
+Kalem Deresi
+Kaleözü Deresi
+Kalgımaç Deresi
+Kali
+Kalikmo Deresi
+Kalkan Çayı
+Kalkan Deresi
+Kalkım Çayı
+Kalla
+Kalman Deresi
+Kalopotmos Deresi
+Kaloso Deresi
+Kalvosan Deresi
+Kalyan Deresi
+Kalın
+Kamanın Deresi
+Kambar
+Kamber Deresi
+Kamsarık
+Kamış
+Kamışcık Deresi
+Kamışlı Deresi
+Kamışlıgöl Deresi
+Kamısözü Deresi
+Kan Deresi
+Kanak
+Kanak Çayı
+Kanak Deresi
+Kanak Oghlu
+Kanal Deresi
+Kanber Deresi
+Kancalar Deresi
+Kandarmes Deresi
+Kandede Deresi
+Kandevir Deresi
+Kandirli Deresi
+Kanibey Deresi
+Kanifushki
+Kanl ı
+Kanli
+Kanlı Deresi
+Kanlıçay Deresi
+Kanlıçayır Deresi
+Kanlıdereçayı
+Kanlıköprü Deresi
+Kansız
+Kantarkaya Deresi
+Kantarlı Deresi
+Kantarma Deresi
+Kantere Deresi
+Kanyallı Deresi
+Kap Deresi
+Kapaklı Deresi
+Kapaklıpınar Deresi
+Kapalıboğaz Deresi
+Kaplan Deresi
+Kaplanbükü Deresi
+Kaplanca Deresi
+Kaplançorağı Deresi
+Kaplankaya Deresi
+Kaplıkaya Deresi
+Kaput Deresi
+Kapuzlu
+Kapuzsuyu Deresi
+Kapı
+Kapıkkaya Deresi
+Kapılı
+Kapız Çayı
+Kara Çayı
+Kara Deresi
+Karaaağaç Deresi
+Karaaba Deresi
+Karaabdal Deresi
+Karaağaç Çayı
+Karaağaçlı
+Karaali Deresi
+Karaalı
+Karaaslanlı Deresi
+Karabadran Deresi
+Karabalık Deresi
+Karabekir Suyu
+Karabel Cayı
+Karabel Çayı
+Karaboğaz Cayı
+Karaboğaz Çayı
+Karaboyalık Deresi
+Karabudak Çayı
+Karabuk Deresi
+Karabulak Deresi
+Karaburhan Deresi
+Karabüvet Deresi
+Karacaağaç Deresi
+Karacahennemboğazı Çayı
+Karacakomu Deresi
+Karacaköyyalısı Çayı
+Karaçakıl Deresi
+Karacakılavuz Deresi
+Karacalar Çayı
+Karaçalı Deresi
+Karaçalıboğazı Deresi
+Karaçalılı Deresi
+Karaçalılık Deresi
+Karacaören Deresi
+Karacasu
+Karacaviran Deresi
+Karaçayır
+Karaçomak Çayı
+Karaçukur Deresi
+Karacıksuyu Deresi
+Karadağ Deresi
+Karadağsuyu
+Karadağın
+Karadere Irmağı
+Karaderecinözü
+Karadikmen Deresi
+Karadona
+Karağaç Deresi
+Karagöl
+Karagöller Deresi
+Karagüney Deresi
+Karahacip Deresi
+Karahan Çayı
+Karahisar Çayı
+Karahisar Suyu
+Karahisarçayı Deresi
+Karahisarsuyu
+Karahit Deresi
+Karahıdır Deresi
+Karakala Deresi
+Karakale Deresi
+Karakavak Deresi
+Karakaya
+Karakayaözü Deresi
+Karakeçi Deresi
+Karakisle Deresi
+Karakoca Deresi
+Karakol Deresı
+Karaköprü Deresi
+Karakova Deresi
+Karakoyak Deresi
+Karakoyun Çayı
+Karakoyun Deresi
+Karakoz Deresi
+Karakuş Çayı
+Karakışla Deresi
+Karakız Deresi
+Karalas Deresi
+Karaldük Deresi
+KaralıK Deresi
+Karaman Çayı
+Karaman Deresi
+Karamca
+Karamcak Deresi
+Karamcı
+Karameşe Deresi
+Karamurat Deresi
+Karamusa Çayı
+Karamustafa Deresi
+Karandualtı Deresi
+Karanfılli
+Karanlı
+Karanlıkkapısı
+Karantık Deresi
+Karanıca Deresi
+Karaoğlak Deresi
+Karaoğlan
+Karaovacık Deresi
+Karapir Deresi
+Karapınar
+Karapınarın Deresi
+Karasazak Deresi
+Karasinı Deresi
+Karasu Irmağı
+Karasuyu Deresi
+Karatalkuyusu Deresi
+Karataşın Deresi
+Karatepe Deresi
+Karatuzla Deresi
+Karaviran Çayı
+Karayağdı Deresi
+Karayol Deresi
+Karçal Deresi
+Kares Deresi
+Kargabedir Deresi
+Kargadalı Deresi
+Kargalı
+Kargazbenizra
+Kargı Çayı
+Kargı Deresi
+Kargın Çayı
+Kargıncık Deresi
+Karinek Deresi
+Karinic Deresi
+Karizirkan Deresi
+Karluz Deresi
+Karlık
+Karnı Çayı
+Karpuzlu Çayı
+Karsak Deresi
+Kartal
+Karz Deresi
+Karıcinkol
+Karılarboğazı Deresi
+Karınca Deresi
+Karıncalıçeşme Çayı
+Kas
+Kasa Deresi
+Kasaba Deresi
+Kasili
+Kaşka Deresi
+Kasrık Deresi
+Katar Deresi
+Katran Deresi
+Katrançayı Deresi
+Katranlı
+Katroş Deresi
+Katır
+Katır Deresi
+Katırova Çayı
+Kavach
+Kavacık
+Kavacık Barajı
+Kavacık Deresi
+Kavak
+Kavak Çayı
+Kavakboğaz Deresi
+Kavakçaören Deresi
+Kavaklar Deresi
+Kavaklarboyu Deresi
+Kavakların Deresi
+Kavaklı Deresi
+Kavaklıkolan Deresi
+Kavakorman Deresi
+Kavakpınarı Deresi
+Kavala Deresi
+Kavaşan Deresi
+Kavran Deresi
+Kavranbeli Deresi
+Kavraz Deresi
+Kavron Deresi
+Kavşak Çayı
+Kavşak Deresi
+Kavunluk Deresi
+Kay Deresi
+Kaya
+Kayaaltı
+Kayabaşı Deresi
+Kayacık Çayı
+Kayacık Deresi
+Kayagözü Deresi
+Kayalar
+Kayalar Deresi
+Kayaliağıl
+Kayalı Deresi
+Kayalık
+Kayaoğlu Deresi
+Kayaözü
+Kayapınar
+Kayapınar Deresi
+Kayayurdu Deresi
+Kaygıntaş Deresi
+Kaynak
+Kaynak Çayı
+Kaynarcı
+Kaynarlı
+Kaynatma Deresi
+Kayrak Deresi
+Kayşanlı
+Kayı Deresi
+Kayış Deresi
+Kayışpınar Deresi
+Kazan
+Kazanağzı Deresi
+Kazancı Deresi
+Kazancıközü Deresi
+Kazankaya
+Kazoğlu Deresi
+Kazova Deres
+Kazıcıhan Deresi
+Kazıkkaya Deresi
+Kazıklı
+Kazıklı Çayı
+Kazıklı Deresi
+Kazılıçayır Deresi
+Kazımbeyin Deresi
+Kazınlık Deresi
+Kebir Deresi
+Keçeci Deresi
+Keçeeğreği Deresi
+Keçialan Deresi
+Keçiborlu Çayı
+Keçibükü Deresi
+Keçikakıboğazı Deresi
+Keçili
+Keçili Deresi
+Kefinin Deresi
+Kefiz Deresi
+Kekeç Çayı
+Kekikpınar Çayı
+Kelan Deresi
+Kelçay Deresi
+Kelçayır Deresi
+Kelebek Çayı
+Kelekçi Çayı
+Kelepun Deresi
+Kelereş Deresi
+Keles Çayı
+Keleş Deresi
+Kelesen Deresi
+Kelhas Deresi
+Kelkil Çayı
+Kelkit Çayı
+Keller Deresi
+Kelmen Deresi
+Kelsarı Deresi
+Kem
+Kemalpaşa Çayı
+Kemberli
+Kemer Çayı
+Kemerağzı Deresi
+Kemerköprü Deresi
+Kendalan Deresi
+Kenözü Deresi
+Kent Deresi
+Kepektaş Deresi
+Kepir Deresi
+Kepiri Deresi
+Kepirözü Deresi
+Kerağil Deresi
+Kerel Çayı
+Keremin Deresi
+Kereves
+Kerhan Deresi
+Keribeş Deresi
+Kerinsuyu
+Kerkit Deresi
+Kertkaya Deresi
+Kervansaray Deresi
+Kerzin Çayı
+Kes Deresi
+Keş Deresi
+Kesan Deresi
+Keşege Deresi
+Kesen
+Keserlik Deresi
+Kesik Çayı
+Kesik Suyu
+Kesikdağ Deresi
+Kesikköprü
+Keşiş Suyu
+Keşişin Deresi
+Keskin Deresi
+Keslik Deresi
+Kesme Çayı
+Kesrik Çayı
+Kesriksuyu
+Kestavur Deresi
+Kestelkapızı
+Kestelkapızı Deresi
+Kestuvan Çayı
+Keten Çayı
+Ketenli
+Ketenlik Deresi
+Këtyusu
+Kevikhirar
+Kevkirli Deresi
+Kevrisoı Deresi
+Khedrish
+Khemika
+Kicik Deresi
+Kilis Deresi
+Kilise
+Killi Çayı
+Killiközü
+Kilur Deresi
+Kimlik Çayı
+Kimyanis Deresi
+Kindas Deresi
+Kinyata
+Kirazalan Deresi
+Kirazbaşı Çayı
+Kirazlı
+Kirazlı Çayı
+Kirazlı Deresi
+Kireçlik Deresi
+Kirenis Çayı
+Kiret Deresi
+Kiriran Deresi
+Kirmir Çayı
+Kirocin Deresi
+Kirpe Deresi
+Kirzeytin Deresi
+Kisealan Deresi
+Kişipaşa Deresi
+Kizil-Ark
+Kiziroğlu Deresi
+Koça
+Koca Çeşme
+Kocaakovanlık
+Kocaalan Deresi
+Kocabaş Çayı
+Kocaboğaz Deresi
+Kocageçit
+Kocagemez Deresi
+Kocagüz Deresi
+Koçak
+Kocak Deresi
+Kocakarran Deresi
+Kocakarı Deresi
+Kocakızöldüğü Deresi
+Kocali Deresi
+Koçalı
+Kocaman
+Koçan Deresi
+Kocanus Deresi
+Kocaöz Deresi
+Koçar Deresi
+Kocaş Deresi
+Koçaş Deresi
+Kocasu
+Koçcağız Deresi
+Koceran
+Koçkuyusu Deresi
+Koducak Deresi
+Kodzhadere
+Koğan Deresi
+Koğucak Deresi
+Koh Deresi
+Kök Deresi
+Kokar Çayı
+Köklük Deresi
+Kokolet Deresi
+Kökpınar Deresi
+Köktaş Deresi
+Kol Deresi
+Kolağıl
+Kolak Deresi
+Kolaz Çayı
+Kolik Çayı
+Kolkkaynağı Deresi
+Kollu
+Kolra Deresi
+Koltuk Çayı
+Koltuk Deresi
+Kom Deresi
+Koma Deresi
+Koman Deresi
+Komboyu Deresi
+Komsor Deresi
+Kömür Çayı
+Kömür Deresi
+Kömürlü
+Kömürsuyu
+Kömürsuyu Deresi
+Konakköy Deresi
+Kondak Deresi
+Konukluk Deresi
+Konuşağıl Deresi
+Kop Deresi
+Kopak Çayı
+Koparan
+Kopazı Deresi
+Köpekli
+Köpenez Deresi
+Köprü Irmağı
+Köprüağzı
+Köprüaltı Deresi
+Köprübaşı Deresi
+Köprüce Deresi
+Köprücük Deresi
+Köprüler Deresi
+Köpüklü
+Kör
+Korakuru Deresi
+Korandar Deresi
+Koraş Deresi
+Korasuyu
+Körez Deresi
+Körhane Deresi
+Körhasan
+Körkemal Deresi
+Körkörük Deresi
+Körkün Çayı
+Korkuteli Çayı
+Korkuteli Deresi
+Körkuyuçayırı Deresi
+Körmenlik Deresi
+Köroğlu Çayı
+Körpeliboğaz Deresi
+Körpınar Deresi
+Korşu Deresi
+Körsulu
+Körsulu Deresi
+Körtün Irmağı
+Korucuk Deresi
+Koruk Deresi
+Körük Deresi
+Korukçu Deresi
+Körüklü
+Koruköy Deresi
+Körünkuyusu
+Korışık Deresi
+Koş
+Koşana Deresi
+Köşe
+Köse Deresi
+Köseler Deresi
+Köseli
+Köşk Deresi
+Koskar Çayı
+Koşkar Deresi
+Koşkerliözü Deresi
+Koşkorun Deresi
+Koşmaşat Çayı
+Köstebek Çayı
+Koştul Deresi
+Kosun Çayı
+Kotan Deresi
+Kötek Deresi
+Koti Deresi
+Kötüre Deresi
+Kovalan
+Kovalıboğaz Deresi
+Kovalık Deresi
+Kovan Deresi
+Kovanlıkaltı Deresi
+Köy Çayı
+Köyalu Deresi
+Köydere
+Köyiçi Deresi
+Köyözü
+Köysulağın Deresi
+Koyunluyusuf Deresi
+Köyüstü Deresi
+Köyüüstüboğazı Deresi
+Kozağacı Deresi
+Kozak Çayı
+Kozan
+Kozan Deresi
+Kozanoluk Deresi
+Kozanyeri Deresi
+Kozcağız Deresi
+Kozdere Çayı
+Kozinin Deresi
+Kozkale Deresi
+Kozlu Deresi
+Kozlu Irmağı
+Kozluk
+Kozluk Çayı
+Kubat Deresi
+Kuçan Deresi
+Kücük
+Küçükacı Deresi
+Küçükayı Deresi
+Küçükbeğendik Deresi
+Küçükçay Deresi
+Küçükçaylak Deresi
+Küçükçayır Deresi
+Küçükçelmik Deresi
+Küçükdere Çayı
+Küçükdikenli
+Küçükgelengeç Çayı
+Küçükgirel Deresi
+Küçükgöre Deresi
+Küçükhalkalı Deresi
+Küçükkaraboğaz Deresi
+Küçükkaranlık Deresi
+Küçükkaydın Deresi
+Küçüklü Çayı
+Küçükmenderes Çayı
+Küçüköz
+Küfiçayı
+Küfü Çayı
+Kugans Deresi
+Kükür Deresi
+Kulacık Deresi
+Kulaksız Deresi
+Kulakız
+Kulavaçayı Deresi
+Külcübel Deresi
+Kulek
+Kulhasan Deresi
+Küllüce Deresi
+Kulük
+Kumalar
+Kumarlı Deresi
+Kumartaşı Deresi
+Kümbet
+Kümbet Özü
+Küme Çayı
+Küme Deresi
+Kumluk
+Kumluk Deresi
+Kummek
+Kumsal
+Kümüs Çayı
+Kumyazı
+Küpkıran Çayı
+Kür Çayı
+Kurbağalı
+Kurbağalı Deresi
+Kurban Deresi
+Kurbanpınar Deresi
+Kurbanpınarı Deresi
+Kurdelen Çayı
+Kureş Deresi
+Kurna Deresi
+Kurt Çayı
+Kürt Deresi
+Kurtalan Deresi
+Kurtbaşı Deresi
+Kurtboğazı Deresi
+Kurtboğozı Deresi
+Kurtdamı Deresi
+Kurtdelikleri Deresi
+Kurtdoğdu Deresi
+Kurtköy Deresi
+Kurtoğlu Çayı
+Kürtören Deresi
+Kurtsuyu
+Kurtsuyu Deresi
+Kurtuluş Deresi
+Kurtyurdu Deresi
+Kuru Deresi
+Kurucan Deresi
+Kurudan
+Kurudere
+Kuruhatman Deresi
+Kuruka
+Kurukavak Deresi
+Kurukol Deresi
+Kurupınar Deresi
+Kurusoğan Deresi
+Kuruyatak Deresi
+Kuş Deresi
+Kuşakların Deresi
+Kuşburnu Deresi
+Kuşca Deresi
+Kuşcul Deresi
+Kuşdere
+Kuşmaşat Deresi
+Kuşyatağı Deresi
+Kuşyuvaları Deresi
+Kutlu
+Kutu Deresi
+Kutul Deresi
+Kuvare Deresi
+Kuyu Deresi
+Kuyubaşı Deresi
+Kuyusırtı
+Kuz
+Kuzayca Deresi
+Kuzçay
+Kuzey Deresi
+Kuzgun
+Kuzgun Deresi
+Kuzukulağı Deresi
+Kuzulu Deresi
+Kuzupınar Deresi
+Kyuyuk-kara chay
+Kıbrıs Deresi
+Kıl Deresi
+Kılavuz Çayı
+Kıldırkoyak Deresi
+Kıldırözü Deresi
+Kılkıstı Deresi
+Kılsana
+Kılıçbeyi Deresi
+Kılıçcı Deresi
+Kılıçlı
+Kılıçlının
+Kılıçova Deresi
+Kılıçözü
+Kılınç Deresi
+Kınacık Deresi
+Kınalı
+Kıncılar Çayı
+Kındıra Deresi
+Kınıkçı Deresi
+Kır Deresi
+Kıraç Suyu
+Kıran Deresi
+Kıranaltı Deresi
+Kırar
+Kırasu Deresi
+Kırbabalar Deresi
+Kırdım Çayı
+Kırk Deresi
+Kırkçam Deresi
+Kırkgeçen
+Kırkminare Deresi
+Kırkpınarlar Deresi
+Kırksu
+Kırksu Deresi
+Kırma Çayı
+Kırmehmet Deresi
+Kırmızı Deresi
+Kırmızısu
+Kırmızıtaş Deresi
+Kırmızıtoprak Deresi
+Kırşehir Çayı
+Kırtepe Deresi
+Kırıkharman Deresi
+Kırıklar Deresi
+Kırıklı Çayı
+Kırım Deresi
+Kırın Deresi
+Kısa
+Kısakuyu Deresı
+Kışanlı
+Kıskanlı Deresi
+Kışla
+Kışlak
+Kışyurdu Deresi
+Kısırkaya
+Kıyan
+Kıyma Çayı
+Kız Deresi
+Kızgın
+Kızlık Deresi
+Kızoğlu
+Kızoluk Deresi
+Kızık Deresi
+Kızılağaç Deresi
+Kızılçağıl Deresi
+Kızılcaören Deresi
+Kızılcapınar Deresi
+Kızılçay Deresi
+Kızılçubuk Çayı
+Kızılcık Deresi
+Kızılcıksuyu Deresi
+Kızılderbentsuyu
+Kızıleniş Çayı
+Kızılev Deresi
+Kızılgeçitçayı Deresi
+Kızılgediksuyu
+Kızılhasan Deresi
+Kızılhisar
+Kızılkaya Deresi
+Kızılkuyu
+Kızıllı
+Kızılmescit Deresi
+Kızılsu
+Kızılsu Deresi
+Kızılüzüm Deresi
+Kızılırmak
+Laç Deresi
+Lâçin Deresi
+Lala Deresi
+Lalahan Deresi
+Lale Deresi
+Lampsaki
+Lapa Çayı
+Lardes Deresi
+Laşet Suyu
+Leğen Deresi
+Legiş
+Lenihan
+Leveke Deresi
+Levent Deresi
+Leyaz
+Leylekler Deresi
+Leyli Deresi
+Ligovi Deresi
+Lihan Deresi
+Liman Deresi
+Limonlu Çayı
+Lise Deresi
+Litat Deresi
+Liz Çayı
+Lori Deresi
+Lotka Deresi
+Lükeset Deresi
+Lüleci Deresi
+Lülük
+Lutfar Deresi
+Mabarazo Deresi
+Maçka
+Maçka Çayı
+Macunlu Deresi
+Madenler Deresi
+Madensuyu
+Madra Çayı
+Madra Deresi
+Mağaralı
+Mağaranın Deresi
+Mağarayolu Deresi
+Mağrip Deresi
+Mahkeme Pınarı
+Mahmurağa Deresi
+Mahmutlar Deresi
+Mahmutseydi Deresi
+Maka
+Maki Deresi
+Malagöz Deresi
+Malaka Deresi
+Malakeş Deresi
+Malaközü Deresi
+Malap Deresi
+Malgaç Çayı
+Malya Deresi
+Mamak Deresi
+Mamat Deresi
+Mamik Pınarı
+Mamoza Deresi
+Mamsaba Deresi
+Manahos Deresi
+Manakoz Çayı
+Manastır Çayı
+Manavgat Çayı
+Mancılık Deresi
+Mandaçamuru Deresi
+Mandalık Çayı
+Mandalık Deresi
+Mandarin Deresi
+Mandıra Çayı
+Manek Deresi
+Mans Deresi
+Mansur Deresi
+Mansura Deresi
+Mansuret Çayı
+Mansurlu
+Mantalık Deresi
+Manyas Çayı
+Margamiran Deresi
+Markuşa Çayı
+Marmaracık Deresi
+Masa
+Masai Deresi
+Masat Çayı
+Maşat Deresi
+Mashari Deresi
+Masirus Deresi
+Masla Deresi
+Maslak Deresi
+Mastek Çayı
+Masum
+Masıtlı
+Mavaka Deresi
+Mavrican Deresi
+Maymundüzü Deresi
+Medet Çayı
+Medzhit
+Melemez Çayı
+Melendizsuyu
+Melet Deresi
+Meletam Deresi
+Melez
+Melez Çayı
+Melez Deresi
+Meliha Deresi
+Melişe Deresi
+Melkis
+Memanlı Deresi
+Memeş
+Memi Deresi
+Memonun Deresi
+Mendere
+Mendere Chai
+Mendik Deresi
+Menekşe Deresi
+Menevişli
+Mengen Çayı
+Menki Deresi
+Menteşa Çayı
+Menzil Çayı
+Mera Çayı
+Meram Deresi
+Merç Boğazı Deresi
+Mercansuyu Deresi
+Mercin Suyu
+Merer Deresi
+Mereta Deresi
+Mergenli Deresi
+Mergi Deresi
+Merhahender Deresi
+Merikoğlu Deresi
+Merkez
+Mermerler Deresi
+Mersin Deresi
+Mersinli Deresi
+Mert Çayı
+Meryem Deresi
+Merziman Çayı
+Meşe Irmağı
+Meşedağı Deresi
+Meşeli Deresi
+Meşelik Deresi
+Meserke Deresi
+Meşgan Deresi
+Meşgan Deresı
+Mesitirika Deresi
+Mestan
+Metingöl Deresi
+Metro Deresi
+Mevzinin Deresi
+Meydancık Çayı
+Meydanlı Deresi
+Meydanmisganin Deresi
+Meydanıhan Deresi
+Meyillik Deresi
+Meyvanlı Deresi
+Mezarlar Deresi
+Mezarlık
+Mezarlık Deresi
+Mezit Deresi
+Mezitli
+Mezra
+Mihalıççık Deresi
+Mikelis Deresi
+Miliçsuyu
+Millik Deresi
+Minnetler Deresi
+Miran Deresi
+Mirkemenli Deresi
+Miskine Deresi
+Misor Deresi
+Miyalan
+Modaçar Deresi
+Modurgan Deresi
+Möküz Deresi
+Mollaahmet Deresi
+Mollahasan Çayı
+Mollamürze Deresi
+Moralı
+Moran Çayı
+Morev Deresi
+Morkaya Deresi
+Mortuma Çayı
+Mucit Deresi
+Mucuköz Deresi
+Mufil Deresi
+Müftü Deresi
+Muğla Deresi
+Muhakkas Deresi
+Muhat Deresi
+Muhlis
+Mühür Deresi
+Mühürkulak Deresi
+Mühürlügeçit
+Müküs Çayı
+Mülk Deresi
+Mumans Deresi
+Müminbey Deresi
+Munzur Çayı
+Munzur Deresi
+Munzur Suyu
+Murat
+Murat Çayı
+Murat Deresi
+Murata
+Muratçayı Deresi
+Muratdağ Çayı
+Muratkomu Deresi
+Murgul Çayı
+Murtlubucak Deresi
+Murtpınar Deresi
+Muruvan Deresi
+Musa Çayı
+Musalar Deresi
+Musanın Deresi
+Musaözü Deresi
+Musluca Çayı
+Mustafa Deresi
+Mustafa Kemal Paşa Çayı
+Mustafalar
+Mut Deresi
+Mutlu Deresi
+Mutluca Deresi
+Muttalip Deresi
+Muzalı
+Muzruplu Deresi
+Mıhlı
+Mısri
+Mısır Deresi
+Nacak Deresi
+Nacaklı
+Nağırtel Deresi
+Naipli Çayı
+Nakhr-Kladussi
+Nakhr-Yamadiya
+Nalabük Deresi
+Nalbant Deresi
+Naldöken Deresi
+Nalit Deresi
+Nallı Çayı
+Nalınlar Deresi
+Namnam Çayı
+Narlık Deresi
+Narlıkonak Deresi
+Narlıközü Deresi
+Narman Çayı
+Narman Suyu
+Narıçınar Deresi
+Nasyrova
+Natıflar Deresi
+Nav Doskiyan
+Nazik
+Nazilli Deresi
+Nehr Deresi
+Nehre Deresi
+Nelvel Deresi
+Nerduş Deresi
+Nerduvan Deresi
+Nergis Çayı
+Nergis Deresi
+Neşetiye Çayı
+Nevhent Deresi
+Nezgile Deresi
+Nif Çayı
+Nih Çayı
+Nihat Çayı
+Nilüfer Çayı
+Ninnisuyu
+Niprit Deresi
+Nivani Deresi
+Nivava Deresi
+Nizip Çayı
+Nohutgedik
+Norduz Çayı
+Norkâgak Deresi
+Norşen Deresi
+Norşin Deresi
+Nuhun Deresi
+Nurhan Deresi
+Oba Çayı
+Obruk Deresi
+Ocaklı
+Ocrkamireşu Deresi
+Odayeri
+Odunca Deresi
+Of Deresi
+Oğlan Deresi
+Oğlanik Deresi
+Oğulpaşa Deresi
+Oğuz
+Oğuz Deresi
+Ohi Deresi
+Okçu Deresi
+Okçular Çayı
+Okkayası
+Okluk Deresi
+Öksür Deresi
+Oktaş Deresi
+Oku Çayı
+Okuh Deresi
+Öküz Deresi
+Öküzahmetkoyağı Deresi
+Öküzarkaşı Deresi
+Olcak Deresi
+Olcay Çayı
+Ölçeksuyu Çayı
+Olgora Deresi
+Oltu Çayı
+Olucak Deresi
+Oluk Deresi
+Oluklu
+Ölüsür Deresi
+Omarlı Deresi
+Ömer Deresi
+Ömerağa Deresi
+Ömerdüzü Deresi
+Ömerhacı
+Ömersazı Deresi
+Ömertepe Suyu
+Ömeruçlu
+Omurlur Deresi
+Onaç
+Onaç Çayı
+Öncü Deresi
+Orakkesmez Deresi
+Oranis Deresi
+Ördekli
+Ordunos Deresi
+Ordüzü Deresi
+Ören Çayı
+Örenci Deresi
+Örencik Deresi
+Orhan Çayı
+Orhan Deresi
+Orhaneli Çayı
+Orhaniye Deresi
+Orhanlar Deresi
+Orman Deresi
+Ormançayı
+Ormanlı
+Ormanyolu
+Örmeli
+Ortaazmak Deresi
+Ortaburun Deresi
+Ortak
+Ortaklar Deresi
+Ortaköy
+Ortaköy Deresi
+Oruç
+Oskih Deresi
+Osman
+Osmancık Deresi
+Osmanlar Deresi
+Öteyüzözü
+Öteyüzözü Deresi
+Otlukbeli Çayı
+Ova
+Ova-Khamam
+Ovaçay Deresi
+Ovacık Deresi
+Ovaiçi Deresi
+Ovakoy
+Ovalı Deresi
+Oylar Deresi
+Oyma
+Oymaklı
+Öz Çayı
+Özalp Çayı
+Ozanlar Deresi
+Özbaşı Deresi
+Özbecik
+Özbey Deresi
+Özdenk Deresi
+Özderesi
+Özek
+Özgüven Deresi
+Öziçi Deresi
+Özlen Çayı
+Özler Deresi
+Özlüce
+Özlüce Deresi
+Özpınar Deresi
+Özüstü Deresi
+Pabuç Deresi
+Pakra Deresi
+Palabıyık Deresi
+Palamut
+Palamutluk Deresi
+Palavaç Deresi
+Palazor Deresi
+Paldır Deresi
+Palovit Deresi
+Pamuk
+Pamuk Deresi
+Pamuklu Çayı
+Pamuklu Deresi
+Pamukluk Çayı
+Pamukluk Deresi
+Panayır Deresi
+Pani Suyu
+Parlak
+Parmak Deresi
+Paşaalan Deresi
+Paşabükü Deresi
+Paşalıçayır Deresi
+Paspala Deresi
+Payamlı
+Payaslı Deresi
+Pazar Suyu
+Pazarözü Deresi
+Peçenek Deresi
+Pekmez Deresi
+Pekmezlik Deresi
+Peksemet
+Pelörek Deresi
+Pemisa
+Penbecik Deresi
+Pencik Deresi
+Penek Çayı
+Pengenli Deresi
+Peri
+Perili
+Perisuyu Çayı
+Pervi Deresi
+Pestil Deresi
+Peynir Deresi
+Pi Deresi
+Pilur
+Pirahmet Deresi
+Pirbedalan Çayı
+Pire Deresi
+Pirköçek Irmağı
+Piruf
+Pis Deresi
+Polatın Deresi
+Poligon Deresi
+Porsuk Çayı
+Posti Deresi
+Pozantı Deresi
+Pükeyi Deresi
+Pülk Çayı
+Pulluca Deresi
+Pumak Deresi
+Puns Deresi
+Pürtek Deresi
+Pürtük Deresi
+Püsküllü Deresi
+Pınarca Çayı
+Pınargözü Deresi
+Pınarlar Deresi
+Pınarlı
+Pırnasan Deresi
+Pıtıraklıöz Deresi
+Rabat
+Rama Deresi
+Ramtikpınar Deresi
+Ravan Deresi
+Ravlı
+Razuke
+Reka Gelligyuyan
+Reşadiye Çayı
+Reşidin Deresi
+Reşkan
+Resor Deresi
+Rhodius
+Ricil Deresi
+Ricıl Deresi
+Rikini Deresi
+Rubil Deresi
+Rūd-e Herātel
+Rūdkhāneh-ye Qarah Sū
+Rum Deresi
+Saat Deresi
+Saatli
+Saay Deresi
+Saban Deresi
+Şabanlı Deresi
+Şabanözü Çayı
+Sabanözü Deresi
+Şabanı
+Sabriban Çayı
+Sabun Suyu
+Sabuncupınar Deresi
+Sabunsuyu
+Sacir Suyu
+Saçır Çayı
+Sadgomi Deresi
+Şadibey Deresi
+Sadıkhan Deresi
+Safaalan Deresi
+Safia Çayı
+Safyolu
+Sağ
+Sagaran Çayı
+Sağlep Deresi
+Sağmalözü Deresi
+Sağırınçayır Deresi
+Sağızlığın Deresi
+Şahan Deresi
+Şahapyurdu
+Şahmaşursuyu
+Şahmelek Deresi
+Şahna Deresi
+Şahvelet Deresi
+Saimbeyli
+Sakarca Deresi
+Sakarinek Çayı
+Sakarya
+Şakban
+Sakçali
+Sakkallı Deresi
+Sakkan Deresi
+Şakmen Deresi
+Şakşak Deresi
+Sakızlı Deresi
+Sakızlık Deresi
+Sal
+Sala Deresi
+Salaçor Deresi
+Salaçursuyu
+Salakpur Deresi
+Salam Deresi
+Salasiyet Deresi
+Salat Çayı
+Salavat Deresi
+Şalgam Deresi
+Şalgösteren
+Salhan
+Salihin Deresi
+Salihoğlu Deresi
+Saltık Deresi
+Salur Deresi
+Salı Deresi
+Saman
+Saman Deresi
+Samanlı Deresi
+Samanlık Deresi
+Samantı Çayı
+Şamlar Deresi
+Şamlı
+Sampas Deresi
+Şamyan Deresi
+Sancıkısık Deresi
+Sanla Deresi
+Sansu Deresi
+Sap
+Sap Deresi
+Sapaca Deresi
+Sapadere Çayı
+Saraycık Çayı
+Saraycık Deresi
+Sardık
+Sarhoş
+Şarlavuk Deresi
+Şarlayan
+Sarlın Deresi
+Sarma
+Sarmaşık Deresi
+Şarnaz
+Sarnıç Çayı
+Sarnıç Deresi
+Sarp
+Sarp Deresi
+Sarpat Deresi
+Sarsak
+Sarsap
+Şarşar Deresi
+Sarı Çayı
+Sarıaydın Deresi
+Sarıazmak Deresei
+Sarıcaarı Deresi
+Sarıcabaşı
+Sarıcakaya Deresi
+Sarıçan
+Sarıçay Deresi
+Sarıçayır Deresi
+Sarıçorak Deresi
+Sarıcılar Deresi
+Sarıçınar Deresi
+Sarıdağ Deresi
+Sarıgazel Deresi
+Sarıhasan Deresi
+Sarıkavak Deresi
+Sarıköy Deresi
+Sarılar Deresi
+Sarım Çayı
+Sarımbey Deresi
+Sarımçayı Deresi
+Sarımsak Çayı
+Sarıömerli Deresi
+Sarıöz
+Sarısonger Deresi
+Sarısu Deresi
+Sarışık
+Sarıtaş
+Sarıtaş Deresi
+Sarıyaprak Deresi
+Sarıyar
+Sarıyar Çayı
+Sarıyar Deresi
+Sarıyayla Deresi
+Sarıyurt Deresi
+Sarız Çayı
+Şaşalsuyu
+Satderesi
+Satranç Deresi
+Satvan Deresi
+Savaşçılar Deresi
+Savazçayı Deresi
+Savruk
+Şavşat
+Şay
+Sayyatak Deresi
+Sayık Deresi
+Saz Çayı
+Sazcı Deresi
+Sazli Bett
+Sazlıpınar Deresi
+Saztarla Deresi
+Saıçayır Deresi
+Saııca Deresi
+Secikil Deresi
+Sedre Çayı
+Sefer Deresi
+Şehirçayı Deresi
+Şehit Deresi
+Şehitler
+Şehitler Deresi
+Şehler Çayı
+Şehriban Çayı
+Şeker Deresi
+Sekerek Deresi
+Şekerpınar Deresi
+Şekirhan Çayı
+Seksen
+Sel Çayı
+Selahattin Deresi
+Selamet Deresi
+Selbeyi Deresi
+Selekler Deresi
+Selim Deresi
+Sellik Deresi
+Semail Deresi
+Semerdağ Deresi
+Semerli
+Şemlik Deresi
+Şemo Deresi
+Şemsu Deresi
+Şen Deresi
+Sencan Deresi
+Şenliğin Deresi
+Şepgen
+Sera Deresi
+Serbest Çayı
+Serçe Deresi
+Serdef Deresi
+Serdere
+Şeref Deresi
+Şerefli Deresi
+Şerefyurdu Deresi
+Seregeli Deresi
+Serelkân Deresi
+Sergen Deresi
+Sergizin Deresi
+Şerik
+Şerik Deresi
+Serince
+Serinsu Deresi
+Serkehnirosuyu
+Sersemin Deresi
+Sevdik Deresi
+Sevdin Deresi
+Sevi Deresi
+Şevietopa Deresi
+Sevikaynağı Deresi
+Sevincek Deresi
+Sevinçli
+Şevketin Deresi
+Şevkettarla Deresi
+Sevmek Çayı
+Seydi
+Seydihisar Deresi
+Şeyh
+Şeyhametli Deresi
+Seyhan
+Seyhan Deresi
+Şeyhan Deresi
+Şeyhdeğirmeni Deresi
+Şeyhgür Çayı
+Şeyhhalil Deresi
+Şeyhibrahim Deresi
+Şeyhköy Deresi
+Şeyhnasır Deresi
+Şeyhsuyu Deresi
+Seyidinali Deresi
+Şeyik Deresi
+Seyit Çayı
+Seyitoren Deresi
+Seylan Deresi
+Seymen Deresi
+Seyran Deresi
+Seyret Deresi
+Şeytanburnu Deresi
+Shifshidan
+Shilerut
+Shiyi
+Sicim Deresi
+Sihke
+Şikelta Deresi
+Silil Deresi
+Silisözü Deresi
+Sille
+Silvan Çayı
+Silvin Çayı
+Simav
+Şimsat Çayı
+Şimşek
+Şimşimik Deresi
+Şimşirli
+Sinad
+Sinan Çayı
+Sinanca Deresi
+Sinandede Deresi
+Sinani
+Sincan Deresi
+Sinebel Deresi
+Sinek Deresi
+Singer Deresi
+Sini Deresi
+Sinnep Deresi
+Sinnep Suyu
+Sip
+Sipile Deresi
+Şiran Çayı
+Sirife Deresi
+Şirilakan
+Şirin
+Sirli
+Şişman Çayı
+Sito Pınarı
+Şivan Deresi
+Şivgolik Deresi
+Sivri
+Siyahözü
+Siyahpınar Deresi
+Siyahtaşçeşme Deresi
+Siyahtaşlik Deresi
+Siyahtaşlı
+Siyilli
+Sobran Deresi
+Sofu
+Sofular Çayı
+Sofular Deresi
+Sofularköyü Deresi
+Sofullur Deresi
+Soğan Çayı
+Soğanlı
+Soğanlı Dereı
+Soğucaksu Deresi
+Soğuk
+Soğulcak Deresi
+Söğüllü Deresi
+Söğütalan Deresi
+Söğütçay Deresi
+Söğütcük Deresi
+Söğütçük Deresi
+Soğütlü
+Söğütlü Çayı
+Söğütlü Deresi
+Söğütlük Deresi
+Söğütsuyu Deresi
+Söke Deresi
+Sökmen Çayı
+Sökü Deresi
+Solaklı
+Solaklı Çayı
+Solgun Deresi
+Solhan Deresi
+Solohan
+Sonan Deresi
+Sondere
+Sor Deresi
+Şor Deresi
+Şorak
+Şorak Deresi
+Soranlı
+Sori Ova Suyu
+Şorikler Deresi
+Sorkan
+Sorkan Deresi
+Sorkanyolu Deresi
+Sorkun Deresi
+Sorkunlu Deresi
+Şoşar Deresi
+Şotik Deresi
+Su
+Su Tünell
+Sualtı
+Sualtı Deresi
+Subatan Deresi
+Subatmış Deresi
+Suçıkan
+Suçıkan Deresi
+Suçıkanın
+Sudere
+Suderesi
+Südüklü kuyu Deresi
+Sugözü Deresi
+Suharavaro Deresi
+Suhurpaşa Deresi
+Şuhut Çayı
+Suhuva
+Sukaçağı Deresi
+Sukonak Deresi
+Sulak
+Sulaklı
+Sular Deresi
+Sülboğazı Deresi
+Süle Deresi
+Suleiman Reiss
+Süleymançukuru Deresi
+Süleymanlı Deresi
+Süleymanyolu Deresi
+Sultançayı Deresi
+Sultansuyu
+Sultansuyu Çayı
+Suluca
+Sulucak Çayı
+Suluçayır Deresi
+Sulugeçit Deresi
+Sülüğünkuyu Deresi
+Sülüklü
+Sülüklüöz Deresi
+Sülüklüözü Deresi
+Suluyurt Deresi
+Sumahı
+Sumbas Çayı
+Sümbül Deresi
+Sümer Deresi
+Sümüklü
+Sunçan Deresi
+Sungu Suyu
+Süngütaşı Çayı
+Sünne Deresi
+Sünnet Deresi
+Sünnük Deresi
+Süpnihane Deresi
+Sürgü Çayı
+Sürgü Deresi
+Sürpiran Deresi
+Sürü Deresi
+Susaha Deresi
+Susama Deresi
+Susas Çayı
+Susurluk Irmağı
+Sütçüler Deresi
+Süvari Çayı
+Suvarı Deresi
+Suvat Deresi
+Suyığıldık Deresi
+Sıcak
+Sıçan Deresi
+Sıçancık Deresi
+Sıçankaya Deresi
+Sıçansuyu Deresi
+Sığırcı Deresi
+Sığırcıközü
+Sığırlı Deresi
+Şıhlar Deresi
+Şıkaftan Deresi
+Şıkeştek Deresi
+Sıra
+Sırakaya Deresi
+Sırakayalar Deresi
+Sıtma Pınarı
+Şıvgın Deresi
+Sızar
+Tabak Deresi
+Tabakhane Deresi
+Tabaklı Deresi
+Taban Çayı
+Tabanözü Deresi
+Tacik Deresi
+Taf
+Taflan Deresi
+Tağar Deresi
+Tahar Çayı
+Tahta Çayı
+Tahtacı Deresi
+Tahtakaya Deresi
+Tahtalı Deresi
+Tahtasuyu
+Tahılköy Deresi
+Takan Deresi
+Takanlı Deresi
+Takım
+Talan Deresi
+Talori Deresi
+Tanasur Deresi
+Tanbılık Deresi
+Tanözü
+Tanzi Deresi
+Tanı Deresi
+Tapi Deresi
+Tapu
+Tar Suyu
+Tarakçı Deresi
+Tarhana Deresi
+Tarla Deresi
+Tarlabaşı Deresi
+Tarlacık Deresi
+Tarsus
+Tartan
+Taşağıl Deresi
+Taşatan Deresi
+Taşboğaz
+Taşboğaz Deresi
+Taşburun Deresi
+Taşcıdeğirmen Çayı
+Taşdelen Memba Suyu
+Taşdemir Deresi
+Taşdirek
+Taşdığın Deresi
+Taşevler Çayı
+Taşkavgasi Deresi
+Taşkelik Çayı
+Taşlşgeçit Deresi
+Taşlı Çayı
+Taşlıbayır Deresi
+Taşlıçay Deresi
+Taşlıgeçek Deresi
+Taşlıgeçit Deresi
+Taşlık Deresi
+Taşlıköy Deresi
+Taşlıyayla Deresi
+Taşu Deresi
+Taşveren Deresi
+Tat
+Tatik Deresi
+Tatlar Çayı
+Tatlıçay
+Tatlıöz
+Tatlısu Deresi
+Tavak Deresi
+Tavla
+Tavras Deresi
+Tavuk Çayı
+Tavusker Deresi
+Tazeköy Deresi
+Teberoğlu
+Tecdit
+Tecer Irmağı
+Teirup Deresi
+Teke
+Tekeliiçi Deresi
+Teketaşı Deresi
+Tekir
+Tekke
+Tekler Deresi
+Tekman Deresi
+Tekneci Deresi
+Tekneciler Deresi
+Teknekayat Deresi
+Tekneler Deresi
+Tektük
+Tembelin Deresi
+Temikurtlu Deresi
+Temrezli
+Temurözü
+Tendürek Deresi
+Tengilla Çayı
+Teniste
+Teniz Deresi
+Tenkir
+Tepecik Deresi
+Tepelik
+Terazin
+Terektaşları Deresi
+Ternoçayı Deresi
+Tersakan
+Tersakan Deresi
+Tersin Deresi
+Teslim Deresi
+Teştın
+Tevrine Deresi
+Tezli Deresi
+Ticoünan Deresi
+Tiftik Deresi
+Tigris
+Tikikısığı
+Tilkicek Deresi
+Tilkihan
+Tilmenur Deresi
+Timisi Deresi
+Tinis Deresi
+Tirkaş Deresi
+Tiş
+Tohmasuyu
+Tok
+Toka Çayı
+Tokadın Deresi
+Tokat Çayı
+Tokat Deresi
+Tokat Irmağı
+Tokattaşı Deresi
+Tokgöz Deresi
+Tokluağıl Deresi
+Tokluca Çayı
+Toklukaya Deresi
+Tomak Çayı
+Tomara Deresi
+Tomaran Deresi
+Top Deresi
+Topak Deresi
+Topaktaş Deresi
+Topraktarla Deresi
+Topsakal Deresi
+Toptepe Deresi
+Topuzlu
+Toros Deresi
+Tortum Çayı
+Tosunlu
+Tozaklı
+Tozanlı Çayı
+Tozluca Deresi
+Tozman Deresi
+Tufan
+Tüllük Deresi
+Tulu Deresi
+Tunca Deresi
+Tünkeş Deresi
+Tür Çayı
+Turan
+Türbehasat Deresi
+Türemiş Deresi
+Türk Çayı
+Türkmen Deresi
+Türkyolu
+Turna Deresi
+Tusso Deresi
+Tuvi
+Tuz Deresi
+Tüzel Suyu
+Tüzelsuyu Deresi
+Tuzkayası Deresi
+Tuzlasuyu Deresi
+Tuzlayolu Deresi
+Tuzlusuyun Deresi
+Tuzlutepe Deresi
+Tyumchayi
+Tımar Çayı
+Üçağılınöz Deresi
+Üççatak
+Üçgülüç Deresi
+Üçharman Deresi
+Üçhöyüğünözü Deresi
+Üçkapılı
+Üçkardeş Deresi
+Üçkardeşler Deresi
+Üçköprü Deresi
+Üçsu Deresi
+Üçtaşınözü Deresi
+Üçürgesuyu
+Uğrak
+Uğur
+Uğurdalı Deresi
+Uğurpınar Deresi
+Uğuz Çayı
+Ulaş Deresi
+Ulu Çayı
+Ulubat Çayı
+Ulugöl Deresi
+Ulugüney Çayı
+Ülük Deresi
+Ulukale Deresi
+Uluköy Deresi
+Ulusu Çayı
+Umurbey Çayı
+Unmay Çayı
+Ürküten
+Urlar Deresi
+Urus
+Urus Çayı
+Üsgülüç Çayı
+Üsküdarboğazı Deresi
+Üsküle Deresi
+Üsküp Deresi
+Üstünlar Çayı
+Uyanık Deresi
+Uyuzpınarı Deresi
+Uzakyığ
+Uzandı Deresi
+Üzcek Deresi
+Üzülmez Deresi
+Üzümbağı Deresi
+Üzümcü Çayı
+Üzümcü Deresi
+Üzümcüboğaz Deresi
+Üzümlüğün Deresi
+Üzümlük Deresi
+Uzunalan Deresi
+Uzunan
+Uzunca
+Uzunçam Deresi
+Uzungöl Deresi
+Uzunkavak Çayı
+Uzunlu
+Uzunsu
+Vahkin
+Vanek Deresi
+Varalı Deresi
+Varmışık Deresi
+Varvara Deresi
+Vasgert Deresi
+Vayso Deresi
+Vayvay Deresi
+Vazihev Deresi
+Vedikvare Deresi
+Vedinov Deresi
+Vedişaya Deresi
+Vedisya Deresi
+Velaris Deresi
+Veledin Deresi
+Velika Deresi
+Veliköy Deresi
+Venk Deresi
+Vesirin Deresi
+Veziroğlu Çayı
+Viçine Deresi
+Vihik Deresi
+Vişneli Çayı
+Yağ Çayı
+Yağal Deresi
+Yağan Deresi
+Yağcı Deresi
+Yağcılar Deresi
+Yağcılı Çayı
+Yağcılı Derersi
+Yağcılı Deresi
+Yağlılar Deresi
+Yağız Deresi
+Yahyalıözü Deresi
+Yaka Deresi
+Yakaağıl Deresi
+Yakacık
+Yakakent Çayı
+Yakupkaynak Deresi
+Yalakoda Deresi
+Yalancı
+Yalaza
+Yallu
+Yalnızpınar Deresi
+Yalvaç Çayı
+Yamaçlı
+Yaman Deresi
+Yan Deresi
+Yanarsu Çayı
+Yanbolu Çayı
+Yangılı
+Yanmış Deresi
+Yanıcak Çayı
+Yanık
+Yanıkağıl Deresi
+Yanıkdeğirmen Suyu
+Yanıkkaya Deresi
+Yanıktaş Deresi
+Yanıkyurt
+Yapraklı Deresi
+Yar Deresi
+Yaralı
+Yaranoluk Deresi
+Yarbaşı Deresi
+Yarlı
+Yarözü Deresi
+Yarpuz Çayı
+Yarpuzlu Çayı
+Yarıkkaya Deresi
+Yarıklıpınar Deresi
+Yarımcalar Deresi
+Yassı
+Yassıalan Deresi
+Yassıçayır Deresi
+Yassıgeçit Deresi
+Yassıgeçit Deresı
+Yassıtaş Deresi
+Yatansöğüt
+Yavru Deresi
+Yavrucak Çayı
+Yavuz Deresi
+Yaygın Deresi
+Yaylabaşı Deresi
+Yaylaçayır Deresi
+Yaylagediği Deresi
+Yaylaköy Deresi
+Yaylalar Deresi
+Yaylaoluğu Deresi
+Yaylaönü Deresi
+Yaylapınar Deresi
+Yaylasuyu
+Yaylayurt Deresi
+Yaylım Deresi
+Yayılyatak Deresi
+Yazı Deresi
+Yazır Çayı
+Yediçatak Deresi
+Yediçukur Deresi
+Yedikardeş Deresi
+Yedikuyu
+Yedipınar Deresi
+Yelli Deresi
+Yellice
+Yelliharman Deresi
+Yellik Deresi
+Yelliyurt Deresi
+Yelten Deresi
+Yemişli Çayı
+Yenibardak Çayı
+Yenibe Deresi
+Yeniçavuş Çayı
+Yenice
+Yenice Irmağı
+Yenicuma Deresi
+Yenidere Çayı
+Yeniköprü Çayı
+Yeniköprü Deresi
+Yenisu Çayı
+Yeniyayla Deresi
+Yeniyokuş Deresi
+Yeri Deresi
+Yerköprü Deresi
+Yerlisu Deresi
+Yesemek Çayı
+Yeşilyurt Deresi
+Yeşilırmak
+Yiğitler
+Yirce Deresi
+Yoğurt Deresi
+Yolaçan Deresi
+Yolboyu
+Yollu Deresi
+Yomra Deresi
+Yonca
+Yoncalı
+Yoncalı Deresi
+Yörük Deresi
+Yorulmaz
+Yozgat Deresi
+Yücelen Deresi
+Yudamid Deresi
+Yukarı Ağaçlı
+Yukarıçamlıca Deresi
+Yukarıköy Deresi
+Yukarıkuşlu Deresi
+Yukarıkuvare Deresi
+Yukarıova Deresi
+Yukarıöz Deresi
+Yukarısaksan Deresi
+Yukarışeytan Deresi
+Yukarısoksan Deresi
+Yukarıyatağın Deresi
+Yumacık Çayı
+Yüncüler Deresi
+Yunlacık Deresi
+Yunus Deresi
+Yunuslar Deresi
+Yürek Deresi
+Yürük Deresi
+Yusufca Deresi
+Yusufoğlu Deresi
+Yuvacık Deresi
+Yuvalı Deresi
+Yüzan
+Yılan Deresi
+Yılan Pınarı
+Yılancı Deresi
+Yılaneni
+Yılanlı Suyu
+Yılanlıöz
+Yılanlıöz Deresi
+Yıldırım Çayı
+Yıldız
+Yıldız Deresi
+Yıldız Irmağı
+Yıldızeli Irmağı
+Yılgın Deresi
+Zağlı Deresi
+Zamantı Irmağı
+Zamevan Deresi
+Zamok Deresi
+Zaratta Deresi
+Zarbana Deresi
+Zarköy Deresi
+Zarova
+Zarova Çayı
+Zavik Çayı
+Zeki
+Zelha Deresi
+Zerin Deresi
+Zerva Çayı
+Zeytin Deresi
+Ziflik Deresi
+Zigam Deresi
+Zighin
+Zigir Suyu
+Ziku
+Zilla
+Zilli
+Zimar Çayı
+Zinahor Deresi
+Zinar Deresi
+Zindan Çayı
+Zindan Deresi
+Zini Deresi
+Ziyade Deresi
+Ziyaret Çayı
+Zora Deresi
+Zorköy Deresi
+Zozan Deresi
+Zıgır

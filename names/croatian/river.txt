@@ -1,0 +1,533 @@
+Duboki	4
+Matica	4
+Velika	4
+Bistra	3
+Brezna	3
+Crni	3
+Dobra	3
+Jaruga	3
+Kamenica	3
+Kamešnica	3
+Krapina	3
+Rakovac	3
+Suvaja	3
+Tisovac	3
+Veliki	3
+Berava	2
+Bijela	2
+Brana	2
+Brezik	2
+Breznica	2
+Brežnica	2
+Čemernica	2
+Crna	2
+Crnaja	2
+Danguba	2
+Dugovac	2
+Glinica	2
+Glogovac	2
+Glogovica	2
+Glogovnica	2
+Golinja	2
+Ilova	2
+Jadova	2
+Korana	2
+Krajna	2
+Krivajac	2
+Lomnica	2
+Lonja	2
+Mala	2
+Mrežnica	2
+Neteča	2
+Osatno	2
+Plitvica	2
+Ričica	2
+Točak	2
+Toplica	2
+Vrbica	2
+Vučica	2
+Zelina	2
+Babina
+Babina Voda
+Baćinac
+Bačkovica
+Badušnica
+Bakotinac
+Bakovac
+Balatin
+Barakovac
+Barna
+Barski
+Baščica
+Bašinac
+Bašinica
+Batina
+Bečka
+Bedenić
+Bednja
+Beravica
+Besnica
+Bezavina
+Bijelovarska
+Bitulja
+Biđ
+Bjeliševka
+Blatni
+Blatnica
+Blatuški Jarak
+Blizna
+Bogdanica
+Bogdanovački Savak
+Bojna
+Boljunščica
+Borza
+Bozara
+Brajnovac
+Brebernica
+Bregana
+Brekinska
+Brestača
+Bribišnica
+Bršljanica
+Brućina
+Brušanica
+Brusovača
+Brzaja
+Brždanica
+Bublen
+Buhača
+Bujinjska
+Bukovica
+Buna
+Burnjak
+Butišnica
+Butoniga
+Buzeta
+Bužimnica
+Bzenički
+Čabranka
+Časma
+Čatlan
+Čavlovica
+Čađavica
+Černec
+Česma
+Cetina
+Ciglenski
+Čikola
+Cipalovac
+Čipri
+Čivičevac
+Ćorića
+Ćosin
+Čovanov
+Crljena
+Crnac
+Crnava
+Crnica
+Crnka
+Čukurski
+Ćurčinica
+Dabar
+Dabašnica
+Dabčevica
+Desanka
+Dišnica
+Dobra Voda
+Dobravica
+Dobrenica
+Dobrinovac
+Dočak
+Doljanovačka
+Donkovica
+Došnica
+Drabranica
+Dragaljevački
+Dragaljica
+Draški
+Dubočanka
+Dubovac
+Dubrovačka
+Dujic
+Dujić
+Dulepski
+Dužica
+Emovački
+Fekete Víz
+Furjašnica
+Gardun
+Garešnica
+Gejkovac
+Gelina
+Glavničica
+Gliboki
+Glibuša
+Glina
+Globornica
+Glomočnica
+Gmizinac
+Gnojnica
+Gorućica
+Gozdna
+Grab
+Grabovčić
+Grabovica
+Gračanica
+Gračenica
+Gračev
+Gratevica
+Graverje
+Grbavac
+Grozničavac
+Grđevica
+Guduča
+Hajderovac
+Hercegovac
+Horvatska
+Iskrica
+Jadro
+Jamarička
+Jancev Jarak
+Janoska
+Janska
+Jarak
+Jasenov
+Jaslina
+Javnica
+Javor
+Javorak
+Javorica
+Javošnica
+Jazavčine
+Jažine
+Jelenski
+Jelovac
+Jokinovac
+Joševica
+Josina
+Jovac
+Kalabin Jarak
+Kapraljevac
+Kaptolački Jarak
+Kaptolka
+Karakašica
+Karašica
+Kašina
+Kašnica
+Katalena
+Kerekuš
+Keser
+Kijač
+Kikovac
+Kišaljevac
+Kiseli
+Kladavac
+Kladnik
+Kladovac
+Klaturinski Jarak
+Kljunovac
+Kloštarski
+Komarnica
+Konačka
+Konjuša
+Kopačica
+Koprivnica
+Korenička
+Koritanj
+Koritarica
+Kosanovica
+Kosni
+Košnica
+Kosovčić
+Kostanjevica
+Koštarica Jarak
+Kostelina
+Kosteljina
+Kostelka
+Kostiševac
+Kovačevac
+Kovačica
+Kozarevac
+Krajnovic
+Krapinica
+Kravarina
+Kravarščica
+Krčevi
+Krčevinski Jarak
+Krčić
+Krivaja
+Krivajšćica
+Križanec
+Krka
+Krpanovac
+Krupa
+Kupa
+Kupčina
+Kupina
+Kupusnica
+Kustošija
+Kutina
+Kutjevačka
+Laništa
+Lanište
+Latički
+Lepenica
+Ličanka
+Lipnica
+Lisćica
+Lisna
+Listovački
+Ljaljinovac
+Ljeskovac
+Ljubanj
+Ljubina
+Ljuboviti
+Ljuta
+Lončarski
+Londža
+Lovski
+Lučica
+Luke
+Mačkov
+Macutan
+Magovac
+Maja
+Majdanski
+Mala Bojna
+Mala Ljubina
+Mala Neretva
+Mala Petrinjčica
+Mala Trepča
+Mala Utinja
+Mali Dunav
+Maljevac
+Marijental
+Markovac
+Markovački
+Marlinska
+Mekinjača
+Mersunja
+Međenjak
+Milašinovac
+Miletina
+Miljašié Jaruga
+Mislina
+Mlinarica
+Mlinski
+Moravnik
+Moštanica
+Moštanik
+Mračaj
+Mrtva Odra
+Munjava
+Muratovica
+Neretva
+Nespeš
+Neukušić
+Nikolin
+Ninkovača
+Ninkovački
+Norin
+Novčica
+Novska
+Obdina
+Obsenica
+Odra
+Odžin
+Okruglica
+Oljački
+Olovni
+Orljava
+Orljavica
+Osatina
+Oslavica
+Otešica
+Otuča
+Ovrlija
+Ozrnski
+Paklenica
+Panovski
+Paric
+Paripov
+Patkovec
+Pavlovac
+Pazarišnica
+Pećka
+Pedljevica
+Peratovica
+Perenački
+Perna
+Petkovac
+Petnja
+Petrinjčica
+Počiteljica
+Pokotina
+Poljovarski Jarak
+Polomac
+Popovača
+Postevski
+Požanja
+Prokopac
+Prolom
+Prosinja
+Prunjak
+Rabac
+Rabinja
+Rabra
+Račačka
+Radakovac
+Radašnica
+Radljevac
+Radonja
+Radovanka
+Radovica
+Radulovački
+Rakitovec
+Raša
+Rastača
+Ratković
+Ravna
+Ravnik
+Reljin Jarak
+Remetska
+Rešetarica
+Ribnjak
+Rinovica
+Rječica
+Rječina
+Rogoljica
+Rogulj
+Rolban
+Rosinac
+Ruda
+Rumin
+Ruščica
+Ruševica
+Šajatov
+Saračevac
+Sartuk
+Šašinački Jarak
+Satnik
+Satulija
+Savak
+Selečka
+Senica
+Severinski
+Sija
+Siljak
+Sinačka Pućina
+Sitanski
+Sivac
+Skočinovac
+Skopčenjak
+Skorotinci
+Slana Jaruga
+Slatina
+Slatka Voda
+Sočanica
+Sokolina
+Sovinjak
+Spačva
+Splavnica
+Sredska
+Srnac
+Stara Drava
+Stara Lonja
+Stara Novska
+Stara Trnava
+Stara Vučica
+Stinjevac
+Stinjevački
+Stražemanka
+Stubljarica
+Studena
+Studenac
+Studeni
+Studenjak
+Stupnica
+Subocka
+Suha Struga
+Sunja
+Sušica
+Sutla
+Suvodol
+Svedružica
+Svinica
+Svinjca
+Svinjčine
+Ternovac
+Tetka
+Tolnica
+Tomićev Jarak
+Topala
+Tounjčica
+Trnava
+Trnava Murska
+Trnovac
+Trnovitica
+Urljajski
+Utinja
+Vagančica
+Vagovina
+Velebitski
+Veleška
+Veličanka
+Velika Bojna
+Velika Kamešnica
+Velika Ljubina
+Velika Osatina
+Velika Pecka
+Velika Petrinjčica
+Velika Ravninčica
+Velika Trepča
+Velika Utinja
+Velika Vrankovača
+Velinac
+Vérgamási Arok
+Vetovka
+Vezovac
+Vidor
+Vilar
+Virina
+Virovi
+Vlakanac
+Voča
+Voćarica
+Vočinska
+Vojlovica
+Vojsek
+Vojskova
+Volinjska
+Vranic
+Vranovac
+Vranovački
+Vrba
+Vrbak
+Vrbova
+Vrela
+Vrljika
+Vučjak
+Vugrov
+Vujanića
+Vuka
+Vulinački
+Žabnjača
+Zagulin
+Zamjevac
+Žaruvnica
+Zdela
+Ždernica
+Željan
+Žervanjski
+Zgorelica
+Žirovačka Vrlanda
+Žirovnica
+Žižinka
+Zrinčića
+Zrmanja
+Žrnovnica
+Žrvnica
+Zukva
+Žutnica
+Ðakovica
+Ðurin
