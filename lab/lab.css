@@ -6,7 +6,11 @@ body.lab-page{display:block;overflow:auto;height:auto;min-height:100vh}
 .lab-bar{display:flex;align-items:center;gap:14px;padding:0 14px;height:52px;flex:none;
   border-bottom:1px solid var(--line);background:var(--panel)}
 .lab-bar>b{font:600 15px var(--sans)}
-.lab-home{color:var(--dim);text-decoration:none;display:flex;align-items:center;gap:4px}
+.lab-home{color:var(--dim);text-decoration:none;display:flex;align-items:center;gap:14px}
+/* The game header's wordmark, a little smaller for the thinner bar. */
+.lab-logo{height:20px;flex:none}
+.lab-index-logo{display:block;height:28px;margin-bottom:18px}
+.lab-home>span{display:flex;align-items:center;gap:4px;padding-left:14px;border-left:1px solid var(--line)}
 .lab-home:hover{color:var(--accent)}
 .lab-tools{margin-left:auto;display:flex;align-items:center;gap:8px}
 .lab-tab,.lab-btn{padding:5px 11px;border:1px solid var(--line2);border-radius:7px;background:var(--panel2);color:var(--ink2)}
@@ -94,30 +98,48 @@ body.lab-page{display:block;overflow:auto;height:auto;min-height:100vh}
 .lab-card .shipsheet>svg{max-height:260px}
 .lab-field input[type=color]{padding:0;width:42px;height:24px}
 
-/* Ship lab: three columns. The left column picks the body, the paint and
-   the room layout. The centre fills the rest of the page with one ship.
-   The right column holds the settings. Each side column scrolls on its
-   own. */
+/* Ship lab: three columns. The left column picks the body, the class,
+   the room layout and the paint, then lists the shipped ships. Only that
+   list scrolls. The centre fills the rest of the page with one ship. The
+   right column holds the settings and scrolls on its own. */
 .lab-ship3{display:grid;grid-template-columns:270px minmax(0,1fr) 410px;flex:1;min-height:0}
 .lab-col{overflow:auto;min-height:0;background:var(--panel)}
-.lab-left{border-right:1px solid var(--line);padding:4px 0 18px}
+.lab-left{border-right:1px solid var(--line);display:flex;flex-direction:column;overflow:hidden}
+.lab-picks{flex:none;display:flex;flex-direction:column;gap:8px;padding:12px 12px 10px;border-bottom:1px solid var(--line)}
+.lab-pick-label{display:flex;justify-content:space-between;align-items:center;margin:0 0 3px;
+  font:600 10.5px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.lab-pick-label kbd{font:10px var(--mono);letter-spacing:0;text-transform:none;color:var(--faint);
+  padding:0 4px;border:1px solid var(--line2);border-radius:3px}
+.lab-pick-row{display:grid;grid-template-columns:26px minmax(0,1fr) 26px 30px;gap:4px;align-items:center}
+.lab-pick-row select{height:28px;min-width:0;padding:0 6px;background:var(--panel2);color:var(--ink);
+  border:1px solid var(--line2);border-radius:6px;font:inherit;font-size:12.5px}
+.lab-pick-row select:focus{outline:none;border-color:var(--accent)}
+.lab-step{height:28px;display:grid;place-items:center;padding:0;border:1px solid var(--line2);border-radius:6px;
+  background:var(--panel2);color:var(--ink2);font-size:14px}
+.lab-step:hover{background:var(--raise)}
+.lab-dice.on{border-color:var(--accent);color:var(--accent)}
+.lab-pick-row .lab-swatches{justify-content:center;gap:2px}
+.lab-pick-row .lab-swatches i{width:8px;height:20px;border-radius:2px}
+.lab-ship-list{flex:1;min-height:0;overflow:auto;padding:0 0 10px}
+.lab-ship-item b{font-weight:500}
+.lab-ship-item span{text-transform:capitalize}
 .lab-right{border-left:1px solid var(--line);padding:10px;display:flex;flex-direction:column;gap:10px}
-.lab-subgroup{padding:8px 14px 2px;font:600 11.5px var(--sans);color:var(--ink2);text-transform:capitalize}
-.lab-body-item{flex-direction:column;gap:1px}
-.lab-body-item small{color:var(--dim);font-size:11px;line-height:1.35}
 .lab-swatches{display:flex;gap:3px;align-items:center}
 .lab-swatches i{width:14px;height:14px;border-radius:3px;border:1px solid rgba(255,255,255,.18)}
 .lab-centre{display:flex;flex-direction:column;min-width:0;min-height:0;padding:10px 14px 14px;gap:8px}
-.lab-centre-head{display:flex;align-items:center;gap:8px 18px;flex-wrap:wrap}
-.lab-tabs{display:flex;gap:6px}
-.lab-centre-head .lab-title{margin:0}
-.lab-parts{font:11px var(--mono)}
+.lab-centre-head{display:flex;align-items:center;gap:8px 18px}
+.lab-tabs{display:flex;gap:6px;flex:none}
+.lab-parts{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font:11px var(--mono);color:var(--faint)}
 .lab-stage{position:relative;flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:9px;
   background:#08090B;cursor:grab;touch-action:none;user-select:none}
 .lab-stage.dragging{cursor:grabbing}
 .lab-stage-inner{position:absolute;inset:0;transform-origin:0 0;padding:14px}
 .lab-stage-inner .shipsheet{width:100%;height:100%;border:0;border-radius:0}
 .lab-stage-inner .shipsheet>svg{width:100%;height:100%;max-height:none;aspect-ratio:auto!important;padding:0}
+/* The deck plan fills the stage like the sheet, with its title block at the foot. */
+.lab-stage-inner .blueprint{display:flex;flex-direction:column;width:100%;height:100%;margin:0;border:0;border-radius:0}
+.lab-stage-inner .bp-title{padding-right:52px}
+.lab-stage-inner .blueprint>svg{flex:1;min-height:0;height:auto;max-height:none;aspect-ratio:auto!important}
 .lab-zoom{position:absolute;right:10px;bottom:10px;display:flex;flex-direction:column;gap:6px;z-index:2}
 .lab-zoom .lab-btn{width:32px;height:32px;padding:0;display:grid;place-items:center;font-size:16px}
 .lab-stage-hint{position:absolute;left:12px;bottom:8px;margin:0;color:var(--faint);font-size:11px;pointer-events:none}
@@ -153,7 +175,7 @@ body.lab-page{display:block;overflow:auto;height:auto;min-height:100vh}
 .lab-search{display:flex;align-items:center;gap:6px;padding:0 8px;border:1px solid var(--line2);border-radius:7px;background:var(--panel2);color:var(--dim)}
 .lab-search:focus-within{border-color:var(--accent)}
 .lab-search input{flex:1;min-width:0;border:0;background:none;color:var(--ink);font:inherit;font-size:12.5px;padding:6px 0;outline:none}
-.lab-tabs{display:grid;grid-template-columns:1fr 1fr;gap:4px;padding:3px;border-radius:8px;background:var(--panel2)}
+.lab-browse-head .lab-tabs{display:grid;grid-template-columns:1fr 1fr;gap:4px;padding:3px;border-radius:8px;background:var(--panel2)}
 .lab-seg{display:flex;justify-content:center;align-items:baseline;gap:6px;padding:4px 8px;border-radius:6px;color:var(--dim);font-weight:500}
 .lab-seg span{font-size:11px;color:var(--faint)}
 .lab-seg.on{background:var(--raise);color:var(--ink)}

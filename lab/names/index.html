@@ -1,0 +1,30 @@
+<!doctype html>
+<!--
+  The generator labs. Each lab runs one generator of the game on its own,
+  with the embedded content, so a change shows without signing in.
+  The path picks the lab: /lab/ships/, /lab/portraits/ or /lab/names/.
+  /lab/ lists the labs. Every lab path loads this same page, so the links
+  below are absolute. Build the module with ./build-lab.sh.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lost Harbor labs</title>
+<link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@500;700&family=Roboto+Mono:wght@400;500;700&family=Rubik:wght@400;500;600&display=swap" rel="stylesheet">
+<!-- The game styles give the drawings their look. lab.css lays out the page. -->
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/lab/lab.css">
+<script type="module">
+  import init from "/lab/pkg/lh_lab.js";
+  init().catch((e) => {
+    console.error(e);
+    document.body.innerHTML = '<p style="padding:24px;font:14px system-ui;color:#E57373">The lab failed to load. Run ./build-lab.sh and reload.</p>';
+  });
+</script>
+</head>
+<body class="lab-page"></body>
+</html>

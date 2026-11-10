@@ -50,10 +50,9 @@ kbd{font:500 10.5px var(--mono);background:var(--raise);border:1px solid var(--l
 
 /* ── header ─────────────────────────────── */
 header.top{display:flex;align-items:center;gap:14px;padding:0 14px;border-bottom:1px solid var(--line);background:var(--panel)}
-/* The ring spans y 4..96 of the 100-unit viewBox and sets the apparent height.
-   The image is 57px tall in a 55px row, so the ring sits about 1px from each edge.
-   The negative margins keep the image from growing the header. */
-.top-logo{height:57px;margin:-1px 0;flex:none}
+/* The header shows the bare wordmark, without the ring of the sign-in logo.
+   Its 40-unit viewBox is cropped close to the letters. */
+.top-logo{height:24px;flex:none}
 /* user menu */
 .umenu{position:fixed;z-index:75;min-width:240px;background:var(--panel2);border:1px solid var(--line2);border-radius:12px;
   box-shadow:0 16px 44px rgba(0,0,0,.5);padding:5px;display:flex;flex-direction:column}
