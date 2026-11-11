@@ -39,7 +39,6 @@
      Piloting mode widens the left column (see the rule below). */
   --lw-user:364px;--rw-user:464px;
 }
-body[data-mode="piloting"] .cols{--lw:calc(var(--lw-user) + 56px)}
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%}
 body{background:var(--bg);color:var(--ink);font:13px/1.45 var(--sans);overflow:hidden;
@@ -558,7 +557,7 @@ footer .r kbd{font-size:9.5px;padding:0 4px}
 
 /* mode visibility */
 body[data-mode="walking"] .m-pilot, body[data-mode="walking"] .m-build{display:none!important}
-body[data-mode="piloting"] .m-walk, body[data-mode="piloting"] .m-build{display:none!important}
+body[data-mode="controlling"] .m-walk, body[data-mode="controlling"] .m-build{display:none!important}
 body[data-mode="building"] .m-walk, body[data-mode="building"] .m-pilot{display:none!important}
 
 @media (max-width:1680px){
@@ -1075,6 +1074,43 @@ body[data-mode=building] .mapcard .mapwrap{min-height:150px}
 .chartwrap.docked .ctools .iconbtn{width:24px;height:24px}
 .chartwrap.pan:active{cursor:grabbing}
 .chartwrap svg.chart{position:absolute;left:0;top:0;display:block}
+.controlbar{gap:10px;flex-wrap:nowrap}
+.control-name{display:flex;flex-direction:column;flex:0 1 170px;white-space:normal}
+.control-name small{color:var(--faint);font-size:10px}
+.controlbar .pilotbar{display:flex;align-items:center;gap:10px}
+.control-menu{position:relative;font-size:11px;flex-shrink:0}
+.control-menu>summary{cursor:pointer;padding:5px 8px;border:1px solid var(--line);border-radius:5px}
+.control-menu-groups{position:absolute;top:calc(100% + 8px);left:0;z-index:40;display:flex;flex-direction:column;gap:5px;min-width:200px;max-height:60vh;overflow:auto;padding:8px;background:var(--panel);border:1px solid var(--line);border-radius:7px;box-shadow:0 8px 24px #0008}
+.control-menu-groups .control-actions{position:static;border:0;box-shadow:none}
+.control-group{position:relative;font-size:11px}
+.control-group summary{cursor:pointer;padding:5px 7px;border:1px solid var(--line);border-radius:5px}
+.control-actions{position:absolute;z-index:100;top:100%;left:0;min-width:120px;padding:5px;display:flex;flex-direction:column;gap:3px;background:var(--panel2);border:1px solid var(--line);border-radius:5px;box-shadow:0 6px 20px #0008}
+.control-choices{display:flex;flex-wrap:wrap;gap:10px}
+.galaxywrap{touch-action:none;cursor:grab;background:#0a0c0f}
+.wbody>.galaxywrap{margin:0;min-height:100%;border:0;border-radius:0}
+.galaxy-background,.galaxy-hole,.galaxy-core,.galaxy-you{pointer-events:none}
+.galaxy-hole .gx-glow{transform-box:fill-box;transform-origin:center;animation:gxglow 7s ease-in-out infinite}
+@keyframes gxglow{0%,100%{transform:scale(.93);opacity:.85}50%{transform:scale(1.07);opacity:1}}
+.galaxy-hole .gx-spin{transform-box:fill-box;transform-origin:center;animation:cspin 9s linear infinite}
+.galaxy-hole .gx-slow{animation-duration:16s}
+.galaxy-hole .gx-slow{animation-duration:16s}
+.galaxy-hole .gx-ring{transform-box:fill-box;transform-origin:center;animation:cspin 24s linear infinite reverse}
+body.reduce-motion .galaxy-hole *{animation:none!important}
+@media (prefers-reduced-motion:reduce){.galaxy-hole *{animation:none!important}}
+.galaxy-core{fill:#78909c;font-size:9px;letter-spacing:2px;opacity:.6}
+.galaxy-link{stroke:#657887;stroke-width:1;opacity:.65}
+.galaxy-system{cursor:pointer;outline:none}
+.galaxy-hit{fill:transparent}
+.galaxy-current{fill:none;stroke:var(--accent);stroke-width:1;stroke-dasharray:3 3;opacity:0}
+.galaxy-system.current .galaxy-current,.galaxy-system.selected .galaxy-current,.galaxy-system:focus-visible .galaxy-current{opacity:1}
+.galaxy-you{fill:var(--accent);font-size:8px;letter-spacing:1px}
+.galaxy-tools{display:flex;gap:3px;flex-wrap:wrap;max-width:calc(100% - 12px);z-index:2}
+.galaxy-tools .tbtn{padding:3px 5px;font-size:10px}
+.galaxy-summary{position:absolute;bottom:8px;left:8px;right:8px;background:#111820ed;border:1px solid var(--line);border-radius:6px;padding:8px;display:flex;flex-direction:column;gap:3px;cursor:default;font-size:11px}
+.galaxy-summary span{color:var(--faint)}
+.galaxy-preview{height:320px;display:flex}
+.galaxy-preview .galaxywrap{margin:4px 0}
+.galaxy-editor{padding:6px 10px;border-bottom:1px solid var(--line)}
 .chart .corb{fill:none;stroke:#2A323B;stroke-dasharray:3 5}
 .chart .cglow{pointer-events:none;transform-box:fill-box;transform-origin:center;animation:cglow 9s ease-in-out infinite}
 @keyframes cglow{0%,100%{transform:scale(.94);opacity:.8}50%{transform:scale(1.06);opacity:1}}
